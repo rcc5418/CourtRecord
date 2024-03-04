@@ -1,3 +1,72 @@
 body {
-    background: teal;
+    content: "";
+    background: white;
+    font-family: "Century Schoolbook";
+    position:relative
+}
+body::after {
+    content: "";
+    top:0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+    background-image: url(../images/courtroom.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+a:link {
+    color: red;
+    font-weight: bold;
+}
+a:visited {
+    color: gray;
+}
+.button {
+    border: .5vw;
+    border-style: outset;
+    border-color: #635805;
+    padding: 1vw;
+    background-color: #ffe9b3;
+    height: 10vw;
+    width: 7vw;
+    display: inline;
+    border-radius: 10px;
+    margin: 0 10px;
+    font-size: 1.25em;
+    opacity: 0.9;
+}
+p,
+ul {
+    line-height: 1.5em;
+    border: .5vw;
+    border-style: ridge;
+    border-style: outset;
+    border-color: white;
+    background-color: #00204f;
+    color: white;
+    width: 90%;
+    opacity: 0.9;
+    border-radius: 10px;
+    padding: 1vw;
+    margin: 0.5in 10px;
+    font-size: 1.25em
+}
+h2 {
+        line-height: 1.5em;
+    border: .5vw;
+    border-style: ridge;
+    border-style: outset;
+    border-color: #c9be73;
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 10px;
+    text-align: center;
+    color: #00204f;
+    margin: 0.5in 10px;
+    padding: 1vw;
+    font-size: 2.5em;
 }
