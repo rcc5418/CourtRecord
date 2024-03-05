@@ -7,7 +7,7 @@ import requests
 import os
 
 # ebb: This variable stores the website address that you want to scrape.
-archive_url = "https://queerworm.github.io/transcripts/bojack/"
+archive_url = "https://aceattorney.fandom.com/wiki/Category:Transcripts"
 
 def get_files():
     # create response object
@@ -16,18 +16,29 @@ def get_files():
     # create beautiful-soup object
     soup = bs4.BeautifulSoup(r.content, 'html.parser')
 
-    # find all links on web-page
-    for item in soup.select('a[href$=html]'):
-        href = archive_url + item['href']
-        download_links(href)
-    print("All tales downloaded!")
-    # ebb: After class I realized the print line indicating
-    # all files downloaded needed to go after THIS loop finished.
-    # Do you see why it makes sense and works here?
-    # Hint: it has to do with when we call the function download_links(href)
+    #getting all divs with this specific class (I think there's just one?)
+    div = soup.find('div', class_='category-page__members')
+
+    # Find all <a> elements within the div
+    links = div.find_all('a', href=True)
+
+    #The links in the text are relative, so I need to hand construct an absolute url for the reader.
+    base_url = "https://aceattorney.fandom.com"
+
+    #download each link from that div?
+    for link in links:
+        href = link['href']
+        #Look ma, I'm building a url!
+        absolute_url= base_url+href
+        download_links(absolute_url)
+
+    print("All transcripts downloaded!")
+
 def download_links(href):
     # obtain filename by splitting url and getting last string
-    file_name = href.split('/')[-1]
+    # I'm saving these as HTML files since that's how Alyssa is working with her starter file.
+    # This should be pretty easy to change if we want to!
+    file_name = href.split('/')[-1] + ".html"
     print("Downloading file: " + file_name)
 
     # create response object
@@ -35,7 +46,7 @@ def download_links(href):
 
     workingDir = os.getcwd()
     print("current working directory: " + workingDir)
-    fileDeposit = os.path.join(workingDir, 'bojack', file_name)
+    fileDeposit = os.path.join(workingDir, 'corpus', file_name)
     print(fileDeposit)
 
 
@@ -48,9 +59,6 @@ def download_links(href):
 
     return
 
-# ebb: Basically the line below initiates the whole program, sets it in motion.
-# On the line if __name__ == "__main__": ,
-# see: https://medium.com/@j.yanming/debugging-from-main-to-main-in-python-fe2a9784b36
 if __name__ == "__main__":
 
     # getting all links to files
