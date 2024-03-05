@@ -2,7 +2,8 @@ body {
     content: "";
     background: white;
     font-family: "Century Schoolbook";
-    position:relative
+    position:relative;
+    margin: 0;
 }
 body::after {
     content: "";
@@ -29,15 +30,15 @@ a:visited {
     border: .5vw;
     border-style: outset;
     border-color: #635805;
-    padding: 1vw;
+    padding: 0.5vw 1vw;
     background-color: #ffe9b3;
-    height: 10vw;
-    width: 7vw;
-    display: inline;
+    height: auto;
+    width: auto;
+    display: inline-block;
     border-radius: 10px;
-    margin: 0 10px;
     font-size: 1.25em;
     opacity: 0.9;
+    margin-bottom: 20px;
 }
 p,
 ul {
@@ -52,8 +53,8 @@ ul {
     opacity: 0.9;
     border-radius: 10px;
     padding: 1vw;
-    margin: 0.5in 10px;
-    font-size: 1.25em
+    font-size: 1.25em;
+    margin-bottom: 40px;
 }
 h2 {
         line-height: 1.5em;
@@ -66,7 +67,8 @@ h2 {
     border-radius: 10px;
     text-align: center;
     color: #00204f;
-    margin: 0.5in 10px;
     padding: 1vw;
     font-size: 2.5em;
+    margin-top: 0;
+    margin-bottom: 40px;
 }
