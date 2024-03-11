@@ -1,0 +1,266 @@
+
+(function() {
+    // Dynamic values from page request
+    
+var script = document.getElementById("celtra-script-1");
+if (!script || script.tagName.toLowerCase() !== 'script')
+    throw 'Element with id equal to scriptId does not exist or is not a script.';
+  
+    var runtimeParams = {"tagVersion":"html-standard-7","deviceInfo":{"deviceType":"Desktop","primaryHardwareType":"desktop","mobileDevice":false,"osName":"Windows","osVersion":"10","platform":"DesktopPlatform","platformVersion":null,"browserName":"Chrome","browserVersion":"122.0.0.0","browserRenderingEngine":"WebKit","vendor":null,"model":null},"weather":{"windy":"0","currentCondition":null,"apparentTemperature":7.0,"temperature":7.6,"windSpeed":1,"cloudCoverage":null,"conditions":null},"ipCountryCode":"US","ipRegionCode":null,"ipPrincipalSubdivisionCode":"PA","ipCityGeonameId":"5186266","ipCity":"Dallas","ipPostalCode":"18612","ipLat":41.3472,"ipLng":-75.9854,"accountId":"689b6903","folderId":"5ce359d8","placementId":"e44bcb95","supplierId":null,"sessionId":"s1709662227xb8ce633395bbfax91273256","purpose":"live","secure":1,"clientTimestamp":"1709661414.130","clientTimeZoneOffsetInMinutes":300,"clientIp":"73.175.76.166","gpsLat":null,"gpsLng":null,"language":"en","acceptLanguage":"en-US,en;q=0.9","platformAdvId":null,"platformAdvIdTrackingLimited":null,"userIdentifiers":{},"variantChoices":{"EventMetadata":"newMeta"},"neustarSegment":null,"authBasis":"1709662227795,de06ca91,e44bcb95","authToken":"68f527b6b04a8b9c8f72440cffb3f760","customAudiences":{},"derivedAudiences":{},"destinationDefinitions":[],"dynamicContent":[],"moatCustomAttributes":{},"admarvel_format":null,"overrides":{"placementId":"e44bcb95","customAudiences":{},"derivedAudiences":{},"deviceInfo":{"deviceType":"Desktop","primaryHardwareType":"desktop","mobileDevice":false,"osName":"Windows","osVersion":"10","platform":"DesktopPlatform","platformVersion":null,"browserName":"Chrome","browserVersion":"122.0.0.0","browserRenderingEngine":"WebKit","vendor":null,"model":null},"language":"en","ipCountryCode":"US","ipRegionCode":null,"ipPrincipalSubdivisionCode":"PA","ipCityGeonameId":"5186266","ipMetroCode":577,"ipCity":"Dallas","weather":{"windy":"0","currentCondition":null,"apparentTemperature":7.0,"temperature":7.6,"windSpeed":1,"cloudCoverage":null,"conditions":null},"clientTimestamp":"1709661414.130","clientTimeZoneOffsetInMinutes":300},"utSignals":null,"_mraidCheck":null,"fallbackSdk":null,"passthroughParameters":{},"googleMapsClientKey":"AIzaSyAJmo9Hworij5GwmtwzXojeKYRmxtZbQpM","shouldShowMapsPrompt":false,"pageSkinsHost":null,"pageSkinsPath":null,"stickToPageHeader":null,"externalAdServer":"DFPPremium","externalCreativeId":"138462650979","externalCreativeName":null,"externalPlacementId":"22446032598","externalPlacementName":null,"externalSiteId":"21784302409","externalSiteName":"fandom.com","externalSupplierId":null,"externalSupplierName":null,"externalLineItemId":"6511141390","externalSessionId":null,"externalBundleId":null,"externalCreativeWidth":null,"externalCreativeHeight":null,"externalCampaignId":"3355791000","externalCampaignName":null,"externalAdvertiserId":"4870923012","externalDestinationUrl":null,"clickUrl":"https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstHrSn6gEnF4mKlZ3L2cqfBItgGTUrYuiMj5mxVk99YKuJ2sG26gjjrny44Bi7ozxSljHWzWIwjCVzULXLPuPh45NJt1naOIb1PyXHY5LUhaJUnISs3d19HJ9XV_714KYHTGeeKGE_6WfvXYsbnYEdxtyUyVRQbiDepcjSEatYERI2tIPuPvRc2CuGNIaPFa2q7CfSnCROvqTa24fBUmrE3shGh2jsq0ma6Hs1iMvB6SJFldDBULXQDnJHwRNyXFrQfE488ZG-IgbbyoC03to698OzfJHb-qv22J4IlCH-kJpAiYB4W7UhsCbaBO_aT0ENuSUXls3z3TVNa6YOUfKX3euhFpsPuy8iX9sl7n9WO7FGWF1onW8wndD8O9u5ZUQlzcVhJMkEFpJ_XJllkELHaF9vfwWXUkv4cZFaLrOR5xx-2ISDC_UdBtFdmE0rcaYWGJE-6fGQ-6ouOjns9ADt7I5IQOGz_&sai=AMfl-YS4B6dVTxPVEKBz5MQCi1sPl51I9sasJPKE-URv-Ly6lZ5MQgowJWvH65M8U6u0keM79jG4gn37e30xvCAAnIvfTp-O2EnjFN2Qdy1fpX0EXFupz4AtelR96ARgH9Hu5kL9V7CS37bqWZ6kqpRRTg&sig=Cg0ArKJSzD4zGH99XlRYEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=","useClickAsDestination":null,"scriptId":"celtra-script-1","firehoseUrl":null,"clickEvent":"advertiser","clickUrlNeedsDest":null,"ncu":null,"firstPage":1,"dataURIsEnabled":0,"monotypeProjectId":"c46ed090-3671-4163-a85b-b06b4038ae38","iosAdvId":null,"iosAdvIdTrackingLimited":null,"androidAdvId":null,"androidAdvIdTrackingLimited":null,"moatRandom":{"first":1374571736,"second":370117800},"skipOffset":null,"_enablePoliteLoading":null,"massProductionPreview":null,"fontSubsetterIsDisabled":null,"_politeImageUrl":null,"_politeClickThrough":null,"sticky":null,"_mopubExt":null,"enabledServices":["contentSharing"],"creativeVariantLockSize":null,"screenIdLock":null,"vastVersion":null,"standalonePreview":null,"campaignExplorer":null,"exportingFirstFrame":null,"exportingFrameRate":null,"exportingVideoAssetBlobHash":null,"country":"US","productCategoryCode":null,"campaignName":"US Navy :: Q3 2022","agencyId":"ed3d71b6","customPartnerAttributeBrandId":null,"suppressCloseButton":null,"useComponentNameAsDataAttribute":null,"featureFlags":{"perAccountRateLimiting":true,"iOS17InlineVideoFix":true,"noConfigSkinPositioning":false,"inPlacementCreativeSwapping":false,"useGppCollector":false},"coppa":"0","expandDirection":"undefined","hostPageLoadId":"31561348340783213"};
+    runtimeParams.overridableClickThroughDestinationUrl = false;
+    runtimeParams.redirectJsClientTimestamp = new Date() / 1000;
+    
+    
+var macros = function (x) {
+    if (x instanceof Array) {
+        return x.map(macros);
+    } else {
+        var macroTags = [
+            ['%%CACHEBUSTER%%', (Math.random()+'').slice(2)]
+,['%ecid!', "138462650979"]
+,['%n', (Math.random()+'').slice(2)]
+,['%s', "https"]
+,['\\[timestamp\\]', (Math.random()+'').slice(2)]
+,['\\{celtraAccountId\\}', "689b6903"]
+,['\\{celtraAgencyId\\}', "ed3d71b6"]
+,['\\{celtraAndroidAdvIdTrackingLimitedBoolStr\\}', ""]
+,['\\{celtraAndroidAdvIdTrackingLimited\\}', ""]
+,['\\{celtraAndroidAdvId\\}', ""]
+,['\\{celtraCampaignId:int\\}', "1558403544"]
+,['\\{celtraCampaignId\\}', "5ce359d8"]
+,['\\{celtraCampaignName\\}', "US%20Navy%20%3A%3A%20Q3%202022"]
+,['\\{celtraCountryCode\\}', "US"]
+,['\\{celtraCreativeId:int\\}', "3724987025"]
+,['\\{celtraCreativeId\\}', "de06ca91"]
+,['\\{celtraCreativeVariant:urlenc\\}', ""]
+,['\\{celtraCreativeVariant\\}', ""]
+,['\\{celtraCustomPartnerAttribute\\[code\\]\\}', ""]
+,['\\{celtraExternalAdServer\\}', "DFPPremium"]
+,['\\{celtraExternalAdvertiserId\\}', "4870923012"]
+,['\\{celtraExternalBundleId\\}', ""]
+,['\\{celtraExternalCampaignId\\}', "3355791000"]
+,['\\{celtraExternalCampaignName\\}', ""]
+,['\\{celtraExternalCreativeId\\}', "138462650979"]
+,['\\{celtraExternalCreativeName\\}', ""]
+,['\\{celtraExternalDestinationUrl\\}', ""]
+,['\\{celtraExternalLineItemId\\}', "6511141390"]
+,['\\{celtraExternalPlacementId\\}', "22446032598"]
+,['\\{celtraExternalPlacementName\\}', ""]
+,['\\{celtraExternalSessionId\\}', ""]
+,['\\{celtraExternalSiteId\\}', "21784302409"]
+,['\\{celtraExternalSiteName\\}', "fandom.com"]
+,['\\{celtraExternalSupplierId\\}', ""]
+,['\\{celtraExternalSupplierName\\}', ""]
+,['\\{celtraFeedReportLabel\\}', ""]
+,['\\{celtraIosAdvIdTrackingLimitedBoolStr\\}', ""]
+,['\\{celtraIosAdvIdTrackingLimited\\}', ""]
+,['\\{celtraIosAdvId\\}', ""]
+,['\\{celtraPlacementId:int\\}', "3830172565"]
+,['\\{celtraPlacementId\\}', "e44bcb95"]
+,['\\{celtraPlatformAdvIdTrackingLimited\\}', ""]
+,['\\{celtraPlatformAdvId\\}', ""]
+,['\\{celtraProductCategoryCode\\}', ""]
+,['\\{celtraProto\\}', "https"]
+,['\\{celtraRandom\\}', (Math.random()+'').slice(2)]
+,['\\{celtraSessionId\\}', "s1709662227xb8ce633395bbfax91273256"]
+,['\\{celtraSupplierId:int\\}', ""]
+,['\\{celtraSupplierId\\}', ""]
+
+        ];
+        return macroTags.reduce(function(str, replacementRule, idx, arr) {
+            return str.replace(new RegExp(replacementRule[0], 'ig'), replacementRule[1] ? replacementRule[1] : '');
+        }, x);
+    }
+};
+
+    // Dynamic values that we do not want to pass forward in urls,
+    // so we look them up on every page request based on runtimeParams
+    var urlOpenedOverrideUrls = {};
+    var storeOpenedOverrideUrls = {};
+    var urlOpenedUrlAppendage = "";
+    var clickThroughDestinationUrl = null;
+
+    // Less dynamic values for payload request
+    var payloadBase = "https://cache-ssl.celtra.com/api/creatives/de06ca91/compiled/web.js";
+    var cacheParams = {"v": "107-aae0088520", "secure": 1, "cachedVariantChoices": "W10-", "isPurposePreview": 0, "eventMetadataExperiment": 'newMeta', "inmobi": typeof imraid !== 'undefined' && typeof _im_imai !== 'undefined' ? '1' : '0', "adx-in-banner-video": '1'};
+
+    
+    var trackers = (function() {
+    return [
+        // 3rd-party tracker (regular)
+function(event) {
+    if (event.name == 'adLoading')
+        return {urls: macros([])};
+
+    if (event.name == 'firstInteraction')
+        return {urls: macros([])};
+
+    if (event.name == 'creativeLoaded')
+        return {urls: macros([])};
+
+    if (event.name == 'creativeRendered')
+        return {urls: macros([])};
+
+    if (event.name == 'viewable00')
+        return {urls: macros([])};
+
+    if (event.name == 'viewable501')
+        return {urls: macros([])};
+
+    if (event.name == 'expandRequested')
+        return {urls: macros([])};
+
+    if (event.name == 'videoPlayInitiated')
+        return {urls: macros([])};
+
+    if (event.clazz === "MasterVideo") {
+        if (event.name == 'videoStart')
+            return {urls: macros([])};
+
+        if (event.name == 'videoFirstQuartile')
+            return {urls: macros([])};
+
+        if (event.name == 'videoMidpoint')
+            return {urls: macros([])};
+
+        if (event.name == 'videoThirdQuartile')
+            return {urls: macros([])};
+
+        if (event.name == 'videoComplete')
+            return {urls: macros([])};
+    }
+
+    if (event.name == 'videoPause')
+        return {urls: macros([])};
+
+    if (event.name == 'videoMuted')
+        return {urls: macros([])};
+
+    if (event.name == 'videoUnmuted')
+        return {urls: macros([])};
+
+    if (event.name == 'custom')
+        return {urls: macros({}[event.label] || [])};
+
+    if (event.name == 'urlOpened')
+        return {urls: macros({}[event.label] || [])};
+
+    if (event.name == 'storeOpened')
+        return {urls: macros({}[event.label] || [])};
+},
+// 3rd-party tracker (click regular)
+function(event) {
+    if (event.name === "urlOpened" && event.label === "https://ad.doubleclick.net/ddm/trackclk/N869.143372WIKIAINC/B31388187.386421151;dc_trk_aid=578023905;dc_trk_cid=209149307;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1")
+        return {urls: macros([]), events: [{name: 'click'}] };
+},
+// Ad server tracker
+function(event) {
+    if (event.name === "urlOpened" && event.label === "https://ad.doubleclick.net/ddm/trackclk/N869.143372WIKIAINC/B31388187.386421151;dc_trk_aid=578023905;dc_trk_cid=209149307;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=;dc_tdv=1")
+        return {urls: macros(["https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjstHrSn6gEnF4mKlZ3L2cqfBItgGTUrYuiMj5mxVk99YKuJ2sG26gjjrny44Bi7ozxSljHWzWIwjCVzULXLPuPh45NJt1naOIb1PyXHY5LUhaJUnISs3d19HJ9XV_714KYHTGeeKGE_6WfvXYsbnYEdxtyUyVRQbiDepcjSEatYERI2tIPuPvRc2CuGNIaPFa2q7CfSnCROvqTa24fBUmrE3shGh2jsq0ma6Hs1iMvB6SJFldDBULXQDnJHwRNyXFrQfE488ZG-IgbbyoC03to698OzfJHb-qv22J4IlCH-kJpAiYB4W7UhsCbaBO_aT0ENuSUXls3z3TVNa6YOUfKX3euhFpsPuy8iX9sl7n9WO7FGWF1onW8wndD8O9u5ZUQlzcVhJMkEFpJ_XJllkELHaF9vfwWXUkv4cZFaLrOR5xx-2ISDC_UdBtFdmE0rcaYWGJE-6fGQ-6ouOjns9ADt7I5IQOGz_&sai=AMfl-YS4B6dVTxPVEKBz5MQCi1sPl51I9sasJPKE-URv-Ly6lZ5MQgowJWvH65M8U6u0keM79jG4gn37e30xvCAAnIvfTp-O2EnjFN2Qdy1fpX0EXFupz4AtelR96ARgH9Hu5kL9V7CS37bqWZ6kqpRRTg&sig=Cg0ArKJSzD4zGH99XlRYEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl="]), events: [{name: 'clickReportedToSupplier'}] };
+}
+    ]
+})();
+    trackers.urlsAndEventsFor = function(event) {
+        return this.reduce(function(acc, tracker) {
+            var ue = tracker(event) || {};
+            return {
+                urls:   acc.urls.concat(ue.urls || []),
+                events: acc.events.concat(ue.events || [])
+            };
+        }, {urls: [], events: []});
+    };
+       
+
+    
+var adLoadingEvent = {"name":"adLoading","sessionId":"s1709662227xb8ce633395bbfax91273256"};
+adLoadingEvent.clientTimestamp = new Date/1000;
+
+trackers.urlsAndEventsFor(adLoadingEvent).urls.forEach(function(url) {
+    // On IE 8+ URLs containing '%' character sometimes throw an error and
+    // stop current JS run loop. One solution  would be to look for that
+    // and replace it with '%25', but we've decided not to modify incoming
+    // URLs, because this issue is really a combination of two external
+    // problems: broken URL on a buggy browser.
+    // https://celtra.atlassian.net/browse/MAB-4476
+    try {
+        var img = new Image;
+        
+        img.src = url;
+    } catch(e) {}
+});
+    
+
+    
+(function () {
+    runtimeParams.protoLoading = {};
+
+    var base64img = "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4wEKCBsN103sxwAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAC0lEQVQI12NgAAIAAAUAAeImBZsAAAAASUVORK5CYII=";
+
+    runtimeParams.protoLoading.dataLoadStatus = null;
+    // Test if CSP is blocking "data:" source for images
+    var dataImg = new Image();
+    dataImg.onload = function() {
+        runtimeParams.protoLoading.dataLoadStatus = "supported";
+    };
+    dataImg.onerror = function(e) {
+        runtimeParams.protoLoading.dataLoadStatus = "blocked";
+    };
+    dataImg.src = "data:image/png;base64," + base64img;
+
+    runtimeParams.protoLoading.blobLoadStatus = null;
+    // Test if CSP is blocking "blob:" source for images
+    var url = null;
+    try {
+        var binaryImg = atob(base64img);
+        var length = binaryImg.length;
+        var ab = new ArrayBuffer(length);
+        var ua = new Uint8Array(ab);
+        for (var i = 0; i < length; i++) {
+            ua[i] = binaryImg.charCodeAt(i);
+        }
+        var blob = new Blob([ab], {type: 'image/png'});
+        url = URL.createObjectURL(blob);
+    } catch(error) {
+        runtimeParams.protoLoading.blobLoadStatus = "error";
+        runtimeParams.protoLoading.blobErrorMessage = error.name + ': ' + error.message;
+        return;
+    }
+    var blobImg = new Image();
+    blobImg.onload = function() {
+        runtimeParams.protoLoading.blobLoadStatus = "supported";
+        URL.revokeObjectURL(url);
+    };
+    blobImg.onerror = function(e) {
+        runtimeParams.protoLoading.blobLoadStatus = "blocked";
+    };
+    blobImg.src = url;
+})();
+    
+
+    function buildPayloadUrl(payloadBase) {
+      var pairs = [];
+      for (var k in cacheParams)
+          pairs.push(encodeURIComponent(k) + '=' + encodeURIComponent(cacheParams[k]));
+      return payloadBase + '?' + pairs.join('&');
+    }
+
+    var payloadUrl = buildPayloadUrl(payloadBase);
+
+    
+// Request and run payload
+var payload = document.createElement('script');
+payload.src = payloadUrl;
+payload.onload = function() {
+
+runtimeParams.payloadJsClientTimestamp = new Date() / 1000;
+window.celtraDeviceInfoRuntimeParams = runtimeParams.deviceInfo;
+window.celtra.payloads[payloadUrl](script, runtimeParams, trackers, urlOpenedOverrideUrls, storeOpenedOverrideUrls, macros, urlOpenedUrlAppendage, clickThroughDestinationUrl);
+    
+};
+script.parentNode.insertBefore(payload, script.nextSibling);
+    
+    
+    
+    
+})();
+  
