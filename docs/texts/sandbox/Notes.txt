@@ -1,0 +1,2 @@
+This folder contains all unfinished files/files we're just tinkering with.
+It'll also be used to contain outdated or just unused files that we don't neccesarily want to delete.
