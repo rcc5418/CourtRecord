@@ -1,6 +1,5 @@
 body {
     content: "";
-    background: white;
     font-family: "Century Schoolbook";
     position:relative;
     margin: 0;
@@ -39,6 +38,7 @@ a:visited {
     font-size: 1.25em;
     opacity: 0.9;
     margin-bottom: 20px;
+    text-align: center;
 }
 p,
 ul {
@@ -54,7 +54,6 @@ ul {
     border-radius: 10px;
     padding: 1vw;
     font-size: 1.25em;
-    margin-bottom: 40px;
 }
 h2 {
         line-height: 1.5em;
@@ -70,5 +69,30 @@ h2 {
     padding: 1vw;
     font-size: 2.5em;
     margin-top: 0;
-    margin-bottom: 40px;
+}
+img.bio, img.bioReece{
+flex: 0;
+    max-width: 28%;
+    border: .7vw;
+    border-style: outset;
+    border-color: #ad9947;
+}
+.character_name {
+    font-size: 2em;
+    font-weight: bold;
+    margin-left: auto;
+    margin-top: 0;
+}
+p.characters {
+    flex: 1;
+}
+section.characters {
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
 }
