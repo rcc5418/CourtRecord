@@ -26,13 +26,13 @@
 <line speaker="Gregson">Oh, I don't know. Maybe because I've been confronted with a grimmer expression, eh?</line>
 <line speaker="Sholmes">Dear me... Are you going to take that insult lying down, Professor?</line>
 <line speaker="Harebrayne">Wha...? WHAT...? I DOOON'T KNOOOW!</line>
-<line speaker="Ryunosuke"><thought>Poor Professor...</thought></line>
+<line speaker="Ryunosuke">(Poor Professor...)</line>
 <line speaker="Gregson">Anyway, here's the paperwork you asked for.</line>
 <line speaker="Ryunosuke">What paperwork?</line>
 <line speaker="Sholmes">Ah, I took the liberty of requesting it yesterday. I have a feeling it may prove useful.</line>
 <line speaker="Gregson">You wouldn't believe the hoops I had to jump through to get this brought out of the archives. It's the Professor's autopsy report.</line>
 <line speaker="Susato">That... That mass murderer's?!</line>
-<line speaker="Ryunosuke"><thought>Who killed five members of the aristocracy...</thought></line>
+<line speaker="Ryunosuke">(Who killed five members of the aristocracy...)</line>
 <line speaker="Gregson">He was found guilty in a closed trial ten years ago now. It was all done under wraps. And he was quickly executed soon after the trial. ...It's all in here.</line>
 <line speaker="Ryunosuke">I, I don't know what to say! Thank you, Inspector!</line>
 <line speaker="Sholmes">Yes, much obliged, Gregson.</line>
@@ -43,16 +43,16 @@
 <line speaker="Susato">Yes. We expect the prosecution to summon him as a witness.</line>
 <line speaker="Harebrayne">I'm still amazed that you managed to find him in just one day... I really owe you both so much!</line>
 <line speaker="Bailiff">Counsel! And the defendant! The trial is about to resume. Kindly make your way into the courtroom at once!</line>
-<line speaker="Ryunosuke"><thought>This is it then. The final chapter. Funny. My heart's racing a little... I've not felt this before, actually. This strange foreboding... As if...something's going to happen in this trial that I'm not ready for. But I can't let that distract me from the only thing that really matters... Finding the truth!</thought></line>
+<line speaker="Ryunosuke">(This is it then. The final chapter. Funny. My heart's racing a little... I've not felt this before, actually. This strange foreboding... As if...something's going to happen in this trial that I'm not ready for. But I can't let that distract me from the only thing that really matters... Finding the truth!)</line>
 <line speaker="Judge">In the name of Her Majesty the Queen, I hereby declare this court to be in session again. We resume the public hearing of Albert Harebrayne, here present, who stands accused of murder. Are the counsels for the prosecution and defence ready to proceed?</line>
 <line speaker="Van Zieks">The prosecution is ready, My Lord.</line>
-<line speaker="Ryunosuke">......... The defence is ready, My Lord. <thought>As promised, Lord van Zieks has his apprentice with him. His apprentice with memory loss...</thought></line>
+<line speaker="Ryunosuke">......... The defence is ready, My Lord. (As promised, Lord van Zieks has his apprentice with him. His apprentice with memory loss...)</line>
 <line speaker="Susato">.........</line>
 <line speaker="Judge">If I may, Lord van Zieks...</line>
 <line speaker="Van Zieks">Yes, My Lord?</line>
 <line speaker="Judge">There appears to be someone standing at your side...</line>
 <line speaker="Van Zieks">Ah, yes. My apprentice and assistant. The prosecution believes today's proceedings will see the complexity of this case rise considerably. I therefore instructed my assistant to attend to ensure the smooth running of the trial.</line>
-<line speaker="Ryunosuke"><thought>And the smooth running of liquid refreshments, by the look of it...</thought></line>
+<line speaker="Ryunosuke">(And the smooth running of liquid refreshments, by the look of it...)</line>
 <line speaker="Susato">The way he holds himself... The way he moves... It couldn't be anyone else...</line>
 <line speaker="Ryunosuke">But he's still suffering from amnesia...so there's really nothing we can do at the moment.</line>
 <line speaker="Susato">I know, but... Oh, this is so very hard.</line>
@@ -73,7 +73,7 @@
 <line speaker="Judge">Yes, I heard this grave news yesterday. Scotland Yard submitted a report to my office in the evening. I read that the machine was blasted to smithers, and the wreckage reduced to ashes in the flames.</line>
 <line speaker="Van Zieks">I have here a photographic print of the scene, taken in the wake of the explosion. It shows what little remains of the machine.</line>
 <line speaker="Judge">Hm, yes... A terrible business...</line>
-<line speaker="Ryunosuke"><thought>He did it to destroy the evidence, did he?</thought></line>
+<line speaker="Ryunosuke">(He did it to destroy the evidence, did he?)</line>
 <line speaker="Susato">That Enoch Drebber...</line>
 <line speaker="Judge">The court will take this print as evidence, Counsel.</line>
 <line speaker="Van Zieks">Late yesterday afternoon... ...the protection afforded to the machine by the Special Dispensation for Scientific Equipment Act was revoked. However, before a thorough investigation could begin, the invention was obliterated from existence. As such...this will become a very different trial.</line>
@@ -81,7 +81,7 @@
 <line speaker="Van Zieks">As it stands now, with no evidence on which to draw meaningful conclusions... ...the authenticity of the kinesis machine will remain forever in obscurity.</line>
 <line speaker="Judge">Hm, indeed... A most unfortunate state of affairs.</line>
 <line speaker="Van Zieks">However, one thing remains clear: The victim's death was the result of the actions of the accused. Of that we can be certain. For it was the accused himself who was operating the machine and who ultimately caused its loss of control.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">As Lord van Zieks rightly says, this is a very different trial now.</line>
 <line speaker="Van Zieks">...!</line>
 <line speaker="Ryunosuke">The accused accepts responsibility for his part in the events that transpired. He acknowledges that Mr Asman died as a result of the accident caused by his machine's malfunction. However, unbeknownst to the professor... ...he was being deliberately deceived by a pair of very clever fraudsters.</line>
@@ -105,7 +105,7 @@
 <line speaker="Ryunosuke">What?</line>
 <line speaker="Judge">Good... Good gracious! Do you mean to say... ...that the experiment was bona fide? Is that your belief, sir?</line>
 <line speaker="Drebber">Yes, that is very much my belief. Such a waste that it blew up.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But we've already established the machine was nothing more than a prop for an elaborate conjuring trick!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">...!</line>
@@ -131,7 +131,7 @@
 <line speaker="Judge">Counsel for the Defence...your cross-examination, please!</line>
 <line speaker="Ryunosuke">Yes, My Lord!</line>
 <line speaker="Drebber">I met the young professor approximately one year ago, through Mr Asman's introduction.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you were already acquainted with Mr Asman himself?</line>
 <line speaker="Drebber">Not really. By chance, I'd seen his name mentioned in the papers, that's all. But I had no interest in his private affairs. If he was an unscrupulous investor, it was no concern of mine. As long as people pay their bills, I take up my tools and construct what they ask for.</line>
 <line speaker="Ryunosuke">So why did Mr Asman approach you in particular, then?</line>
@@ -141,17 +141,17 @@
 <line speaker="Van Zieks">In other words, the kinesis machine was built on solid scientific principles.</line>
 <line speaker="Drebber">Yes, you might say that. Professor Harebrayne certainly has a mind like no other.</line>
 <line speaker="Drebber">He provided me with the blueprints and I constructed the machine to his precise specifications. It was no trick.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">It's clear that you have both scientific knowledge and knowledge of conjuring magic, however.</line>
 <line speaker="Drebber">The more knowledge you have, the better equipped you are to handle whatever comes along. But your implication is that I furnished the machine with some trickery, I think.</line>
 <line speaker="Ryunosuke">It's a possibility that we have to explore.</line>
 <line speaker="Drebber">Unfortunately though, the machine has been blown to kingdom come. So there's really nothing left to explore...is there?</line>
 <line speaker="Van Zieks">It appears that the kinesis machine was fitted with a timed explosive device of some kind.</line>
 <line speaker="Drebber">And there's nothing left of that device either. Not a single shred of evidence remaining...I hear.</line>
-<line speaker="Ryunosuke"><thought>He must have planned all this from the outset.</thought></line>
+<line speaker="Ryunosuke">(He must have planned all this from the outset.)</line>
 <line speaker="Drebber">But in any case, it's abundantly clear that the experiment couldn't have been a trick.</line>
 <line speaker="Drebber">If the whole show was a fraud, it would have required a body double. Tell me...did the victim have a twin?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Of course! That's it! Mr Asman was a twin!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">No, I heard you before. ...But the thread of hope hadn't quite left me.</line>
@@ -162,7 +162,7 @@
 <line speaker="Susato">What are you thinking, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">Oh! No...nothing. Just that the idea of someone who looked identical to the victim is playing on my mind...</line>
 <line speaker="Drebber">All the spectators saw the birdcage appear above their heads and then crash headfirst into the Crystal Tower.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">It crashed 'headfirst', you say?</line>
 <line speaker="Drebber">According to the many witness reports from those there at the time, yes.</line>
 <line speaker="Ryunosuke">Were you not there at the exhibition grounds on the day?</line>
@@ -180,8 +180,8 @@
 <line speaker="Judge">Hm...</line>
 <line speaker="Van Zieks">What we do know is that the victim died having sustained both injuries at some point during the experiment. And since he was found in the birdcage with his neck broken...</line>
 <line speaker="Drebber">...It's obvious that he fell from a considerable height.</line>
-<line speaker="Ryunosuke"><thought>Hm... I suppose that's hard to deny...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(Hm... I suppose that's hard to deny...)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">We've examined the birdcage that crashed into the Crystal Tower ourselves. As you can see, the cage, which is a wooden construction, has sustained damage in one particular spot.</line>
 <line speaker="Van Zieks">Following the explosion, it fell some thirty feet into the glass of the Crystal Tower. That level of damage is to be expected, surely.</line>
 <line speaker="Ryunosuke">I agree. The damage itself is entirely understandable. What doesn't make sense... ...is the location of that damage.</line>
@@ -194,16 +194,16 @@
 <line speaker="Judge">Good gracious! Explain yourself, witness!</line>
 <line speaker="Drebber">I...well...</line>
 <line speaker="Van Zieks">If we examine the facts, there's only one logical conclusion we can draw. The damage on the base of the birdcage clearly indicates that it crashed tailfirst into the tower.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But multiple witness reports claim it fell headfirst!</line>
 <line speaker="Van Zieks">The birdcage materialised in the sky next to a balloon flying over the stage, following a spontaneous explosion. At an altitude of some sixty feet above ground level.</line>
 <line speaker="Susato">Which is approximately eighteen metres.</line>
 <line speaker="Van Zieks">It then proceeded to fall some thirty feet into the Crystal Tower in the ensuing deflagration. Witness reports amid such chaos...are notoriously unreliable.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But the victim's neck was broken!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Drebber">......... Kuh kuh kuh kuh kuh... A riveting scientific analysis of events from the prosecution there. Though to be even more rigorous, you would have to say it was only one vertebra, actually.</line>
-<line speaker="Ryunosuke">...! <thought>He wasn't quiet for long...</thought></line>
+<line speaker="Ryunosuke">...! (He wasn't quiet for long...)</line>
 <line speaker="Susato">I find it hard to see what's motivating Lord van Zieks. This witness is clearly a swindler, and one who deceived a personal friend of his.</line>
 <line speaker="Ryunosuke">......... 'If you're going to establish this deception, do it right.'</line>
 <line speaker="Susato">Sorry?</line>
@@ -212,10 +212,10 @@
 <line speaker="Ryunosuke">What?!</line>
 <line speaker="Judge">It seems to me that the cross-examination had better continue until we resolve this matter. Mr Drebber, you will amend your testimony with details of this 'truth'.</line>
 <line speaker="Drebber">Of course. We must treat the matter scientifically, after all.</line>
-<line speaker="Ryunosuke"><thought>Agh, I nearly had him there...</thought></line>
+<line speaker="Ryunosuke">(Agh, I nearly had him there...)</line>
 <line speaker="Drebber">.........</line>
 <line speaker="Drebber">The kinesis clearly took place, because there's nowhere else thirty feet high for the birdcage to have fallen from.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What do you mean?</line>
 <line speaker="Drebber">Well, before the demonstration began, the victim was alive on stage in front of the audience.</line>
 <line speaker="Ryunosuke">Yes...there are lots of witnesses who saw Mr Asman on the experimentation stage, that's true.</line>
@@ -225,10 +225,10 @@
 <line speaker="Judge">Hmmmmmm... A trenchant, scientific analysis. Dear me, every time I hear it explained, it sounds increasingly plausible.</line>
 <line speaker="Drebber">Oh yes. It's all very well thought out.</line>
 <line speaker="Susato">Certainly all the spectators on the day saw it. The birdcage plummeting thirty feet through the air, I mean.</line>
-<line speaker="Ryunosuke"><thought>Irritatingly, yes...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(Irritatingly, yes...)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Drebber">A terrible accident, I grant you. Perhaps the science on which the machine was built was flawed somehow?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you understood the science, did you?</line>
 <line speaker="Drebber">Not in the slightest.</line>
 <line speaker="Ryunosuke">Oh! Right...</line>
@@ -239,11 +239,11 @@
 <line speaker="Susato">Stand up for yourself, Mr Naruhodo!</line>
 <line speaker="Van Zieks">The point is, the experiment resulted in instantaneous kinesis taking place. As such, the science must be sound.</line>
 <line speaker="Drebber">Yes. And really, experimental results are all that matters when it comes to proving a hypothesis.</line>
-<line speaker="Ryunosuke"><thought>He's certainly very sure of himself...</thought></line>
+<line speaker="Ryunosuke">(He's certainly very sure of himself...)</line>
 <line speaker="Susato">What do you think, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">Well, now that the machine has been completely destroyed by yesterday's explosion... ...it's going to be impossible to argue its authenticity one way or the other.</line>
 <line speaker="Susato">But if we're unable to establish that it was a piece of stage trickery rather than genuine science... ...we will have no grounds on which to demonstrate Professor Harebrayne's innocence.</line>
-<line speaker="Ryunosuke">Both Mr Asman and this man in the stand tricked the professor and used him. They took advantage of his naivety and his unbending belief in his work...and I won't let them get away with it! <thought>And seeing as the professor is an old friend of Lord van Zieks... ...what on earth must he be feeling towards Drebber?</thought></line>
+<line speaker="Ryunosuke">Both Mr Asman and this man in the stand tricked the professor and used him. They took advantage of his naivety and his unbending belief in his work...and I won't let them get away with it! (And seeing as the professor is an old friend of Lord van Zieks... ...what on earth must he be feeling towards Drebber?)</line>
 <line speaker="Ryunosuke">This is a diagram of the experimentation stage and its surroundings.</line>
 <line speaker="Drebber">.........</line>
 <line speaker="Ryunosuke">We know that somehow, the birdcage appeared in mid-air before falling down into the Crystal Tower. A fall of about thirty feet...or nine metres. However, if you examine the diagram carefully... ...you'll see that there is one other possible location from which the birdcage could have fallen... ...the same distance of thirty feet.</line>
@@ -257,7 +257,7 @@
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">Huh?</line>
 <line speaker="Judge">And you may consider this a parting gift, Counsel.</line>
-<line speaker="Ryunosuke"><thought>Ugh... I feel like I've just hit the deck from thirty feet up anyway now...</thought></line>
+<line speaker="Ryunosuke">(Ugh... I feel like I've just hit the deck from thirty feet up anyway now...)</line>
 <line speaker="Judge">Don't give me recourse to make the next fall from sixty feet up, hm?</line>
 <line speaker="Ryunosuke">The place I'm referring to...is here!</line>
 <line speaker="Judge">But that's... ...where the birdcage would have been to begin with!</line>
@@ -282,12 +282,12 @@
 <line speaker="Van Zieks">Firstly... ...before and after the experiment, this witness went nowhere near the kinesis machine. Every relevant member of staff from the exhibition has attested to that.</line>
 <line speaker="Judge">And I believe members of Scotland Yard have also been on watch duty at every public experiment.</line>
 <line speaker="Van Zieks">In other words, Mr Drebber had no opportunity to switch the alleged pair of birdcages.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But I've already explained why he wouldn't have needed to!</line>
 <line speaker="Van Zieks">The nonsense with the crossbow? That doesn't bolster your case at all. The man who disappeared from the stage and the man who crashed into the tower are one and the same. The Forensic Investigation Team's report is unequivocal on that point!</line>
 <line speaker="Ryunosuke">Agh!</line>
 <line speaker="Van Zieks">And the second flaw in your assertion... ...is a distinct lack of motive. Why would this man have wanted to take the victim's life? He had no reason to do so.</line>
-<line speaker="Ryunosuke">A...a motive...? <thought>Do I have to think of everything myself?</thought></line>
+<line speaker="Ryunosuke">A...a motive...? (Do I have to think of everything myself?)</line>
 <line speaker="Van Zieks">I have here a contract provided by the witness.</line>
 <line speaker="Judge">What contract is this, Lord van Zieks?</line>
 <line speaker="Van Zieks">The contract into which Mr Drebber entered with the victim, Mr Asman. It reads: 'Mr Drebber is to receive thirty percent of all remunerations from government grants or other income.'</line>
@@ -300,7 +300,7 @@
 <line speaker="Van Zieks">Need I say more? The witness had neither an opportunity nor a reason to commit the alleged crime. In short, the possibility of Mr Drebber having done as you suggest...is nil.</line>
 <line speaker="Ryunosuke">Ugh... UWAAAAAAAAAH!</line>
 <line speaker="Judge">Hm... It seems the defence's assertion was somewhat wide of the mark. Lord van Zieks...you will submit the contract as evidence, please.</line>
-<line speaker="Ryunosuke"><thought>It's true... If Drebber had no opportunity to switch the birdcage under the stage with the one in the Crystal Tower... ...he couldn't have done it. And in any case, I have no idea what his motive might have been!</thought></line>
+<line speaker="Ryunosuke">(It's true... If Drebber had no opportunity to switch the birdcage under the stage with the one in the Crystal Tower... ...he couldn't have done it. And in any case, I have no idea what his motive might have been!)</line>
 <line speaker="Susato">There is one aspect of your argument... ...that still holds true, however.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Susato">There were two birdcages. The prosecution is unable to deny that.</line>
@@ -309,7 +309,7 @@
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Judge">Well, it would seem... ...that the defence has no rejoinder to offer.</line>
 <line speaker="Drebber">......... Kuh kuh kuh... Well, I must say I'm a little surprised. I came here to testify about the machine I built, and instead my reputation is defiled. But the prosecution's counter has set the record straight, I think. It's impossible that I'm the culprit.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">At the beginning of this trial, we believed that there was only one birdcage. Yet now we know there must have been two. In other words, there was more to the demonstration than we realised at first.</line>
 <line speaker="Drebber">.........</line>
 <line speaker="Ryunosuke">I think it's abundantly clear that the same applies to the culprit.</line>
@@ -324,16 +324,16 @@
 <line speaker="Van Zieks">If these accusations turn out to be false... ...then make no mistake: The prosecution will demand an equally serious punishment for your slander!</line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Judge">Well, Counsel? Do you intend to pursue this course, and formally accuse another party of involvement in this matter?</line>
-<line speaker="Ryunosuke">......... <thought>What do I do here? At the moment, this is little more than a hunch on my part. I don't know for sure if Drebber had an accomplice, or even if he really is the culprit here...</thought></line>
+<line speaker="Ryunosuke">......... (What do I do here? At the moment, this is little more than a hunch on my part. I don't know for sure if Drebber had an accomplice, or even if he really is the culprit here...)</line>
 <line speaker="Drebber">.........</line>
-<line speaker="Ryunosuke"><thought>One way or another, though, I have to make my position clear. ...As a lawyer. So what's my stance going to be? Did Drebber have an accomplice...or not?</thought></line>
-<line speaker="Ryunosuke"><thought>Let's face it, I have no idea who is accomplice might actually have been. Which isn't the strongest position to be in, is it, Ryunosuke?</thought></line>
+<line speaker="Ryunosuke">(One way or another, though, I have to make my position clear. ...As a lawyer. So what's my stance going to be? Did Drebber have an accomplice...or not?)</line>
+<line speaker="Ryunosuke">(Let's face it, I have no idea who is accomplice might actually have been. Which isn't the strongest position to be in, is it, Ryunosuke?)</line>
 <line speaker="Susato">Mr Naruhodo, think of the sword at your side. Karuma is crying out.</line>
 <line speaker="Ryunosuke">Sorry?</line>
 <line speaker="Susato">Crying out for you to show the strength of your conviction now as a lawyer.</line>
 <line speaker="Ryunosuke">...Yes, you're right. This sword that I inherited, which embodies the will of my best friend... ...is my own accomplice!</line>
 <line speaker="Susato">I'm not sure that's quite the right word, but...that's the spirit, certainly!</line>
-<line speaker="Ryunosuke">The defence is ready to name Mr Drebber's accomplice! <thought>Somehow the two birdcages must have been switched. Everything points to that. Yet according to the coroner's report, that's not a possibility. But that inconsistency itself is a clue!</thought></line>
+<line speaker="Ryunosuke">The defence is ready to name Mr Drebber's accomplice! (Somehow the two birdcages must have been switched. Everything points to that. Yet according to the coroner's report, that's not a possibility. But that inconsistency itself is a clue!)</line>
 <line speaker="Judge">Counsel...</line>
 <line speaker="Ryunosuke">Hm? ...My Lord?!</line>
 <line speaker="Judge">You have received a stark warning already. If you are nevertheless determined... ...then I must now ask you to identify this alleged accomplice by name. So...your answer, please. Who do you claim to have been Mr Drebber's accomplice?</line>
@@ -348,7 +348,7 @@
 <line speaker="Judge">No 'slip-ups' this time, please, Counsel.</line>
 <line speaker="Ryunosuke">The name of the person in question is...</line>
 <line speaker="Van Zieks">What's wrong, my Nipponese friend? Surely fear doesn't bind your tongue now. It's a little late for that.</line>
-<line speaker="Ryunosuke"><thought>Of course I'm afraid. After all, naming her in this capacity is definitely going to make waves. ...A lot of waves. I could very well turn every single person in this courtroom against me.</thought></line>
+<line speaker="Ryunosuke">(Of course I'm afraid. After all, naming her in this capacity is definitely going to make waves. ...A lot of waves. I could very well turn every single person in this courtroom against me.)</line>
 <line speaker="Susato">I'm sure it will be alright, Mr Naruhodo.</line>
 <line speaker="Ryunosuke">...Thank you, Miss Susato.</line>
 <line speaker="Susato">The enemy always appears larger than life. But you'll appear exactly the same to the enemy!</line>
@@ -372,10 +372,10 @@
 <line speaker="Ryunosuke">W-What?</line>
 <line speaker="Judge">Hmmm... Certainly, if the 'birdcage' containing the body of the victim was exchanged for another... ...that cage must also have contained a body.</line>
 <line speaker="Van Zieks">And yet... ...no missing persons or accidental deaths of anyone even remotely resembling the victim have been reported. Which means there was no one, dead or alive, who could have fulfilled the role of a body double for Mr Asman.</line>
-<line speaker="Ryunosuke">Ugh... <thought>That's true! If my argument is that there were two birdcages, then there must also have been one person inside each! But I don't know if I've got an answer to this yet, have I? What can I do to reveal how this body double stunt was achieved?</thought></line>
+<line speaker="Ryunosuke">Ugh... (That's true! If my argument is that there were two birdcages, then there must also have been one person inside each! But I don't know if I've got an answer to this yet, have I? What can I do to reveal how this body double stunt was achieved?)</line>
 <line speaker="Ryunosuke">Very well. The defence will address my learned friend's concerns... ...by revealing the identity of the person who acted as Mr Asman's body double!</line>
 <line speaker="Van Zieks">Be my guest. Give us a name.</line>
-<line speaker="Ryunosuke"><thought>The body double and the birdcage were hiding inside the balloon that was floating above the stage. Which means that any witnesses would only have seen them from sixty feet away. ...So who was it that appeared out of that explosion some eighteen metres above the spectators...?</thought> ......... Aha! In place of Mr Asman in the second birdcage was...</line>
+<line speaker="Ryunosuke">(The body double and the birdcage were hiding inside the balloon that was floating above the stage. Which means that any witnesses would only have seen them from sixty feet away. ...So who was it that appeared out of that explosion some eighteen metres above the spectators...?) ......... Aha! In place of Mr Asman in the second birdcage was...</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Judge">...I would not.</line>
 <line speaker="Van Zieks">Would anyone?</line>
@@ -386,12 +386,12 @@
 <line speaker="Ryunosuke">Very well. The defence will address my learned friend's concerns... ...by presenting evidence that reveals the true nature of Mr Asman's body double!</line>
 <line speaker="Judge">Good gracious! Evidence? I do hope this isn't filibustering, Counsel. The court is expecting a name.</line>
 <line speaker="Van Zieks">If you think you have relevant evidence, present it now.</line>
-<line speaker="Ryunosuke"><thought>The body double and the birdcage were hiding inside the balloon that was floating above the stage. Which means that any witnesses would only have seen them from sixty feet away. ...So who was it that appeared out of that explosion some eighteen metres above the spectators...?</thought> ......... Aha! The body double inside the second birdcage was...</line>
+<line speaker="Ryunosuke">(The body double and the birdcage were hiding inside the balloon that was floating above the stage. Which means that any witnesses would only have seen them from sixty feet away. ...So who was it that appeared out of that explosion some eighteen metres above the spectators...?) ......... Aha! The body double inside the second birdcage was...</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Susato">He's suggesting you and the evidence die together, Mr Naruhodo!</line>
-<line speaker="Ryunosuke">...Yes, that came across. <thought>It's hard to see how another person could have been inside the second birdcage. Which means the body double must have been something else...</thought></line>
+<line speaker="Ryunosuke">...Yes, that came across. (It's hard to see how another person could have been inside the second birdcage. Which means the body double must have been something else...)</line>
 <line speaker="Judge">I shall have to ask you to reconsider your answer, Counsel.</line>
 <line speaker="Ryunosuke">I can't explain that at the moment.</line>
 <line speaker="Van Zieks">Oh really. And when can the court expect an explanation?</line>
@@ -407,7 +407,7 @@
 <line speaker="Susato">It's alright, Mr Naruhodo. You're ready for this. Just steel yourself...and come out with it!</line>
 <line speaker="Ryunosuke">...Thank you, Miss Susato! I needed that. As I was saying...the 'body double' inside the second birdcage was... ...as unbelievable as it may seem...that thing there!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><thought>Stand firm now, Ryunosuke! This is the time to show your Japanese spirit!</thought> As the court will observe...this is a waxwork model. A model, in fact, of an infamous London murderer from ten years ago: the Professor!</line>
+<line speaker="Ryunosuke">(Stand firm now, Ryunosuke! This is the time to show your Japanese spirit!) As the court will observe...this is a waxwork model. A model, in fact, of an infamous London murderer from ten years ago: the Professor!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">...Yes! That's about the size of it.</line>
 <line speaker="Van Zieks">But why? And why THIS waxwork? It looks nothing like the victim. In fact, it could hardly resemble him less! What possible justification can you give?</line>
@@ -431,7 +431,7 @@
 <line speaker="Van Zieks">And that, to effect the deception, he used a waxwork model that in no way resembles the victim. Are we really to believe this far-fetched tale? What do you decide?</line>
 <line speaker="Juror No. 5">...!</line>
 <line speaker="Juror No. 6">...!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Wait! Yes, if you put it like that, of course it sounds implausible!</line>
 <line speaker="???">My Lord!</line>
 <line speaker="Juror No. 1">I need to speak, if you please.</line>
@@ -445,7 +445,7 @@
 <line speaker="Juror No. 5">Guilty!</line>
 <line speaker="Juror No. 6">Guilty!</line>
 <line speaker="Judge">So, as indicated by the foreman, the jury has reached a consensus.</line>
-<line speaker="Ryunosuke"><thought>I knew that was going to happen.</thought></line>
+<line speaker="Ryunosuke">(I knew that was going to happen.)</line>
 <line speaker="Susato">We shall get through this, Mr Naruhodo, as we always do. And uncover some new truths along the way, I'm quite sure.</line>
 <line speaker="Ryunosuke">Yes, I agree. I'm going to have to appeal to the jurors as usual, and see if I can persuade them to change their minds!</line>
 <line speaker="Judge">The defence will now embark on a summation examination. Are you and your fellows ready to proceed, Mr Foreman?</line>
@@ -459,20 +459,20 @@
 <line speaker="Juror No. 5">Accusin' someone without right evidences? Ee's not a proper job, is ee? I won't 'ave it!</line>
 <line speaker="Judge">Somewhat unsurprisingly... ...it seems the introduction of this waxwork model to the proceedings has polarised opinion.</line>
 <line speaker="Van Zieks">Given that its face is obscured and its build in no way resembles that of the victim... ...I can only applaud my learned friend's temerity at suggesting it as Mr Asman's body double.</line>
-<line speaker="Ryunosuke"><thought>Yes, the applause is deafening. ...And yes, I know it seems extraordinary. But that's the point. That's why I have a strong feeling it's actually a greater clue than anyone yet realises...</thought></line>
+<line speaker="Ryunosuke">(Yes, the applause is deafening. ...And yes, I know it seems extraordinary. But that's the point. That's why I have a strong feeling it's actually a greater clue than anyone yet realises...)</line>
 <line speaker="Susato">What are you thinking, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">I can't explain why at the moment... ...but I feel as though there's a specific reason why it was used. Why it had to be this model.</line>
 <line speaker="Susato">Really? A reason why nothing else would do, you mean?</line>
 <line speaker="Ryunosuke">Yes. And I'm convinced... ...it's something far more significant than whether or not the model looked like the victim.</line>
 <line speaker="Susato">Well...if that's the case... ...we must prevent the trial from ending prematurely at all costs!</line>
-<line speaker="Ryunosuke">Yes, agreed. <thought>I have to find a way out of this...!</thought></line>
+<line speaker="Ryunosuke">Yes, agreed. (I have to find a way out of this...!)</line>
 <line speaker="Judge">If you are ready, Counsel, you may proceed with the summation examination.</line>
 <line speaker="Ryunosuke">Yes, My Lord!</line>
 <line speaker="Juror No. 6">I've known that woman for years! She'd never be an accomplice to anything!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Um...the order of things seems to have changed around here for some reason...</line>
 <line speaker="Juror No. 6">I'm a copper, lad. It's a copper's discretion to bend the rules sometimes, when needs must. What's wrong with that?!</line>
-<line speaker="Ryunosuke"><thought>...Where do I start?</thought></line>
+<line speaker="Ryunosuke">(...Where do I start?)</line>
 <line speaker="Juror No. 6">I've been working at the Yard for forty odd years!</line>
 <line speaker="Ryunosuke">That's...even more than I thought.</line>
 <line speaker="Juror No. 6">We've only had a metropolitan police service in town for seventy years, you know. 'Course, times have changed. The public didn't trust coppers back when I started. It was rough. We had to fight crime, and we had to fight to win the public's trust as well. And win we did. Forensic science was in its infancy too, even more than it is now. And she spearheaded the revolution!</line>
@@ -482,7 +482,7 @@
 <line speaker="Juror No. 6">We were all out to uphold justice, lad! Full of vim, we were. Full of vim.</line>
 <line speaker="Ryunosuke">...That's coming across loud and clear.</line>
 <line speaker="Juror No. 6">She was Courtney Stevens back when I knew her, of course. A legendary coroner, even then.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">She was legendary, was she?</line>
 <line speaker="Juror No. 6">What did you say?!</line>
 <line speaker="Ryunosuke">Agh!</line>
@@ -491,8 +491,8 @@
 <line speaker="Juror No. 6">Rubbish! That word never passed my lips! I'd never describe anybody that way! Ever! Not if they were still in the game!</line>
 <line speaker="Ryunosuke">......... ...I think the point you're trying to make is that Dr Sithe is an extremely talented coroner. Would that be fair?</line>
 <line speaker="Juror No. 6">It would! If it weren't for the fact that you're trying to drag that legendary woman's reputation through the mud!</line>
-<line speaker="Ryunosuke"><thought>I'm going to pretend I didn't hear that 'legendary'.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(I'm going to pretend I didn't hear that 'legendary'.)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly contradict each other!</line>
 <line speaker="Judge">Good gracious! To whose statements do you refer, Counsel?</line>
 <line speaker="Ryunosuke">So...juror number two.</line>
@@ -520,13 +520,13 @@
 <line speaker="Ryunosuke">I think...my lack of colour must reflect my lack of confidence...</line>
 <line speaker="Juror No. 6">Hmph. Wait till you hit my age, lad. You won't have any colour left to drain.</line>
 <line speaker="Judge">I said before that the court could not overlook your claim of evidence. But it seems to me that overlooking it would have been the more preferable choice by some margin.</line>
-<line speaker="Ryunosuke"><thought>Ugh. I was sure I had something...</thought></line>
+<line speaker="Ryunosuke">(Ugh. I was sure I had something...)</line>
 <line speaker="Juror No. 2">Oh gosh! There's, there's wax dripping from your brow! You're melting!</line>
 <line speaker="Ryunosuke">Just a cold sweat. Nothing new.</line>
 <line speaker="Judge">Let us return to the jurors' statements and put this debacle behind us.</line>
 <line speaker="Juror No. 6">If a Yard coroner's under suspicion, then we're not done here yet, are we? Clearly!</line>
 <line speaker="Juror No. 1">It's utter nonsense to think those two would ever be conniving with one another.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But we're only just starting to understand this case!</line>
 <line speaker="Juror No. 1">.........</line>
 <line speaker="Ryunosuke">W-What are you reading there, sir?!</line>
@@ -535,21 +535,21 @@
 <line speaker="Juror No. 1">You're wrong there. Because it was Dr Sithe in charge of examining the bodies. And it was evidence arising from her work that led to the arrest of the scoundrel responsible.</line>
 <line speaker="Ryunosuke">Oh...</line>
 <line speaker="Juror No. 1">That's right, 'Oh.' That woman is at the forefront of this country's fight against crime. The idea that she's somehow involved in this murky business is a load of old tosh.</line>
-<line speaker="Ryunosuke"><thought>I thought it was up to me to 'press' the jurors, not the other way around...</thought></line>
+<line speaker="Ryunosuke">(I thought it was up to me to 'press' the jurors, not the other way around...)</line>
 <line speaker="Juror No. 2">Oh dear, this is most troubling... But surely the waxwork the man stole is nothing to do with the coroner, is it?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Why would you assume that?</line>
 <line speaker="Juror No. 2">Well, quite simply because...that unsettling swindler has no relationship with the woman, does he?</line>
 <line speaker="Ryunosuke">True. As it stands, we don't know of any connection.</line>
 <line speaker="Juror No. 2">Oh gosh, but it would be delightfully romantic if they were somehow to have a mutual interest in the waxwork.</line>
 <line speaker="Ryunosuke">Romantic?</line>
 <line speaker="Juror No. 2">A woman of society such as myself views everything in terms of relationships, you know.</line>
-<line speaker="Ryunosuke">Well, you learn something new every day! <thought>Even if you don't want to.</thought></line>
+<line speaker="Ryunosuke">Well, you learn something new every day! (Even if you don't want to.)</line>
 <line speaker="Juror No. 2">One might wonder about a possible relationship between the defendant and this coroner woman. Or perhaps between the defendant and the handsome prosecutor just there.</line>
-<line speaker="Ryunosuke"><thought>This woman...may be more astute than I've been giving her credit for.</thought></line>
+<line speaker="Ryunosuke">(This woman...may be more astute than I've been giving her credit for.)</line>
 <line speaker="Susato">If that's the woman's stance... ...then perhaps demonstrating some connection between the waxwork and Dr Sithe would be enough...</line>
 <line speaker="Ryunosuke">Yes, I agree. As soon as we have even a whiff of a connection, she'll be the first to know!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly contradict each other!</line>
 <line speaker="Judge">Good gracious! To whose statements do you refer, Counsel?</line>
 <line speaker="Ryunosuke">So...juror number two.</line>
@@ -577,13 +577,13 @@
 <line speaker="Ryunosuke">I think...my lack of colour must reflect my lack of confidence...</line>
 <line speaker="Juror No. 6">Hmph. Wait till you hit my age, lad. You won't have any colour left to drain.</line>
 <line speaker="Judge">I said before that the court could not overlook your claim of evidence. But it seems to me that overlooking it would have been the more preferable choice by some margin.</line>
-<line speaker="Ryunosuke"><thought>Ugh. I was sure I had something...</thought></line>
+<line speaker="Ryunosuke">(Ugh. I was sure I had something...)</line>
 <line speaker="Juror No. 2">Oh gosh! There's, there's wax dripping from your brow! You're melting!</line>
 <line speaker="Ryunosuke">Just a cold sweat. Nothing new.</line>
 <line speaker="Judge">Let us return to the jurors' statements and put this debacle behind us.</line>
 <line speaker="Juror No. 2">It's the Professor! That's what links that frightful swindler and the coroner!</line>
 <line speaker="Juror No. 3">I have had my own problems with members of the police. I do not trust them much...</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What sort of problems?</line>
 <line speaker="Juror No. 3">Let's just say we have run into each other on numerous occasions while I've been performing on the street.</line>
 <line speaker="Ryunosuke">Right, I see.</line>
@@ -593,29 +593,29 @@
 <line speaker="Juror No. 6">Who are you calling a mass murderer?!</line>
 <line speaker="Ryunosuke">Ah! Sorry, my mistake! I, I got confused because I heard you look like him...</line>
 <line speaker="Juror No. 6">I don't look anything like the man! You wanna be locked up, sonny?</line>
-<line speaker="Ryunosuke"><thought>Thanks, Mr Sholmes...</thought> Perhaps we could move on... I was really wondering if you had something you wanted to add in response to what juror number three just said. And clearly you do.</line>
+<line speaker="Ryunosuke">(Thanks, Mr Sholmes...) Perhaps we could move on... I was really wondering if you had something you wanted to add in response to what juror number three just said. And clearly you do.</line>
 <line speaker="Juror No. 6">......... Back in my day... Back in the good old days... ...it wasn't like this!</line>
 <line speaker="Ryunosuke">What was it like, sir?</line>
 <line speaker="Juror No. 6">We worked our fingers to the bone to earn the public's trust, we did! And by Jove we earnt it! People respected us back then!</line>
 <line speaker="Juror No. 3">Respected you? Hmph.</line>
 <line speaker="Juror No. 6">No one would've called a coroner into question in them days! A coroner's report was the hallmark of an investigation done right! Especially when Dr Courtney Stevens put her name to it! She was the best of the best! And the apple of the force's eye!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">H-Hold on a minute! What are you talking about? Who's Courtney Stevens?</line>
 <line speaker="Juror No. 6">Ah... Sorry. Got a bit carried away there.</line>
 <line speaker="Van Zieks">Stevens is Dr Sithe's maiden name.</line>
-<line speaker="Ryunosuke">Her maiden name... <thought>So that was before she was married...</thought></line>
+<line speaker="Ryunosuke">Her maiden name... (So that was before she was married...)</line>
 <line speaker="Juror No. 6">O' course, yes. Silly me. It's Sithe now, isn't it?</line>
-<line speaker="Ryunosuke"><thought>Stevens... I'm sure I've seen that name somewhere recently...</thought></line>
+<line speaker="Ryunosuke">(Stevens... I'm sure I've seen that name somewhere recently...)</line>
 <line speaker="Juror No. 6">Anyway! The point is, those were the great days of policing! Not like now...</line>
 <line speaker="Ryunosuke">Sorry to interrupt, sir... ...but do you think you could change your statement to include that name?</line>
 <line speaker="Juror No. 6">Well, yes...I don't see why not.</line>
 <line speaker="Ryunosuke">Well, that's definitely not right.</line>
 <line speaker="Juror No. 3">Yes, and it is why I say that if you trust the police, you will have trouble. But here you are, claiming this waxwork model was stolen to star in an illusionary spectacular. The idea is so wild, I think I will take my chances and believe the authorities on this occasion.</line>
-<line speaker="Ryunosuke"><thought>This is how the public at large view Scotland Yard, is it?</thought></line>
+<line speaker="Ryunosuke">(This is how the public at large view Scotland Yard, is it?)</line>
 <line speaker="Susato">Our own police force in Tokyo is not even twenty years old yet, is it? Perhaps we should view what's happened here in London as a measure of what may happen at home.</line>
-<line speaker="Ryunosuke">Yes... Like a Scotland Yardstick. <thought>I wonder how a policeman would feel listening to the way this juror speaks about the force... I'm sure he'd have a word or two to say in response.</thought></line>
+<line speaker="Ryunosuke">Yes... Like a Scotland Yardstick. (I wonder how a policeman would feel listening to the way this juror speaks about the force... I'm sure he'd have a word or two to say in response.)</line>
 <line speaker="Juror No. 4">I've seen no rigorous proof that this waxwork was ever inside the birdcage. It's conjecture!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But you claimed the whole instantaneous kinesis demonstration was a trick!</line>
 <line speaker="Juror No. 4">That I did. But there's more than one way to pull a rabbit out of a hat, isn't there?</line>
 <line speaker="Ryunosuke">Sorry?</line>
@@ -623,16 +623,16 @@
 <line speaker="Ryunosuke">I'm not sure exactly how much criminals are governed by decency...</line>
 <line speaker="Juror No. 4">The point is, if you're going to make a claim about that waxwork being inside the birdcage... ...you need to give us some evidence. Without that, it's just not science!</line>
 <line speaker="Susato">I suppose we should expect nothing less than a logical argument from a fellow of the Royal Society. But that perhaps means his mind could be changed if we managed to present suitable evidence...</line>
-<line speaker="Ryunosuke"><thought>Evidence that the Professor waxwork was inside that birdcage. Hm... Can I produce that or not?</thought></line>
+<line speaker="Ryunosuke">(Evidence that the Professor waxwork was inside that birdcage. Hm... Can I produce that or not?)</line>
 <line speaker="Ryunosuke">...Actually, I have something I'd like you to see, sir.</line>
 <line speaker="Juror No. 4">Oh? I must warn you that I firmly believe it's only wise to trust men in white coats. So given your jet-black outfit, I don't mind admitting to a sense of trepidation here.</line>
-<line speaker="Ryunosuke"><thought>So you don't trust anyone in black? Looking in the mirror must be very trying...</thought> I do have some evidence that proves the waxwork was inside that birdcage. Namely...</line>
+<line speaker="Ryunosuke">(So you don't trust anyone in black? Looking in the mirror must be very trying...) I do have some evidence that proves the waxwork was inside that birdcage. Namely...</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Juror No. 4">......... It's an unimpressive opening, if I'm honest.</line>
 <line speaker="Ryunosuke">Ah, well, um... What comes next is the real point!</line>
 <line speaker="Judge">It's already apparent that what comes next is equally disappointing, Counsel.</line>
-<line speaker="Ryunosuke">Ugh... <thought>How about after that...?</thought></line>
+<line speaker="Ryunosuke">Ugh... (How about after that...?)</line>
 <line speaker="Susato">If the waxwork of the Professor was inside the second birdcage... ...I would assume that means it must have crashed into the Crystal Tower.</line>
 <line speaker="Ryunosuke">Yes, that's right. I'd managed to think it through to that point myself.</line>
 <line speaker="Susato">Well, it's really only a tiny leap from there, I would think!</line>
@@ -647,17 +647,17 @@
 <line speaker="Ryunosuke">Well, I can state quite categorically, sir, that we have no such evidence at the present time!</line>
 <line speaker="Juror No. 4">That much was abundantly clear before that brassy proclamation, I assure you! And why you can count on the fact that I shan't be changing my leaning!</line>
 <line speaker="Susato">Oh dear... That proclamation was even brassier than yours, Mr Naruhodo.</line>
-<line speaker="Ryunosuke"><thought>If only we had some evidence, things might be different, though...</thought></line>
+<line speaker="Ryunosuke">(If only we had some evidence, things might be different, though...)</line>
 <line speaker="Juror No. 4">The presence of that piece of glass leaves me in little doubt that the waxwork was indeed inside that birdcage.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Thank you for reconsidering your position, sir.</line>
 <line speaker="Juror No. 4">Your words are misplaced, boy. My opinion is governed by logic and science and nothing else. Yes, science is where you should direct your words of gratitude.</line>
 <line speaker="Ryunosuke">Ah...</line>
 <line speaker="Juror No. 4">.........</line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Juror No. 4">What's the matter with you?! Too good to say some words of thanks to the mother of all academic subjects?!</line>
-<line speaker="Ryunosuke"><thought>...What is it about scientists? Honestly.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(...What is it about scientists? Honestly.)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly contradict each other!</line>
 <line speaker="Judge">Good gracious! To whose statements do you refer, Counsel?</line>
 <line speaker="Ryunosuke">If you could put down your corn for a moment, juror number five...!</line>
@@ -666,17 +666,17 @@
 <line speaker="Juror No. 5">......... Ooh, is that right?</line>
 <line speaker="Ryunosuke">......... Would it be fair to say... ...you didn't follow the argument?</line>
 <line speaker="Juror No. 5">I don't understand much besides Colonel Cob, to be honest.</line>
-<line speaker="Ryunosuke">......... <thought>Of course you don't...</thought></line>
+<line speaker="Ryunosuke">......... (Of course you don't...)</line>
 <line speaker="Juror No. 4">If I could interject here...</line>
 <line speaker="Ryunosuke">Please do, sir.</line>
 <line speaker="Juror No. 4">Now that this assertion of yours about the waxwork has been backed up by some solid evidence... ...it would be wrong of me, as a man of science, not to pursue the matter further.</line>
 <line speaker="Juror No. 5">Ar, well, me too, then!</line>
 <line speaker="Ryunosuke">Sorry?!</line>
 <line speaker="Juror No. 5">If this brainy gentleman says ee's right, then ee must be! See...I, um... ...I wouldn't dream of goin' against Colonel Cob or anyone who's got stuffin' between the ears!</line>
-<line speaker="Ryunosuke"><thought>Success! ...If you can call it that.</thought></line>
+<line speaker="Ryunosuke">(Success! ...If you can call it that.)</line>
 <line speaker="Juror No. 4">The possibility has been established reasonably and logically. It now warrants further research.</line>
 <line speaker="Juror No. 5">Accusin' someone without right evidences? Ee's not a proper job, is ee? I won't 'ave it!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">I've got to ask...why have you brought that corn into court with you?</line>
 <line speaker="Juror No. 5">Colonel Cob? Ee's bin growin' back on the farm. Picked 'im off on me way into town. Ee's a proper nibbler, ee is.</line>
 <line speaker="Ryunosuke">Yes, the nibbling seems to be taking quite a while. Maybe it could wait until after the trial?</line>
@@ -684,10 +684,10 @@
 <line speaker="Ryunosuke">Y-You're talking about your cob of corn?</line>
 <line speaker="Juror No. 5">Nibble nobble guilty bobble, nibble not guilty out. Nibble nobble guilty bobble, nibble not guilty out. Nibble nobble guilty bobble, nibble not guilty out. Nibble nobble guilty bobble, nibble not guilty out.</line>
 <line speaker="Susato">...Perhaps it's akin to fortune-telling with flower petals like people do back home?</line>
-<line speaker="Ryunosuke"><thought>So Professor Harebrayne's fate is to be decided by a cob of corn...</thought> Could you not at least wait until we've had more time to find the truth before deciding on the defendant's guilt?</line>
+<line speaker="Ryunosuke">(So Professor Harebrayne's fate is to be decided by a cob of corn...) Could you not at least wait until we've had more time to find the truth before deciding on the defendant's guilt?</line>
 <line speaker="Juror No. 5">Ooh, I don't know about that. Me tum's awfully full already.</line>
-<line speaker="Ryunosuke"><thought>A-maize-ing...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(A-maize-ing...)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly contradict each other!</line>
 <line speaker="Judge">Good gracious! To whose statements do you refer, Counsel?</line>
 <line speaker="Ryunosuke">If you could put down your corn for a moment, juror number five...!</line>
@@ -696,16 +696,16 @@
 <line speaker="Juror No. 5">......... Ooh, is that right?</line>
 <line speaker="Ryunosuke">......... Would it be fair to say... ...you didn't follow the argument?</line>
 <line speaker="Juror No. 5">I don't understand much besides Colonel Cob, to be honest.</line>
-<line speaker="Ryunosuke">......... <thought>Of course you don't...</thought></line>
+<line speaker="Ryunosuke">......... (Of course you don't...)</line>
 <line speaker="Juror No. 4">If I could interject here...</line>
 <line speaker="Ryunosuke">Please do, sir.</line>
 <line speaker="Juror No. 4">Now that this assertion of yours about the waxwork has been backed up by some solid evidence... ...it would be wrong of me, as a man of science, not to pursue the matter further.</line>
 <line speaker="Juror No. 5">Ar, well, me too, then!</line>
 <line speaker="Ryunosuke">Sorry?!</line>
 <line speaker="Juror No. 5">If this brainy gentleman says ee's right, then ee must be! See...I, um... ...I wouldn't dream of goin' against Colonel Cob or anyone who's got stuffin' between the ears!</line>
-<line speaker="Ryunosuke"><thought>Success! ...If you can call it that.</thought></line>
+<line speaker="Ryunosuke">(Success! ...If you can call it that.)</line>
 <line speaker="Juror No. 5">Well, 'course if ee's got some evidences, that's a whole other cob o' corn, innit? Lovely job!</line>
-<line speaker="Ryunosuke"><thought>I know it seems a little far-fetched to think that the waxwork model of the Professor was in that birdcage... ...but on the other hand, it explains a lot.</thought></line>
+<line speaker="Ryunosuke">(I know it seems a little far-fetched to think that the waxwork model of the Professor was in that birdcage... ...but on the other hand, it explains a lot.)</line>
 <line speaker="Susato">If there really is a reason why that particular waxwork had to be used as Mr Asman's double... ...we must do everything we can to make the jurors understand it.</line>
 <line speaker="Ryunosuke">The truth is, I'm sure that's the key to this, but it's the most puzzling part of it, too.</line>
 <line speaker="Susato">In that case, you should see what additional information you can glean whilst trying to change the jurors' minds. If you can read a book whilst eating a rice cracker, Mr Naruhodo, I'm sure you can do this!</line>
@@ -721,7 +721,7 @@
 <line speaker="Van Zieks">If the court is to delve deeper into the alleged involvement of the waxwork in this case... ...then the prosecution calls for the owner of the model to be summoned as a witness.</line>
 <line speaker="Judge">The owner?</line>
 <line speaker="Van Zieks">Madame Tusspells.</line>
-<line speaker="Ryunosuke">...! <thought>I, I really thought... ...that Lord van Zieks would object to this whole line of enquiry...</thought></line>
+<line speaker="Ryunosuke">...! (I, I really thought... ...that Lord van Zieks would object to this whole line of enquiry...)</line>
 <line speaker="Judge">Very well, I concur. Make arrangements for Madame Tusspells to appear as a witness with immediate effect.</line>
 <line speaker="Van Zieks">......... Listen carefully, my learned friend.</line>
 <line speaker="Ryunosuke">Oh... Yes?</line>
@@ -766,13 +766,13 @@
 <line speaker="Sholmes">There's really no cause for concern. I assure you, when the trial resumes... ...the meaning will become all too apparent, whether you'd like it to or not.</line>
 <line speaker="Ryunosuke">Huh?</line>
 <line speaker="Sholmes">Now then, I believe it's almost time. I must make my way back to the public gallery. The edge of my seat awaits!</line>
-<line speaker="Ryunosuke"><thought>I think maybe you're enjoying yourself a little too much...</thought></line>
+<line speaker="Ryunosuke">(I think maybe you're enjoying yourself a little too much...)</line>
 <line speaker="Sholmes">Ah yes, one word of warning before I go: If, in the course of the trial this afternoon, you perceive even a shadow of doubt about the truth... ...don't let it out of your sight. Pursue it like a dog with a bone.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Sholmes">To the bitter end, you understand. Do not falter, whatever may come to pass.</line>
 <line speaker="Ryunosuke">......... Alright, I understand. ...Thank you.</line>
 <line speaker="Sholmes">Good. I shall make myself scarce, then. I purchased a bar of caramel earlier, so I shall be gnawing on that as you gnaw away at the truth!</line>
-<line speaker="Ryunosuke"><thought>What did that warning from Mr Sholmes really mean, I wonder? Especially the bit about 'whatever may come to pass'... .........</thought></line>
+<line speaker="Ryunosuke">(What did that warning from Mr Sholmes really mean, I wonder? Especially the bit about 'whatever may come to pass'... .........)</line>
 <line speaker="Judge">In the name of Her Majesty the Queen, I hereby reconvene the proceedings of this court. Counsels for the defence and prosecution, are you ready and able to continue?</line>
 <line speaker="Van Zieks">The prosecution is ready, My Lord.</line>
 <line speaker="Ryunosuke">Yes, My Lord. The defence is also ready.</line>
@@ -784,12 +784,12 @@
 <line speaker="Van Zieks">Not at all. She is in the antechamber as we speak and ready to be summoned.</line>
 <line speaker="Judge">Very well. Bring in the witness!</line>
 <line speaker="Van Zieks">At once, My Lord. Bailiff! Show Madame Tusspells to the stand!</line>
-<line speaker="Ryunosuke"><thought>Things are about to become a lot more intense. If Drebber is responsible, as I'm sure he is, it means he must have had an accomplice...in Dr Sithe.</thought></line>
+<line speaker="Ryunosuke">(Things are about to become a lot more intense. If Drebber is responsible, as I'm sure he is, it means he must have had an accomplice...in Dr Sithe.)</line>
 <line speaker="Susato">And what connects the pair of them...is the waxwork.</line>
-<line speaker="Ryunosuke"><thought>Yes, the model of the Professor... That's the key to the link between these otherwise unrelated individuals. It's a tenuous link, admittedly. But at present, it's all we have to go on.</thought></line>
+<line speaker="Ryunosuke">(Yes, the model of the Professor... That's the key to the link between these otherwise unrelated individuals. It's a tenuous link, admittedly. But at present, it's all we have to go on.)</line>
 <line speaker="Van Zieks">State your name and occupation for the court, please.</line>
 <line speaker="Tusspells">My name is Madame Esmeralda Tusspells. I am a waxwork artisan. And the proprietress of the Madame Tusspells Museum of Waxwork. You will have to pardon me for working as I testify. My new exhibit must open very soon.</line>
-<line speaker="Ryunosuke">......... <thought>Oh, so he finally gets a statue, does he? Now there are two of them in the world...</thought></line>
+<line speaker="Ryunosuke">......... (Oh, so he finally gets a statue, does he? Now there are two of them in the world...)</line>
 <line speaker="Susato">Oh my... What expression is she carving onto that face?</line>
 <line speaker="Van Zieks">A number of days ago, a particular waxwork model was stolen from your museum. Can you confirm this?</line>
 <line speaker="Tusspells">Oui. That is true. At first, we believed it had been kidnapped.</line>
@@ -832,9 +832,9 @@
 <line speaker="Ryunosuke">And it's a waxwork from that exhibit that was stolen some days before the incident at the Great Exhibition, wasn't it.</line>
 <line speaker="Tusspells">That is correct. The Professor you see before you here.</line>
 <line speaker="Judge">Hm... Most puzzling... Counsel for the Defence...proceed with the cross-examination!</line>
-<line speaker="Ryunosuke"><thought>This waxwork links Drebber to Dr Sithe... And there has to be some reason for that, which hasn't yet come to light. But I'll find it. I'll get to the bottom of what really happened. I'll prove that Dr Sithe and Drebber were in on this crime together!</thought></line>
+<line speaker="Ryunosuke">(This waxwork links Drebber to Dr Sithe... And there has to be some reason for that, which hasn't yet come to light. But I'll find it. I'll get to the bottom of what really happened. I'll prove that Dr Sithe and Drebber were in on this crime together!)</line>
 <line speaker="Tusspells">The special exhibit in the House of Horrors is based on a rumour that shocked society in London.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And that rumour would be...?</line>
 <line speaker="Tusspells">A ten-year-old tale now...but one that no Londoner would ever forget.</line>
 <line speaker="Juror No. 1">Ah, right. I know just what you're talking about, I think.</line>
@@ -858,19 +858,19 @@
 <line speaker="Judge">Hmmm... It would certainly appear that the condemned man suffered the intended fate.</line>
 <line speaker="Van Zieks">.........</line>
 <line speaker="Tusspells">An impression of the visage was taken directly from the corpse...in accordance with Tusspells family principles.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Is, is that true of every waxwork in your museum then?</line>
 <line speaker="Tusspells">It is...assuming the subject is dead, of course. Live subjects have to cooperate in a similar way. I have letters from imprisoned criminals all the time, you know.</line>
 <line speaker="Ryunosuke">What sort of letters?</line>
 <line speaker="Tusspells">'When my time comes, please make a waxwork of me.' ...Comme ça.</line>
 <line speaker="Ryunosuke">No!</line>
 <line speaker="Tusspells">My museum is famous, monsieur. To be made into a waxwork is an honour. And for some criminals, a symbol of status, even.</line>
-<line speaker="Ryunosuke"><thought>Because nothing says hardened criminal better than... wax.</thought></line>
+<line speaker="Ryunosuke">(Because nothing says hardened criminal better than... wax.)</line>
 <line speaker="Tusspells">And it is thanks to one killer in particular, that my museum has gained such popularity in London. I refer to the star of the special exhibit, of course. The Professor.</line>
 <line speaker="Van Zieks">...Whose form you claim to have captured by taking an impression from the actual corpse.</line>
 <line speaker="Tusspells">...There are no exceptions to the principles of Tusspells.</line>
 <line speaker="Tusspells">I enlisted the aid of the gravedigger, and created a mould for the head in the cemetery just before the interment.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Surely that's illegal...isn't it?</line>
 <line speaker="Tusspells">.........</line>
 <line speaker="Van Zieks">It would seem the proprietress of this repository of novelties was blinded by monetary good.</line>
@@ -884,7 +884,7 @@
 <line speaker="Ryunosuke">So ten years ago, on the night of the Professor's execution, you took a wax impression of his face from the corpse?</line>
 <line speaker="Tusspells">Oui. Exactement.</line>
 <line speaker="Tusspells">I hid myself until he gave me a signal. ...I was there for a very long time that night.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You were there longer than you expected to be?</line>
 <line speaker="Tusspells">...I had some...difficulties in capturing the subject's form correctly. As I removed the mask, the mouth of the cadaver fell open and I had some problems with the chin.</line>
 <line speaker="Ryunosuke">Dare I ask...?</line>
@@ -901,60 +901,60 @@
 <line speaker="Tusspells">As the mademoiselle says, rigor mortis commences three hours after death...and it starts in the jaw.</line>
 <line speaker="Van Zieks">I see. So that's why you wait.</line>
 <line speaker="Tusspells">Before that time, the mouth falls open...and it is very difficult to do my work.</line>
-<line speaker="Ryunosuke">Ugh...it's getting hard for me to do my work with all this talk of corpses... <thought>Hm...I wonder about that information the court's just heard from Madame Tusspells...</thought></line>
+<line speaker="Ryunosuke">Ugh...it's getting hard for me to do my work with all this talk of corpses... (Hm...I wonder about that information the court's just heard from Madame Tusspells...)</line>
 <line speaker="Ryunosuke">Um...the information about rigor mortis that you just shared with us... Would you mind including it in your formal testimony? I believe it could be significant, you see.</line>
 <line speaker="Tusspells">Of course. I do not mind at all.</line>
 <line speaker="Susato">I can't help feeling that after this latest topic... ...the atmosphere in the courtroom has become extremely...grave.</line>
 <line speaker="Ryunosuke">...This is no time for jokes, Miss Susato.</line>
 <line speaker="Judge">Madame, kindly amend your testimony as discussed.</line>
 <line speaker="Tusspells">Bien sûr.</line>
-<line speaker="Ryunosuke"><thought>I think I'd rather pretend I didn't hear any of those grim details and try to forget all about it.</thought> Thank you, madame. Please continue.</line>
+<line speaker="Ryunosuke">(I think I'd rather pretend I didn't hear any of those grim details and try to forget all about it.) Thank you, madame. Please continue.</line>
 <line speaker="Tusspells">Certainly. So, you comprehend a little of the process now, and why it took me so long that night.</line>
 <line speaker="Tusspells">It took me a very long time because it was before the onset of rigor mortis.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Rigor mortis being the phenomenon you described whereby the corpse becomes stiff after death? I think you said that it starts at the jaw, about three hours post death. Is that right?</line>
 <line speaker="Tusspells">Oui, c'est ça. Of course the exact duration depends a little on the season.</line>
 <line speaker="Ryunosuke">I didn't realise a waxwork artisan would be so well versed in the subject.</line>
 <line speaker="Tusspells">Non non, that is only elementary knowledge in the field of legal medicine.</line>
-<line speaker="Ryunosuke"><thought>Well I had no idea about it. But maybe I won't admit to my ignorance about forensic science.</thought></line>
+<line speaker="Ryunosuke">(Well I had no idea about it. But maybe I won't admit to my ignorance about forensic science.)</line>
 <line speaker="Susato">Hm... I could ask my father to give you a very simple primer, if you like!</line>
 <line speaker="Ryunosuke">......... I think corpses should be your domain. I'm...not good with them.</line>
 <line speaker="Susato">Oh dear...I'll do my very best.</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Tusspells">As dawn approached, I was very worried that I could be discovered.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You say that dawn was approaching? What was the time of day, then? Approximately.</line>
 <line speaker="Tusspells">Well...I could not say. But when I left the cemetery with my utensils and wax, the morning light was becoming visible.</line>
 <line speaker="Van Zieks">The execution took place on 17th June...which had the earliest sunrise of that year.</line>
 <line speaker="Judge">Indeed it did. First light would have been at around 4:40 in the morning.</line>
-<line speaker="Ryunosuke"><thought>That really is early.</thought></line>
+<line speaker="Ryunosuke">(That really is early.)</line>
 <line speaker="Tusspells">The fact is, I had very little time. So I finished my work in a half hour. It was necessary to complete the impression and bury the body before daybreak, of course. If somebody had discovered me there, it would have been a catastrophe. So I had to hurry.</line>
-<line speaker="Ryunosuke"><thought>Is it me, or does Mr Sholmes seem to be taking shape more quickly now, too?</thought></line>
+<line speaker="Ryunosuke">(Is it me, or does Mr Sholmes seem to be taking shape more quickly now, too?)</line>
 <line speaker="Judge">Hm... You certainly appear to go to extraordinary lengths for your work, madame.</line>
-<line speaker="Ryunosuke"><thought>I wonder... is what she just said particularly significant?</thought></line>
+<line speaker="Ryunosuke">(I wonder... is what she just said particularly significant?)</line>
 <line speaker="Ryunosuke">Madame, those details about how long it took you to complete the sculpture and the early sunrise... Could you include them in your testimony? I believe they may be significant.</line>
 <line speaker="Tusspells">Of course, if you would like me to.</line>
 <line speaker="Susato">You're quite right, Mr Naruhodo. It is intriguing. A sunrise at four in the morning would be absolutely unimaginable at home, wouldn't it?</line>
 <line speaker="Ryunosuke">...That's not quite what I meant by 'significant'.</line>
 <line speaker="Judge">Kindly amend your formal testimony then, madame.</line>
 <line speaker="Tusspells">With pleasure, My Lord.</line>
-<line speaker="Ryunosuke"><thought>All it really told us is that sunrise in Great Britain is extremely early at the height of summer, I suppose</thought> Thank you, madame. That's all clear now.</line>
+<line speaker="Ryunosuke">(All it really told us is that sunrise in Great Britain is extremely early at the height of summer, I suppose) Thank you, madame. That's all clear now.</line>
 <line speaker="Tusspells">How frustrating, I was not concentrating on Mr Sholmes here and I have taken away too much wax.</line>
 <line speaker="Tusspells">I hurried to finish my work in the half hour before sunrise. Then I left as soon as the corpse was interred.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Did you have reason to believe you might be discovered once the sun came up or something?</line>
 <line speaker="Tusspells">I had paid the gravedigger money to keep my little secret, of course. But with the morning light, I knew that the warden from the prison would commence his patrol of the area.</line>
 <line speaker="Ryunosuke">Couldn't you just have paid off the warden too, then?</line>
 <line speaker="Tusspells">I had already paid the gravedigger, as I said. You cannot buy the silence of everyone, or the secret is no longer a secret, uh?</line>
 <line speaker="Van Zieks">The sunrise was at 4:40 a.m. that day. Which means that it would have been around four when you began your sculpting work.</line>
 <line speaker="Tusspells">Oui, that must be correct. That would be when the gravedigger gave me the signal to come out of hiding.</line>
-<line speaker="Ryunosuke"><thought>So that's all I have to go on...</thought></line>
+<line speaker="Ryunosuke">(So that's all I have to go on...)</line>
 <line speaker="Susato">What's your feeling, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">For some reason, Dr Sithe went along with Drebber's plan. Now, if that's really true... ...then the Professor is the only other thing we know of that links the pair of them. So I feel sure that waxwork must be a clue to this mystery somehow...</line>
 <line speaker="Susato">In that case, we must use this cross-examination to uncover exactly what it means! Otherwise the jurors are sure to revert their leanings and the trial will be over!</line>
 <line speaker="Ryunosuke">I agree. But interestingly... ...uncovering what the Professor has to do with all of this means more to Lord van Zieks than anyone. That's...the impression I'm getting, anyway.</line>
 <line speaker="Susato">Yes, as do I...</line>
-<line speaker="Ryunosuke"><thought>After all, he has a profound connection to the Professor as well...</thought></line>
+<line speaker="Ryunosuke">(After all, he has a profound connection to the Professor as well...)</line>
 <line speaker="Ryunosuke">Madame Tusspells... I have here an autopsy report that was filed ten years ago now. It confirms the death of the Professor following his execution at the gallows.</line>
 <line speaker="Tusspells">And...is that a problem?</line>
 <line speaker="Ryunosuke">I believe it is. Because your testimony, and a particular detail in the report... ...completely contradict one another.</line>
@@ -978,17 +978,17 @@
 <line speaker="Ryunosuke">What fact?</line>
 <line speaker="Van Zieks">The Professor died that night. Without question!</line>
 <line speaker="Tusspells">He did! Of course he did! I moved the man's limp jaw with my own hands! There was no-</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Yes, the Professor died that night. But what if he didn't die at the gallows?</line>
 <line speaker="Van Zieks">Didn't die at...? Are you insane?! What...what exactly are you suggesting did happen in that case?</line>
-<line speaker="Ryunosuke"><thought>It's almost impossible to believe, but it would explain the link... ...between Dr Sithe, the Professor...and that one other person of interest!</thought> I have evidence that will explain exactly what I'm suggesting happened that night!</line>
+<line speaker="Ryunosuke">(It's almost impossible to believe, but it would explain the link... ...between Dr Sithe, the Professor...and that one other person of interest!) I have evidence that will explain exactly what I'm suggesting happened that night!</line>
 <line speaker="Judge">Counsel, present the evidence at once! The evidence that allegedly explains what really happened on the night of the Professor's execution!</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Judge:</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">What?</line>
 <line speaker="Judge">Quite. The next time you present such a nonsensical article, Counsel... ...you may find that tonight is the night of your own execution!</line>
-<line speaker="Ryunosuke"><thought>Great. I'm so looking forward to trying again now...</thought></line>
+<line speaker="Ryunosuke">(Great. I'm so looking forward to trying again now...)</line>
 <line speaker="Susato">I won't let anyone execute you, Mr Naruhodo! Not tonight!</line>
 <line speaker="Ryunosuke">What happened that night is written very plainly in this newspaper article! 'Executed criminal returns in the dead of night at local cemetery!'</line>
 <line speaker="Van Zieks">You're suggesting it was a corpse, coming back from the dead now?!</line>
@@ -1001,11 +1001,11 @@
 <line speaker="Tusspells">Mais oui! The young man who stole into the cemetery by chance that night!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Judge">And in any case, this was ten years ago now. There would surely be no hope of finding him.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">On the contrary, My Lord. We all know this witness well!</line>
 <line speaker="Van Zieks">What?</line>
 <line speaker="Judge">Are you suggesting, Counsel, that you've identified the person in question? That you know who claims to have seen these utterly incredible events take place?</line>
-<line speaker="Ryunosuke">Yes, My Lord. <thought>In fact, you could say that he's right here before my very eyes!</thought></line>
+<line speaker="Ryunosuke">Yes, My Lord. (In fact, you could say that he's right here before my very eyes!)</line>
 <line speaker="Judge">You will substantiate your latest claim now then, Counsel. Who is the alleged witness of this staggering scene from the cemetery ten years ago?</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Judge:</line>
@@ -1020,7 +1020,7 @@
 <line speaker="Judge">Ordaaar! Ordaaar! Ordaaaaaar!!! Surely not, Counsel?</line>
 <line speaker="Van Zieks">Drebber was there? In Lowgate Cemetery?</line>
 <line speaker="Tusspells">Um... What is all this talk about Mr Drebber? Is the name significant?</line>
-<line speaker="Ryunosuke"><thought>Of course. Madam [sic] Tusspells doesn't know, does she?</thought> Yes. It's extremely significant, madame. To your situation as well, in fact.</line>
+<line speaker="Ryunosuke">(Of course. Madam [sic] Tusspells doesn't know, does she?) Yes. It's extremely significant, madame. To your situation as well, in fact.</line>
 <line speaker="Tusspells">What situation?</line>
 <line speaker="Ryunosuke">The theft of the Professor waxwork from your museum some days ago... ...was perpetrated by the very same man.</line>
 <line speaker="Tusspells">Non! But...but that would mean...</line>
@@ -1052,7 +1052,7 @@
 <line speaker="Sithe">Lord van Zieks won't be summoning me as a witness. Lord Stronghart has forbidden it.</line>
 <line speaker="Ryunosuke">Lord Stronghart?</line>
 <line speaker="Sithe">The Pandora's box you were warned about...is the Professor case. But please don't make the mistake of thinking you'll get any information about it out of me.</line>
-<line speaker="Ryunosuke"><thought>Something happened on the night of that killer's execution ten years ago. And surely nobody would want to get to the bottom of that more...than Lord van Zieks!</thought></line>
+<line speaker="Ryunosuke">(Something happened on the night of that killer's execution ten years ago. And surely nobody would want to get to the bottom of that more...than Lord van Zieks!)</line>
 <line speaker="Van Zieks">......... The prosecution calls...for the instructions in that missive to be scrapped!</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Judge">But, but Lord van Zieks! The missive was issued from the Lord Chief Justice's office.</line>
@@ -1060,7 +1060,7 @@
 <line speaker="Ryunosuke">Yes...!</line>
 <line speaker="Van Zieks">Let Enoch Drebber and Dr Sithe...both take the stand together.</line>
 <line speaker="Judge">Ordaaar! Ordaaar! Ordaaar! Very well, I will uphold your request. Bailiff! Send a subpoena with immediate effect, addressed to Dr Sithe of the Forensic Investigation Team. The woman is compelled to attend on Her Majesty's orders!</line>
-<line speaker="Ryunosuke"><thought>Alright then. Enoch Drebber and Dr Sithe... If they weren't colluding with one another, this crime could never have been committed. I'm just a stone's throw away, I can feel it. The truth behind all of this is about to come out!</thought></line>
+<line speaker="Ryunosuke">(Alright then. Enoch Drebber and Dr Sithe... If they weren't colluding with one another, this crime could never have been committed. I'm just a stone's throw away, I can feel it. The truth behind all of this is about to come out!)</line>
 <line speaker="Van Zieks">Thank you for your attendance at such short notice... Dr Sithe.</line>
 <line speaker="Sithe">I'm disappointed in you, Lord van Zieks. You've completely betrayed the agreed policy of both Scotland Yard and the Prosecutor's Office.</line>
 <line speaker="Van Zieks">Betrayal is not in my nature...as long as the truth isn't compromised. If it is... If there's even a hint of wrongdoing...then no matter whom it concerns or disgruntles... ...I will pursue the matter to the bitter end. As would any prosecutor worth his salt.</line>
@@ -1097,7 +1097,7 @@
 <line speaker="Drebber">...Not worth the paper it's printed on? I think that would describe it perfectly, yes.</line>
 <line speaker="Ryunosuke">Agh!</line>
 <line speaker="Susato">If the details in the article aren't true... ...it nullifies your argument for why Mr Drebber and Dr Sithe would have been working together.</line>
-<line speaker="Ryunosuke"><thought>So he's discrediting himself to cripple my argument?!</thought></line>
+<line speaker="Ryunosuke">(So he's discrediting himself to cripple my argument?!)</line>
 <line speaker="Judge">Tell me, witness... ...you claim to have been in the cemetery on some... auxiliary business. Can you elaborate?</line>
 <line speaker="Drebber">That's right. Graverobbing, to be precise. As you know, Lowgate Cemetery is at the rear of Barclay Prison. So among students at the university, it had a reputation for being haunted by the ghosts of condemned convicts.</line>
 <line speaker="Judge">G-Graverobbing, you say?!</line>
@@ -1112,7 +1112,7 @@
 <line speaker="Judge">Hmmm... Well, Counsel for the Defence...you may proceed to the cross-examination now.</line>
 <line speaker="Ryunosuke">At once, My Lord.</line>
 <line speaker="Drebber">The reason I was in Lowgate Cemetery at all ten years ago was for...a spot of moonlighting, shall we say?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">By 'moonlighting', you mean graverobbing, do you?</line>
 <line speaker="Drebber">Surely you only need to look at the graveyard scene and my appearance to gauge the answer to that?</line>
 <line speaker="Van Zieks">The lantern and spade...</line>
@@ -1123,11 +1123,11 @@
 <line speaker="Drebber">As aspiring scientists, we young research students had no money to work with, as I'm sure you can imagine. So we made surreptitious arrangements with a hospital via some of our medical student acquaintances. We would never take anything of value from the graves. This was all for the furtherance of science, you see. That's what we all told ourselves every time we stole into the graveyard at night, spade in hand.</line>
 <line speaker="Van Zieks">You realise body-snatching is a serious crime. If you were caught, you could expect the gravest of consequences.</line>
 <line speaker="Drebber">We students were caught between the hammer and the anvil. We needed funds for research.</line>
-<line speaker="Ryunosuke"><thought>Professor Harebrayne said exactly the same...</thought></line>
+<line speaker="Ryunosuke">(Professor Harebrayne said exactly the same...)</line>
 <line speaker="Judge">I'm quite speechless at the apparent levity with which you've revealed this abhorrent behaviour.</line>
 <line speaker="Drebber">Well, if you wanted to know why I was there at Lowgate Cemetery, that's the reason. But I never expected it to end the way it did. That...I regret to this day.</line>
 <line speaker="Drebber">Yes, the illustration in that newspaper article was based on what I witnessed that night.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The strange happening at Lowgate Cemetery...which you now deny.</line>
 <line speaker="Drebber">Not entirely. I ran to fetch the police at the time, you know. I was shaking like a leaf. But they didn't believe a word of it. In fact, I was very nearly arrested myself.</line>
 <line speaker="Ryunosuke">So you went to the papers instead?</line>
@@ -1141,16 +1141,16 @@
 <line speaker="Van Zieks">Newspaper reporters are wont to snoop around in matters that don't concern them. So the scene portrayed in the illustration is accurate, then?</line>
 <line speaker="Drebber">Well...</line>
 <line speaker="Drebber">Thinking back now, I realise that I never actually saw the Professor at all, though.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What are you talking about?</line>
 <line speaker="Drebber">I think I explained already, didn't I? Lowgate Cemetery is at the rear of Barclay Prison. So it was renowned among us students at the university for being haunted by the ghosts of condemned convicts. For some absurd reason, I was scared of the graveyard at night. And as a result...only too willing to believe that nonsense about the dead coming back to life.</line>
 <line speaker="Ryunosuke">But you said you actually saw it.</line>
 <line speaker="Drebber">I said what I'd seen in my mind's eye. After all...resurrection is impossible, isn't it? You'd have to be unhinged to think otherwise. Unless of course... ...you have some evidence that proves I encountered the Professor that night?</line>
-<line speaker="Ryunosuke">......... <thought>I don't know. Is there any material evidence that could show he really did see the Professor?</thought></line>
+<line speaker="Ryunosuke">......... (I don't know. Is there any material evidence that could show he really did see the Professor?)</line>
 <line speaker="Susato">If we have anything at all, Mr Naruhodo...</line>
 <line speaker="Ryunosuke">I know. I need to present it against that irritatingly backtracking statement of his!</line>
 <line speaker="Drebber">The point is, that night was a pivotal moment in my life.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Sorry, Mr Drebber, but I don't believe that.</line>
 <line speaker="Drebber">Don't believe what?</line>
 <line speaker="Ryunosuke">Your latest claim. You did see the Professor on that night ten years ago.</line>
@@ -1170,15 +1170,15 @@
 <line speaker="Ryunosuke">You... You're still saying you didn't see it?!</line>
 <line speaker="Van Zieks">If you're stubbornly sticking to that story, witness... ...then amend your testimony to explain exactly how you think your eyes deceived you.</line>
 <line speaker="Drebber">Of course, of course. Only too happy to oblige.</line>
-<line speaker="Ryunosuke"><thought>I can't believe he's still not going to concede the point!</thought></line>
+<line speaker="Ryunosuke">(I can't believe he's still not going to concede the point!)</line>
 <line speaker="Drebber">.........</line>
 <line speaker="Drebber">What I in fact witnessed, was a fellow graverobber at work.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">A fellow graverobber? What are you talking about?</line>
 <line speaker="Drebber">Well, I wasn't the only one busy in the cemetery that night, you know. Other body snatchers were at work. Of course, when I saw one emerging from the hole he'd dug, my heart very nearly stopped. So that's the terrifying sight I actually saw, you see.</line>
 <line speaker="Van Zieks">You're claiming it was just another student on equally insalubrious business as yourself?</line>
 <line speaker="Drebber">Many of the medical students would wear metal masks to protect them from bacteria during dissections. Clearly the fellow was using such a mask to protect his anonymity...wouldn't you say?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But there's more to the story, isn't there? The article goes on to say: 'In the next second, a gunshot rang out suddenly from behind. The bullet pierced the resurrected man's chest, whose breath then stilled once more.'</line>
 <line speaker="Judge">We might assume that the sexton discovered the miscreants at work, perhaps? And fired upon one of them.</line>
 <line speaker="Ryunosuke">If a gravedigger had shot someone in the cemetery, I think it might have been rather big news, My Lord.</line>
@@ -1216,7 +1216,7 @@
 <line speaker="Ryunosuke">Ugh...</line>
 <line speaker="Drebber">I mistakenly thought I'd seen a corpse coming back to life and then fled the scene. That's really all that happened.</line>
 <line speaker="Drebber">There was no gunshot from behind me at all. Nor any splattering blood.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Yet Madame Tusspells has testified that you told her about both of those details.</line>
 <line speaker="Drebber">Not true. I said nothing of the sort.</line>
 <line speaker="Van Zieks">Ten years have passed. Without material evidence to the contrary, you have no grounds on which to question the witness's word.</line>
@@ -1228,11 +1228,11 @@
 <line speaker="Tusspells">And since Monsieur Drebber was at that time facing towards the condemned man... ...the blood sprayed from the wound and spattered on his body. That is what he told me.</line>
 <line speaker="Ryunosuke">So...not an experience you would ever forget, is it?</line>
 <line speaker="Drebber">Precisely. And I didn't forget it. Because, as I've already said... ...it never happened in the first place.</line>
-<line speaker="Ryunosuke"><thought>He's clearly lying. If only I had some evidence to prove it...</thought></line>
+<line speaker="Ryunosuke">(He's clearly lying. If only I had some evidence to prove it...)</line>
 <line speaker="Susato">We can't let him win, Mr Naruhodo! So we mustn't overlook a single detail, no matter how small!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Drebber">Soon afterwards, I was visited by a young woman who sculpted a model of me from wax.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">That young woman being Madame Tusspells, of course.</line>
 <line speaker="Drebber">Precisely. I must say, I didn't expect to run into her again like this ten years later.</line>
 <line speaker="Tusspells">As I have explained... ...I went by the name published in the article, and... comme ça I found the man.</line>
@@ -1252,7 +1252,7 @@
 <line speaker="Tusspells">But I still have it, monsieur. It is part of the special exhibit in my House of Horrors. I am very meticulous about such details. It is the Tusspells way.</line>
 <line speaker="Susato">It would seem, then... ...that this is the very camera Mr Drebber took with him to Lowgate Cemetery on the night in question.</line>
 <line speaker="Ryunosuke">Yes. Interesting...</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">That young woman being Madame Tusspells, of course.</line>
 <line speaker="Drebber">Precisely. I must say, I didn't expect to run into her again like this ten years later.</line>
 <line speaker="Tusspells">As I have explained... ...I went by the name published in the article, and... comme ça I found the man.</line>
@@ -1276,7 +1276,7 @@
 <line speaker="Susato">Yes, that's right. Isn't it incredible to think that this is the actual camera Mr Drebber used that night? I certainly never imagined a piece of evidence would be on display in Madame Tusspells!</line>
 <line speaker="Ryunosuke">She's very keen on everything being as true to life as possible though, isn't she?</line>
 <line speaker="Drebber">Then I gave up on my dream of becoming a scientist. And it was all because of that newspaper article.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">This article, you mean? Published in the Daily Circus?</line>
 <line speaker="Drebber">Yes. Somebody informed the dean that it was my name that appeared in the article. And carelessly let slip that night after night, I was digging up graves. Hardly a model student, you might say. The university's reputation was execrably defiled, and I was expelled as a result.</line>
 <line speaker="Tusspells">Mon Dieu, I had no idea...</line>
@@ -1287,11 +1287,11 @@
 <line speaker="Ryunosuke">Professor Albert Harebrayne was just your latest victim, wasn't he?</line>
 <line speaker="Drebber">Whatever are you talking about? I have no recollection of doing anything of the sort.</line>
 <line speaker="Sithe">.........</line>
-<line speaker="Ryunosuke"><thought>What's Drebber up to? Why would he suddenly change his tune and recant his claim?</thought></line>
+<line speaker="Ryunosuke">(What's Drebber up to? Why would he suddenly change his tune and recant his claim?)</line>
 <line speaker="Susato">I wonder if perhaps...it's because his circumstances have changed now.</line>
 <line speaker="Ryunosuke">What circumstances?</line>
 <line speaker="Susato">Well...if he admits to having seen the Professor emerging alive from his grave ten years ago... ...it will expose a secret in Dr Sithe's past that she would desperately want to hide.</line>
-<line speaker="Ryunosuke">Yes, of course! If Drebber and Dr Sithe are working together now... ...then if Drebber were to betray her, there would be no reason for her to continue to cooperate. <thought>In that case, there's only one way around it. I'll have to prove he really did see it. Prove he really did see the Professor's corpse coming back from the dead as he originally claimed!</thought></line>
+<line speaker="Ryunosuke">Yes, of course! If Drebber and Dr Sithe are working together now... ...then if Drebber were to betray her, there would be no reason for her to continue to cooperate. (In that case, there's only one way around it. I'll have to prove he really did see it. Prove he really did see the Professor's corpse coming back from the dead as he originally claimed!)</line>
 <line speaker="Susato">Yes, Mr Naruhodo! Exactly!</line>
 <line speaker="Ryunosuke">Mr Drebber, do you remember this camera?</line>
 <line speaker="Drebber">...!</line>
@@ -1321,11 +1321,11 @@
 <line speaker="Judge">Well, Counsel, who is it then? Who is this witness trying to protect by lying about what he saw that night?</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Judge:</line>
-<line speaker="Ryunosuke"><thought>Uh-oh! That's not the reaction I was expecting either.</thought></line>
+<line speaker="Ryunosuke">(Uh-oh! That's not the reaction I was expecting either.)</line>
 <line speaker="Van Zieks">I suggest...you go and crawl into a tomb. Maybe then you'll emerge with a better grasp on the case.</line>
 <line speaker="Ryunosuke">Uwaaaaaagh!</line>
 <line speaker="Susato">Fear not, Mr Naruhodo! I'll shield you, even if I must lie to do it! I'll tell them that such a terrible mistake is completely out of character!</line>
-<line speaker="Ryunosuke"><thought>...I can't have Susato-san committing perjury for me. No. No more mistakes. I need to get this right now!</thought></line>
+<line speaker="Ryunosuke">(...I can't have Susato-san committing perjury for me. No. No more mistakes. I need to get this right now!)</line>
 <line speaker="Ryunosuke">The obvious answer...is Dr Sithe!</line>
 <line speaker="Van Zieks">Sithe...?</line>
 <line speaker="Judge">What, whatever do you mean?</line>
@@ -1337,7 +1337,7 @@
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">Yes, that's exactly what it would mean.</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But the fact is...there was a witness to the fact that the man did escape his hanging!</line>
 <line speaker="Judge">If that were really true, Counsel, the implications of misconduct would not stop at the supervising coroner. It would taint the honour of the entire judiciary, from the ground up!</line>
 <line speaker="Sithe">.........</line>
@@ -1351,7 +1351,7 @@
 <line speaker="Van Zieks">It's just the sort of tall tale Londoners would enjoy, I grant you. An executed killer rising from the dead... A Scotland Yard cover-up... A conspiracy at the highest levels... So let me ask you one thing...</line>
 <line speaker="Ryunosuke">What's that?</line>
 <line speaker="Van Zieks">If the condemned man really did emerge from his tomb that night only to be shot in the chest... ...who pulled the trigger and disposed of him forever?</line>
-<line speaker="Ryunosuke">Uh, well... <thought>I have no idea at the moment!</thought></line>
+<line speaker="Ryunosuke">Uh, well... (I have no idea at the moment!)</line>
 <line speaker="Susato">We have too little information to work that out at present, I think.</line>
 <line speaker="Ryunosuke">I, I couldn't agree more...</line>
 <line speaker="Van Zieks">The Old Bailey is no place for wild fantasies.</line>
@@ -1365,14 +1365,14 @@
 <line speaker="Van Zieks">And this was no petty crime, either. The victim was murdered. A man who'd already invested money in the venture, and would be instrumental in future profits, too.</line>
 <line speaker="Drebber">Yes, I had no reason to kill Mr Asman at all. Or are you forgetting that his death results in me receiving not a single penny? The court is already aware of the contract between myself and the victim, no?</line>
 <line speaker="Judge">Hmmm... There is the contract, that's very true...</line>
-<line speaker="Ryunosuke">......... <thought>The motive for this case runs deep, though. I can feel it.</thought></line>
+<line speaker="Ryunosuke">......... (The motive for this case runs deep, though. I can feel it.)</line>
 <line speaker="Susato">Using threats to force the head of the Forensic Investigation Team to cooperate is extreme. Especially for a government grant he had no guarantee of receiving in the first place.</line>
-<line speaker="Ryunosuke">...If the research grant was the aim, taking Mr Asman's life would have made no sense anyway. Which means... ...Mr Drebber's motive wasn't money at all. He was...just trying to kill Mr Asman! <thought>But why? What WAS his motive, then?</thought></line>
+<line speaker="Ryunosuke">...If the research grant was the aim, taking Mr Asman's life would have made no sense anyway. Which means... ...Mr Drebber's motive wasn't money at all. He was...just trying to kill Mr Asman! (But why? What WAS his motive, then?)</line>
 <line speaker="Van Zieks">Your time is up, my learned friend. I'd say you have one last chance before the jury lose their patience with this charade.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Van Zieks">Let's see if you can back up your heady proposal, shall we? How do you explain why this engineer would throw all caution to the wind and threaten his own country?</line>
 <line speaker="Judge">At this point, I'm not prepared to listen to more of this outlandish conjecture without proof. So, Counsel...present your evidence.</line>
-<line speaker="Ryunosuke"><thought>Alright... Who exactly was Mr Asman to Drebber? There's a connection there that no one's seen yet. And I'm going to have to present two pieces of evidence to show what it is.</thought> Yes, My Lord. The evidence that establishes a motive and explains why the witness wanted the victim dead is right here!</line>
+<line speaker="Ryunosuke">(Alright... Who exactly was Mr Asman to Drebber? There's a connection there that no one's seen yet. And I'm going to have to present two pieces of evidence to show what it is.) Yes, My Lord. The evidence that establishes a motive and explains why the witness wanted the victim dead is right here!</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Drebber">Yes, that's right. The very document, in fact... ...that proves I had no reason to kill the man.</line>
 <line speaker="Ryunosuke">No, I'm afraid not. As it turns out... ...this contract actually helps to establish the real motive for the murder you committed.</line>
@@ -1389,11 +1389,11 @@
 <line speaker="Susato">...That was just a pun, Mr Naruhodo. The irony was...elsewhere.</line>
 <line speaker="Ryunosuke">Oh.</line>
 <line speaker="Judge">Your argument clearly does not stand without this second piece of evidence, which remains elusive.</line>
-<line speaker="Ryunosuke">Ah, yes! Sorry, My Lord! <thought>The evidence I need to supplement the contract... I know it's right in front of my eyes!</thought></line>
+<line speaker="Ryunosuke">Ah, yes! Sorry, My Lord! (The evidence I need to supplement the contract... I know it's right in front of my eyes!)</line>
 <line speaker="Ryunosuke">It's this newspaper article, My Lord.</line>
 <line speaker="Van Zieks">That was written ten years ago...and every detail has been examined already. What can it possibly tell us?</line>
 <line speaker="Drebber">That drivel should never have been written! It's typical gutter press nonsense that means nothing!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But there's something significant that this newspaper article and the contract have in common.</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Van Zieks">That was written ten years ago...and every detail has been examined already. What can it possibly tell us?</line>
@@ -1409,7 +1409,7 @@
 <line speaker="Susato">...That was just a pun, Mr Naruhodo. The irony was...elsewhere.</line>
 <line speaker="Ryunosuke">Oh.</line>
 <line speaker="Judge">Your argument clearly does not stand without this second piece of evidence, which remains elusive.</line>
-<line speaker="Ryunosuke">Ah, yes! Sorry, My Lord! <thought>The evidence I need to supplement the article... I know it's right in front of my eyes!</thought></line>
+<line speaker="Ryunosuke">Ah, yes! Sorry, My Lord! (The evidence I need to supplement the article... I know it's right in front of my eyes!)</line>
 <line speaker="Ryunosuke">It's this contract, My Lord. Mr Drebber, this is the contract you signed with Mr Asman.</line>
 <line speaker="Drebber">Yes, that's right. The very document, in fact... ...that proves I had no reason to kill the man.</line>
 <line speaker="Ryunosuke">No, I'm afraid not.</line>
@@ -1419,7 +1419,7 @@
 <line speaker="Judge">......... 'If', Counsel?</line>
 <line speaker="Ryunosuke">.........Yes. If it did...it would be great, I was thinking. Or hoping, anyway. ...Well, wishing, really.</line>
 <line speaker="Judge">Are you treating my courtroom like a fountain that grants wishes when you throw money into it?</line>
-<line speaker="Ryunosuke"><thought>I knew I should have thrown more than a farthing in last time I was at the park...</thought></line>
+<line speaker="Ryunosuke">(I knew I should have thrown more than a farthing in last time I was at the park...)</line>
 <line speaker="Susato">I don't think this has anything to do with your offerings to the gods, Mr Naruhodo.</line>
 <line speaker="Judge">Really?</line>
 <line speaker="Ryunosuke">And it's that common link... ...that shows very clearly why you were determined to kill Mr Odie Asman!</line>
@@ -1465,7 +1465,7 @@
 <line speaker="Drebber">Almost every student of science in the faculty was too poor to actually conduct any research. But they struggled on with their hypotheses anyway. We all did. Only to have them taken by vultures. Sooner or later, you knew your ideas would be stolen and patented by some wretch or other, after all.</line>
 <line speaker="Judge">Good gracious...</line>
 <line speaker="Drebber">Making a name for yourself as a scientist in a climate like that... ...was a miracle only a select few geniuses could ever hope to achieve. Personally, I wasn't one of those geniuses. So it was hardly a wrench. Being forced out of the university because of Lowgate was the best thing that could have happened to me!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Mr Drebber... ...do you genuinely believe that?</line>
 <line speaker="Drebber">Of course I do! Who's better placed to know whether or not I possess a talent for science than me?</line>
 <line speaker="Ryunosuke">I'm sorry to say...that your words don't ring true at all.</line>
@@ -1478,7 +1478,7 @@
 <line speaker="Ryunosuke">Hm?</line>
 <line speaker="Drebber">Believe me, I've seen many a young man's dreams crushed in the vice of life.</line>
 <line speaker="Van Zieks">My advice is for you to do what you Nipponese do best: bow out, and go back home to the farm.</line>
-<line speaker="Ryunosuke"><thought>But my 'farm' is a fifty-day boat ride away...</thought></line>
+<line speaker="Ryunosuke">(But my 'farm' is a fifty-day boat ride away...)</line>
 <line speaker="Susato">If Lord van Zieks is trying to imply that Tokyo is some small, provincial agricultural town, he's sorely mistaken!</line>
 <line speaker="Ryunosuke">As I said, the idea that you left university without looking back because you thought you had no talent is nonsense.</line>
 <line speaker="Drebber">...!</line>
@@ -1496,13 +1496,13 @@
 <line speaker="Drebber">.........</line>
 <line speaker="Ryunosuke">I don't know when you realised who Mr Asman was. But when it dawned on you that he was the same journalist who ten years ago ruined your life... ...it's abundantly clear...that you had no intention of forgiving the man!</line>
 <line speaker="Drebber">......... .................. The truth...is...</line>
-<line speaker="Ryunosuke"><thought>Finally, he's going to fold.</thought></line>
+<line speaker="Ryunosuke">(Finally, he's going to fold.)</line>
 <line speaker="Susato">.........</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Sithe">Haaah... Fine. Clearly this has run its course now.</line>
 <line speaker="Drebber">What?!</line>
 <line speaker="Sithe">I admit it. All of it.</line>
-<line speaker="Ryunosuke"><thought>What?!</thought></line>
+<line speaker="Ryunosuke">(What?!)</line>
 <line speaker="Drebber">W-What are you doing?!</line>
 <line speaker="Sithe">It's exactly as the Japanese man said. I was coerced into going along with this man's plot to murder the victim. On the condition that he kept my dirty secret from ten years ago.</line>
 <line speaker="Ryunosuke">I...</line>
@@ -1539,16 +1539,16 @@
 <line speaker="Susato">Oh, congratulations, Mr Naruhodo! You've proven Professor Harebrayne's innocence!</line>
 <line speaker="Judge">Without further ado then, the adjudication. Unless the prosecution or defence have any other matters to discuss?</line>
 <line speaker="Van Zieks">.........</line>
-<line speaker="Ryunosuke">......... <thought>I don't know... This doesn't feel quite right. Why did Dr Sithe suddenly admit to it like that?</thought></line>
+<line speaker="Ryunosuke">......... (I don't know... This doesn't feel quite right. Why did Dr Sithe suddenly admit to it like that?)</line>
 <line speaker="Susato">Is everything alright, Mr Naruhodo?</line>
-<line speaker="Ryunosuke">Like you said before, the way the trial is set to end now... ...the judge will certainly deliver a verdict of not guilty. <thought>But is that really what we want? What the defence should be pushing for now is...</thought></line>
-<line speaker="Ryunosuke"><thought>If the judge gives his verdict now, Professor Harebrayne will be found not guilty, without any doubt.</thought></line>
+<line speaker="Ryunosuke">Like you said before, the way the trial is set to end now... ...the judge will certainly deliver a verdict of not guilty. (But is that really what we want? What the defence should be pushing for now is...)</line>
+<line speaker="Ryunosuke">(If the judge gives his verdict now, Professor Harebrayne will be found not guilty, without any doubt.)</line>
 <line speaker="Susato">Is something troubling you, perhaps?</line>
-<line speaker="Ryunosuke">Yes... But it's probably nothing. <thought>In the antechamber during the recess earlier... ...I did give Mr Sholmes my word though, didn't I? I told him I'd pursue any doubts I had about the truth to the absolute last.</thought></line>
+<line speaker="Ryunosuke">Yes... But it's probably nothing. (In the antechamber during the recess earlier... ...I did give Mr Sholmes my word though, didn't I? I told him I'd pursue any doubts I had about the truth to the absolute last.)</line>
 <line speaker="Susato">If you gave Mr Sholmes your word, then it most certainly isn't nothing! And it means there's only one right answer here.</line>
-<line speaker="Ryunosuke">...Yes, you're right. <thought>I don't know why I was ever wavering.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">...Yes, you're right. (I don't know why I was ever wavering.)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The defence objects to the trial ending at this time, My Lord.</line>
 <line speaker="Judge">I beg your pardon?</line>
 <line speaker="Ryunosuke">We demand...one final testimony!</line>
@@ -1558,11 +1558,11 @@
 <line speaker="Susato">Mr Naruhodo, what exactly are you thinking?</line>
 <line speaker="Ryunosuke">The truth - the whole truth - and a way to bring it all out into the open.</line>
 <line speaker="Susato">Right!</line>
-<line speaker="Ryunosuke">......... <thought>Yes, in hindsight...</thought></line>
+<line speaker="Ryunosuke">......... (Yes, in hindsight...)</line>
 <line speaker="Sholmes">Ah yes, one word of warning before I go: If, in the course of the trial this afternoon, you perceive even a shadow of doubt about the truth... ...don't let it out of your sight. Pursue it like a dog with a bone.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Sholmes">To the bitter end, you understand. Do not falter, whatever may come to pass.</line>
-<line speaker="Ryunosuke"><thought>...I'm sure Mr Sholmes knew. He must have deduced that this would happen.</thought> Yes, I'm here in court to advocate for my client. And to secure an acquittal.</line>
+<line speaker="Ryunosuke">(...I'm sure Mr Sholmes knew. He must have deduced that this would happen.) Yes, I'm here in court to advocate for my client. And to secure an acquittal.</line>
 <line speaker="Van Zieks">Obviously.</line>
 <line speaker="Ryunosuke">But that's not all. I believe that I have a duty to the court... ...to pursue the whole truth of the case until every last detail is laid bare!</line>
 <line speaker="Van Zieks">.........</line>
@@ -1573,7 +1573,7 @@
 <line speaker="Ryunosuke">Agh!</line>
 <line speaker="Sithe">As His Lordship made very plain, your client will get the acquittal you wanted for him. There's simply no point protracting this business further with another tedious cross-examination.</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><thought>That's what you call it?</thought></line>
+<line speaker="Ryunosuke">(That's what you call it?)</line>
 <line speaker="Judge">W-What is your objection, Lord van Zieks?</line>
 <line speaker="Van Zieks">The prosecution... ...also calls for supplementary testimony from the witness.</line>
 <line speaker="Sithe">Don't be stupid!</line>
@@ -1591,12 +1591,12 @@
 <line speaker="Susato">That's all...? That's a terrible corruption!</line>
 <line speaker="Sithe">Only my team were aware of the deceit, and then only under my explicit instructions. Nobody else at Scotland Yard knew anything about it, I assure you.</line>
 <line speaker="Judge">Hm...we must be thankful for small mercies, I suppose. Well, I believe that testimony has clarified everything. There's no particular need for a cross-examination, I would say...</line>
-<line speaker="Ryunosuke"><thought>No, I disagree. I can't shake the feeling that something's wrong. Just look at that expression on Dr Sithe's face.</thought> It's the defence's right to cross-examine any witness following testimony!</line>
+<line speaker="Ryunosuke">(No, I disagree. I can't shake the feeling that something's wrong. Just look at that expression on Dr Sithe's face.) It's the defence's right to cross-examine any witness following testimony!</line>
 <line speaker="Sithe">Tsk! What is it about you Japanese that makes you all so doggedly persistent?</line>
 <line speaker="Judge">Very well. If you so desire, Counsel, proceed with the cross-examination!</line>
 <line speaker="Ryunosuke">Yes, My Lord!</line>
 <line speaker="Sithe">It all began at the scene when I saw the waxwork and the note tucked inside its jacket.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">From what you described before, it sounds like the note was anonymous. Did you have any idea of who was behind it?</line>
 <line speaker="Sithe">There are very few people in the know about what really happened ten years ago to start with. But anyway, I'd never heard of this engineer. So no, I had no idea.</line>
 <line speaker="Ryunosuke">Yet despite not knowing who was behind the plan, you went along with it?</line>
@@ -1606,7 +1606,7 @@
 <line speaker="Judge">So, as I understand it, what you found in the birdcage was the waxwork model. Where, then, was the victim's body?</line>
 <line speaker="Sithe">.........</line>
 <line speaker="Sithe">The actual body of the victim, as indicated in the note's instructions, was beneath the experimentation stage.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you knew about the special construction of the stage used to carry out the trick, then?</line>
 <line speaker="Sithe">It was quite obvious what had happened with the victim and the waxwork.</line>
 <line speaker="Ryunosuke">And you switched the two over, didn't you? In other words... ...you recorded the victim's body as having been discovered in the Crystal Tower. And the waxwork...?</line>
@@ -1618,7 +1618,7 @@
 <line speaker="Ryunosuke">I suppose you were focused on the victim's body, that being a more important detail.</line>
 <line speaker="Sithe">.........</line>
 <line speaker="Sithe">The body had to be 'arranged' in certain ways to implicate the defendant...which was my job.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">When you say 'arranged', I presume you mean with this?</line>
 <line speaker="Sithe">Yes. The instructions in the engineer's note said something along the lines of: 'Fabricate some evidence to make it clear that Harebrayne alone could have killed Asman.'</line>
 <line speaker="Ryunosuke">So...you mean that was your doing?</line>
@@ -1637,7 +1637,7 @@
 <line speaker="Sithe">There's really no need to shout. I can hear you perfectly well.</line>
 <line speaker="Ryunosuke">The defence calls for you to add what you just said to your formal testimony!</line>
 <line speaker="Sithe">Oh? Which part?</line>
-<line speaker="Ryunosuke"><thought>What I want her to supplement her testimony with is...</thought></line>
+<line speaker="Ryunosuke">(What I want her to supplement her testimony with is...)</line>
 <line speaker="Ryunosuke">The real cause of death being the fall of thirty feet! That part!</line>
 <line speaker="Sithe">Fine, if that's what you want. Just stop yelling, please.</line>
 <line speaker="Van Zieks">...The prosecution concurs.</line>
@@ -1649,14 +1649,14 @@
 <line speaker="Sithe">.........</line>
 <line speaker="Judge">Very well. You will supplement your testimony now, witness.</line>
 <line speaker="Sithe">If you wish, My Lord.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You mean what you did with this, correct?</line>
 <line speaker="Sithe">I was merely carrying out the engineer's instructions. In his words: 'Fabricate some evidence to make it clear that Harebrayne alone could have killed Asman.'</line>
 <line speaker="Ryunosuke">And so you went, without any of your team, to where Asman had fallen.</line>
 <line speaker="Sithe">That's right, yes.</line>
-<line speaker="Ryunosuke"><thought>I'm sure there's something here in this testimony...</thought></line>
+<line speaker="Ryunosuke">(I'm sure there's something here in this testimony...)</line>
 <line speaker="Susato">You know, if you think it would be appropriate... ...I'm sure you could ask Dr Sithe to change the supplementary testimony she gave before. </line>
-<line speaker="Ryunosuke"><thought>Hm, what should I ask her to do with the statement she added?</thought></line>
+<line speaker="Ryunosuke">(Hm, what should I ask her to do with the statement she added?)</line>
 <line speaker="Ryunosuke">Dr Sithe, what you said before about what you did to the victim's body... I believe that may be significant, so could you change your supplementary statement to explain that instead?</line>
 <line speaker="Sithe">...Very well.</line>
 <line speaker="Ryunosuke">Dr Sithe, what you said before about the real cause of death... I believe that may be significant, so could you change your supplementary statement to explain that instead?</line>
@@ -1664,7 +1664,7 @@
 <line speaker="Ryunosuke">I don't think there's any need to ask her to change it.</line>
 <line speaker="Susato">Of course, I'm sure you're right.</line>
 <line speaker="Sithe">The actual cause of death was the neck trauma Asman suffered from the thirty-foot fall.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You're quite sure of that? It was as a result of a broken neck?</line>
 <line speaker="Sithe">Yes. As a professional, that was more than apparent.</line>
 <line speaker="Susato">You'd never know just by looking at the photograph of the victim though, would you?</line>
@@ -1675,7 +1675,7 @@
 <line speaker="Van Zieks">There's no point calling her assessment into question without evidence. Let's get back to the testimony.</line>
 <line speaker="Sithe">...Very well.</line>
 <line speaker="Sithe">I stood over the victim's corpse where it lay in the toppled cage and plunged the screwdriver into the chest.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So it was you who stabbed Asman with this!</line>
 <line speaker="Sithe">Yes. Far easier than dissection, I assure you. No precision required.</line>
 <line speaker="Ryunosuke">What a welcome change...</line>
@@ -1684,9 +1684,9 @@
 <line speaker="Sithe">There was no need to bat my eyelids.</line>
 <line speaker="Ryunosuke">And what else did you do to twist the facts? Remind the court, why don't you?</line>
 <line speaker="Sithe">...If you wish.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sithe">I enlisted the help of the entire Forensic Investigation Team to dress the scene appropriately.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The entire team? In perverting the course of justice?</line>
 <line speaker="Sithe">......... My team consists of the very best investigators there are. I demand loyalty from all members. We operate on a code of chivalry of sorts.</line>
 <line speaker="Ryunosuke">You aid and abet a murderer, commit perjury and dare to talk of chivalry?!</line>
@@ -1695,10 +1695,10 @@
 <line speaker="Sithe">Nothing was more important than protecting the secret of the Professor. My team did what was necessary without losing sight of the primary goal. I consider their conduct exemplary.</line>
 <line speaker="Ryunosuke">Ugh...</line>
 <line speaker="Susato">Don't concede the point, Mr Naruhodo! You mustn't let her win!</line>
-<line speaker="Ryunosuke"><thought>I need a lawyer...</thought></line>
+<line speaker="Ryunosuke">(I need a lawyer...)</line>
 <line speaker="Sithe">I'll take that silence as tacit acceptance. Now...can we move on?</line>
 <line speaker="Sithe">The truth about the execution ten years ago is a state secret of the highest level. I had to protect it.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But at what cost? Faith in Scotland Yard is going to suffer a terrible blow as a result of this.</line>
 <line speaker="Van Zieks">And your precious secret is out now anyway.</line>
 <line speaker="Sithe">......... Yes, as you say. And I take full responsibility.</line>
@@ -1708,19 +1708,19 @@
 <line speaker="Ryunosuke">Whew. I nearly froze under that cold stare as she said that.</line>
 <line speaker="Susato">I do believe she was being genuine though, Mr Naruhodo.</line>
 <line speaker="Sithe">.........</line>
-<line speaker="Ryunosuke"><thought>So that's her story...</thought></line>
+<line speaker="Ryunosuke">(So that's her story...)</line>
 <line speaker="Susato">She's admitted everything and revealed her full involvement in the crime. I do wonder if there could really be much more to it.</line>
 <line speaker="Ryunosuke">Well, I don't know. But...I just have a feeling.</line>
 <line speaker="Susato">Do you, Mr Naruhodo? The truth is, I find it strange, too. How those two are reacting to this in completely opposite ways, I mean.</line>
-<line speaker="Ryunosuke">Yes, exactly. <thought>For some reason, I feel sure they're still trying to hide something...</thought></line>
-<line speaker="Ryunosuke">......... <thought>I've got a nasty feeling... ...that this inconsistency points to an extremely uncomfortable truth!</thought></line>
+<line speaker="Ryunosuke">Yes, exactly. (For some reason, I feel sure they're still trying to hide something...)</line>
+<line speaker="Ryunosuke">......... (I've got a nasty feeling... ...that this inconsistency points to an extremely uncomfortable truth!)</line>
 <line speaker="Judge">What on earth is the matter, Counsel? Have you lost your tongue?</line>
 <line speaker="Ryunosuke">I apologise, My Lord. Dr Sithe, in that last statement of yours, there's just one point... ...that seems to defy explanation.</line>
 <line speaker="Sithe">...!</line>
 <line speaker="Van Zieks">Out with it, my learned friend.</line>
 <line speaker="Ryunosuke">There's an obvious inconsistency between your description and this photograph... ...which shows the victim in the birdcage following the events that led to his death.</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Yes, we have already considered it, that's true. But we now know the facts to be different!</line>
 <line speaker="Van Zieks">What do you mean?</line>
 <line speaker="Judge">I believe we should let the defence explain. Where in this photograph would we see the alleged inconsistency with the witness's statement?</line>
@@ -1737,7 +1737,7 @@
 <line speaker="Sithe">......... Ah!</line>
 <line speaker="Ryunosuke">Given that the victim's blood seeped vertically downwards from the wound... ...it must be the case that when you stabbed Mr Asman... he was standing up. In short, Dr Sithe... ...your latest testimony was a total fabrication!</line>
 <line speaker="Sithe">Agh... AAAAAAAAAAAAAAARH!</line>
-<line speaker="Ryunosuke"><thought>I knew it. I was right. Now I've identified that contradiction, there's only one way to explain the facts.</thought> We've all been under a great misapprehension here.</line>
+<line speaker="Ryunosuke">(I knew it. I was right. Now I've identified that contradiction, there's only one way to explain the facts.) We've all been under a great misapprehension here.</line>
 <line speaker="Van Zieks">What?! What sort of misapprehension?</line>
 <line speaker="Ryunosuke">......... Dr Sithe...</line>
 <line speaker="Sithe">...!</line>
@@ -1778,7 +1778,7 @@
 <line speaker="Sithe">.........</line>
 <line speaker="Ryunosuke">You hoped that by admitting to being an accomplice in Mr Drebber's scheme, the trial would end... ...before you were accused of a far worse crime: Cold-blooded murder!</line>
 <line speaker="Sithe">Oh do shut up! You're so desperate now, you're making all this up! As if I would do something like that!</line>
-<line speaker="Susato"><cutIn>Objection!</cutIn></line>
+<line speaker="Susato"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Susato">I assure you the defence is not desperate, Doctor! Mr Naruhodo has established the facts using evidence and logic alone!</line>
 <line speaker="Sithe">Hah! Logic? Don't make me laugh. Sadly your 'logic' has a gaping hole in it!</line>
 <line speaker="Ryunosuke">Wha...? What do you mean?</line>
@@ -1786,22 +1786,22 @@
 <line speaker="Van Zieks">Asman was involved in any number of criminal activities, from coercion to theft to murder... But there is no known connection to Dr Sithe there.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Judge">Hmmm... I'm rather relieved to say it does seem somewhat far-fetched.</line>
-<line speaker="Ryunosuke"><thought>True, there's no obvious motive. But there's still something in the back of my mind. I feel sure I've seen something somewhere that hints at why the coroner might have done this...</thought></line>
+<line speaker="Ryunosuke">(True, there's no obvious motive. But there's still something in the back of my mind. I feel sure I've seen something somewhere that hints at why the coroner might have done this...)</line>
 <line speaker="Sithe">Yes, I might have tampered with the crime scene and concocted a fake report. But murdering someone for no reason is a very different story!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">......... No, when you questioned what possible reason you could have for wanting to kill Mr Asman... ...something did come to mind.</line>
 <line speaker="Sithe">What?</line>
 <line speaker="Judge">What was it, Counsel? Enlighten the court at once!</line>
-<line speaker="Ryunosuke"><thought>Yes, we saw it yesterday, didn't we? Something that seemed strange, but we had no reason to suspect it at the time...</thought> There's a particular object that explains why Dr Sithe would have wanted to kill Mr Asman!</line>
+<line speaker="Ryunosuke">(Yes, we saw it yesterday, didn't we? Something that seemed strange, but we had no reason to suspect it at the time...) There's a particular object that explains why Dr Sithe would have wanted to kill Mr Asman!</line>
 <line speaker="Ryunosuke">It's the iron mask.</line>
 <line speaker="Sithe">......... You've lost me.</line>
 <line speaker="Ryunosuke">Huh?</line>
 <line speaker="Susato">Um, sorry, Mr Naruhodo, but why the iron mask?</line>
 <line speaker="Ryunosuke">Well...of all the things I saw yesterday, it left the greatest impression, so...</line>
 <line speaker="Sithe">Clearly you have no idea what you're talking about.</line>
-<line speaker="Ryunosuke">Agh! <thought>I think I must have said the wrong thing...</thought></line>
+<line speaker="Ryunosuke">Agh! (I think I must have said the wrong thing...)</line>
 <line speaker="Susato">Forgive the interruption, Dr Sithe... ...but what my colleague meant to say was 'scalpels'. Perhaps that makes a little more sense to you?</line>
-<line speaker="Ryunosuke">Ah... <thought>Of course!</thought></line>
+<line speaker="Ryunosuke">Ah... (Of course!)</line>
 <line speaker="Ryunosuke">It's a scalpel. Or rather...scalpels.</line>
 <line speaker="Ryunosuke">It's the screwdriver! Or should I say 'Master Andrew'?</line>
 <line speaker="Sithe">......... You've not making any sense.</line>
@@ -1809,9 +1809,9 @@
 <line speaker="Susato">Um, sorry, Mr Naruhodo, but how is Professor Harebrayne's trusty tool related to the motive?</line>
 <line speaker="Ryunosuke">I...can't really explain that myself actually...</line>
 <line speaker="Sithe">Clearly you have no idea what you're talking about.</line>
-<line speaker="Ryunosuke">Agh! <thought>I think I must have said the wrong thing...</thought></line>
+<line speaker="Ryunosuke">Agh! (I think I must have said the wrong thing...)</line>
 <line speaker="Susato">Forgive the interruption, Dr Sithe... ...but what my colleague meant to say was 'scalpels'. Perhaps that makes a little more sense to you?</line>
-<line speaker="Ryunosuke">Ah... <thought>Of course!</thought></line>
+<line speaker="Ryunosuke">Ah... (Of course!)</line>
 <line speaker="Judge">Did you say 'scalpels'?!</line>
 <line speaker="Sithe">...Ah!</line>
 <line speaker="Ryunosuke">It would appear that word has struck a chord, Doctor.</line>
@@ -1889,7 +1889,7 @@
 <line speaker="Juror No. 6">I don't know what's become of the Yard these days. I don't recognise the place.</line>
 <line speaker="Judge">Very well. In that case, I hereby pronounce the defendant...</line>
 <line speaker="Judge">Court is adjourned!</line>
-<line speaker="Ryunosuke"><thought>It's over... ...That was some trial.</thought></line>
+<line speaker="Ryunosuke">(It's over... ...That was some trial.)</line>
 <line speaker="Ryunosuke">Professor! What a splendid outcome, isn't it?</line>
 <line speaker="Susato">Oh, it is, it is! Congratulations, Professor Harebrayne!</line>
 <line speaker="Harebrayne">......... Mr Naruhodo... Miss Susato... I am truly...truuuly... ...beside myself with gratitude! How can I ever thank you enough?!</line>
@@ -1908,7 +1908,7 @@
 <line speaker="Van Zieks">I'm sorry you had to go through that, Albert.</line>
 <line speaker="Harebrayne">Well, if I'm honest...it, it was terrifying! You were like a great demon behind your bench there, snarling down on your prey!</line>
 <line speaker="Van Zieks">......... You're one of the few true friends I have. I couldn't leave it to anybody else to handle the prosecution...or the defence.</line>
-<line speaker="Ryunosuke">Sorry? <thought>Or the defence? Did, did I just hear that right?</thought></line>
+<line speaker="Ryunosuke">Sorry? (Or the defence? Did, did I just hear that right?)</line>
 <line speaker="Harebrayne">I always knew that you had my best interests at heart, don't worry. Ah, how about you show me around while I'm here in town? It's been a long time since we left university. We have a lot to catch up on.</line>
 <line speaker="Van Zieks">......... Listen, Albert... ...in a few days, your acquittal will be made official. When that happens... ...you must head straight to Dover. I'll accompany you.</line>
 <line speaker="Harebrayne">What?</line>
@@ -1929,21 +1929,21 @@
 <line speaker="Van Zieks">......... True. And perhaps that governs the Reaper's actions. The truly innocent are spared. But I don't want to take any chances with a close personal friend.</line>
 <line speaker="Harebrayne">B-B-Barok...</line>
 <line speaker="Van Zieks">Like the moustached Nipponese...this man should leave the country without delay. That's why...I'm packing him off to Germany at once!</line>
-<line speaker="Ryunosuke">R-Right... <thought>Does your friend-shaped package get any say in it...?</thought></line>
+<line speaker="Ryunosuke">R-Right... (Does your friend-shaped package get any say in it...?)</line>
 <line speaker="Susato">Goodness! Was this your intention all along then, Lord van Zieks?</line>
 <line speaker="Van Zieks">.........</line>
-<line speaker="Ryunosuke"><thought>In court, where people think of him as the Reaper, this man seems absolutely merciless...and yet... ...sometimes I feel as though I don't understand him at all.</thought></line>
+<line speaker="Ryunosuke">(In court, where people think of him as the Reaper, this man seems absolutely merciless...and yet... ...sometimes I feel as though I don't understand him at all.)</line>
 <line speaker="Van Zieks">It's time to go, Albert. Back to the prison for the time being.</line>
 <line speaker="Harebrayne">Ah, yes, alright. Well then, Mr Naruhodo... ...thank you so much for everything!</line>
 <line speaker="Ryunosuke">Not at all, Professor! It was a pleasure getting to know you!</line>
 <line speaker="Susato">Best wishes, Professor Harebrayne.</line>
 <line speaker="Harebrayne">Well, once the dust has settled...you MUST come and visit me in Germany! Anyway, goodbye for now!</line>
 <line speaker="Van Zieks">Now, my Nipponese friend...</line>
-<line speaker="Ryunosuke">Oh! Yes? <thought>I thought you'd gone too...</thought></line>
+<line speaker="Ryunosuke">Oh! Yes? (I thought you'd gone too...)</line>
 <line speaker="Van Zieks">...we have matters to discuss. Can you spare me some time?</line>
 <line speaker="Ryunosuke">You want to talk with me?</line>
 <line speaker="Van Zieks">I'll be waiting in the courtroom in ten minutes.</line>
-<line speaker="Ryunosuke"><thought>Well that was strange. For some reason I didn't get that sense of impending doom as he walked away this time. The enigma, Barok van Zieks... What does he want to discuss, I wonder? The answer awaits in the courtroom, I suppose. Here goes then...</thought></line>
+<line speaker="Ryunosuke">(Well that was strange. For some reason I didn't get that sense of impending doom as he walked away this time. The enigma, Barok van Zieks... What does he want to discuss, I wonder? The answer awaits in the courtroom, I suppose. Here goes then...)</line>
 <line speaker="Van Zieks">So, are you satisfied? You saved a guileless scientist from a great injustice.</line>
 <line speaker="Ryunosuke">Um...yes! I think so. I'm relieved, at least, that the man's innocence could be proven.</line>
 <line speaker="Van Zieks">......... Anyway... ...I imagine you've been wondering where my animosity towards you Nipponese comes from.</line>
@@ -1981,7 +1981,7 @@
 <line speaker="???">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGH!</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="???">Fa... Father...</line>
-<line speaker="Ryunosuke">...! Wha...? 'Father'? Kazuma! <thought>My best friend, Kazuma Asogi... After a whole year... finally, his memories returned... ...as he stood there before me...</thought></line>
+<line speaker="Ryunosuke">...! Wha...? 'Father'? Kazuma! (My best friend, Kazuma Asogi... After a whole year... finally, his memories returned... ...as he stood there before me...)</line>
 <line speaker="Kazuma">Ryunosuke...</line>
 <line speaker="Ryunosuke">Hello again... ...my friend.</line>
 <line speaker="Susato">Kazuma-sama!</line>
@@ -1989,34 +1989,34 @@
 <line speaker="Susato">It...it was an honour.</line>
 <line speaker="Ryunosuke">I knew you wouldn't die that easily, Kazuma.</line>
 <line speaker="Kazuma">...I owe you thanks, too. ...for taking good care of that in my absence.</line>
-<line speaker="Ryunosuke">Hm? ...Oh! <thought>Karuma, the great blade of the Asogi clan, passed down through the generations... When we left Japan, this sword was at my friend's side. A Japanese man's katana is his soul. And he couldn't be parted from it. But then, when the incident happened... ...it was Susato-san's wish that I inherit the sword. And I've kept it with me ever since...along with my memories of the friendship we shared.</thought> With this by my side, I always felt that you were watching over me somehow.</line>
+<line speaker="Ryunosuke">Hm? ...Oh! (Karuma, the great blade of the Asogi clan, passed down through the generations... When we left Japan, this sword was at my friend's side. A Japanese man's katana is his soul. And he couldn't be parted from it. But then, when the incident happened... ...it was Susato-san's wish that I inherit the sword. And I've kept it with me ever since...along with my memories of the friendship we shared.) With this by my side, I always felt that you were watching over me somehow.</line>
 <line speaker="Kazuma">I've made it at last...Father.</line>
-<line speaker="Ryunosuke">Are you saying...? Surely not! You mean...y-you knew all this time?! <thought>I'm looking at it, but I still can't believe it... This mass murderer...is Kazuma's father!</thought></line>
+<line speaker="Ryunosuke">Are you saying...? Surely not! You mean...y-you knew all this time?! (I'm looking at it, but I still can't believe it... This mass murderer...is Kazuma's father!)</line>
 <line speaker="Susato">K-Kazuma-sama...</line>
 <line speaker="Kazuma">......... Ryunosuke... ...we have much to talk about, but now is not the time. ...I'll be seeing you.</line>
 <line speaker="Ryunosuke">That's all Kazuma said... ...before he turned and left us there in the courtroom.</line>
 <line speaker="Van Zieks">So he's the living 'afterimage' of the man who took my brother's life, is he?</line>
 <line speaker="Ryunosuke">Yes, Kazuma Asogi. My best friend.</line>
 <line speaker="Van Zieks">Three months ago, when Lord Stronghart introduced us... ...I had an inkling there was something there. Some connection.</line>
-<line speaker="Ryunosuke"><thought>But why did Lord Stronghart do that? Why did he make Kazuma Lord van Zieks's apprentice? And when he was suffering amnesia, too...</thought></line>
+<line speaker="Ryunosuke">(But why did Lord Stronghart do that? Why did he make Kazuma Lord van Zieks's apprentice? And when he was suffering amnesia, too...)</line>
 <line speaker="Van Zieks">The man was apprehended... Even executed... ...but his legacy just won't die. That's the sad truth. Anyway, that's all I had to say. I thank you for meeting with me as I asked.</line>
 <line speaker="Susato">Ten years ago... ...my grandmother took me to the railway station. We were there to meet my father from the train. For me... ...it was the first time I'd ever seen him.</line>
-<line speaker="Ryunosuke"><thought>Poor Susato-san. All this is tied up with painful memories for her, too. She's never talked about this with me before, though...</thought></line>
+<line speaker="Ryunosuke">(Poor Susato-san. All this is tied up with painful memories for her, too. She's never talked about this with me before, though...)</line>
 <line speaker="Susato">It took time to adjust to having Father around. But just when I was starting to get used to it... ...he called me into his study one day. He told me that a great friend of his had passed away in London. And that the friend had left behind a son. A boy, seven years my senior. Father told me the boy had made a promise to his late father... ...so he was studying to become a defence lawyer.</line>
 <line speaker="Ryunosuke">I can't find anything out of place.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Surely something about that last statement seems odd, doesn't it?</line>
 <line speaker="Judge">Would you care to mull over precisely what you find odd about it on your return journey to Japan?</line>
 <line speaker="Ryunosuke">...I wouldn't be back to give the court an answer for about four months, though.</line>
 <line speaker="Judge">Rest assured, we should be happy to carry proceedings forward in your absence, Counsel.</line>
-<line speaker="Ryunosuke"><thought>He sounds serious! I have to prove my worth before he really does send me back home!</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(He sounds serious! I have to prove my worth before he really does send me back home!)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">That last statement would seem to be at odds somehow with the evidence!</line>
 <line speaker="Judge">It is your task, Counsel, to explain the 'somehows' to the court, not the other way around.</line>
 <line speaker="Ryunosuke">...It just seems to jar, though. Don't you think?</line>
 <line speaker="Judge">What I think, is that this whole exchange has been extremely jarring, yes.</line>
-<line speaker="Ryunosuke"><thought>Perhaps I need to reconsider this...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(Perhaps I need to reconsider this...)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The defence would have to object to that last statement, My Lord!</line>
 <line speaker="Judge">And I would have to overrule your objection, Counsel.</line>
 <line speaker="Ryunosuke">The defence...would have to accept the penalty given.</line>
@@ -2028,7 +2028,7 @@
 <line speaker="Juror No. 1">Do you think I'd be reading the paper like this if it did?</line>
 <line speaker="Ryunosuke">Pardon?</line>
 <line speaker="Juror No. 1">'You see, but you do not observe, Wilson.' ...Words of a famous detective, those. Perhaps if you did a little more observing, we could save us all some time.</line>
-<line speaker="Ryunosuke"><thought>Believe me, I've seen that detective observing things, and it doesn't save anyone any time.</thought></line>
+<line speaker="Ryunosuke">(Believe me, I've seen that detective observing things, and it doesn't save anyone any time.)</line>
 <line speaker="Ryunosuke">'Scuse me!</line>
 <line speaker="Ryunosuke">Has that given you pause for thought, juror number two?</line>
 <line speaker="Juror No. 2">.........</line>
@@ -2054,7 +2054,7 @@
 <line speaker="Ryunosuke">W-What made you say that?!</line>
 <line speaker="Juror No. 4">Science is all about making observations and drawing conclusions, young man. And I've drawn plenty about you.</line>
 <line speaker="Ryunosuke">You have...?</line>
-<line speaker="Juror No. 4">At any moment, some catalyst is likely to make you explode with a cry of '<cutIn>Objection!</cutIn>'</line>
+<line speaker="Juror No. 4">At any moment, some catalyst is likely to make you explode with a cry of '<cutIn type="objection">Objection!</cutIn>'</line>
 <line speaker="Ryunosuke">...I'm not that much of an unstable substance.</line>
 <line speaker="Ryunosuke">'Scuse me!</line>
 <line speaker="Ryunosuke">Do you have something to say to that, juror number five?</line>
@@ -2071,9 +2071,9 @@
 <line speaker="Ryunosuke">Juror number six!</line>
 <line speaker="Juror No. 6">.........</line>
 <line speaker="Juror No. 5">...Don't suppose I could 'elp, could I? Always enjoy a natter, me.</line>
-<line speaker="Ryunosuke">......... <thought>Well this is new.</thought> Perhaps you could wake up the policeman next to you?</line>
+<line speaker="Ryunosuke">......... (Well this is new.) Perhaps you could wake up the policeman next to you?</line>
 <line speaker="Juror No. 5">Ar, no problem. I'll do it dreckly. Just get through some more o' this first.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements are fundamentally at odds with one another! Well, Mr Foreman?</line>
 <line speaker="Juror No. 1">...Ah, there's to be a new Herlock Sholmes adventure published next month, by the looks...</line>
 <line speaker="Ryunosuke">My, My Lord! The foreman of the jury isn't listening!</line>
@@ -2081,7 +2081,7 @@
 <line speaker="Ryunosuke">Miss Susato, no one is listening to what I'm saying...</line>
 <line speaker="Susato">Perhaps this would be a good opportunity to have a rethink then, Mr Naruhodo?</line>
 <line speaker="Van Zieks">Fear not, my learned friend. I heard every sorry word.</line>
-<line speaker="Ryunosuke"><thought>Ugh... It sounds like I'm on the wrong track here. I'd better think again.</thought></line>
+<line speaker="Ryunosuke">(Ugh... It sounds like I'm on the wrong track here. I'd better think again.)</line>
 <line speaker="Ryunosuke">'Scuse me!</line>
 <line speaker="Ryunosuke">Mr Drebber! Is something wrong?</line>
 <line speaker="Drebber">.........</line>
@@ -2096,7 +2096,7 @@
 <line speaker="Sithe">......... Your jet-black Japanese hair.</line>
 <line speaker="Ryunosuke">Pardon?</line>
 <line speaker="Sithe">It made me wonder if perhaps your head was filled with equally jet-black Indian ink. And that the only way to know for sure, would be to cut your head open and see. That's what I was thinking.</line>
-<line speaker="Ryunosuke"><thought>Alright, mental note in black sumi ink: never pursue Dr Sithe again.</thought></line>
+<line speaker="Ryunosuke">(Alright, mental note in black sumi ink: never pursue Dr Sithe again.)</line>
 <line speaker="Susato">Mr Naruhodo! You mustn't be intimidated!</line>
 <line speaker="Ryunosuke">'Scuse me!</line>
 <line speaker="Ryunosuke">Madame Tusspells!</line>

@@ -12,12 +12,12 @@
 <line speaker="Trucy">What!? They can't put her on trial without her being here!</line>
 <line speaker="Apollo">It... is unusual.</line>
 <line speaker="Trucy">They should wait for her to get better and do it then. ...It's so bureaucratic of them!</line>
-<line speaker="Apollo">That's being a little harsh. <thought>They can't delay the trial any longer. ...Or they risk having no one left to try.</thought></line>
+<line speaker="Apollo">That's being a little harsh. (They can't delay the trial any longer. ...Or they risk having no one left to try.)</line>
 <line speaker="Klavier">A trial without a verdict can only cause grief... ...The records of this case, and experience, tell us this. ...Apologies to the defendant, but the show must go on.</line>
-<line speaker="Apollo"><thought>Right... if Vera dies, the trial will be cancelled. ...I'm not going to let that happen! Mr. Wright told me everything that's been going on behind the curtain all these years. I'm going to get Vera her innocent verdict while there's still time!</thought></line>
+<line speaker="Apollo">(Right... if Vera dies, the trial will be cancelled. ...I'm not going to let that happen! Mr. Wright told me everything that's been going on behind the curtain all these years. I'm going to get Vera her innocent verdict while there's still time!)</line>
 <line speaker="Judge">...Very well. Your opening statement, Prosecutor Gavin.</line>
 <line speaker="Klavier">The prosecution's case is unchanged by recent events. Why did Vera Misham succumb to poison? Because she couldn't live with the guilt of what she'd done.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">But Vera was poisoned with atroquinine! The exact same poison that took her father's life!</line>
 <line speaker="Klavier">...What better confession could you ask for? Being the killer she would have had access to the poison. Significant, since it's rather hard to come by.</line>
 <line speaker="Judge">Hmm... That is true.</line>
@@ -26,19 +26,19 @@
 <line speaker="Apollo">...What we need to worry about isn't the verdict... but the trial itself! The defense holds that Vera Misham is the victim not the killer!</line>
 <line speaker="Klavier">If that's so... then you have to prove something. She was in court, giving her testimony before us. How do you propose her "killer" poisoned her? Oh... and incidentally, it would be nice if you told us who her mystery "killer" was.</line>
 <line speaker="Judge">...The prosecution's objection is sustained. I ask the defense to prove its claims to this court. Tell us how Vera Misham was "poisoned"!</line>
-<line speaker="Apollo"><thought>...I've got two things to prove here. Who did it, and how. Which to hit first?</thought></line>
+<line speaker="Apollo">(...I've got two things to prove here. Who did it, and how. Which to hit first?)</line>
 <line speaker="Apollo">How did the killer poison Vera Misham...? I will focus first on the method used.</line>
 <line speaker="Judge">Hmm... Any comments before we begin, Prosecutor Gavin?</line>
 <line speaker="Klavier">Not a bottle or container of the poison was found on the defendant's body.</line>
 <line speaker="Judge">I see... So the vector of poisoning is unknown. Is the defense prepared to prove how the poison reached Vera Misham?</line>
 <line speaker="Apollo">...Yes, Your Honor.</line>
 <line speaker="Judge">Very well. What method was used to poison Vera Misham?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">From what I hear... ...atroquinine takes a while before it acts on the body.</line>
 <line speaker="Klavier">Yes. "Slow acting", it's called.</line>
 <line speaker="Judge">Also from what I hear... ...my penalties hurt more later than at the moment they're given. ...But let's find out!</line>
-<line speaker="Apollo"><thought>OK, I'm wrong, I get it.</thought></line>
+<line speaker="Apollo">(OK, I'm wrong, I get it.)</line>
 <line speaker="Trucy">They've really made an art out of this penalty thing.</line>
 <line speaker="Judge">What's this...? My, what a beautiful bottle. I'd like to give whoever designed that a hand.</line>
 <line speaker="Klavier">Is that... nail polish? Hmm, it's colorless. Ah...!</line>
@@ -52,7 +52,7 @@
 <line speaker="Apollo">Let's recall yesterday's trial. Remember when Vera was testifying to the court?</line>
 <line speaker="Judge">Court is now back in session.</line>
 <line speaker="Vera">......</line>
-<line speaker="Apollo"><thought>Vera seems pretty tense. She's practically chewing her fingernails clean off!</thought></line>
+<line speaker="Apollo">(Vera seems pretty tense. She's practically chewing her fingernails clean off!)</line>
 <line speaker="Apollo">Whenever Vera became nervous, she had a habit... ...of biting her nails.</line>
 <line speaker="Judge">Her nails... Aaah!</line>
 <line speaker="Apollo">...Prosecutor Gavin? When the prosecution had Vera examined, did they check her nails?</line>
@@ -65,16 +65,16 @@
 <line speaker="Apollo">Why do you ask? Know someone else who might have a bottle like this?</line>
 <line speaker="Klavier">...... No. Just checking.</line>
 <line speaker="Judge">Mr. Justice. You are about to accuse someone of poisoning that bottle of nail polish! Please dispense with the chatter. You realize the weight of this accusation? Here, let me show you.</line>
-<line speaker="Apollo">...Understood, Your Honor. <thought>No problem. I know what I'm doing this time.</thought></line>
+<line speaker="Apollo">...Understood, Your Honor. (No problem. I know what I'm doing this time.)</line>
 <line speaker="Judge">Then let us ask! Who poisoned Vera Misham via her nail polish!?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">Hmm... I'm having a little trouble following your reasoning. Any insights, Prosecutor Gavin?</line>
 <line speaker="Klavier">It is clear just who is poisonous here. Herr Forehead is poisoning the hearts and minds of this court!</line>
 <line speaker="Judge">...Very well. Then let's fight poison, with penalty!</line>
-<line speaker="Apollo"><thought>...No slouching now, Justice! This is my chance to drag the real killer out into the light of day! I know who gave Vera that bottle!</thought></line>
+<line speaker="Apollo">(...No slouching now, Justice! This is my chance to drag the real killer out into the light of day! I know who gave Vera that bottle!)</line>
 <line speaker="Judge">Wh-What's this? Kristoph Gavin...?</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...What's your game? My bro... There's no way he could do a thing like that! You should know that better than anyone else!</line>
 <line speaker="Judge">Indeed... ...He is behind bars.</line>
 <line speaker="Apollo">...I know. However... ...that doesn't mean it was impossible to do what he did.</line>
@@ -83,28 +83,28 @@
 <line speaker="Judge">B-But...! Kristoph Gavin had no motive for killing this poor girl!</line>
 <line speaker="Apollo">Just who poisoned Vera Misham? I have a name for you.</line>
 <line speaker="Klavier">Just a moment, Herr Forehead. You are aware this is an accusation you're making? I think a bit of risk is in order. This much, to be precise.</line>
-<line speaker="Apollo">...I understand. <thought>No problem. I know what I'm doing this time.</thought></line>
+<line speaker="Apollo">...I understand. (No problem. I know what I'm doing this time.)</line>
 <line speaker="Judge">Then let's hear it! Who poisoned Vera Misham?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">Hmm... I'm not sure I entirely understand. Do you understand, Prosecutor Gavin?</line>
 <line speaker="Klavier">It is clear just who is poisonous here. Herr Forehead is poisoning the hearts and minds of this court!</line>
 <line speaker="Judge">...Very well. Then let's fight poison, with penalty!</line>
-<line speaker="Apollo"><thought>...No slouching now, Justice! This is my chance to drag the real killer out into the light of day! I know who gave Vera that bottle!</thought></line>
+<line speaker="Apollo">(...No slouching now, Justice! This is my chance to drag the real killer out into the light of day! I know who gave Vera that bottle!)</line>
 <line speaker="Judge">Wh-What's this? Kristoph Gavin...?</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...What's your game? My bro... There's no way he could do a thing like that! You should know that better than anyone else!</line>
 <line speaker="Judge">Indeed... ...He is behind bars.</line>
 <line speaker="Apollo">...I know. However... ...that doesn't mean it was impossible to do what he did.</line>
 <line speaker="Klavier">What...?</line>
 <line speaker="Apollo">Kristoph Gavin had the opportunity to poison Vera Misham!</line>
 <line speaker="Judge">Apparently, the defense has something in mind. Let's see what it is! How did Kristoph Gavin, currently in solitary confinement, poison her!?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">From what I hear... ...atroquinine takes a while before it acts on the body.</line>
 <line speaker="Klavier">Yes. "Slow-acting", it's called.</line>
 <line speaker="Judge">Also from what I hear... ...my penalties hurt more later than at the moment they're given. ...But let's find out!</line>
-<line speaker="Apollo"><thought>OK, I'm wrong, I get it.</thought></line>
+<line speaker="Apollo">(OK, I'm wrong, I get it.)</line>
 <line speaker="Trucy">They've really made an art out of this penalty thing.</line>
 <line speaker="Judge">What's this...? My, what a beautiful bottle. I'd like to give whoever designed that a hand.</line>
 <line speaker="Klavier">Is that... nail polish? Hmm, it's colorless. Ah...!</line>
@@ -118,7 +118,7 @@
 <line speaker="Apollo">Let's recall yesterday's trial. Remember when Vera was testifying to the court?</line>
 <line speaker="Judge">Court is now back in session.</line>
 <line speaker="Vera">......</line>
-<line speaker="Apollo"><thought>Vera seems pretty tense. She's practically chewing her fingernails clean off!</thought></line>
+<line speaker="Apollo">(Vera seems pretty tense. She's practically chewing her fingernails clean off!)</line>
 <line speaker="Apollo">Whenever Vera became nervous, she had a habit... ...of biting her nails.</line>
 <line speaker="Judge">Her nails... Aaah!</line>
 <line speaker="Apollo">...Prosecutor Gavin? When the prosecution had Vera examined, did they check her nails?</line>
@@ -140,7 +140,7 @@
 <line speaker="Kristoph">To what do I owe the pleasure of your company? It's not every day I'm summoned from my solitary cell. In fact, it's never.</line>
 <line speaker="Apollo">I think you already know, Mister Kristoph Gavin.</line>
 <line speaker="Kristoph">Ah... Mr. Justice. ...I hear you've been doing quite well for yourself.</line>
-<line speaker="Apollo"><thought>Ack... Why do I feel like somehow, he's still my boss...?</thought></line>
+<line speaker="Apollo">(Ack... Why do I feel like somehow, he's still my boss...?)</line>
 <line speaker="Trucy">Stiff upper lip, Apollo! You can do it!</line>
 <line speaker="Apollo">...Does this bottle look familiar?</line>
 <line speaker="Kristoph">Ariadoney nail polish? ...Why yes, I use it myself. As did the late defendant, I hear.</line>
@@ -163,35 +163,35 @@
 <line speaker="Kristoph">Naturally. For one, I don't even know the Mishams. Isn't that so, Mr. Justice?</line>
 <line speaker="Apollo">......</line>
 <line speaker="Judge">Very well. Mr. Justice, begin your cross-examination.</line>
-<line speaker="Apollo"><thought>I'm accusing Kristoph Gavin, my ex-boss. But I know he poisoned the Mishams! The question is "when" could he have done it...? Not to mention... "why"?</thought></line>
+<line speaker="Apollo">(I'm accusing Kristoph Gavin, my ex-boss. But I know he poisoned the Mishams! The question is "when" could he have done it...? Not to mention... "why"?)</line>
 <line speaker="Kristoph">Owning the same nail polish does not a murderer make.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Tell me, is this nail polish expensive?</line>
 <line speaker="Kristoph">Ariadoney is a nail polish of the highest order. Not only is it fabulously expensive, but it is made in extremely limited quantities.</line>
 <line speaker="Apollo">And you, and Vera, just happen to both use it? That can't be a coincidence!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">I'm guessing it's not a coincidence.</line>
 <line speaker="Apollo">Huh?</line>
 <line speaker="Klavier">It's simple. Ariadoney is the best nail polish one can buy, correct? Then, if one wanted the best nail polish, one would buy it.</line>
 <line speaker="Judge">...That makes sense! Why, it's a bit like my feelings toward my brand-name gavel here.</line>
 <line speaker="Trucy">And my silk top hat!</line>
-<line speaker="Apollo"><thought>Are we all done showing off our refined tastes?</thought></line>
+<line speaker="Apollo">(Are we all done showing off our refined tastes?)</line>
 <line speaker="Judge">...Please, continue with your tasteful testimony.</line>
 <line speaker="Kristoph">I have been in solitary confinement for half a year. How could I poison her?</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Can't you still make contact with the outside world in solitary?</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Ah, so he had an accomplice on the outside? Is this your latest accusation?</line>
 <line speaker="Kristoph">I am allowed a certain modicum of letter writing.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">But the contents of those letters are closely checked. It would be extremely difficult to send a hit request!</line>
 <line speaker="Trucy">...Prosecutor Gavin's on the warpath, isn't he?</line>
 <line speaker="Apollo">Yeah... You think so, too, Trucy?</line>
 <line speaker="Trucy">I bet I know why. He must be nervous with big brother watching!</line>
-<line speaker="Apollo"><thought>Hmm... And maybe that's a weakness I can turn to my advantage...</thought></line>
+<line speaker="Apollo">(Hmm... And maybe that's a weakness I can turn to my advantage...)</line>
 <line speaker="Kristoph">Are we "cool" with that? May I continue?</line>
 <line speaker="Kristoph">Her father died of the same poison... the meaning of which should be clear.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">The defendant is not dead yet!</line>
 <line speaker="Kristoph">There are no known cases of someone surviving atroquinine poisoning.</line>
 <line speaker="Apollo">You seem to know a lot about atroquinine.</line>
@@ -199,9 +199,9 @@
 <line speaker="Judge">The witness will refrain from speaking ill of the... ill!</line>
 <line speaker="Kristoph">...My apologies. Shall I continue?</line>
 <line speaker="Kristoph">The prosecution's case holds. She poisoned her father, then attempted to poison herself.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Vera had no reason to want to commit suicide! And also... ...who would commit suicide by doing their nails!?</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">The answer's quite simple. Basically...</line>
 <line speaker="Kristoph">...Allow me to explain, beginning with, "Why did she do it?" The answer's quite simple. She couldn't live with her own guilt. Next, "Why did she use nail polish to poison herself?" This, too, is simple. So she could die doing something that she liked.</line>
 <line speaker="Apollo">"Something that she liked"...?</line>
@@ -210,17 +210,17 @@
 <line speaker="Trucy">Wow, the two brothers together is like a two-man wrecking team!</line>
 <line speaker="Apollo">They could use a little more teamwork, though.</line>
 <line speaker="Kristoph">Surely, you aren't going to suggest I was responsible for poisoning her father, too?</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Both Vera and Mr. Misham were poisoned with atroquinine. That really can't be a coincidence.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">The defense is repeating fallacious statements based on conjecture! The prosecution requests concrete, unambiguous proof of the witness's crime!</line>
 <line speaker="Judge">O-Objection sustained. The defense will please present concrete proof.</line>
 <line speaker="Trucy">Does Prosecutor Gavin seem strange to you, too? It's like he's all grown-up...</line>
-<line speaker="Apollo">I think that's how prosecutors are supposed to be, actually. <thought>Though he is acting different than usual... ...I'll bet it has a lot to do with his brother Kristoph being in the room...</thought></line>
+<line speaker="Apollo">I think that's how prosecutors are supposed to be, actually. (Though he is acting different than usual... ...I'll bet it has a lot to do with his brother Kristoph being in the room...)</line>
 <line speaker="Trucy">Well, let's make this testimony count, Apollo!</line>
-<line speaker="Apollo">Right. Quick and painless. <thought>...My bracelet should do the trick!</thought></line>
+<line speaker="Apollo">Right. Quick and painless. (...My bracelet should do the trick!)</line>
 <line speaker="Apollo">Gotcha!</line>
-<line speaker="Apollo"><thought>OK... I'm questioning my ex-boss. His testimony seems water-tight... but he's lying. I'm sure I'll be able to see something... as long as I focus!</thought></line>
+<line speaker="Apollo">(OK... I'm questioning my ex-boss. His testimony seems water-tight... but he's lying. I'm sure I'll be able to see something... as long as I focus!)</line>
 <line speaker="Apollo">It was you who killed Drew Misham.</line>
 <line speaker="Kristoph">...A bluff worthy of your new mentor, Mr. Wright.</line>
 <line speaker="Apollo">Oh, really? ...But you see, I saw it. Right when you said "her father, too"! Your hand tensed unnaturally, and a little devil appeared to give me the news.</line>
@@ -230,12 +230,12 @@
 <line speaker="Apollo">...But you found a way, all the same. And I found it, too.</line>
 <line speaker="Kristoph">...!</line>
 <line speaker="Apollo">This is how you poisoned Mr. Misham!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Kristoph">...My, my. And here I thought you'd come so far.</line>
 <line speaker="Apollo">Huh...?</line>
 <line speaker="Kristoph">I admire how you, lacking any confidence whatsoever, choose to barrel on. Your defense lacks even a shred of elegance. ...Much like Phoenix Wright, come to think of it.</line>
-<line speaker="Apollo"><thought>...Relax, Justice. I've come this far, I must know the answer... ...How did the killer get to his victim, when the killer was in jail...?</thought></line>
+<line speaker="Apollo">(...Relax, Justice. I've come this far, I must know the answer... ...How did the killer get to his victim, when the killer was in jail...?)</line>
 <line speaker="Apollo">I'm sure this commemorative stamp requires no introduction.</line>
 <line speaker="Kristoph">......</line>
 <line speaker="Apollo">The night Mr. Misham died, he was seen writing a letter. Atroquinine was found on this stamp, Mr. Gavin.</line>
@@ -262,7 +262,7 @@
 <line speaker="Apollo">Wh-Whaaaaat!?</line>
 <line speaker="Kristoph">...Really, Klavier. You should be seeing through these weak-spined bluffs by now.</line>
 <line speaker="Klavier">......</line>
-<line speaker="Apollo"><thought>He's right, though... ...How could anyone have known Mr. Misham would use that stamp that night? Least of all Kristoph Gavin locked away in his cell...</thought></line>
+<line speaker="Apollo">(He's right, though... ...How could anyone have known Mr. Misham would use that stamp that night? Least of all Kristoph Gavin locked away in his cell...)</line>
 <line speaker="Judge">Well... ...it seems that the defense has run out of things to say.</line>
 <line speaker="Kristoph">You assume he had something to say in the first place. I believe the defense's bluff... has been called.</line>
 <line speaker="Klavier">The "defense's bluff"...? I'm not sure I agree with you there... Kristoph.</line>
@@ -287,24 +287,24 @@
 <line speaker="Kristoph">You accuse me of Drew Misham's murder, yes? Then, allow me to ask you: What possible reason could I have to kill a painter?</line>
 <line speaker="Trucy">Apollo! Motive! He's talking about a motive!</line>
 <line speaker="Judge">Hmm... Indeed. It's hard to see how an attorney could come to want to kill a painter.</line>
-<line speaker="Apollo"><thought>Now here's something: why didn't he bring up the motive from the very beginning? ...Unless he was afraid it was a battle he might lose...!</thought></line>
+<line speaker="Apollo">(Now here's something: why didn't he bring up the motive from the very beginning? ...Unless he was afraid it was a battle he might lose...!)</line>
 <line speaker="Trucy">So... what does it mean?</line>
 <line speaker="Apollo">...It means there might be a weak spot! Maybe I have some evidence to prove a motive...</line>
 <line speaker="Judge">A motive for murder. This is a vital, if not the most vital element in this case. Please consider this when making your statement.</line>
 <line speaker="Klavier">I'd say it's about... this vital.</line>
-<line speaker="Apollo"><thought>That's... pretty vital.</thought></line>
+<line speaker="Apollo">(That's... pretty vital.)</line>
 <line speaker="Judge">Well, Mr. Justice?</line>
-<line speaker="Apollo"><thought>I'm going through with this no matter what!</thought> ...Understood, Your Honor. I'd like to present evidence.</line>
+<line speaker="Apollo">(I'm going through with this no matter what!) ...Understood, Your Honor. I'd like to present evidence.</line>
 <line speaker="Kristoph">......</line>
 <line speaker="Judge">Then, let's see what you have for us. What reason did Kristoph Gavin have for wanting to murder Drew Misham?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Kristoph">...... Bravo, Justice.</line>
 <line speaker="Apollo">Hmm...?</line>
 <line speaker="Kristoph">The way you present erroneous evidence with such numbing lack of skill. To think changing mentors would cripple you so.</line>
 <line speaker="Judge">Allow me to present you with a numbing penalty.</line>
 <line speaker="Trucy">Hang in there, Apollo!</line>
-<line speaker="Apollo"><thought>Drew Misham had another "business" besides painting. Add a "lawyer" to that... and the puzzle is complete.</thought></line>
+<line speaker="Apollo">(Drew Misham had another "business" besides painting. Add a "lawyer" to that... and the puzzle is complete.)</line>
 <line speaker="Apollo">Your Honor! I'm plenty numb now... Can I try again?</line>
 <line speaker="Apollo">Kristoph Gavin's motive becomes clear... ...when we consider why the stamp came to Drew Misham's studio in the first place.</line>
 <line speaker="Judge">And why was that?</line>
@@ -312,7 +312,7 @@
 <line speaker="Judge">I've... seen that before! A page from a diary, wasn't it? Magnifi Gramarye's diary.</line>
 <line speaker="Kristoph">Ah, when attorney Phoenix Wright lost his badge, yes. ...This was the "evidence" he presented. To his loss.</line>
 <line speaker="Apollo">...This evidence is a fake, yes. But did Mr. Wright request the forgery be made? That was never proven!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">The defense attorney on that case was Phoenix Wright. Who, other than him, drunk with the prospect of victory, could have done it? And why would they?</line>
 <line speaker="Apollo">...... Just out of curiosity... ...do you remember this letter? This is the first page. ...And this is the second.</line>
 <line speaker="Judge">Those were presented in court yesterday. This letter was sent to Drew Misham by the client who requested that forgery.</line>
@@ -327,7 +327,7 @@
 <line speaker="Klavier">...Herr Forehead. Do you understand what you're telling us?</line>
 <line speaker="Apollo">......</line>
 <line speaker="Klavier">The one who schemed up the forged diary page was the one who poisoned the stamp. And it was Phoenix Wright who presented the forged evidence seven years ago. Adding the two statements together, the one who schemed to kill Drew Misham... ...was none other than Phoenix Wright!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">...Sorry, but that's not how this is going to go down.</line>
 <line speaker="Klavier">Oh? Then how will it "go down"?</line>
 <line speaker="Apollo">I checked through the records on that case... when I found this. ...Seven years ago, just before the trial began...</line>
@@ -348,13 +348,13 @@
 <line speaker="Apollo">...But it is all true. There was another man, a defense attorney with a badge on his collar... ...it was you! Kristoph Gavin!</line>
 <line speaker="Judge">Order! Order! Order!!! W-What is the meaning of this, witness! I mean, defendant! Er, former lawyer!?</line>
 <line speaker="Kristoph">...Let me begin by denying this.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">It's easy enough to look up, Mr. Gavin.</line>
 <line speaker="Kristoph">And impossible to prove if you can't.</line>
 <line speaker="Apollo">...!</line>
 <line speaker="Kristoph">Attorneys are registered with the court the day before the trial begins. In other words, no record remains in the court. How exactly did you intend to prove Phoenix Wright's claim?</line>
 <line speaker="Judge">Hmm... That would be difficult. I'm afraid this line of inquiry won't yield...</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...Herr Forehead. Are you sure you don't have evidence...?</line>
 <line speaker="Apollo">...!</line>
 <line speaker="Trucy">What's wrong with Prosecutor Gavin? He looks clammy!</line>
@@ -362,33 +362,33 @@
 <line speaker="Kristoph">Klavier...?</line>
 <line speaker="Klavier">Just... prove it! Clear up these doubts now, or I swear, I'm off this case!</line>
 <line speaker="Trucy">...He must have thought of some evidence, Apollo!</line>
-<line speaker="Apollo"><thought>Prosecutor Gavin looks like he's in physical pain! That darkness... ...I have to pull that darkness out of him... And proof is the only way I can! What proves Kristoph Gavin's link to Drew Misham!?</thought></line>
+<line speaker="Apollo">(Prosecutor Gavin looks like he's in physical pain! That darkness... ...I have to pull that darkness out of him... And proof is the only way I can! What proves Kristoph Gavin's link to Drew Misham!?)</line>
 <line speaker="Judge">Well, Mr. Justice? You claim Kristoph Gavin requested a forgery of Drew Misham seven years ago! Prove it!</line>
 <line speaker="Apollo">It can be proven.</line>
 <line speaker="Kristoph">...... Simply ridiculous. Why even discuss it? This "evidence" does not...</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Are you... telling the truth, Apollo Justice...?</line>
 <line speaker="Apollo">...I am.</line>
 <line speaker="Klavier">Then... I say we give him the benefit of the doubt!</line>
 <line speaker="Judge">Very well. But, if you're wrong about this... ...be prepared for a penalty.</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">Your Honor. You do the defense an injustice. Mr. Justice is clearly passionate about his claim. Should the penalty not match his passion?</line>
 <line speaker="Judge">I... haven't given a penalty like that in a long time. Well? Mr. Justice!</line>
-<line speaker="Apollo">...Fine, Your Honor. <thought>All I have to prove is any kind of link. Something that ties Kristoph Gavin to Drew Misham... And... I have something that clearly does the job.</thought></line>
+<line speaker="Apollo">...Fine, Your Honor. (All I have to prove is any kind of link. Something that ties Kristoph Gavin to Drew Misham... And... I have something that clearly does the job.)</line>
 <line speaker="Judge">...Very well, Mr. Justice. Present your evidence! Show us the link between our witness and Drew Misham!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">Hmm... What say you, Mr. Gavin?</line>
 <line speaker="Kristoph">Ah, yes... What was your name again? Apollo Justice?</line>
 <line speaker="Apollo">...Your point?</line>
 <line speaker="Kristoph">I was thinking you should have it changed to "Forgery". ...It suits you far, far better.</line>
 <line speaker="Trucy">Forgery Justice...? That's not so bad!</line>
-<line speaker="Apollo"><thought>In other words... wrong evidence.</thought></line>
+<line speaker="Apollo">(In other words... wrong evidence.)</line>
 <line speaker="Judge">Most unfortunate. Might I suggest changing it to "Penalty Justice"?</line>
 <line speaker="Klavier">Way to go, Herr Pen!</line>
-<line speaker="Apollo"><thought>Great, a new nickname already. Time to rethink my evidence... carefully!</thought></line>
+<line speaker="Apollo">(Great, a new nickname already. Time to rethink my evidence... carefully!)</line>
 <line speaker="Apollo">This evidence proves there's a link!</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">That... scrap of paper? I'm afraid I can't let you submit that.</line>
 <line speaker="Apollo">...Is there some problem?</line>
 <line speaker="Kristoph">There is. How could you possibly have that? You couldn't.</line>
@@ -422,12 +422,12 @@
 <line speaker="Trucy">Hey, Apollo. It's not addressed to Kristoph!</line>
 <line speaker="Apollo">Huh, you're right. ...I guess it makes sense. It would show a connection, if it was. And, for the killer, it's kind of the murder weapon. I doubt he'd give out his real name along with his address.</line>
 <line speaker="Trucy">Oh, good point. How sneaky!</line>
-<line speaker="Apollo"><thought>Murder by mail... That's a scary thought.</thought></line>
+<line speaker="Apollo">(Murder by mail... That's a scary thought.)</line>
 <line speaker="Judge">Well, we've certainly taken a detour from our cross-examination... ...but, the defense appears to be lacking proof. I'm forced to end the cross-examination of Kristoph Gavin at this point.</line>
 <line speaker="Trucy">...Apollo! Do something...!</line>
 <line speaker="Apollo">I'm thinking! But... without evidence... ...I don't have anything I can use on him!</line>
 <line speaker="Judge">...Very well. This ends the special witness's cross-examination.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...The show's over, yet the crowd screams for more. Only now do I understand why.</line>
 <line speaker="Judge">Prosecutor Gavin?</line>
 <line speaker="Klavier">Frankly, I'm relieved. This has been bothering me for seven whole years. And I'm tired of the whole youthful angst scene. ...Now's our chance. Let's clean out the family closet, eh, Kristoph?</line>
@@ -448,7 +448,7 @@
 <line speaker="Judge">Unnatural?</line>
 <line speaker="Apollo">Well, you did seem unusually well prepared. I mean, Mr. Wright had only just presented his evidence. And the next moment you call in Drew Misham. It was almost as if...</line>
 <line speaker="Klavier">"Almost as if"... what?</line>
-<line speaker="Apollo">...... <thought>Funny, it didn't even occur to me to wonder... ...But now that I do, I see there's only one possible explanation!</thought> Almost as if... from the very beginning... ...you knew Mr. Wright was going to present that evidence.</line>
+<line speaker="Apollo">...... (Funny, it didn't even occur to me to wonder... ...But now that I do, I see there's only one possible explanation!) Almost as if... from the very beginning... ...you knew Mr. Wright was going to present that evidence.</line>
 <line speaker="Judge">Ah...!</line>
 <line speaker="Klavier">...Correct.</line>
 <line speaker="Apollo">...!</line>
@@ -481,9 +481,9 @@
 <line speaker="Kristoph">...Seven years ago... the day before the trial. I visited the detention center at the request of my client, Zak Gramarye.</line>
 <line speaker="Kristoph">...To be honest, I don't know what his reasons were to this day. As far as I could tell... ...he dismissed me as his representation... because I lost in a game of poker. I can come to no other conclusion.</line>
 <line speaker="Trucy">Daddy used to say something. "If you want to know a man, you have to compete"...</line>
-<line speaker="Apollo"><thought>...Zak wasn't watching his points, or the cards. He was watching the man behind the cards... Kristoph Gavin.</thought></line>
+<line speaker="Apollo">(...Zak wasn't watching his points, or the cards. He was watching the man behind the cards... Kristoph Gavin.)</line>
 <line speaker="Kristoph">I couldn't believe it. Phoenix Wright...? A second rate attorney who relies on luck and bluffs! He dismissed me... and went with that pitiful excuse for a man? ...He deserved to die for that error alone.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn> So, the one who requested that forgery was...?</line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn> So, the one who requested that forgery was...?</line>
 <line speaker="Kristoph">...Oh, I'm not admitting to anything. My point is... ...these two men shamed me, and I could not forgive that. Phoenix Wright and Zak Gramarye both deserved what they got.</line>
 <line speaker="Apollo">...So you asked Mr. Misham to forge that evidence... ...so you could "win"! But then, when you were dismissed as Zak Gramarye's attorney... ...you used your forged evidence as a trap!</line>
 <line speaker="Klavier">You fed me information about the forgery you made. ...Then you gave your dirty evidence to him!</line>
@@ -500,7 +500,7 @@
 <line speaker="Brushel">You know, he always felt like he was being watched? That's what he said. Every day, for seven years.</line>
 <line speaker="Brushel">But I felt it, too! "Journalist Sure He Is Being Watched", end quote. Don't you wonder why Zak Gramarye got rubbed out after seven years... ...right after coming into contact with me!?</line>
 <line speaker="Judge">W-Wait just a minute! Zak Gramarye was seen by this reporter? How is that possible!? Was he alive after being gone seven years!?</line>
-<line speaker="Apollo">...... <thought>Finally... I knew this moment was coming... I just didn't think we'd get here so fast. Zak Gramarye... gone missing for seven years... Trucy's father!</thought></line>
+<line speaker="Apollo">...... (Finally... I knew this moment was coming... I just didn't think we'd get here so fast. Zak Gramarye... gone missing for seven years... Trucy's father!)</line>
 <line speaker="Trucy">What's wrong, Apollo! Go get him!</line>
 <line speaker="Apollo">...Right. Leave it to me. Allow me to refresh the court's memory. Six months ago, Kristoph Gavin was charged with murdering a "mysterious traveler".</line>
 <line speaker="Judge">I remember him quite well. Shadi Smith, was it? Poisoned in a Chinese restaurant... Tragic.</line>
@@ -508,7 +508,7 @@
 <line speaker="Trucy">...... What is it, Apollo?</line>
 <line speaker="Apollo">...Huh?</line>
 <line speaker="Trucy">Keep going! We'll talk about it later!</line>
-<line speaker="Apollo">...! <thought>Did... she already know?</thought></line>
+<line speaker="Apollo">...! (Did... she already know?)</line>
 <line speaker="Judge">Someone please explain this! ...Mr. Justice! Can you explain this?</line>
 <line speaker="Apollo">It all started seven years ago... ...The great magician, Magnifi Gramarye's death started it. Magnifi Gramarye's death, and his student, Zak Gramarye, the suspect. Whoever defended Zak in court successfully would be famous beyond belief. ...Thinking that, Kristoph Gavin did the unthinkable. He forged evidence.</line>
 <line speaker="Judge">...Drew Misham?</line>
@@ -539,18 +539,18 @@
 <line speaker="Apollo">What...?</line>
 <line speaker="Kristoph">...Klavier. Surely you understand.</line>
 <line speaker="Klavier">...... We're back to the evidence. The lacking evidence. Nothing proves a link between him and the atroquinine that took Drew Misham's life.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">What about the restaurant? You killed Zak Gramarye! To keep him from talking!</line>
 <line speaker="Kristoph">...I killed no man of that name. Read over the report again, if you like. The victim was a traveler by the name of Shadi Smith, about whom we know little else. You can't seriously think I knew he was that particular fugitive...?</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">OK, then why did you kill him!?</line>
 <line speaker="Kristoph">...I plead my right to remain silent. Remember, this court did not convene to put me on trial. The defendant's name is "Vera Misham", suspected in the murder of her father. ...My trial's been finished for six months now.</line>
 <line speaker="Judge">Hmm... I'm afraid we have strayed considerably from our purpose here. This court concurs with the witness. It is defendant Vera Misham who is on trial here.</line>
 <line speaker="Trucy">No! But you were doing so good, Apollo!</line>
 <line speaker="Judge">As long as there is no evidence to support the accusation against him... ...this course of inquiry cannot find Vera Misham innocent!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! Phoenix Wright spent seven years collecting this evidence...</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">...You still don't get it, do you?</line>
 <line speaker="Apollo">...!</line>
 <line speaker="Kristoph">Let us assume there was poison in the nail polish. Who then, was responsible for causing Vera Misham to bite her nails?</line>
@@ -566,7 +566,7 @@
 <line speaker="Apollo">...!</line>
 <line speaker="Kristoph">...What?</line>
 <line speaker="Klavier">...Did the news not reach your desk in solitary? The eyes of the nation are on this courtroom today. ...This is the trial case for a new judicial system.</line>
-<line speaker="Apollo">...! That's right! <thought>I'd totally forgotten!</thought> The Jurist System!</line>
+<line speaker="Apollo">...! That's right! (I'd totally forgotten!) The Jurist System!</line>
 <line speaker="Kristoph">Jurists, you say...?</line>
 <line speaker="Judge">The current judicial system has been deemed too "closed off" from society. This new system attempts to inject the wisdom of common citizens into the law.</line>
 <line speaker="Kristoph">Common citizens? Wisdom? Is this some kind of a joke? What could we possibly gain by doing this? Entrusting our judicial system to a mindless, emotional mob of irrational mouth-breathers?</line>
@@ -583,7 +583,7 @@
 <line speaker="Klavier">Odd. I thought you spent your life looking for loopholes? The law isn't absolute. It's filled with contradictions.</line>
 <line speaker="Judge">The law is the end product of many years of history... the fruit of human knowledge! Like a gem, polished to a gleam through trials... and errors. It is this fruit we receive, and pass on, and face in our time. And it is always changing, growing. Nurturing it is our task as human beings.</line>
 <line speaker="Klavier">Except for you, Kristoph. You aren't changing. You've stopped. You're not needed anymore.</line>
-<line speaker="Apollo"><thought>...I couldn't think of anything to say. Maybe... because I still haven't seen enough. But someday, I'll know what law is. And I'll fight to change it if I have to!</thought></line>
+<line speaker="Apollo">(...I couldn't think of anything to say. Maybe... because I still haven't seen enough. But someday, I'll know what law is. And I'll fight to change it if I have to!)</line>
 <line speaker="Judge">...I see no need to further prolong this trial. This began as the trial of Vera Misham, accused of murdering her father... ...the painter, Drew Misham. However... ...several other incidents were reviewed, and we seem to have reached a conclusion. ...... Before this court declares a verdict, I await your decision. ...Jurists of the court. For the death of Drew Misham, how do you find the defendant, Vera Misham? Innocent...? Or guilty...? ...I turn to you now to consider this matter!</line>
 <line speaker="Phoenix">If a decision cannot be reached today... ...it may never be reached. The factors involved are simple. Did the defendant poison her father that night...? If so, she is guilty. Or was there another reason for Mr. Misham's death? Did another person poison him? If so, she is innocent. A panel has been provided for each of you to input your decisions. That is all...</line>
 <line speaker="No. 6">Please... Wait!</line>
@@ -604,12 +604,12 @@
 <line speaker="Vera">No... I was wrong. Staying locked inside like that... clinging to my "good luck charm"...</line>
 <line speaker="Apollo">Vera...</line>
 <line speaker="Vera">...When I opened my eyes, and saw you... I finally understood. It's important to be a part of the world... ...to see things with your own eyes.</line>
-<line speaker="Apollo"><thought>It looks like that poison had some effect after all. It killed off whatever was holding Vera back from life.</thought></line>
+<line speaker="Apollo">(It looks like that poison had some effect after all. It killed off whatever was holding Vera back from life.)</line>
 <line speaker="Trucy">I knew you'd pull through, Vera! I mean, that's what Apollo was fighting for the whole time! Your future!</line>
 <line speaker="Vera">I won't forget it. Here, let me thank you!</line>
 <line speaker="Apollo">No, really, it's OK...</line>
 <line speaker="Trucy">Oooh! Look! It's me! I love it! Thanks!</line>
-<line speaker="Apollo"><thought>Is that... me?</thought></line>
+<line speaker="Apollo">(Is that... me?)</line>
 <line speaker="Trucy">She really captured your essence, Apollo! Well, I think so, at least.</line>
 <line speaker="Vera">That reminds me... ...do you know where the other lawyer is...?</line>
 <line speaker="Apollo">The other lawyer...?</line>
@@ -619,14 +619,14 @@
 <line speaker="Vera">...No, it's OK. I'm through looking away from the things I've done. I hope I can look him in the eyes again someday and apologize.</line>
 <line speaker="Apollo">...I'm sure he'd be happy to hear that.</line>
 <line speaker="Vera">He... brought all those things for me... when he came to visit... earlier.</line>
-<line speaker="Apollo">You mean that stack of videos? <thought>...Mr. Wright finished watching them all?</thought></line>
+<line speaker="Apollo">You mean that stack of videos? (...Mr. Wright finished watching them all?)</line>
 <line speaker="Trucy">You know, I knew my real daddy was alive.</line>
 <line speaker="Apollo">Huh...?</line>
 <line speaker="Trucy">I was there, seven years ago, remember? I was the one who helped him "vanish" from the courtroom!</line>
 <line speaker="Apollo">Y-You did wha... How?</line>
 <line speaker="Trucy">I'm not telling! ...He promised me, that day he went away.</line>
 <line speaker="Zak">We may not meet again for some time, Trucy... ...but know this, I will be watching. And, one day, I shall return. ...You're the next Gramarye, after all!</line>
-<line speaker="Apollo">Oh... Trucy... <thought>In the end... he couldn't keep that promise, could he?</thought></line>
+<line speaker="Apollo">Oh... Trucy... (In the end... he couldn't keep that promise, could he?)</line>
 <line speaker="Trucy">It's OK! Phoenix is my daddy now. Even if he can't really play the piano.</line>
 <line speaker="Apollo">That he can't...</line>
 <line speaker="Trucy">...Oh, and I've got you, too! Even if your voice is kinda loud sometimes.</line>
@@ -634,12 +634,12 @@
 <line speaker="Trucy">Hey! Come to think of it... ...where is Daddy? The one who can't play. Do you know, Apollo?</line>
 <line speaker="Apollo">I think he said he had to meet someone.</line>
 <line speaker="Trucy">Hmm. I wonder... ...Maybe it's a new mommy!</line>
-<line speaker="Apollo"><thought>*sigh*</thought></line>
+<line speaker="Apollo">(*sigh*)</line>
 <line speaker="Vera">Tee hee... Oh, Trucy?</line>
 <line speaker="Trucy">Hmm? Yes, Vera?</line>
 <line speaker="Vera">I was wondering... Could you show him to me once more? ...Sir Hat, was it?</line>
 <line speaker="Trucy">Oh, he's not been knighted. ...Yet! Here goes... do us an impersonation, Mr. Hat!</line>
-<line speaker="Mr. Hat">...<cutIn>Objection!</cutIn>!! ...Ahem.</line>
+<line speaker="Mr. Hat">...<cutIn type="objection">Objection!</cutIn>!! ...Ahem.</line>
 <line speaker="Apollo">Not loud enough. And I like Ms. Magic Underwear better, anyway.</line>
 <line speaker="Trucy">That's "Magic Panties", Apollo!</line>
 <line speaker="Phoenix">So... Your memory's returned.</line>
@@ -654,7 +654,7 @@
 <line speaker="???">They do not know?</line>
 <line speaker="Phoenix">Nope. They don't know their mother. They don't even know they're siblings.</line>
 <line speaker="???">I will go to them... when the time is right. Until then, I...</line>
-<line speaker="Phoenix">...Don't worry, I'll take care of them for you. They're... They're very important to me, too. ...A little annoying at times, but still. <thought>I have to keep an eye on her, at least. Because I'm the only one who knows how she really feels... on the inside.</thought> ...Your bracelet.</line>
+<line speaker="Phoenix">...Don't worry, I'll take care of them for you. They're... They're very important to me, too. ...A little annoying at times, but still. (I have to keep an eye on her, at least. Because I'm the only one who knows how she really feels... on the inside.) ...Your bracelet.</line>
 <line speaker="???">Yes...?</line>
 <line speaker="Phoenix">I've seen a lot of mysterious things these past seven years. ...But your bracelets were the strangest of all. I remember meeting him, half a year ago now, in Kristoph Gavin's office... ...and then I met you. Two fates destined to intertwine... and I was there when they crossed. I'll never forget that.</line>
 <line speaker="???">...... Such a small thing, that bullet. Yet it tore who I was away... Ten years ago... During a simple rehearsal... It was a miracle no one died... but "I" didn't survive that accident. That is why I left the troupe... my family.</line>
@@ -664,7 +664,7 @@
 <line speaker="???">It is... a strange thing, fate. Sometimes a life is taken. Sometimes a life is spared.</line>
 <line speaker="Phoenix">You know what I've been thinking? People don't die that easily, really. ...As long as they've got something worth living for.</line>
 <line speaker="Apollo">...And that's pretty much the end of my story. For now, anyway. I've still got a long way to go. And this power of mine... well, it needs some work. But... there's hope now. We'd lost it, but somehow, we found it again. That's why people are smiling again... Hope. Yeah, I think I'll keep at this lawyer thing for a while. Oops, training time. Gotta go. Chords of Steel... here comes Justice!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Trucy">I'm glad you're staying with the agency, Apollo! It's like.. like I've found my long-lost, big, little brother! Oh, and don't you worry about Troupe Gramarye! Trucy's on the case! ...Now that I've have this, thanks to Daddy.</line>
 <line speaker="Mr. Hat">Trucy Gramarye? Frankly, I got my doubts. But Hat Gramarye? Now that'll pack 'em in!</line>
 <line speaker="Klavier">It's not every day you get a trial that rocks harder than one of our gigs, ja? That's why it's over! The Gavinners are breaking up. ...The news caused a run on tissues at supermarkets nation-wide. You're the real stars, now! I look forward to our next jam session.</line>
@@ -682,34 +682,34 @@
 <line speaker="Lamiroir">I don't know how to thank you for all you've done. Light has returned to my life, and with it, joy. I may have lost years, but I have gained a treasure. ...Two treasures, in fact. I will think of them when I write my next song.</line>
 <line speaker="Brushel">Brush-a Brush-a Brushel! Brush-a Brush-a Brushel! Brushel here, back on the beat with another interview! Eh? How do I feel about how things turned out? "No Scoop Yet But Journalist's Confidence In Mint Condition", end quoooooote!</line>
 <line speaker="Vera">...I've decided to keep painting. Originals only, of course. ...I suppose I'll have to see a bit of the world outside to find what to paint. ...But, I know there are good people out there now. I've met them. ...The door is open. The world is waiting. Thank you.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Justice.</line>
-<line speaker="Apollo"><thought>Ugh. I must be on the wrong track...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo">(Ugh. I must be on the wrong track...)</line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Apollo">...Um... You sure about that?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Justice!</line>
-<line speaker="Apollo"><thought>Ack! That didn't go so well.</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo">(Ack! That didn't go so well.)</line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">This evidence clearly reveals a contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Apollo">They aren't, are they...?</line>
 <line speaker="Judge">Not at all. Mr. Justice, please think the facts over before making accusations.</line>
-<line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo">(I don't think that won me any points with the judge...)</line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Apollo">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">...You don't sound very sure, Mr. Justice. Objection overruled.</line>
-<line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
+<line speaker="Apollo">(I don't think that won me any points with the judge...)</line>
 <line speaker="Apollo">Gotcha!</line>
 <line speaker="Apollo">Mr. Gavin! You're nervous about something!</line>
 <line speaker="Kristoph">...There is that finger pointing at me so rudely.</line>
 <line speaker="Apollo">...!</line>
 <line speaker="Kristoph">...And that desperate gleam in your eyes. It's quite disturbing, actually. Perhaps because you have no faith in your own logic? ...Which is why you cling to your dubious "power".</line>
-<line speaker="Apollo"><thought>...Confident or not, I've come a long way, Mr. Gavin. Just a little more to go. ...I need a "word". There must be some word that sends shivers down his spine...</thought></line>
+<line speaker="Apollo">(...Confident or not, I've come a long way, Mr. Gavin. Just a little more to go. ...I need a "word". There must be some word that sends shivers down his spine...)</line>
 <line speaker="Judge">That's enough! I see no need to further prolong this trial. The defense's case is insufficient to overturn the prosecution's claims! This court finds the defendant, Vera Misham...</line>
 <line speaker="Judge">The defendant will surrender herself to the court's care... ...to undergo a regular trial at the High Court within a month's time. Court is adjourned!</line>
 </xml>

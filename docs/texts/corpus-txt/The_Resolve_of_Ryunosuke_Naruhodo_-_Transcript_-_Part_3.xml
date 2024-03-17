@@ -1,7 +1,7 @@
 <xml>
 <title>The Resolve of Ryunosuke Naruhodo</title>
 <line speaker="Stronghart">Before we begin today, I have a brief announcement. As with the closed trial ten years ago, some astonishing facts have come to light in these proceedings. The revelation that the well known 'Reaper' is actually an organisation illegally executing its own brand of justice. And the discovery that a respected Yard inspector was at its heart until he himself perished in an assassination plot. Well...I say to all members of the judiciary here present on this occasion... ...that we will stop at nothing to uncover the whole truth behind these disturbing findings! Counsels...you will undertake this trial with the resolve to pursue the truth to the bitter end!</line>
-<line speaker="Ryunosuke"><thought>Resolve, yes... That's my intention.</thought></line>
+<line speaker="Ryunosuke">(Resolve, yes... That's my intention.)</line>
 <line speaker="Kazuma">.........</line>
 <line speaker="Van Zieks">My Lord, if I may enquire...</line>
 <line speaker="Stronghart">The defendant may speak.</line>
@@ -14,7 +14,7 @@
 <line speaker="Ryunosuke">Kazuma...</line>
 <line speaker="Kazuma">Whatever the outcome of this trial... ...I give my word that I will accept whatever punishment is deemed appropriate. However severe. And I suggest you prepare yourself for the same...Reaper!</line>
 <line speaker="Van Zieks">.........</line>
-<line speaker="Ryunosuke"><thought>Kazuma is bristling with hostility today. I get the distinct impression we're heading into very dangerous territory...</thought></line>
+<line speaker="Ryunosuke">(Kazuma is bristling with hostility today. I get the distinct impression we're heading into very dangerous territory...)</line>
 <line speaker="Susato">Is that really even Kazuma-sama standing before us?</line>
 <line speaker="Stronghart">As an extreme exception to normal practices, I have granted this prosecutor's request. The defence finds this acceptable...I presume?</line>
 <line speaker="Ryunosuke">...Yes, My Lord!</line>
@@ -23,7 +23,7 @@
 <line speaker="Kazuma">The prosecution is more than ready.</line>
 <line speaker="Stronghart">Very well, then. This preamble has taken long enough. Prosecutor Asogi...begin!</line>
 <line speaker="Kazuma">...As you wish, My Lord. The prosecution calls the first witness to the stand. Bring Seishiro Jigoku into the courtroom!</line>
-<line speaker="Ryunosuke"><thought>At last, then...we've reached the final battle. He's putting literally everything on the line now in order to get to the truth. Come on, Ryunosuke. It's time for that steely resolve. Because this is going to test it to the limit!</thought></line>
+<line speaker="Ryunosuke">(At last, then...we've reached the final battle. He's putting literally everything on the line now in order to get to the truth. Come on, Ryunosuke. It's time for that steely resolve. Because this is going to test it to the limit!)</line>
 <line speaker="Kazuma">Witness, state your name and occupation for the court.</line>
 <line speaker="Jigoku">Haah... So it was you who issued this, was it?</line>
 <line speaker="Kazuma">Your subpoena? ...I did what was necessary.</line>
@@ -62,10 +62,10 @@
 <line speaker="Kazuma">That's the extent of your resolve? You disappoint me...Ryunosuke Naruhodo.</line>
 <line speaker="Ryunosuke">AAAAAAGH!</line>
 <line speaker="Susato">Stand tall, Mr Naruhodo! That was a minor blow.</line>
-<line speaker="Ryunosuke">Having your best friend tell you he's disappointed in you really stings, though... <thought>But of course we have evidence that ties Judge Jigoku to this case. Evidence showing a few key names, even!</thought></line>
+<line speaker="Ryunosuke">Having your best friend tell you he's disappointed in you really stings, though... (But of course we have evidence that ties Judge Jigoku to this case. Evidence showing a few key names, even!)</line>
 <line speaker="Kazuma">Good. There's still plenty of fight in your eyes.</line>
 <line speaker="Ryunosuke">This is a telegram detailing a communication sent between Britain and Japan approximately one year ago. The communication contained four names: K. Asogi, A. Shinn... ...T. Gregson and J. Wilson.</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Jigoku">You, you little... Where did you get that?!</line>
 <line speaker="Ryunosuke">In Tokyo...from your office, Judge Jigoku.</line>
 <line speaker="Jigoku">What?! How on earth did you...?</line>
@@ -88,7 +88,7 @@
 <line speaker="Kazuma">......... Very impressive, Ryunosuke. But actually, I didn't lie.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Kazuma">The name of the target I was ordered to kill never passed my lips yesterday. The idea that Seishiro Jigoku was the mark...came entirely from you!</line>
-<line speaker="Ryunosuke">Ah! <thought>You...deliberately avoided saying his name...?</thought></line>
+<line speaker="Ryunosuke">Ah! (You...deliberately avoided saying his name...?)</line>
 <line speaker="Stronghart">The defence claims these four names indicate some sort of international assassin exchange? I'm sure I speak for all present when I say that the very idea seems utterly absurd. Well, Mr Jigoku? What do you have to say for yourself?</line>
 <line speaker="Jigoku">.........</line>
 <line speaker="Ryunosuke">His silence only goes to prove his guilt!</line>
@@ -122,7 +122,7 @@
 <line speaker="Stronghart">Be that as it may, it is not the place of this court to pursue this villainous assassin exchange plot. We are concerned only with the tangible events pertaining to the murder of Inspector Gregson. ...Is the defence clear on that point, Counsel?</line>
 <line speaker="Ryunosuke">......... Yes, My Lord. I'll keep that in mind as I cross-examine the witness.</line>
 <line speaker="Jigoku">It's true that Kazuma Asogi was assigned the assassination mission one year ago now.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">A year ago...when Kazuma was still in Japan, then.</line>
 <line speaker="Jigoku">Correct. It was at the examination centre for applicants for the study tour that I approached him.</line>
 <line speaker="Kazuma">I'll never forget it. I remember exactly what you said. You just came out and asked me forthright if I'd consider travelling to Britain on an assassination mission.</line>
@@ -136,10 +136,10 @@
 <line speaker="Stronghart">Britain acknowledges no part in these alleged misbegotten dealings. I advise you not to make spurious allegations... Foreign Minister Jigoku.</line>
 <line speaker="Jigoku">As a witness, I am bound to tell the truth...My Lord. Anyway, I picked Asogi, and explained the details of the plan to him.</line>
 <line speaker="Jigoku">The target was Inspector T. Gregson. That was a condition of the British study tour.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Why Kazuma? Why did you pick him as the assassin?</line>
 <line speaker="Jigoku">He was the most capable of all the applicants. And in addition... ...I knew his desire to travel to Britain was very strong. In fact, it was almost more than a desire. It was his whole purpose in life.</line>
-<line speaker="Ryunosuke"><thought>Yes, as his best friend, I can certainly attest to that. The way he threw himself into his studies... The way he pursued becoming qualified as a lawyer... It was all ultimately for that one single goal of being accepted on a study tour to Britain.</thought></line>
+<line speaker="Ryunosuke">(Yes, as his best friend, I can certainly attest to that. The way he threw himself into his studies... The way he pursued becoming qualified as a lawyer... It was all ultimately for that one single goal of being accepted on a study tour to Britain.)</line>
 <line speaker="Susato">And of course, we know the reason behind that. He was determined to find out for himself the truth about his father, Genshin Asogi.</line>
 <line speaker="Kazuma">There's nothing I wouldn't have done to get here. Be that agreeing to assume the role of an assassin... or betraying people's trust.</line>
 <line speaker="Jigoku">Well, you certainly did a fine job of betraying mine, Asogi.</line>
@@ -153,7 +153,7 @@
 <line speaker="Ryunosuke">With what?</line>
 <line speaker="Jigoku">With the fact that the assassin exchange has absolutely nothing to do with the case under scrutiny here. Yes, I've already admitted to recruiting Asogi...</line>
 <line speaker="Jigoku">However...in the end something happened that meant the young man was unable to carry out his mission.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">I presume you're referring to the incident that occurred during Kazuma's passage to Britain in January? The awful 'tragedy' that took place on the steamship...</line>
 <line speaker="Jigoku">Word arrived at the ministry some two weeks after the ship's departure from our shores. The visiting student had been killed, but his body had somehow gone missing in Hong Kong. The news was wired to me from a detective I'd placed on the ship to accompany the assassin.</line>
 <line speaker="Ryunosuke">Obviously, Kazuma didn't actually die at all. But he did lose his memory. Including all details about his special mission.</line>
@@ -173,7 +173,7 @@
 <line speaker="Jigoku">In that case... ...as I've already made perfectly clear, I had no connection to the man or his death!</line>
 <line speaker="Stronghart">And you have some means of substantiating this plea?</line>
 <line speaker="Jigoku">On the evening in question, a member of the crew was on duty outside my cabin at all times.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Outside your cabin in the first-class area of the SS Grouse, you mean?</line>
 <line speaker="Jigoku">Yes, that's right. Not least because there was a 'murder' of a student passenger earlier in the year, I imagine... ...the liner operators have taken to posting a crewman outside every first-class cabin door.</line>
 <line speaker="Kazuma">I can confirm the presence of the crewman guard myself.</line>
@@ -188,9 +188,9 @@
 <line speaker="Ryunosuke">Was the guard still at the door when you went?</line>
 <line speaker="Kazuma">Yes. He glared at me as I walked past.</line>
 <line speaker="Jigoku">You see? That proves it.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Jigoku">If there'd been a shot fired, the crewman would have heard it. So clearly I can't be involved.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The crewman who was standing directly outside your cabin door, you mean?</line>
 <line speaker="Jigoku">That's right. A muscular man with a permanent grim expression on his face. He didn't once move from that spot. To be honest, I thought he was a miserable fellow. But as it happens, he's a vital witness now!</line>
 <line speaker="Kazuma">There's no doubt that Gregson was killed by a gunshot. And it's inconceivable that a crewman standing just outside the cabin door wouldn't have heard that.</line>
@@ -202,16 +202,16 @@
 <line speaker="Ryunosuke">But a hole like that made by a bullet was found in your cabin, Judge Jigoku! That's compelling evidence that a gun was fired in there!</line>
 <line speaker="Kazuma">What's that? A bullet hole...?</line>
 <line speaker="Jigoku">Oh yes. You're talking about what the detective uncovered in the wall yesterday, I presume. That was obviously a rotten panel eaten out by woodworm. [sic] No doubt he didn't find an actual bullet.</line>
-<line speaker="Ryunosuke">Ugh... <thought>That's the hole in this argument...</thought></line>
+<line speaker="Ryunosuke">Ugh... (That's the hole in this argument...)</line>
 <line speaker="Jigoku">Sadly, I was unable to arrange for the crewman to be brought back to Britain with me. But obviously, if a gun had been fired in my cabin on the night in question as the defence implies... ...I would have been arrested on the spot, and would never have made it to Britain in the first place!</line>
 <line speaker="Stronghart">Very true. The witness's logic is sound. Since no gunshot was heard from the witness's cabin on the night in question... ...we must assume that the witness is telling the truth.</line>
 <line speaker="Jigoku">Heh heh heh... I'm glad you've seen sense, My Lord.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryunosuke"><thought>I know Kazuma's already admitted to taking on this incredible assassination plot, but even so... ...hearing it confirmed by somebody else is still a real shock.</thought></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryunosuke">(I know Kazuma's already admitted to taking on this incredible assassination plot, but even so... ...hearing it confirmed by somebody else is still a real shock.)</line>
 <line speaker="Susato">It's unforgivable! Using Kazuma-sama's feelings to manipulate him into agreeing to such a despicable plan...</line>
 <line speaker="Ryunosuke">But I think Kazuma manipulated Judge Jigoku, too. He completely double-crossed him.</line>
 <line speaker="Susato">Oh dear... It's hard not to see that as a stroke of brilliance on Kazuma-sama's part...</line>
-<line speaker="Ryunosuke"><thought>One way or another, though, Gregson ended up dead.</thought> I really think that the murder must have happened aboard that steamship.</line>
+<line speaker="Ryunosuke">(One way or another, though, Gregson ended up dead.) I really think that the murder must have happened aboard that steamship.</line>
 <line speaker="Susato">So you mean...</line>
 <line speaker="Ryunosuke">Judge Jigoku must be lying.</line>
 <line speaker="Susato">......... I know I shouldn't let my emotions cloud my judgement... ...but you must destroy him, Mr Naruhodo!</line>
@@ -227,7 +227,7 @@
 <line speaker="Jigoku">.........</line>
 <line speaker="Ryunosuke">In summary, Judge Jigoku... ...you had ample opportunity to commit the crime!</line>
 <line speaker="Jigoku">Argh!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">A twenty-minute window of opportunity... That's an excellent find, Ryunosuke. But it amounts to nothing!</line>
 <line speaker="Ryunosuke">Why?</line>
 <line speaker="Kazuma">Because the witness clearly stated in his testimony that no incident occurred in his cabin. Unless you have some decisive evidence that can show his testimony to be false... ...your accusation is nothing more than conjecture!</line>
@@ -238,9 +238,9 @@
 <line speaker="Ryunosuke">Stronghart:</line>
 <line speaker="Ryunosuke">No no no! That evidence was presented after careful consideration, My Lord.</line>
 <line speaker="Kazuma">Then I'd suggest you take a little longer over your deliberation in future. Otherwise you may find... ...that you're the one being sent for incineration!</line>
-<line speaker="Ryunosuke">AAAAAAAAAGH! <thought>Is it just me, or is Kazuma's tongue getting sharper by the minute?</thought></line>
+<line speaker="Ryunosuke">AAAAAAAAAGH! (Is it just me, or is Kazuma's tongue getting sharper by the minute?)</line>
 <line speaker="Susato">Don't worry, Mr Naruhodo. Your mind can only get sharper, too!</line>
-<line speaker="Ryunosuke"><thought>Mr Sholmes and Professor Mikotoba's visit to Judge Jigoku's cabin... ...yielded a minute piece of evidence that was very nearly overlooked, if my memory isn't failing me.</thought></line>
+<line speaker="Ryunosuke">(Mr Sholmes and Professor Mikotoba's visit to Judge Jigoku's cabin... ...yielded a minute piece of evidence that was very nearly overlooked, if my memory isn't failing me.)</line>
 <line speaker="Susato">You must bring it to mind, Mr Naruhodo! And in a timely fashion...before the bailiff burns everything!</line>
 <line speaker="Ryunosuke">Judge Jigoku! This was found in your cabin yesterday.</line>
 <line speaker="Stronghart">What is that? The crown of a pocket watch?</line>
@@ -253,7 +253,7 @@
 <line speaker="Jigoku">Grrr.........</line>
 <line speaker="Ryunosuke">In other words, the victim was killed on the 31st during the twenty-minute evacuation drill... ...in the cabin occupied by you, Judge Jigoku!</line>
 <line speaker="Jigoku">......... Well...you're razor sharp, aren't you, you young murderer...</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Expertly manoeuvred, Ryunosuke.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Kazuma">And your argument sounds entirely plausible... ...at first. But rather like this pocket watch, it's full of cracks.</line>
@@ -280,16 +280,16 @@
 <line speaker="Kazuma">Yes, because he was merely the tactician. Not the Reaper's hand of death.</line>
 <line speaker="Stronghart">Well, the testimony appears to make perfect sense as far as I can tell.</line>
 <line speaker="Jigoku">Let me express my deep gratitude for your understanding, My Lord.</line>
-<line speaker="Ryunosuke"><thought>But if this testimony holds... ...Judge Jigoku will be deemed to have had no involvement in the case!</thought></line>
+<line speaker="Ryunosuke">(But if this testimony holds... ...Judge Jigoku will be deemed to have had no involvement in the case!)</line>
 <line speaker="Stronghart">Well, Counsel? I really see no reason for wasting precious court time here on a cross-examination.</line>
 <line speaker="Ryunosuke">Sorry, My Lord. The defence has a right to cross-examine. And I don't intend to squander that.</line>
 <line speaker="Jigoku">You're an embarrassment to your countrymen... not knowing when you're beaten.</line>
 <line speaker="Stronghart">In that case...proceed, Mr Naruhodo!</line>
 <line speaker="Jigoku">I had a guest waiting for me when I returned to my cabin after finishing my evening meal in the dining room.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Because the so-called guard posted at your cabin door had just let your killer pass, you mean?</line>
 <line speaker="Jigoku">Apparently Gregson told the crewman he was a police inspector. ...Which was the truth, of course.</line>
-<line speaker="Ryunosuke"><thought>He wouldn't have had his identification with him, though...</thought></line>
+<line speaker="Ryunosuke">(He wouldn't have had his identification with him, though...)</line>
 <line speaker="Jigoku">He had his trench coat and moustache, not to mention the bag of chips. I imagine the crewman was convinced.</line>
 <line speaker="Ryunosuke">But the man accompanying him would have had two sword [sic] slung around his waist.</line>
 <line speaker="Kazuma">You mean me?</line>
@@ -300,7 +300,7 @@
 <line speaker="Stronghart">And you entered without any inkling of suspicion?</line>
 <line speaker="Jigoku">That's right. None whatsoever.</line>
 <line speaker="Jigoku">When I walked through the door, a mustachioed Englishman was there, foolishly waving a gun at me.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Obviously you're talking about Inspector Gregson?</line>
 <line speaker="Jigoku">Yes, though at the time, I didn't know the man's name. And there was no time for introductions. I value my life over manners.</line>
 <line speaker="Ryunosuke">By which you mean...that the inspector was there to assassinate you, I suppose?</line>
@@ -308,7 +308,7 @@
 <line speaker="Ryunosuke">Believe it or not, most of us haven't...</line>
 <line speaker="Jigoku">Anyway, there was no time to call for the help of the crewman at the door. So I dealt with the man myself.</line>
 <line speaker="Jigoku">I soon took care of him with an ippon seoi throw, though. He couldn't wait to run away after that.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Even though the man had a gun?! That was a very brave move, wasn't it?</line>
 <line speaker="Jigoku">Hah hah hah hah hah hah! My ippon seoi is far faster than a bullet, I can assure you!</line>
 <line speaker="Ryunosuke">But surely all that commotion caused the crewman to come in, didn't it?</line>
@@ -316,7 +316,7 @@
 <line speaker="Ryunosuke">...The outstanding guard does it again.</line>
 <line speaker="Jigoku">Luckily there aren't many situations I can't get out of using a quick ippon seoi throw!</line>
 <line speaker="Jigoku">I imagine his watch was broken when I threw him over my shoulder. It has nothing to do with his murder.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The crown snapped off and the glass covering the face of the watch was cracked...</line>
 <line speaker="Jigoku">Preferable to the man's head being pulled off or his spine cracking, wouldn't you say?</line>
 <line speaker="Kazuma">Not that the man was spared for long. A bullet to the chest soon saw to that. But the point is, the broken pocket watch doesn't prove that a murder took place.</line>
@@ -328,7 +328,7 @@
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Jigoku">Haven't you worked it out yet, you little stripling? No murder took place in my cabin.</line>
 <line speaker="Jigoku">The inspector was clearly killed having returned to Britain. Because his body was found in London.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But there's no evidence that proves the victim ever returned to London alive!</line>
 <line speaker="Jigoku">...Just take a moment to think that idea of yours through now, stripling.</line>
 <line speaker="Ryunosuke">What?</line>
@@ -340,7 +340,7 @@
 <line speaker="Ryunosuke">Well...yes...that's true, but...</line>
 <line speaker="Stronghart">All passenger luggage is inspected when it is unloaded from arriving vessels. And I would like to think the border police would query the corpse of an English gentleman as hand luggage.</line>
 <line speaker="Kazuma">If the murder had taken place aboard the ship, you would imagine the body would have been disposed of at sea. There would be no sense in risking being caught by attempting to transport the body back to Britain.</line>
-<line speaker="Ryunosuke">Ugh... <thought>That's killed that idea then...</thought></line>
+<line speaker="Ryunosuke">Ugh... (That's killed that idea then...)</line>
 <line speaker="Susato">But...perhaps not!</line>
 <line speaker="Ryunosuke">Miss Susato?</line>
 <line speaker="Susato">We've heard that the first-class passengers were under constant scrutiny by the crewmen posted to guard them. Which would mean that the culprit had no opportunity to dispose of the body in the sea.</line>
@@ -350,24 +350,24 @@
 <line speaker="Jigoku">I thought I'd been perfectly clear, but it seems I'm going to have to explain it in words you can understand. I think I ought to alter my testimony...with your consent of course, My Lord.</line>
 <line speaker="Stronghart">I have no objection. State your amended testimony now.</line>
 <line speaker="Jigoku">There's no possible way I could have transported the victim's corpse back to Britain.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Hmmm...there's an idea...</line>
 <line speaker="Jigoku">Think about it, stripling. All passengers and crew disembarked at the same time and passed through the same checks at the border. The symposium guests were then driven straight to the hotel in carriages organised by the ministry.</line>
 <line speaker="Susato">And we met you as soon as you arrived at the hotel.</line>
 <line speaker="Jigoku">So you did! Well then, remind me: did I have a corpse over my shoulder at the time?</line>
 <line speaker="Ryunosuke">Wha...?! No!</line>
 <line speaker="Jigoku">So we're in agreement then. I couldn't possibly have brought the inspector's body back to Britain. Unless of course they've developed some clever device these days to instantly move things from A to B!</line>
-<line speaker="Ryunosuke"><thought>Funny you should say that...</thought></line>
+<line speaker="Ryunosuke">(Funny you should say that...)</line>
 <line speaker="Susato">Professor Harebrayne's invention didn't actually work, if you remember, Mr Naruhodo.</line>
 <line speaker="Ryunosuke">Yes...of course.</line>
 <line speaker="Stronghart">The defence has become unusually quiet, I notice.</line>
 <line speaker="Jigoku">Yes. Because there's really nothing more to say.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryunosuke"><thought>So that's his story...</thought></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryunosuke">(So that's his story...)</line>
 <line speaker="Susato">Well, I suppose if you think about it... ...whenever you drop a teacup in the office and it breaks... ...we don't say, 'Mr Naruhodo must have been murdered there!' ...Do we?</line>
 <line speaker="Ryunosuke">...Is that a veiled threat about what might happen to me if I break another one?</line>
 <line speaker="Susato">And the fact is that Inspector Gregson's body was found in the little room on Fresno Street. If he really was killed in Judge Jigoku's cabin...</line>
-<line speaker="Ryunosuke">...The body would have to have been moved somehow, obviously. <thought>Transporting a dead body over a country border... That would be impossible for the majority of people. So there must have been some special circumstances that made it possible for the culprit, then...</thought></line>
+<line speaker="Ryunosuke">...The body would have to have been moved somehow, obviously. (Transporting a dead body over a country border... That would be impossible for the majority of people. So there must have been some special circumstances that made it possible for the culprit, then...)</line>
 <line speaker="Susato">That could be a vital realisation, I think, Mr Naruhodo!</line>
 <line speaker="Ryunosuke">There's no possible way you could have moved Inspector Gregson's body, you say? I would say the opposite is true.</line>
 <line speaker="Jigoku">And what's that supposed to mean?</line>
@@ -420,16 +420,16 @@
 <line speaker="Kazuma">Perhaps my Japanese friend's inexplicable thinking is why people talk of the mystique of the East?</line>
 <line speaker="Ryunosuke">In case you hadn't noticed, I'm not the only Japanese around here. ...Do you even have a mirror?</line>
 <line speaker="Stronghart">The court is not interested in the mystique of anything. You will be penalised accordingly.</line>
-<line speaker="Ryunosuke"><thought>Was the victim killed in the room on Fresno Street, or was he moved there after his death...? There's one piece of evidence we have that shows the answer to that question surprisingly clearly!</thought></line>
+<line speaker="Ryunosuke">(Was the victim killed in the room on Fresno Street, or was he moved there after his death...? There's one piece of evidence we have that shows the answer to that question surprisingly clearly!)</line>
 <line speaker="Susato">Perhaps you should try to present the correct one this time then, Mr Naruhodo!</line>
 <line speaker="Kazuma">Are you going to try again? Or can't you hold your hand steady enough to point it out?</line>
 <line speaker="Stronghart">A photograph of the victim in the very location you claim he wasn't killed?</line>
 <line speaker="Ryunosuke">Yes! But the point is the posture of the body itself.</line>
 <line speaker="Kazuma">...!</line>
 <line speaker="Ryunosuke">If Inspector Gregson had been shot there in that room... ...it's out of the question that his body would have been curled up in a ball like that!</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Jigoku">I'm sorry to disappoint you, but your logic is flawed. He could easily have adopted that foetal position due to the pain of the shot which subsequently proved fatal.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">I'm sorry to disappoint you, Judge Jigoku, but it's your logic that is flawed.</line>
 <line speaker="Jigoku">What?</line>
 <line speaker="Ryunosuke">According to this autopsy report, the victim died instantly. He would have felt no pain, much less have been able to draw himself into that position.</line>
@@ -446,7 +446,7 @@
 <line speaker="Jigoku">......... I'm the Minister of Foreign Affairs from the Empire of Japan! I shouldn't have to put up with this treatment just because of some stripling's baseless accusations!</line>
 <line speaker="Susato">In other words, Judge Jigoku... ...there is blood in your trunk!</line>
 <line speaker="Jigoku">I decline to answer that. As the Minister of Foreign Affairs, I have privileges that allow me to-</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">At this moment, you're not a government minister. You are a witness in a trial in Britain's highest court!</line>
 <line speaker="Jigoku">...!</line>
 <line speaker="Ryunosuke">I don't care who you are or what your status outside this courtroom might be, you will NOT withhold information! Nothing is more important than the truth!</line>
@@ -479,15 +479,15 @@
 <line speaker="Jigoku">So...what do you make of that, young stripling? You've heard my testimony now. And that's all I have to say on the matter. I'll admit to nothing more!</line>
 <line speaker="Susato">I, I don't believe this...</line>
 <line speaker="Stronghart">Counsel for the Defence... ...what is your position now? The court awaits your response to the witness's assertion. The assertion that on the night in question, the victim's assailant was in fact Mr Kazuma Asogi.</line>
-<line speaker="Ryunosuke"><thought>This isn't the dead end it seems to be. The answer's right in front of me. It comes down to Jigoku...Or Kazuma. Both of them had the opportunity to kill Gregson, but only one of them did it. And I'm just a step away from proving who!</thought> Very well. The defence is ready to respond to the assertion put forward by Judge Jigoku. The idea that the victim's murder could have been committed by Prosecutor Asogi is...</line>
+<line speaker="Ryunosuke">(This isn't the dead end it seems to be. The answer's right in front of me. It comes down to Jigoku...Or Kazuma. Both of them had the opportunity to kill Gregson, but only one of them did it. And I'm just a step away from proving who!) Very well. The defence is ready to respond to the assertion put forward by Judge Jigoku. The idea that the victim's murder could have been committed by Prosecutor Asogi is...</line>
 <line speaker="Ryunosuke">......... Well, it is possible, My Lord.</line>
 <line speaker="Kazuma">Wha...?! How could you?!</line>
 <line speaker="Ryunosuke">Do you think I want to believe it?! But the fact is... ...I can't say with complete certainty what actually happened because I wasn't there!</line>
 <line speaker="Kazuma">You... You disappoint me, Ryunosuke!</line>
 <line speaker="Susato">If I may, Mr Naruhodo... ...I think perhaps that's why we form opinions based on evidence.</line>
-<line speaker="Ryunosuke">Ah! <thought>So true... And actually, we have evidence that can settle this argument conclusively!</thought> My Lord! The defence would like to present evidence in support of-</line>
+<line speaker="Ryunosuke">Ah! (So true... And actually, we have evidence that can settle this argument conclusively!) My Lord! The defence would like to present evidence in support of-</line>
 <line speaker="Stronghart">Before you plough on, feigning ignorance of what just occurred, Counsel... ...you must be penalised for that short but embarrassing 'Ah!' you uttered a moment ago.</line>
-<line speaker="Ryunosuke"><thought>Uuugh... I really thought I could just brush past it if I was quick enough...</thought></line>
+<line speaker="Ryunosuke">(Uuugh... I really thought I could just brush past it if I was quick enough...)</line>
 <line speaker="Susato">Never mind the penalty, Mr Naruhodo! The truth is all that matters!</line>
 <line speaker="Ryunosuke">Judge Jigoku! Let me remind you of something you said only a few minutes ago. You claimed that logical reasoning is the future of the judicial process.</line>
 <line speaker="Jigoku">It is. No question.</line>
@@ -501,7 +501,7 @@
 <line speaker="Kazuma">Every piece of evidence has a role to play in arriving at the truth. They're not playthings you can toss around the courtroom for entertainment!</line>
 <line speaker="Ryunosuke">AAAAAAGH!</line>
 <line speaker="Susato">Never mind the evidence, you're about to make me weep, Mr Naruhodo!</line>
-<line speaker="Ryunosuke"><thought>Oh no! I can't upset Susato-san...or I'll end up being upset, too! We know a member of the crew was on sentry duty outside the first-class cabins nearly all the time. So as long as the guard was there, it would have been impossible to fire a shot without it being heard. And that very much narrows down when the crime could have been committed...</thought></line>
+<line speaker="Ryunosuke">(Oh no! I can't upset Susato-san...or I'll end up being upset, too! We know a member of the crew was on sentry duty outside the first-class cabins nearly all the time. So as long as the guard was there, it would have been impossible to fire a shot without it being heard. And that very much narrows down when the crime could have been committed...)</line>
 <line speaker="Ryunosuke">This itinerary for crew members of the SS Grouse, My Lord. This is conclusive proof!</line>
 <line speaker="Stronghart">An itinerary? How does that prove anything?</line>
 <line speaker="Ryunosuke">Judge Jigoku! The moment you acknowledged that you found the victim's body in your cabin... ...this itinerary suddenly became much more significant!</line>
@@ -516,11 +516,11 @@
 <line speaker="Kazuma">I didn't come to Great Britain to take anyone's life. So I left Gregson and disembarked the ship. I spent that night at a boarding house in the town, and returned to England the following morning.</line>
 <line speaker="Ryunosuke">Which I'm sure the court will agree is conclusive proof... ...that Kazuma Asogi couldn't possibly have carried out the killing!</line>
 <line speaker="Jigoku">GYAAAAAAAAAGH!!!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Jigoku">No! Absolutely not! I don't accept that at all!</line>
 <line speaker="Ryunosuke">What do you mean?</line>
 <line speaker="Jigoku">The boy's just saying that to exonerate himself! We can't trust that he really disembarked the vessel! Obviously after he left my cabin, he hid himself somewhere nearby on the ship. Just waiting! Waiting for his chance to come back and finish the-</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">No, that's out of the question. Isn't it, Kazuma?</line>
 <line speaker="Kazuma">...As the defence rightly recalls... ...I disembarked the vessel and spent the night in a boarding house in Dunkirk. And as I said yesterday, I signed my name in the accommodation's register book. All extremely easy to verify...and undeniable proof!</line>
 <line speaker="Jigoku">Agh! No! I...</line>
@@ -533,7 +533,7 @@
 <line speaker="Jigoku">And that left me with only one option for carrying out my obligation: To eliminate the mark myself. Personally. Of course, there was but a single opportunity for me to do that.</line>
 <line speaker="Ryunosuke">The International Forensic Science Symposium, I presume?</line>
 <line speaker="Jigoku">That's right. I decided it would be safest to carry out the plan before my arrival in Britain. So I enlisted the help of my British counterpart... ...and made arrangements for a pretext that would take the inspector to Dunkirk. To lure the man in, he was given a sham mission by the Reaper.</line>
-<line speaker="Ryunosuke">W-What?! <thought>The Reaper...?</thought></line>
+<line speaker="Ryunosuke">W-What?! (The Reaper...?)</line>
 <line speaker="Kazuma">But there's only one person who could have done that! The mastermind of the entire operation: the Reaper himself!</line>
 <line speaker="Ryunosuke">Ah!</line>
 <line speaker="Susato">So...that means that the assassin exchange was... It was all planned by the Reaper!</line>
@@ -555,7 +555,7 @@
 <line speaker="Jigoku">I decided that man would be the perfect person to set up as the culprit. So I took a hackney carriage over there with the body still in my trunk.</line>
 <line speaker="Ryunosuke">That must have been just after we took this photograph with you at the hotel, then...</line>
 <line speaker="Jigoku">Yes, I wasn't expecting a welcome committee. I was more than a little nervous. On Fresno Street, I spotted a young girl selling little firecrackers.</line>
-<line speaker="Ryunosuke"><thought>Miss Venus of course...</thought></line>
+<line speaker="Ryunosuke">(Miss Venus of course...)</line>
 <line speaker="Jigoku">I conceived of the candle trick there and then. So I donned a simple disguise and approached the girl to buy enough firecrackers to replicate a gunshot.</line>
 <line speaker="Kazuma">What sort of disguise?</line>
 <line speaker="Jigoku">For some reason, the inspector had a bright red hairpiece in his own travelling case. So I put that on. Although I suspect I drew more attention to myself in that than I would have otherwise.</line>
@@ -588,7 +588,7 @@
 <line speaker="Stronghart">The true identity of the Reaper of the Bailey... And this extraordinary 'assassin exchange'... We do remain in the dark about these mysteries. However... ...insofar as the indictment brought against the defendant in this trial, we have reached a conclusion.</line>
 <line speaker="Van Zieks">I have every intention of pursuing both mysteries... ...as a prosecutor.</line>
 <line speaker="Stronghart">...As you wish. Now, for the formal adjudication... I hereby declare the defendant, Barok van Zieks.........</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">The prosecution calls for adjudication to be deferred.</line>
 <line speaker="Stronghart">Counsel...?</line>
 <line speaker="Kazuma">The accused's innocence hasn't been fully established at all. And therefore, it would be wrong to deliver a verdict at this time. That is the prosecution's unwavering position!</line>
@@ -612,7 +612,7 @@
 <line speaker="Van Zieks">I must say I'm surprised... ...by quite how tenaciously you appear to want to besmirch my name.</line>
 <line speaker="Kazuma">......... You are guilty of an unforgivable crime, Lord van Zieks. And I will bring you to justice for it...whatever it takes!</line>
 <line speaker="Van Zieks">...!</line>
-<line speaker="Ryunosuke"><thought>That explains Kazuma's silence before. He'll stop at nothing to finish what Lord van Zieks unwittingly started ten years ago...</thought></line>
+<line speaker="Ryunosuke">(That explains Kazuma's silence before. He'll stop at nothing to finish what Lord van Zieks unwittingly started ten years ago...)</line>
 <line speaker="Stronghart">......... Very well. Whilst it's extremely irregular... ...I will on this occasion grant the prosecution further opportunity for witness testimony. The defendant will disclose any and all involvement he has had with the Reaper and the assassin exchange!</line>
 <line speaker="Kazuma">I thank you, My Lord, for guiding the court so wisely.</line>
 <line speaker="Stronghart">I hereby declare this court to be in session for a supplementary hearing!</line>
@@ -640,56 +640,56 @@
 <line speaker="Ryunosuke">So it's always my intention to work with my client in pursuit of the truth.</line>
 <line speaker="Kazuma">......... I want you to remember what you just said.</line>
 <line speaker="Stronghart">Enough dilatory chatter. Counsel for the Defence, proceed to cross-examine the witness.</line>
-<line speaker="Ryunosuke">Ah...Yes, My Lord! <thought>I know exactly what you're thinking, Kazuma. I know you're just waiting to point it out. The contradiction you're convinced lies somewhere within this man's testimony...</thought></line>
+<line speaker="Ryunosuke">Ah...Yes, My Lord! (I know exactly what you're thinking, Kazuma. I know you're just waiting to point it out. The contradiction you're convinced lies somewhere within this man's testimony...)</line>
 <line speaker="Van Zieks">I've never taken the life of another. Nor have I instructed another to kill.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you're not what the general public refer to as the infamous Reaper of the Bailey?</line>
 <line speaker="Van Zieks">Exactly.</line>
 <line speaker="Kazuma">Don't imagine for a moment that the court will be satisfied with a one-word answer on this.</line>
 <line speaker="Van Zieks">I realise that.</line>
-<line speaker="Ryunosuke"><thought>If you're intending to comment on every sentence, this could take a while, Kazuma...</thought> Didn't you find it...disturbing, though? That one by one, defendants who'd been acquitted after your unsuccessful prosecution were killed?</line>
+<line speaker="Ryunosuke">(If you're intending to comment on every sentence, this could take a while, Kazuma...) Didn't you find it...disturbing, though? That one by one, defendants who'd been acquitted after your unsuccessful prosecution were killed?</line>
 <line speaker="Van Zieks">......... Let me answer that question by posing another: If, one by one, defendants who'd been acquitted after your successful defence were killed... ...would you find that 'disturbing'?</line>
 <line speaker="Ryunosuke">Disturbing?! I couldn't possibly say how that would make me feel with a one-word answer like that!</line>
 <line speaker="Van Zieks">Exactly.</line>
-<line speaker="Ryunosuke"><thought>Well...that told me...</thought></line>
+<line speaker="Ryunosuke">(Well...that told me...)</line>
 <line speaker="Van Zieks">But even though I'm not the Reaper, that doesn't mean I ignored all the hearsay.</line>
 <line speaker="Van Zieks">I've been investigating the truth behind the Reaper for years. And I was aware of Gregson's involvement.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You say 'for years'... How long exactly?</line>
 <line speaker="Van Zieks">Since the very first time the Reaper's influence was felt in this courtroom...ten years ago now.</line>
 <line speaker="Ryunosuke">And your investigations led you somehow to Inspector Gregson, you're saying?</line>
 <line speaker="Van Zieks">...I didn't want to believe it. He was a personal acquaintance. We'd worked on cases together in the past.</line>
-<line speaker="Ryunosuke"><thought>A friend...even?</thought></line>
+<line speaker="Ryunosuke">(A friend...even?)</line>
 <line speaker="Van Zieks">It felt like a betrayal, but...I demanded permission to search his office at the Yard without his knowledge.</line>
 <line speaker="Kazuma">Which is when you found his secret notebook, is it?</line>
 <line speaker="Van Zieks">It's when I first learnt of the location he'd noted only as 'Grouse' and the appointment at 5 p.m. on the 31st. Though I didn't know the significance of those details at the time.</line>
-<line speaker="Ryunosuke"><thought>So now we're at the nub of the matter...</thought></line>
+<line speaker="Ryunosuke">(So now we're at the nub of the matter...)</line>
 <line speaker="Van Zieks">As it turns out, the significance for me personally was very unfortunate.</line>
 <line speaker="Van Zieks">That's the reason why I went to Fresno Street that day, and how I came to discover the body.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But why did you go to that specific location?</line>
 <line speaker="Van Zieks">I thought that if it was the Reaper's headquarters... ...then by turning up there at five o'clock, I would catch whoever was involved red-handed. Sadly, all that was awaiting me... ...was the inspector's corpse.</line>
 <line speaker="Ryunosuke">Yes... Even though it wasn't designed for you, you walked straight into the trap set by Jigoku.</line>
 <line speaker="Van Zieks">Exactly. Jigoku had intended to implicate Hugh Boone. But unhappily for me, I arrived at the scene first.</line>
 <line speaker="Kazuma">Hah! A ridiculously careless blunder!</line>
-<line speaker="Ryunosuke"><thought>Moved on to just throwing insults around, I see then, Kazuma...</thought></line>
+<line speaker="Ryunosuke">(Moved on to just throwing insults around, I see then, Kazuma...)</line>
 <line speaker="Van Zieks">Think what you will. It doesn't change the truth.</line>
 <line speaker="Van Zieks">The point is, no common thread exists between myself, Gregson and Dr Wilson.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">There is a link between you and Gregson, though.</line>
 <line speaker="Van Zieks">Of course. We were close acquaintances. We'd worked on numerous cases together. I considered the man to be a mentor of sorts. He taught me a number of important lessons.</line>
 <line speaker="Ryunosuke">H-He did? Such as what?</line>
 <line speaker="Van Zieks">......... Where to buy good fish and chips...and suchlike.</line>
-<line speaker="Ryunosuke"><thought>Well...that was convincing.</thought></line>
+<line speaker="Ryunosuke">(Well...that was convincing.)</line>
 <line speaker="Van Zieks">Dr Wilson was a coroner, of course, but that was some time in the past. And in any case, I understand it was several years ago now that he was invited to work at a Japanese university.</line>
 <line speaker="Ryunosuke">That's right. He was a visiting professor at the Imperial Yumei University in Tokyo.</line>
 <line speaker="Van Zieks">It should be unambiguously clear then, that no link exists between myself and him. In other words, I had no motive for sending some assassin across the oceans to kill the man.</line>
-<line speaker="Ryunosuke"><thought>It sounds plausible enough, and I want to believe it. But something about this just doesn't quite sit right with me...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(It sounds plausible enough, and I want to believe it. But something about this just doesn't quite sit right with me...)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Van Zieks">Clearly, therefore, there's no reason to suspect me of being behind the assassin exchange.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Certainly as it stands, there's no evidence to suggest that you concocted the scheme.</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">But as it stands, we have only the accused's insistence of his innocence.</line>
 <line speaker="Ryunosuke">Sorry?!</line>
 <line speaker="Kazuma">Perhaps there is some reason that would explain why he masterminded the assassin exchange. And if a reason could be established later in these proceedings... ...then the accused's claim in this testimony that he wasn't involved would amount to perjury.</line>
@@ -697,18 +697,18 @@
 <line speaker="Susato">Clearly Kazuma-sama... ...intends to identify a reason and use it to make his case.</line>
 <line speaker="Ryunosuke">So if we don't identify something first...</line>
 <line speaker="Susato">...He'll gain the advantage!</line>
-<line speaker="Ryunosuke"><thought>This could be dangerous...</thought></line>
+<line speaker="Ryunosuke">(This could be dangerous...)</line>
 <line speaker="Kazuma">.........</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryunosuke"><thought>A convincing testimony by Lord van Zieks...</thought></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryunosuke">(A convincing testimony by Lord van Zieks...)</line>
 <line speaker="Susato">Certainly, with no apparent connection between the three men, there's no way to establish a motive. The testimony seems unassailable as far as I can see.</line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Susato">Oh dear me! What a bleak expression!</line>
-<line speaker="Ryunosuke">I agree, there doesn't appear to be any particular link between them...at first glance. But with the inclusion of one other person... ......... <thought>I must be over-thinking it, surely...</thought></line>
+<line speaker="Ryunosuke">I agree, there doesn't appear to be any particular link between them...at first glance. But with the inclusion of one other person... ......... (I must be over-thinking it, surely...)</line>
 <line speaker="Susato">Another person, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">I need to think back over all the information we've gleaned so far.</line>
 <line speaker="Susato">Alright. And I'll review my notes about the case and all the evidence in the Court Record!</line>
-<line speaker="Ryunosuke"><thought>Could it be...that Lord van Zieks has something to hide after all...?</thought></line>
+<line speaker="Ryunosuke">(Could it be...that Lord van Zieks has something to hide after all...?)</line>
 <line speaker="Stronghart">What is this? An autopsy report? Wait...this is ten years old...from the autopsy of Lord Klint van Zieks!</line>
 <line speaker="Van Zieks">What?! My brother's autopsy report?!</line>
 <line speaker="Kazuma">I'm pleased to see the defence doesn't intend to run from the undeniable truth.</line>
@@ -763,9 +763,9 @@
 <line speaker="Kazuma">Wha...What?</line>
 <line speaker="Ryunosuke">Lord van Zieks?</line>
 <line speaker="Van Zieks">I gave no such orders. I know that for certain. Which narrows down the remaining possibilities...to one!</line>
-<line speaker="Ryunosuke"><thought>If Lord van Zieks isn't the one behind all this... ...then yes, there is only one other person who could have done something like that.</thought> I believe I know who it is, too.</line>
+<line speaker="Ryunosuke">(If Lord van Zieks isn't the one behind all this... ...then yes, there is only one other person who could have done something like that.) I believe I know who it is, too.</line>
 <line speaker="Kazuma">You...?!</line>
-<line speaker="Ryunosuke"><thought>I just had a feeling this name was going to come up...</thought> The true identity of the infamous Reaper of the Bailey is...</line>
+<line speaker="Ryunosuke">(I just had a feeling this name was going to come up...) The true identity of the infamous Reaper of the Bailey is...</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Stronghart">What's the matter, Counsel? I take exception at the look you're giving me.</line>
@@ -793,7 +793,7 @@
 <line speaker="Stronghart">A formal accusal? Don't be absurd. The defence's claims are utter nonsense. A wild fantasy at best.</line>
 <line speaker="Ryunosuke">...You're not going to defend yourself?</line>
 <line speaker="Stronghart">You claim there was some wrongdoing with Lord Klint van Zieks's autopsy? That's utterly untrue.</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">But I heard it from Gregson's own lips! He admitted to it!</line>
 <line speaker="Stronghart">...And where is your evidence?</line>
 <line speaker="Kazuma">What?!</line>
@@ -805,16 +805,16 @@
 <line speaker="Van Zieks">So that was the real purpose of the assassin exchange...</line>
 <line speaker="Stronghart">This court has no business raking over the coals of a case that was concluded a decade ago. The accusal brought by the prosecution and the defence is categorically denied. I take it there are no objections?</line>
 <line speaker="Kazuma">...!</line>
-<line speaker="Ryunosuke"><thought>Kazuma... He's more or less waited his whole life for this moment. Is there really nothing else we can do now? Is there no other avenue we can go down in pursuit of the truth about what happened all those years ago...? If only there was someone who could testify about Klint van Zieks's autopsy</thought></line>
-<line speaker="Ryunosuke"><thought>He's gone to extraordinary lengths to cover his tracks. Even so far as dispatching an assassin all the way to Japan to ensure Dr Wilson's silence. And Dr Sithe won't say anything against Stronghart...</thought> .........</line>
+<line speaker="Ryunosuke">(Kazuma... He's more or less waited his whole life for this moment. Is there really nothing else we can do now? Is there no other avenue we can go down in pursuit of the truth about what happened all those years ago...? If only there was someone who could testify about Klint van Zieks's autopsy)</line>
+<line speaker="Ryunosuke">(He's gone to extraordinary lengths to cover his tracks. Even so far as dispatching an assassin all the way to Japan to ensure Dr Wilson's silence. And Dr Sithe won't say anything against Stronghart...) .........</line>
 <line speaker="Kazuma">Ryunosuke, please!</line>
-<line speaker="Ryunosuke"><thought>I'm sorry, Kazuma...</thought></line>
+<line speaker="Ryunosuke">(I'm sorry, Kazuma...)</line>
 <line speaker="Susato">Mr Naruhodo... ...isn't there someone rather important whom you've overlooked?</line>
 <line speaker="Ryunosuke">Hm?</line>
 <line speaker="Stronghart">Your silence is beautifully eloquent. I take it we've reached the end of this debate, then. Let the matter be closed...for good!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryunosuke"><thought>He's gone to extraordinary lengths to cover his tracks. Even so far as dispatching an assassin all the way to Japan to ensure Dr Wilson's silence. And Dr Sithe won't say anything against Stronghart... But...there's still one ray of hope!</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryunosuke">(He's gone to extraordinary lengths to cover his tracks. Even so far as dispatching an assassin all the way to Japan to ensure Dr Wilson's silence. And Dr Sithe won't say anything against Stronghart... But...there's still one ray of hope!)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Actually, there is one person... One person...who could still testify about that autopsy!</line>
 <line speaker="Stronghart">Don't be ridiculous. There's no one left!</line>
 <line speaker="Kazuma">Who, Ryunosuke, who? Tell me!</line>
@@ -828,7 +828,7 @@
 <line speaker="Ryunosuke">What?! I want to know why!</line>
 <line speaker="Stronghart">......... And I want to know why you're proposing to call such a witness with that look of utter desperation on your face.</line>
 <line speaker="Kazuma">In other words, you're wide of the mark, Ryunosuke. Very wide.</line>
-<line speaker="Ryunosuke"><thought>Thanks. Don't spare my feelings or anything...</thought></line>
+<line speaker="Ryunosuke">(Thanks. Don't spare my feelings or anything...)</line>
 <line speaker="Stronghart">Given the contemptible allegations you're making, Counsel, I won't be letting that blunder pass unpunished.</line>
 <line speaker="Ryunosuke">Uuugh...</line>
 <line speaker="Susato">There was somebody else present at the autopsy, Mr Naruhodo. Surely you haven't forgotten?</line>
@@ -843,7 +843,7 @@
 <line speaker="Stronghart">The defence's demand is denied.</line>
 <line speaker="Ryunosuke">What?</line>
 <line speaker="Susato">But Professor Mikotoba is in London at this very moment! We could summon him to the stand in minutes!</line>
-<line speaker="Ryunosuke"><thought>No, of course he's not going to agree to it. Stronghart has no intention of summoning anyone who knows. He's too concerned about protecting himself!</thought></line>
+<line speaker="Ryunosuke">(No, of course he's not going to agree to it. Stronghart has no intention of summoning anyone who knows. He's too concerned about protecting himself!)</line>
 <line speaker="Stronghart">Prosecutor Asogi, let me refresh your memory, as you seem to have forgotten the prosecution's stance: Only minutes ago, you accused the defendant of being the Reaper and of masterminding the assassin exchange.</line>
 <line speaker="Kazuma">I, I did, yes...</line>
 <line speaker="Stronghart">So present your evidence for those claims and make your case complete!</line>
@@ -851,7 +851,7 @@
 <line speaker="Stronghart">The Professor case is closed. There are no clues in the distant past that will bolster your argument today. I'm afraid to say, Prosecutor Asogi... ...that you would appear to be possessed by the spirit of your late homicidal father.</line>
 <line speaker="Kazuma">...!</line>
 <line speaker="Stronghart">Now, as I stated earlier, this court has already reached a conclusion with respect to the matter at hand. Inspector Gregson was murdered by Japanese Supreme Court Judge Seishiro Jigoku. As for any hidden circumstances that may exist, they will be investigated in due course by the proper authorities.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But we all know what will happen! That'll just give the mastermind of the whole venture time to cover his tracks again!</line>
 <line speaker="Stronghart">By which you mean me?</line>
 <line speaker="Ryunosuke">...!</line>
@@ -860,10 +860,10 @@
 <line speaker="Stronghart">This futile game of revenge is over...young Master Asogi.</line>
 <line speaker="Kazuma">Grrr... UWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARGH!</line>
 <line speaker="Stronghart">That will be all! I hereby declare this trial to be over. Court is-</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">M...Mr Sholmes!</line>
 <line speaker="Stronghart">This is no place for amateur detection, Mr Sholmes. May I remind you that these proceedings are closed to the general public. You will leave the courtroom at once!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Mr Sholmes was instrumental in the apprehension of Seishiro Jigoku before he fled from Europe. The court should hear what he has to say!</line>
 <line speaker="Stronghart">.........</line>
 <line speaker="Sholmes">Lord Mael Stronghart... ...it's imperative that you refrain from bringing this trial to an end at this stage.</line>
@@ -889,7 +889,7 @@
 <line speaker="Kazuma">What?! Professor Mikotoba is here in the courthouse?!</line>
 <line speaker="Ryunosuke">Mr Sholmes, you... You didn't know this would happen, did you?!</line>
 <line speaker="Sholmes">My dear fellow, no one is in a better position to answer that question than you, surely.</line>
-<line speaker="Ryunosuke"><thought>I wasn't just asking for the fun of it, you know.</thought></line>
+<line speaker="Ryunosuke">(I wasn't just asking for the fun of it, you know.)</line>
 <line speaker="Stronghart">Well, I must thank you for your assistance in this matter... Mr Sholmes. However... ...you are of no further use here. Kindly leave the courtroom at once.</line>
 <line speaker="Sholmes">But of course. In truth, I find myself rather busy now as a result of these developments. Mr Naruhodo!</line>
 <line speaker="Ryunosuke">Ah! ...Yes?</line>
@@ -898,21 +898,21 @@
 <line speaker="Sholmes">She sends her regards, and a reminder: If you find yourself at a dead end, the ears are at your disposal. ...Just one tug, if you please.</line>
 <line speaker="Ryunosuke">Oh, um...of course!</line>
 <line speaker="Stronghart">In that case, the trial will continue without delay. Bailiff! Show the witness to the stand!</line>
-<line speaker="Ryunosuke"><thought>So it's Lord Stronghart... He's the Reaper of the Bailey. Where exactly is this trial going to take me, I wonder? Just how deep am I about to be plunged into the blackness of the abyss? Well...I'm ready. I'm ready to head into the heart of this maelstrom and confront whatever horrors it tries to drown me under!</thought></line>
+<line speaker="Ryunosuke">(So it's Lord Stronghart... He's the Reaper of the Bailey. Where exactly is this trial going to take me, I wonder? Just how deep am I about to be plunged into the blackness of the abyss? Well...I'm ready. I'm ready to head into the heart of this maelstrom and confront whatever horrors it tries to drown me under!)</line>
 <line speaker="Kazuma">So, witness...please state your name and occupation for the court.</line>
 <line speaker="Mikotoba">Yujin Mikotoba, lecturer in forensic medicine at the Imperial Yumei University in Tokyo, Japan.</line>
 <line speaker="Gorey">.........</line>
 <line speaker="Kazuma">And...Professor Mikotoba, the young lady beside you is...?</line>
 <line speaker="Mikotoba">Ah, this is Dr Maria Gorey. Scotland Yard's practising coroner. The daughter of Dr Sithe, I understand.</line>
-<line speaker="Ryunosuke"><thought>Yes, Dr Sithe...</thought></line>
+<line speaker="Ryunosuke">(Yes, Dr Sithe...)</line>
 <line speaker="Mikotoba">I'm afraid I can't tell you why she's here. She just...appeared.</line>
 <line speaker="Gorey">......... You summon this strange Japanese man as a witness to that autopsy... ...but you don't summon Mama. That makes no sense. She was there too.</line>
 <line speaker="Mikotoba">...That's about the size of it. I've had her eyes boring into the side of my cheek constantly. Whilst I was in the antechamber, too.</line>
-<line speaker="Ryunosuke"><thought>Poor man. The idea of it's making ME shudder...</thought></line>
+<line speaker="Ryunosuke">(Poor man. The idea of it's making ME shudder...)</line>
 <line speaker="Stronghart">The revelations about Dr Sithe that came to light some days ago defiled the reputation of the entire judiciary. She was therefore deemed unfit to appear as a witness in today's proceedings. The Ministry of Justice's decision on that is final.</line>
 <line speaker="Van Zieks">Well, we wouldn't want any more perjury to be committed, would we?</line>
 <line speaker="Gorey">.........</line>
-<line speaker="Ryunosuke"><thought>The Ministry of Justice? Some questionable strings are being pulled, I think...</thought></line>
+<line speaker="Ryunosuke">(The Ministry of Justice? Some questionable strings are being pulled, I think...)</line>
 <line speaker="Stronghart">I remember you...Dr Mikotoba. But I certainly never expected to be meeting you under these circumstances.</line>
 <line speaker="Mikotoba">Yes, it's been a long while, Lord Stronghart.</line>
 <line speaker="Kazuma">The prosecution understands that you were a visiting student of forensic science in London until ten years ago.</line>
@@ -971,7 +971,7 @@
 <line speaker="Stronghart">...Hmph! Very well. You may begin, Counsel. However, the moment your argument strays from the established facts... ...I will not hesitate to bring the cross-examination to an end. Proceed with caution.</line>
 <line speaker="Ryunosuke">Yes, My Lord!</line>
 <line speaker="Mikotoba">From my own observations, I couldn't say there was any indication of the autopsy results having been fabricated.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You, you couldn't say?</line>
 <line speaker="Mikotoba">No, sadly not.</line>
 <line speaker="Kazuma">But then you couldn't say there wasn't any indication, either...could you?</line>
@@ -982,7 +982,7 @@
 <line speaker="Kazuma">Professor Mikotoba, think! Was there nothing at all that seemed out of place to you?</line>
 <line speaker="Mikotoba">Well...yes, there was, as a matter of fact.</line>
 <line speaker="Mikotoba">Death resulted from a wound made by a Western-style sword transfixing the heart. That I found a little strange.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">In all of the previous four killings attributed to the Professor... ...the victims were killed by an enormous dog, I believe? Their throats were, well...mauled?</line>
 <line speaker="Mikotoba">Correct. And yet Lord van Zieks was stabbed.</line>
 <line speaker="Ryunosuke">Ah! Do, do you mean to say... ...you think Lord Klint van Zieks may not in fact have been one of the Professor's victims?!</line>
@@ -994,7 +994,7 @@
 <line speaker="Van Zieks">...A true hound of hell.</line>
 <line speaker="Kazuma">.........</line>
 <line speaker="Gorey">There were no other signs of internal injury. Nothing questionable at all.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But, um...you weren't actually present at the autopsy yourself, were you, Dr Gorey?</line>
 <line speaker="Gorey">Does that matter?</line>
 <line speaker="Ryunosuke">Well, I...just wonder how useful your testimony can be in that case, really. I mean, it would be different if your mother, Dr Sithe, were in the stand, but...</line>
@@ -1007,9 +1007,9 @@
 <line speaker="Ryunosuke">Unbelievable? What do you mean?</line>
 <line speaker="Kazuma">Come on, Dr Gorey! What was it?</line>
 <line speaker="Gorey">.........</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gorey">It was just that beautiful but dangerous piece of evidence removed from the man's stomach.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What exactly was it, though? What does 'beautiful but dangerous' mean?</line>
 <line speaker="Gorey">Well... ...it was sparkly and round, with a hole...as if it might slip over a finger perhaps.</line>
 <line speaker="Mikotoba">It was a ring. Belonging to Genshin Asogi.</line>
@@ -1037,9 +1037,9 @@
 <line speaker="Gorey">.........</line>
 <line speaker="Ryunosuke">However it came to be here, the court cannot deny that this is crucial evidence for today's proceedings.</line>
 <line speaker="Stronghart">......... Very well, you may submit it.</line>
-<line speaker="Ryunosuke">It's not the sort of ring normally seen in Japan. <thought>They almost look like claws protecting that jewel...</thought></line>
+<line speaker="Ryunosuke">It's not the sort of ring normally seen in Japan. (They almost look like claws protecting that jewel...)</line>
 <line speaker="Susato">We must examine it very carefully, Mr Naruhodo. Very carefully indeed!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">By beautiful and dangerous evidence, you mean this large ring, obviously.</line>
 <line speaker="Gorey">That's right. Pulled from the victim's stomach once it had been sliced open nicely.</line>
 <line speaker="Van Zieks">It was my brother's final move before he perished. An ingenious one, to leave us a clue by which to identify his killer.</line>
@@ -1051,11 +1051,11 @@
 <line speaker="Susato">Yes, if you were clumsy, you could give yourself a rather nasty cut on them, I should think.</line>
 <line speaker="Ryunosuke">Ow! Now my finger's bleeding! The claws really are sharp.</line>
 <line speaker="Susato">Oh my! That was very quick clumsiness, Mr Naruhodo, even for you.</line>
-<line speaker="Ryunosuke">Uuugh... Who would make such a dangerous ring?! <thought>You couldn't swallow it without doing yourself some fairly serious damage, surely...</thought></line>
+<line speaker="Ryunosuke">Uuugh... Who would make such a dangerous ring?! (You couldn't swallow it without doing yourself some fairly serious damage, surely...)</line>
 <line speaker="Susato">A sticky mochi bun of about that size would go down much better. With some red bean paste in the middle!</line>
 <line speaker="Ryunosuke">...Someone as clumsy as me would probably manage to choke on it somehow.</line>
 <line speaker="Van Zieks">Presumed to have been swallowed by the victim as a way of posthumously identifying his assailant.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And that was the decisive piece of evidence that led to Genshin Asogi's arrest?</line>
 <line speaker="Van Zieks">Correct.</line>
 <line speaker="Stronghart">After further investigations by Scotland Yard, the man admitted to his crimes.</line>
@@ -1064,7 +1064,7 @@
 <line speaker="Kazuma">...!</line>
 <line speaker="Van Zieks">My brother Klint had closed in on the Professor. In the end, he exposed the man and put a stop to his lethal rampage. ...In the way only a man of my brother's calibre could.</line>
 <line speaker="Kazuma">.........</line>
-<line speaker="Ryunosuke"><thought>That's everything...is it?</thought></line>
+<line speaker="Ryunosuke">(That's everything...is it?)</line>
 <line speaker="Susato">Poor Father. He looks so troubled.</line>
 <line speaker="Ryunosuke">Perhaps because ten years ago...something happened that's been weighing on his mind.</line>
 <line speaker="Susato">Oh...</line>
@@ -1113,7 +1113,7 @@
 <line speaker="Stronghart">I beg your pardon?</line>
 <line speaker="Gorey">But Mama... She chose to stitch her corpses up...with all her secrets inside... ......... That's wrong.</line>
 <line speaker="Stronghart">.........</line>
-<line speaker="Ryunosuke">Dr Gorey... <thought>It's looking as though... ...she's chosen to walk a different path to her 'mama'.</thought></line>
+<line speaker="Ryunosuke">Dr Gorey... (It's looking as though... ...she's chosen to walk a different path to her 'mama'.)</line>
 <line speaker="Van Zieks">Yes...the ring.</line>
 <line speaker="Kazuma">What about the ring?</line>
 <line speaker="Van Zieks">I've just remembered something. An earlier incident.</line>
@@ -1129,11 +1129,11 @@
 <line speaker="Kazuma">W-Wait, but...</line>
 <line speaker="Van Zieks">Genshin was arrested two days after that attack. And in that short interval, the decisive evidence needed to indict him was miraculously found.</line>
 <line speaker="Ryunosuke">You mean...the ring was stolen from him?! You think that's what those thugs were after that night?</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">......... You... You pathetic coward... You expect me to believe that you weren't involved?</line>
 <line speaker="Van Zieks">What do you mean by that?</line>
 <line speaker="Kazuma">It was you, wasn't it? You're the one who took it. You stole my father's ring! You set the whole thing up so you could paint him as a mass murderer and have him arrest-</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Kazuma... ...open your eyes.</line>
 <line speaker="Kazuma">R-Ryunosuke?</line>
 <line speaker="Ryunosuke">You must know deep down... The truth can be completely obscured even when your judgement is only slightly clouded. But at the moment...you seem to be floundering through a dense fog.</line>
@@ -1154,8 +1154,8 @@
 <line speaker="Stronghart">An obvious conclusion at which you should have arrived many minutes ago...Prosecutor Asogi. Your twisted loyalty and clouded judgement are hampering your ability for logical thought.</line>
 <line speaker="Kazuma">Argh!</line>
 <line speaker="Stronghart">Genshin Asogi's silence at his hearing can mean only one thing: There was no fabrication of evidence during the autopsy of his final victim ten years ago!</line>
-<line speaker="Ryunosuke">AAAAAAAAAAAAGH! <thought>But if that autopsy was all above board... ...there'll be nothing to stop Lord Stronghart bringing this trial to an immediate conclusion!</thought></line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">AAAAAAAAAAAAGH! (But if that autopsy was all above board... ...there'll be nothing to stop Lord Stronghart bringing this trial to an immediate conclusion!)</line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Thank you, Ryunosuke. If it wasn't for your frank words just now... ...this trial may very well have ended prematurely.</line>
 <line speaker="Ryunosuke">K-Kazuma...?</line>
 <line speaker="Stronghart">What's this latest absurdity, Counsel?</line>
@@ -1163,22 +1163,22 @@
 <line speaker="Stronghart">I beg your pardon?</line>
 <line speaker="Kazuma">You claim my father's silence was due to the fact that there was no fabricated evidence. But there's another possible explanation. You've overlooked the possibility that he had a reason for maintaining that silence!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Oh, those results were an invention alright. There's no question of that. Or are you forgetting that two people with a connection to that autopsy have been assassinated?</line>
 <line speaker="Van Zieks">...!</line>
 <line speaker="Kazuma">If I force the grievances I feel from my mind...I start to see you in a very different light. I think perhaps it's you who's been living in delusion these ten years.</line>
 <line speaker="Van Zieks">M...Me...?</line>
 <line speaker="Susato">Kazuma-sama has created one last chance for us here, Mr Naruhodo. If we can only show there was a reason for his father's silence in his trial...</line>
-<line speaker="Ryunosuke"><thought>A reason why the man would have said nothing even though he was innocent... Could it have been part of some negotiation, perhaps?</thought></line>
+<line speaker="Ryunosuke">(A reason why the man would have said nothing even though he was innocent... Could it have been part of some negotiation, perhaps?)</line>
 <line speaker="Stronghart">Enough rhetoric! The court must be shown evidence. What proof do you have that could possibly explain Asogi's silence in court?</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Stronghart">As I indicated before, my patience for rhetoric is growing thin.</line>
-<line speaker="Ryunosuke"><thought>You could've at least accompanied that penalty with an explanation of why that answer was wrong...</thought></line>
+<line speaker="Ryunosuke">(You could've at least accompanied that penalty with an explanation of why that answer was wrong...)</line>
 <line speaker="Susato">If Kazuma-sama's father knew that the evidence being used to convict him was fabricated... ...why would he have said nothing in his trial?</line>
 <line speaker="Ryunosuke">If it were me, I'd have protested my innocence until I was blue in the face.</line>
 <line speaker="Susato">So if we're right about the autopsy results, there must have been a strong reason for his silence.</line>
-<line speaker="Ryunosuke">Well then...perhaps... ...he was saying nothing in exchange for some sort of clemency? Ah! <thought>That could be it!</thought> My Lord! The defence would like to-</line>
+<line speaker="Ryunosuke">Well then...perhaps... ...he was saying nothing in exchange for some sort of clemency? Ah! (That could be it!) My Lord! The defence would like to-</line>
 <line speaker="Ryunosuke">It's true that Genshin Asogi's silence during his trial resulted in his conviction... ...but that didn't actually lead to his execution. On the contrary... ...it led to his escape. An escape that was only possible because he'd been sentenced to death.</line>
 <line speaker="Kazuma">Although I find it hard to believe my father would have negotiated in that way...the defence is correct. A fake execution, falsification of a death certificate and a jailbreak inside a coffin... Clearly such an elaborate plan couldn't have been carried out by my father alone.</line>
 <line speaker="Van Zieks">He must have had the help of a collaborator from the judiciary.</line>
@@ -1241,7 +1241,7 @@
 <line speaker="Ryunosuke">Absolutely! I have no intention of squandering a single opportunity, My Lord!</line>
 <line speaker="Stronghart">...It seems all you Japanese are fiercely tenacious. Very well. Proceed, Counsel!</line>
 <line speaker="Caidin">It was the day that Japanese jock was found guilty. The directive came from the Prosecutor's Office.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And you say you don't know who actually issued the directive?</line>
 <line speaker="Caidin">Aye, that's right. All I can be sure of, is that it was official.</line>
 <line speaker="Kazuma">But if it was from the Prosecutor's Office, that narrows down who could have issued it straight away.</line>
@@ -1253,7 +1253,7 @@
 <line speaker="Susato">All we can say for sure is that the order must have come from somebody in authority, I suppose.</line>
 <line speaker="Caidin">The likes of us on the ground, as it were, dinnae bother wi' idle speculation. We just get the job done.</line>
 <line speaker="Caidin">I assigned the convict to the chief warder Vigil here, and put the plan into action behind the scenes.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So Mr Vigil, you didn't know anything about it at all?</line>
 <line speaker="Vigil">That's right. My only role in the scheme...was as a scapegoat. That's right, isn't it...Governor?</line>
 <line speaker="Caidin">......... Some poor beggar had to take the rap for it.</line>
@@ -1262,10 +1262,10 @@
 <line speaker="Caidin">I've no the first idea, laddie. My part in the whole business was basically just dealin' wi' the aftermath. But I would'nae be surprised if there were other folk in the prison service who'd been given similar orders.</line>
 <line speaker="Ryunosuke">So you don't know who else was involved...</line>
 <line speaker="Caidin">Aye, that's right. All I can tell ya... ...is that the night it actually happened, the person at the reins...was Dr Stevens.</line>
-<line speaker="Ryunosuke">Dr Courtney Stevens? <thought>Or Dr Sithe, as she's known now...</thought></line>
+<line speaker="Ryunosuke">Dr Courtney Stevens? (Or Dr Sithe, as she's known now...)</line>
 <line speaker="Vigil">Haaah... Why did I have to get caught up in such a terrible business...?</line>
 <line speaker="Vigil">I was responsible for Asogi right up until the night of his execution. But I knew nothing of any plot...</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Did you not notice anything unusual happening in the lead up to that night?</line>
 <line speaker="Vigil">Oh, everything was unusual. Exception after exception. After all, it was the Professor. The man had terrorised the country as never before with his crimes. In order to hide his identity, he was forced to wear an iron mask over his head.</line>
 <line speaker="Kazuma">...Hideous treatment.</line>
@@ -1278,7 +1278,7 @@
 <line speaker="Kazuma">And what else can you tell us about the situation, Governor Caidin?</line>
 <line speaker="Caidin">Haaah...</line>
 <line speaker="Caidin">I dinnae ken if there were some negotiations between the convict and the Prosecutor's Office.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But you've already acknowledged that orders came from the Prosecutor's Office to arrange for the man's escape! There must have been some sort of negotiation! It's the only explanation!</line>
 <line speaker="Caidin">Aye, well, be that as it may. I dinnae ken nothin' aboot that. The witness stand is no place for tellin' what ya don't know for sure. I ken that much, I do.</line>
 <line speaker="Kazuma">Then I presume you also know this: Not telling what you do know is a criminal offence.</line>
@@ -1289,7 +1289,7 @@
 <line speaker="Kazuma">So that's what it's to be, is it? Even with the threat of conviction, you won't break your silence.</line>
 <line speaker="Caidin">.........</line>
 <line speaker="Caidin">All I did was carry oot my duty! For Her Majesty's great British Empire!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Did you carry out the plan in its entirety?</line>
 <line speaker="Caidin">Aye, I did everythin' I could at the time.</line>
 <line speaker="Kazuma">As you know, Genshin Asogi was shot dead in Lowgate Cemetery after the escape. Tell me...was that part of the plan, too?!</line>
@@ -1297,7 +1297,7 @@
 <line speaker="Ryunosuke">'Scuse me!</line>
 <line speaker="Ryunosuke">Mr Vigil! Is something wrong?</line>
 <line speaker="Vigil">Uuugh...uuuwaaaaaagh! Yes, sir? What can I do for you, sir?</line>
-<line speaker="Ryunosuke">......... <thought>He's saluting now? What is it? Some sort of Barclay convention?</thought> What Governor Caidin was just saying seemed to upset you. Did it bring something to mind, perhaps?</line>
+<line speaker="Ryunosuke">......... (He's saluting now? What is it? Some sort of Barclay convention?) What Governor Caidin was just saying seemed to upset you. Did it bring something to mind, perhaps?</line>
 <line speaker="Vigil">......... For the last ten years, I've completely blotted out the memories of that time from my mind. I was betrayed by my superiors...in the name of my country.</line>
 <line speaker="Caidin">.........</line>
 <line speaker="Kazuma">Just as my father was betrayed, it seems.</line>
@@ -1324,7 +1324,7 @@
 <line speaker="Stronghart">However it happened, the convict's life was destined to end that night. The moment the execution order was signed, his fate was sealed. This court will not pursue the identity of the individual who carried out the order.</line>
 <line speaker="Kazuma">Grrr...</line>
 <line speaker="Caidin">It seems to me that the Japanese fella did'nae have nothin' to bargain with.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Admitting to the crimes. That was what he had to bargain with, surely?</line>
 <line speaker="Caidin">I cannae see that myself. After all, did the prosecution no have conclusive evidence against the carlie, eh?</line>
 <line speaker="Kazuma">This, you mean? 'Discovered' during the final victim's autopsy. There's every possibility this 'conclusive' evidence was fabricated by Scotland Yard and the Prosecutor's Office!</line>
@@ -1332,13 +1332,13 @@
 <line speaker="Caidin">Em...aye, that's right! So what I'm sayin' is... ...the convict had nothin'. Nothin' he could use for any kind of bargainin' at all.</line>
 <line speaker="Stronghart">The witness makes an astute point. Logically, it would seem no negotiation could have taken place.</line>
 <line speaker="Kazuma">.........</line>
-<line speaker="Ryunosuke"><thought>And yet the plan to break the man out of prison was definitely put into practice. So he must have been armed with something that gave him an angle to negotiate.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryunosuke"><thought>So Asogi-san agreed to confess to the crimes because he was assured he'd be broken out of prison later...</thought></line>
+<line speaker="Ryunosuke">(And yet the plan to break the man out of prison was definitely put into practice. So he must have been armed with something that gave him an angle to negotiate.)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryunosuke">(So Asogi-san agreed to confess to the crimes because he was assured he'd be broken out of prison later...)</line>
 <line speaker="Susato">I really don't think that Kazuma-sama's father would have engaged in such negotiations.</line>
 <line speaker="Ryunosuke">Then perhaps something compelled him to agree?</line>
 <line speaker="Susato">What a terrible thing... Using the law to legitimise such underhand dealings with a desperate man... ...only to double-cross him in the end. It's quite the opposite of justice!</line>
-<line speaker="Ryunosuke"><thought>I can't help feeling... ...there's something about this apparent negotiation that doesn't quite add up.</thought></line>
+<line speaker="Ryunosuke">(I can't help feeling... ...there's something about this apparent negotiation that doesn't quite add up.)</line>
 <line speaker="Susato">Something doesn't quite add up, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">No, it doesn't. But I can't quite put my finger on what yet.</line>
 <line speaker="Susato">Well in that case, we must keep digging until we identify the problem!</line>
@@ -1376,7 +1376,7 @@
 <line speaker="Vigil">What? No! I, I definitely heard him say that! I swear!</line>
 <line speaker="Kazuma">Clearly we need to get to the bottom of this. We need to know exactly what happened with these so-called Asogi Papers!</line>
 <line speaker="Stronghart">A waste of time! ...If the will was fake, where is the real document?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Mr Vigil was stabbed in the back by the judiciary ten years ago. He lost everything. Very nearly his own life.</line>
 <line speaker="Vigil">...!</line>
 <line speaker="Caidin">...!</line>
@@ -1390,7 +1390,7 @@
 <line speaker="Caidin">Were you no satisfied wi' callin' me a liar the once, eh, ya wee waffinger?</line>
 <line speaker="Vigil">Hah! There's nothing you can do about it now. You don't have any hold over me any more. Other than the hold you like to take on my cravat, of course. Is that what you're going to do, is it? Are you going to give me a good shake again? ...Or are you too scared?</line>
 <line speaker="Caidin">GAAAAAAAAAAAAAAAAAAAAAAAARGH!!!</line>
-<line speaker="Ryunosuke"><thought>Little and large... What a double act.</thought></line>
+<line speaker="Ryunosuke">(Little and large... What a double act.)</line>
 <line speaker="Stronghart">We complied with Asogi's will as far as was possible. All of his personal effects were delivered to his family home in Japan. ...As a courtesy to the homeland of the most notorious killer our country has ever seen.</line>
 <line speaker="Kazuma">......... And we were much obliged. I can confirm that all of my father's belongings arrived safely.</line>
 <line speaker="Caidin">Aye, and you cannae deny the handwritin' is that of your old man, eh?</line>
@@ -1401,7 +1401,7 @@
 <line speaker="Stronghart">So, Counsel for the Defence... your cross-examination, please!</line>
 <line speaker="Ryunosuke">Yes, My Lord!</line>
 <line speaker="Vigil">As the warder responsible for condemned convicts, I attended to Mr Asogi and kept watch over his cell.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So would that mean that you conversed with Mr Asogi?</line>
 <line speaker="Vigil">Yes, certainly. Though there was precious little time before his execution was due.</line>
 <line speaker="Kazuma">.........</line>
@@ -1413,7 +1413,7 @@
 <line speaker="Ryunosuke">And what about the will you saw him with? What can you tell us about that?</line>
 <line speaker="Vigil">......... It was the beginning of all the drama. I remember it very well. Yes...</line>
 <line speaker="Vigil">The night after he was found guilty in court, he was doing something with that will in his cell!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And he pleaded with you not to report him, didn't he?</line>
 <line speaker="Vigil">Yes, that's right.</line>
 <line speaker="Caidin">And like the bampot y'are, ye did'nae tell me. ...A blatant breach of trust, that was.</line>
@@ -1436,11 +1436,11 @@
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Stronghart">I would have to consult with the notary responsible for the will at the time.</line>
 <line speaker="Kazuma">The fact that my father's will was discovered in his cell is clearly inconsistent with what was expected! ...I want to know why.</line>
-<line speaker="Ryunosuke"><thought>Another inexplicable mystery, then...</thought></line>
+<line speaker="Ryunosuke">(Another inexplicable mystery, then...)</line>
 <line speaker="Stronghart">.........</line>
 <line speaker="Vigil">Well, um...the thing is about that will...</line>
 <line speaker="Vigil">We turned the cell inside out looking for it after the execution, but to no avail.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">It was the governor who ordered the search for the will, as I understand it. Is that right?</line>
 <line speaker="Vigil">Yes. And when I reported back that we couldn't find it... ...he grabbed me by the cravat and yelled, 'It cannae have disappeared completely!' in my face.</line>
 <line speaker="Caidin">Aye, well...it's doon to the governor to keep everybody workin' as hard as they should.</line>
@@ -1455,18 +1455,18 @@
 <line speaker="Vigil">I'm afraid I...I really don't remember anything after that.</line>
 <line speaker="Caidin">......... As the governor of the prison, I...I had no choice. I could'nae have done anythin' else.</line>
 <line speaker="Caidin">I only found oot about the Asogi Papers when a directive came tellin' me to impound them.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And that directive came from the same source as the one instructing you about the jailbreak?</line>
 <line speaker="Caidin">Aye. From the top levels of the Prosecutor's Office.</line>
 <line speaker="Kazuma">What name was on it?</line>
 <line speaker="Caidin">I did'nae ken afore an' I dinnae ken now. All I can tell ya, is that my orders were to do everythin' in my power to find that document. The directive said it had to be somewhere inside the fella's cell.</line>
 <line speaker="Ryunosuke">'Document'... Was that the wording? 'Document' not 'will'?</line>
 <line speaker="Caidin">...Aye, that's what it said.</line>
-<line speaker="Ryunosuke"><thought>Am I clutching at straws here...? I just wonder if it was really Genshin Asogi's last will and testament that the sender of that directive was after...</thought></line>
+<line speaker="Ryunosuke">(Am I clutching at straws here...? I just wonder if it was really Genshin Asogi's last will and testament that the sender of that directive was after...)</line>
 <line speaker="Stronghart">.........</line>
 <line speaker="Kazuma">Continue with your testimony then, witness.</line>
 <line speaker="Caidin">The document was in the folds of the fella's robe that was left in his cell. A 'kimono', I think it's called.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">In Mr Asogi's kimono?</line>
 <line speaker="Caidin">Aye, the one he'd brought with him when he was locked up.</line>
 <line speaker="Ryunosuke">Yes...he was permitted to have his personal effects with him during his incarceration, I understand?</line>
@@ -1474,7 +1474,7 @@
 <line speaker="Vigil">Indeed. He had a number of items of personal significance, I remember. He was very reluctant to part with them. Some books, that kimono, his sword...</line>
 <line speaker="Ryunosuke">His sword?!</line>
 <line speaker="Kazuma">Karuma, the famous sword of the Asogi clan. ...It bears the soul of my family.</line>
-<line speaker="Ryunosuke">I, I don't doubt it, but I wasn't really getting at that... <thought>Forget it being the soul of the clan! Could the man have had a more obvious 'weapon'?</thought></line>
+<line speaker="Ryunosuke">I, I don't doubt it, but I wasn't really getting at that... (Forget it being the soul of the clan! Could the man have had a more obvious 'weapon'?)</line>
 <line speaker="Kazuma">Have some respect, Ryunosuke.</line>
 <line speaker="Ryunosuke">...Respectful silence?</line>
 <line speaker="Caidin">The warders carry firearms at all times, and the inmates have shackles around their ankles. He could'nae have hurt anybody wi' that thing.</line>
@@ -1505,7 +1505,7 @@
 <line speaker="Kazuma">When he was callously betrayed and shot dead in a dark cemetery in the middle of the night. ...Yes, the gentlemanliness of it is overwhelming.</line>
 <line speaker="Stronghart">.........</line>
 <line speaker="Vigil">As I remember it, the document was written in scarlet ink, but...perhaps I'm mistaken.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Scarlet, you say?</line>
 <line speaker="Vigil">Well...yes. I mean, I only caught sight of it for a brief moment, of course. But even by the dim light in the cell, I remember thinking that it was an unusual colour. At the very least, I'm quite sure it wasn't black.</line>
 <line speaker="Stronghart">......... Witness! Is that really what you saw?!</line>
@@ -1521,10 +1521,10 @@
 <line speaker="Vigil">Yes, it was. That's what Mr Asogi told me.</line>
 <line speaker="Stronghart">The court need waste no further time on this matter. We have the will in question in our possession. There is nothing more to add.</line>
 <line speaker="Vigil">.........</line>
-<line speaker="Ryunosuke"><thought>A will written in scarlet ink... What did Mr Vigil really see Kazuma's father holding, I wonder...?</thought></line>
+<line speaker="Ryunosuke">(A will written in scarlet ink... What did Mr Vigil really see Kazuma's father holding, I wonder...?)</line>
 <line speaker="Susato">If you have an inkling, Mr Naruhodo, you must present it to the court at once!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryunosuke"><thought>That testimony doesn't give much away.</thought></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryunosuke">(That testimony doesn't give much away.)</line>
 <line speaker="Susato">So this will really was penned by Kazuma-sama's father. I wonder what he could possibly have meant when he described it as a weapon...</line>
 <line speaker="Ryunosuke">It's starting to sound very much like Mr Asogi actually had nothing.</line>
 <line speaker="Susato">But the plan to break him out of jail went ahead. Which means he must have had some bargaining power. He must have been hiding something. It's the only explanation that makes sense.</line>
@@ -1567,20 +1567,20 @@
 <line speaker="Van Zieks">No! Impossible! That is utterly out of the question!</line>
 <line speaker="Susato">Lord van Zieks...</line>
 <line speaker="Van Zieks">Klint was pursuing the Professor. It consumed him day and night. Whatever happened, he would never have abandoned his investigation before its conclusion. Never! He wouldn't rest until the job was done... Until the killer was caught... The idea that he would willingly accept his own death... It's obscene!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">And yet we can be sure that he was writing his will moments before his death.</line>
 <line speaker="Ryunosuke">And that Genshin Asogi came to be in possession of that document. So what could the will possibly have contained...?</line>
 <line speaker="Kazuma">Clearly something that couldn't be made public under any circumstances whatsoever. Because armed with that document, my father was able to negotiate with the judiciary for his life. It was something so damning that it prompted the powers that be to enact that daring jailbreak plot. Yes, there can be no question that the will contained information of the utmost secrecy!</line>
-<line speaker="Ryunosuke">Information...of the utmost secrecy... AAAAAAH! <thought>No... It, it couldn't be...</thought></line>
+<line speaker="Ryunosuke">Information...of the utmost secrecy... AAAAAAH! (No... It, it couldn't be...)</line>
 <line speaker="Stronghart">I've heard more than enough. Pursuing this notion of a phantom will nobody can attest to having seen serves absolutely no purpose.</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">No, My Lord, that's unacceptable!</line>
 <line speaker="Stronghart">What did you say, Counsel?</line>
 <line speaker="Kazuma">The last will and testament that Genshin Asogi had in his possession was that of Lord Klint van Zieks. All the testimony and evidence presented to the court has logically led us to that as a possibility. We have a duty...to pursue the line of reasoning to its conclusion!</line>
 <line speaker="Stronghart">But with no possible means of knowing the contents of the document, there is no line of reasoning to pursue!</line>
 <line speaker="Kazuma">...!</line>
 <line speaker="Van Zieks">.........</line>
-<line speaker="Ryunosuke"><thought>A reason why Lord Klint van Zieks, a man of high noble standing, would have chosen death... Information so secret, people in the judiciary would be willing to negotiate the jailbreak of a condemned killer... The only explanation that fits those facts... is an unthinkable truth that turns absolutely everything on its head! But...it's just too hideous...</thought></line>
+<line speaker="Ryunosuke">(A reason why Lord Klint van Zieks, a man of high noble standing, would have chosen death... Information so secret, people in the judiciary would be willing to negotiate the jailbreak of a condemned killer... The only explanation that fits those facts... is an unthinkable truth that turns absolutely everything on its head! But...it's just too hideous...)</line>
 <line speaker="Susato">Mr Naruhodo...</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Susato">However difficult the situation might become... ...you work with your client in pursuit of the truth. That's what you resolved to do when you entered the courtroom this morning, if I'm not mistaken.</line>
@@ -1590,7 +1590,7 @@
 <line speaker="Stronghart">The defence's last statement is mere conjecture.</line>
 <line speaker="Van Zieks">What are you getting at, man?</line>
 <line speaker="Kazuma">Ryunosuke?!</line>
-<line speaker="Ryunosuke">......... <thought>As soon as these words come out of my mouth, there's no going back...</thought> I believe that the last will and testament of Lord Klint van Zieks was in fact...</line>
+<line speaker="Ryunosuke">......... (As soon as these words come out of my mouth, there's no going back...) I believe that the last will and testament of Lord Klint van Zieks was in fact...</line>
 <line speaker="Ryunosuke">It seems to me that it was probably some kind of report.</line>
 <line speaker="Kazuma">Some kind of...?</line>
 <line speaker="Ryunosuke">Well, remember that Lord Klint van Zieks was a well-bred and fastidious man. Knowing the end was near, he probably wanted to tie up the loose ends of all his outstanding business.</line>
@@ -1599,20 +1599,20 @@
 <line speaker="Van Zieks">Klint would have a full account written the instant there was even a hint of something to report!</line>
 <line speaker="Ryunosuke">...He must have worn out a lot of pens.</line>
 <line speaker="Stronghart">In any case, a business report would never be penned in scarlet ink, Counsel.</line>
-<line speaker="Ryunosuke">Ugh... <thought>I forgot to consider the ink colour.</thought></line>
+<line speaker="Ryunosuke">Ugh... (I forgot to consider the ink colour.)</line>
 <line speaker="Stronghart">It's apparent that the defence's explanation has no real substance. This line of enquiry is dead!</line>
 <line speaker="Kazuma">Come on, Ryunosuke! I know you! You've seen to the heart of all this, haven't you?</line>
 <line speaker="Ryunosuke">Obviously it must have been an accusation!</line>
 <line speaker="Kazuma">An accusation?</line>
 <line speaker="Ryunosuke">Yes, revealing the true identity of the Professor!</line>
 <line speaker="Stronghart">Which would explain why Asogi took it, since it was he who was implicated by the document.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">No! In that case, the will wouldn't have given Mr Asogi any bargaining power at all.</line>
 <line speaker="Stronghart">...Then you're suggesting the accusation was against some other person?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">No! If that were the case, the two men would surely have collaborated to pursue the culprit together!</line>
 <line speaker="Stronghart">......... Then your whole argument falls down!</line>
-<line speaker="Ryunosuke">AAAAAAAAARGH! Uuugh... <thought>Can I object to the penalty, too?</thought></line>
+<line speaker="Ryunosuke">AAAAAAAAARGH! Uuugh... (Can I object to the penalty, too?)</line>
 <line speaker="Stronghart">It's apparent that the defence's explanation has no real substance. This line of enquiry is dead!</line>
 <line speaker="Kazuma">Come on, Ryunosuke! I know you! You've seen to the heart of all this, haven't you?</line>
 <line speaker="Ryunosuke">.........</line>
@@ -1632,7 +1632,7 @@
 <line speaker="Susato">Oh, this is too awful... Poor Lord van Zieks...</line>
 <line speaker="Ryunosuke">......... I wonder, though... Did he never suspect?</line>
 <line speaker="Susato">Mr Naruhodo?</line>
-<line speaker="Ryunosuke"><thought>Lord Barok van Zieks is a brilliant prosecutor. Is it conceivable that he didn't realise what his older brother really was...?</thought></line>
+<line speaker="Ryunosuke">(Lord Barok van Zieks is a brilliant prosecutor. Is it conceivable that he didn't realise what his older brother really was...?)</line>
 <line speaker="Stronghart">Order! Order! Order in court!</line>
 <line speaker="Ryunosuke">Lord van Zieks...</line>
 <line speaker="Van Zieks">.........</line>
@@ -1642,13 +1642,13 @@
 <line speaker="Van Zieks">When my brother would go hunting in the forest of the grounds behind the house, he always took Balmung. After Klint's death, the creature passed away too... almost as if he were following his master. He was a magnificent hunting dog...worthy of the jewel-studded collar around his neck.</line>
 <line speaker="Ryunosuke">A jewel-studded collar...?</line>
 <line speaker="Van Zieks">That's right. Though sadly... ...some years ago now it was stolen by a thief who broke into the house one night.</line>
-<line speaker="Ryunosuke"><thought>A jewel-studded collar, stolen by a thief...</thought> It so happens, that myself and my colleagues have come across such a collar during our time in London.</line>
+<line speaker="Ryunosuke">(A jewel-studded collar, stolen by a thief...) It so happens, that myself and my colleagues have come across such a collar during our time in London.</line>
 <line speaker="Van Zieks">...How could you...?</line>
 <line speaker="Susato">There was an old emblem attached to the collar, too, made of pure gold. It was topped with a small crown and bore an ornate capital letter 'B'...</line>
 <line speaker="Van Zieks">W-What?! An emblem bearing the initial 'B'?</line>
 <line speaker="Susato">Oh my! You know it?!</line>
 <line speaker="Van Zieks">...It's the insignia of the Baskerville family.</line>
-<line speaker="Ryunosuke">WHAT?! The Baskerville... <thought>Why is THAT name coming up now...?</thought></line>
+<line speaker="Ryunosuke">WHAT?! The Baskerville... (Why is THAT name coming up now...?)</line>
 <line speaker="Van Zieks">Baskerville is the family name of my late brother's widow. That pure gold emblem was an heirloom, which Klint acquired upon their marriage. There can be no doubt then. The collar you've described was Balmung's.</line>
 <line speaker="Susato">The family insignia of Lord Klint van Zieks's widow...</line>
 <line speaker="Ryunosuke">There was a considerable amount of blood on the collar when we saw it. Since we know the dog was used for hunting, it could have been from its quarry, of course.</line>
@@ -1675,7 +1675,7 @@
 <line speaker="Stronghart">So I turned down Asogi's plea. And as a result...he took it upon himself to visit the van Zieks mansion on his own. We can only imagine now what happened between the two men. Though we know the outcome of course: Lord Klint van Zieks perished.</line>
 <line speaker="Van Zieks">I don't believe this...</line>
 <line speaker="Susato">So, in actual fact...Kazuma-sama's father did...?</line>
-<line speaker="Ryunosuke">He made the late Lord van Zieks meet the same fate... <thought>He put a permanent end to the Professor killings... ...by taking the drastic measure of ending the perpetrator's life!</thought></line>
+<line speaker="Ryunosuke">He made the late Lord van Zieks meet the same fate... (He put a permanent end to the Professor killings... ...by taking the drastic measure of ending the perpetrator's life!)</line>
 <line speaker="Van Zieks">.........</line>
 <line speaker="Stronghart">As soon as I heard, I hurried to the mansion. When I arrived, it was easy to grasp what had happened.</line>
 <line speaker="Kazuma">And? What about the will?</line>
@@ -1732,8 +1732,8 @@
 <line speaker="Van Zieks">.........</line>
 <line speaker="Stronghart">My lords, ladies and gentlemen...I do hereby confess. It was I who sired the concept of the Reaper. However...let me say in my defence... ...it was all for the preservation of law and order across the entire empire!</line>
 <line speaker="Stronghart">There is no one left now who can reveal the precise truth of what happened ten years ago. Therefore, this trial can go no further. Now, I would like to entreat all those present... Beyond these four walls, nobody need know the truth. Even Her Majesty must be protected from this. I trust you all appreciate the importance of my request. It is of course for the good of the country.</line>
-<line speaker="Ryunosuke">......... <thought>Can, can he do this? Can the trial really end now?</thought></line>
-<line speaker="Kazuma"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke">......... (Can, can he do this? Can the trial really end now?)</line>
+<line speaker="Kazuma"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Kazuma">......... I have one last question... ...for the accused, Lord van Zieks.</line>
 <line speaker="Van Zieks">What?</line>
 <line speaker="Kazuma">Of course, I know that you're a highly accomplished prosecutor. So I find it hard to believe...that you didn't have any doubts at all. That you never suspected your older brother.</line>
@@ -1757,7 +1757,7 @@
 <line speaker="Stronghart">Neither Klint van Zieks nor Genshin Asogi still walk this earth. However much we debate this matter now, we cannot hope to reach a conclusion.</line>
 <line speaker="Ryunosuke">B-But...</line>
 <line speaker="Stronghart">There are only two extant pieces of evidence from the time: The woebegone ring that acted as the incriminating evidence to condemn Genshin Asogi. And the three-paged last will and testament penned in black ink and left behind by the man. The wretched truth of what happened is exactly as I have explained. Later today, I will present myself at the Ministry of Justice for whatever sanction is deemed appropriate. That is all. Court is adjourned!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Thank you...Kazuma.</line>
 <line speaker="Kazuma">Me...?</line>
 <line speaker="Ryunosuke">If it wasn't for you, I wouldn't have made this eleventh-hour discovery.</line>
@@ -1771,8 +1771,8 @@
 <line speaker="Susato">Well, it began with Lord van Zieks and his recollection about his brother. But Lord Stronghart didn't permit the defendant to speak at length.</line>
 <line speaker="Stronghart">I merely pointed out that we can draw no further useful conclusions here. So where on earth is the contradiction?</line>
 <line speaker="Van Zieks">.........</line>
-<line speaker="Ryunosuke"><thought>One of them definitely just said something contradictory. It's time to identify who!</thought></line>
-<line speaker="Ryunosuke"><thought>It was Lord van Zieks, I'm sure of it! Something about what he said was just a little jarring. Come on, Ryunosuke! Go over it again! Find it!</thought></line>
+<line speaker="Ryunosuke">(One of them definitely just said something contradictory. It's time to identify who!)</line>
+<line speaker="Ryunosuke">(It was Lord van Zieks, I'm sure of it! Something about what he said was just a little jarring. Come on, Ryunosuke! Go over it again! Find it!)</line>
 <line speaker="Van Zieks">Klint wasn't the culprit. That was my conclusion at the time. The third victim...was the Lord Chief Justice at the time. It was he who had recognised my brother's potential and trained him as a prosecutor. No matter what the circumstances, it's unthinkable that my brother could have killed his friend and mentor!</line>
 <line speaker="Ryunosuke">Lord van Zieks...would you care to explain?</line>
 <line speaker="Van Zieks">What exactly am I supposed to make of those pitiful Nipponese eyes?</line>
@@ -1785,10 +1785,10 @@
 <line speaker="Ryunosuke">AAAAAARGH!</line>
 <line speaker="Van Zieks">I have the distinct impression that permitting you to advocate for me was the mistake of my life.</line>
 <line speaker="Kazuma">And don't you dare to show your face again at my door once this trial is over.</line>
-<line speaker="Ryunosuke"><thought>...It's going to be very lonely around the Naruhodo dinner table in future...</thought></line>
+<line speaker="Ryunosuke">(...It's going to be very lonely around the Naruhodo dinner table in future...)</line>
 <line speaker="Susato">Not as long as I'm alive, Mr Naruhodo! I'm sure we need only think again to fix the situation!</line>
 <line speaker="Ryunosuke">Oh my! Miss Susato! Yes! Of, of course!</line>
-<line speaker="Ryunosuke"><thought>It was Lord Stronghart, I'm sure of it! Something he said was slightly off. Come on, Ryunosuke! Think back over his words! Find the problem!</thought></line>
+<line speaker="Ryunosuke">(It was Lord Stronghart, I'm sure of it! Something he said was slightly off. Come on, Ryunosuke! Think back over his words! Find the problem!)</line>
 <line speaker="Stronghart">Neither Klint van Zieks nor Genshin Asogi still walk this earth. However much we debate this matter now, we cannot hope to reach a conclusion. There are only two extant pieces of evidence from the time: The woebegone ring that acted as the incriminating evidence to condemn Genshin Asogi. And the three-paged last will and testament penned in black ink and left behind by the man.</line>
 <line speaker="Ryunosuke">Lord Stronghart...would you care to explain?</line>
 <line speaker="Stronghart">Explain what, Counsel?</line>
@@ -1802,7 +1802,7 @@
 <line speaker="Ryunosuke">AAAAAARGH!</line>
 <line speaker="Van Zieks">I have the distinct impression that permitting you to advocate for me was the mistake of my life.</line>
 <line speaker="Kazuma">And don't you dare to show your face again at my door once this trial is over.</line>
-<line speaker="Ryunosuke"><thought>...It's going to be very lonely around the Naruhodo dinner table in future...</thought></line>
+<line speaker="Ryunosuke">(...It's going to be very lonely around the Naruhodo dinner table in future...)</line>
 <line speaker="Susato">Not as long as I'm alive, Mr Naruhodo! I'm sure we need only think again to fix the situation!</line>
 <line speaker="Ryunosuke">Oh my! Miss Susato! Yes! Of, of course!</line>
 <line speaker="Ryunosuke">This here is the will left behind by Mr Asogi. The two-paged will.</line>
@@ -1820,15 +1820,15 @@
 <line speaker="Caidin">Only the first two pages were the actual will, though. If I mind correctly, the third...was a message to his lad back in Japan.</line>
 <line speaker="Stronghart">For legal purposes, we required only his will.</line>
 <line speaker="Caidin">And we would'nae have wanted any...uncomfortable words aboot Britain to get back to Japan, eh. So it was decided that the third page ought'nae to be sent.</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">How dare you make that decision?! I had a right to know what it said! To hear my father's final words to me!</line>
 <line speaker="Stronghart">The courtroom is no place for sentimentality, Counsel.</line>
 <line speaker="Caidin">As it happens, I have the third page o' the document wi' me here now.</line>
 <line speaker="Kazuma">My, my father's message!</line>
 <line speaker="Stronghart">It will be given to you at the end of these proceedings.</line>
-<line speaker="Ryunosuke"><thought>It'll be too late once the trial is over. We need to know what it says now. Even the slightest thing may give us a vital clue!</thought> My Lord! The defence calls for Genshin Asogi's last words to his son...to be read out loud before the court now!</line>
+<line speaker="Ryunosuke">(It'll be too late once the trial is over. We need to know what it says now. Even the slightest thing may give us a vital clue!) My Lord! The defence calls for Genshin Asogi's last words to his son...to be read out loud before the court now!</line>
 <line speaker="Stronghart">Your request is denied. The inevitably maudlin words can be of no consequence now.</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">The prosecution agrees. The court should know the content of that message! Every possible piece of evidence must be thoroughly examined!</line>
 <line speaker="Stronghart">Very well, then. Governor Caidin... ...you will read the third page of the document for all present to hear!</line>
 <line speaker="Caidin">Yes, SIIIIIIR! Only...I should point oot, My Lord... ...that I cannae actually read werum language.</line>
@@ -1846,7 +1846,7 @@
 <line speaker="Van Zieks">...It's not known to me.</line>
 <line speaker="Ryunosuke">It's the 'katana' sword that was submitted as evidence earlier in these proceedings. The one worn by the prosecution counsel when he... confronted Inspector Gregson.</line>
 <line speaker="Stronghart">All these procrastinations are beginning to try my patience. Adjournment of this court is long overdue. As the presiding judge, I have been as accommodating as possible of the will of the courtroom. However, despite all that...no new information has come to light.</line>
-<line speaker="Ryunosuke">'Mighty Karuma, Twist thy head and watch them fall, All thy mortal foes!' <thought>That's the proper way to use the sword, is it? Maybe I should try it...</thought> ...It hurts my neck, that's the trouble.</line>
+<line speaker="Ryunosuke">'Mighty Karuma, Twist thy head and watch them fall, All thy mortal foes!' (That's the proper way to use the sword, is it? Maybe I should try it...) ...It hurts my neck, that's the trouble.</line>
 <line speaker="Susato">Um, Mr Naruhodo...if I might make a suggestion? I think perhaps it doesn't mean YOUR head.</line>
 <line speaker="Ryunosuke">Oh...</line>
 <line speaker="Susato">I once studied the history and development of the katana some time ago... ...and as I'm sure you're probably aware, the sword's 'head' is the part at the very end of the hilt. It's written as 'head' in Japanese, but it's pronounced as 'kashira' I believe.</line>
@@ -1858,10 +1858,10 @@
 <line speaker="Susato">Mr Naruhodo! Look at the signature at the end!</line>
 <line speaker="Ryunosuke">Klint van Zieks... And the date...ten years ago, on that fateful night!</line>
 <line speaker="Susato">So for ten years...it's been silently concealed inside Karuma and nobody knew... The last will and testament of Lord Klint van Zieks!</line>
-<line speaker="Ryunosuke">......... Wait... Oh my goodness... <thought>Look at this... This is unbelievable...</thought></line>
+<line speaker="Ryunosuke">......... Wait... Oh my goodness... (Look at this... This is unbelievable...)</line>
 <line speaker="Ryunosuke">'Twist thy head and watch them fall, All thy mortal foes...' Kazuma's father certainly had a way with words.</line>
 <line speaker="Susato">And he certainly thought up an ingenious hiding place, too. It seems almost playful at first, but I do wonder if over the years perhaps... ...the duties of the Asogi clan have actually called for such inventiveness.</line>
-<line speaker="Ryunosuke">Protecting great secrets, you mean? Those sorts of duties? <thought>Well, I could believe that. Kazuma conducts himself like someone with the weight of his clan's long and noble history on his shoulders.</thought></line>
+<line speaker="Ryunosuke">Protecting great secrets, you mean? Those sorts of duties? (Well, I could believe that. Kazuma conducts himself like someone with the weight of his clan's long and noble history on his shoulders.)</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Kazuma">...!</line>
 <line speaker="Stronghart">In pursuit of justice, Lord Klint van Zieks tragically lost all sense of morality. When he murdered his former mentor, clearly he was already devoid of his normal faculties.</line>
@@ -1872,7 +1872,7 @@
 <line speaker="Stronghart">.........</line>
 <line speaker="Mikotoba">We've heard you state time and again during these proceedings... ...that everything you did was in the interests of protecting British law and order.</line>
 <line speaker="Stronghart">And I stand by that. Without the Reaper, we could never have achieved the reduction in crime the capital has seen.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">What about Inspector Gregson then?</line>
 <line speaker="Stronghart">...!</line>
 <line speaker="Kazuma">And Dr Wilson. They were no criminals. You used them to achieve your ends...and then you had them killed!</line>
@@ -1884,21 +1884,21 @@
 <line speaker="Stronghart">In this courtroom, no argument carries weight unless it is supported by evidence. And it would seem that the defence has no more evidence to present.</line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Stronghart">In which case... ...I hereby order all discourse from these proceedings to be struck from the record!</line>
-<line speaker="Ryunosuke"><thought>This is my last chance...</thought></line>
+<line speaker="Ryunosuke">(This is my last chance...)</line>
 <line speaker="Susato">Mr Naruhodo!</line>
-<line speaker="Ryunosuke"><thought>I have to present some decisive evidence now, or it's all over. ...But can I?</thought></line>
+<line speaker="Ryunosuke">(I have to present some decisive evidence now, or it's all over. ...But can I?)</line>
 <line speaker="Ryunosuke">Wait, My Lord! As it happens...the defence does have evidence to present!</line>
 <line speaker="Stronghart">Wha...? Don't be absurd! There is nothing of relevance remaining from the time!</line>
 <line speaker="Van Zieks">Leads to:</line>
-<line speaker="Ryunosuke"><thought>At critical times like this, I've always found myself thinking it's best to wait and see what happens.</thought></line>
+<line speaker="Ryunosuke">(At critical times like this, I've always found myself thinking it's best to wait and see what happens.)</line>
 <line speaker="Susato">I can't help feeling that perhaps you've missed countless opportunities as a result...</line>
 <line speaker="Ryunosuke">How...?! How could you possibly know my life has been one long list of missed opportunities?!</line>
 <line speaker="Susato">But you have a new opportunity here, Mr Naruhodo. For a change of direction! But you must be quick, before Lord Stronghart's improvised gavel hits the bench!</line>
 <line speaker="Stronghart">That is all! This court is adjourned!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Not yet, My Lord! As it happens...the defence does have evidence to present!</line>
 <line speaker="Stronghart">...Whatever evidence you think you have, I'm quite sure it's deserving of this.</line>
-<line speaker="Ryunosuke"><thought>Ah, my life-altering change of direction came just a fraction too late...</thought></line>
+<line speaker="Ryunosuke">(Ah, my life-altering change of direction came just a fraction too late...)</line>
 <line speaker="Stronghart">There is quite simply nothing else of relevance remaining from the time!</line>
 <line speaker="Van Zieks">Leads to:</line>
 <line speaker="Van Zieks">It's high time that you realised something...My Lord.</line>
@@ -1915,9 +1915,9 @@
 <line speaker="Ryunosuke">Stronghart:</line>
 <line speaker="Ryunosuke">Ah!</line>
 <line speaker="Stronghart">And this evidence clearly demonstrates you're not! You're capable only of destroying your own argument!</line>
-<line speaker="Ryunosuke">AAAAAAAAARH! <thought>Come on, Ryunosuke. We know that Asogi-san negotiated with Lord Stronghart ten years ago... ...using the last will and testament of Lord Klint van Zieks as bargaining power.</thought></line>
+<line speaker="Ryunosuke">AAAAAAAAARH! (Come on, Ryunosuke. We know that Asogi-san negotiated with Lord Stronghart ten years ago... ...using the last will and testament of Lord Klint van Zieks as bargaining power.)</line>
 <line speaker="Susato">And yet after his death, that document couldn't be found in his cell at the prison.</line>
-<line speaker="Ryunosuke">So...does the fact that it was never found mean...? <thought>Could it still be hidden somewhere, undiscovered after all these years?</thought> My Lord, the defence DOES have that evidence! And I'm ready to present it now!</line>
+<line speaker="Ryunosuke">So...does the fact that it was never found mean...? (Could it still be hidden somewhere, undiscovered after all these years?) My Lord, the defence DOES have that evidence! And I'm ready to present it now!</line>
 <line speaker="Stronghart">Well...it seems you're intent on more self-destruction.</line>
 <line speaker="Ryunosuke">There is a single piece of evidence that can clarify what really happened ten years ago.</line>
 <line speaker="Susato">The last will and testament of Lord Klint van Zieks!</line>
@@ -1933,7 +1933,7 @@
 <line speaker="Mikotoba">The signature and seal certainly look official.</line>
 <line speaker="Van Zieks">......... My God, it's true... It's my brother's handwriting! There can be no mistake!</line>
 <line speaker="Stronghart">I forbid the contents of that document from being read out! Do you hear me? I strictly forbid it!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">You can't do that, My Lord. This document could explain everything!</line>
 <line speaker="Stronghart">That document could literally destroy the meaning of justice in this country! I demand that you hand it to me...AT ONCE!</line>
 <line speaker="Ryunosuke">Why? What are you trying to hide?</line>
@@ -1960,7 +1960,7 @@
 <line speaker="Stronghart">London's unsavoury shadows are deep, and the arm of the law fails to reach their depths. Crime must be cut off at the roots! But the Lord Chief Justice at the time couldn't see that! He was weak! Lofty principles, you say? Tantamount to cowardice if you ask me! Which is why I took his place. In order to fight the crime he was allowing to spread like wildfire.</line>
 <line speaker="Van Zieks">By murdering the man?</line>
 <line speaker="Stronghart">The Reaper...the Professor...the name makes no difference. As I've explained countless times already, it was all done for the furtherance of law and order in London!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Are you going to legitimise the murder of my father now, too?</line>
 <line speaker="Stronghart">Ah, Genshin Asogi... Well, that was unfortunate. I had fully intended to send him back to Japan as we'd agreed.</line>
 <line speaker="Kazuma">I don't believe you! It was you, wasn't it? You killed him!</line>
@@ -1981,15 +1981,15 @@
 <line speaker="Stronghart">By that time, Jigoku was the Minister of Foreign Affairs negotiating international treaties with Britain. You can imagine what would have happened if it came to light he'd murdered a compatriot ten years earlier. He would have lost everything. ...I merely reminded him of that.</line>
 <line speaker="Kazuma">How do you sleep at night...?</line>
 <line speaker="Stronghart">......... These past ten years, I've fought tirelessly with the darker recesses of London's criminal underworld. And I've used whatever means necessary to ensure that justice prevails and law and order reign supreme!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">That couldn't be further from the truth. The fact is...you haven't fought crime at all!</line>
 <line speaker="Stronghart">How dare you?! I saved Klint van Zieks from dishonour in his death!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Whilst behind the scenes, you systematically buried anyone who stood in your way. And then you made my father take the blame!</line>
 <line speaker="Stronghart">It was unavoidable! It was the only way to protect our justice system and public order!</line>
 <line speaker="Kazuma">Let's not forget the others you had killed as well. Setting the defendant up as the Reaper to cover up the truth behind the murders of countless more!</line>
 <line speaker="Stronghart">That's...ENOOOUGH! Do you have any idea of the conniving that led to the acquittals of those WRETCHED criminals?! We have to fight fire with fire! Our courts can't function without a Reaper! Can't you see all I've done for this country?! This has been my struggle!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">You've done nothing! It's Lord van Zieks here who worked tirelessly and justly in court, whilst enduring the disgrace of the Reaper name!</line>
 <line speaker="Van Zieks">...!</line>
 <line speaker="Ryunosuke">And Inspector Gregson! Fraught with anguish for having sullied his hands through a desire to do the right thing! Not to mention Genshin Asogi, who risked his life going in pursuit of the truth you tried to hide! No, the darker recesses of London's underworld...were largely filled by you!</line>
@@ -2007,7 +2007,7 @@
 <line speaker="Ryunosuke">WHAT?!</line>
 <line speaker="Van Zieks">...!</line>
 <line speaker="Stronghart">It's true! Personally, I have committed no crime! I've merely been surrounded by fools who've acted very rashly indeed!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">You, you can't get away with that! You've consistently preyed on people's weaknesses...</line>
 <line speaker="Stronghart">And what? Threatened them? Are you sure it wasn't just bargaining? I would like to address all the good lords, ladies and gentlemen of the judiciary here present. You all know of these darker recesses in our great capital. And deep down, I believe you also know... ...that to fight those who dwell there requires at least some of us to occupy the darkness ourselves.</line>
 <line speaker="Ryunosuke">...!</line>
@@ -2022,35 +2022,35 @@
 <line speaker="Kazuma">This is the will of the British judiciary?!</line>
 <line speaker="Van Zieks">.........</line>
 <line speaker="Stronghart">For your rousing response, friends... I express my heartfelt gratitude. Therefore, in accordance with the overwhelming wishes of the court, the records shall be erased!</line>
-<line speaker="Ryunosuke"><thought>You have to respect the man's ability to turn a situation to his favour... Lord Stronghart really is a master of manipulation.</thought></line>
+<line speaker="Ryunosuke">(You have to respect the man's ability to turn a situation to his favour... Lord Stronghart really is a master of manipulation.)</line>
 <line speaker="Susato">You've conclusively proven his guilt. Yet he still manages to evade justice. I, I just don't know what we can do...</line>
 <line speaker="Kazuma">Ryunosuke...</line>
-<line speaker="Ryunosuke"><thought>It looks like the trial really is going to come to an end now. I'm almost out of options, I think.</thought></line>
-<line speaker="Ryunosuke"><thought>Yes, when all the games are over, it's the obvious choice... Let my voice reverberate around the courtroom and make people listen to reason!</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(It looks like the trial really is going to come to an end now. I'm almost out of options, I think.)</line>
+<line speaker="Ryunosuke">(Yes, when all the games are over, it's the obvious choice... Let my voice reverberate around the courtroom and make people listen to reason!)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Stronghart">As a man who has fought many battles in this very courtroom, let me offer some advice. Objections need substance behind them. Otherwise...they are merely objectionable.</line>
 <line speaker="Ryunosuke">......... The defence...has no objection to being penalised in this instance.</line>
 <line speaker="Susato">Fear not, Mr Naruhodo! I certainly won't object if you decided to make...perhaps a wiser choice now?</line>
 <line speaker="Ryunosuke">Y-Yes, right! A wise choice. Of course. Here it comes... </line>
-<line speaker="Ryunosuke"><thought>At critical times like this, I've always found myself thinking it's best to wait and see what happens.</thought></line>
+<line speaker="Ryunosuke">(At critical times like this, I've always found myself thinking it's best to wait and see what happens.)</line>
 <line speaker="Susato">I can't help feeling that perhaps you've missed countless opportunities as a result...</line>
 <line speaker="Ryunosuke">How...?! How could you possibly know my life has been one long list of missed opportunities?!</line>
 <line speaker="Susato">Then let us never have this discussion again!</line>
 <line speaker="Stronghart">Bailiff! Sequester the minutes of the trial!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Not so fast, My Lord! The defence has evidence to present!</line>
 <line speaker="Stronghart">You're always tardy, Counsel. I have no sympathy for tardiness.</line>
-<line speaker="Ryunosuke"><thought>Ugh...the resolve of Ryunosuke Naruhodo materialises a fraction too late again...</thought></line>
+<line speaker="Ryunosuke">(Ugh...the resolve of Ryunosuke Naruhodo materialises a fraction too late again...)</line>
 <line speaker="Susato">Fear not, Mr Naruhuodo! I certainly won't object if you decided to make...perhaps a wiser choice now?</line>
 <line speaker="Ryunosuke">Y-Yes, right! A wise choice. Of course. Here it comes...</line>
-<line speaker="Ryunosuke"><thought>Yes, as I know only too well... ...the only thing that carries any weight in court...is hard evidence!</thought></line>
+<line speaker="Ryunosuke">(Yes, as I know only too well... ...the only thing that carries any weight in court...is hard evidence!)</line>
 <line speaker="Susato">B-But, Mr Naruhodo... ...what evidence is there to use at this stage in the trial?</line>
-<line speaker="Ryunosuke">I have an idea. I don't know whether anything will come of it, but... <thought>...if there was ever a time for using this particular item we have among the evidence, it's now!</thought></line>
+<line speaker="Ryunosuke">I have an idea. I don't know whether anything will come of it, but... (...if there was ever a time for using this particular item we have among the evidence, it's now!)</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Susato:</line>
 <line speaker="Ryunosuke">W-Why are you looking at me with those... disappointed eyes?</line>
 <line speaker="Susato">I am your judicial assistant, Mr Naruhodo. I shall stand by you until the bitter end. ...No matter what misguided choices you might make!</line>
-<line speaker="Ryunosuke">That's...very heartwarming...I think. But please, I can't bear that look! <thought>I suppose we've used all of the evidence that's relevant to the case now. But I'm sure I was asked to take charge of a certain item for use in emergencies. I'd better find it quickly! Stronghart's cane is only a hair's breadth from the bench!</thought></line>
+<line speaker="Ryunosuke">That's...very heartwarming...I think. But please, I can't bear that look! (I suppose we've used all of the evidence that's relevant to the case now. But I'm sure I was asked to take charge of a certain item for use in emergencies. I'd better find it quickly! Stronghart's cane is only a hair's breadth from the bench!)</line>
 <line speaker="Susato">Oh my! Yes, Mr Sholmes asked if you had that with you earlier...</line>
 <line speaker="Ryunosuke">We've exposed all of Lord Stronghart's wrongdoing now. I've no doubt that Mr Sholmes had already deduced exactly how the truth would unfurl.</line>
 <line speaker="Susato">...!</line>
@@ -2166,7 +2166,7 @@
 <line speaker="Van Zieks">......... My apologies for any anxiety caused, My Lord.</line>
 <line speaker="Judge">I'm quite sure we shall meet again here in the courtroom before long, Prosecutor Barok van Zieks. In conclusion of these proceedings, I hereby declare the defendant, Barok van Zieks...</line>
 <line speaker="Judge">That is all. Court is adjourned!</line>
-<line speaker="Ryunosuke"><thought>It...really is all over. ...But did I sacrifice too much?</thought></line>
+<line speaker="Ryunosuke">(It...really is all over. ...But did I sacrifice too much?)</line>
 <line speaker="Susato">Mr Naruhodo... I really must congratulate you. It was a truly...truly splendid performance! Honestly...I couldn't be happier for you!</line>
 <line speaker="Ryunosuke">Oh, thank you very much. But I really couldn't have done it without you at my side through it all, Miss Susato.</line>
 <line speaker="Susato">Oh! ......... Your kind words mean so much to me.</line>
@@ -2185,7 +2185,7 @@
 <line speaker="Van Zieks">But that... That was just the feeble excuse of a coward. Only those with a steadfast eye for the truth have what it takes to fight the dark forces of crime. You made fine work of establishing that fact in court today.</line>
 <line speaker="Ryunosuke">Oh... Well...thank you!</line>
 <line speaker="Susato">What magnanimous words! ...I'm quite sure that Kazuma-sama would have a smile on his face at this very moment if he were here!</line>
-<line speaker="Ryunosuke"><thought>Kazuma...</thought></line>
+<line speaker="Ryunosuke">(Kazuma...)</line>
 <line speaker="Kazuma">.........</line>
 <line speaker="Ryunosuke">......... Um, Miss Susato... ...there's another face like thunder here.</line>
 <line speaker="Susato">Oh my! And he really was here...</line>
@@ -2242,7 +2242,7 @@
 <line speaker="Mikotoba">I was completely at a loss. In the end, I had to ask my great friend. I asked him if he would be a father to her.</line>
 <line speaker="Ryunosuke">That...being Mr Sholmes, I presume?</line>
 <line speaker="Mikotoba">Yes. He took one look into my eyes and agreed to it on the spot.</line>
-<line speaker="Ryunosuke"><thought>Mr Sholmes... He has a heart of gold...</thought></line>
+<line speaker="Ryunosuke">(Mr Sholmes... He has a heart of gold...)</line>
 <line speaker="Mikotoba">Really, all it can be said that I did for the child... ...was to give her a name.</line>
 <line speaker="Ryunosuke">Oh?</line>
 <line speaker="Mikotoba">When I'd come to Britain, I was trying to escape from the grief of losing my darling wife. So it was her name that I gave the little girl.</line>
@@ -2270,14 +2270,14 @@
 <line speaker="Ryunosuke">Oh, um...I'm sure she did. After all, no one brews a more delicious tea than you do, Iris.</line>
 <line speaker="Iris">Let's have a party to celebrate! And Mr Reaper, you simply must come, too!</line>
 <line speaker="Van Zieks">Wha... Erm... I'm, I'm afraid I couldn't...</line>
-<line speaker="Ryunosuke"><thought>The Reaper of the Bailey, flustered by a ten-year-old girl...again.</thought></line>
+<line speaker="Ryunosuke">(The Reaper of the Bailey, flustered by a ten-year-old girl...again.)</line>
 <line speaker="Iris">No! Really?! Oh pooh...</line>
 <line speaker="Van Zieks">But...I give you my word... ...that I shall present myself at your residence in the near future to express my gratitude.</line>
 <line speaker="Susato">Oh how lovely...</line>
 <line speaker="Iris">You've promised now. I won't let you forget! ...Bye for now, then!</line>
 <line speaker="Ryunosuke">Alright, Iris. Thank you for all your help earlier.</line>
 <line speaker="Iris">Oh, that was nothing. Just come back home soon!</line>
-<line speaker="Ryunosuke">OOOUUUCH! <thought>Uuugh... One final pinch goodbye, was it?</thought></line>
+<line speaker="Ryunosuke">OOOUUUCH! (Uuugh... One final pinch goodbye, was it?)</line>
 <line speaker="Kazuma">Well, I think I ought to be leaving. Lord van Zieks, would you care to accompany me?</line>
 <line speaker="Van Zieks">Certainly. Mr Naruhodo, allow me once again to express my deep gratitude to you. I believe...you saved my life.</line>
 <line speaker="Ryunosuke">Wait, Lord van Zieks!</line>
@@ -2309,13 +2309,13 @@
 <line speaker="Ryunosuke">You don't have to reload that thing every time I speak...</line>
 <line speaker="???">You really must hear this! It's quite the most extraordinary thing!</line>
 <line speaker="Sholmes">I assure you, it will defy your expectations! Take down every detail now, Mikotoba.</line>
-<line speaker="Ryunosuke"><thought>Ah, the world-famous great detective, regaling his partner with the tale of his adventure... A sight to behold!</thought></line>
+<line speaker="Ryunosuke">(Ah, the world-famous great detective, regaling his partner with the tale of his adventure... A sight to behold!)</line>
 <line speaker="Sholmes">Would you care to hazard a guess? Where do you suppose the fiendish runaway had concealed himself? Would you believe...inside the trunk I found abandoned in his cabin?!</line>
 <line speaker="Mikotoba">......... I would believe it, yes.</line>
 <line speaker="Sholmes">I say, Mikotoba...I detect not a hint of surprise.</line>
 <line speaker="Mikotoba">I wonder why that is, hm? Maybe because I was there at the scene as well, Sholmes.</line>
 <line speaker="Sholmes">What?! You were?! Then why the deuce didn't you say so before?!</line>
-<line speaker="Ryunosuke"><thought>Not quite the sight I was expecting to behold, but still... ...it's hard not to feel privileged to see it.</thought> Hello, Mr Sholmes! Professor Mikotoba. I'm finally back from the Bailey.</line>
+<line speaker="Ryunosuke">(Not quite the sight I was expecting to behold, but still... ...it's hard not to feel privileged to see it.) Hello, Mr Sholmes! Professor Mikotoba. I'm finally back from the Bailey.</line>
 <line speaker="Sholmes">And not a moment too soon! A feast prepared by Iris and Miss Susato awaits!</line>
 <line speaker="Mikotoba">I must say, I haven't seen Susato looking so happy in a very long time.</line>
 <line speaker="Iris">Ah, Runo! There you are!</line>
@@ -2330,7 +2330,7 @@
 <line speaker="Iris">Well...people can change, you know...</line>
 <line speaker="Sholmes">Ah yes, that reminds me... ...I rather thoughtfully offered to relieve the bailiff of this now-defunct piece of evidence.</line>
 <line speaker="Gina">Eh?!</line>
-<line speaker="Ryunosuke">It's...the inspector's pocket watch! <thought>And the crown has been reattached.</thought></line>
+<line speaker="Ryunosuke">It's...the inspector's pocket watch! (And the crown has been reattached.)</line>
 <line speaker="Mikotoba">That watch was his pride and joy. A symbol of his great achievements at Scotland Yard. For ten years without fail, it measured every second of the man's remarkable career.</line>
 <line speaker="Iris">But now...it's stopped...</line>
 <line speaker="Gina">.........</line>
@@ -2362,7 +2362,7 @@
 <line speaker="Sholmes">Well then! I think this calls for a lengthy violin recital, wouldn't you say?</line>
 <line speaker="Iris">Oh, well...the food would go cold, that's the only problem. Maybe next week, Hurley?</line>
 <line speaker="Sholmes">...Are you sure a week is long enough, Iris? Ah ha ha ha ha hah!</line>
-<line speaker="Ryunosuke"><thought>This attic room has been my home and office for almost a year now. I've certainly had some unforgettable experiences whilst I've lived here. But I think now...the time has come. Time to bid this place farewell.</thought></line>
+<line speaker="Ryunosuke">(This attic room has been my home and office for almost a year now. I've certainly had some unforgettable experiences whilst I've lived here. But I think now...the time has come. Time to bid this place farewell.)</line>
 <line speaker="???">Naruhodo...</line>
 <line speaker="Ryunosuke">Oh! Professor!</line>
 <line speaker="Mikotoba">Are you alone? I didn't hear any sound from Susato's room.</line>
@@ -2370,11 +2370,11 @@
 <line speaker="Mikotoba">Ah...I see. ......... I wanted to thank you for what you did earlier.</line>
 <line speaker="Ryunosuke">Oh?</line>
 <line speaker="Mikotoba">With Iris, I mean. When the subject of her father came up.</line>
-<line speaker="Ryunosuke"><thought>Lord Klint van Zieks...</thought></line>
+<line speaker="Ryunosuke">(Lord Klint van Zieks...)</line>
 <line speaker="Mikotoba">I made up my mind many years ago never to tell her who her real father was. It's what was agreed with Genshin after all.</line>
 <line speaker="Ryunosuke">Lord Klint van Zieks's final wishes before he died, you mean?</line>
 <line speaker="Mikotoba">Yes. I've had to take some rather drastic steps at times to protect that secret, you know. ...Calling Susato back to Japan six months ago, for example.</line>
-<line speaker="Ryunosuke">...! <thought>That's why?</thought></line>
+<line speaker="Ryunosuke">...! (That's why?)</line>
 <line speaker="Mikotoba">When I read Soseki-san's report about his final days in London, my heart nearly stopped. You'd stumbled across the crux of that terrible case: the dog's collar. The description of the Baskerville insignia left me in no doubt.</line>
 <line speaker="Ryunosuke">Baskerville...</line>
 <line speaker="Mikotoba">If you'd decided to investigate that insignia, sooner or later you'd have made the connection to the van Zieks. And to make matters worse, Susato knew of the unpublished story as well. The story that Iris had written based on my notes from the time.</line>
@@ -2421,12 +2421,12 @@
 <line speaker="Susato">I suppose...</line>
 <line speaker="Ryunosuke">You'll be a great help to Kazuma going forward. I mean, I know he's a brilliant lawyer, but he's new to the British courtroom. He'll certainly benefit greatly having a brilliant judicial assistant at his side.</line>
 <line speaker="Susato">...I'll do my very best.</line>
-<line speaker="Ryunosuke">......... <thought>I wish I could say it, but I just can't. I can't ask her to come with me. After all... ...she was always supposed to be coming to Britain as Kazuma's assistant.</thought></line>
+<line speaker="Ryunosuke">......... (I wish I could say it, but I just can't. I can't ask her to come with me. After all... ...she was always supposed to be coming to Britain as Kazuma's assistant.)</line>
 <line speaker="Susato">...It's growing late. We should both try to get some sleep. I'm sure you must be exhausted after today.</line>
 <line speaker="Ryunosuke">Oh, yes...you're right.</line>
 <line speaker="Susato">Before I retire, let me just say one more time: You really were quite splendid in court today. So if you ask me... ...anyone who thinks of you as a substitute or a locum should be ashamed of themselves!</line>
 <line speaker="Ryunosuke">Susato-san... ...Thank you.</line>
-<line speaker="Ryunosuke"><thought>I can't believe this day's finally come...</thought></line>
+<line speaker="Ryunosuke">(I can't believe this day's finally come...)</line>
 <line speaker="Iris">...You're really leaving then, Runo.</line>
 <line speaker="Ryunosuke">I'm afraid so, Iris. Thank you so much for everything. I don't know what I'll do without your wonderful cooking and delicious tea.</line>
 <line speaker="Iris">Oh...I wish you weren't going... But, but you have to come back and visit! Say you will!</line>
@@ -2464,7 +2464,7 @@
 <line speaker="Kazuma">Honestly, you never change at all! But that's what I like about you.</line>
 <line speaker="Ryunosuke">You, you mean...you knew about this?</line>
 <line speaker="Kazuma">It was the evening after Lord van Zieks's trial came to an end. She came to see me at the Prosecutor's Office.</line>
-<line speaker="Ryunosuke">Really? <thought>When I had that conversation with Professor Mikotoba...</thought></line>
+<line speaker="Ryunosuke">Really? (When I had that conversation with Professor Mikotoba...)</line>
 <line speaker="Kazuma">So you'd go with Ryunosuke back to Japan?</line>
 <line speaker="Susato">...Yes. I know it's unfair of me to follow my own interests like this.</line>
 <line speaker="Kazuma">Coming here especially to tell me... You're a stickler for etiquette, aren't you? Well...what are his feelings?</line>
@@ -2501,7 +2501,7 @@
 <line speaker="Sholmes">In that case, let us conclude that this is to be merely a brief parting, my dear fellows!</line>
 <line speaker="Ryunosuke">And that brings us to the end of my adventures in Great Britain. A peculiar twist of fate brought me halfway around the world those many months ago. But that was just the start of my journey. Who knows where fate will lead me next? Still, I'm confident this won't be my last meeting with the friends I've made in London. And when we're together again... ...no doubt the first words I'll hear will be...</line>
 <line speaker="Iris">'We have but to gently close our eyes, and we are with our companions once more.' ...So I do just that. And when I do...I can hear his, strong familiar voice ring out.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Iris">Until we meet again, Runo!</line>
 <line speaker="Sholmes">I've been thoroughly inundated with enquiries about my Remote Cinematograph since that day. But I'm no purveyor of electrical goods! And what of the promised closed court secrecy? Anyway, I've decided an absence from London is in order. A sojourn in distant climes. The Empire of Japan, perhaps... I understand that 'wardrobe class' incurs no charge whatsoever.</line>
 <line speaker="Iris">I gave a little note to Hurley the other day. It just said, 'Thank you for everything, Daddy.' But it made Hurley cry... And I gave him some lotion I'd invented as well. To dye his hair red safely. But he said that might make him cry, too, so he'd rather not use it...</line>
@@ -2509,8 +2509,8 @@
 <line speaker="Gina">The boss left a note for me, ya know. An' I can read every letter now. A to Z, the 'ole lot! It's cleared a load o' stuff up. The boss was...tryin' to protect me, see. An' that's exactly wot me an' Chief Inspector Toby 'ere are gonna keep doin' for Londoners! ...I only wish I could o' said 'ow grateful I was before 'e... ya know.</line>
 <line speaker="Gregson">Gina... The truth is, I'm not the upstandin' fellow you think I am. You might be a diver at heart, but it's a good heart. You've reminded me I need to be true to myself. I've got one more job to take care of before it's ta-ta to London town for the foreseeable. And then I've gotta complete your education in the art of detection 'à la' Gregson, as they say.</line>
 <line speaker="Auchi">Your Excellency, this man is accused of illegal entry into the office of the Minister of Foreign Affairs!</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
-<line speaker="Soseki"><cutIn>Objection!</cutIn> Oblique Overstatement! Overruled! The minister has been detained in Britain anyway!</line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Soseki"><cutIn type="objection">Objection!</cutIn> Oblique Overstatement! Overruled! The minister has been detained in Britain anyway!</line>
 <line speaker="Auchi">Who is this cattish counsel for the defence?! And women are forbidden to enter the courtroom!</line>
 <line speaker="Rei">Oh really?! My friend Susato-san is in the British courtroom all the time...and doing a wonderful job!</line>
 <line speaker="Hosonaga">...Perhaps I should have engaged the services of a regular legal team...</line>
@@ -2529,24 +2529,24 @@
 <line speaker="Kazuma">When I was accepted on the foreign study tour, I knew exactly what path I had to take. And however it might have ended, I knew that I wanted you there to see it. If I'd ended up in the dock, there's no one I would have rather had defending me. But now, thanks to you...there's a new path I want to take. I'm sure we'll meet again in the courtroom, my friend. Until then...I leave Karuma in your care.</line>
 <line speaker="Susato">I've made some tea, Naruhodo-san. It's important that you rest whilst you can. Once we arrive in Japan, you shall be busy establishing your new office. I'm so delighted to be accompanying you. After all, your talents have been recognised by a great detective! Because you really are the greatest of lawyers! A 'great ace attorney', some might say!</line>
 <line speaker="Ryunosuke">I can't find anything out of place.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The witness's last statement...exhibits a fundamental inconsistency!</line>
 <line speaker="Stronghart">Not one that any British court would recognise, Counsel.</line>
 <line speaker="Ryunosuke">Wha...?!</line>
 <line speaker="Stronghart">Remember, this is a closed court. Whatever fate befalls you in here, no one outside will ever know.</line>
-<line speaker="Ryunosuke"><thought>...Should I be wondering if I'll make it out of this courtroom alive?</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(...Should I be wondering if I'll make it out of this courtroom alive?)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">My Lord! As counsel for the defence, I must object to that last statement!</line>
 <line speaker="Stronghart">And as the judge, I must deny your objection. There is no contradiction here.</line>
 <line speaker="Ryunosuke">Oh.</line>
 <line speaker="Stronghart">No contradiction, other than the fact that a Far Eastern lawyer is practising in a British courtroom!</line>
-<line speaker="Ryunosuke"><thought>...Put there by a not-so-far away Lord Chief Justice, if you remember.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">(...Put there by a not-so-far away Lord Chief Justice, if you remember.)</line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">That last statement...seemed a little questionable to me. What do you think, My Lord?</line>
 <line speaker="Stronghart">I see no inconsistency there. ...Do you?</line>
 <line speaker="Ryunosuke">Erm...</line>
 <line speaker="Stronghart">You could span the Straits of Dover with those wide eyes, Counsel. And be gone from this island forever, I hope.</line>
-<line speaker="Ryunosuke"><thought>Do you want me to fill the English Channel with tears?</thought></line>
+<line speaker="Ryunosuke">(Do you want me to fill the English Channel with tears?)</line>
 <line speaker="Ryunosuke">'Scuse me!</line>
 <line speaker="Ryunosuke">Is something wrong, Dr Gorey?</line>
 <line speaker="Gorey">.........</line>
@@ -2571,7 +2571,7 @@
 <line speaker="Van Zieks">Whereas you...would appear not to be.</line>
 <line speaker="Ryunosuke">Huh?</line>
 <line speaker="Van Zieks">You really need to learn how to read your fellow man... my Nipponese friend.</line>
-<line speaker="Ryunosuke"><thought>...Read them...or 'reap' them?</thought></line>
+<line speaker="Ryunosuke">(...Read them...or 'reap' them?)</line>
 <line speaker="Ryunosuke">'Scuse me!</line>
 <line speaker="Ryunosuke">Something on your mind, Governor Caidin?</line>
 <line speaker="Caidin">Eh?</line>

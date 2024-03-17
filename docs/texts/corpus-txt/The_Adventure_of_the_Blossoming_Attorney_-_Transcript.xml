@@ -1,22 +1,22 @@
 <xml>
 <title>The Adventure of the Blossoming Attorney</title>
 <line speaker="Susato">Standing here in the bright sunshine, looking out over the vast ocean... ...those days in London seem like a dream. But I do miss my time in England's vast capital... You know...he's flourished into a truly wonderful lawyer. I've no doubt that at this very moment, he's fighting some noble cause in court. Forgive me for taking so long to come to visit you. My life has been such a whirlwind since I returned. And no one could have predicted what has happened. Just two months after arriving home... ...I find myself faced with another awful crime. So I came here today to ask something of you. Tomorrow, I shall be standing in court. For the only time in my life... ...as a lawyer. So please...I ask for your guidance. ...Kazuma-sama.</line>
-<line speaker="Susato"><thought>Here I am again after nine months... The Supreme Court of Judicature of Japan. I feel so nervous. But I must steel my nerves and find a way to compose myself.</thought></line>
+<line speaker="Susato">(Here I am again after nine months... The Supreme Court of Judicature of Japan. I feel so nervous. But I must steel my nerves and find a way to compose myself.)</line>
 <line speaker="Mikotoba">Ah good, you're here. It doesn't do for a lawyer to be late.</line>
 <line speaker="Susato">Oh! Yes, um... Good morning, sir!</line>
 <line speaker="Mikotoba">I hardly recognise you. You cut a fine figure, Counsel. But you look as white as a sheet. And those wide eyes aren't doing you any favours, either.</line>
 <line speaker="Susato">Oh dear... The truth is...I'm so incredibly nervous, I feel utterly nauseated. I almost wish that I'd never been born.</line>
 <line speaker="Mikotoba">Goodness. Not the sort of thing a father hopes to hear from his daughter, I must say.</line>
-<line speaker="Susato"><thought>...Yujin Mikotoba. Professor of Medicine at the Imperial Yumei University. A man who, earlier in his life, travelled to Great Britain to study the latest advances in forensic medical science. And of course...my brilliant father.</thought></line>
+<line speaker="Susato">(...Yujin Mikotoba. Professor of Medicine at the Imperial Yumei University. A man who, earlier in his life, travelled to Great Britain to study the latest advances in forensic medical science. And of course...my brilliant father.)</line>
 <line speaker="???">...Um, excuse me... Would I be correct in thinking that you're to be my lawyer in court today?</line>
 <line speaker="Susato">Hm... Oh! Um...yes. Yes, that's right...miss!</line>
 <line speaker="???">Well...I, um... I want to thank you for agreeing to represent me! I swear... I swear on my life... ...it's a complete fabrication! This whole thing!</line>
-<line speaker="Susato"><thought>...Rei Membami. Born the same year as I, and my greatest friend. Though unusual for a woman in our time, she works at the university research laboratory, helping my father. And sadly...she's the defendant in today's trial. Accused of committing a truly awful murder.</thought></line>
+<line speaker="Susato">(...Rei Membami. Born the same year as I, and my greatest friend. Though unusual for a woman in our time, she works at the university research laboratory, helping my father. And sadly...she's the defendant in today's trial. Accused of committing a truly awful murder.)</line>
 <line speaker="Susato">Are you feeling alright? Since we started talking, you seem...well, to have become a little flushed.</line>
 <line speaker="Rei">Oh my! Um...well...erm... It's just that... ...you look so gallant and dashing.</line>
 <line speaker="Susato">Sorry?</line>
 <line speaker="Rei">And when I fall under your intense gaze, it... Well, it makes me feel rather bashful.</line>
-<line speaker="Susato">......... <thought>Goodness... I don't think she knows. She hasn't realised who I am.</thought></line>
+<line speaker="Susato">......... (Goodness... I don't think she knows. She hasn't realised who I am.)</line>
 <line speaker="Mikotoba">Wa ha ha ha ha! It would seem our little plan for this trial is going to work.</line>
 <line speaker="Rei">Oh! What, what do you mean, Professor Mikotoba?</line>
 <line speaker="Mikotoba">If even your best friend can't see through the disguise, I think we can relax.</line>
@@ -30,7 +30,7 @@
 <line speaker="Susato">Well...you see...</line>
 <line speaker="Mikotoba">It was the only way. The only way she would be permitted into the Supreme Court to take on your defence in this trial.</line>
 <line speaker="Rei">My... My defence?</line>
-<line speaker="Susato">......... <thought>Never before in my life have I felt so frustrated at having been born into this body. Courts in Japan are barred to women. We're not even allowed to set foot inside the courtroom. Despite the fact that the laws of the land apply to all people - male and female - alike...</thought></line>
+<line speaker="Susato">......... (Never before in my life have I felt so frustrated at having been born into this body. Courts in Japan are barred to women. We're not even allowed to set foot inside the courtroom. Despite the fact that the laws of the land apply to all people - male and female - alike...)</line>
 <line speaker="Rei">But...women are forbidden...</line>
 <line speaker="Susato">Just for today, I'll be leaving my true self at the courtroom door. So that I can act as your lawyer.</line>
 <line speaker="Rei">Oh, Susato... You'd go to such lengths for me?</line>
@@ -42,22 +42,22 @@
 <line speaker="Rei">Oh! I'm, I'm sorry. It's just...you really do look so dashing...</line>
 <line speaker="Susato">Y-Yes, you mentioned that once or twice.</line>
 <line speaker="Mikotoba">Wa ha ha ha ha! You should be pleased. It means you look convincing as a man.</line>
-<line speaker="Susato">I am pleased...I think. It's certainly helped to bolster my confidence today. <thought>Rei... You're managing to put on a brave face in all this, but I can see through it. I've noticed how your shoulders are slumped and how you're trembling ever so slightly.</thought></line>
+<line speaker="Susato">I am pleased...I think. It's certainly helped to bolster my confidence today. (Rei... You're managing to put on a brave face in all this, but I can see through it. I've noticed how your shoulders are slumped and how you're trembling ever so slightly.)</line>
 <line speaker="Rei">Susato... ...you...do believe me, don't you? I didn't do it. I, I couldn't have! I mean...murder...</line>
 <line speaker="Susato">Of course. You have nothing to worry about. Your conscience is perfectly clean! ...Isn't that right?</line>
 <line speaker="Rei">Yes...yes it is. Perfectly clean!</line>
-<line speaker="Susato">I have absolutely no doubt in my mind about your innocence. Which is why I'll stand by you until the bitter end in this trial. Whatever happens...I'll always be on your side! <thought>Because that's what it means to be a defence lawyer!</thought></line>
+<line speaker="Susato">I have absolutely no doubt in my mind about your innocence. Which is why I'll stand by you until the bitter end in this trial. Whatever happens...I'll always be on your side! (Because that's what it means to be a defence lawyer!)</line>
 <line speaker="Rei">That means so much to me, Susato.</line>
 <line speaker="Bailiff">Defendant! Counsel! Court is about to begin. Proceed to the courtroom at once!</line>
 <line speaker="Mikotoba">You should go in at once, Rei. If you're late, the judge won't hesitate to pronounce you guilty.</line>
 <line speaker="Rei">Oh... STAND ASIIIIIIDE!</line>
-<line speaker="Susato"><thought>I don't think I've ever seen her run so fast...</thought></line>
+<line speaker="Susato">(I don't think I've ever seen her run so fast...)</line>
 <line speaker="Mikotoba">...Well, Susato, you've certainly surprised your father. Going to such lengths to be admitted into the courtroom, and with no prior experience of being a lawyer...</line>
 <line speaker="Susato">There was simply no other way. That's all there is to it. But Father... ...you haven't told her, have you? I mean, I'm right in assuming that Rei doesn't know how it came to this?</line>
 <line speaker="Mikotoba">Yes, quite right. I've kept that information from her. It would only worry her if she found out that no other lawyer would agree to take her case. I didn't want to burden her with that.</line>
 <line speaker="Susato">And is it true? The reason why every other lawyer is refusing to take the case? Is it really because of who the victim was?</line>
 <line speaker="Mikotoba">......... We should be making a move now, too. As you know, law isn't my field, but I'll do what I can to support my student.</line>
-<line speaker="Susato">Thank you, Father. <thought>I'm Susato Mikotoba, a judicial assistant. Eight months ago, I accompanied a student of law on a study trip to Great Britain. But two months ago, due to unforeseen circumstances, I found myself back in Japan.</thought></line>
+<line speaker="Susato">Thank you, Father. (I'm Susato Mikotoba, a judicial assistant. Eight months ago, I accompanied a student of law on a study trip to Great Britain. But two months ago, due to unforeseen circumstances, I found myself back in Japan.)</line>
 <line speaker="Judge">This court is now in session to hear the trial of Rei Membami.</line>
 <line speaker="Auchi">The prosecution is fully ready to proceed, Your Excellency.</line>
 <line speaker="???">.........</line>
@@ -81,25 +81,25 @@
 <line speaker="Rei">How dare you?! Susato is every bit as gallant and dashing as any of your Tokyo attorneys! I won't have you making fun of her!</line>
 <line speaker="Auchi">...'Her'?</line>
 <line speaker="Rei">Oh! Um, er...</line>
-<line speaker="Ryutaro"><thought>Please be careful, Rei...</thought></line>
+<line speaker="Ryutaro">(Please be careful, Rei...)</line>
 <line speaker="Auchi">Tsh huh huh... What an unrefined tomboy we have here. But I wonder...is your 'gallant and dashing' lawyer up to the challenge of defending you? His wide, skittish eyes very much suggest that he is not.</line>
-<line speaker="Ryutaro"><thought>Ugh...I'm so nervous... Now that I'm standing in his shoes, I'm starting to understand what Naruhodo-san goes through. Like it or not, eyes are wont to flit!</thought></line>
+<line speaker="Ryutaro">(Ugh...I'm so nervous... Now that I'm standing in his shoes, I'm starting to understand what Naruhodo-san goes through. Like it or not, eyes are wont to flit!)</line>
 <line speaker="Judge">The case to be heard on this day is a matter of great significance to our national interests. In fact, it would be reasonable to assume that the outcome of this trial may well affect the very future of our empire.</line>
 <line speaker="Auchi">...Just like the trial nine months ago. And yet for proceedings of such importance, we have this...unknown yokel by the dock? Dear me.</line>
 <line speaker="Judge">Hmph. Perhaps this would be an appropriate moment for me to assess the defence. To determine whether you are sufficiently competent to practise in this courtroom.</line>
 <line speaker="Mikotoba">Nine months ago, when a certain other Naruhodo stood where you're standing now... ...this same judge tested him as well. And even though he was just a student at the time - not even of law - he passed the test with flying colours. For a trained and experienced judicial assistant like you, this will be easy.</line>
 <line speaker="Judge">So, Counsel...do you consent to answering some simple questions?</line>
-<line speaker="Ryutaro">......... <thought>Alright, it's time to prove myself.</thought> Yes, Your Excellency! <thought>But please do make them simple!</thought></line>
+<line speaker="Ryutaro">......... (Alright, it's time to prove myself.) Yes, Your Excellency! (But please do make them simple!)</line>
 <line speaker="Judge">Very well. To start with... ...you will state the name of the victim.</line>
-<line speaker="Ryutaro"><thought>Whew, that is simple. I couldn't forget that if I tried.</thought> ......... Ah.</line>
+<line speaker="Ryutaro">(Whew, that is simple. I couldn't forget that if I tried.) ......... Ah.</line>
 <line speaker="Mikotoba">What's the matter?</line>
-<line speaker="Ryutaro"><thought>Now that I'm standing in his shoes, I'm starting to understand something else Naruhodo-san goes through. Like it or not, minds are wont to blank!</thought></line>
+<line speaker="Ryutaro">(Now that I'm standing in his shoes, I'm starting to understand something else Naruhodo-san goes through. Like it or not, minds are wont to blank!)</line>
 <line speaker="Mikotoba">It's not surprising, really. It's your first time in this position and...in that guise. Even a bright spark like you is bound to flicker and falter a little under the circumstances.</line>
 <line speaker="Ryutaro">Oh dear...this is a dismal failure...</line>
 <line speaker="Mikotoba">Don't fret. You need only use the knowledge you've gained as a judicial assistant to overcome the problem.</line>
-<line speaker="Ryutaro">...! <thought>Of course! The Court Record!</thought> Yes, the answer will be amongst all the key information about the case, in the Court Record.</line>
+<line speaker="Ryutaro">...! (Of course! The Court Record!) Yes, the answer will be amongst all the key information about the case, in the Court Record.</line>
 <line speaker="Mikotoba">That's right. Just use [R / R1 / E] to open the Court Record. Then you need to flip to the 'People' section with [R / R1 / E]. And don't take too long over it. His Excellency is watching you closely.</line>
-<line speaker="Ryutaro"><thought>Alright, check the Court Record with [R / R1 / E]... That's where the information I need will be!</thought></line>
+<line speaker="Ryutaro">(Alright, check the Court Record with [R / R1 / E]... That's where the information I need will be!)</line>
 <line speaker="Judge">I'm waiting, Counsel... What is the name of the victim in this case?</line>
 <line speaker="Ryutaro">The victim in this case is... Yes! Prosecutor Taketsuchi Auchi!</line>
 <line speaker="Judge">What?!</line>
@@ -108,14 +108,14 @@
 <line speaker="Mikotoba">And you're surprised? Did you consult the Court Record? You must look through it carefully.</line>
 <line speaker="Ryutaro">Oh yes, I did, of course! I looked at everyone on file. And I chose the person whose features appeared to be the most deathly.</line>
 <line speaker="Mikotoba">...I must say...this most unusual methodology of yours leaves me almost speechless. It occurs to me with renewed certainty that reading the information carefully is vitally important. I strongly recommend it!</line>
-<line speaker="Ryutaro"><thought>Oh dear... I simply can't ignore that imploring look.</thought> Your Excellency! Please allow me to amend my answer!</line>
+<line speaker="Ryutaro">(Oh dear... I simply can't ignore that imploring look.) Your Excellency! Please allow me to amend my answer!</line>
 <line speaker="Judge">...Very well. I will excuse this incorrect response given your wide-eyed state of panic.</line>
 <line speaker="Ryutaro">The victim in this case...is none other than Professor Yujin Mikotoba!</line>
 <line speaker="Judge">What?!</line>
 <line speaker="Mikotoba">Well... To be written off by one's own child...</line>
 <line speaker="Ryutaro">Father, you, you seem suddenly so much older...and wearier than you were mere moments ago...</line>
 <line speaker="Mikotoba">Because of you, clearly! The judge is asking for the victim's name. The person who was killed in this case. Look through the information in the Court Record again. Carefully. Before you kill me, for mercy's sake!</line>
-<line speaker="Ryutaro"><thought>Oh dear... I simply can't ignore that disapproving look.</thought> Your Excellency! Please allow me to amend my answer!</line>
+<line speaker="Ryutaro">(Oh dear... I simply can't ignore that disapproving look.) Your Excellency! Please allow me to amend my answer!</line>
 <line speaker="Judge">...Very well. I will excuse this incorrect response given your wide-eyed state of panic.</line>
 <line speaker="Ryutaro">Leads to:</line>
 <line speaker="Ryutaro">The name of the victim who lost her life in this case...is Miss Jezaille Brett!</line>
@@ -126,7 +126,7 @@
 <line speaker="Ryutaro">...!</line>
 <line speaker="Judge">So...let me pose another simple question. As you know, Miss Brett was a visiting student from the Empire of Great Britain. Why, then, is her name indelibly associated with our own empire's judicial history?</line>
 <line speaker="Mikotoba">Obviously, you won't have forgotten that case from nine months ago. But if it's proving hard to recall the finer points, everything you need is included in the Court Record.</line>
-<line speaker="Ryutaro"><thought>Obviously, I still remember. That was the start of everything.</thought> Jezaille Brett... Behind the woman's student persona was the face of...</line>
+<line speaker="Ryutaro">(Obviously, I still remember. That was the start of everything.) Jezaille Brett... Behind the woman's student persona was the face of...</line>
 <line speaker="Ryutaro">...a victim, obviously!</line>
 <line speaker="Judge">.........</line>
 <line speaker="Auchi">.........</line>
@@ -146,7 +146,7 @@
 <line speaker="Ryutaro">Oh yes! How could I forget? I know every last detail about it.</line>
 <line speaker="Mikotoba">Then what on earth was that absurd answer you just gave?</line>
 <line speaker="Judge">No more absurdity, please, Counsel. You will amend your answer.</line>
-<line speaker="Ryutaro">Yes, of course, Your Excellency! <thought>...Did they both have to call my answer absurd?</thought></line>
+<line speaker="Ryutaro">Yes, of course, Your Excellency! (...Did they both have to call my answer absurd?)</line>
 <line speaker="Ryutaro">Leads to:</line>
 <line speaker="Ryutaro">Nine months ago, a visiting professor of medicine at the Imperial Yumei University was killed. And the culprit was...Jezaille Brett.</line>
 <line speaker="Mikotoba">Yes... She was a killer...</line>
@@ -160,12 +160,12 @@
 <line speaker="Auchi">And yet, the very day before her departure... The Englishwoman was killed!</line>
 <line speaker="Ryutaro">Only the day before?!</line>
 <line speaker="Judge">That will do. I'm satisfied that the counsel for the defence is sufficiently capable of representing the defendant.</line>
-<line speaker="Ryutaro">Oh! Thank you, Your Excellency! <thought>Over the first hurdle...</thought></line>
+<line speaker="Ryutaro">Oh! Thank you, Your Excellency! (Over the first hurdle...)</line>
 <line speaker="Judge">Now, a summary of the incident, if you please. Prosecutor Auchi...</line>
 <line speaker="Auchi">As is your wish...Your Excellency. The repugnant crime took place on the 11th August, in broad daylight. On the outskirts of the imperial capital, under a bright blue sky, at a secluded bathing spot by the sea... The incident occurred inside a small beach hut, erected for bathers to rest or change their clothes. The cause of death was a single stab wound to the posterior abdomen that pierced the victim's lung. An injury which proved fatal. There were two persons alone together in the beach hut at the time of the victim's death: Miss Brett, in her bathing attire, and the accused, Rei Membami! Accordingly, there can be no doubt of the accused's guilt! Especially when we consider she had a powerful motive! The police arrived rapidly at the scene and promptly arrested the young lady.</line>
 <line speaker="Ryutaro">.........</line>
 <line speaker="Judge">......... Well... ...that extraordinary description of events leaves me somewhat lost for words, I must say.</line>
-<line speaker="Ryutaro"><thought>That's certainly true. The prosecution's summary... ...was full of words that raise an awful lot of questions. As a lawyer, I really ought to pick up the prosecution counsel on what he said about...</thought></line>
+<line speaker="Ryutaro">(That's certainly true. The prosecution's summary... ...was full of words that raise an awful lot of questions. As a lawyer, I really ought to pick up the prosecution counsel on what he said about...)</line>
 <line speaker="Ryutaro">Um, if I may...Prosecutor Auchi...</line>
 <line speaker="Auchi">What do you want? You fresh-faced, young yokel student!</line>
 <line speaker="Ryutaro">I wonder... Could you explain, please? You mentioned a 'bathing spot'...</line>
@@ -181,7 +181,7 @@
 <line speaker="Auchi">I, I said don't look at me! It was that young student girl who did it, not I!</line>
 <line speaker="Ryutaro">No one has proved that yet!</line>
 <line speaker="Mikotoba">...I wouldn't provoke the man if you don't need to.</line>
-<line speaker="Ryutaro"><thought>Hm, at this stage, I need to gather more information, I think.</thought></line>
+<line speaker="Ryutaro">(Hm, at this stage, I need to gather more information, I think.)</line>
 <line speaker="Ryutaro">Um, if I may...Prosecutor Auchi...</line>
 <line speaker="Auchi">What do you want? You fresh-faced, young yokel student!</line>
 <line speaker="Ryutaro">I wonder... Could you explain, please? You mentioned a 'bathing spot'...</line>
@@ -199,7 +199,7 @@
 <line speaker="Mikotoba">...I wouldn't provoke the man if you don't need to.</line>
 <line speaker="Ryutaro">Um, Membami-san...</line>
 <line speaker="Rei">Yes, what is it, Susa- I, I mean, um... Naruhodo-san!</line>
-<line speaker="Ryutaro"><thought>I'm really starting to wish we'd made my alias Ryutaro Susato...</thought> Please tell the court why exactly you were present at the bathing spot with the victim in the first place. And why you were alone with her.</line>
+<line speaker="Ryutaro">(I'm really starting to wish we'd made my alias Ryutaro Susato...) Please tell the court why exactly you were present at the bathing spot with the victim in the first place. And why you were alone with her.</line>
 <line speaker="Rei">Oh! Well! No! That's not true! It wasn't like that at all! There were other people present. A detective who was guarding Miss Brett for starters! I was just asked to accompany Miss Brett as a companion, that's all.</line>
 <line speaker="Auchi">But let us be clear! At the moment of her death, you were alone together with the victim in the hut. You and no one else!</line>
 <line speaker="Ryutaro">...!</line>
@@ -209,10 +209,10 @@
 <line speaker="Ryutaro">Kindly refrain from conjecture, Counsel!</line>
 <line speaker="Auchi">...Tsh huh huh...</line>
 <line speaker="Mikotoba">...The prosecution counsel seems to enjoy using provocative tricks like that. But for now at least, we need to assemble more facts... Try not to let him goad you.</line>
-<line speaker="Susato"><thought>Oh dear... This is really terrifying. But Father's right. We need more information.</thought></line>
+<line speaker="Susato">(Oh dear... This is really terrifying. But Father's right. We need more information.)</line>
 <line speaker="Ryutaro">Um, Membami-san...</line>
 <line speaker="Rei">Yes, what is it, Susa- I, I mean, um... Naruhodo-san!</line>
-<line speaker="Ryutaro"><thought>I'm really starting to wish we'd made my alias Ryutaro Susato...</thought> Please tell the court why exactly you were present at the bathing spot with the victim in the first place. And why you were alone with her.</line>
+<line speaker="Ryutaro">(I'm really starting to wish we'd made my alias Ryutaro Susato...) Please tell the court why exactly you were present at the bathing spot with the victim in the first place. And why you were alone with her.</line>
 <line speaker="Rei">Oh! Well! No! That's not true! It wasn't like that at all! There were other people present. A detective who was guarding Miss Brett for starters! I was just asked to accompany Miss Brett as a companion, that's all.</line>
 <line speaker="Auchi">But let us be clear! At the moment of her death, you were alone together with the victim in the hut. You and no one else!</line>
 <line speaker="Ryutaro">...!</line>
@@ -239,7 +239,7 @@
 <line speaker="Auchi">The motive...was revenge. ...Plain and simple, Your Excellency.</line>
 <line speaker="Judge">Hmmm...</line>
 <line speaker="Mikotoba">Well, it was clearly a trap all along.</line>
-<line speaker="Ryutaro">How wicked of him to use Rei's undying respect for her former mentor against her like that. <thought>I must find out more details, and something we can use to bolster our defence...</thought></line>
+<line speaker="Ryutaro">How wicked of him to use Rei's undying respect for her former mentor against her like that. (I must find out more details, and something we can use to bolster our defence...)</line>
 <line speaker="Ryutaro">You're clearly exaggerating! 'Powerful motive' is a blatant overstatement!</line>
 <line speaker="Auchi">Tut tut tut. Is the yokel boy using long words he doesn't fully understand?</line>
 <line speaker="Ryutaro">I beg your pardon?</line>
@@ -261,7 +261,7 @@
 <line speaker="Mikotoba">Despite her guilt being determined nine months ago... ...Miss Brett managed to avoid incarceration, instead continuing her research work at the university. Obviously, over that period, she and Rei would have encountered each other on a number of occasions.</line>
 <line speaker="Ryutaro">Seeing the murderer of the mentor for whom she had such great respect enjoying such undeserved liberty...</line>
 <line speaker="Mikotoba">Yes, even if it was only temporary until Miss Brett's extradition to Shanghai... ...you can hardly blame Rei for her feelings of anger and resentment.</line>
-<line speaker="Ryutaro"><thought>Poor Rei...</thought></line>
+<line speaker="Ryutaro">(Poor Rei...)</line>
 <line speaker="Auchi">So, Your Excellency...if you'd be so kind as to peruse this exhibit. A photographic print that shows the scene of the crime immediately following the grim incident.</line>
 <line speaker="Judge">Yes, thank you, Counsel. A tragic image.</line>
 <line speaker="Auchi">As you can clearly see, there is nowhere within the hut that anyone else could have hidden.</line>
@@ -285,7 +285,7 @@
 <line speaker="Auchi">'Strike the head of a samurai whose topknot has been cut, and the bell of cultural enlightenment tolls.' Yes, on that fateful day...my former self died.</line>
 <line speaker="Ryutaro">The start of your own mini Meiji Revolution! Are you modernising as well, Counsel?</line>
 <line speaker="Auchi">Silence! Since I swore revenge back then, there has been a minor miracle atop my head. Observe, the Auchi growth! You see? You see this seed of hope sprouting forth from the barren expanse of my crown?</line>
-<line speaker="Ryutaro"><thought>I, I think that tiny growth is trying to tell me something!</thought></line>
+<line speaker="Ryutaro">(I, I think that tiny growth is trying to tell me something!)</line>
 <line speaker="Rei">Um... ...I'm afraid I can't really see. Where, where is the hope exactly?</line>
 <line speaker="Auchi">I said silence! Today, I face another yokel student of the Naruhodo clan. Well...I will vanquish you! And my victory will be fertiliser for the seed of hope atop my head! ...You have been warned. With that...the prosecution calls the witnesses to the stand!</line>
 <line speaker="Mikotoba">...It looks like the stakes are high on both sides in this trial. The prosecution and defence each has much to lose.</line>
@@ -297,11 +297,11 @@
 <line speaker="Soseki">Struggling student from the provinces, please... You needn't be in awe of me.</line>
 <line speaker="Ryutaro">I needn't?</line>
 <line speaker="Soseki">It's only natural that you'd feel nervous in my presence. But all of you, please, relax. Call me Soseki, even.</line>
-<line speaker="Ryutaro">Um...yes... <thought>What on earth is Soseki-san doing here?</thought></line>
+<line speaker="Ryutaro">Um...yes... (What on earth is Soseki-san doing here?)</line>
 <line speaker="Mikotoba">Tread carefully, Susato. That author fellow knows you from your time in London, doesn't he? If he exposes you for who you really are, this will be over before it's begun.</line>
-<line speaker="Ryutaro">Yes... Yes, of course. I know. <thought>I presume Soseki-san won't have forgotten about me. I could certainly never forget him. Although he does seem to have changed somewhat in the six months or so that it's been since I last saw him. And as for Inspector Hosonaga... That amazing outfit is... hard to believe.</thought></line>
+<line speaker="Ryutaro">Yes... Yes, of course. I know. (I presume Soseki-san won't have forgotten about me. I could certainly never forget him. Although he does seem to have changed somewhat in the six months or so that it's been since I last saw him. And as for Inspector Hosonaga... That amazing outfit is... hard to believe.)</line>
 <line speaker="Hosonaga">...Do I have something on my face?</line>
-<line speaker="Ryutaro"><thought>Well, your glasses for one. Although they don't seem to be helping you see... Thank goodness he hasn't recognised me either.</thought></line>
+<line speaker="Ryutaro">(Well, your glasses for one. Although they don't seem to be helping you see... Thank goodness he hasn't recognised me either.)</line>
 <line speaker="Hosonaga">Ah, I suppose it's this disguise, is it? I thought that appearing here in the clothes I was wearing at the time would make for a more faithful testimony. It is my guiding principle to carry out all testimonies flawlessly.</line>
 <line speaker="Judge">Hm, well, I can appreciate why an Imperial Police Bureau detective might have been present... ...but what business did a writer such as yourself have being at the scene, Soseki-san?</line>
 <line speaker="Soseki">Ah, well, you see... ...I had been asked that day to give a lecture. On the morning of the incident...in the Imperial Yumei University's Grand Lecture Hall no less.</line>
@@ -312,7 +312,7 @@
 <line speaker="Soseki">Of course, being a renowned author, the press never leave me alone. They secretly spy! Snap shots! Scribble stories! And scupper my privacy!</line>
 <line speaker="Ryutaro">Haah...</line>
 <line speaker="Soseki">As you can see, the conversation was written up in this newspaper here. Read it at your leisure, my provincial, struggling student friend. I have plenty of copies.</line>
-<line speaker="Ryutaro">Thank you very much! <thought>He practically threw that paper at me.</thought></line>
+<line speaker="Ryutaro">Thank you very much! (He practically threw that paper at me.)</line>
 <line speaker="Soseki">Anyway, following my interview with the professor... ...the lady in question appeared and made a very unexpected announcement. 'I should like to go with everyone to see your country's coast!' Those were her words.</line>
 <line speaker="Mikotoba">As I explained before, Miss Brett was never taken into custody. She continued to work in my laboratory, under strict surveillance, of course.</line>
 <line speaker="Auchi">At which utterance, the university immediately contacted the government to seek guidance. And the response was, 'Permit Miss Brett to go as long as a detective accompanies her.'</line>
@@ -345,17 +345,17 @@
 <line speaker="Ryutaro">Ah... NOOOOOO!</line>
 <line speaker="Judge">This fountain pen will be admitted immediately as critical evidence!</line>
 <line speaker="Auchi">So...have I omitted anything? Decisive testimony and damning evidence... There's a bright blue sky outside the courthouse today. Perfect weather to ascribe guilt, I feel.</line>
-<line speaker="Ryutaro"><thought>I, I don't understand. The Prosecutor Auchi of nine months ago... ...had none of this man's poise!</thought></line>
+<line speaker="Ryutaro">(I, I don't understand. The Prosecutor Auchi of nine months ago... ...had none of this man's poise!)</line>
 <line speaker="Judge">Counsel for the Defence...you may begin your cross-examination now.</line>
 <line speaker="Ryutaro">.........</line>
 <line speaker="Judge">Naruhodo-san!</line>
 <line speaker="Ryutaro">Naruhodo... That...means... Oh! Yes! Me!</line>
 <line speaker="Judge">Is there another Naruhodo in my courtroom?</line>
-<line speaker="Ryutaro"><thought>Actually, there isn't even a single Naruhodo in your courtroom...</thought></line>
+<line speaker="Ryutaro">(Actually, there isn't even a single Naruhodo in your courtroom...)</line>
 <line speaker="Mikotoba">Cousin Ryutaro...pull yourself together, please.</line>
-<line speaker="Ryutaro"><thought>Alright, I've seen this countless times as a judicial assistant. Find inconsistencies in the witnesses' testimonies to prove that they're lying somehow. That's all there is to it. That's how a real lawyer would handle a cross-examination. So let's see what I can do!</thought></line>
+<line speaker="Ryutaro">(Alright, I've seen this countless times as a judicial assistant. Find inconsistencies in the witnesses' testimonies to prove that they're lying somehow. That's all there is to it. That's how a real lawyer would handle a cross-examination. So let's see what I can do!)</line>
 <line speaker="Hosonaga">On the day of the incident, I was ordered on a special surveillance assignment in this disguise.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">In that...jaunty disguise?</line>
 <line speaker="Hosonaga">Correct. ......... Wait! No! I mean, it wasn't the first time I've worn this swimsuit for a dip in the ocean. It's tried and tested. 'Do what must be done to keep the Englishwoman under surveillance.' Those were my orders that day.</line>
 <line speaker="Ryutaro">And this tried and tested outfit was the answer?</line>
@@ -363,12 +363,12 @@
 <line speaker="Ryutaro">......... But there was no need for you to blend into the background on this assignment really, was there?</line>
 <line speaker="Mikotoba">If that made you late arriving on the scene, I think perhaps you had your priorities wrong.</line>
 <line speaker="Hosonaga">......... Ahem. ...Ahem.</line>
-<line speaker="Ryutaro"><thought>Perhaps I shouldn't pursue this line of questioning any further at the moment...</thought></line>
+<line speaker="Ryutaro">(Perhaps I shouldn't pursue this line of questioning any further at the moment...)</line>
 <line speaker="Soseki">I'd just managed to catch that crab when I suddenly heard a caterwaul from behind me.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Ah, you're describing the victim's scream, presumably, Soseki-san?</line>
 <line speaker="Soseki">In more literary terms, you might say it was a scream that could have pierced the heavens. 'KYAAAAAAAAAAAAH!!!' ...Or the like. Of course, that's just a metaphor. We renowned authors are wont to describing things so.</line>
-<line speaker="Ryutaro"><thought>Soseki-san wasn't at all like this in England...</thought></line>
+<line speaker="Ryutaro">(Soseki-san wasn't at all like this in England...)</line>
 <line speaker="Soseki">Anyway, I spun around at the noise and the beach hut immediately fell under my gaze.</line>
 <line speaker="Ryutaro">Yes, the beach hut...</line>
 <line speaker="Hosonaga">The area is popular with government ministers. Many have seaside retreats there for rest and recuperation. Locals are prohibited from entering the area, so it's always very quiet. The beach hut is a simple structure, erected as a place for people to change or take refuge from the sun.</line>
@@ -376,20 +376,20 @@
 <line speaker="Ryutaro">Ah. I imagine that was rather embarrassing for you.</line>
 <line speaker="Soseki">Well anyway, I tossed the crab aside and headed for the beach hut at a run. Or, in more literary terms... I decrabbed and beetled off hut-wise!</line>
 <line speaker="Hosonaga">I ran into the beach hut at once, where I found the pair in question.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Wait, by 'pair', you don't mean to say...? But how could that be?</line>
 <line speaker="Hosonaga">No no, you misunderstand! Obviously, I mean the victim and the defendant, Rei Membami-san.</line>
 <line speaker="Ryutaro">...Oh. It would have been helpful if you could have just said that from the outset.</line>
 <line speaker="Hosonaga">...If you jump to conclusions, you have to expect to fall flat on your face sometimes.</line>
 <line speaker="Auchi">Dear me, pinning your hopes on such an outside chance. Foolish. Very foolish.</line>
-<line speaker="Ryutaro"><thought>It really was an outside chance. I just wish I'd realised that before I said something silly.</thought></line>
+<line speaker="Ryutaro">(It really was an outside chance. I just wish I'd realised that before I said something silly.)</line>
 <line speaker="Auchi">So, Inspector, why don't you tell the court how exactly you found the aforementioned pair in the hut.</line>
 <line speaker="Hosonaga">Well, it was a sorry sight. A really grisly scene. I parted the noren curtain hanging in the doorway and stepped inside, only to see... ...the defendant leaning menacingly over the lifeless body of the victim sprawled on the sand! Ahem! Ahem, ahem, ahem! My glasses very nearly cracked at the ominous sight that met my eyes.</line>
 <line speaker="Auchi">How thoroughly appalling.</line>
-<line speaker="Ryutaro">Ugh... <thought>He doesn't appear to be lying here...</thought> Well, Soseki-san, can you confirm what Inspector Hosonaga is saying, I wonder?</line>
+<line speaker="Ryutaro">Ugh... (He doesn't appear to be lying here...) Well, Soseki-san, can you confirm what Inspector Hosonaga is saying, I wonder?</line>
 <line speaker="Soseki">Ah... You'd like a literary man's opinion?</line>
 <line speaker="Soseki">YES YES YES! That young girl was astride the Englishwoman, dagger in hand, as she stabbed wildly!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">'Stabbed wildly'? You actually saw her do it?</line>
 <line speaker="Soseki">Oh, indeed. The terrible spectre! The terrapin inspector! The bloody torrent! The author's torment!</line>
 <line speaker="Ryutaro">EEEEEEEEEEEK!!!</line>
@@ -404,7 +404,7 @@
 <line speaker="Mikotoba">I think this is a fool's errand. The more we press your author friend on what he saw, the more entrenched he's going to become.</line>
 <line speaker="Ryutaro">Oh dear... How awkward.</line>
 <line speaker="Hosonaga">I saw blood on the blade. It proved to me that she'd stabbed the victim multiple times.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">She was stabbed multiple times...? How can you be sure of that?</line>
 <line speaker="Hosonaga">Very simply. From the blood on the blade.</line>
 <line speaker="Ryutaro">The...blood?</line>
@@ -415,14 +415,14 @@
 <line speaker="Soseki">YES! YES! That's right! I saw it too!</line>
 <line speaker="Hosonaga">And the victim was already holding the defendant's fountain pen in her hand, too. All of which means I can be sure...the victim did not die instantly.</line>
 <line speaker="Soseki">YES! YES! Right! Saw it too!</line>
-<line speaker="Ryutaro"><thought>Maybe a year in London was too much for him. He sounds like he's forgotten how to speak Japanese.</thought></line>
+<line speaker="Ryutaro">(Maybe a year in London was too much for him. He sounds like he's forgotten how to speak Japanese.)</line>
 <line speaker="Mikotoba">The logic of your argument is sound at least.</line>
 <line speaker="Hosonaga">Well, as I said, it is my guiding principle to carry out all testimonies flawlessly.</line>
 <line speaker="Ryutaro">Perhaps it should have been your guiding principle to protect the victim flawlessly? That's just my personal opinion, of course.</line>
 <line speaker="Hosonaga">......... Ahem! Ahem! Ahem, ahem!</line>
 <line speaker="Judge">Counsel! You will refrain from mocking the witness!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryutaro"><thought>Oh no... I just have so many thoughts whirling around in my head... It's all I can do to stand here, wide-eyed and mute...</thought></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryutaro">(Oh no... I just have so many thoughts whirling around in my head... It's all I can do to stand here, wide-eyed and mute...)</line>
 <line speaker="Mikotoba">Goodness, my dear. You really must try to calm down.</line>
 <line speaker="Ryutaro">But how am I supposed to find an inconsistency in what these two gentlemen are saying? I don't see why either of them would have any reason to lie.</line>
 <line speaker="Mikotoba">What you must remember, I think, is that witnesses may inadvertently lie at times. For various reasons: a misunderstanding, a mistaken observation, a delusion, even...</line>
@@ -430,12 +430,12 @@
 <line speaker="Mikotoba">What's important is that we determine the truth. And there's only one sure way to do that.</line>
 <line speaker="Ryutaro">Yes...with evidence, of course.</line>
 <line speaker="Mikotoba">Spoken like a true judicial assistant. During witness testimony, you can use [R / R1 / E] to pick a piece of evidence to 'Present' for consideration. So you need to listen carefully to each statement, and compare what's said to the details in the Court Record. If you find some conflicting information, that may be the inconsistency you're looking for.</line>
-<line speaker="Ryutaro"><thought>Yes, it's all about inconsistencies...</thought></line>
+<line speaker="Ryutaro">(Yes, it's all about inconsistencies...)</line>
 <line speaker="Mikotoba">Once you've identified a witness's statement that appears to conflict with a piece of evidence... Present the evidence to the witness with [X / △ / R], and the way ahead will present itself to you, I'm sure.</line>
-<line speaker="Ryutaro">Yes! <thought>Alright, then... I'll consider the details of all the evidence in the Court Record against each statement to find an inconsistency. I hope I'm up to the task...</thought></line>
+<line speaker="Ryutaro">Yes! (Alright, then... I'll consider the details of all the evidence in the Court Record against each statement to find an inconsistency. I hope I'm up to the task...)</line>
 <line speaker="Mikotoba">Don't forget that you can have the witnesses repeat their statements as many times as you like. Everyone has to start at the beginning, remember. So those wide eyes are quite forgivable. And besides...there's no one else to defend the poor girl.</line>
-<line speaker="Ryutaro">You're right! <thought>I need to listen to the testimony again from the start.</thought></line>
-<line speaker="Ryutaro">......... <thought>With that accusatory cry that just welled up from deep inside me, I think I finally understand... Every time Kazuma-sama and Naruhodo-san have stood here at this bench... ...the stakes have been very, very high, indeed!</thought></line>
+<line speaker="Ryutaro">You're right! (I need to listen to the testimony again from the start.)</line>
+<line speaker="Ryutaro">......... (With that accusatory cry that just welled up from deep inside me, I think I finally understand... Every time Kazuma-sama and Naruhodo-san have stood here at this bench... ...the stakes have been very, very high, indeed!)</line>
 <line speaker="Auchi">Wh-What's the meaning of that menacing pose, Counsel?</line>
 <line speaker="Ryutaro">I'd like the witness to clarify something for me.</line>
 <line speaker="Soseki">Who? What? Where? When? Hooooooooooow?!</line>
@@ -463,7 +463,7 @@
 <line speaker="Ryutaro">Yes, Your Excellency. There's only one logical conclusion. What Soseki-san in fact saw was not the moment that the defendant stabbed the victim at all... ...but the moment that the defendant in fact...withdrew the blade from the victim's body!</line>
 <line speaker="Soseki">That, that can't... ...BEEEEEEEEEEEE!</line>
 <line speaker="Mikotoba">Excellent work, Susato! You exploded at them with that objection, and then proceeded to pull them apart systematically.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Tsh huh huh... Well well, this takes me back.</line>
 <line speaker="Ryutaro">...!</line>
 <line speaker="Auchi">Yes, I seem to remember your cousin staged a scene much like this in that trial nine months ago. A half-witted child with a half-baked objection attempting to steal the show.</line>
@@ -481,24 +481,24 @@
 <line speaker="Auchi">Consider this, young yokel boy... If the student girl is innocent as you claim... ...then why would she have pulled the blade from the victim? And with a demon's cold-blooded composure, too. The prosecution demands an explanation! ...And it had better be good.</line>
 <line speaker="Ryutaro">Why did Rei pull out the knife...?</line>
 <line speaker="Mikotoba">Ah, yes... Going for the jugular.</line>
-<line speaker="Ryutaro">Hm? <thought>What does Father mean by that?</thought></line>
+<line speaker="Ryutaro">Hm? (What does Father mean by that?)</line>
 <line speaker="Judge">Let the court hear your answer then, Counsel.</line>
-<line speaker="Ryutaro"><thought>The truth is, I don't really know. But I have to come up with a plausible reason here, or we don't have a case.</thought> The reason why the defendant pulled the knife blade out of the victim's body was surely so she could...</line>
+<line speaker="Ryutaro">(The truth is, I don't really know. But I have to come up with a plausible reason here, or we don't have a case.) The reason why the defendant pulled the knife blade out of the victim's body was surely so she could...</line>
 <line speaker="Ryutaro">Hm, well, this is only one possible answer, but... ...could it have been so she could stab the victim again?</line>
 <line speaker="Judge">Pardon?</line>
 <line speaker="Ryutaro">Isn't there a saying? If someone slaps you on the right cheek, turn to him the left also.</line>
 <line speaker="Mikotoba">Susa- Ryutaro! What are you saying?! Or rather, what are you doing? Do you realise what a hole you're digging?</line>
-<line speaker="Ryutaro">Ah! AAAAAAGH! <thought>It must be the pressure of being here. I'm starting to say things I don't mean...</thought></line>
+<line speaker="Ryutaro">Ah! AAAAAAGH! (It must be the pressure of being here. I'm starting to say things I don't mean...)</line>
 <line speaker="Auchi">Quite a slap in the face for the woman you represent. You yokels and your heavy-handed ways!</line>
 <line speaker="Ryutaro">N-No, I didn't... That, that was just an example! A mere musing! I didn't mean that's what happened!</line>
 <line speaker="Judge">I suggest you take a moment to consider your answer next time. ...Before you speak, Counsel.</line>
 <line speaker="Ryutaro">Ugh... Yes, Your Excellency... Thank you for allowing me another chance.</line>
 <line speaker="Ryutaro">I think...it was possibly so that she could hide the murder weapon.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">And yet the murder weapon was left there, thrust into the sand at the scene.</line>
 <line speaker="Ryutaro">......... Having pulled the knife from the victim, she couldn't find a place to hide it, so that was her only option, perhaps?</line>
 <line speaker="Judge">......... I think, Counsel... ...that you were ill-advised with your answer initially. And you were further ill-advised to pursue it.</line>
-<line speaker="Ryutaro">Oh dear! I'm terribly sorry! <thought>...This job is not to be taken lightly. There's just so much pressure.</thought></line>
+<line speaker="Ryutaro">Oh dear! I'm terribly sorry! (...This job is not to be taken lightly. There's just so much pressure.)</line>
 <line speaker="Mikotoba">Just because you're under pressure doesn't mean you can say the first thing that comes into your head.</line>
 <line speaker="Ryutaro">I'd, I'd like to revise my answer, Your Excellency!</line>
 <line speaker="Ryutaro">According to the post-mortem report, the victim's death was not instant.</line>
@@ -510,7 +510,7 @@
 <line speaker="Mikotoba">.........</line>
 <line speaker="Auchi">Tsh huh huh! Did you hear that, Your Excellency? It would seem this is the best we can expect of this young yokel.</line>
 <line speaker="Judge">Hmmm... Indeed.</line>
-<line speaker="Ryutaro"><thought>Ugh... Is it just me, or does it suddenly feel much colder in here?</thought></line>
+<line speaker="Ryutaro">(Ugh... Is it just me, or does it suddenly feel much colder in here?)</line>
 <line speaker="Hosonaga">...Your Excellency, if I may?</line>
 <line speaker="Judge">Speak, witness.</line>
 <line speaker="Hosonaga">I would like another opportunity to testify. In respect to the slipshod assertion just put forward by the yokel defence counsel, I mean.</line>
@@ -529,17 +529,17 @@
 <line speaker="Mikotoba">Yes, it's basic remedial knowledge for medics. Rei would have been well aware of it. If she were to claim ignorance of such fundamentals, that would prove fatal in many ways.</line>
 <line speaker="Ryutaro">But then...why would Rei have done it? Could she have pulled out that knife in full knowledge that it would be fatal for Miss Brett?</line>
 <line speaker="Mikotoba">...I don't know.</line>
-<line speaker="Ryutaro"><thought>Rei never once mentioned anything about the knife to me. It seems almost impossible to believe, but... ...could my friend actually have...?</thought></line>
+<line speaker="Ryutaro">(Rei never once mentioned anything about the knife to me. It seems almost impossible to believe, but... ...could my friend actually have...?)</line>
 <line speaker="Mikotoba">Susato!</line>
 <line speaker="Ryutaro">Y-Yes?</line>
 <line speaker="Mikotoba">Pull yourself together! We mustn't lose sight of why we're here.</line>
-<line speaker="Ryutaro"><thought>Ah!</thought></line>
+<line speaker="Ryutaro">(Ah!)</line>
 <line speaker="Judge">Counsel, it's time for your cross-examination.</line>
 <line speaker="Ryutaro">Oh...yes, Your Excellency!</line>
 <line speaker="Judge">However... ...I must warn you that if your cross-examination fails to identify any issue with the established facts... ...I will be moving to my adjudication immediately afterwards.</line>
-<line speaker="Ryutaro">...I understand. <thought>Believing in your clients and fighting for their cause until the bitter end... I knew it would be hard, but...I had no idea it would be this hard!</thought></line>
+<line speaker="Ryutaro">...I understand. (Believing in your clients and fighting for their cause until the bitter end... I knew it would be hard, but...I had no idea it would be this hard!)</line>
 <line speaker="Hosonaga">Pulling a blade from a wound without thinking could cause heavy bleeding.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">You say doing it without thinking could be a problem... Does that mean that if you used due care and attention it would be alright?</line>
 <line speaker="Hosonaga">I wouldn't have thought this needed spelling out, really, but... ...the blade is like a stopper in the wound. Remove it, and a serious haemorrhage will occur. In other words, a medic would need to be present before any attempt was made to withdraw the blade. Doing it without thinking would be madness. You just can't do it.</line>
 <line speaker="Ryutaro">Oh! Well...thank you for such a thorough explanation.</line>
@@ -547,7 +547,7 @@
 <line speaker="Ryutaro">Ugh...</line>
 <line speaker="Judge">Back to the witness testimony, please.</line>
 <line speaker="Hosonaga">That's basic knowledge that any medical research assistant with an ounce of sense ought to know.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">In that case, there's an obvious explanation here.</line>
 <line speaker="Hosonaga">...Which is?</line>
 <line speaker="Ryutaro">Clearly...the defendant, Rei Membami-san, does not possess an ounce of sense!</line>
@@ -556,38 +556,38 @@
 <line speaker="Ryutaro">Well, I thought it would be better than labelling her as a murderer.</line>
 <line speaker="Auchi">I don't know, young people today... If that's friendship, I don't understand it.</line>
 <line speaker="Judge">Careful, Counsel. A lack of common sense can be a very dangerous thing.</line>
-<line speaker="Ryutaro"><thought>Oh dear... That recoiled on me rather badly.</thought></line>
+<line speaker="Ryutaro">(Oh dear... That recoiled on me rather badly.)</line>
 <line speaker="Mikotoba">That's life, I'm afraid. A lesson everyone must learn.</line>
 <line speaker="Hosonaga">Hopefully you can see now that this is really basic medical knowledge. Being involved in medical research, Membami-san would certainly have been aware of it.</line>
 <line speaker="Hosonaga">In other words, there's no good reason why the defendant would have tried to pull the knife from the victim.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">But the defendant had suddenly encountered somebody she knew lying on the ground, bleeding to death. The sight could have shocked her delicate sensibilities, causing her to remove the blade inadvertently.</line>
 <line speaker="Hosonaga">I really don't think 'inadvertent' actions can explain this. The woman is a medical research assistant. I can't imagine she would behave so irrationally.</line>
 <line speaker="Ryutaro">Oh, but irrational behaviour is a woman's prerogative, isn't it?</line>
 <line speaker="Hosonaga">Oh dear...you have a lot to learn about women. Only a small-minded man could have such bigoted views.</line>
-<line speaker="Ryutaro"><thought>Oh dear...perhaps I'm letting my male persona take hold a little too much...</thought></line>
+<line speaker="Ryutaro">(Oh dear...perhaps I'm letting my male persona take hold a little too much...)</line>
 <line speaker="Hosonaga">Well...have I managed to convey the basics now? That should cover the medical side of the argument.</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Hosonaga">Let's not forget that the young student did have a motive for killing the victim.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Whatever the motive, it just isn't in Membami-san's nature to do something so awful!</line>
 <line speaker="Hosonaga">But she had both motive and opportunity. That's very hard to argue against.</line>
 <line speaker="Ryutaro">But you don't know the defendant!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">And you, Counsel, do not appear to know the law!</line>
 <line speaker="Ryutaro">...!</line>
 <line speaker="Hosonaga">Yes, evidence is the only way to convince the court of your argument. Not feelings.</line>
 <line speaker="Auchi">With this...fledgling to defend her, I would almost say I pity the accused.</line>
-<line speaker="Ryutaro"><thought>So do I...</thought></line>
+<line speaker="Ryutaro">(So do I...)</line>
 <line speaker="Judge">Inspector, you will reiterate your point about the defendant's motive, please.</line>
 <line speaker="Hosonaga">Ah, yes. Miss Brett was in many ways the sworn enemy of Membami-san.</line>
 <line speaker="Hosonaga">The man the victim murdered nine months ago, Dr Wilson, was the defendant's highly respected mentor.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Well...yes, that's true. Dr Wilson recognised Membami-san's talent and offered her the position of assistant despite her being a woman. She was extremely grateful to him.</line>
 <line speaker="Hosonaga">Yes, the Englishman appears to have been a very broad-minded individual.</line>
 <line speaker="Mikotoba">Dr Wilson had no time for outdated traditions. He met with opposition of course, but he believed firmly in Membami-san's abilities.</line>
 <line speaker="Hosonaga">Clearly the defendant was in the man's debt. Which only serves to prove my point.</line>
-<line speaker="Ryutaro"><thought>This is hopeless! I can't find a single crack in this testimony anywhere! If Rei knew that withdrawing the knife from the wound would threaten Miss Brett's life further... ...I just can't think of any way to explain why she did it.</thought></line>
+<line speaker="Ryutaro">(This is hopeless! I can't find a single crack in this testimony anywhere! If Rei knew that withdrawing the knife from the wound would threaten Miss Brett's life further... ...I just can't think of any way to explain why she did it.)</line>
 <line speaker="Mikotoba">Susato. It's at times like these when it's especially important to remember the fundamentals.</line>
 <line speaker="Ryutaro">The fundamentals?</line>
 <line speaker="Mikotoba">Evidence is what counts in the courtroom, isn't it?</line>
@@ -595,23 +595,23 @@
 <line speaker="Mikotoba">I think perhaps you're forgetting something, though. You needn't take the evidence at face value. You can and must examine it in greater detail, too.</line>
 <line speaker="Ryutaro">Ah!</line>
 <line speaker="Mikotoba">I realise this is your first time playing the role of lawyer in the courtroom. So if you need reminding of the rudiments, you need only ask. I'll do my very best to help.</line>
-<line speaker="Ryutaro"><thought>Examine the evidence in the Court Record...? It's an idea, certainly. What should I do?</thought></line>
+<line speaker="Ryutaro">(Examine the evidence in the Court Record...? It's an idea, certainly. What should I do?)</line>
 <line speaker="Ryutaro">Yes, Father...Spartan guidance is what I need!</line>
 <line speaker="Mikotoba">I, I think that might be overdoing it slightly, but... Very well. So, open the Court Record first of all with [R / R1 / E]. Now, let's take a look at the fountain pen which was submitted as evidence most recently. Simply press [A / X / space] to 'Examine' it further. That's all there is to it.</line>
 <line speaker="Ryutaro">Yes, the initials 'R. M.'... There they are, clearly engraved on the barrel.</line>
 <line speaker="Mikotoba">By using [right analog stick / arrow keys], you can look at a piece of evidence from all angles. You should have a good look at everything to make sure you haven't missed any clues.</line>
-<line speaker="Ryutaro">Yes! I will! <thought>I just need to rotate the pen with [right analog stick / arrow keys] and watch closely for anything out of the ordinary, then...</thought></line>
+<line speaker="Ryutaro">Yes! I will! (I just need to rotate the pen with [right analog stick / arrow keys] and watch closely for anything out of the ordinary, then...)</line>
 <line speaker="Ryutaro">There's some sort of emblem here, look. But...it isn't a Yumei University one!</line>
 <line speaker="Mikotoba">It must belong to some other organisation, I suppose. A business of some kind... But that would seem to imply that the pen doesn't in fact belong to Rei.</line>
 <line speaker="Ryutaro">There's some sort of emblem here, look. But...it isn't a Yumei University one!</line>
 <line speaker="Mikotoba">It must belong to some other organisation, I suppose. A business of some kind... But that would seem to imply that the pen doesn't in fact belong to Rei.</line>
-<line speaker="Ryutaro"><thought>Come to think of it... ...Kazuma-sama and Naruhodo-san were always turning evidence over and over in their hands. Yes, I need to 'Examine' things in greater detail with [A / X / space]...</thought></line>
+<line speaker="Ryutaro">(Come to think of it... ...Kazuma-sama and Naruhodo-san were always turning evidence over and over in their hands. Yes, I need to 'Examine' things in greater detail with [A / X / space]...)</line>
 <line speaker="Mikotoba">Ah...by the look in your eyes, I see it's coming back to you. Go through the Court Record again and have a thorough look at everything. You may just find a clue.</line>
 <line speaker="Ryutaro">Yes! I'll do it straight away!</line>
 <line speaker="Ryutaro">'Raucous England Returnees Tell All'... This is the interview with you and Soseki-san, is it, Father? It looks as though it was quite an exchange.</line>
 <line speaker="Mikotoba">Yes, he became a little over-animated when he was talking about his time in England. The photographer managed to capture the moment his hand karate-chopped me on the neck.</line>
 <line speaker="Ryutaro">I do hope you weren't hurt.</line>
-<line speaker="Ryutaro"><thought>This is the newspaper from Soseki-san. There seems to be an important article on the back page as well...</thought> 'Exclusive! Deadly Poison Stolen from Yumei Medical Research Laboratory!' From Yumei's Medical Research... Father, isn't that your lab?</line>
+<line speaker="Ryutaro">(This is the newspaper from Soseki-san. There seems to be an important article on the back page as well...) 'Exclusive! Deadly Poison Stolen from Yumei Medical Research Laboratory!' From Yumei's Medical Research... Father, isn't that your lab?</line>
 <line speaker="Mikotoba">What the...? Let me see that! The, the poison's been stolen?!</line>
 <line speaker="Ryutaro">It's this morning's paper that Soseki-san gave us. Are you saying...you didn't know?</line>
 <line speaker="Mikotoba">...As embarrassing as that is for the head of the laboratory, I didn't. I've not heard any such thing. Where on earth could the reporter have gleaned his information?</line>
@@ -632,12 +632,12 @@
 <line speaker="Mikotoba">Yes, you fill it by drawing ink from a bottle up through the nib. .........</line>
 <line speaker="Ryutaro">Is something wrong, Father?</line>
 <line speaker="Mikotoba">Just that there doesn't actually appear to be any ink in there, that's all.</line>
-<line speaker="Ryutaro">Oh yes, you're right. It's pretty much empty. <thought>Well, it could be on the verge of running out, I suppose...</thought></line>
+<line speaker="Ryutaro">Oh yes, you're right. It's pretty much empty. (Well, it could be on the verge of running out, I suppose...)</line>
 <line speaker="Ryutaro">This must be the little reservoir that holds the ink.</line>
 <line speaker="Mikotoba">Yes, you fill it by drawing ink from a bottle up through the nib. .........</line>
 <line speaker="Ryutaro">Is something wrong, Father?</line>
 <line speaker="Mikotoba">Just that there doesn't actually appear to be any ink in there, that's all.</line>
-<line speaker="Ryutaro">Oh yes, you're right. It's pretty much empty. <thought>Well, it could be on the verge of running out, I suppose...</thought></line>
+<line speaker="Ryutaro">Oh yes, you're right. It's pretty much empty. (Well, it could be on the verge of running out, I suppose...)</line>
 <line speaker="Ryutaro">There's some sort of emblem here, look. But...it isn't a Yumei University one!</line>
 <line speaker="Mikotoba">It must belong to some other organisation, I suppose. A business of some kind... But that would seem to imply that the pen doesn't in fact belong to Rei.</line>
 <line speaker="Ryutaro">Well, we know for certain that this emblem isn't that of Yumei University.</line>
@@ -652,14 +652,14 @@
 <line speaker="Hosonaga">What?!</line>
 <line speaker="Auchi">Hah! The yokel not only has a poor grasp of the law, but is also a poor loser! Tell us, then! What 'possibility' do you think you've identified?</line>
 <line speaker="Ryutaro">It's here...in this newspaper article. An article about a deadly poison having been stolen from a laboratory at the Imperial Yumei Uni-</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">The victim perished from a stab wound. Poison has no relevance in this case!</line>
 <line speaker="Ryutaro">But...</line>
 <line speaker="Judge">Prosecutor Auchi. You will let the defence speak.</line>
 <line speaker="Auchi">But, but a newspaper article! The court cannot rely on the kind of hearsay those wretched publications carry.</line>
 <line speaker="Judge">Counsel for the Defence... ...I am going to need some tangible basis for your claim. You will indicate to the court precisely what part of the newspaper article mentioned affirms your assertion.</line>
 <line speaker="Auchi">Your Excellency!</line>
-<line speaker="Ryutaro">Yes, of course. ...Thank you! <thought>Rei would never have done something to further endanger Miss Brett's life without just cause.</thought> The reason why the defendant pulled the knife from the victim's body is explained in the article where it says...</line>
+<line speaker="Ryutaro">Yes, of course. ...Thank you! (Rei would never have done something to further endanger Miss Brett's life without just cause.) The reason why the defendant pulled the knife from the victim's body is explained in the article where it says...</line>
 <line speaker="Ryutaro">The poison was apparently stolen from a medical research laboratory at Yumei University.</line>
 <line speaker="Judge">Yes, it would seem so. Calling the department's security practices into question.</line>
 <line speaker="Auchi">The very department of the professor standing so nonchalantly opposite me, I believe.</line>
@@ -668,34 +668,34 @@
 <line speaker="Mikotoba">Was there some reason you felt it necessary to highlight the fact that the theft occurred in my department?</line>
 <line speaker="Ryutaro">......... How can I explain it...? It was the first detail I cast my eye over...I suppose...</line>
 <line speaker="Mikotoba">I suggest you read the article again. Carefully!</line>
-<line speaker="Ryutaro">I'm so sorry! <thought>Oh dear. Father's fuming...</thought></line>
+<line speaker="Ryutaro">I'm so sorry! (Oh dear. Father's fuming...)</line>
 <line speaker="Ryutaro">According to the article, the development of the poison was requested by the military.</line>
 <line speaker="Judge">Hmmm... Yes, a troubling revelation indeed.</line>
 <line speaker="Ryutaro">Oh, it's very worrying...</line>
 <line speaker="Auchi">And yet, even more worrying... ...is how this yokel is trying to manipulate the court with nothing more than rumours!</line>
-<line speaker="Ryutaro">AAAAAAGH! <thought>But I feel sure Rei had a good reason for her actions. And I feel sure the explanation is somewhere in this newspaper article!</thought></line>
+<line speaker="Ryutaro">AAAAAAGH! (But I feel sure Rei had a good reason for her actions. And I feel sure the explanation is somewhere in this newspaper article!)</line>
 <line speaker="Mikotoba">Try reading the article again.</line>
 <line speaker="Ryutaro">Yes!</line>
 <line speaker="Ryutaro">The article reveals the following property about the poison in question: When the toxin enters the body on a knife laced with the poison, it's rapidly absorbed and causes death in minutes.</line>
 <line speaker="Hosonaga">Are, are you suggesting...?</line>
 <line speaker="Ryutaro">If the knife used to attack Miss Brett was laced with this very poison... ...it would explain why the defendant, Membami-san, would have withdrawn the blade as soon as possible. ...Yes, the truth is... ...it was an attempt to stop the poison from entering the victim's body!</line>
 <line speaker="Hosonaga">WHAT?!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This is complete and utter nonsense!</line>
 <line speaker="Ryutaro">Not at all! The defendant withdrew the knife blade from the victim's body not to accelerate the woman's demise... ...but to save her life! And the prosecution cannot deny the possibility!</line>
 <line speaker="Auchi">Have you not read the post-mortem report? The cause of death was haemorrhage! The word 'poison' appears nowhere in the document!</line>
 <line speaker="Ryutaro">Well, well that's... That's because by acting quickly to remove the blade, the defendant prevented the poison from taking hol-</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Oh please! This is clearly desperation! The weasel's last breaking of wind! Poison has nothing whatsoever to do with this case, as I believe the defence is well aware! We have no proof that the information in this wretched newspaper article is at all reliable anyway.</line>
 <line speaker="Hosonaga">In that situation, what the student should have done is wait for medical assistance to arrive. But instead, you claim she suspected poisoning and took the potentially lethal decision to remove the blade. She must have had a strong reason for her suspicions then, or the argument makes no sense.</line>
 <line speaker="Auchi">Exactly! Well put, Inspector! On what grounds did she do it, hm, yokel?</line>
-<line speaker="Ryutaro"><thought>Why DID Rei suspect the stolen poison was involved...?</thought> If you want grounds... I'll give you grounds.</line>
+<line speaker="Ryutaro">(Why DID Rei suspect the stolen poison was involved...?) If you want grounds... I'll give you grounds.</line>
 <line speaker="Hosonaga">What?</line>
 <line speaker="Auchi">You...you can't possibly...</line>
 <line speaker="Judge">From your expression, Counsel, it would appear those are not empty words.</line>
 <line speaker="Ryutaro">.........</line>
 <line speaker="Judge">But naturally, as you stand in this courtroom as a lawyer, you must be aware... ...that words alone, empty or not, are of no value in our modern justice system. The court demands evidence.</line>
-<line speaker="Ryutaro">Yes, Your Excellency. <thought>I'm well aware of that. I've seen it many times...from my place at his side in the Old Bailey.</thought></line>
+<line speaker="Ryutaro">Yes, Your Excellency. (I'm well aware of that. I've seen it many times...from my place at his side in the Old Bailey.)</line>
 <line speaker="Judge">In that case, Counsel, you will present the proof to the court now. What evidence demonstrates a clear link between this case and the poison in the newspaper article?</line>
 <line speaker="Ryutaro">Leads to:</line>
 <line speaker="Ryutaro">Judge:</line>
@@ -734,7 +734,7 @@
 <line speaker="Ryutaro">Father...</line>
 <line speaker="Auchi">Tsk! A pitiful situation for a university professor. You should have more control over your students... rather than allowing them off on killing sprees!</line>
 <line speaker="Ryutaro">That's, that's totally unfounded-</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Rei">None of this is Professor Mikotoba's fault! It's all... It's all MY fault!</line>
 <line speaker="Ryutaro">Rei...</line>
 <line speaker="Judge">Membami-san! You stand accused here! Outbursts like this will not be tolerated!</line>
@@ -761,15 +761,15 @@
 <line speaker="Auchi">.........</line>
 <line speaker="Judge">......... Your attempt to hide the truth of what happened is not something that can be overlooked. However, I have duly noted the courage with which you confessed in the end.</line>
 <line speaker="Rei">...Thank you, Your Excellency!</line>
-<line speaker="Ryutaro"><thought>It's barely perceptible, but I do think... ...the balance has shifted a little here in this courtroom now.</thought></line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro">(It's barely perceptible, but I do think... ...the balance has shifted a little here in this courtroom now.)</line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Your Excellency, do not be deceived! The victim just collapsed before your eyes, you say? Well, Membami-san, if that is the case, perhaps you could explain how Miss Brett came to be stabbed?</line>
 <line speaker="Rei">Well, um...</line>
 <line speaker="Auchi">You have no answer because the simple truth...is that YOU stabbed the victim motivated by revenge!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">But you have no conclusive evidence to prove that assertion, do you?</line>
 <line speaker="Auchi">......... Oh, I have evidence. And it is very much conclusive!</line>
-<line speaker="Ryutaro">...! <thought>What's the prosecution counsel up to...? It was brief, but he hesitated for a moment there, I'm almost sure of it...</thought></line>
+<line speaker="Ryutaro">...! (What's the prosecution counsel up to...? It was brief, but he hesitated for a moment there, I'm almost sure of it...)</line>
 <line speaker="Judge">You will produce the aforementioned evidence at once, Prosecutor Auchi.</line>
 <line speaker="Auchi">......... Perhaps some praise is due, young yokel student.</line>
 <line speaker="Ryutaro">What?</line>
@@ -779,16 +779,16 @@
 <line speaker="Ryutaro">I, I don't believe it... AAAAAAAAAAAAAH!!!</line>
 <line speaker="Judge">Order! Order! Order! Counsel for the Defence, was it you who was responsible for that shrill scream that just pierced my courtroom?</line>
 <line speaker="Auchi">Perhaps his voice has yet to break? These yokels are slow of mind and slow to mature.</line>
-<line speaker="Ryutaro"><thought>I'll show you who's slow to mature...</thought></line>
+<line speaker="Ryutaro">(I'll show you who's slow to mature...)</line>
 <line speaker="Mikotoba">Careful now. Susato is starting to show her face here.</line>
 <line speaker="Judge">It is often said that a picture is worth a thousand words. And here we have ample proof. The court will accept this extremely cogent photographic print as evidence.</line>
-<line speaker="Ryutaro"><thought>I can't believe he's had a photograph like that up his sleeve the entire time. It's such a stark image, I'm genuinely lost for words...</thought></line>
+<line speaker="Ryutaro">(I can't believe he's had a photograph like that up his sleeve the entire time. It's such a stark image, I'm genuinely lost for words...)</line>
 <line speaker="Rei">Wait a minute! I, I don't understand. How did you...? I mean, who took that photograph?!</line>
-<line speaker="Ryutaro">...! <thought>Rei...</thought></line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro">...! (Rei...)</line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">That's of no importance here. Stop trying to divert attention!</line>
 <line speaker="Rei">Oh...</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">That's an absurd thing to say! It's crucially important! Whoever took this photographic print was a witness to Miss Brett's death! The court must be allowed to hear this person's testimony!</line>
 <line speaker="Auchi">Argh!</line>
 <line speaker="Judge">I will uphold the defence's demand. The prosecution will reveal the identity of the person responsible for taking this photograph at once!</line>
@@ -804,15 +804,15 @@
 <line speaker="Judge">Indeed. Without knowledge of who produced this print, we have no means of verifying the claim. And the scene it captures is without doubt the most compelling evidence presented to the court. If the defence is unable to shed any further light on the matter, I believe the conclusion is clear.</line>
 <line speaker="Ryutaro">Oh no!</line>
 <line speaker="Mikotoba">Susato... This is the time for you to fight. If what you've established so far is true, then there can be no doubt... ...this photograph shows the moment that Rei withdrew the blade from the victim.</line>
-<line speaker="Ryutaro">...! <thought>Yes, we just need to prove that somehow...</thought></line>
+<line speaker="Ryutaro">...! (Yes, we just need to prove that somehow...)</line>
 <line speaker="Auchi">Tsh...huh...huh... You'll have plenty of time to rue your defeat on the slow train back to the provinces. And to rue the day you came up against Taketsuchi Auchi in a court of law!</line>
-<line speaker="Ryutaro"><thought>If I can't determine who took this photograph, then the trial is going to come to an end. There must be a clue somewhere. There must be some way of working out who took it!</thought></line>
+<line speaker="Ryutaro">(If I can't determine who took this photograph, then the trial is going to come to an end. There must be a clue somewhere. There must be some way of working out who took it!)</line>
 <line speaker="Judge">Well, Counsel?</line>
 <line speaker="Ryutaro">......... Your Excellency... The burning question is who took that photograph. And the truth is...</line>
-<line speaker="Ryutaro">......... <thought>No... If I give up now... ...I'll never be able to look Rei in the eye again!</thought></line>
+<line speaker="Ryutaro">......... (No... If I give up now... ...I'll never be able to look Rei in the eye again!)</line>
 <line speaker="Mikotoba">Susato, you need to steel yourself and summon your best argument.</line>
 <line speaker="Ryutaro">I'll do my best!</line>
-<line speaker="Ryutaro"><thought>This isn't about whether I can or can't come up with the answer now... I simply have to!</thought> The identity of the person who took this dramatic photographic print... ...is, I assure you...something the defence can and will reveal!</line>
+<line speaker="Ryutaro">(This isn't about whether I can or can't come up with the answer now... I simply have to!) The identity of the person who took this dramatic photographic print... ...is, I assure you...something the defence can and will reveal!</line>
 <line speaker="Auchi">Wha...? No... You can't possibly! But as you so boldly claim that you can...please, do enlighten us!</line>
 <line speaker="Ryutaro">Unfortunately, I'm unable to present a name.</line>
 <line speaker="Auchi">How utterly underwhelming. Did you really believe you could-</line>
@@ -835,7 +835,7 @@
 <line speaker="Ryutaro">Now...if you look closely at this photograph...</line>
 <line speaker="Judge">......... ...Good gracious!</line>
 <line speaker="Ryutaro">Yes, exactly the same pattern of lines is present on this photograph, too.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Well... Well... That, that tells us nothing! H-Hah! Yes, it's a shadow of some kind, definitely! From the branches of a tree!</line>
 <line speaker="Ryutaro">There wouldn't be any trees growing inside a hut at the beach, Counsel.</line>
 <line speaker="Auchi">Nnnf!</line>
@@ -850,20 +850,20 @@
 <line speaker="Auchi">Because there is no such quirk!</line>
 <line speaker="Mikotoba">It's time to consider another, more credible option, I think.</line>
 <line speaker="Ryutaro">Clearly, the branches of a tree have caused this pattern!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">An argument I put forward myself only moments ago, to much ridicule!</line>
 <line speaker="Judge">Indeed. ...There was considerable ridicule involved.</line>
 <line speaker="Ryutaro">Well... It's hard to think of another explanation.</line>
 <line speaker="Auchi">Well then...'hard' luck!</line>
 <line speaker="Mikotoba">You pointed out yourself that no trees would be growing inside a beach hut.</line>
-<line speaker="Ryutaro">Oh dear... Sorry... <thought>What was I thinking?</thought></line>
+<line speaker="Ryutaro">Oh dear... Sorry... (What was I thinking?)</line>
 <line speaker="Mikotoba">It's time to consider another, more credible option, I think.</line>
 <line speaker="Ryutaro">Obviously, it must be due to a problem with the camera used to take the photographs.</line>
 <line speaker="Auchi">With, with the photographic device...?</line>
 <line speaker="Mikotoba">Yes, we can confidently say that the camera's lens must be scratched. And that the scratched lens causes unwanted lines to appear on every print taken with the device.</line>
 <line speaker="Ryutaro">In short... The two photographs under consideration here... ...were taken with the same camera!</line>
 <line speaker="Auchi">Hnnngh... Hnnnnnngh... B-But... ...there must be hundreds of such camera devices here in the capital! It would be utterly impossible to identify the owner of this particular one!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">I think you're forgetting, Prosecutor Auchi... ...that one of the photographs featured in a newspaper article.</line>
 <line speaker="Auchi">A newspaper... Ah!</line>
 <line speaker="Ryutaro">That's right. The author of that article is the mystery witness to this crime!</line>
@@ -873,9 +873,9 @@
 <line speaker="Soseki">It's Menimemo, I tell you! MENIMEMO!</line>
 <line speaker="Ryutaro">Um...Soseki-san...what was that? Did you say 'Menimemo'?</line>
 <line speaker="Soseki">...Ever since I returned to Japan... ...a reporter from the Shoyu News has been hounding me, following my every move! A reporter by the name of Raiten Menimemo. Yes, hounding me from dawn till dusk!</line>
-<line speaker="Ryutaro">Ah! <thought>Now that he mentions it...</thought></line>
+<line speaker="Ryutaro">Ah! (Now that he mentions it...)</line>
 <line speaker="Soseki">They secretly spy! Snap shots! Scribble stories! And scupper my privacy!</line>
-<line speaker="Ryutaro"><thought>Could that same reporter be...?</thought></line>
+<line speaker="Ryutaro">(Could that same reporter be...?)</line>
 <line speaker="Soseki">A camera to the left of him! A notebook to the right! There I am, stuck in the middle with... Raiten Menimemo!</line>
 <line speaker="Judge">So you're saying that this picture was taken by-</line>
 <line speaker="Soseki">By MENIMEMO! YES! ...My Lord, Your Excellency, Esquire!</line>
@@ -904,7 +904,7 @@
 <line speaker="Rei">Yes?</line>
 <line speaker="Susato">Can you find it in your heart to forgive me?</line>
 <line speaker="Rei">......... Oh, Susato... ...you know you'll always be a gallant, dashing lawyer in my eyes now!</line>
-<line speaker="Susato"><thought>Oh, Rei...</thought></line>
+<line speaker="Susato">(Oh, Rei...)</line>
 <line speaker="Rei">......... I was so scared, you know, when it happened. I didn't know what was going on. The Englishwoman was sitting at the back of the hut, listening to what I was saying.</line>
 <line speaker="Rei">And then a moment later... ...she suddenly got to her feet... ...before collapsing on the floor in front of me...with a knife in her back.</line>
 <line speaker="Rei">It all happened right before my eyes.</line>
@@ -933,7 +933,7 @@
 <line speaker="Mikotoba">It put me in a very awkward position, to be frank. But Soseki-san's curiosity had been piqued, so I had little choice but to give him a cursory introduction.</line>
 <line speaker="Susato">So then...Soseki-san knew about the poison...</line>
 <line speaker="Mikotoba">Yes. And it's highly likely... that the reporter who was writing up the story about us would have caught a glimpse of the toxin, too.</line>
-<line speaker="Susato"><thought>This..Menimemo-san...</thought> By the way, did that reporter join you all when you went to the beach?</line>
+<line speaker="Susato">(This..Menimemo-san...) By the way, did that reporter join you all when you went to the beach?</line>
 <line speaker="Rei">Oh... No, I don't remember the reporter being there...</line>
 <line speaker="Mikotoba">Indeed, he shouldn't have been. I very much doubt anyone would have wanted him there.</line>
 <line speaker="Susato">Oh?</line>
@@ -944,11 +944,11 @@
 <line speaker="Susato">.........</line>
 <line speaker="Bailiff">Counsel! We've just heard that the new witness is now ready to testify. The trial is about to resume. Please proceed into the courtroom at once!</line>
 <line speaker="Mikotoba">It's time to steel ourselves once again, then... ...Defence Attorney Ryutaro Naruhodo.</line>
-<line speaker="Susato">Yes! <thought>Rei has put her faith in me now and told me everything. So I can't let her down. I have to prove that what she's telling the court is true. I have to prove what really happened that day!</thought></line>
+<line speaker="Susato">Yes! (Rei has put her faith in me now and told me everything. So I can't let her down. I have to prove that what she's telling the court is true. I have to prove what really happened that day!)</line>
 <line speaker="Judge">I hereby call this court to order, as we reconvene to continue the trial of Rei Membami. Prosecutor Auchi, have you summoned the new witness?</line>
 <line speaker="Auchi">......... Before I address that question, Your Excellency... ...I have some very important news to share!</line>
 <line speaker="Judge">Oh?</line>
-<line speaker="Ryutaro"><thought>What news? And why does he look so happy about it?</thought></line>
+<line speaker="Ryutaro">(What news? And why does he look so happy about it?)</line>
 <line speaker="Auchi">During the recess, with the collaboration of Professor Mikotoba's laboratory at Yumei University... ...the police re-examined the knife that was used to end Miss Jezaille Brett's life.</line>
 <line speaker="Judge">Excellent. I admire your rapid handling of the matter.</line>
 <line speaker="Auchi">Oh, too kind, Your Excellency, too kind! I was merely carrying out your instructions, of course.</line>
@@ -966,7 +966,7 @@
 <line speaker="Ryutaro">AAAAAAAAAGH!</line>
 <line speaker="Auchi">Now, the prosecution is ready to call the new witness.</line>
 <line speaker="Judge">Ah, the newspaper reporter who managed to capture a photograph of the crucial moment. Good. Very well. Officer, bring in the witness!</line>
-<line speaker="Ryutaro"><thought>No trace of poison on the knife... But if that's really the case... ...how could the toxin have entered the victim's body?</thought></line>
+<line speaker="Ryutaro">(No trace of poison on the knife... But if that's really the case... ...how could the toxin have entered the victim's body?)</line>
 <line speaker="Auchi">Witness, please state your name and occupation for the court.</line>
 <line speaker="Menimemo">Raiten Menimemo of the Shoyu News. I'm what people like to call a journo!</line>
 <line speaker="Ryutaro">What's a 'journo', Father? Do you know?</line>
@@ -1019,14 +1019,14 @@
 <line speaker="Mikotoba">Nevertheless, it cannot be denied... ...that this testimony begs one very large question.</line>
 <line speaker="Auchi">What question?</line>
 <line speaker="Mikotoba">Exclusive news...a startling photograph... All the makings of an exceptional story for the reporter. Why then, was the story never published?</line>
-<line speaker="Ryutaro">Oh! <thought>That's right!</thought></line>
+<line speaker="Ryutaro">Oh! (That's right!)</line>
 <line speaker="Menimemo">.........</line>
 <line speaker="Mikotoba">It seems clear to me that there are circumstances at play here that are yet to be understood.</line>
 <line speaker="Auchi">Hah! More pathetic excuses!</line>
 <line speaker="Judge">Very well then, Counsel. Proceed with your cross-examination.</line>
-<line speaker="Ryutaro">Yes, Your Excellency! <thought>There's more to this reporter than meets the eye. He's keeping something about this case very close to his chest...</thought></line>
+<line speaker="Ryutaro">Yes, Your Excellency! (There's more to this reporter than meets the eye. He's keeping something about this case very close to his chest...)</line>
 <line speaker="Menimemo">The beach hut was made of shoddy old reed screens, so there were plenty of gaps I could see inside through.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">What made you want to see what was happening inside the beach hut in the first place?</line>
 <line speaker="Menimemo">Call it journo instinct. Can you think of a better reason?</line>
 <line speaker="Ryutaro">Oh, I don't know. Perhaps because as well as being a proven criminal, the person inside was a young woman...</line>
@@ -1035,26 +1035,26 @@
 <line speaker="Menimemo">Nope, you've got it all wrong, little student boy.</line>
 <line speaker="Ryutaro">Sorry?</line>
 <line speaker="Menimemo">To my mind, all that was inside that hut was a scoop. Nothing more, nothing less. Scoops know no gender! Man or woman, it's all news! That's not even Menimemoism; it's basic journalism!</line>
-<line speaker="Ryutaro"><thought>If only the courtroom was as indiscriminate...</thought></line>
+<line speaker="Ryutaro">(If only the courtroom was as indiscriminate...)</line>
 <line speaker="Menimemo">Right! So, if that's all buttoned up, can we move on?</line>
 <line speaker="Judge">Tell the court then, witness, what sight befell your eyes when you looked inside the hut?</line>
 <line speaker="Menimemo">A sight that vindicated my journo instinct, that's what! When I pulled back the reeds, I could see it all as clear as day.</line>
 <line speaker="Menimemo">The Englishwoman was sitting on a stool when the student girl came in and started arguing with her.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">So you actually saw Membami-san entering the hut?</line>
 <line speaker="Menimemo">Yup. And she was raging! Raging like my journo spirit!</line>
 <line speaker="Ryutaro">And the argument you mentioned... What was that about exactly?</line>
 <line speaker="Menimemo">'You stole it!' 'I didn't steal it!' That kind of thing.</line>
-<line speaker="Ryutaro"><thought>Talking about the poison, I suppose...</thought></line>
+<line speaker="Ryutaro">(Talking about the poison, I suppose...)</line>
 <line speaker="Menimemo">The student girl walked right up to the Englishwoman and really started laying into her. I mean, if she'd laid into her any more, there would have been eggs!</line>
 <line speaker="Mikotoba">The man should have been an author. His descriptive talents are wasted on journalism.</line>
 <line speaker="Menimemo">But the student's rantings fell on deaf ears. Like a Japanese person listening to English for the first time.</line>
-<line speaker="Ryutaro"><thought>He really ought to work on his similes first though, to be honest...</thought></line>
+<line speaker="Ryutaro">(He really ought to work on his similes first though, to be honest...)</line>
 <line speaker="Menimemo">Anyway, the point is, that woman in the dock was mightily angry.</line>
 <line speaker="Auchi">And her temper finally got the better of her, it seems. Dear me.</line>
 <line speaker="Menimemo">Which was the climactic moment that I caught on film!</line>
 <line speaker="Menimemo">Seconds later, the girl pulled out a knife, throwing the Englishwoman to the floor as she stabbed her in the back!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Do you swear before this court that you actually saw the precise moment when the stabbing took place?</line>
 <line speaker="Menimemo">Hah! The precise moment? I didn't see just that... I saw the whole hellish scene play out from start to finish!</line>
 <line speaker="Auchi">I have here a simple plan of the beach hut. Perhaps you could use it to explain to the court exactly what you witnessed.</line>
@@ -1070,14 +1070,14 @@
 <line speaker="Menimemo">...Journos have to be observers. We can't get involved. That's our raison d'être.</line>
 <line speaker="Ryutaro">So you didn't converse with Miss Brett at all?</line>
 <line speaker="Menimemo">Obviously not. An observer always remains on the outside looking in.</line>
-<line speaker="Ryutaro"><thought>...And that's something to be proud of, is it?</thought></line>
+<line speaker="Ryutaro">(...And that's something to be proud of, is it?)</line>
 <line speaker="Mikotoba">Your Excellency, if I may...</line>
 <line speaker="Judge">Yes, Professor?</line>
 <line speaker="Mikotoba">I think the witness's last, expertly phrased statement... ...should perhaps be added to his formal testimony.</line>
-<line speaker="Ryutaro"><thought>Father, what are you...?</thought></line>
+<line speaker="Ryutaro">(Father, what are you...?)</line>
 <line speaker="Judge">I will grant the defence's request. Menimemo-san, you will supplement your formal testimony with the aforementioned statement.</line>
 <line speaker="Menimemo">Well, nihilism is the foundation of Menimemoism. But I'll gladly prove that my words aren't meaningless.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Do you swear before this court that you actually saw the precise moment when the stabbing took place?</line>
 <line speaker="Menimemo">Hah! The precise moment? I didn't see just that... I saw the whole hellish scene play out from start to finish!</line>
 <line speaker="Auchi">I have here a simple plan of the beach hut. Perhaps you could use it to explain to the court exactly what you witnessed.</line>
@@ -1090,7 +1090,7 @@
 <line speaker="Judge">Hmph... What you describe is a grim crime indeed.</line>
 <line speaker="Menimemo">Never sugar-coat the truth. That's what Menimemoism says.</line>
 <line speaker="Menimemo">My smouldering journo spirit burst into flames! Quick as a flash, I whipped out my camera ready to click!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">The court is fully aware of your desire to capture the incident on film, I'm sure. But why then, did you choose to post the photograph anonymously to the police?</line>
 <line speaker="Menimemo">......... I'm afraid...I don't understand a word that's coming out of your mouth.</line>
 <line speaker="Ryutaro">I'm asking why, as a journalist, you decided not to make a story out of the incident?</line>
@@ -1098,20 +1098,20 @@
 <line speaker="Ryutaro">It's not something to boast about!</line>
 <line speaker="Auchi">No doubt your burning desire to see the truth exposed and justice done was what motivated you.</line>
 <line speaker="Menimemo">That's it! That's brilliant! My burning desire to see something or other exposed...</line>
-<line speaker="Ryutaro"><thought>There has to be a good reason why he didn't think to write an article about what he saw, though...</thought></line>
+<line speaker="Ryutaro">(There has to be a good reason why he didn't think to write an article about what he saw, though...)</line>
 <line speaker="Judge">By your own admission, you were outside the hut. How then, did you manage to take the photograph?</line>
 <line speaker="Menimemo">Ah yes, that! I'm glad you asked!</line>
 <line speaker="Menimemo">I pulled apart the rough weave of one of the screens and poked the lens through for the perfect shot.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">But the two women inside didn't notice?</line>
 <line speaker="Menimemo">Hah! Obviously not! If they had, where would I be right now? In jail, that's where!</line>
 <line speaker="Ryutaro">...Which you'd think would make you reflect on what you were doing.</line>
 <line speaker="Menimemo">No, a journo's job is to collect little snippets of life as unobtrusively as possible. Leave nothing but footprints, take nothing but photos. ...Yes! That's spot on!</line>
-<line speaker="Ryutaro"><thought>...Did he just make that up?</thought></line>
+<line speaker="Ryutaro">(...Did he just make that up?)</line>
 <line speaker="Auchi">The point is, the witness risked life and limb to obtain this photograph. And this photograph reveals the whole truth. ...There is nothing more to be said!</line>
 <line speaker="Menimemo">.........</line>
 <line speaker="Menimemo">I never once set foot in the hut, nor spoke with the Englishwoman. I was there only as an observer.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Really, you didn't set foot inside the hut at all? Are you quite sure about that?</line>
 <line speaker="Menimemo">I think you may have the wrong impression of me. We're talking about a murder scene here. My nerves were stretched to breaking point already.</line>
 <line speaker="Ryutaro">Oh, I see. You were scared? ...Maybe I did have the wrong impression of you, yes.</line>
@@ -1120,12 +1120,12 @@
 <line speaker="Menimemo">Menimemoism and humanism don't always agree. And most of the time in those instances...Menimemoism comes out on top.</line>
 <line speaker="Ryutaro">Haah...</line>
 <line speaker="Menimemo">As a sculptor of stories, sometimes I have to be cruel for my art. ...Yes! That's spot on!</line>
-<line speaker="Ryutaro"><thought>...Surely he's making all this up.</thought></line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro">(...Surely he's making all this up.)</line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mikotoba">He claims to have spied the whole affair from start to finish. If true, his testimony is devastating.</line>
 <line speaker="Ryutaro">But...it does seem as though he's holding something back, doesn't it?</line>
 <line speaker="Mikotoba">If that's how you feel, I suggest that you trust your instincts and press him on everything he's said. As you've no doubt seen done many times before in your role as judicial assistant.</line>
-<line speaker="Ryutaro">Yes, I have! <thought>I've seen witnesses like this pressed often. I know exactly what to do!</thought></line>
+<line speaker="Ryutaro">Yes, I have! (I've seen witnesses like this pressed often. I know exactly what to do!)</line>
 <line speaker="Ryutaro">Menimemo-san, until now, I've had a firm belief... ...that newspapers are in the business of uncovering and publishing the truth.</line>
 <line speaker="Menimemo">You're spot on there! The press doesn't lie! Which is why I'm proud to wear the emblem of the Shoyu News on my arm! In a way...that's more Menimemoism.</line>
 <line speaker="Ryutaro">Sadly, though... ...it seems that the journalists who write for those papers... don't always share the same passion for the truth.</line>
@@ -1144,7 +1144,7 @@
 <line speaker="Mikotoba">It would appear that you must have rather carelessly left it somewhere recently. Your favourite fountain pen, that is.</line>
 <line speaker="Menimemo">Horsey horse dung!</line>
 <line speaker="Ryutaro">Menimemo-san! Is it not the case that before she died... ...you met with Jezaille Brett in that beach hut?</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Why should we listen to this absurd nonsense? It's nothing but another excuse!</line>
 <line speaker="Menimemo">Exactly! Shoyu News will stand behind me all the way! I deny everything! There must be as many people with the initials 'R. M.' as there are stars in the night sky!</line>
 <line speaker="Ryutaro">The defence has neither the time nor the inclination to count every star in the sky.</line>
@@ -1158,7 +1158,7 @@
 <line speaker="Ryutaro">Sorry?</line>
 <line speaker="Auchi">Go ahead, Counsel, the stars await!</line>
 <line speaker="Judge">I've a mind to tell you not to return to my courtroom until you have counted every one.</line>
-<line speaker="Ryutaro"><thought>Oh dear... I think I must have made a mistake.</thought></line>
+<line speaker="Ryutaro">(Oh dear... I think I must have made a mistake.)</line>
 <line speaker="Mikotoba">You've already furnished the court with the revelation that there's a clue on this pen as to its owner. It's only the smallest additional step to actually point the clue out. ...Concentrate, Susato!</line>
 <line speaker="Ryutaro">Yes...I'm sorry! Let me try again!</line>
 <line speaker="Ryutaro">As well as the initials, there is also an emblem on this fountain pen! An emblem that you will of course recognise... Menimemo-san.</line>
@@ -1184,7 +1184,7 @@
 <line speaker="Ryutaro">What?!</line>
 <line speaker="Menimemo">Menimemoism states that 'one man's secret is every other man's front-page story!'</line>
 <line speaker="Judge">Very well. I will grant the witness's request in this instance. Officer! Summon the earlier witness back to the stand!</line>
-<line speaker="Ryutaro"><thought>Soseki-san...hiding something...?</thought></line>
+<line speaker="Ryutaro">(Soseki-san...hiding something...?)</line>
 <line speaker="Menimemo">I asked the Englishwoman for an interview, but she declined. So I left the hut without making a fuss.</line>
 <line speaker="Judge">You, you mean to say the victim...</line>
 <line speaker="Auchi">The victim regained consciousness?!</line>
@@ -1195,9 +1195,9 @@
 <line speaker="Auchi">This is preposterous! Why am I only hearing about this now? Why didn't you mention this before, you...you yokel hack?</line>
 <line speaker="Soseki">It, it, it... IT WASN'T EVEN A CONVERSATION! Yes, I did pose the withering English rose a question. I don't deny it. But she could no longer speak. She was barely conscious, even.</line>
 <line speaker="Judge">Counsel for the Defence, I expect a thorough cross-examination to be conducted here. This court must and will know the truth!</line>
-<line speaker="Ryutaro">Absolutely, Your Excellency! <thought>The reporter is claiming that Miss Brett implicated Rei somehow? What on earth could have happened in that hut?</thought></line>
+<line speaker="Ryutaro">Absolutely, Your Excellency! (The reporter is claiming that Miss Brett implicated Rei somehow? What on earth could have happened in that hut?)</line>
 <line speaker="Menimemo">I asked the Englishwoman for an interview, but she declined. So I left the hut without making a fuss.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">You asked her for an interview, you say?</line>
 <line speaker="Menimemo">Well, of course I did! I wanted to ask her about the incident she was involved in at the end of last year.</line>
 <line speaker="Ryutaro">About the case in which Dr John H. Wilson lost his life?</line>
@@ -1206,10 +1206,10 @@
 <line speaker="Menimemo">Ask every question as if you're asking for a menu in a restaurant, I say. It's the best way. A veteran at the paper taught me that.</line>
 <line speaker="Ryutaro">And how did Miss Brett answer?</line>
 <line speaker="Menimemo">With one simple phrase: 'Mystery is a woman's charm.' ...Whew! That told me! So I waltzed right out of there.</line>
-<line speaker="Ryutaro"><thought>Really? Something about that doesn't quite seem to fit together...</thought></line>
+<line speaker="Ryutaro">(Really? Something about that doesn't quite seem to fit together...)</line>
 <line speaker="Menimemo">Leave every room as if you're waltzing in a dance hall, I say. It's the best way. A veteran at the paper taught me that..</line>
 <line speaker="Menimemo">Then, watching secretly from outside, I saw the woman being stabbed and the other witnesses come running.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">That was very persistent of you, considering that Miss Brett had just turned you away.</line>
 <line speaker="Menimemo">Persistence wins the prize! Any Menimemoist will tell you that. Let them think you've left, then just when they lower their guard, that's when you swoop in for the scoop!</line>
 <line speaker="Auchi">And the fruits of your labour are all too apparent in this telling photograph. Though I'm sure the young yokel student would rather not be reminded of this damning evidence.</line>
@@ -1219,16 +1219,16 @@
 <line speaker="Auchi">Please, do go ahead, witness. The court is eager to hear what you have to say.</line>
 <line speaker="Menimemo">Try to stop me! There's a story to tell here, and I'm going to tell it!</line>
 <line speaker="Menimemo">The detective realised that the victim still had a pulse, so he ran off to fetch help.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">And Soseki-san remained behind in the hut?</line>
 <line speaker="Menimemo">That's right, yup. Our author friend here... ...was a blabbering wreck! Shaking all over, from his head to his toes. Moustache twitching! Eyes bulging!</line>
 <line speaker="Soseki">WHAT DO YOU EXPECT?! You, you don't know the t-t-terrifying troubles that taunted me whilst travelling abroad!</line>
-<line speaker="Ryutaro"><thought>Poor Soseki-san. His experiences in London have scarred him deeply.</thought></line>
+<line speaker="Ryutaro">(Poor Soseki-san. His experiences in London have scarred him deeply.)</line>
 <line speaker="Soseki">As the world seemed to close in around me, I quietly recited a prayer to Amida Buddha:</line>
 <line speaker="Judge">No sutras are to resound in my courtroom, please.</line>
 <line speaker="Menimemo">And now...we come to the crucial part! That's when it happened!</line>
 <line speaker="Menimemo">That's when this writer man here asked the woman a very significant question.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">What question? What exactly did he say?</line>
 <line speaker="Menimemo">Well now...you should hear that from the horse's mouth, I think. Don't you, Mr Writer-Man?</line>
 <line speaker="Soseki">AAARGH!</line>
@@ -1247,17 +1247,17 @@
 <line speaker="Judge">When in the stand, you will answer the questions asked of you unambiguously! Now, without evasion or reticence, I demand that you amend your testimony!</line>
 <line speaker="Soseki">......... I WIIIIIIIIILL!</line>
 <line speaker="Soseki">I asked her, 'Who did this to you?' ...But she never replied.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">So you tried to find out who the culprit was!</line>
 <line speaker="Soseki">'He who asks a question is a fool for a minute; he who does not remains a fool forever.' And having been labelled a criminal twice during my time in Great Britain, I was quick to make up my mind... BETTER TO BE A FOOL FOR A MINUTE THAN REMAIN A FOOL IN PRISON FOREVER!</line>
 <line speaker="Auchi">However...you've indicated that the victim failed to respond. Is that correct?</line>
 <line speaker="Soseki">I know why. I know why the Englishwoman said nothing. SHE WAS IGNORING ME! BECAUSE OF MY STOOP AND MOUSTACHE! BECAUSE I'M JAPANESE!</line>
-<line speaker="Ryutaro"><thought>Oh dear... Soseki-san has really developed a dislike for the English, it seems.</thought></line>
+<line speaker="Ryutaro">(Oh dear... Soseki-san has really developed a dislike for the English, it seems.)</line>
 <line speaker="Mikotoba">Having read the report on his time in Great Britain, I can't say I'm surprised at his xenophobia.</line>
 <line speaker="Menimemo">But the Englishwoman didn't ignore you at all. ...Did she, Mr Writer-Man?</line>
 <line speaker="Soseki">Hm? Well, yes, alright...she did respond in a manner of speaking, I suppose.</line>
 <line speaker="Menimemo">But he didn't say anything about that in his testimony! Which is why Menimemoism demands I reveal it now!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Soseki-san...are you trying to hide something?</line>
 <line speaker="Soseki">Don't...DON'T LOOK AT ME LIKE THAT!</line>
 <line speaker="Ryutaro">Soseki-san! You MUST tell the court everything that happened!</line>
@@ -1275,7 +1275,7 @@
 <line speaker="Judge">When in the stand, you will answer the questions asked of you unambiguously! Now, without evasion or reticence, I demand that you amend your testimony!</line>
 <line speaker="Soseki">......... I WIIIIIIIIILL!</line>
 <line speaker="Soseki">She just lifted a trembling finger...and pointed in the direction of the defendant.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Poor Soseki-san has been fidgeting constantly in the stand next to Menimemo-san.</line>
 <line speaker="Mikotoba">Yes, like a naughty child who's waiting for punishment from his parents. It rather reminds me of you when you were younger.</line>
 <line speaker="Ryutaro">I, I was like that?!</line>
@@ -1290,7 +1290,7 @@
 <line speaker="Soseki">Yes, of course! The Englishwoman did point her finger towards the back of the hut, but! ...But I was trembling...and she was trembling...and everything was a blur. And thinking about it, I feel as though perhaps she was pointing in a slightly different direction. Actually, NO! Not SLIGHTLY! In a VERY DIFFERENT DIRECTION to where the student girl was standing! To somewhere at the back of the hut...where nobody was standing at all!</line>
 <line speaker="Ryutaro">You mean that your memory of events, and the direction in which the victim was pointing are both unclear?</line>
 <line speaker="Soseki">Yes! That's it! Unclear! I'm very, very unclear!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Your Excellency! Surely this proves the matter beyond all reasonable doubt! Yes, the woman may barely have been conscious, and yes, perhaps her finger wavered slightly... ...but there can be no doubt that this was an attempt by the victim to confirm the identity of her assailant! ...Why? Because as the court can see...there was no one other than the accused in the direction the victim was pointing! It is now abundantly clear that no one besides the accused could possibly have committed this crime!</line>
 <line speaker="Judge">...I am inclined to agree. And in the absence of any credible argument to the contrary, I believe we can now conclude this trial.</line>
 <line speaker="Ryutaro">No... NOOOOOOOOO!</line>
@@ -1298,25 +1298,25 @@
 <line speaker="Mikotoba">This is a serious blow, Susato. Unless we're able to identify the true culprit, and substantiate our claim with evidence... ...the judge will give his ruling and the trial will be over!</line>
 <line speaker="Ryutaro">But, but that's impossible, Father! We don't even know how the crime was committed yet!</line>
 <line speaker="Mikotoba">Impossible though the task may seem, we have no choice. We must think back over everything we've learnt thus far. Somewhere in all those details, I'm confident we'll find the clue we need.</line>
-<line speaker="Ryutaro"><thought>Rei gave us her account of how events unfolded in the defendants' antechamber before the trial resumed. She told us what happened at the precise moment Miss Brett was killed.</thought></line>
+<line speaker="Ryutaro">(Rei gave us her account of how events unfolded in the defendants' antechamber before the trial resumed. She told us what happened at the precise moment Miss Brett was killed.)</line>
 <line speaker="Rei">The Englishwoman was sitting at the back of the hut, listening to what I was saying. And then a moment later... ...she suddenly got to her feet... ...before collapsing on the floor in front of me...with a knife in her back.</line>
-<line speaker="Ryutaro"><thought>How could Miss Brett have been stabbed in the back in a beach hut that was empty but for herself and Rei? Somewhere amid all the information we've gathered so far, there must be an answer to that question!</thought></line>
+<line speaker="Ryutaro">(How could Miss Brett have been stabbed in the back in a beach hut that was empty but for herself and Rei? Somewhere amid all the information we've gathered so far, there must be an answer to that question!)</line>
 <line speaker="Judge">I take it then, that the defence has nothing further to add.</line>
 <line speaker="Auchi">So, the gallant yokel student's luck finally runs out. I can't say I'm surprised.</line>
 <line speaker="Judge">In that case, I am ready to deliver my final verdict on this matter.</line>
-<line speaker="Ryutaro"><thought>This is a crucial turning point now. If I can't establish what really happened, it's over. Where was the real culprit hiding? And how did he or she stab the victim?</thought></line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
-<line speaker="Ryutaro"><thought>I'm just not in a position to establish what actually happened at this point in time. But if I fail to come up with something...</thought></line>
+<line speaker="Ryutaro">(This is a crucial turning point now. If I can't establish what really happened, it's over. Where was the real culprit hiding? And how did he or she stab the victim?)</line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Ryutaro">(I'm just not in a position to establish what actually happened at this point in time. But if I fail to come up with something...)</line>
 <line speaker="Mikotoba">If we fail to present a credible alternative to the judge, this trial will reach a very unfavourable conclusion. There's no time to hesitate here, Susato!</line>
 <line speaker="Ryutaro">......... I understand. I'll worry about whether or not I can establish an alternative theory after I've established it!</line>
 <line speaker="Mikotoba">......... Whatever you really mean by that...it's worth a shot!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">Your Excellency! I respectfully ask you to postpone your adjudication for the time being.</line>
 <line speaker="Judge">Oh? ...To what end, Counsel?</line>
 <line speaker="Ryutaro">The defence would like to present the court with an alternative theory. An alternative theory that can explain... ...who the victim was actually trying to implicate with her dying gesture!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">An alternative theory? Hah! None exists!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">There was someone else present at the scene...who could have committed this crime!</line>
 <line speaker="Auchi">Whaaat?</line>
 <line speaker="Ryutaro">And the victim, Miss Brett, tried to reveal who it was to those around her at the time... ...by mustering all her remaining strength...and pointing a trembling finger in the killer's direction!</line>
@@ -1331,11 +1331,11 @@
 <line speaker="Judge">...Why?</line>
 <line speaker="Ryutaro">Oh! Well, um...that's rather hard to say, um...</line>
 <line speaker="Judge">Hmph. Clearly this particular theory needs no further consideration, given your wide-eyed look of alarm.</line>
-<line speaker="Ryutaro"><thought>Oh dear... I chose poorly.</thought></line>
+<line speaker="Ryutaro">(Oh dear... I chose poorly.)</line>
 <line speaker="Mikotoba">I suggest you begin by considering where the victim was in the moments leading up to her death.</line>
 <line speaker="Ryutaro">Yes...of course!</line>
 <line speaker="Judge">Perhaps you'd care to identify a more credible location, Counsel?</line>
-<line speaker="Ryutaro"><thought>Naruhodo-san would never give up. And I'm a Naruhodo now...</thought> The true culprit who fatally stabbed Miss Brett...was concealed in this location here!</line>
+<line speaker="Ryutaro">(Naruhodo-san would never give up. And I'm a Naruhodo now...) The true culprit who fatally stabbed Miss Brett...was concealed in this location here!</line>
 <line speaker="Judge">Are you mad, Counsel? You're suggesting that the culprit was outside the hut!</line>
 <line speaker="Menimemo">...!</line>
 <line speaker="Auchi">WHAAAT?!</line>
@@ -1354,11 +1354,11 @@
 <line speaker="Ryutaro">It's...something of a windfall...Your Excellency.</line>
 <line speaker="Auchi">I think the word you were looking for, Counsel, was 'downfall'!</line>
 <line speaker="Mikotoba">If your theory is correct, and the knife was thrust into Miss Brett's back from outside the hut... ...there should be a visible trace somewhere.</line>
-<line speaker="Ryutaro">A trace? Yes...on the hut itself... <thought>Armed with that idea, I must look through the Court Record again.</thought> Your Excellency! The defence would like to present a different piece of evidence!</line>
+<line speaker="Ryutaro">A trace? Yes...on the hut itself... (Armed with that idea, I must look through the Court Record again.) Your Excellency! The defence would like to present a different piece of evidence!</line>
 <line speaker="Judge">...Go ahead.</line>
 <line speaker="Judge">The, the original photographic print of the crime scene?</line>
 <line speaker="Ryutaro">Yes. It's clearly visible in this print: The trace of the fatal thrust that was delivered from outside the beach hut.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">D-Do you take us for fools?! There's no hint of any such thing!</line>
 <line speaker="Ryutaro">I'm not sure that everyone present would agree. Someone, at least, appears to have noticed what it is that I'm referring to.</line>
 <line speaker="Judge">Counsel! Once again, I must call on you to be explicit for the court. Where on this photograph is the trace of the stabbing, which you claim took place from outside the hut?</line>
@@ -1379,9 +1379,9 @@
 <line speaker="Soseki">Ah...</line>
 <line speaker="Ryutaro">And of everyone present at the scene, there is only one person who could have done that. Only one person who was directly outside the hut when Miss Brett was killed. Raiten Menimemo-san! It could only have been you!</line>
 <line speaker="Menimemo">Hnnn...nnngh... NAAAAAAAAAOOOOOOOOO!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This preposterous idea leaves me almost speechless! Just look at the photograph again! The victim lies almost exactly in the centre of the beach hut, does she not? Are we to assume, as part of this farcical scenario, that the assailant was a knife-thrower?</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">No, of course not.</line>
 <line speaker="Auchi">We're not?</line>
 <line speaker="Ryutaro">If you recall the testimony of the defendant about the events just before the victim's death...</line>
@@ -1397,11 +1397,11 @@
 <line speaker="Menimemo">.........</line>
 <line speaker="Auchi">This... This is... ...ABSUUUUUUUUURD!</line>
 <line speaker="Judge">That will do! It would appear that we have a tacit admission of guilt from the witness. Accordingly, this court has successfully established the truth of this matter. Which means that the defendant, Membami-san, is innocent of the crime.</line>
-<line speaker="Ryutaro"><thought>Oh, thank goodness! I finally made him cave.</thought></line>
+<line speaker="Ryutaro">(Oh, thank goodness! I finally made him cave.)</line>
 <line speaker="Mikotoba">I must say...I've never been more proud.</line>
 <line speaker="Auchi">No... This can't be... The Auchi clan can't... What of my growth? My growth of hope! It, it wasn't all an apparition! I can't accept this! I won't!</line>
 <line speaker="Judge">I see no reason for the continuance of this trial. I will therefore move to conclude proceedings by delivering my final verdict and-</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Menimemo">Hah...hah...hah... Well, this is all very convenient. This is how the highest court in our mighty empire delivers justice, is it? Suppressing well-meaning citizens' freedom to speak and branding them as criminals...</line>
 <line speaker="Ryutaro">But... ...we've established that the victim was stabbed from outside the hut, through the reed screen walls!</line>
 <line speaker="Mikotoba">And no one but you was in place at the time to have his hand on the hilt of the blade. ...It's a perfectly logical deduction.</line>
@@ -1420,9 +1420,9 @@
 <line speaker="Ryutaro">Ah!</line>
 <line speaker="Mikotoba">Given that her pupils were clearly constricted...it seems highly likely, yes. If she had been dead already, the poison could not have circulated in her blood.</line>
 <line speaker="Auchi">......... Tsh huh huh... Ah, how refreshing to hear the argument of a metropolitan mind. Precisely! It matters not a jot who stabbed whom in whose back and with whose blade! Because, quite simply...the Englishwoman's life was taken not by the knife...but by the poison!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">But...that can be explained by the poison being on the blade, as I already-</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Ta ha ha ha ha! Forgotten already, have we, yokel? During these very proceedings, the laboratory of the professor at your side assisted in proving... ...that the blade of the weapon used to attack the victim had no trace of poison on it whatsoever!</line>
 <line speaker="Ryutaro">Ugh...</line>
 <line speaker="Menimemo">So let me get this down: the 'facts', as skilfully established by the defence in this trial... ...turn out to be a headline-making red herring! ...Is that about right?</line>
@@ -1431,18 +1431,18 @@
 <line speaker="Mikotoba">There is an undeniably obvious answer to that. The lady most likely imbibed it.</line>
 <line speaker="Ryutaro">You mean she drank it?</line>
 <line speaker="Mikotoba">Have another look at the photograph here. As you can see... ...a bottle of carbonated water and a glass had been knocked onto the sandy floor of the beach hut. The poison could have been slipped into either.</line>
-<line speaker="Ryutaro">...! <thought>So somebody made Miss Brett drink it...</thought></line>
+<line speaker="Ryutaro">...! (So somebody made Miss Brett drink it...)</line>
 <line speaker="Menimemo">Well, what do you know? Look at those dashing eyes! This will make a great front-page shot! Hey! Why the bewitching stare? After all, I'm the last person you should be looking at. It would make no sense at all that I poisoned the woman, would it? I mean...that's been established already!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Established? What are you talking about?</line>
 <line speaker="Menimemo">Hm? Don't tell me you've forgotten? That's a little hard to believe, given that the person who established it... ...was you!</line>
-<line speaker="Ryutaro">Me?! <thought>What on earth does he mean?</thought></line>
+<line speaker="Ryutaro">Me?! (What on earth does he mean?)</line>
 <line speaker="Menimemo">Ooh! Let me capture those wide eyes! This is prime press fodder, this is!</line>
 <line speaker="Judge">It would seem that this trial is not destined to end yet after all. I hereby call upon the witness to give further testimony.</line>
 <line speaker="Menimemo">That's great, that is! Let me get a shot of that magnificent beard, Your Excellency!</line>
 <line speaker="Judge">You claim it to be impossible that you were the one responsible for administering the poison to the victim. You will explain to the court in your testimony the basis upon which you make such a claim!</line>
 <line speaker="Menimemo">I'm a journo and I'm a man... I've never tried to run or hide from anything in my life. And I'm not about to start now! Because that's...Menimemoism!</line>
-<line speaker="Ryutaro"><thought>For a brief moment, I thought I'd illuminated the truth. But it's slipped right back into obscurity again... Just where is this trial going to take us...?</thought></line>
+<line speaker="Ryutaro">(For a brief moment, I thought I'd illuminated the truth. But it's slipped right back into obscurity again... Just where is this trial going to take us...?)</line>
 <line speaker="Menimemo">Oh yes, I stabbed the Englishwoman. And it's that very fact that proves I'm innocent!</line>
 <line speaker="Ryutaro">So...you admit it then? That everything happened as I described... That you are the one who stabbed Miss Brett in the back through the reed screen!</line>
 <line speaker="Menimemo">......... You can blame this miserable country of ours.</line>
@@ -1455,21 +1455,21 @@
 <line speaker="Judge">Hmmm...the argument is sound, certainly. If the witness had administered the poison himself, he need only have waited for it to take effect. Subsequently stabbing the victim in the back would have been entirely nonsensical.</line>
 <line speaker="Auchi">And therefore, this reporter had nothing to do with the poisoning. ...Yes, it's all quite logical.</line>
 <line speaker="Menimemo">That's right, it is! Logical and true. I'm glad you've all seen the light. Justice at last!</line>
-<line speaker="Ryutaro"><thought>This is unbelievable. And after I'd made so much progress in proving his guilt. ...Is he going to get away with it now?</thought> ......... <thought>Think of Kazuma-sama and Naruhodo-san... They never stopped looking for a way forward until the judge's final gavel!</thought></line>
+<line speaker="Ryutaro">(This is unbelievable. And after I'd made so much progress in proving his guilt. ...Is he going to get away with it now?) ......... (Think of Kazuma-sama and Naruhodo-san... They never stopped looking for a way forward until the judge's final gavel!)</line>
 <line speaker="Judge">Very well then, Counsel. Proceed with what I assume to be your final cross-examination in this trial.</line>
 <line speaker="Ryutaro">Yes, Your Excellency!</line>
 <line speaker="Menimemo">Oh yes, I stabbed the Englishwoman. And it's that very fact that proves I'm innocent!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">So...you do admit that you had murderous intentions towards Miss Brett, then?</line>
 <line speaker="Menimemo">Hah! The woman's very existence offended my sense of justice!</line>
-<line speaker="Ryutaro">Your sense of...? <thought>He's claiming some sort of righteous indignation?</thought></line>
+<line speaker="Ryutaro">Your sense of...? (He's claiming some sort of righteous indignation?)</line>
 <line speaker="Menimemo">She was pure evil. A cold-blooded killer who'd committed murder right here on our empire's soil! But did our good-for-nothing government do anything? Not a chance! So I had to step in. Fly the flag of justice! Put things right for the people! Yes, it was my civic duty! That's what drove me to do it.</line>
 <line speaker="Ryutaro">So, in summary...murderous intentions, then.</line>
 <line speaker="Menimemo">...Whatever you want to call it, the point is this: That Englishwoman was a blight! So I had to do what was right! For society.</line>
 <line speaker="Auchi">Yet a real wrong was done...by the student girl in the dock. A crime for which she must pay.</line>
 <line speaker="Menimemo">Obviously, because the poisoning was nothing to do with me at all.</line>
 <line speaker="Menimemo">Because why would I have bothered to stab the woman if I'd already poisoned her?</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">So you still maintain that you didn't give the poison to the victim?</line>
 <line speaker="Menimemo">Obviously! That'd be like putting a belt on your trousers when you were already wearing braces like these!</line>
 <line speaker="Auchi">The accused administered the poison, following which this witness stabbed the victim. An unforgivable act, certainly. But not one of murder. That crime rests on the accused's shoulders. That is how the law works, you see, yokel. ...Who knows, you may even learn something here today.</line>
@@ -1478,23 +1478,23 @@
 <line speaker="Menimemo">Do something that evil, and you've got it coming. That's how the law works. The law of reckoning!</line>
 <line speaker="Ryutaro">That's not the kind of law this court upholds.</line>
 <line speaker="Judge">You will reiterate why you were compelled to stab the victim then, witness.</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Menimemo">When I heard the student girl and that pompous English murderer arguing...it got my goat.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">What exactly were they arguing about?</line>
 <line speaker="Menimemo">About what happened in that restaurant nine months ago, that's what. The student girl was laying into the Englishwoman for killing her beloved mentor, Dr Wilson.</line>
 <line speaker="Judge">Yes, John H. Wilson... A professor of medicine, invited here from England by Professor Mikotoba no less.</line>
 <line speaker="Menimemo">Right. But the Englishwoman just jeered.</line>
 <line speaker="Auchi">Her case was to be heard by the British consular court in Shanghai. However... ...there is little doubt that she would simply have been acquitted and sent back to her homeland a free woman.</line>
 <line speaker="Menimemo">It was eating that student girl up inside, you could see it. I really felt for her.</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Rei">I, I can't... I can't stand here and listen to this tripe!</line>
 <line speaker="Ryutaro">Rei!</line>
 <line speaker="Auchi">Young girl! You stand accused here! You can't just blurt out whenever you feel like it!</line>
 <line speaker="Menimemo">No, you can't. Sorry, but I'm in the middle of some very important testimony here. Just keep quiet and listen.</line>
 <line speaker="Rei">But...but this awful man is making all of this up! Susato! Please! You have to make them listen!</line>
 <line speaker="Judge">Return to the dock at once, Membami-san. We are in the middle of a cross-examination.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Your Excellency! Please, I implore you! That journalist is clearly not a trustworthy witness!</line>
 <line speaker="Rei">Exactly! He's a filthy, rotten, black-hearted, bigoted, dirty great peeping Tom!</line>
 <line speaker="Menimemo">Whoa...take it easy there.</line>
@@ -1505,7 +1505,7 @@
 <line speaker="Auchi">But, but, Your Excellency...</line>
 <line speaker="Judge">This is likely to be the final cross-examination of these proceedings. As such, I believe it would be ill-advised to stifle the defendant's obvious concerns. So, whilst recognising that this contravenes regular protocol, I hereby call upon the defendant to speak.</line>
 <line speaker="Rei">Oh! Thank you so much, Your Excellency!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">What exactly were they arguing about?</line>
 <line speaker="Menimemo">About what happened in that restaurant nine months ago, that's what. The student girl was laying into the Englishwoman for killing her beloved mentor, Dr Wilson.</line>
 <line speaker="Judge">Yes, John H. Wilson... A professor of medicine, invited here from England by Professor Mikotoba no less.</line>
@@ -1513,14 +1513,14 @@
 <line speaker="Auchi">Her case was to be heard by the British consular court in Shanghai. However... ...there is little doubt that she would simply have been acquitted and sent back to her homeland a free woman.</line>
 <line speaker="Menimemo">It was eating that student girl up inside, you could see it. I really felt for her.</line>
 <line speaker="Auchi">Yes, a very simple explanation as to why the accused was compelled to poison her nemesis.</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">There's no inculpatory evidence to that effect! The prosecution is deliberately leading the court!</line>
 <line speaker="Rei">That's right! And my lawyer will throw you for it if you're not careful!</line>
-<line speaker="Ryutaro"><thought>Oh, Rei... Don't throw things like that out there!</thought></line>
+<line speaker="Ryutaro">(Oh, Rei... Don't throw things like that out there!)</line>
 <line speaker="Auchi">Tut tut tut... Let the yokel student be aware that her humour is not appreciated in this courtroom.</line>
-<line speaker="Ryutaro"><thought>I can't allow the court to be influenced by this reporter's testimony. Rei is the only one who knows what really happened.</thought></line>
+<line speaker="Ryutaro">(I can't allow the court to be influenced by this reporter's testimony. Rei is the only one who knows what really happened.)</line>
 <line speaker="Rei">It was nothing to do with Dr Wilson! We were discussing the stolen poison.</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">The stolen poison that killed the victim, you mean?</line>
 <line speaker="Rei">...I suspected her of being the one to steal it. I mean, just think about how she killed Dr Wilson.</line>
 <line speaker="Mikotoba">That's true. Additionally, Miss Brett certainly had knowledge of the new poison.</line>
@@ -1542,12 +1542,12 @@
 <line speaker="Menimemo">Agh!</line>
 <line speaker="Ryutaro">Well, Menimemo-san?!</line>
 <line speaker="Menimemo">......... As a journo...and...as a citizen of a free country... ...I don't have to reveal my sources! That's a founding principle of Menimemoism!</line>
-<line speaker="Ryutaro"><thought>Father's clearly right about this. That reporter did write that article, and he based it on what he overheard from outside the hut.</thought></line>
+<line speaker="Ryutaro">(Father's clearly right about this. That reporter did write that article, and he based it on what he overheard from outside the hut.)</line>
 <line speaker="Rei">So that's what it was all about! You were trying to cover up the fact that you were listening in. That's why you came up with that stinking story about me arguing with her!</line>
 <line speaker="Menimemo">Sh...Shut up! My stories never stink! Look, whatever you say, little girl, it doesn't alter the facts! Your Excellency! There's something I want to say, and I want it to go on record!</line>
 <line speaker="Judge">Very well. You may amend your formal testimony.</line>
 <line speaker="Menimemo">Hahh...hahh...hahh...</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">The stolen poison that killed the victim, you mean?</line>
 <line speaker="Rei">...I suspected her of being the one to steal it. I mean, just think about how she killed Dr Wilson.</line>
 <line speaker="Mikotoba">That's true. Additionally, Miss Brett certainly had knowledge of the new poison.</line>
@@ -1560,7 +1560,7 @@
 <line speaker="Judge">And how did Miss Brett respond to your concerns?</line>
 <line speaker="Rei">She just curled those beautiful lips of hers and said she didn't know the first thing about it...in English, actually.</line>
 <line speaker="Menimemo">If the courts weren't going to punish Brett for what she did, someone else would have to see justice done!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">And was that someone else you, Menimemo-san?</line>
 <line speaker="Menimemo">......... No comment.</line>
 <line speaker="Ryutaro">Sorry?</line>
@@ -1568,19 +1568,19 @@
 <line speaker="Ryutaro">It hasn't been proven that the defendant did anything of the sort!</line>
 <line speaker="Menimemo">Heh heh heh... Sorry about that. Slip of the tongue.</line>
 <line speaker="Menimemo">The point is...if you'd poisoned someone, there'd be no reason to then go and stab the person as well!</line>
-<line speaker="Ryutaro"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryutaro">Perhaps you doubted the efficacy of the poison and sought to make sure your victim would die!</line>
 <line speaker="Menimemo">That's horse dung! </line>
 <line speaker="Ryutaro">What?</line>
 <line speaker="Menimemo">That would be like pouring pepper on your Chinese ramen before you'd even tasted it! Completely reckless! Although...it might surprise you to learn that I am a bit of an impetuous pepper pourer as it happens.</line>
-<line speaker="Ryutaro"><thought>Once the victim had taken the poison, she would have been only minutes away from death. And yet, this man then proceeded to stab her in the back as well... There has to have been a good reason for that!</thought></line>
+<line speaker="Ryutaro">(Once the victim had taken the poison, she would have been only minutes away from death. And yet, this man then proceeded to stab her in the back as well... There has to have been a good reason for that!)</line>
 <line speaker="Mikotoba">If it was the reporter who gave the poison to Miss Brett, then clearly... ...he must have done it prior to Rei entering the hut.</line>
 <line speaker="Ryutaro">Yes, that's undeniable.</line>
 <line speaker="Mikotoba">But between him leaving the hut and the victim being stabbed... ...there was one very crucial change in the situation.</line>
-<line speaker="Ryutaro">Sorry? <thought>What change?</thought></line>
+<line speaker="Ryutaro">Sorry? (What change?)</line>
 <line speaker="Mikotoba">The reporter overheard the conversation between Rei and the Englishwoman.</line>
-<line speaker="Ryutaro">Ah! <thought>Yes, that's it! That's when Menimemo-san first found out the exact nature of the poison he'd used. That could be the key here...</thought></line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro">Ah! (Yes, that's it! That's when Menimemo-san first found out the exact nature of the poison he'd used. That could be the key here...)</line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mikotoba">If the victim had unwittingly taken the poison already, the reporter would have had no reason to stab her... On the face of it, that logic sounds entirely reasonable.</line>
 <line speaker="Ryutaro">But there's no question that this man was responsible for Miss Brett's murder.</line>
 <line speaker="Mikotoba">If we could think of a plausible explanation as to why he might have stabbed her even after the poisoning... ...I feel sure that everything would drop into place. That's what we should be looking for.</line>
@@ -1591,7 +1591,7 @@
 <line speaker="Menimemo">.........</line>
 <line speaker="Soseki">Of course he did! There can be no question of that! After all, when we were all in the laboratory together... ...all we were told is that it was a terrible toxin!</line>
 <line speaker="Ryutaro">And there is one more important fact to consider. According to the witness, Membami-san's 'verbal attack' against the victim began as soon as she entered the hut. In other words, it would have been impossible for her to have slipped the poison into Miss Brett's drink!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Where are you going with this, Counsel?</line>
 <line speaker="Ryutaro">Menimemo-san has made it quite clear that he observed every single thing that happened in the beach hut. If the defendant had somehow found an opportunity, this man would have seen it!</line>
 <line speaker="Menimemo">Agh!</line>
@@ -1615,7 +1615,7 @@
 <line speaker="Rei">...Because the poison caused such unusual symptoms and was so traceable...</line>
 <line speaker="Menimemo">.........</line>
 <line speaker="Ryutaro">As you listened in from the far side of the beach hut's thin walls, you learnt of these facts. But you'd already given the victim the poison at that point. It was too late. So you hatched a plan to disguise your mistake. A plan that involved stabbing the victim in the back through the reed screen!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">But... But what good could that possibly do?</line>
 <line speaker="Ryutaro">Isn't it obvious, Counsel? The plan was to kill Miss Brett before the poison could take effect!</line>
 <line speaker="Menimemo">...!</line>
@@ -1626,10 +1626,10 @@
 <line speaker="Menimemo">Hnnng...hnnngh...</line>
 <line speaker="Judge">Order! Order! Order! The argument presented is sound. The court is satisfied that it warrants consideration. Does the prosecution have a counter-argument it wishes to put forward?</line>
 <line speaker="Auchi">Well...um...there are a number of... I mean...yes! I counter completely!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">The prosecution's evasive response clearly shows... ...that in much the same way as he nurtures the remnants of his topknot, he is clinging to lost hope!</line>
 <line speaker="Auchi">Lo...Lost...HOOOOOOOOOOOOPE!!!</line>
-<line speaker="Menimemo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Menimemo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Menimemo">Argh! You pathetic, useless, fallen samurai!</line>
 <line speaker="Auchi">Fallen?! Who are you calling fallen? My burgeoning growth is, is on the rise...</line>
 <line speaker="Menimemo">I don't need a counter-argument!</line>
@@ -1642,7 +1642,7 @@
 <line speaker="Judge">But surely it would be no easy task to steal a highly secret toxin being developed for the government?</line>
 <line speaker="Mikotoba">Indeed. All visitors to the laboratory are thoroughly searched when they leave. Even if a thief managed to avoid being seen by myself or a colleague, getting the poison out would be very difficult.</line>
 <line speaker="Menimemo">How's that then? Blown the story wide open? See...I, Raiten Menimemo...a mere reporter from the Shoyu News... ...couldn't possibly have stolen that poison from the professor's laboratory!</line>
-<line speaker="Ryutaro">AAAAAAGH! <thought>But there can't be any question of it... He must have stolen the poison that day. He stole it...and used it to kill... And if that's the case...</thought> As you've identified, the poison itself is the definitive evidence we need. Because whoever stole it from the laboratory that day is the true culprit here.</line>
+<line speaker="Ryutaro">AAAAAAGH! (But there can't be any question of it... He must have stolen the poison that day. He stole it...and used it to kill... And if that's the case...) As you've identified, the poison itself is the definitive evidence we need. Because whoever stole it from the laboratory that day is the true culprit here.</line>
 <line speaker="Menimemo">What's your point, you annoyingly handsome country bumpkin?</line>
 <line speaker="Ryutaro">My point is this: there is one way that you, Menimemo-san... ...could have stolen the poison that day!</line>
 <line speaker="Menimemo">...!</line>
@@ -1652,11 +1652,11 @@
 <line speaker="Judge">By that you intend to prove that the witness stole the poison? How exactly, Counsel?</line>
 <line speaker="Ryutaro">Ah, you couldn't know that until you'd attempted it yourself, Your Excellency.</line>
 <line speaker="Judge">That being the case, you will attempt it yourself next time before proposing the idea in my courtroom!</line>
-<line speaker="Ryutaro"><thought>Oh dear... That didn't go down as well as I'd hoped.</thought></line>
+<line speaker="Ryutaro">(Oh dear... That didn't go down as well as I'd hoped.)</line>
 <line speaker="Mikotoba">The phial in which the poison is kept is still in the laboratory. Which means that the thief must have transferred a quantity of it to another container.</line>
 <line speaker="Ryutaro">Don't give it all away, Father! So, what you're saying is, I should be looking for a piece of evidence that could be used as some kind of vessel.</line>
 <line speaker="Mikotoba">Well, yes... That is more or less what I said, indeed.</line>
-<line speaker="Ryutaro"><thought>I must have another good look through the Court Record...before Father solves this whole thing for me!</thought></line>
+<line speaker="Ryutaro">(I must have another good look through the Court Record...before Father solves this whole thing for me!)</line>
 <line speaker="Ryutaro">The proof, Your Excellency...is this fountain pen.</line>
 <line speaker="Menimemo">Agh!</line>
 <line speaker="Judge">A fountain pen? How can that possibly be relevant?</line>
@@ -1671,7 +1671,7 @@
 <line speaker="Menimemo">Ah...erm...</line>
 <line speaker="Ryutaro">When you saw the deadly poison before your eyes in the laboratory that day... ...you used your fountain pen - your very lifeblood - to steal some of it, didn't you? By siphoning the poison up through the nib and into the pen's reservoir!</line>
 <line speaker="Menimemo">GAAAAAAAAAAAARGH!!!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">More absurdity! That never happened!</line>
 <line speaker="Ryutaro">True, we've heard that there were procedures in place to prevent thefts like this from the laboratory. But would anyone have thought to look inside a fountain pen of all places?</line>
 <line speaker="Mikotoba">No...I'm a little ashamed to say... ...that for fear of offending our guests, such a detailed search would not have been conducted.</line>
@@ -1681,9 +1681,9 @@
 <line speaker="Ryutaro">So the crucial question is...when exactly was the pen dropped?</line>
 <line speaker="Judge">Are, are you suggesting...?</line>
 <line speaker="Ryutaro">The natural conclusion is that in your haste to act whilst the victim was distracted for a moment... ...you dropped the pen after you emptied the poison from it into her glass!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">There could be any number of alternative explanations! For, for example... ...the witness could have been using his pen to write down details of his conversation with the victim... ...and when shocked by one of her outrageous answers, the pen fell from his quivering hand!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">No, that can't be. If it was, how do you explain why the pen was devoid of ink?</line>
 <line speaker="Auchi">What?</line>
 <line speaker="Ryutaro">As you can see for yourself if you examine the evidence, there would appear to be no ink present in the reservoir. What newspaper reporter goes to interview someone with nothing in his pen?! No! The pen was dropped after the poison that filled its reservoir had been emptied into the victim's glass!</line>
@@ -1693,18 +1693,18 @@
 <line speaker="Mikotoba">Hm... It looks as though it's going to take one final decisive blow to finish this matter.</line>
 <line speaker="Judge">As I see it, the situation is now very simple. It rests upon whether or not this witness did indeed steal the poison on the day in question. And therefore...it all depends upon whether or not the defence can prove that he did with evidence!</line>
 <line speaker="Menimemo">Hah! No such evidence could possibly exist!</line>
-<line speaker="Ryutaro"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryutaro"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryutaro">Menimemo-san... This is how our modern justice system works!</line>
 <line speaker="Menimemo">What?</line>
 <line speaker="Ryutaro">In the courtroom, evidence is everything. Something you would do well to remember. Because we are well past the point of speculation at this stage, I assure you!</line>
 <line speaker="Menimemo">...!</line>
 <line speaker="Judge">Very well, then. I call upon the defence to present the aforementioned evidence.</line>
-<line speaker="Ryutaro"><thought>This is it, then. This will be the final piece in the puzzle.</thought> The defence can prove, by means of this item, that it was the witness's pen that was used to steal the poison!</line>
+<line speaker="Ryutaro">(This is it, then. This will be the final piece in the puzzle.) The defence can prove, by means of this item, that it was the witness's pen that was used to steal the poison!</line>
 <line speaker="Ryutaro">Leads to:</line>
 <line speaker="Ryutaro">Judge:</line>
 <line speaker="Ryutaro">What do you believe, Your Excellency?</line>
 <line speaker="Judge">I believe you are gravely misguided.</line>
-<line speaker="Ryutaro"><thought>Misguided? Oh dear...</thought> Well...I believe I could do better next time!</line>
+<line speaker="Ryutaro">(Misguided? Oh dear...) Well...I believe I could do better next time!</line>
 <line speaker="Judge">Counsel, what is that bottle?</line>
 <line speaker="Ryutaro">This bottle contains the unique chemical reagent that can identify the poison in question.</line>
 <line speaker="Auchi">Ah!</line>
@@ -1773,7 +1773,7 @@
 <line speaker="Rei">Yes, Your Excellency?</line>
 <line speaker="Judge">I have reached my final verdict. I hereby find you...</line>
 <line speaker="Judge">Court is adjourned!</line>
-<line speaker="Susato"><thought>It's over... My heart is still pounding in my chest, though. It's all I can do just to stay standing. Lawyers have such great responsibility. Such a great burden to bear. Don't they, Naruhodo-san...</thought></line>
+<line speaker="Susato">(It's over... My heart is still pounding in my chest, though. It's all I can do just to stay standing. Lawyers have such great responsibility. Such a great burden to bear. Don't they, Naruhodo-san...)</line>
 <line speaker="???">Susato! Susato!</line>
 <line speaker="Rei">Thank you! Thank you so much! You were...so dashing in there!</line>
 <line speaker="Susato">Rei! And Father...</line>
@@ -1792,7 +1792,7 @@
 <line speaker="Rei">It really was! Isn't there anybody else we could throw together?</line>
 <line speaker="Mikotoba">I hope you're not looking at me, Rei.</line>
 <line speaker="Rei">Oh! My! Goodness! No, of course not! Of COURSE not!</line>
-<line speaker="Susato"><thought>Ah, there it is at last. Rei's lovely smile...</thought></line>
+<line speaker="Susato">(Ah, there it is at last. Rei's lovely smile...)</line>
 <line speaker="Mikotoba">You fought for your friend to the very last. As your father, I'm extremely proud of you... Defence Attorney Ryutaro Naruhodo.</line>
 <line speaker="Susato">Thank you! But I couldn't have done it without your help. Anyway...it's time to bid farewell to Ryutaro, I think. I shall miss him in a way, but...it's back to Susato Mikotoba now.</line>
 <line speaker="Rei">So...I'll never see him again, then... What a terrible shame!</line>
@@ -1802,13 +1802,13 @@
 <line speaker="Hosonaga">Is, is, is that...r-r-really you?</line>
 <line speaker="Susato">Yes, I had to change my appearance for...well, obvious reasons, I hope. But it's me... ...Susato Mikotoba.</line>
 <line speaker="Soseki">I, I d-d-don't... So dashing... So divine... NO! Doubly dashing! Yes, and, and... Devilishly divine! Just look at you! I had no idea, Miss Susato-san Esquiress, that you were Locum Student Naruhodo-san Esquire's cousin!</line>
-<line speaker="Susato"><thought>Poor Soseki-san... So confused... I still remember the first time I ever met him. He was in a prison cell in London. What an extraordinary conundrum it was that the unwitting student from Japan found himself embroiled in. But after Naruhodo-san's skilful defence at the Old Bailey, Soseki-san was free to return to Japan. And now he seems to have earned himself great fame as an author.</thought></line>
+<line speaker="Susato">(Poor Soseki-san... So confused... I still remember the first time I ever met him. He was in a prison cell in London. What an extraordinary conundrum it was that the unwitting student from Japan found himself embroiled in. But after Naruhodo-san's skilful defence at the Old Bailey, Soseki-san was free to return to Japan. And now he seems to have earned himself great fame as an author.)</line>
 <line speaker="Hosonaga">I'm stunned! That's a truly impressive disguise... Even I had no idea, and I'm a chief inspector at the police bureau! Who came up with Mr Turtle, no less!</line>
 <line speaker="Mikotoba">I'm not sure you should be admitting to that, Inspector.</line>
 <line speaker="Hosonaga">Amazing... You're a woman of many faces, I see.</line>
-<line speaker="Susato"><thought>Just two, really. And this was a once-in-a-lifetime event...I hope.</thought> Oh, I'm not a patch on you though, Inspector.</line>
+<line speaker="Susato">(Just two, really. And this was a once-in-a-lifetime event...I hope.) Oh, I'm not a patch on you though, Inspector.</line>
 <line speaker="Hosonaga">Well...I am a professional, of course.</line>
-<line speaker="Susato"><thought>I do worry about Inspector Hosonaga sometimes, I really do... Nine months ago, when he appeared here at the Supreme Court to testify... ...he was undercover, disguised as the head waiter of a restaurant. And then on the steamship to Great Britain, of course. Disguised as a sailor to keep us safe on the journey. Though that didn't help you, did it? Kazuma-sama...</thought></line>
+<line speaker="Susato">(I do worry about Inspector Hosonaga sometimes, I really do... Nine months ago, when he appeared here at the Supreme Court to testify... ...he was undercover, disguised as the head waiter of a restaurant. And then on the steamship to Great Britain, of course. Disguised as a sailor to keep us safe on the journey. Though that didn't help you, did it? Kazuma-sama...)</line>
 <line speaker="Hosonaga">From my perspective, I have to admit that I have mixed feelings about all this. I mean, now the truth has been lost forever...</line>
 <line speaker="Soseki">What do you mean?</line>
 <line speaker="Hosonaga">I'm talking about the murder that the Englishwoman committed at the end of last year.</line>
@@ -1822,7 +1822,7 @@
 <line speaker="Rei">What?! Dr...Dr Wilson?!</line>
 <line speaker="Susato">I just can't believe that it's a coincidence. I think that the English doctor of medicine killed here in Japan nine months ago... ...must have been the friend and partner of Mr Sholmes!</line>
 <line speaker="Mikotoba">.........</line>
-<line speaker="Susato"><thought>And if that's really true... ...then the poor girl...won't ever see her beloved father again.</thought></line>
+<line speaker="Susato">(And if that's really true... ...then the poor girl...won't ever see her beloved father again.)</line>
 <line speaker="Mikotoba">......... As you know... ...I travelled to Great Britain once myself to study. It was around the time you were born.</line>
 <line speaker="Susato">Yes, Grandmother told me about it.</line>
 <line speaker="Mikotoba">On returning to Japan, I took up my professorship at the Imperial Yumei University. But I also serve another role, as an adviser to the government on diplomatic affairs.</line>
@@ -1843,7 +1843,7 @@
 <line speaker="Menimemo">I know the truth! I know you had a hand in what went on! In that visiting student's fate!</line>
 <line speaker="Hosonaga">Visiting student...? Jezaille Brett, you mean?</line>
 <line speaker="Menimemo">No, not her! The student of law who left for Great Britain eight months ago!</line>
-<line speaker="Susato">Wha... <thought>Student of law? He, he must mean... ...Kazuma-sama!</thought> What are you talking about? What does any of this have to do with Kazuma-sama?!</line>
+<line speaker="Susato">Wha... (Student of law? He, he must mean... ...Kazuma-sama!) What are you talking about? What does any of this have to do with Kazuma-sama?!</line>
 <line speaker="Menimemo">Nobody here in Japan knows anything about it! They don't know that the guy never made it to England! That he died on that steamship! And that he'll never-</line>
 <line speaker="Judge">Well, I didn't expect to find him in here. What were you officers playing at?</line>
 <line speaker="Bailiff">Terribly sorry, Your Excellency!</line>
@@ -1859,13 +1859,13 @@
 <line speaker="Mikotoba">Sorry, my dear. We shall have to return to our earlier conversation at a later date. But well done again, both of you. You did admirably.</line>
 <line speaker="Rei">Oh... Thank you very much!</line>
 <line speaker="Judge">What did you think of my Seishiro Sling, eh? It's been a while since I sent a man flying like that. Hah hah hah hah!</line>
-<line speaker="Susato"><thought>Whatever could Father be hiding from me?&#160; About Jezaille Brett... About Dr Wilson... And now, it seems, according to the reporter... ...about Kazuma-sama. I'm going to have to bring this up with Father sometime... ...when nobody else is around.</thought></line>
+<line speaker="Susato">(Whatever could Father be hiding from me?&#160; About Jezaille Brett... About Dr Wilson... And now, it seems, according to the reporter... ...about Kazuma-sama. I'm going to have to bring this up with Father sometime... ...when nobody else is around.)</line>
 <line speaker="Soseki">Um... Judicial Assistant Mikotoba-san Esquiress... Could I...have a word?</line>
 <line speaker="Susato">Oh! Yes, of course, Soseki-san. What is it?</line>
 <line speaker="Soseki">I think perhaps...it could be fate that we're meeting again like this now. You see... ...there's something I need to tell you.</line>
 <line speaker="Susato">Oh?</line>
 <line speaker="Soseki">I believe... ...that it may be related to the reason why your father summoned you back from England.</line>
-<line speaker="Susato">...! <thought>This I have to hear!</thought> Please, Soseki-san! Tell me at once!</line>
+<line speaker="Susato">...! (This I have to hear!) Please, Soseki-san! Tell me at once!</line>
 <line speaker="Soseki">I WILL! I WILL, I WILL, I WILL! ......... As you know, my time in England was...terrible. Cursed, I have no doubt. Such awful things I was embroiled in... Thank goodness Locum Student Naruhodo-san Esquire stepped in... After he secured my freedom, I couldn't wait to get on a ship back here to my homeland. Having arrived in Japan, I submitted a report about my experiences to the Ministry of Foreign Affairs. The next thing I knew, I had a visitor. It was your father, Professor Mikotoba. He wanted to ask me all sorts of things about my report.</line>
 <line speaker="Susato">My father...?</line>
 <line speaker="Soseki">He seemed to be especially taken with a particular part of the report. Anyway, he left eventually, having thoroughly quizzed me. But it was the very next day that he sent the telegram to you asking you to return to Japan.</line>
@@ -1877,21 +1877,21 @@
 <line speaker="Soseki">...!</line>
 <line speaker="Susato">Which is why the only case involving you that any member of the public is aware of, is the first.</line>
 <line speaker="Soseki">Well, I don't care! I don't have to listen to what that dastardly detective says! Anyway, the point is... ...it seems that case somehow holds the key to all these curious unanswered questions. That horrific, hideous, heinous case... The case of the haunted lodgings...</line>
-<line speaker="Susato"><thought>That case somehow caused my father to summon me urgently back to Japan...? I thought that whole business was over. But it seems I was wrong... Perhaps that was only the start. Perhaps the story...is not yet told...</thought></line>
+<line speaker="Susato">(That case somehow caused my father to summon me urgently back to Japan...? I thought that whole business was over. But it seems I was wrong... Perhaps that was only the start. Perhaps the story...is not yet told...)</line>
 <line speaker="Susato">...So the mystery of that Englishwoman's death is solved, thank goodness. And having stood in the Supreme Court now, I think I can comprehend a little better... ...how you must be feeling as you fight for people's freedom in a foreign land, Naruhodo-san. But actually, I'm writing to you today because of another matter. I met Soseki-san, and we talked about that second case he was involved in. Father has said nothing to me, but I feel certain of it... That case holds the key to some great, unsolved mystery. My notes on the case should still be in the office, tucked away at the back of the shelves on the left. Perhaps you might like to look over them again? Today, for the first time this year, it feels as though summer has arrived. The sky is a brilliant blue. ...It makes me long to see you again.</line>
 <line speaker="Ryutaro">Ryutaro:</line>
 <line speaker="Judge">Is that so, Counsel? Then perhaps you would care to explain to the court precisely how?</line>
 <line speaker="Ryutaro">How...? Well...definitively?</line>
 <line speaker="Judge">The contradiction lies in your apparent eagerness to present an empty argument, I feel.</line>
-<line speaker="Ryutaro"><thought>Perhaps I need to reconsider...</thought></line>
+<line speaker="Ryutaro">(Perhaps I need to reconsider...)</line>
 <line speaker="Ryutaro">Ryutaro:</line>
 <line speaker="Judge">And the evidence you've thrust in my direction is supposed to prove your point?</line>
 <line speaker="Ryutaro">...I apologise. I did present it rather more forcefully than I'd intended to.</line>
 <line speaker="Judge">You will kindly refrain from these overly exuberant outbursts, Counsel. Be they verbal or material.</line>
-<line speaker="Ryutaro"><thought>He really put me in my place there...</thought></line>
+<line speaker="Ryutaro">(He really put me in my place there...)</line>
 <line speaker="Ryutaro">Ryutaro:</line>
 <line speaker="Judge">The question is, Counsel, what about those wide eyes of yours? Well?</line>
-<line speaker="Ryutaro"><thought>Ugh... Alright, I just need to try to remain calm and examine the evidence again.</thought></line>
+<line speaker="Ryutaro">(Ugh... Alright, I just need to try to remain calm and examine the evidence again.)</line>
 <line speaker="Ryutaro">...Nothing appears obviously out of the ordinary here, does it?</line>
 <line speaker="Judge">That will do! I am now satisfied that no reasonable doubt remains in this matter. The defence has consistently failed to refute adequately the assertions of the prosecution. Therefore, I hereby pronounce the defendant, Rei Membami...</line>
 <line speaker="Judge">Court is adjourned!</line>

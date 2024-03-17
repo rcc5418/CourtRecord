@@ -1,16 +1,16 @@
 <xml>
 <title>Rise from the Ashes</title>
-<line speaker="Phoenix"><thought>This is the Defendant Lobby all right... but there's no defendant. I've been trying to reach Lana all morning. Where could she be? And where's Ema, for that matter? It almost seems as if...</thought></line>
+<line speaker="Phoenix">(This is the Defendant Lobby all right... but there's no defendant. I've been trying to reach Lana all morning. Where could she be? And where's Ema, for that matter? It almost seems as if...)</line>
 <line speaker="???">Something's been happening behind the scenes...</line>
 <line speaker="Phoenix">Edgeworth!</line>
 <line speaker="Edgeworth">Knowing you, you've already figured it out... Who the owner of the "7777777" ID number is.</line>
-<line speaker="Phoenix">Well... I have a pretty strong hunch. <thought>Looks like I'm not the only one who's figured it out.</thought></line>
+<line speaker="Phoenix">Well... I have a pretty strong hunch. (Looks like I'm not the only one who's figured it out.)</line>
 <line speaker="Edgeworth">You know, the only reason this trial didn't reach a verdict yesterday... is because there was still room for doubt on this ID record. If that number does belong to whom you suspect, then no doubt will remain. After all, he hasn't been officially charged with anything.</line>
 <line speaker="Phoenix">True... Not yet.</line>
 <line speaker="Edgeworth">In any event, once all doubt has been removed from that list, I can call for a ruling on the defendant. Five minutes after the trial starts... Lana will be found guilty.</line>
 <line speaker="Phoenix">But she didn't do it!</line>
 <line speaker="Edgeworth">I figured you'd say as much. That's why I came here... to hear what you have to say.</line>
-<line speaker="Phoenix"><thought>This is the first time he's ever done something like this...</thought> Lana's hiding something, and the only way we'll ever know the truth... is to draw it out of her.</line>
+<line speaker="Phoenix">(This is the first time he's ever done something like this...) Lana's hiding something, and the only way we'll ever know the truth... is to draw it out of her.</line>
 <line speaker="Edgeworth">The "truth"?</line>
 <line speaker="Phoenix">Everything goes back to the SL-9 Incident.</line>
 <line speaker="Edgeworth">Don't be stupid! Today's the last day of the trial. We don't have time to reminisce about the past!</line>
@@ -18,20 +18,20 @@
 <line speaker="Edgeworth">...!</line>
 <line speaker="Phoenix">If she's found guilty, you'll lose your only chance to find out what really happened.</line>
 <line speaker="Edgeworth">... I'll think about it. See you in court, Wright.</line>
-<line speaker="Phoenix"><thought>This is it. If I'm ever going to find out what Chief Gant has on her, it's now!</thought></line>
+<line speaker="Phoenix">(This is it. If I'm ever going to find out what Chief Gant has on her, it's now!)</line>
 <line speaker="Judge">Court is now in session for the trial of Ms. Lana Skye.</line>
 <line speaker="Phoenix">The defense is ready, Your Honor.</line>
 <line speaker="Edgeworth">The prosecution is ready, Your Honor.</line>
 <line speaker="Judge">Normally this is when the prosecution puts forth its opening statement,</line>
 <line speaker="Edgeworth">?</line>
 <line speaker="Judge">but before that, the police chief has a proposal to make.</line>
-<line speaker="Phoenix"><thought>Chief Gant...!</thought></line>
+<line speaker="Phoenix">(Chief Gant...!)</line>
 <line speaker="Gant">Mornin' folks. How's everyone doing? Hey, Udgey. Been back to the pool yet?</line>
 <line speaker="Judge">No, I've been drowning enough as it is in my work.</line>
 <line speaker="Gant">Ho! That's a good one! Don't think I can top that!</line>
 <line speaker="Edgeworth">If you don't mind me asking, Chief, exactly what is this "proposal" of yours?</line>
 <line speaker="Gant">Lana... that is to say, the defendant, has asked me if she could speak directly to the court.</line>
-<line speaker="Phoenix"><thought>She wants to do what!?</thought></line>
+<line speaker="Phoenix">(She wants to do what!?)</line>
 <line speaker="Gant">Having heard what she intends to say, I feel she should be granted her request. In the end, it should save everyone a lot of time and trouble.</line>
 <line speaker="Edgeworth">What's this all about, defendant?</line>
 <line speaker="Lana">I'd just like to make one simple request, and I'll be finished.</line>
@@ -40,15 +40,15 @@
 <line speaker="Phoenix">Huh!?</line>
 <line speaker="Lana">I confess to all charges against me. On February 21 of this year, I murdered Detective Bruce Goodman... in the underground parking lot of the Prosecutor's Office.</line>
 <line speaker="Phoenix">No, Lana!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You can't! Your Honor. The defendant's claim does not change the defense's plea!</line>
 <line speaker="Lana">In that case, Mr. Wright, I no longer require your services.</line>
 <line speaker="Phoenix">But Lana!</line>
 <line speaker="Lana">Your Honor. I hereby forfeit my right to an attorney. The prosecution may lack direct evidence against me, but it has sufficiently proven its case through testimony and circumstantial evidence. I would like you to render your verdict now, if you please.</line>
 <line speaker="Judge">Hmm... Well, the defendant certainly has the right to self representation... Her request is legally valid, although this is an unprecedented situation. Indeed, it appears there's no need to continue this trial... even if Mr. Wright may feel otherwise.</line>
-<line speaker="Phoenix"><thought>This can't be happening!</thought></line>
+<line speaker="Phoenix">(This can't be happening!)</line>
 <line speaker="Judge">It appears the time for the verdict has arrived. This court finds the defendant...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">One moment, Your Honor.</line>
 <line speaker="Judge">M-Mr. Edgeworth!?</line>
 <line speaker="Edgeworth">The prosecution has not yet proven the defendant guilty beyond reasonable doubt. Any ruling at this stage would certainly be premature.</line>
@@ -69,7 +69,7 @@
 <line speaker="Judge">Very well. The court shall grant the prosecution's request. That's okay with you, right Chief Gant?</line>
 <line speaker="Gant">Worthy... You'll live to regret this. Mark my words.</line>
 <line speaker="Edgeworth">Ms. Ema Skye. Please take the stand.</line>
-<line speaker="Phoenix"><thought>Looks like Edgeworth has decided to take the horse by the reins!</thought></line>
+<line speaker="Phoenix">(Looks like Edgeworth has decided to take the horse by the reins!)</line>
 <line speaker="Edgeworth">Now then, witness. Please state your name and occupation.</line>
 <line speaker="Ema">Um... M-my name is Ema. Ema Skye. My occupation? I'm Lana's little sister, and I want to be a scientific investigator!</line>
 <line speaker="Edgeworth">Two years ago... you encountered the serial killer Joe Darke, of the "Joe Darke Killings." Is this correct?</line>
@@ -80,18 +80,18 @@
 <line speaker="Judge">...</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Judge">W-well okay then!</line>
-<line speaker="Phoenix"><thought>He sure gave in fast...</thought></line>
+<line speaker="Phoenix">(He sure gave in fast...)</line>
 <line speaker="Edgeworth">Now... please testify about what happened to you two years ago.</line>
-<line speaker="Phoenix"><thought>The trip to yesteryear has finally begun... It's bound to lead to the truth behind this trial!</thought></line>
+<line speaker="Phoenix">(The trip to yesteryear has finally begun... It's bound to lead to the truth behind this trial!)</line>
 <line speaker="Ema">I was waiting in my sister's office that day.</line>
 <line speaker="Judge">It's a good thing you weren't harmed.</line>
 <line speaker="Ema">I passed out... I don't remember much.</line>
 <line speaker="Judge">That's understandable. However... please tell me, Mr. Edgeworth. What does this testimony have to do with Detective Goodman's murder?</line>
 <line speaker="Edgeworth">... That will soon become apparent, Your Honor.</line>
-<line speaker="Phoenix"><thought>You've got to admire him for his courage, considering he has no evidence...</thought></line>
+<line speaker="Phoenix">(You've got to admire him for his courage, considering he has no evidence...)</line>
 <line speaker="Judge">Very well! The defense may begin its cross examination.</line>
 <line speaker="Ema">I was waiting in my sister's office that day.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Two years ago, the defendant was a detective at the Police Department, correct?</line>
 <line speaker="Ema">Yes. She was second in command under Chief Detective Gant. My sister... She was the best detective ever!</line>
 <line speaker="Judge">Yes, I remember. Chief Detective Gant and Ms. Skye used to be quite the pair.</line>
@@ -100,7 +100,7 @@
 <line speaker="Edgeworth">The Police Department and the Prosecutor's Office held a ceremony that day.</line>
 <line speaker="Ema">Lana promised to take me to dinner after she finished her work.</line>
 <line speaker="Ema">A man came running in, and took me hostage.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A "man"...?</line>
 <line speaker="Ema">Yes, Joe Darke. He was a... a serial killer.</line>
 <line speaker="Edgeworth">Joe Darke was brought in for questioning on the day of that ceremony. We were desperate to get anything on him that would lead to an arrest.</line>
@@ -108,17 +108,17 @@
 <line speaker="Edgeworth">Upon fleeing the room, Darke proceeded to take the elevator. He must have been in a panic because the elevator was going up. Then he ran into Skye and Gant's office.</line>
 <line speaker="Ema">There was a lot of noise coming from outside, so I... opened up the door to have a look. That's when I saw... Him.</line>
 <line speaker="Ema">Neil Marshall rescued me,</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What was the prosecutor doing there?</line>
 <line speaker="Edgeworth">That day, there were two people present during Darke's questioning: Detective Damon Gant, and Prosecutor Neil Marshall.</line>
-<line speaker="Phoenix"><thought>Gant was there too...?</thought></line>
+<line speaker="Phoenix">(Gant was there too...?)</line>
 <line speaker="Edgeworth">Neil Marshall had just received the King of Prosecutors award. Young and dedicated, he went straight to the questioning room after the ceremony.</line>
 <line speaker="Judge">I assume that would also be why he was the first to run after Darke.</line>
 <line speaker="Ema">When Darke grabbed me, I... I thought I was as good as dead.</line>
 <line speaker="Phoenix">And that's when Prosecutor Marshall came running in?</line>
 <line speaker="Ema">I... I don't clearly remember what happened then. But...</line>
 <line speaker="Ema">but I'll never forget what I saw that instant!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Can you tell us about that?</line>
 <line speaker="Ema">Mr. Marshall jumped on Darke. Just then... the lights went out.</line>
 <line speaker="Judge">The lights?</line>
@@ -130,44 +130,44 @@
 <line speaker="Ema">I told the detective about what I saw then.</line>
 <line speaker="Phoenix">The detective?</line>
 <line speaker="Ema">Yes. Detective Goodman. He was in charge of the case.</line>
-<line speaker="Phoenix"><thought>Detective Bruce Goodman... The victim...</thought></line>
-<line speaker="Phoenix"><thought>Poor Ema. These memories are really torturing her. She's been through enough already.</thought> Thank you, Ema. You don't have to go into that.</line>
+<line speaker="Phoenix">(Detective Bruce Goodman... The victim...)</line>
+<line speaker="Phoenix">(Poor Ema. These memories are really torturing her. She's been through enough already.) Thank you, Ema. You don't have to go into that.</line>
 <line speaker="Edgeworth">Now then, please tell us. This scene that imprinted an image in your mind... Can you please describe it to us?</line>
 <line speaker="Ema">The man...</line>
 <line speaker="Phoenix">So you spoke with Detective Goodman about this... two years ago.</line>
 <line speaker="Ema">Yes. That's what's so scary about this trial.</line>
 <line speaker="Edgeworth">And you told Detective Goodman about what you saw?</line>
 <line speaker="Ema">Yes, but... at the time, the words just wouldn't come out. That's why I drew a picture.</line>
-<line speaker="Phoenix"><thought>A picture... Yes, I think she mentioned that before.</thought></line>
+<line speaker="Phoenix">(A picture... Yes, I think she mentioned that before.)</line>
 <line speaker="Judge">Well, Mr. Wright? Have you heard enough?</line>
-<line speaker="Phoenix"><thought>Poor Ema. These memories are really torturing her. She's been through enough already.</thought> Thank you, Ema. You don't have to go into that.</line>
+<line speaker="Phoenix">(Poor Ema. These memories are really torturing her. She's been through enough already.) Thank you, Ema. You don't have to go into that.</line>
 <line speaker="Edgeworth">Now then, please tell us. This scene that imprinted an image in your mind... Can you please describe it to us?</line>
 <line speaker="Ema">The man...</line>
 <line speaker="Phoenix">The picture the witness drew... I believe it has a very important meaning.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But the list of evidence I was given two years ago didn't contain a picture...</line>
 <line speaker="Judge">Witness. Would you mind if we added this statement to your testimony?</line>
 <line speaker="Ema">Y-yes, Your Honor.</line>
 <line speaker="Change statement to">"I drew a picture of that scene once... but it seems to have been lost."</line>
 <line speaker="Ema">I drew a picture of that scene once... but it seems to have been lost.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You drew a picture of the scene you witnessed, right?</line>
 <line speaker="Ema">Yes. I wanted to do everything I could to help the investigation. I can still see it now... Whenever I close my eyes...</line>
 <line speaker="Edgeworth">That's strange... I took over the case after Prosecutor Marshall died, yet I never received any picture. Perhaps the witness is mistaken?</line>
 <line speaker="Ema">B-but I did draw it! I swear! I'm not just imagining it...</line>
-<line speaker="Phoenix"><thought>This picture that Ema drew... that reminds me! I guess I should check the evidence again...</thought></line>
+<line speaker="Phoenix">(This picture that Ema drew... that reminds me! I guess I should check the evidence again...)</line>
 <line speaker="Edgeworth">Well anyway. Let's continue. This scene that imprinted an image in your mind... Can you please describe it to us?</line>
 <line speaker="Ema">The man...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ema">The man raised up his knife, and... and stabbed Mr. Marshall in the chest...!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">That must have been a real shock.</line>
 <line speaker="Ema">Even now when I close my eyes, I can still see it just as clearly.</line>
 <line speaker="Edgeworth">Tell us... what were you doing at that moment? I believe you testified that Joe Darke was holding you hostage.</line>
 <line speaker="Ema">When lightning struck and the lights went out, Mr. Marshall jumped on Darke. I was thrown aside and the two began wrestling each other.</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Ema">I'm pretty sure I was watching them.</line>
-<line speaker="Phoenix"><thought>Ema doesn't have any reason to lie... but Lana sure does. I need to get Ema to tell me as much about this as she can!</thought></line>
+<line speaker="Phoenix">(Ema doesn't have any reason to lie... but Lana sure does. I need to get Ema to tell me as much about this as she can!)</line>
 <line speaker="Phoenix">Mr. Edgeworth. This little girl put all her heart into drawing that picture... and yet you still insist on denying its existence?</line>
 <line speaker="Edgeworth">Huh!? Hey, I'm not the bad guy! All I'm saying is that as the prosecutor for that case, I wasn't handed such a picture!</line>
 <line speaker="Phoenix">That may well be... but that doesn't mean it doesn't exist. Behold!</line>
@@ -177,7 +177,7 @@
 <line speaker="Edgeworth">Yes, what is that?</line>
 <line speaker="Ema">Hey! That's it! That's the picture I drew!</line>
 <line speaker="Judge">Indeed... Two men appear to be wrestling here.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">What's the meaning of this!? What are you doing with that list!?</line>
 <line speaker="Phoenix">Me...?</line>
 <line speaker="Edgeworth">Only the prosecutor in charge should have access to that list!</line>
@@ -188,70 +188,70 @@
 <line speaker="Edgeworth">What... WWWHHAAAAAATTTTTT!!!!????</line>
 <line speaker="Judge">Order! Order! Who'd have thought the picture would have been drawn on the back of the list...</line>
 <line speaker="Ema">That was handed to Detective Goodman in the questioning room?</line>
-<line speaker="Phoenix"><thought>Wait a minute... If this list was torn in half, then that means...</thought> Your Honor!</line>
+<line speaker="Phoenix">(Wait a minute... If this list was torn in half, then that means...) Your Honor!</line>
 <line speaker="Judge">Are you all right, Mr. Wright? Your eyes are bulging from your head...</line>
 <line speaker="Phoenix">If the evidence list was torn in half... then there might be more of the drawing on the back of Mr. Edgeworth's list!</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Judge">Yes, that's quite conceivable. Mr. Edgeworth?</line>
 <line speaker="Edgeworth">It's possible. Let's see... MM! MMMMMMMMMMMMM!!!</line>
 <line speaker="Judge">Is something wrong?</line>
-<line speaker="Phoenix"><thought>Do you even have to ask?</thought></line>
+<line speaker="Phoenix">(Do you even have to ask?)</line>
 <line speaker="Edgeworth">Sorry, Your Honor. There is something drawn on the back of my list. This is that... thing!</line>
 <line speaker="Judge">... That's that... that thing! That thing that was dancing in the evidence room!</line>
 <line speaker="Edgeworth">Apparently the Head of Criminal Affairs used this for his blueprint.</line>
-<line speaker="Phoenix"><thought>I guess he was out of scrap paper...</thought></line>
+<line speaker="Phoenix">(I guess he was out of scrap paper...)</line>
 <line speaker="Ema">...</line>
 <line speaker="Judge">Very well. Witness. Will you please testify about this picture you drew two years ago?</line>
 <line speaker="Ema">...Huh? Oh, Y-yes sir, Your Honor!</line>
-<line speaker="Phoenix"><thought>What's wrong with Ema? She seemed to be thinking about something when she saw the picture.</thought></line>
+<line speaker="Phoenix">(What's wrong with Ema? She seemed to be thinking about something when she saw the picture.)</line>
 <line speaker="Ema">This is the picture I drew two years ago.</line>
 <line speaker="Judge">To think a flash of lightning could burn such an image in your mind...</line>
-<line speaker="Phoenix"><thought>Thanks to that though, she was able to show us exactly what she saw!</thought></line>
+<line speaker="Phoenix">(Thanks to that though, she was able to show us exactly what she saw!)</line>
 <line speaker="Judge">Well, I don't see any contradictions here. This clearly shows Joe Darke about to murder Prosecutor Neil Marshall.</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Judge">The defense may now begin its cross-examination.</line>
 <line speaker="Ema">This is the picture I drew two years ago.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you draw this picture right after the incident?</line>
 <line speaker="Ema">Um... I think I drew it two or three days later. At first I was in such a state of shock that I couldn't do anything...</line>
 <line speaker="Edgeworth">During that time the detective team was reorganized. Detective Goodman was placed in charge... under the direction of Damon Gant and Lana Skye.</line>
-<line speaker="Phoenix"><thought>Two or three days later... The memory should still have been fresh in her mind.</thought></line>
+<line speaker="Phoenix">(Two or three days later... The memory should still have been fresh in her mind.)</line>
 <line speaker="Judge">Excuse me, witness, but can you please tell us why this picture is painted all black?</line>
 <line speaker="Ema">The flash of lightning was so bright all I could see were shadows.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So at the time you didn't even know it was Mr. Marshall who had come to your rescue?</line>
 <line speaker="Ema">No... I couldn't see him clearly. The lightning was so bright... and I was knocked to the floor.</line>
 <line speaker="Phoenix">You were knocked to the floor?</line>
 <line speaker="Ema">Darke had a tight grip on me, but when Mr. Marshall jumped on him, I was knocked away. I turned around, and that's when the lightning flashed.</line>
-<line speaker="Phoenix"><thought>Poor Ema... I'm just glad she wasn't hurt.</thought></line>
+<line speaker="Phoenix">(Poor Ema... I'm just glad she wasn't hurt.)</line>
 <line speaker="Edgeworth">What happened after the lightning flashed?</line>
 <line speaker="Ema">After that I must have fainted.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean, you didn't see the actual murder take place?</line>
 <line speaker="Ema">No. I-I'm sorry...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The flash of lightning only drove off the darkness for a split second. Not only that, but the trauma of the situation understandably caused the witness to faint. Do you really need to torture this girl any further!?</line>
 <line speaker="Phoenix">What!? Hey, I'm not the bad guy here!</line>
 <line speaker="Ema">Anyway, this picture...</line>
 <line speaker="Ema">This picture shows exactly what I saw that instant!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Sorry for asking so many times, but are you sure you drew exactly what you saw?</line>
 <line speaker="Ema">Of course! This is the exact scene!</line>
 <line speaker="Phoenix">It wasn't influenced in any way from your talks with the detectives?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Are you insinuating we somehow manipulated her memory, Mr. Wright?</line>
-<line speaker="Phoenix">No, no. Of course not. <thought>I'd better watch out, or he might find some way to cut my salary!</thought></line>
+<line speaker="Phoenix">No, no. Of course not. (I'd better watch out, or he might find some way to cut my salary!)</line>
 <line speaker="Ema">I drew this picture before I heard anything from the detectives, so I don't think anyone's story would have influenced me...</line>
 <line speaker="Judge">Mr. Wright. Is there something that's bothering you about this picture?</line>
 <line speaker="Phoenix">Huh? Oh, well...</line>
 <line speaker="Edgeworth">...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><thought>That's strange... She claims this is exactly the scene that was imprinted in her mind... And yet... There's clearly a contradiction here!</thought></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">(That's strange... She claims this is exactly the scene that was imprinted in her mind... And yet... There's clearly a contradiction here!)</line>
 <line speaker="Phoenix">I hate to be the bearer of bad news, but this picture the witness drew... contains a blatant contradiction!</line>
 <line speaker="Ema">What? B-but, I still remember it just like it was yesterday!</line>
 <line speaker="Judge">Mr. Wright. Perhaps it would be faster if you simply pointed out this contradiction for us. What part of this picture... contradicts the autopsy report?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Um, I think it's... uh, this part here?</line>
 <line speaker="Judge">Hmm... I don't see what's so strange about that.</line>
 <line speaker="Phoenix">That's because the drawing stinks!</line>
@@ -259,30 +259,30 @@
 <line speaker="Judge">...</line>
 <line speaker="Ema">... Mr. Wright... How could you... *sniff*</line>
 <line speaker="Edgeworth">The act of making an innocent girl cry should warrant the death penalty.</line>
-<line speaker="Phoenix"><thought>I guess he means I shouldn't shift the blame to others...</thought></line>
+<line speaker="Phoenix">(I guess he means I shouldn't shift the blame to others...)</line>
 <line speaker="Judge">Yes, well. So long as the defense has learned his lesson.</line>
-<line speaker="Phoenix"><thought>I'd better take another look at that autopsy report and this picture!</thought></line>
+<line speaker="Phoenix">(I'd better take another look at that autopsy report and this picture!)</line>
 <line speaker="Phoenix">The contradiction of course lies here! Take a look at the knife the man is holding. If you look closely, you can see its tip is broken!</line>
 <line speaker="Judge">In fact, you don't even have to look closely to see that.</line>
 <line speaker="Ema">But Mr. Wright, look at the evidence! See the murder weapon? Its tip is broken too!</line>
 <line speaker="Judge">If I recall... the tip of the knife was found broken off in the victim's body.</line>
 <line speaker="Ema">It was the conclusive piece of evidence that proved Joe Darke was the murderer!</line>
 <line speaker="Phoenix">I'm afraid it's not so simple, Ema.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Huh? Where could you possibly see a problem!?</line>
 <line speaker="Phoenix">It's obvious, really. The victim "suffered a single stab wound in the back." If the victim was only stabbed once, then the murder weapon should not yet be broken!</line>
 <line speaker="Judge">AAAAAAAHHHHHH! What's the meaning of this?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Perhaps the knife was broken beforehand!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Sorry, but I'm afraid that's not possible. The tip of the knife was found inside the victim's body. If it was broken beforehand, it couldn't possibly wind up there!</line>
 <line speaker="Judge">That's right! But what does this mean?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The tip of the knife was undeniably discovered within the victim's body! The only possible explanation is the witness's memory is mistaken!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">That's why I asked her so many times if she was sure she remembered correctly. I believe you were annoyed at the time. But she was sure she remembered correctly!</line>
 <line speaker="Edgeworth">But... there's no other way to explain this inconsistency!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Not so fast, Mr. Edgeworth. There is another explanation. Have you forgotten already? About a little something called... "falsified evidence"?</line>
 <line speaker="Edgeworth">You're treading on thin ice, Wright...</line>
 <line speaker="Phoenix">All I'm saying, is that this broken knife might be the piece of evidence that was forged! You can't deny the possibility!</line>
@@ -294,19 +294,19 @@
 <line speaker="Phoenix">...!</line>
 <line speaker="Edgeworth">There must have been another broken knife!</line>
 <line speaker="Judge">What are the chances of there being two broken knives?</line>
-<line speaker="Phoenix"><thought>Another broken knife besides Joe Darke's... Could there have been one?</thought></line>
-<line speaker="Phoenix"><thought>Broken knives don't just grow on trees... There's no way there was another one!</thought></line>
+<line speaker="Phoenix">(Another broken knife besides Joe Darke's... Could there have been one?)</line>
+<line speaker="Phoenix">(Broken knives don't just grow on trees... There's no way there was another one!)</line>
 <line speaker="Judge">Well, Mr. Wright?</line>
 <line speaker="Phoenix">Your Honor, I believe... the witness must be mistaken.</line>
 <line speaker="Ema">... I knew it. You really don't believe me...</line>
-<line speaker="Phoenix">...! <thought>That flash of lightning burned an unforgettable image in her mind... One that's been torturing her ever since! There's no way Ema could be mistaken!</thought></line>
+<line speaker="Phoenix">...! (That flash of lightning burned an unforgettable image in her mind... One that's been torturing her ever since! There's no way Ema could be mistaken!)</line>
 <line speaker="Phoenix">If the witness is this adamant about the accuracy of what she saw... it can't just be explained away by a simple observational error.</line>
 <line speaker="Ema">Mr. Wright...</line>
 <line speaker="Phoenix">In that instant... Ema really did see a broken knife!</line>
 <line speaker="Judge">I assume then, that you have some information about this "other" broken knife? If so, please feel free to enlighten us.</line>
-<line speaker="Phoenix"><thought>The murder weapon was already broken prior to the murder... There's only one way!</thought> Take a look at this. Here's the real murder weapon!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix">(The murder weapon was already broken prior to the murder... There's only one way!) Take a look at this. Here's the real murder weapon!</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Edgeworth">If anything's broken here... it's you!</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Judge">I'm sure this must all be very amusing to you, Mr. Wright. But may I remind you that the fate of Ms. Lana Skye hangs in the balance?</line>
@@ -320,7 +320,7 @@
 <line speaker="Phoenix">As we earlier concluded, the knife in the picture was not Joe Darke's knife. That being the case... the knife the witness saw, was in all likelihood this award!</line>
 <line speaker="Judge">Order! Order! Order!</line>
 <line speaker="Phoenix">Neil Marshall was awarded King of Prosecutors that day. As an award, he was given this broken shield and a broken knife. When he chased after Joe Darke, he pulled out this knife. Being a prosecutor, he did not carry a pistol. This broken knife was the only weapon he had in this dangerous situation.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But that... That can't be!</line>
 <line speaker="Phoenix">Oh? And why not, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">Because if the King of Prosecutors award knife was the murder weapon... then the murderer and the victim would be reversed!</line>
@@ -328,7 +328,7 @@
 <line speaker="Edgeworth">I mean... This man raising a knife... would have been Prosecutor Neil Marshall!</line>
 <line speaker="Phoenix">Oh... OOOOOHHHHH!!!</line>
 <line speaker="Judge">But the prosecutor was the one who actually died!</line>
-<line speaker="Phoenix">That's true... <thought>What's going on here?</thought></line>
+<line speaker="Phoenix">That's true... (What's going on here?)</line>
 <line speaker="Edgeworth">It seems Mr. Wright has been a bit too eager to jump to conclusions...</line>
 <line speaker="Ema">Wait! I... I remember now... I remember everything!</line>
 <line speaker="Judge">Witness...?</line>
@@ -342,12 +342,12 @@
 <line speaker="Ema">That's right. The list wasn't torn in half at the time I drew this picture. All this time I've been trying so hard to forget... I must have locked this part away deep inside me...</line>
 <line speaker="Judge">Perhaps it would be best... if we added this to the witness's testimony. Would you please tell us what you've recalled, Ms. Skye?</line>
 <line speaker="Ema">Yes, Your Honor.</line>
-<line speaker="Phoenix"><thought>First the knife mix-up, and now... the Blue Badger? This should be interesting...</thought></line>
+<line speaker="Phoenix">(First the knife mix-up, and now... the Blue Badger? This should be interesting...)</line>
 <line speaker="Ema">When I saw that man raise his knife...</line>
 <line speaker="Judge">This is certainly most unusual...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Try impossible! The Head Detective of Criminal Affairs didn't even design him until this year!</line>
-<line speaker="Phoenix"><thought>That would mean he didn't even exist two years ago...</thought></line>
+<line speaker="Phoenix">(That would mean he didn't even exist two years ago...)</line>
 <line speaker="Judge">Yes, well. The defense may now begin its cross-examination.</line>
 <line speaker="Lana">Stop! Please! Don't pursue this any further!</line>
 <line speaker="Phoenix">Lana!</line>
@@ -356,9 +356,9 @@
 <line speaker="Edgeworth">Chief Prosecutor Skye.</line>
 <line speaker="Edgeworth">We've already come this far. It's too late to turn back.</line>
 <line speaker="Judge">Silence! The defense will now begin its cross-examination. Bailiff. Please detain the defendant.</line>
-<line speaker="Phoenix"><thought>It seems we're finally getting to the core of the matter.</thought></line>
+<line speaker="Phoenix">(It seems we're finally getting to the core of the matter.)</line>
 <line speaker="Ema">When I saw that man raise his knife...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">When you say, "that man," I assume you refer to Joe Darke?</line>
 <line speaker="Ema">Yes... at least, I think it was him.</line>
 <line speaker="Phoenix">You... "think"?</line>
@@ -366,38 +366,38 @@
 <line speaker="Edgeworth">The power outage that immediately preceded the incident, is also documented in the Prosecutor's Office reports.</line>
 <line speaker="Judge">So then you...</line>
 <line speaker="Ema">I panicked, and rushed toward both of them.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why would you do something so dangerous!?</line>
 <line speaker="Ema">What else could I have done!? He was about to stab Mr. Marshall!</line>
-<line speaker="Phoenix"><thought>She seems so convinced that Darke was the one holding the knife...</thought></line>
+<line speaker="Phoenix">(She seems so convinced that Darke was the one holding the knife...)</line>
 <line speaker="Edgeworth">But as we've just theorized, Mr. Marshall was the one holding the knife.</line>
 <line speaker="Ema">Well, I didn't know that at the time! When that Darke guy knocked me down, all I could think was, "I've got to help Mr. Marshall!"</line>
 <line speaker="Ema">I think I... I knocked away the man with the knife.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What do you mean, you "think"?</line>
 <line speaker="Ema">It... it all happened so fast... And I was in shock! I don't remember everything clearly. What I did... it's all kind of a blur...</line>
 <line speaker="Edgeworth">In a matter of just a few seconds Ms. Skye was almost killed, then she witnessed a murder about to take place. A little disorientation is only natural.</line>
 <line speaker="Ema">I saw the man about to stab the other person, who I thought was Mr. Marshall. I knew I had to stop the man with the knife.</line>
 <line speaker="Judge">What you did was very brave, young girl. So then, what happened next?</line>
 <line speaker="Ema">Just then there was another flash of lightning, and that's when I saw... the Blue Badger!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure about this?</line>
 <line speaker="Ema">Of course! See? I even drew a picture of him here!</line>
 <line speaker="Edgeworth">But... the Head Detective of Criminal Affairs thought up this hideous beast. And that was just this year... The Blue Badger didn't exist two years ago. This is all quite verifiable.</line>
 <line speaker="Ema">I know it sounds strange. I was surprised too when I saw him at the Police Department. I had this nagging feeling that I'd seen him before somewhere. Now I finally remember!</line>
-<line speaker="Phoenix"><thought>Oh, brother. Just when you thought that thing had caused enough commotion...</thought></line>
+<line speaker="Phoenix">(Oh, brother. Just when you thought that thing had caused enough commotion...)</line>
 <line speaker="Judge">Tell us... Where in the room did you see him dancing?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ema">He wasn't in the room, but I'm sure I saw his shadow!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">His shadow? So you mean, you didn't actually see his face, with its winning smile and all?</line>
 <line speaker="Ema">That's right... but I still remember it. He had three creepy horns...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This is pointless! That thing couldn't have possibly existed two years ago... The witness must be mistaken!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">That may well be... but what's important is what caused her to think she saw what she did.</line>
 <line speaker="Edgeworth">Oh? And I suppose you have an explanation? If so, then by all means... please tell us what this "shadow" really was!</line>
-<line speaker="Phoenix"><thought>What was it Ema saw when that lightning flashed? Who is this "Blue Badger" really...?</thought></line>
+<line speaker="Phoenix">(What was it Ema saw when that lightning flashed? Who is this "Blue Badger" really...?)</line>
 <line speaker="Phoenix">I absolutely and positively have no idea whatsoever!</line>
 <line speaker="Ema">...</line>
 <line speaker="Edgeworth">...</line>
@@ -405,40 +405,40 @@
 <line speaker="Edgeworth">Apparently it helps when trying to overlook one's failures...</line>
 <line speaker="Ema">But I know what I saw! I'm not making this up! Mr. Wright, please! You've got to believe me...</line>
 <line speaker="Phoenix">Ema...</line>
-<line speaker="Phoenix"><thought>The Blue Badger hadn't even been dreamed up when Ema drew this picture. Yet she's certain she saw its "shadow"!</thought> Ladies and gentlemen... It is the defense's belief that on that fateful day two years ago... there indeed was something that looked similar to the Blue Badger... Something that is now sitting in this very room!</line>
+<line speaker="Phoenix">(The Blue Badger hadn't even been dreamed up when Ema drew this picture. Yet she's certain she saw its "shadow"!) Ladies and gentlemen... It is the defense's belief that on that fateful day two years ago... there indeed was something that looked similar to the Blue Badger... Something that is now sitting in this very room!</line>
 <line speaker="Ema">Mr. Wright...!</line>
 <line speaker="Judge">In this room? Very well, Mr. Wright. What is it that the witness saw in that instant? Please show us this mysterious "Blue Badger" look-alike!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Behold! In her confusion, the witness mistook this for the Blue Badger!</line>
 <line speaker="Edgeworth">The only person mistaking anything around here is you.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Judge">This doesn't look anything like the Blue Badger!</line>
-<line speaker="Phoenix">Oh. Uh, give me a second here... <thought>I'd better take another look at the evidence... from every angle!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><thought>The Blue Badger didn't even exist two years ago... So what exactly did Ema see? I've gathered all the evidence. All that's left now... is to put the pieces of the puzzle together...</thought></line>
+<line speaker="Phoenix">Oh. Uh, give me a second here... (I'd better take another look at the evidence... from every angle!)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix">(The Blue Badger didn't even exist two years ago... So what exactly did Ema see? I've gathered all the evidence. All that's left now... is to put the pieces of the puzzle together...)</line>
 <line speaker="Phoenix">The mysterious "Blue Badger" was in fact... this!</line>
 <line speaker="Judge">But that's... Er, what exactly is that?</line>
 <line speaker="Phoenix">I believe it's some sort of jar.</line>
 <line speaker="Ema">But Mr. Wright! That doesn't look anything like the Blue Badger!</line>
 <line speaker="Phoenix">Indeed it doesn't. As it stands now, it's just a plain jar. However... What if we were to change our viewpoint?</line>
 <line speaker="Judge">Our viewpoint...?</line>
-<line speaker="Phoenix"><thought>I've got to show them the correct angle to look at this from!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><thought>This isn't right... I've got to make it look more like the Badger!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(I've got to show them the correct angle to look at this from!)</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix">(This isn't right... I've got to make it look more like the Badger!)</line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Allow me to remind the defense its case hinges on the witness's drawing. If Mr. Wright can't match the shape the witness drew, we cannot accept his claim!</line>
-<line speaker="Phoenix"><thought>I've got to find just the right angle! Maybe I should rotate it vertically a bit more... or horizontally...?</thought></line>
+<line speaker="Phoenix">(I've got to find just the right angle! Maybe I should rotate it vertically a bit more... or horizontally...?)</line>
 <line speaker="Ema">Come on, Mr. Wright! You can do it!</line>
 <line speaker="Phoenix">Well...? Is this a miracle or what? No one can possibly deny this jar's resemblance to the Blue Badger!</line>
 <line speaker="Edgeworth">No... It can't be!!!</line>
 <line speaker="Judge">Order! Order! The defense has proven its claim. The mysterious "Blue Badger" witnessed on the day of the crime was actually this...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Although we all enjoyed Mr. Wright's dramatic performance, one question remains... What's your point!?</line>
 <line speaker="Phoenix">What do you mean?</line>
 <line speaker="Edgeworth">So that Badger thing was actually just a jar. That doesn't change anything!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I'm afraid that's where you're wrong, Mr. Edgeworth. You see... this changes everything!</line>
 <line speaker="Edgeworth">Indeed? Very well, then. Please tell us... What's different now that we know the witness saw this jar?</line>
 <line speaker="Phoenix">Allow me to take these in turn. At the moment of the murder, the witness saw this jar.</line>
@@ -446,18 +446,18 @@
 <line speaker="Phoenix">Knowing this, where could she have seen this jar?</line>
 <line speaker="Judge">Where...?</line>
 <line speaker="Phoenix">The location of the jar is shown in a picture taken on the day of the crime. It's on a shelf in the office of Damon Gant.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But the body was found lying near Lana Skye's desk! The witness testified so herself!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Yes! And it is these two facts that reveal what actually transpired! You see... The struggle between Darke and Marshall did not take place in Lana Skye's office! It happened on the other side of the room, in Chief Gant's office!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Are you implying the murderer moved the victim's body? From Damon Gant's office to Lana Skye's office?</line>
 <line speaker="Phoenix">Yes.</line>
 <line speaker="Edgeworth">Why would he do that!? There's no reason!</line>
 <line speaker="Phoenix">Exactly.</line>
 <line speaker="Phoenix">If there wasn't a "reason"... he wouldn't have gone through the trouble. The only logical conclusion... is that there was a "reason."</line>
 <line speaker="Judge">Do you know what that reason was, Mr. Wright?</line>
-<line speaker="Phoenix"><thought>I've finally figured it out... So this is why Lana tried to stop the trial! It's too late to quit now, though.</thought> Please recall the witness's testimony. She said she knocked away the man who was holding up the knife. In the next instant, the jar was hit and flew threw the air. Now tell me... What could have sent the jar flying?</line>
+<line speaker="Phoenix">(I've finally figured it out... So this is why Lana tried to stop the trial! It's too late to quit now, though.) Please recall the witness's testimony. She said she knocked away the man who was holding up the knife. In the next instant, the jar was hit and flew threw the air. Now tell me... What could have sent the jar flying?</line>
 <line speaker="Judge">That would have to have been... the impact the man made when he was knocked into the wall?</line>
 <line speaker="Phoenix">Ladies and gentlemen... if I may draw your attention to this picture once more. If the man was knocked in the direction of the shelf the jar was sitting on... what would he have hit?</line>
 <line speaker="Ema">A-AHHHHHH...</line>
@@ -466,7 +466,7 @@
 <line speaker="Edgeworth">No... Mr. Wright... You can't be thinking...</line>
 <line speaker="Phoenix">Yes. There is another possibility of what actually transpired in that room.</line>
 <line speaker="Judge">Another possibility?</line>
-<line speaker="Phoenix">Of course the perpetrator would have had no idea, but nevertheless! ... <thought>I... I don't know if I can go through with this...</thought></line>
+<line speaker="Phoenix">Of course the perpetrator would have had no idea, but nevertheless! ... (I... I don't know if I can go through with this...)</line>
 <line speaker="Judge">Mr. Wright? What's the matter?</line>
 <line speaker="Edgeworth">If events took place as the defense theorizes... Then the outcome is obvious. In that moment... assuming the man Ema Skye knocked away was actually Prosecutor Neil Marshall...</line>
 <line speaker="Ema">You mean... Mr. Marshall died... because of... me...? NOOOOOOOOOO!!!</line>
@@ -483,38 +483,38 @@
 <line speaker="Judge">Yes... it certainly would be difficult to prove this with evidence.</line>
 <line speaker="Edgeworth">If we don't have evidence, then we'll have to rely on testimony.</line>
 <line speaker="Lana">I'm afraid that won't work in this case. Both parties involved in the incident are dead.</line>
-<line speaker="Phoenix">...! <thought>We certainly can't get dead people to testify. This has all been a wild goose chase from the beginning!</thought></line>
+<line speaker="Phoenix">...! (We certainly can't get dead people to testify. This has all been a wild goose chase from the beginning!)</line>
 <line speaker="Edgeworth">Hmph. Touche, Ms. Skye. Of course... That only leaves us with one possibility.</line>
-<line speaker="Phoenix">...! <thought>You mean, there's still another possibility?</thought></line>
+<line speaker="Phoenix">...! (You mean, there's still another possibility?)</line>
 <line speaker="Judge">What do you mean, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">I mean, the possibility that the victim left us a message. For better or for worse, Mr. Marshall did not die instantly. He may have left behind the name of the person who took his life... somehow.</line>
 <line speaker="Lana">That's... That's impossible!</line>
 <line speaker="Judge">Well, Mr. Wright? This is the only possibility left to you. A message from the deceased... Does such a message exist?</line>
-<line speaker="Phoenix"><thought>I've got to think back to the Court Record!</thought> The real murderer's name that the victim may have left behind...</line>
-<line speaker="Phoenix"><thought>No... There's no way a dead person could tell the murderer's name!</thought></line>
+<line speaker="Phoenix">(I've got to think back to the Court Record!) The real murderer's name that the victim may have left behind...</line>
+<line speaker="Phoenix">(No... There's no way a dead person could tell the murderer's name!)</line>
 <line speaker="Judge">Well. It looks like this is as far as we can go with this.</line>
 <line speaker="Edgeworth">Mr. Wright. You disappoint me. I never thought you the type to let feelings cloud your judgment.</line>
 <line speaker="Phoenix">My feelings...?</line>
 <line speaker="Edgeworth">If we overlook the victim's message... one he would have written with literally his last breath, then everything will be lost in darkness!</line>
-<line speaker="Phoenix"><thought>Perhaps that thing really is the clue I'm looking for. This is it. I can't afford any more mistakes.</thought></line>
+<line speaker="Phoenix">(Perhaps that thing really is the clue I'm looking for. This is it. I can't afford any more mistakes.)</line>
 <line speaker="Phoenix">This "message" from the deceased... is already in our possession.</line>
 <line speaker="Lana">Mr. Wright! Will you stop at nothing to prove my sister a murderer?</line>
 <line speaker="Edgeworth">Do not be mistaken, Ms. Skye.</line>
 <line speaker="Lana">...!</line>
 <line speaker="Edgeworth">Our purpose is not to accuse Ema of any crime. There is only one thing we seek: the truth. No matter how painful it may be.</line>
 <line speaker="Judge">Now then, Mr. Wright. Please show us the piece of evidence... that conveys a message from the deceased!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">This is the message from the deceased!</line>
 <line speaker="Judge">Right... Now then. This is a message from the judge!</line>
-<line speaker="Phoenix">Oh... <thought>I guess that wasn't right. If a dead person left behind a message... it would have to be in written form. That's the only logical conclusion.</thought></line>
+<line speaker="Phoenix">Oh... (I guess that wasn't right. If a dead person left behind a message... it would have to be in written form. That's the only logical conclusion.)</line>
 <line speaker="Edgeworth">You'd better be careful, or you might wind up deceased yourself.</line>
 <line speaker="Judge">Let's try this again.</line>
 <line speaker="Phoenix">This is the message left by the deceased.</line>
 <line speaker="Judge">This is that "Blue Badger" from before, right?</line>
 <line speaker="Lana">Oh, is he going to just speak the killer's name?</line>
 <line speaker="Edgeworth">If that thing could, I'm sure it would.</line>
-<line speaker="Phoenix"><thought>Looks like everyone's forgotten this is just a jar.</thought> A message was left here... on the surface of this jar.</line>
+<line speaker="Phoenix">(Looks like everyone's forgotten this is just a jar.) A message was left here... on the surface of this jar.</line>
 <line speaker="Judge">What do you mean?</line>
 <line speaker="Phoenix">If you look closely, you can see a faint trail of blood on this jar.</line>
 <line speaker="Edgeworth">It looks like someone wiped the blood away.</line>
@@ -527,14 +527,14 @@
 <line speaker="Phoenix">Precisely so! All we need to do is connect these points... and the victim's message will become apparent!</line>
 <line speaker="Lana">N-no...!</line>
 <line speaker="Judge">Mr. Wright! What kind of message did the victim leave for us!?</line>
-<line speaker="Phoenix">Your Honor... I believe these blood stains will reveal to us the answer! <thought>I've got to connect these dots to make letters. There's only one thing the victim would have written, given the circumstances: The murderer's name!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix">Your Honor... I believe these blood stains will reveal to us the answer! (I've got to connect these dots to make letters. There's only one thing the victim would have written, given the circumstances: The murderer's name!)</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">What do you think!? I came up with this message!</line>
 <line speaker="Judge">Hmm... Yes... I feel like I'm teaching handwriting to a student who is all thumbs...</line>
 <line speaker="Edgeworth">I think you should make him write out "I won't do it again" 100 times.</line>
-<line speaker="Phoenix"><thought>I never was much good at handwriting... I guess I'll check the court record...</thought></line>
-<line speaker="Phoenix"><thought>It's a defense attorney's duty to prove his client's innocence. That's why all I've been thinking about is saving Lana. After all my efforts, I never thought it would turn out like this!</thought></line>
+<line speaker="Phoenix">(I never was much good at handwriting... I guess I'll check the court record...)</line>
+<line speaker="Phoenix">(It's a defense attorney's duty to prove his client's innocence. That's why all I've been thinking about is saving Lana. After all my efforts, I never thought it would turn out like this!)</line>
 <line speaker="Edgeworth">So this is the final message Prosecutor Marshall left behind.</line>
 <line speaker="Judge">Of all people... She may not have meant it... but in the end, the one who took the victim's life...</line>
 <line speaker="Phoenix">was Ema Skye.</line>
@@ -546,7 +546,7 @@
 <line speaker="Edgeworth">Ack!</line>
 <line speaker="Gant">Yes, Worthy. Because of you... an innocent man was sentenced to death. Not only that... but you used forged evidence to ensure his conviction!</line>
 <line speaker="Edgeworth">K-kkckck! KKCKRRAAAAHHHH!!!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But Joe Darke really was a serial murderer! That's undeniable!</line>
 <line speaker="Gant">I'm afraid that's not important. Didn't you know? We aren't defenders of justice.</line>
 <line speaker="Phoenix">What?</line>
@@ -564,7 +564,7 @@
 <line speaker="Gumshoe">You've got a lot of nerve, pal! Making a detective run all around while on duty, and to top it off you call me here... I've seen happier people at funerals!</line>
 <line speaker="Phoenix">I take it Lana's having you run errands again.</line>
 <line speaker="Gumshoe">Let me tell you, this is the last time, pal! Here. She asked me to give this to you if there was a break in today's trial.</line>
-<line speaker="Phoenix">"Evidence Law"? <thought>Edgeworth was talking about this just the other day...</thought></line>
+<line speaker="Phoenix">"Evidence Law"? (Edgeworth was talking about this just the other day...)</line>
 <line speaker="Edgeworth">I'm sure you know the two rules of evidence law, don't you Wright? Rule 1: no evidence shall be shown without the approval of the Police Department!</line>
 <line speaker="Ema">I-is that right, Mr. Wright!?</line>
 <line speaker="Phoenix">It seems so.</line>
@@ -572,7 +572,7 @@
 <line speaker="Gumshoe">The Chief Prosecutor also wanted me to give you a message.</line>
 <line speaker="Phoenix">A message?</line>
 <line speaker="Gumshoe">She said, "If you're planning to take HIM on, you're going to need this book."</line>
-<line speaker="Phoenix"><thought>"Him"... I guess I'll need to give this book a thorough read...</thought></line>
+<line speaker="Phoenix">("Him"... I guess I'll need to give this book a thorough read...)</line>
 <line speaker="Gumshoe">Doesn't look like that book'll do you any good now though. All that's left now is the Chief Prosecutor's sentence.</line>
 <line speaker="Phoenix">That's where you're wrong, Detective.</line>
 <line speaker="Gumshoe">Huh?</line>
@@ -584,7 +584,7 @@
 <line speaker="Gumshoe">...!</line>
 <line speaker="Phoenix">She merely stuck a knife into his dead body. That means the real killer...is still out there.</line>
 <line speaker="Gumshoe">What!?</line>
-<line speaker="Phoenix"><thought>And we're going to expose him... No matter what it takes! This case has hurt too many people. It's time to bring it to an end!</thought></line>
+<line speaker="Phoenix">(And we're going to expose him... No matter what it takes! This case has hurt too many people. It's time to bring it to an end!)</line>
 <line speaker="Judge">The court will now reconvene for the trial of Ms. Lana Skye. Mr. Edgeworth.</line>
 <line speaker="Edgeworth">Yes, Your Honor?</line>
 <line speaker="Judge">The inquiry committee is planning to impose harsh penalties for your actions.</line>
@@ -600,20 +600,20 @@
 <line speaker="Judge">What!? But there's never been a case example...</line>
 <line speaker="Edgeworth">Undeniably this is an unusual arrangement... but a very effective one. It would prove that I haven't struck any "deals" with the witnesses.</line>
 <line speaker="Judge">Hmm... Well, Mr. Wright? What do you say?</line>
-<line speaker="Phoenix">... <thought>Unbelievable. Edgeworth has found a way to continue the trial!</thought> Very well. The defense accepts the prosecution's proposal.</line>
+<line speaker="Phoenix">... (Unbelievable. Edgeworth has found a way to continue the trial!) Very well. The defense accepts the prosecution's proposal.</line>
 <line speaker="Judge">Then it's settled. The, uh... defense... may now call forth the next witness!</line>
 <line speaker="Edgeworth">Mr. Wright.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Edgeworth">You do realize this is your last chance? If you call the wrong witness... this trial is as good as over.</line>
-<line speaker="Phoenix">The defense calls... <thought>The time's finally come to bring out the real murderer!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">The defense calls... (The time's finally come to bring out the real murderer!)</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">It appears I've overestimated you, Mr. Wright.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Edgeworth">For a moment, I actually thought you knew what you were doing. Hmph!</line>
 <line speaker="Judge">Mr. Wright! This court has long since tired of your questionable antics!</line>
-<line speaker="Phoenix"><thought>I still don't have any concrete evidence, but judging by the direction everything seems to be pointing... There's another person even more suspicious!</thought></line>
+<line speaker="Phoenix">(I still don't have any concrete evidence, but judging by the direction everything seems to be pointing... There's another person even more suspicious!)</line>
 <line speaker="Phoenix">Damon Gant. The defense calls Damon Gant to the stand!</line>
 <line speaker="Judge">D-Damon Gant...? What does he have to do with anything!?</line>
 <line speaker="Phoenix">... As the defendant's partner two years ago, Mr. Gant has first-hand knowledge of the crime. I feel we should hear what he has to say about it.</line>
@@ -649,31 +649,31 @@
 <line speaker="Judge">Hmm... Is that when Darke was arrested?</line>
 <line speaker="Gant">Him? He was lying on the floor unconscious. When Ema sent Neil flying... it seems Darke bumped his head.</line>
 <line speaker="Judge">I see... Everything seems pretty clear-cut.</line>
-<line speaker="Phoenix"><thought>If the police chief has the right to refuse to testify... Then I'd better hit him hard and fast!</thought></line>
+<line speaker="Phoenix">(If the police chief has the right to refuse to testify... Then I'd better hit him hard and fast!)</line>
 <line speaker="Gant">As I recall, Neil and I were questioning him that day.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">As I recall... a ceremony was held at the Police Department that day...</line>
 <line speaker="Gant">Yes, that's right. I guess you could say I'm a workaholic... After winning his award, Neil was all fired up too. That's probably what spooked Darke, and made him run away like that.</line>
 <line speaker="Edgeworth">Was the defendant, Lana Skye, also present in the room?</line>
 <line speaker="Gant">I don't quite remember... At the very least, she wasn't there when Darke ran for it.</line>
 <line speaker="Gant">To make a long story short, we slipped up. That power outage didn't help either.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So the two of you ran immediately after him, right?</line>
 <line speaker="Gant">That's right, but Darke made it to the elevator first, so Neil and I split up. He went upstairs and I went downstairs. I guess you could say... he got "lucky."</line>
 <line speaker="Edgeworth">What's this about a power outage?</line>
 <line speaker="Gant">Oh, that. The elevator stopped all of a sudden, and I got the shock of my life. Well... Probably not as shocked as Neil was when that knife went into his heart, though.</line>
-<line speaker="Phoenix"><thought>That's not funny...</thought></line>
+<line speaker="Phoenix">(That's not funny...)</line>
 <line speaker="Gant">When I went to my office, I found Lana there.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Could you tell us what you saw?</line>
 <line speaker="Gant">It was a shocking sight... Neil and that serial killer were lying in a heap on the floor, all tangled together.</line>
 <line speaker="Phoenix">Darke was also lying collapsed on the floor?</line>
 <line speaker="Gant">Yes, apparently he hit his head and was knocked out. Next to them were those two poor girls.</line>
-<line speaker="Phoenix"><thought>Lana and Ema...</thought></line>
+<line speaker="Phoenix">(Lana and Ema...)</line>
 <line speaker="Gant">Lana was cradling Ema in her arms. Looking back at it now... She must have already known what her sister had done.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Gant">Apparently she had already... "arranged" the crime scene.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How can you know that!?</line>
 <line speaker="Gant">Because of the victim's body. It had already been moved.</line>
 <line speaker="Edgeworth">So that means... You found the body near Lana's desk?</line>
@@ -682,15 +682,15 @@
 <line speaker="Edgeworth">...</line>
 <line speaker="Gant">Anyway...</line>
 <line speaker="Gant">As you can see, I had nothing to do with the "forgery."</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you're saying... that the forgery had already taken place by the time you arrived at your office?</line>
 <line speaker="Gant">That's exactly what I'm saying. I can understand how Lana must have felt, but moving a body and hiding evidence are inexcusable no matter what the circumstances.</line>
-<line speaker="Phoenix"><thought>Is that how it really went down?</thought></line>
+<line speaker="Phoenix">(Is that how it really went down?)</line>
 <line speaker="Edgeworth">Staring at the witness won't do you any good, Mr. Wright.</line>
 <line speaker="Edgeworth">If you're going to stare at anything... you'd be better off staring at the Court Record.</line>
 <line speaker="Gant">Worthy, Worthy... Always the smooth talker.</line>
-<line speaker="Phoenix"><thought>But which piece of evidence ties Gant to the forgery...?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(But which piece of evidence ties Gant to the forgery...?)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You claim you had nothing to do with the forgery... but I'm afraid that is a claim you cannot back up.</line>
 <line speaker="Gant">Explain yourself.</line>
 <line speaker="Phoenix">Several pieces of evidence were found in your office. Take this jar, for example.</line>
@@ -698,7 +698,7 @@
 <line speaker="Phoenix">A piece of this jar was discovered in your safe.</line>
 <line speaker="Gant">...</line>
 <line speaker="Phoenix">Not only that, but the evidence list I presented earlier... was actually found inside your desk!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You claim you had nothing to do with the forgery... but I'm afraid that is a claim you cannot back up!</line>
 <line speaker="Gant">Explain yourself.</line>
 <line speaker="Phoenix">Several pieces of evidence were found in your office. Take this list, for example.</line>
@@ -706,22 +706,22 @@
 <line speaker="Phoenix">This was discovered in your desk.</line>
 <line speaker="Gant">...</line>
 <line speaker="Phoenix">Not only that, but a piece of this jar that was sitting in your office... was found inside your safe!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">If you really had nothing to do with the forgery... then how do you explain this?</line>
 <line speaker="Judge">W-what's that!? And what's that on it... a handprint?</line>
 <line speaker="Phoenix">Chief Gant! Your explanation, please!</line>
 <line speaker="Gant">... I don't know. You tell me, son.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Gant">My dear Wrighto. Don't you know the second rule of evidence law?</line>
-<line speaker="Phoenix"><thought>Uh-oh, not this again. Evidence law...</thought></line>
+<line speaker="Phoenix">(Uh-oh, not this again. Evidence law...)</line>
 <line speaker="Gant">Rule 2: "Unregistered evidence presented must be relevant to the case in trial." Tell me, how is that rag relevant to this trial?</line>
 <line speaker="Judge">It appears... the defense was not prepared.</line>
-<line speaker="Phoenix"><thought>I guess it's too early to use this piece of evidence.</thought></line>
+<line speaker="Phoenix">(I guess it's too early to use this piece of evidence.)</line>
 <line speaker="Judge">Please accept my profound apologies, Chief. Would you mind giving the defense another chance?</line>
 <line speaker="Gant">Well, okay. I'll do it just this once. But only because you asked, Udgey.</line>
 <line speaker="Judge">Thank you. I assure you the defense is terribly sorry. Ha ha ha...</line>
-<line speaker="Phoenix"><thought>Yeah. Sorry I didn't nail you...</thought></line>
-<line speaker="Phoenix"><thought>Lana did admit to forging evidence... but that can't be the whole truth. Somehow I've got to link Gant to the incident!</thought></line>
+<line speaker="Phoenix">(Yeah. Sorry I didn't nail you...)</line>
+<line speaker="Phoenix">(Lana did admit to forging evidence... but that can't be the whole truth. Somehow I've got to link Gant to the incident!)</line>
 <line speaker="Judge">It was found where!?</line>
 <line speaker="Phoenix">You see, Chief Gant. These articles of evidence uncovered in your office... are both concrete proof... that you also played a part in the illegal investigation!</line>
 <line speaker="Judge">Chief Gant! What's the meaning of this!?</line>
@@ -732,11 +732,11 @@
 <line speaker="Gant">Well... You were the one who snuck into my office when you "found" this evidence.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Gant">Prosecutors aren't the only ones capable of forging evidence, you know. Defense attorneys can do so too. Isn't that right, Wrighto?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">However! Detective Gumshoe was present during the investigation!</line>
 <line speaker="Gant">Worthy, my boy. Not even detectives are exempt from the law. Rest assured Dick will receive his due punishment.</line>
 <line speaker="Edgeworth">Wh...</line>
-<line speaker="Phoenix">WHAAAAT!? <thought>If Detective Gumshoe's salary drops any further, he'll end up paying to work!</thought></line>
+<line speaker="Phoenix">WHAAAAT!? (If Detective Gumshoe's salary drops any further, he'll end up paying to work!)</line>
 <line speaker="Judge">Yes, well. In light of the Detective's presence... please give us your testimony regarding these pieces of evidence found in your office, and their relation to the forgery that took place at the crime scene.</line>
 <line speaker="Gant">My, my... Kids these days no longer know how to put two and two together...</line>
 <line speaker="Gant">Let's see, what was it now? A jar fragment... and a list?</line>
@@ -749,9 +749,9 @@
 <line speaker="Judge">My apologies, Chief, but would you mind waiting until tomorrow for that? Today is... well, you know...</line>
 <line speaker="Gant">All right, Udgey. In return, though...</line>
 <line speaker="Judge">I know! I know! That place, right?</line>
-<line speaker="Phoenix"><thought>Huh? What are these guys, telepathic?</thought></line>
+<line speaker="Phoenix">(Huh? What are these guys, telepathic?)</line>
 <line speaker="Gant">For all I know, you could have planted them in my office.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I'd appreciate it if you'd stop making these ridiculous allegations.</line>
 <line speaker="Gant">Yes, you do have a point... You wouldn't have the guts to do something like that...</line>
 <line speaker="Phoenix">What!? I'll have you know, back in the day I once broke into a cattle ranch, and tipped-</line>
@@ -759,26 +759,26 @@
 <line speaker="Gant">Anyway, you can't prove you didn't carry in the evidence, can you? If you have proof to the contrary, you're going to need it later.</line>
 <line speaker="Edgeworth">Later? What are you talking about?</line>
 <line speaker="Gant">What else? I'm talking about when your fingerprints are found. Yes. If they're found inside my safe, they would prove your investigation was illegal.</line>
-<line speaker="Phoenix">Grrr... <thought>I've never faced anyone as slimy as this guy!</thought></line>
+<line speaker="Phoenix">Grrr... (I've never faced anyone as slimy as this guy!)</line>
 <line speaker="Gant">Anyway, you can't prove "when" those pieces of evidence were discovered.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What do you mean by that?</line>
 <line speaker="Gant">This is all purely hypothetical, of course... but suppose I did place those items in my safe. Such an act... wouldn't necessarily constitute forgery.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">If concealing evidence found at a crime scene isn't forgery...</line>
 <line speaker="Gant">I'm not through speaking yet, Mr. Wright. It all depends on "when" the evidence was discovered.</line>
 <line speaker="Gant">If they were found after Darke was convicted, then they're worthless.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you saying this jar fragment... wasn't discovered in the initial investigation?</line>
 <line speaker="Gant">It would appear not. After all, it wasn't listed in the evidence list. For all we know, it could have suddenly materialized the day after Darke was sentenced.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Oh, and wouldn't that be convenient...</line>
 <line speaker="Edgeworth">Wright.</line>
 <line speaker="Edgeworth">The Chief is talking about a "possibility." So long as you can't rule that out... your remarks, however clever they may be, will only succeed in wasting time.</line>
-<line speaker="Phoenix"><thought>Tell me something I don't know...</thought></line>
+<line speaker="Phoenix">(Tell me something I don't know...)</line>
 <line speaker="Gant">Come now, Mr. Wright. Think about it.</line>
 <line speaker="Gant">There's no reason I'd participate in a forgery.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How can you look me in the eye and say that!?</line>
 <line speaker="Gant">Because I'm innocent.</line>
 <line speaker="Phoenix">...!</line>
@@ -787,7 +787,7 @@
 <line speaker="Phoenix">...</line>
 <line speaker="Gant">Well? Now do you see?</line>
 <line speaker="Gant">Rearranging the crime scene wouldn't help me out in any way.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Really, Chief Gant? At the very least, there is one very large benefit you've reaped from all this.</line>
 <line speaker="Gant">Oh? I wasn't aware. What is this "benefit"?</line>
 <line speaker="Phoenix">That would of course be the position you have- Chief of Police.</line>
@@ -807,33 +807,33 @@
 <line speaker="Judge">By all means, please do!</line>
 <line speaker="Change statement">"Rearranging the crime scene wouldn't help me out in any way." to "I wouldn't be anyone's "accomplice" if there was nothing in it for me."</line>
 <line speaker="Gant">I wouldn't be anyone's "accomplice" if there was nothing in it for me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Nothing in it" for you?</line>
 <line speaker="Gant">Sorry, but the only person I care about is Yours Truly. That girl... Lana's little sister, was it? If you think I felt sorry for her, you'd better think again.</line>
 <line speaker="Edgeworth">You're right... You don't feel sorry for anyone.</line>
 <line speaker="Gant">Be tough on crime and tough on people. That's how I was raised.</line>
 <line speaker="Edgeworth">You seem to be lax enough on yourself, though.</line>
 <line speaker="Gant">Ho! Ho! Ho! Oh, that's a good one, Worthy!</line>
-<line speaker="Phoenix"><thought>Hmm... Could there have been something in it for him? Given his selfishness, would he have helped someone out?</thought></line>
-<line speaker="Phoenix"><thought>Bah! I can't think of how it would help him! That means... He wouldn't have helped out anyone.</thought></line>
+<line speaker="Phoenix">(Hmm... Could there have been something in it for him? Given his selfishness, would he have helped someone out?)</line>
+<line speaker="Phoenix">(Bah! I can't think of how it would help him! That means... He wouldn't have helped out anyone.)</line>
 <line speaker="Edgeworth">Relax and take a deep breath, Mr. Wright.</line>
 <line speaker="Edgeworth">Try to think "outside the box." After all, that's what you're good at, isn't it?</line>
-<line speaker="Phoenix">Think outside the box... <thought>I never thought I'd hear him tell me that... The question isn't "Who would the Chief help"... It's "Who would ask the Chief for help?" If someone did that, he'd be sure to find a way to benefit from that person!</thought></line>
+<line speaker="Phoenix">Think outside the box... (I never thought I'd hear him tell me that... The question isn't "Who would the Chief help"... It's "Who would ask the Chief for help?" If someone did that, he'd be sure to find a way to benefit from that person!)</line>
 <line speaker="Judge">It appears... the defense has nothing more to say. Chief, would you please repeat your testimony from the beginning?</line>
 <line speaker="Gant">...</line>
 <line speaker="Phoenix">True, you might not help out anyone for their sake. But if it would benefit you... you might decide to assist someone.</line>
 <line speaker="Gant">...</line>
 <line speaker="Judge">Mr. Wright. It appears you're positively determined to portray the Chief... as a nice man who likes to lend people a hand.</line>
-<line speaker="Phoenix"><thought>That's not what I mean...</thought></line>
+<line speaker="Phoenix">(That's not what I mean...)</line>
 <line speaker="Judge">Very well, I'll ask. Who is this person you believe Chief Gant may have helped forge evidence?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Gant">Wrighto, my boy. The look on your face... is almost enough to motivate even me to help you out.</line>
 <line speaker="Judge">I hope you understand that's not a compliment.</line>
-<line speaker="Phoenix"><thought>Chief Gant would have wanted something in return... He must have wanted to be able to blackmail the person he helped!</thought></line>
+<line speaker="Phoenix">(Chief Gant would have wanted something in return... He must have wanted to be able to blackmail the person he helped!)</line>
 <line speaker="Judge">It appears... the defense has nothing more to say. Chief, would you please repeat your testimony from the beginning?</line>
 <line speaker="Gant">...</line>
-<line speaker="Phoenix"><thought>Gant isn't the one who murdered Prosecutor Marshall two years ago. Yet I know he played a part in the forgery. That can only mean someone asked him to be an accomplice.</thought></line>
+<line speaker="Phoenix">(Gant isn't the one who murdered Prosecutor Marshall two years ago. Yet I know he played a part in the forgery. That can only mean someone asked him to be an accomplice.)</line>
 <line speaker="Edgeworth">Damon Gant... someone's accomplice? That sounds unlikely...</line>
 <line speaker="Judge">Chief Prosecutor Lana Skye... Th-the defendant!?</line>
 <line speaker="Gant">...</line>
@@ -848,7 +848,7 @@
 <line speaker="Gant">Wrighto, my boy. You have quite an imagination. Let me ask you something.</line>
 <line speaker="Phoenix">What?</line>
 <line speaker="Gant">Do you have any proof of this? That I "controlled" Lana? For example, is Lana testifying that I've done such a thing?</line>
-<line speaker="Phoenix">Lana... <thought>She's keeping quiet to protect Ema. There's no way she'd testify against Gant!</thought></line>
+<line speaker="Phoenix">Lana... (She's keeping quiet to protect Ema. There's no way she'd testify against Gant!)</line>
 <line speaker="Judge">I'm afraid without any proof, this all amounts to nothing more than mere conjecture.</line>
 <line speaker="Edgeworth">... Unless... that is also what happened in this incident...</line>
 <line speaker="Judge">"This" incident...? Er... which one would that be?</line>
@@ -862,20 +862,20 @@
 <line speaker="Phoenix">... Your Honor, I was merely reiterating... what Mr. Edgeworth said, in easier-to-understand language.</line>
 <line speaker="Edgeworth">It's too late, Mr. Wright.</line>
 <line speaker="Edgeworth">There's no turning back for us now.</line>
-<line speaker="Phoenix"><thought>It looks like he's the one who's decided to go through with this.</thought></line>
+<line speaker="Phoenix">(It looks like he's the one who's decided to go through with this.)</line>
 <line speaker="Judge">Can you prove this, Mr. Wright? That the Chief, a high-ranking officer of the law, is involved in this murder!?</line>
-<line speaker="Phoenix">... <thought>Good question...</thought></line>
+<line speaker="Phoenix">... (Good question...)</line>
 <line speaker="Edgeworth">Regardless of his rank or title, Chief Gant is just a man. The question is, is he a criminal? I believe the evidence will tell.</line>
 <line speaker="Judge">I see. Alright, then. Show us the evidence that ties Chief Gant to the murder of Detective Goodman. Just remember... It better be good!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">... Well, Chief?</line>
 <line speaker="Gant">So long as Mr. Wright is tossing out things regardless of their relevance... mind if I toss something too, Udgey? This shoe should do nicely. I'll chuck it right at you!</line>
 <line speaker="Judge">You always were quite the joker, weren't you?</line>
-<line speaker="Phoenix"><thought>Oops... Looks like I got it wrong.</thought></line>
+<line speaker="Phoenix">(Oops... Looks like I got it wrong.)</line>
 <line speaker="Judge">Don't "oops" me! Or I'll be the one throwing my shoe next!</line>
 <line speaker="Edgeworth">I know it's hard with all that's gone on during this trial, but try to think back to what happened in the evidence room four days ago.</line>
-<line speaker="Phoenix"><thought>Now that he mentions it, we did find something out in yesterday's investigation... Something that proves Gant entered that room...</thought></line>
+<line speaker="Phoenix">(Now that he mentions it, we did find something out in yesterday's investigation... Something that proves Gant entered that room...)</line>
 <line speaker="Gant">Looks like he wants another one of your shoes, Udgey.</line>
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">This is the ID card list...</line>
@@ -896,17 +896,17 @@
 <line speaker="Gant">I always go to the bathroom alone... as I do with the evidence room.</line>
 <line speaker="Phoenix">Detective Goodman wouldn't have happened to be with you that day... would he?</line>
 <line speaker="Gant">O-of course not! Why would he be? I hadn't seen him in days!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You hadn't seen him... "in days"? Chief Gant... I'm afraid you've just undone yourself. On that day, you had to have met with Detective Goodman!</line>
 <line speaker="Judge">What do you mean!? This trial's purpose is to determine Lana Skye's guilt!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">No it isn't, Your Honor. This trial's purpose is to determine the truth. If Chief Gant met the victim on the day of the crime, then we need to determine one thing: what transpired during that meeting!</line>
 <line speaker="Judge">In that case, Mr. Wright! I'm going to have to ask you for evidence! Show us proof that the victim went to meet Chief Gant on the day of the crime!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><thought>No, there's got to be something more solid than this! On that day... Detective Goodman had to go see Chief Gant!</thought></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix">(No, there's got to be something more solid than this! On that day... Detective Goodman had to go see Chief Gant!)</line>
 <line speaker="Judge">Sorry to interrupt your mumblings... but the court is waiting.</line>
-<line speaker="Phoenix"><thought>Oops...</thought></line>
+<line speaker="Phoenix">(Oops...)</line>
 <line speaker="Gant">Why don't you come meet with me tomorrow? Perhaps we could write up your letter of... termination?</line>
 <line speaker="Phoenix">Regardless, you did see Detective Goodman that day!</line>
 <line speaker="Phoenix">Detective Goodman lost his ID card on the day of the crime.</line>
@@ -924,28 +924,28 @@
 <line speaker="Phoenix">... Exactly.</line>
 <line speaker="Judge">But wait! The Chief didn't necessarily need to accompany him to the evidence room. He could have just lent him his ID card.</line>
 <line speaker="Gant">Yes... Now that you mention it, I believe I might have done something of the sort.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Sorry, but that's not possible.</line>
 <line speaker="Edgeworth">According to the record, your card was only used once. But you showed us your ID card earlier. If you had really "lent" it to Detective Goodman, it would have been found on his body!</line>
 <line speaker="Gant">N... NNNNNOOOOOOOOOO!!!</line>
 <line speaker="Judge">Chief Gant! Y-you didn't...!</line>
 <line speaker="Gant">...</line>
 <line speaker="Phoenix">The murder was most likely committed on the spur of the moment. No one in their right mind would choose the Police Department as a place to commit murder. After the murder, you contacted Lana at the Prosecutor's Office. Why else? To dispose of Detective Goodman's body.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">However, the victim's body was discovered in the Prosecutor's Office's parking lot. How did he manage to move it there?</line>
 <line speaker="Gant">I was at the Police Department the entire day, you know.</line>
 <line speaker="Edgeworth">And everyone's aware that Lana stayed at the Prosecutor's Office after the ceremony.</line>
 <line speaker="Phoenix">Everyone except me, it seems... Still, you're the Chief of Police. You have an entire police force at your disposal.</line>
 <line speaker="Gant">Oh, so you think I just ordered an officer to do it? "Hey you. Take this here dead body over to the Prosecutor's Office." I don't think so...</line>
-<line speaker="Phoenix">Chief Gant. You left all the evidence we need... to prove how you moved the body to the Prosecutor's Office. <thought>And all this time I thought it was a useless clue just taking up space...</thought></line>
+<line speaker="Phoenix">Chief Gant. You left all the evidence we need... to prove how you moved the body to the Prosecutor's Office. (And all this time I thought it was a useless clue just taking up space...)</line>
 <line speaker="Judge">How could the Chief have moved the body!? Mr. Wright! Show us this evidence!</line>
 <line speaker="Phoenix">To move the victim's body... Chief Gant used this!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">This is how he moved Detective Goodman's body!</line>
 <line speaker="Judge">A parking stub? "Miles Edgeworth"...</line>
 <line speaker="Edgeworth">You mean...!</line>
 <line speaker="Phoenix">The body was found in the trunk of Mr. Edgeworth's car. I think it's obvious what happened. The body was moved by that car!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You mean I... I... I carried the victim's body!?</line>
 <line speaker="Phoenix">Precisely so.</line>
 <line speaker="Edgeworth">But wait! Even you know... I didn't plan on returning to my office... after the ceremony finished that day.</line>
@@ -953,7 +953,7 @@
 <line speaker="Edgeworth">... A-AAAHHHH...!</line>
 <line speaker="Edgeworth">I... was asked to go. By Chief Gant no less. He told me he wanted me to keep a screwdriver at the Prosecutor's Office. In any case, on the day of the incident, I brought this to the Prosecutor's Office.</line>
 <line speaker="Phoenix">So you see... what you really took to the Prosecutor's Office wasn't the screwdriver... but the victim's body in your trunk!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">This is how he moved Detective Goodman's body!</line>
 <line speaker="Judge">What's that? A screwdriver? But what does that have to do with this case?</line>
 <line speaker="Phoenix">Mr. Edgeworth. Think back to the day of the crime. What is this screwdriver doing here?</line>
@@ -963,12 +963,12 @@
 <line speaker="Phoenix">But you did. Because Chief Gant asked you to.</line>
 <line speaker="Edgeworth">You mean I... I...</line>
 <line speaker="Phoenix">The body was found in the trunk of Mr. Edgeworth's car. I think it's obvious what happened. The body was moved by that car!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Well!?</line>
 <line speaker="Gant">I see... Maybe I'll use this later... to move your dead body, Mr. Wright.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Judge">And I'll help you dispose of it!</line>
-<line speaker="Phoenix"><thought>Chief Gant stayed at the P.D. and Lana stayed at the Prosecutor's Office... That leaves only one possible way he could have moved the body. The only problem is, how did he get him to do it? Maybe that piece of evidence really did have something to do with this case!</thought></line>
+<line speaker="Phoenix">(Chief Gant stayed at the P.D. and Lana stayed at the Prosecutor's Office... That leaves only one possible way he could have moved the body. The only problem is, how did he get him to do it? Maybe that piece of evidence really did have something to do with this case!)</line>
 <line speaker="Judge">I'll ask you again, Mr. Wright. How could the Chief have moved the body!? Mr. Wright! Show us this evidence!</line>
 <line speaker="Judge">Detective Goodman's body... was carried in the trunk of Mr. Edgeworth's car!</line>
 <line speaker="Phoenix">Yes. Unless, of course, you have another explanation, Chief? Why else would you have asked Mr. Edgeworth to carry evidence from a closed case?</line>
@@ -981,13 +981,13 @@
 <line speaker="Gant">I believe... your time's up.</line>
 <line speaker="Judge">My "time's up"?</line>
 <line speaker="Gant">Sorry, Wrighto, but I'm having lunch with the District Attorney General after this. We have to get going if we're going to make it in time for the early bird special.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">B-but... The cross-examination isn't finished yet!</line>
 <line speaker="Gant">Remember what I told you earlier? A police chief... has all kinds of weapons at his disposal.</line>
 <line speaker="Phoenix">..."Weapons"...?</line>
 <line speaker="Gant">Like the right to refuse to testify. I'm invoking that right now.</line>
 <line speaker="Judge">What!? That is not a right to be casually invoked. There are certain risks to be considered!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">So you're going to just run away after all this!?</line>
 <line speaker="Gant">"Run away"? Don't make me laugh, Worthy.</line>
 <line speaker="Gant">"I stabbed ol' Goodman." That's what you're saying, right? But if you had any conclusive evidence, you would have presented it by now.</line>
@@ -996,41 +996,41 @@
 <line speaker="Judge">Hmm... I'll say it again, Mr. Wright. Damon Gant is the current Chief of Police. This court will not tolerate any accusations against him without concrete proof. Well, Mr. Wright?</line>
 <line speaker="Phoenix">Y-Your Honor?</line>
 <line speaker="Judge">Do you have any concrete proof? Proof that Chief Gant murdered Detective Goodman and made Ms. Skye dispose of his body?</line>
-<line speaker="Phoenix"><thought>Do I have any concrete "proof"...?</thought></line>
-<line speaker="Phoenix"><thought>I can't let him just squirm his way out of this! I've got to keep the pressure on!</thought> Yes, Your Honor. I do have such evidence.</line>
+<line speaker="Phoenix">(Do I have any concrete "proof"...?)</line>
+<line speaker="Phoenix">(I can't let him just squirm his way out of this! I've got to keep the pressure on!) Yes, Your Honor. I do have such evidence.</line>
 <line speaker="Judge">Then please hurry up and present it. Just remember, it better prove Chief Gant murdered Detective Goodman beyond a shadow of a doubt!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">So... Er, what exactly is this evidence?</line>
 <line speaker="Phoenix">It's proof. As to whether or not it's enough to demonstrate the Chief's guilt... I'll let you be the judge!</line>
 <line speaker="Judge">But... I am the judge.</line>
 <line speaker="Phoenix">Oh, right... Well, what do you think, Your Honor?</line>
 <line speaker="Judge">What I think, Mr. Wright, is I'm going to be late for my meal.</line>
-<line speaker="Phoenix"><thought>I guess it wasn't enough...</thought> Please, Your Honor! Give me just a little longer to consider!</line>
-<line speaker="Phoenix"><thought>It's no use showing evidence I'm not even sure of myself...</thought> No, Your Honor. At present I have no conclusive evidence.</line>
+<line speaker="Phoenix">(I guess it wasn't enough...) Please, Your Honor! Give me just a little longer to consider!</line>
+<line speaker="Phoenix">(It's no use showing evidence I'm not even sure of myself...) No, Your Honor. At present I have no conclusive evidence.</line>
 <line speaker="Gant">Hmph! See, Udgey?</line>
 <line speaker="Judge">In that case... This court is forced to penalize you for your allegations against the Chief.</line>
 <line speaker="Phoenix">What?</line>
 <line speaker="Gant">I don't gamble unless the stakes are high! It seems that Lady Luck was on my side again today. Okay Udgey, I'll leave the rest to you!</line>
-<line speaker="Judge">I warned you earlier, Mr. Wright. This...is an affront to a senior officer in our nation's law law <thought>[sic]</thought> enforcement agency.</line>
+<line speaker="Judge">I warned you earlier, Mr. Wright. This...is an affront to a senior officer in our nation's law law ([sic]) enforcement agency.</line>
 <line speaker="Phoenix">... WAAAAAHHHHHH!!!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">"Lady Luck," hm? Maybe we should have a word with her.</line>
 <line speaker="Judge">Mr. Edgeworth? What do you mean!?</line>
 <line speaker="Edgeworth">There's one "Lady" who knows the real truth behind this trial... We haven't yet had the honor of hearing her testimony.</line>
-<line speaker="Phoenix"><thought>A lady who knows the truth... Another witness!</thought></line>
+<line speaker="Phoenix">(A lady who knows the truth... Another witness!)</line>
 <line speaker="Edgeworth">In the absence of conclusive evidence, the only other method of proof is testimony.</line>
 <line speaker="Phoenix">But Chief Gant has invoked his right to refuse to testify!</line>
 <line speaker="Edgeworth">There's still someone else. One more witness who can answer all the questions raised in this trial. Someone right in this very room!</line>
 <line speaker="Judge">Mr. Edgeworth! Who is this person!?</line>
 <line speaker="Edgeworth">Hmph... Why are you asking me, Your Honor? Have you forgotten? The defense is the one calling witnesses today.</line>
 <line speaker="Judge">Mr. Wright. Does such a witness exist?</line>
-<line speaker="Phoenix"><thought>She may not be willing to tell the truth... But we can't just stop now!</thought> Yes, Your Honor! The defense calls forth...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(She may not be willing to tell the truth... But we can't just stop now!) Yes, Your Honor! The defense calls forth...</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I thought we were walking the same path together, Mr. Wright. It appears somewhere along the way you got lost.</line>
 <line speaker="Judge">You better find your way back, Mr. Wright, or you'll be left behind!</line>
-<line speaker="Phoenix"><thought>There's another "witness" who can expose Chief Gant's crime... One whom we've all let stand at the sidelines... Now that I think about it, there's only one possible person!</thought></line>
+<line speaker="Phoenix">(There's another "witness" who can expose Chief Gant's crime... One whom we've all let stand at the sidelines... Now that I think about it, there's only one possible person!)</line>
 <line speaker="Judge">The defendant... Ms. Lana Skye!?</line>
 <line speaker="Phoenix">She was in the underground parking lot at 5:15 PM on February 21. Her task: to dispose of the victim's body... in accordance with a certain someone's orders!</line>
 <line speaker="Judge">Hmm... Mr. Edgeworth...?</line>
@@ -1039,11 +1039,11 @@
 <line speaker="???">Hold on!</line>
 <line speaker="Judge">Huh? Chief Gant! I thought you were going to eat.</line>
 <line speaker="Gant">Listen good, Lana!</line>
-<line speaker="Phoenix"><thought>He's talking to Lana!</thought></line>
+<line speaker="Phoenix">(He's talking to Lana!)</line>
 <line speaker="Gant">I don't think you need me to tell you this, but if you accept Mr. Wright's claim... there will be terrible consequences.</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Gant">That's right... Your sister will be found guilty... for Neil Marshall's murder!</line>
-<line speaker="Phoenix">Ah! <thought>This isn't good!</thought></line>
+<line speaker="Phoenix">Ah! (This isn't good!)</line>
 <line speaker="Gant">Of course, you'd never support such outrageous claims anyway... right? Just something to think about... All right, then. I've got a lunch date to meet.</line>
 <line speaker="Judge">... Okay. If there aren't any further objections... this court is now in recess!</line>
 <line speaker="Edgeworth">Looks like we managed to stay in the game.</line>
@@ -1055,7 +1055,7 @@
 <line speaker="Gumshoe">Ah, don't worry. I've already decided where to work now! At your office!</line>
 <line speaker="Phoenix">My office...?</line>
 <line speaker="Gumshoe">Sure! I'll take the place of that top-knotted girl you used to work with!</line>
-<line speaker="Phoenix"><thought>Could he mean... Maya?</thought></line>
+<line speaker="Phoenix">(Could he mean... Maya?)</line>
 <line speaker="Gumshoe">Still... Looks like we're all out of moves now. Chief Gant's done it again. How is it he always gets the upper hand!?</line>
 <line speaker="Phoenix">It's not fair he has the right to refuse to testify!</line>
 <line speaker="Edgeworth">Hmph. Settle down, Wright. Remember what the judge said?</line>
@@ -1065,14 +1065,14 @@
 <line speaker="???">You mean, he forfeits his right to say anything too!</line>
 <line speaker="Phoenix">Ema! Are you okay?</line>
 <line speaker="Ema">Yeah. When I came to, I was in the medical office. I've been listening to the trial from the gallery.</line>
-<line speaker="Phoenix"><thought>So she heard everything that's been going on.</thought> Um, Ema... I'm sorry for what I said before.</line>
+<line speaker="Phoenix">(So she heard everything that's been going on.) Um, Ema... I'm sorry for what I said before.</line>
 <line speaker="Ema">No, don't be. It was the truth. You know, it's funny. I almost feel somehow... relieved.</line>
 <line speaker="Phoenix">"Relieved"?</line>
 <line speaker="Ema">Yeah... Now I finally know what really happened. To think that all this time... my sister was being blackmailed by that terrible man! And she did it all... just to protect me.</line>
 <line speaker="Edgeworth">Ever since her appointment as Chief Prosecutor, everyone who knew her... said she changed. Perhaps... it was easier that way for her.</line>
 <line speaker="Gumshoe">What do you mean?</line>
 <line speaker="Edgeworth">What do you think I mean? To follow Chief Gant's orders. She must have shut herself up deep inside... to force herself to do anything and everything the Chief told her to do.</line>
-<line speaker="Phoenix"><thought>That must be why she became so cold...</thought></line>
+<line speaker="Phoenix">(That must be why she became so cold...)</line>
 <line speaker="Ema">It was all my fault. It's all because I... I murdered Mr. Marshall.</line>
 <line speaker="Gumshoe">Hey. Don't go blaming yourself, now. If you want to blame anyone, blame society, pal!</line>
 <line speaker="Ema">Chief Gant may be able to fool everyone else with his "forgery," but he can't fool my memory. I remember now. I knocked Mr. Marshall into that armor.</line>
@@ -1091,7 +1091,7 @@
 <line speaker="Ema">Lana! No matter what happens, I'll always be your sister!</line>
 <line speaker="Lana">...</line>
 <line speaker="Judge">Now then, your testimony, if you will. First, tell us about your relationship with Gant.</line>
-<line speaker="Phoenix"><thought>Everything hinges on your testimony. You're the only chance we have to get Gant!</thought></line>
+<line speaker="Phoenix">(Everything hinges on your testimony. You're the only chance we have to get Gant!)</line>
 <line speaker="Lana">I worked alongside Gant for years...</line>
 <line speaker="Judge">Hmm... Are you sure about this testimony?</line>
 <line speaker="Lana">Your Honor. I'm confessing to a capital offense. Of course I'm sure.</line>
@@ -1099,25 +1099,25 @@
 <line speaker="Judge">If this is true, then that means Chief Gant has nothing to do with this.</line>
 <line speaker="Lana">That's what I've been telling you from the beginning.</line>
 <line speaker="Ema">Please, Mr. Wright. You've got to help her! She's sacrificing herself because of me...</line>
-<line speaker="Phoenix"><thought>But what if she's telling the truth?</thought></line>
+<line speaker="Phoenix">(But what if she's telling the truth?)</line>
 <line speaker="Ema">She's not. I know my own sister. Whenever she speaks stiffly like that, she's hiding something inside. Deep down, she's really screaming in agony!</line>
-<line speaker="Phoenix">...! <thought>Yeah... This is no time to to start second-guessing myself!</thought></line>
+<line speaker="Phoenix">...! (Yeah... This is no time to to start second-guessing myself!)</line>
 <line speaker="Judge">The defense may now begin its cross-examination.</line>
 <line speaker="Lana">I worked alongside Gant for years...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How many years, exactly?</line>
 <line speaker="Lana">Ever since I made senior detective. Let's see, I was 24 then... so that would be five years.</line>
 <line speaker="Judge">Detective Gant and Detective Skye were legendary partners. I personally saw them testify in numerous cases.</line>
-<line speaker="Phoenix"><thought>She must have been good, coming from the same school as Mia...</thought></line>
+<line speaker="Phoenix">(She must have been good, coming from the same school as Mia...)</line>
 <line speaker="Lana">Damon Gant was a respectable detective. That's why...</line>
 <line speaker="Lana">There's no truth to this "blackmail" theory.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">But think about it, Ms. Skye! You didn't murder Detective Goodman! You told me as much yesterday in jail!</line>
 <line speaker="Lana">You still don't get it, do you Mr. Wright? Any testimony you cannot present in court is as useless as idle gossip.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Lana">I stabbed Detective Goodman with a knife. And...</line>
 <line speaker="Lana">I fabricated the evidence two years ago all by myself.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you do so to help your sister?</line>
 <line speaker="Lana">Joe Darke was a serial killer. My sister almost became his last victim that day. I didn't want that incident to ruin her life.</line>
 <line speaker="Phoenix">But what she did was justifiable self-defense! She wouldn't have been charged with anything...</line>
@@ -1125,7 +1125,7 @@
 <line speaker="Ema">Lana...</line>
 <line speaker="Judge">So that's why you fabricated the evidence two years ago?</line>
 <line speaker="Lana">When I found Prosecutor Marshall's body, I rearranged the crime scene.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You say you did this all by yourself?</line>
 <line speaker="Lana">Yes.</line>
 <line speaker="Edgeworth">Would you mind telling us what you found when you arrived at the crime scene?</line>
@@ -1138,19 +1138,19 @@
 <line speaker="Lana">Something like that...</line>
 <line speaker="Edgeworth">If that is so, what happened to the other murder weapon? Darke was carrying a switchblade knife.</line>
 <line speaker="Lana">Oh, that was lying on the floor a little distance away. It was probably knocked away in the struggle.</line>
-<line speaker="Phoenix"><thought>That's not how it went down! She's trying to cover up her lies with more lies!</thought></line>
+<line speaker="Phoenix">(That's not how it went down! She's trying to cover up her lies with more lies!)</line>
 <line speaker="Ema">All just to protect me...</line>
 <line speaker="Judge">So when you found the scene like this, what did you do? After all, this is what everything boils down to!</line>
 <line speaker="Lana">Yes...</line>
 <line speaker="Change statement to">"I broke off the tip of Darke's knife, planted it inside the wound, then moved the body."</line>
 <line speaker="Lana">I broke off the tip of Darke's knife, planted it inside the wound, then moved the body.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You planted the tip of Darke's knife in the victim's wound?</line>
 <line speaker="Judge">And then you moved the body?</line>
 <line speaker="Edgeworth">But why!? Why would you do that...?</line>
 <line speaker="Lana">You of all people should know, Edgeworth. You've always had a good head on your shoulders.</line>
 <line speaker="Edgeworth">...!</line>
-<line speaker="Phoenix"><thought>My head isn't that bad... but maybe I ought to ask for the sake of the others...</thought></line>
+<line speaker="Phoenix">(My head isn't that bad... but maybe I ought to ask for the sake of the others...)</line>
 <line speaker="Phoenix">But why did you do that!?</line>
 <line speaker="Lana">Come now, Mr. Wright. Even you should be able to figure it out.</line>
 <line speaker="Edgeworth">...</line>
@@ -1163,14 +1163,14 @@
 <line speaker="Judge">Let's have the witness explain this in more detail. The reason Ms. Skye moved the body!</line>
 <line speaker="Add statement or change statement "I knew the tip of the weapon found buried in his body would be all the proof we needed." to">"The pieces of the jar that shattered during the events threatened my plan."</line>
 <line speaker="Lana">I knew the tip of the weapon found buried in his body would be all the proof we needed.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">According to your testimony, Prosecutor Marshall's broken knife was the murder weapon, right?</line>
 <line speaker="Lana">Yes, and leaving it at that might point the blame away from Darke. I felt the most effective way to get him convicted, would be by having the tip of his knife found inside the victim's body.</line>
 <line speaker="Judge">So you... you buried it inside the victim's stab wound?</line>
 <line speaker="Lana">Yes. Because I hated Darke for what he did.</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Lana">The pieces of the jar that shattered during the events threatened my plan.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Pieces of the jar..." You mean...?</line>
 <line speaker="Lana">Yes. That wretched jar Mr. Wright showed us earlier. In order to show that Darke committed the crime... I felt it would be more expedient to move the body.</line>
 <line speaker="Edgeworth">So... when you first found the body, the jar was already...</line>
@@ -1179,20 +1179,20 @@
 <line speaker="Ema">...</line>
 <line speaker="Phoenix">What's the matter, Ema?</line>
 <line speaker="Ema">Apparently the jar shattered at the time the crime was committed. But I have a feeling there is more to it than that.</line>
-<line speaker="Phoenix"><thought>There must be a contradiction here somewhere!</thought></line>
+<line speaker="Phoenix">(There must be a contradiction here somewhere!)</line>
 <line speaker="Lana">Anyway, I committed this fabrication completely alone.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lana">My only motivation was to get Darke convicted. It had nothing to do with Ema.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you rearranged the crime scene... Are you sure you didn't do this to keep Ema from looking like the "murderer"?</line>
 <line speaker="Lana">How many times do I have to tell you, Mr. Wright? Ema didn't do it. Period.</line>
-<line speaker="Phoenix"><thought>Are you so desperate to hide that fact... you're willing to risk the death sentence?</thought></line>
+<line speaker="Phoenix">(Are you so desperate to hide that fact... you're willing to risk the death sentence?)</line>
 <line speaker="Ema">She's lying! She did it so I wouldn't be blamed for what happened!</line>
 <line speaker="Lana">In any case... as a prosecutor, what I've done is unpardonable. There's nothing I can do to make up for my actions.</line>
 <line speaker="Ema">Mr. Wright! My sister's lying!</line>
 <line speaker="Phoenix">Looks like she's determined to protect you to the end. She insists she fabricated the evidence by herself.</line>
 <line speaker="Ema">There's no way she could have done it alone!</line>
-<line speaker="Phoenix"><thought>I've got to get Lana to talk more. If she's lying, then she's bound to slip up and make a contradiction!</thought></line>
+<line speaker="Phoenix">(I've got to get Lana to talk more. If she's lying, then she's bound to slip up and make a contradiction!)</line>
 <line speaker="Phoenix">Ms. Skye, I understand how you feel. You committed that "crime" two years ago to protect your sister.</line>
 <line speaker="Judge">You mean the forgery at the scene where Neil Marshall was murdered?</line>
 <line speaker="Phoenix">If that truth were to be exposed now, the past two years of your life will have been useless. Even so, I am compelled to bring to everyone's attention a significant contradiction within your testimony!</line>
@@ -1208,7 +1208,7 @@
 <line speaker="Phoenix">He couldn't have written Ema's name on a shattered jar!</line>
 <line speaker="Judge">Order! Order!</line>
 <line speaker="Edgeworth">Your Honor. It would appear... more information is needed in regard to this jar, and its bloody message! We may be missing something critical here!</line>
-<line speaker="Phoenix"><thought>Something critical...?</thought></line>
+<line speaker="Phoenix">(Something critical...?)</line>
 <line speaker="Edgeworth">Chief Prosecutor. It seems you're as in the dark as we are... about the truth towards which we're headed.</line>
 <line speaker="Lana">What...?</line>
 <line speaker="Edgeworth">Just tell us exactly what you saw. We'll piece together the information to arrive at the truth.</line>
@@ -1220,18 +1220,18 @@
 <line speaker="Ema">She didn't think Darke was the real murderer. That's why she tried to erase the "real evidence."</line>
 <line speaker="Judge">Very well. The defense may now begin its cross-examination.</line>
 <line speaker="Lana">I immediately noticed the blood traces on the jar,</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So the jar was already broken?</line>
 <line speaker="Lana">It's a miracle that thing hadn't broken earlier.</line>
 <line speaker="Judge">It certainly looks as feeble as the defense's case...</line>
-<line speaker="Phoenix"><thought>But not as feeble as the judge's judgment...</thought></line>
+<line speaker="Phoenix">(But not as feeble as the judge's judgment...)</line>
 <line speaker="Edgeworth">You were an ace detective who never missed a detail. Do you really expect us to believe you didn't investigate what was written on the jar pieces?</line>
 <line speaker="Lana">Normally I would have,</line>
 <line speaker="Lana">but it was dark in the room and I didn't have time to check it out.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you didn't know your sister's name was written on the jar?</line>
 <line speaker="Lana">No. If I had known... I would have gathered all the pieces and ground them to dust.</line>
-<line speaker="Phoenix"><thought>Well, that helps my case...</thought></line>
+<line speaker="Phoenix">(Well, that helps my case...)</line>
 <line speaker="Ema">Lana... you'd do that for me?</line>
 <line speaker="Phoenix">It seems you two might make up yet.</line>
 <line speaker="Lana">Anyway, I just barely had enough time to move the body as it was.</line>
@@ -1239,55 +1239,55 @@
 <line speaker="Lana">I was. I knew I had to destroy the evidence before anyone came.</line>
 <line speaker="Judge">This is rather shocking...</line>
 <line speaker="Lana">To be safe, I wiped away the blood.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I'm afraid this action of yours reveals what really happened.</line>
 <line speaker="Judge">What do you mean?</line>
 <line speaker="Phoenix">If you really thought Darke killed Prosecutor Marshall, you wouldn't have wiped away the blood.</line>
 <line speaker="Lana">... What else could I have done in that situation?</line>
 <line speaker="Ema">Lana...</line>
 <line speaker="Lana">I only had a few moments. There wasn't enough time for me to do anything else but gather up the pieces.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lana">The fragments were large, so I'm sure I got them all.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">But how could you see with the power out? It should have been pitch black in that office.</line>
 <line speaker="Lana">A detective is always prepared, Mr. Wright. Even now I always carry a pocket light and a camera with me.</line>
 <line speaker="Ema">Even I carry my a bottle of emergency Luminol wherever I go!</line>
 <line speaker="Lana">I never miss anything. I got every last piece.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lana">All I could think about was wiping them clean before they were discovered.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you illegally rearranged the crime scene?</line>
 <line speaker="Lana">Yes. I don't have any excuse for my actions.</line>
 <line speaker="Ema">I'm so sorry, Lana. I didn't know... I've treated you so badly all this time...</line>
-<line speaker="Phoenix"><thought>It's not too late. There's still plenty of time to make up... After we've gotten to the bottom of this incident!</thought></line>
+<line speaker="Phoenix">(It's not too late. There's still plenty of time to make up... After we've gotten to the bottom of this incident!)</line>
 <line speaker="Judge">No doubt this day will leave a permanent stain on the history of the Prosecutor's Office.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ema">More contradictions have surfaced in her testimony.</line>
 <line speaker="Phoenix">Your sister's really putting up a fight. She must really care about you. Still, she's not doing this the right way...</line>
 <line speaker="Ema">...!</line>
-<line speaker="Phoenix"><thought>I think I've finally figured out the contradictions in her testimony. There's one final "possibility" that might turn everything around!</thought></line>
+<line speaker="Phoenix">(I think I've finally figured out the contradictions in her testimony. There's one final "possibility" that might turn everything around!)</line>
 <line speaker="Phoenix">Ms. Skye. I believe this jar conceals a truth even you were unaware of.</line>
 <line speaker="Lana">What?</line>
 <line speaker="Phoenix">We found the final piece of this jar in Chief Gant's safe.</line>
 <line speaker="Lana">In the Chief's safe? But how...?</line>
-<line speaker="Phoenix"><thought>I knew it! She really didn't know!</thought> There's something even more disturbing about that final piece: There was still blood on it.</line>
+<line speaker="Phoenix">(I knew it! She really didn't know!) There's something even more disturbing about that final piece: There was still blood on it.</line>
 <line speaker="Judge">But the witness just testified... that she gathered every last piece and wiped the blood off of them!</line>
 <line speaker="Phoenix">Yes, which leaves us with only one explanation. On the night Prosecutor Marshall was murdered... you were not the first one to show up on the scene! Chief Gant got there before you!</line>
 <line speaker="Judge">But couldn't the defendant have simply missed a piece?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I'm afraid that's unlikely. The pieces are too big for anyone to miss, let alone an ace detective!</line>
 <line speaker="Judge">That may well be, but everyone makes mistakes. Even I once wasted an entire day looking for my dentures. They were in my mouth all along! Ha! Can you believe that!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Have you forgotten, Your Honor? When this witness arrived at the scene, the jar was already broken.</line>
 <line speaker="Judge">Oh, that...</line>
 <line speaker="Edgeworth">There's no way a name could have been written on a shattered jar. Another person discovered the scene prior to the witness!</line>
 <line speaker="Judge">I hope you're not implying this "person" was Chief Gant. At the time, he was looking for Darke downstairs. Besides, even if he was there first, why would he break the jar?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The question is, if he did arrive there first, why did he hide that fact for two years!?</line>
 <line speaker="Judge">...</line>
 <line speaker="Phoenix">Well, Your Honor? Can you answer us that!?</line>
 <line speaker="Judge">Nnnnn... NNNNGHAAAAAAA! Noooooooooooo!</line>
-<line speaker="Judge">Wait, I'm not the one on trail <thought>[sic]</thought> here!</line>
+<line speaker="Judge">Wait, I'm not the one on trail ([sic]) here!</line>
 <line speaker="Edgeworth">Damon Gant arrived at the crime scene prior to the witness. He proceeded to break the jar, and purposefully hid one of the broken pieces. Question: What is this action called?</line>
 <line speaker="Phoenix">Fabrication...</line>
 <line speaker="Judge">B-but why would Chief Gant do that!?</line>
@@ -1296,10 +1296,10 @@
 <line speaker="Edgeworth">Discovering the scene, Lana Skye believed her sister Ema killed the victim. Determined to help her sister, she sought Gant's aid. Lending her his "aid," Gant helped her create evidence that incriminated Darke, sparing Ema. And here is the reason! The reason why Ms. Skye became the Chief's puppet!</line>
 <line speaker="Lana">...!! N-no... I... I did it on my own...</line>
 <line speaker="Ema">Please, Sis! Stop trying to protect the Chief! I... I can't watch you suffer any more for my sake...</line>
-<line speaker="Lana">No, you didn't! It wasn't you, Ema! You didn't kill anyone! Don't believe anything Mr. Wright says! Defense attorneys make up the he <thought>[sic]</thought> most foul lies to defend their clients!</line>
-<line speaker="Phoenix">"Foul lies"...? <thought>Imagine that, coming from my own client!</thought></line>
+<line speaker="Lana">No, you didn't! It wasn't you, Ema! You didn't kill anyone! Don't believe anything Mr. Wright says! Defense attorneys make up the he ([sic]) most foul lies to defend their clients!</line>
+<line speaker="Phoenix">"Foul lies"...? (Imagine that, coming from my own client!)</line>
 <line speaker="Judge">Hmm... I guess you do seem the type who likes to twist the truth.</line>
-<line speaker="Phoenix">...! <thought>Wait a minute... What if... we're still smack dab in the middle of Gant's trap!?</thought></line>
+<line speaker="Phoenix">...! (Wait a minute... What if... we're still smack dab in the middle of Gant's trap!?)</line>
 <line speaker="Judge">Is something wrong, Mr. Wright?</line>
 <line speaker="Phoenix">Lana... may be right after all.</line>
 <line speaker="Ema">So you do tell foul lies then, Mr. Wright?</line>
@@ -1324,18 +1324,18 @@
 <line speaker="Phoenix">But I don't remember receiving a picture like that...</line>
 <line speaker="Ema">Lana must have known... See. Mr. Wright? She really does have faith in you!</line>
 <line speaker="Judge">Very well, Mr. Wright. Please present this "picture"!</line>
-<line speaker="Phoenix"><thought>I don't remember receiving any pictures from Lana...</thought></line>
+<line speaker="Phoenix">(I don't remember receiving any pictures from Lana...)</line>
 <line speaker="Ema">Lana said she gave it to you this morning, right?</line>
 <line speaker="Phoenix">I seem to remember getting something from her then...</line>
 <line speaker="Ema">Let's check that evidence again! There must be a picture in there somewhere!</line>
 <line speaker="Phoenix">Hey... There's a picture here!</line>
 <line speaker="Ema">Oh... Oh my... This is... the actual crime scene...!</line>
 <line speaker="Lana">No other detective saw the crime scene like this. That's because I contacted Criminal Affairs only after I rearranged the scene.</line>
-<line speaker="Phoenix"><thought>The cloth we found inside Chief Gant's safe!</thought></line>
+<line speaker="Phoenix">(The cloth we found inside Chief Gant's safe!)</line>
 <line speaker="Phoenix">What's this?</line>
 <line speaker="Ema">It's... a handprint.</line>
 <line speaker="Ema">That cloth... It had fingerprints on it! Whosever fingerprints those are must be the real murderer!</line>
-<line speaker="Phoenix"><thought>What!? But those fingerprints... They're yours, Ema!</thought></line>
+<line speaker="Phoenix">(What!? But those fingerprints... They're yours, Ema!)</line>
 <line speaker="Ema">Why are your lips turning all purple, Mr. Wright?</line>
 <line speaker="Edgeworth">Anyway, let's get on with the cross-examination. So long as you tell the truth, we should be able to flush out the real murderer.</line>
 <line speaker="Judge">Very well. The defense may now begin its cross-examination.</line>
@@ -1343,12 +1343,12 @@
 <line speaker="Gant">Come now, Udgey. This is the poorest excuse for a trial I've ever seen!</line>
 <line speaker="Judge">Chief Gant...</line>
 <line speaker="Gant">What, now you want to make me out as the bad guy too? If so, I'd like to put in a word or two in my defense.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I'm afraid it's too late for that.</line>
 <line speaker="Gant">What?</line>
 <line speaker="Edgeworth">You already declined testimony. That means you forfeited your right to make statements of any sort.</line>
 <line speaker="Gant">...</line>
-<line speaker="Phoenix"><thought>This must be the "risk" the judge was talking about...</thought></line>
+<line speaker="Phoenix">(This must be the "risk" the judge was talking about...)</line>
 <line speaker="Edgeworth">Just sit back, relax... and enjoy the sound of the noose tightening around your own neck.</line>
 <line speaker="Gant">GGGCCKCKCCKKKK...! ... Ah, so what? You think I'm worried?</line>
 <line speaker="Phoenix">...!</line>
@@ -1362,15 +1362,15 @@
 <line speaker="Phoenix">...!</line>
 <line speaker="Gant">Why have you been keeping quiet about it? You do have something to show us, right? Something that proves who knocked over Neil Marshall, causing his death. Conclusive evidence, that leaves no room for doubt!</line>
 <line speaker="Judge">I-is this true, Mr. Wright!?</line>
-<line speaker="Phoenix">... <thought>If I show that piece of evidence now... Ema's sure to be made out as the murderer!</thought></line>
+<line speaker="Phoenix">... (If I show that piece of evidence now... Ema's sure to be made out as the murderer!)</line>
 <line speaker="Judge">Mr. Wright! If you have any more evidence, present it now! And if you try to conceal anything... you will be the one appearing before the Board of Inquiries!</line>
-<line speaker="Phoenix"><thought>What do I do now!? I'd better think this through carefully. I can't afford to make the wrong decision! Should I present that piece of evidence? The one that shows who really killed Prosecutor Marshall?</thought></line>
+<line speaker="Phoenix">(What do I do now!? I'd better think this through carefully. I can't afford to make the wrong decision! Should I present that piece of evidence? The one that shows who really killed Prosecutor Marshall?)</line>
 <line speaker="Phoenix">Yes, Your Honor. I do have further evidence.</line>
 <line speaker="Ema">All right! The time's finally come to show it to them! Those prints have got to be the Chief's!</line>
 <line speaker="Judge">Now then, let's see this "conclusive" evidence! The evidence that shows who actually murdered Prosecutor Marshall!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><thought>No... I can't! I can't show them that yet!</thought></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix">(No... I can't! I can't show them that yet!)</line>
 <line speaker="Ema">Why not? You know which item to show!</line>
 <line speaker="Edgeworth">Mr. Wright. If you're not sure, then think it through again... How can you use that evidence to your advantage?</line>
 <line speaker="Judge">That's... a piece of leather clothing?</line>
@@ -1384,11 +1384,11 @@
 <line speaker="Phoenix">... ... ...They're Ms. Skye's. Ms. Ema Skye's.</line>
 <line speaker="Ema">What!? They're mine...? So I really did do it...</line>
 <line speaker="Gant">See? I told you it was conclusive.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But this was found in your safe! That means it's possible you forged it!</line>
 <line speaker="Gant">I don't know what you're talking about.</line>
 <line speaker="Gant">I don't remember any cloth in my safe. Do you really expect me to believe that?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But...!</line>
 <line speaker="Edgeworth">Give it up, Mr. Wright. It's over.</line>
 <line speaker="Edgeworth">You shouldn't have presented that... By presenting that evidence, you tied Ema Skye to Neil Marshall's death.</line>
@@ -1425,7 +1425,7 @@
 <line speaker="Gant">I was sure my plan would work, but it's always bet to be prepared for the worst. I wasn't about to let anyone blame me for a murder that girl committed.</line>
 <line speaker="Judge">You mean you were calculating that far ahead while forging the evidence!?</line>
 <line speaker="Gant">Who do you take me for, a fool? I didn't make police chief by dumb luck. See this jar fragment? I hid the most legible part of Ema's name. I didn't expect Lana to go and wipe the blood off all the pieces.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But if you fabricated all the evidence... what's to say you didn't fabricate the message on this jar, too?</line>
 <line speaker="Gant">Ho ho ho... Some people just don't know when to quit, do they? That's why I kept one more item for "insurance."</line>
 <line speaker="Edgeworth">You mean that piece of cloth?</line>
@@ -1436,17 +1436,17 @@
 <line speaker="Gant">Yes, I admit it. I didn't want to have to do that, being Chief and all, but it's a lot better than being portrayed as a murderer!</line>
 <line speaker="Judge">Well, Mr. Wright? What do you have to say for yourself? Just a moment ago, you said you didn't have any evidence you could present.</line>
 <line speaker="Gant">Foolish move, Wrighto. You should have shown it then before it was too late.</line>
-<line speaker="Phoenix"><thought>It's been a long battle... but the moment of truth has finally arrived! As long as I don't mess up here, victory is mine!</thought></line>
-<line speaker="Phoenix"><thought>No! It's too late to show the evidence now! Besides, even if I did... it'd just expose that poor girl's fingerprints!</thought></line>
+<line speaker="Phoenix">(It's been a long battle... but the moment of truth has finally arrived! As long as I don't mess up here, victory is mine!)</line>
+<line speaker="Phoenix">(No! It's too late to show the evidence now! Besides, even if I did... it'd just expose that poor girl's fingerprints!)</line>
 <line speaker="Edgeworth">Wright. Think hard over the circumstances.</line>
 <line speaker="Phoenix">The circumstances...?</line>
 <line speaker="Edgeworth">I'm talking about "then" and "now." There's one major difference between the two. Weren't you waiting for that difference?</line>
-<line speaker="Phoenix">...! <thought>So... Edgeworth figured out my plan!</thought></line>
+<line speaker="Phoenix">...! (So... Edgeworth figured out my plan!)</line>
 <line speaker="Ema">Mr. Wright! This is your only chance!</line>
 <line speaker="Phoenix">Your Honor, I do have evidence to present now.</line>
 <line speaker="Judge">All right then, let's see this "conclusive" evidence! The evidence that shows who actually murdered Prosecutor Marshall!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">... Mr. Edgeworth? Your opinion, please?</line>
 <line speaker="Edgeworth">I think Mr. Wright's humor has improved... at the expense of his defense.</line>
 <line speaker="Judge">Better polish up your defense, Mr. Wright!</line>
@@ -1464,10 +1464,10 @@
 <line speaker="Edgeworth">...! You mean you already know? You know whose fingerprints are on that?</line>
 <line speaker="Ema">M-Mr. Wright... Do you really know?</line>
 <line speaker="Judge">Whoever the fingerprints belong to must be the real murderer! Whose fingerprints are they!?</line>
-<line speaker="Phoenix">Very well. I'll tell you. <thought>It should be okay now. Everything's proceeding as predicted.</thought> The person whom these fingerprints belong to are...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><thought>No, it's no use lying here. They'll discover the truth the second they analyze this.</thought></line>
+<line speaker="Phoenix">Very well. I'll tell you. (It should be okay now. Everything's proceeding as predicted.) The person whom these fingerprints belong to are...</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix">(No, it's no use lying here. They'll discover the truth the second they analyze this.)</line>
 <line speaker="Gant">What's the matter, Mr. Wright? Hurry up and tell us!</line>
 <line speaker="Judge">You do know, don't you, Mr. Wright?</line>
 <line speaker="Judge">Ema? Ema Skye!?</line>
@@ -1499,12 +1499,12 @@
 <line speaker="Gant">What!? A contradiction!? What is this fool babbling about!?</line>
 <line speaker="Phoenix">I'm talking about a contradiction. One that proves... who the real killer is!</line>
 <line speaker="Judge">M-Mr. Wright! This piece of cloth... What could it possibly contradict!?</line>
-<line speaker="Phoenix"><thought>Chief Gant, your tyrannical reign ends here!</thought> Behold! The piece of evidence that contradicts this cloth!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix">(Chief Gant, your tyrannical reign ends here!) Behold! The piece of evidence that contradicts this cloth!</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Gant">Oh ho ho ho! It's fun watching you squirm, Wrighto!</line>
 <line speaker="Judge">This piece of evidence indeed seems to contradict something... like your outward appearance of mental sanity!!!</line>
-<line speaker="Phoenix"><thought>What am I doing!? If this cloth was cut from Prosecutor Marshall's vest after he died.. Then something's definitely not right about it!</thought></line>
+<line speaker="Phoenix">(What am I doing!? If this cloth was cut from Prosecutor Marshall's vest after he died.. Then something's definitely not right about it!)</line>
 <line speaker="Edgeworth">It's too late to turn back now. You're the only one who can put an end to this, Wright!</line>
 <line speaker="Gant">And what exactly is this supposed to be...?</line>
 <line speaker="Phoenix">This is the picture Ms. Skye took. Take a good look at it. See where the piece of his vest was cut out?</line>
@@ -1522,7 +1522,7 @@
 <line speaker="Gant">...</line>
 <line speaker="Phoenix">Remember what you admitted only moments ago? That you personally cut out this bloodless piece of the victim's vest? Ironic, isn't it? Through the very act of creating "insurance," you proved that you were the actual murderer!</line>
 <line speaker="Gant">NNNNNNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!</line>
-<line speaker="Phoenix"><thought>It's finished...</thought></line>
+<line speaker="Phoenix">(It's finished...)</line>
 <line speaker="Gant">Heh... Heh heh heh! Oh ho ho ho ho ho ho! That was close, Wrighto! You almost had me!</line>
 <line speaker="Gant">Sorry, but you'll have to do better than that. I refute your allegations.</line>
 <line speaker="Judge">What do you mean, you "refute" his allegations?</line>
@@ -1538,32 +1538,32 @@
 <line speaker="Judge">I'm afraid Mr. Gant's claim is legally correct. Well, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">True... Illegal evidence cannot be used to convict a person... assuming, of course, that the evidence is indeed illegal.</line>
 <line speaker="Judge">Hmm? Well, Mr. Wright?</line>
-<line speaker="Phoenix">... <thought>It seems... at last... The time for me to reveal my plan has finally arrived.</thought></line>
+<line speaker="Phoenix">... (It seems... at last... The time for me to reveal my plan has finally arrived.)</line>
 <line speaker="Judge">Mr. Wright. Do you admit to it? That you purposefully and illegally concealed this piece of cloth?</line>
-<line speaker="Phoenix"><thought>No! If I admit to that... all my planning will have been for nothing!</thought></line>
+<line speaker="Phoenix">(No! If I admit to that... all my planning will have been for nothing!)</line>
 <line speaker="Judge">It seems... Mr. Wright didn't understand the implication of his conduct.</line>
 <line speaker="Edgeworth">If you're going to change your position, this is your only chance, Wright!</line>
-<line speaker="Phoenix"><thought>He's right...</thought></line>
+<line speaker="Phoenix">(He's right...)</line>
 <line speaker="Phoenix">Certainly, I refused to present evidence at one point.</line>
 <line speaker="Gant">Aha! So the evidence is illegal!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">No it isn't, Mr. Gant.</line>
 <line speaker="Gant">Huh?</line>
 <line speaker="Phoenix">It's not that I "didn't" present evidence then... it's that I "couldn't."</line>
 <line speaker="Judge">What do you mean, you "couldn't"?</line>
 <line speaker="Phoenix">There are certain procedures involved when presenting evidence!</line>
 <line speaker="Gant">No, Udgey! Don't listen to his lies! He's nothing but a coward! You can't let him?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There is only one issue left to be resolved in this trial: Is this evidence legal or not?</line>
 <line speaker="Judge">Very well. Let us settle this once and for all. Earlier you refused to present evidence. If you can prove your conduct was not in violation of the law, then do so now!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">It seems... your very existence is "illegal."</line>
 <line speaker="Phoenix">Huh...?</line>
 <line speaker="Edgeworth">You've lost it, Wright. All this time I thought you were using the Chief's knowledge of the law to trap him. It looks like you're the one who got trapped.</line>
 <line speaker="Phoenix">I guess I should just stick to what I'm used to.</line>
 <line speaker="Judge">I never expected to hear that coming from a defense attorney.</line>
-<line speaker="Phoenix"><thought>Gant's a pro at slipping through loopholes in the law... Still, the law's the only weapon I can use to beat him!</thought></line>
+<line speaker="Phoenix">(Gant's a pro at slipping through loopholes in the law... Still, the law's the only weapon I can use to beat him!)</line>
 <line speaker="Phoenix">This is my proof, Your Honor: "Evidence Law."</line>
 <line speaker="Gant">What's this?</line>
 <line speaker="Phoenix">I've done my homework too, Chief. Indeed, Ema Skye's fingerprints were on this piece of cloth. However! At that point in time, this was merely a piece of cloth, nothing more.</line>
@@ -1575,7 +1575,7 @@
 <line speaker="Edgeworth">Rule 2: unregistered evidence presented must be relevant to the case in trial.</line>
 <line speaker="Phoenix">And here is the crux of the matter. You see, at the time it was impossible for me to prove the relevance... between the cloth and the SL-9 Incident.</line>
 <line speaker="Gant">What!? What kind of nonsense is this!? You want "relevancy"? Just take one look at this picture and-</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Sorry, but can you recall... when was that picture presented?</line>
 <line speaker="Judge">That was shown only a few moments ago!</line>
 <line speaker="Gant">No...</line>
@@ -1642,7 +1642,7 @@
 <line speaker="Edgeworth">...!</line>
 <line speaker="Lana">You've suffered every bit as much as I have over these past few days. Believe me, I know how much of an ordeal it's been for you.</line>
 <line speaker="Edgeworth">Hmph! It was nothing.</line>
-<line speaker="Phoenix"><thought>Liar...</thought></line>
+<line speaker="Phoenix">(Liar...)</line>
 <line speaker="Lana">I was worried the pressure might break you. And yet... you rose above it all and guided Mr. Wright to victory. You've done well, Mr. Edgeworth.</line>
 <line speaker="Edgeworth">S-stop it! I only did my job!</line>
 <line speaker="Judge">In light of this case... It seems a good self-examining is in order for all of us. Ms. Skye.</line>
@@ -1653,7 +1653,7 @@
 <line speaker="Lana">It's been a long time, Your Honor. A long time since I've felt free of these heavy chains...</line>
 <line speaker="Judge">Well, this trial has gone on far too long already. Regarding the charge of murder, this court finds the defendant, Ms. Lana Skye...</line>
 <line speaker="Judge">That is all. The court is adjourned!</line>
-<line speaker="Phoenix"><thought>At long last... It's finally over...</thought> E-Ema?</line>
+<line speaker="Phoenix">(At long last... It's finally over...) E-Ema?</line>
 <line speaker="Ema">...</line>
 <line speaker="Phoenix">Why the long face? I'm sorry your sister didn't get completely off the hook, but at least she wasn't convicted for a murder she didn't commit!</line>
 <line speaker="Ema">No, that's not it. Just now, after the trial ended...</line>
@@ -1699,7 +1699,7 @@
 <line speaker="Lana">Thank you both, for all that you've done. I'm sure we'll meet again someday. Isn't that right, Edgeworth?</line>
 <line speaker="Phoenix">E-Edgeworth...?</line>
 <line speaker="Lana">Stop hiding and come over here.</line>
-<line speaker="Phoenix"><thought>Where was he hiding!?</thought></line>
+<line speaker="Phoenix">(Where was he hiding!?)</line>
 <line speaker="Edgeworth">I just came to say... Congratulations.</line>
 <line speaker="Lana">Thank you.</line>
 <line speaker="Ema">Thank you, Mr. Edgeworth!</line>
@@ -1724,19 +1724,19 @@
 <line speaker="Lana">You said, "in order to fight crime alone, one needs a weapon." That may be right, but think back to today's trial. You weren't alone.</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Lana">You were working together with Mr. Wright. And because of that partnership, you were able to present evidence that otherwise would have gone undiscovered. Isn't that right, Mr. Wright?</line>
-<line speaker="Phoenix">Huh? What? Oh, uh... yeah. <thought>What is this, a pop quiz?</thought></line>
+<line speaker="Phoenix">Huh? What? Oh, uh... yeah. (What is this, a pop quiz?)</line>
 <line speaker="Ema">Come on, Mr. Wright! Show him what Lana's talking about!</line>
-<line speaker="Phoenix"><thought>Evidence... that neither Edgeworth nor I would have been able to find on our own?</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix">(Evidence... that neither Edgeworth nor I would have been able to find on our own?)</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Ema">That's the picture I drew!</line>
 <line speaker="Phoenix">Our counterattack began with this. You had one half of the evidence list, and I had the other. Apart, we wouldn't have been able to completely restore Ema's picture.</line>
 <line speaker="Lana">That didn't just happen by "chance," Edgeworth.</line>
 <line speaker="Edgeworth">...!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Edgeworth">... That might mean something to you, but I don't see how it had anything to do with our partnership.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Lana">Mr. Wright. It seems you still have a lot to learn as well.</line>
-<line speaker="Phoenix"><thought>I guess that wasn't the right piece of evidence.</thought></line>
+<line speaker="Phoenix">(I guess that wasn't the right piece of evidence.)</line>
 <line speaker="Edgeworth">... It's time for me to go.</line>
 <line speaker="Ema">Mr. Edgeworth...</line>
 <line speaker="Edgeworth">If you'll excuse me... there are still some loose ends that need wrapping up. Take care, Chief Prosecutor.</line>
@@ -1768,10 +1768,10 @@
 <line speaker="Gumshoe">What, you think I could afford that with my salary? You gotta be kiddin' me, pal!</line>
 <line speaker="Phoenix">Huh? Huh? Huh?</line>
 <line speaker="Ema">Thank you, Mr. Wright! You're the best!</line>
-<line speaker="Phoenix">... <thought>Why is it... I suddenly feel like I want to scream?</thought></line>
+<line speaker="Phoenix">... (Why is it... I suddenly feel like I want to scream?)</line>
 <line speaker="Gumshoe">Since we're all here, why don't we all go together?</line>
 <line speaker="Ema">Yeah, that's a great idea! Come on, guys! Let's go!!!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lana">I arranged for a friend of mine in Europe to take care of Ema. She's a coroner. I think Ema will be pleased. As for me, this affair has pretty much ended my days at the Prosecutor's Office. Still, I'll manage to find my way back to the field somehow. Then I'll be able to investigate crimes together with Ema.</line>
 <line speaker="Gumshoe">Yikes! I thought I was a goner for a moment there! In the end, though they overlooked my unauthorized investigation of the Chief's office. "If we penalized you any more, it'd be worse than firing you!" Yep. That's what they said. It just goes to show... You can't shake me off that easily!</line>
 <line speaker="Meekins">My new mission is to guard the main entrance and take care of Billy! Can you believe it!? I've been demoted to a security guard! My partner's keeping an eye on the entrance for me today. I'll show them, though! Someday I'm going to make detective! Yes sir! Then I can be just like that Dick Gumshoe!</line>
@@ -1783,28 +1783,28 @@
 <line speaker="Maya">Coming!!! Well, see you around Nick!</line>
 <line speaker="Bellboy">Uh, Mr. Edgeworth? I brought you your tea... ...&#160;? What's going on?</line>
 <line speaker="Ema">Thanks for coming to see me off! I can't believe I'm going to Europe. Thank you, Mr. Wright! Thank you so much for everything!!! I'm a little sad, but I'll be all right! Whenever I want to see Lana, all I have to do is open this book...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow?</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
-<line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(I don't think that won me any points with the judge...)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
-<line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(Whoops! That didn't go so well.)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
-<line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(I don't think that won me any points with the judge...)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
-<line speaker="Phoenix"><thought>Ugh, I must be on the wrong track?</thought></line>
+<line speaker="Phoenix">(Ugh, I must be on the wrong track?)</line>
 <line speaker="Judge">That's enough! This court sees no reason to further prolong the trial. The defense has failed to give the court sufficient reason to doubt the prosecution's claim! This court find the defendant, Ms. Lana Skye...</line>
 <line speaker="Judge">The accused will surrender to the court immediately, to be held pending trial at a higher court within a month from today's date. That is all. The court is adjourned!</line>
 </xml>

@@ -32,7 +32,7 @@
 <line speaker="Patricia">But that shilling belongs to us! Doesn't it, Roly?</line>
 <line speaker="Roly">Of course it does, my love! It's just for you and me, my darlin'!</line>
 <line speaker="Gina">Grrr...</line>
-<line speaker="Ryunosuke"><thought>This was just supposed to be a nice stroll with Iris and Mr Sholmes before afternoon tea. Why did we have to run into another fiasco on Briar Road?</thought> I don't really see how we could be of any help, Gina. There's no way of knowing who the coin really belongs to if it was just dropped in the gutter.</line>
+<line speaker="Ryunosuke">(This was just supposed to be a nice stroll with Iris and Mr Sholmes before afternoon tea. Why did we have to run into another fiasco on Briar Road?) I don't really see how we could be of any help, Gina. There's no way of knowing who the coin really belongs to if it was just dropped in the gutter.</line>
 <line speaker="Iris">I wouldn't be so sure of that, Runo.</line>
 <line speaker="Ryunosuke">What?</line>
 <line speaker="Iris">I have a feeling I might know the answer...to the question of whose coin that is!</line>
@@ -69,7 +69,7 @@
 <line speaker="Ryunosuke">It was one whole shilling. My entire monthly stipend. And I lost all of it! As I handed it over to Mr Sholmes, I gritted my teeth so hard my gums started to bleed.</line>
 <line speaker="Iris">Please, Runo...don't exaggerate. That's a horrible image!</line>
 <line speaker="Patricia">What about a lawyer who borrows money from a ten-year-old girl? Now that's a horrible image.</line>
-<line speaker="Ryunosuke"><thought>...Why do I feel like my reputation with this couple has just fallen through the floor?</thought></line>
+<line speaker="Ryunosuke">(...Why do I feel like my reputation with this couple has just fallen through the floor?)</line>
 <line speaker="Sholmes">Ah ha ha ha ha hah! There are few things more invigorating than taking a man for all he's worth!</line>
 <line speaker="Iris">Don't be so pleased with yourself, Hurley. It's not as if Runo ever had a chance of winning.</line>
 <line speaker="Ryunosuke">Wait... What? What do you mean by that?</line>
@@ -101,7 +101,7 @@
 <line speaker="Ryunosuke">Ah! Do, do you think...?</line>
 <line speaker="Iris">Well, if there's any trace of blood on that coin, we'll soon know about it! Alright, Ginny...hold veeery still...</line>
 <line speaker="Gina">Eh? Wot?! Agh!</line>
-<line speaker="Ryunosuke">Look at that! See there on the coin? <thought>It's clearly changed colour!</thought></line>
+<line speaker="Ryunosuke">Look at that! See there on the coin? (It's clearly changed colour!)</line>
 <line speaker="Sholmes">In other words, there is blood on this coin.</line>
 <line speaker="Roly">Once again, as I said, sah! That would be my blood, sweat and tear-</line>
 <line speaker="Iris">Ooh, wait. I've seen blood turn that colour before. Yes! I know whose it is! I know whose coin it is!</line>
@@ -153,7 +153,7 @@
 <line speaker="Ryunosuke">That this one shilling coin belongs to Iris and Iris alone, I think.</line>
 <line speaker="Sholmes">I cannot fault your observation, Mr Naruhodo.</line>
 <line speaker="Iris">Well, you know what they say... What goes around comes around!</line>
-<line speaker="Ryunosuke"><thought>Why do I get the feeling that Iris knew it was coming around to her from the very beginning?</thought></line>
+<line speaker="Ryunosuke">(Why do I get the feeling that Iris knew it was coming around to her from the very beginning?)</line>
 <line speaker="Sholmes">Ah ha ha ha ha hah! Priceless, as they say! Well then, my dear fellow, how about this evening we indulge in some bitter tea and a bitter rematch? I'll even allow you to stake the coming month's spending money in advance.</line>
 <line speaker="Ryunosuke">...I fold.</line>
 </xml>

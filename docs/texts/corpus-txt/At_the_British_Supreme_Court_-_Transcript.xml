@@ -14,7 +14,7 @@
 <line speaker="Stronghart">...Fifty-eight seconds remaining, Inspector.</line>
 <line speaker="Gregson">AAAAAARRRGH! We'll have to talk later, sunshine!</line>
 <line speaker="Susato">Um...good morning, Lord Stronghart!</line>
-<line speaker="Ryunosuke"><thought>Wow, he's really looking fiercely at his pocket watch today!</thought></line>
+<line speaker="Ryunosuke">(Wow, he's really looking fiercely at his pocket watch today!)</line>
 <line speaker="Stronghart">And good morning to you. ...Business so early in the day?</line>
 <line speaker="Ryunosuke">Oh! Um...yes! Well, I mean, erm... It's about the other day... Um...</line>
 <line speaker="Susato">We are to deliver our report, Lord Stronghart. As our dealings with Mr Natsume are now over.</line>
@@ -30,7 +30,7 @@
 <line speaker="Stronghart">The book is due back today, so I've asked Gregson to locate it for me with his investigative prowess... ...inside five minutes!</line>
 <line speaker="Susato">I must say I've never seen anyone working so hard to find something. He's like a man possessed.</line>
 <line speaker="Stronghart">Ah yes. That's because his month's salary is staked upon the outcome.</line>
-<line speaker="Ryunosuke"><thought>At whose instigation? ...Let me guess: this stony-faced lord.</thought> And...the five-minute time limit? What's the significance of that?</line>
+<line speaker="Ryunosuke">(At whose instigation? ...Let me guess: this stony-faced lord.) And...the five-minute time limit? What's the significance of that?</line>
 <line speaker="Stronghart">There is none. Just my vulgar mischievous spirit showing itself, I'm afraid.</line>
 <line speaker="Susato">Oh. By your own admission...</line>
 <line speaker="Gregson">GAAAAAAAAARGH! I, I can't... Hahh... My feet...hahh...are killin' me.</line>
@@ -107,7 +107,7 @@
 <line speaker="Stronghart">Yes. What novel tax would you impose? Pray, give us something truly original... ...inside five seconds.</line>
 <line speaker="Ryunosuke">What?! Oh, um...</line>
 <line speaker="Susato">Think of something that everyone uses, Mr Naruhodo! And really squeeze every penny out of the population!</line>
-<line speaker="Ryunosuke"><thought>...That's quite the intense stare! I'm very glad Susato-san isn't in charge.</thought></line>
+<line speaker="Ryunosuke">(...That's quite the intense stare! I'm very glad Susato-san isn't in charge.)</line>
 <line speaker="Stronghart">Your time is up. So, what's your answer?</line>
 <line speaker="Ryunosuke">Um... Well......... Air, maybe? Yes! How about air?</line>
 <line speaker="Stronghart">Hm... An air tax, you say?</line>
@@ -118,7 +118,7 @@
 <line speaker="Ryunosuke">No! You, you mean to say...?</line>
 <line speaker="Susato">Surely not... You mean a tax on air has been imposed in the past?</line>
 <line speaker="Stronghart">It was last century. The finance minister of our neighbour France proposed it.</line>
-<line speaker="Ryunosuke">WHAT?! <thought>If I ever go for a visit, I'm holding my breath.</thought></line>
+<line speaker="Ryunosuke">WHAT?! (If I ever go for a visit, I'm holding my breath.)</line>
 <line speaker="Stronghart">Unsurprisingly, it was strongly opposed by the public and soon scrapped. The minister didn't last long, either.</line>
 <line speaker="Susato">Oh dear... Although clearly that would have been an untenable situation.</line>
 <line speaker="Ryunosuke">The public at large are a force to be reckoned with.</line>
@@ -137,7 +137,7 @@
 <line speaker="Stronghart">Why, what else? To locate my missing copy of 'The Lion's Pride'.</line>
 <line speaker="Ryunosuke">Oh!</line>
 <line speaker="Stronghart">It's on one of the shelves in this room. Of that I am certain. Now...I shall give you ten minutes. And let's stake your student stipend on it, hm? Fail to find the book, and you forfeit next month's payment.</line>
-<line speaker="Ryunosuke">Ob-<cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">Ob-<cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Stronghart">Your time starts...now. ...Oh, and one more thing. I believe you just said the word 'objection'.</line>
 <line speaker="Ryunosuke">Ugh...</line>
 <line speaker="Stronghart">Kindly leave your fivepence over there before you begin combing the shelves.</line>

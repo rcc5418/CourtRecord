@@ -50,12 +50,12 @@
 <line speaker="Layton">This letter...it's from Carmine.</line>
 <line speaker="Espella">Um...what was my next line? I forgot! Hee hee! How have you been, Mr Layton?</line>
 <line speaker="Luke">That was a perfect performance, Espella! I felt like we'd gone back in time!</line>
-<line speaker="Phoenix"><thought>Wow, guys... Talk about putting on a show...</thought></line>
+<line speaker="Phoenix">(Wow, guys... Talk about putting on a show...)</line>
 <line speaker="Espella">Mr Wright, Maya! It's so good to see you both again! So how did you like the re-enactment of our first meeting?</line>
 <line speaker="Phoenix">Err, yeah... You totally had me fooled... I thought for sure Labyrinthia had come down with another case of "magic water"...</line>
 <line speaker="Maya">What are you saying, Nick? They just re-enacted the fateful scene from when they first met!</line>
 <line speaker="Luke">I bet the fans could recognise that scene in an instant!</line>
-<line speaker="Phoenix"><thought>...How was I supposed to know? I wasn't even there... Hey, wait! Neither were you, Maya!</thought></line>
+<line speaker="Phoenix">(...How was I supposed to know? I wasn't even there... Hey, wait! Neither were you, Maya!)</line>
 <line speaker="Layton">Incidentally...where is Carmine? I invited him to join us too.</line>
 <line speaker="Espella">Oh, that's right... He won't be able to make it tonight.</line>
 <line speaker="Luke">Really? That's a bit of a shame...</line>
@@ -63,9 +63,9 @@
 <line speaker="Luke">Let's read it, Professor!</line>
 <line speaker="Luke">...Who'd have thought Carmine would get involved in another car accident?</line>
 <line speaker="Layton">Indeed, he seems to be making rather a habit of it...</line>
-<line speaker="Phoenix">Hmm... <thought>That's one dangerous habit...</thought></line>
+<line speaker="Phoenix">Hmm... (That's one dangerous habit...)</line>
 <line speaker="Maya">I say he should just change his name. Clearly it's totally jinxed!</line>
-<line speaker="Phoenix"><thought>I don't think that's how it works, Maya...</thought></line>
+<line speaker="Phoenix">(I don't think that's how it works, Maya...)</line>
 <line speaker="Layton">Right, then. Now that everyone's here, what do you all say to some tea? Care to do the honours, Luke?</line>
 <line speaker="Phoenix">I... Uh...</line>
 <line speaker="Layton">What is it, Mr Wright?</line>

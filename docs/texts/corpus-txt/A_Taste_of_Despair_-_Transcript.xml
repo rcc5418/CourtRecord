@@ -82,7 +82,7 @@
 <line speaker="Luke">Wha...?</line>
 <line speaker="Phoenix">You've been trying your best this whole time. Just to get Espella out of here safely. It's my fault those knights are on our tail and are probably going to find us.</line>
 <line speaker="Luke">But...I wouldn't say all's lost just yet! I mean...there's got to be a way to bring Maya back... I'm sure we can find a way.</line>
-<line speaker="Phoenix">............ <thought>C'mon Phoenix... You have to keep it together here! These two need you now more than ever!</thought></line>
+<line speaker="Phoenix">............ (C'mon Phoenix... You have to keep it together here! These two need you now more than ever!)</line>
 <line speaker="Luke">Well then... How about we make our way to that tavern Inquisitor Barnham mentioned?</line>
 <line speaker="Espella">...Yes, that would be Rouge's tavern. I can show you the way.</line>
 <line speaker="Luke">Huh? Hey, Espella...you know that place?</line>
@@ -130,7 +130,7 @@
 <line speaker="Cutter">...Hm? Ho ho! You're that lad from yesterday, ain't you?!</line>
 <line speaker="Espella">Is he an acquaintance of yours, Luke?</line>
 <line speaker="Cutter">Not JUST an acquaintance! This lad and the bloke in the dark hat. They... They're my saviours! Them two really saved my hide yesterday! These two pulled my fat outta the fryer right when I needed it most!</line>
-<line speaker="Luke"><thought>I guess that's one way of putting it...</thought> It's all right, Espella. This man is really a good person.</line>
+<line speaker="Luke">(I guess that's one way of putting it...) It's all right, Espella. This man is really a good person.</line>
 <line speaker="Cutter">Ho ho! That's right, lass! Ol' Cutter has a face you can trust! Hang on... Where is the bloke with the dark hat, anyway?</line>
 <line speaker="Luke">Oh... Um, well you see...the professor... He... .........</line>
 <line speaker="Cutter">...Somethin' mighty unpleasant must've happened from the looks of it. How abouts we take the conversation inside, eh?</line>
@@ -215,10 +215,10 @@
 <line speaker="Luke">Oh wow! That'd be great!</line>
 <line speaker="Luke">This must be it... So this is the room Rouge was talking about, huh?</line>
 <line speaker="Espella">Oh my... It is...quite unique, isn't it?</line>
-<line speaker="Phoenix"><thought>Is that...a statue in the corner? How very...err, "avant garde".</thought></line>
+<line speaker="Phoenix">(Is that...a statue in the corner? How very...err, "avant garde".)</line>
 <line speaker="Luke">That statue really looks a lot like Mr Cutter, doesn't it...? ...Hey, I wonder if he made this himself.</line>
 <line speaker="Espella">Not only is Mr Cutter very nice, it seems he's quite artistic as well.</line>
-<line speaker="Phoenix"><thought>I dunno if I'd call this "art", per se.</thought> Anyway, it's just nice to have a safe place to rest for a while.</line>
+<line speaker="Phoenix">(I dunno if I'd call this "art", per se.) Anyway, it's just nice to have a safe place to rest for a while.</line>
 <line speaker="Luke">Uh-huh! We did so much running about today. I'm totally exhausted.</line>
 <line speaker="Phoenix">I think we can plan out our next step in the morning. Let's try and get some rest.</line>
 <line speaker="Espella">Right.</line>
@@ -234,13 +234,13 @@
 <line speaker="Rouge">Nah, it's fine. The house rule is: "you [sic] make a mess, you clean it". But those dummies couldn't keep their eyes open. I'll make 'em clean up in the morning.</line>
 <line speaker="Phoenix">...Huh? So, hasn't everyone gone home?</line>
 <line speaker="Rouge">I couldn't exactly let them go home in that state, so I shoved them all upstairs for the night. This is both their home and shelter. I mean, don't tell me you can't hear their loud snoring from down here...</line>
-<line speaker="Phoenix"><thought>...And here I thought that was my stomach growling this whole time...</thought></line>
+<line speaker="Phoenix">(...And here I thought that was my stomach growling this whole time...)</line>
 <line speaker="Rouge">...So? You must have come down here for something, right?</line>
 <line speaker="Phoenix">Oh yeah...that's right. I came down for a glass of water.</line>
 <line speaker="Rouge">Hm... All right. But, you'll have to earn it first. You win at my game and I'll get you any drink you want. On the house.</line>
 <line speaker="Phoenix">Did you say...game? Um...what kind of a game?</line>
 <line speaker="Rouge">...SILENCE!</line>
-<line speaker="Phoenix"><thought>Whoa, now that...was totally unexpected...</thought> U-um...I'm really sorry... If I said something wrong...</line>
+<line speaker="Phoenix">(Whoa, now that...was totally unexpected...) U-um...I'm really sorry... If I said something wrong...</line>
 <line speaker="Rouge">Now, don't you go getting the wrong idea. I only drew this knife... to use in this puzzle I've made for you!</line>
 <line speaker="Picarats">30</line>
 <line speaker="Notes">No penalty for an incorrect submission</line>
@@ -342,7 +342,7 @@
 <line speaker="Luke">That no-good Storyteller changed the date of the parade by writing in his book! He just changed it right there in front of us!</line>
 <line speaker="Phoenix">He rewrote the Story? Then... when exactly...is the next parade?</line>
 <line speaker="Luke">Weeeeeell...it's... it's sort of...actually today, Mr Wright.</line>
-<line speaker="Phoenix">Wha... WHAAAAAAAAAAAAAAAAT?! D-did you just say..."today"? <thought>N-no way! Man, talk about time slipping away...</thought></line>
+<line speaker="Phoenix">Wha... WHAAAAAAAAAAAAAAAAT?! D-did you just say..."today"? (N-no way! Man, talk about time slipping away...)</line>
 <line speaker="Espella">I think they've already started preparing for the festival! It looks like...it might start this evening.</line>
 <line speaker="Phoenix">J-just our luck...</line>
 <line speaker="Luke">M-Mr Wright...?</line>
@@ -411,7 +411,7 @@
 <line speaker="Bardly">Yes, indeed... My tantalisingly tasteful tunes reach even the most dubious parts of Labyrinthia. This tavern is home to a variety of musical palettes...</line>
 <line speaker="Phoenix">Say, you're not the only bard in town, are you? There's that other guy...Birdly, right?</line>
 <line speaker="Bardly">Good sir! The mere mention of that fowl-loving fellow fiddler wounds me greatly! ............ And now, a song.</line>
-<line speaker="Phoenix"><thought>"Rival"...? Sheesh... Never would've thought being a bard would be so hard♪</thought></line>
+<line speaker="Phoenix">("Rival"...? Sheesh... Never would've thought being a bard would be so hard♪)</line>
 <line speaker="Bardly">And just overnight, a star did he become. The town was abuzz... He gets all the fun♪</line>
 <line speaker="Luke">I see. So you're saying that Birdly stole the stage from you, is that it?</line>
 <line speaker="Bardly">Yes! Quite! Can you see how terribly tragic... How tragically terrible his magic?!♪</line>
@@ -434,7 +434,7 @@
 <line speaker="Phoenix">The old days?</line>
 <line speaker="Espella">Yes. You know, about the bakery and how we used to bake bread... I think I'd like to bake some sweet, lovely bread for all of the sweet, lovely people here at the tavern... If they let me, of course. I learned everything about baking from Aunt Patty. I used to always watch her making delicious bread and pastries. But out of everything we baked, the sweet banana bread was my specialty.</line>
 <line speaker="Luke">Aww. It's too bad we didn't get a chance to try any of your baking, Espella!</line>
-<line speaker="Phoenix"><thought>Am I the only one having a hard time picturing these guys munching on "sweet, lovely" banana bread?</thought></line>
+<line speaker="Phoenix">(Am I the only one having a hard time picturing these guys munching on "sweet, lovely" banana bread?)</line>
 <line speaker="Espella">Good luck on the investigation, you two.</line>
 <line speaker="Luke">Thanks! We'll let you know if we find out anything!</line>
 <line speaker="Cutter">Hello there, lads! I take it you slept like rocks last night?</line>
@@ -448,7 +448,7 @@
 <line speaker="Luke">Wow! You mean you sculpt from memory? You must be incredibly gifted, Mr Cutter!</line>
 <line speaker="Cutter">Hah! Allow me to demonstrate, lad! HAAAAA!</line>
 <line speaker="Luke">Th-that was amazing! You sculpted that statue in no time! You didn't stop once!</line>
-<line speaker="Phoenix">By the way, who is this supposed to be? <thought>I feel like I've seen him somewhere before...</thought></line>
+<line speaker="Phoenix">By the way, who is this supposed to be? (I feel like I've seen him somewhere before...)</line>
 <line speaker="Cutter">This bloke? He's an old friend o' mine. Well, WAS an old friend o' mine. Gone now.</line>
 <line speaker="Luke">I-I see...</line>
 <line speaker="Cutter">Aye! So, whaddya say? How about a complimentary sculpture from yours truly?</line>
@@ -499,13 +499,13 @@
 <line speaker="Cooper">Never forgive when throw rubbish at Cooper barrel! Fling Cooper apple at head. SPLAT!</line>
 <line speaker="Cinderellia">Oh my. How ever were you fine gentle sirs able to notice me way up here on the balcony?</line>
 <line speaker="Luke">A-apologies, miss. We didn't mean to disturb you... Wow, what a fancy dress. I didn't think we would find royalty living on this side of town! Right, Mr Wright?</line>
-<line speaker="Phoenix"><thought>Yeah, it's fancy...in the absolute loosest sense of the word...</thought></line>
+<line speaker="Phoenix">(Yeah, it's fancy...in the absolute loosest sense of the word...)</line>
 <line speaker="Cinderellia">Please, oh gentle sir... Do not think ill of me simply because of these makeshift rags I am forced to wear.</line>
 <line speaker="Phoenix">Huh? Me?! No, no! Don't be ridiculous!</line>
 <line speaker="Cinderellia">Now that I look at you, gentle sir...I am ever so certain we are kindred spirits, you and I.</line>
 <line speaker="Luke">"Kindred"...?</line>
 <line speaker="Cinderellia">Oh, indeed, gentle sir. Could it be that you, too, have fled from whence you called home? No doubt you have noticed the state of my attire. It is ever so much in need of good cleaning and repair... But truly, I hail from an ever so noble family... I dare say you did not think yourself to be in the presence of royalty, did you? Hee hee.</line>
-<line speaker="Phoenix"><thought>Look around you... Do you really want to be saying that "ever so" loudly in a place like this?</thought></line>
+<line speaker="Phoenix">(Look around you... Do you really want to be saying that "ever so" loudly in a place like this?)</line>
 <line speaker="Cinderellia">Pray...allow me to tell you of how I spent my nights within the nobility. Oh, the nightly balls were ever so lovely.</line>
 <line speaker="Picarats">25</line>
 <line speaker="Notes">Penalty for an incorrect submission</line>
@@ -531,9 +531,9 @@
 <line speaker="Luke">A marketplace...? That sounds like fun.</line>
 <line speaker="Phoenix">How about we take a look around while we check for clues?</line>
 <line speaker="Luke">Umm...but, Mr Wright... We have to make sure we focus on the investigation as well, okay?</line>
-<line speaker="Phoenix"><thought>Wow. Luke is super serious...</thought></line>
+<line speaker="Phoenix">(Wow. Luke is super serious...)</line>
 <line speaker="Luke">...Huh? Hey, Mr Wright... Look! Isn't that...Mr Knightle and Miss Mary standing over there?</line>
-<line speaker="Phoenix">Oh yeah... Now that you mention it, Espella did say that Ms Mary's farm is somewhere around here, didn't she? <thought>I don't see any knights around anywhere... I wonder what Knightle is doing here.</thought></line>
+<line speaker="Phoenix">Oh yeah... Now that you mention it, Espella did say that Ms Mary's farm is somewhere around here, didn't she? (I don't see any knights around anywhere... I wonder what Knightle is doing here.)</line>
 <line speaker="Mary">Fresh milk! Fresh milk of Labyrinthia! You won't find a baaaaaaaargain like this anywhere else. Oh? We meet again. Are you here to purchase some of my fine milk?</line>
 <line speaker="Phoenix">Oh, I'm afraid not...sorry. We'll be sure to pick some up next time. Anyway...you didn't happen to see any knights come by here, did you?</line>
 <line speaker="Mary">Knights? No, not today. Speaking of which... I heard there was a BIG to-do over at the witch trial last night. You...wouldn't have something to do with that, now would you?</line>
@@ -543,7 +543,7 @@
 <line speaker="Snowy">Baaaa!</line>
 <line speaker="Phoenix">Y-yes, ma'am...we'll, uhh...be careful not to spook your little "milk muffin".</line>
 <line speaker="Mary">Mary has a little goat whose milk is white as snow and ten times more delicious! Come and get your fresh milk here! Have a look! I've got a specially made bottle just for you!</line>
-<line speaker="Phoenix"><thought>Err... Do I wanna know what makes this... "special"?</thought></line>
+<line speaker="Phoenix">(Err... Do I wanna know what makes this... "special"?)</line>
 <line speaker="Luke">Um...Mr Knightle, is that you?</line>
 <line speaker="Knightle">............</line>
 <line speaker="Phoenix">What are you doing around here?</line>
@@ -608,7 +608,7 @@
 <line speaker="Phoenix">...Identity crisis averted. Let's get going, Luke.</line>
 <line speaker="Luke">Okay!</line>
 <line speaker="Knightle">Behold! Whatley is born! I shall make it my life's mission to find out...my life's mission!</line>
-<line speaker="Phoenix">What's this? It kinda looks like a bell? <thought>I can't describe it, but something's weird about this bell...</thought></line>
+<line speaker="Phoenix">What's this? It kinda looks like a bell? (I can't describe it, but something's weird about this bell...)</line>
 <line speaker="Phoenix">H-hey, you... Wait!</line>
 <line speaker="Luke">Who's that?! Wait...just a moment!</line>
 <line speaker="Phoenix">Hey, Luke! Are you okay? I-it's you!</line>
@@ -629,7 +629,7 @@
 <line speaker="Luke">Wh-whoa! Did you see that? She...</line>
 <line speaker="Phoenix">She just...vanished.</line>
 <line speaker="Luke">Was that...the spell "Dimere"?</line>
-<line speaker="Phoenix">I don't think so... Remember, to cast magic, you need to be carrying a Talea Magica... And we didn't hear her say any sort of incantation, so... <thought>But I did see her ring that small bell...</thought></line>
+<line speaker="Phoenix">I don't think so... Remember, to cast magic, you need to be carrying a Talea Magica... And we didn't hear her say any sort of incantation, so... (But I did see her ring that small bell...)</line>
 <line speaker="Luke">That bell...what do you think it's for?</line>
 <line speaker="Phoenix">............</line>
 <line speaker="Luke">Um...Mr Wright?</line>
@@ -645,7 +645,7 @@
 <line speaker="Mary">What is it? Can't you see I'm a little busy right now? My precious Snowy is so stressed. Isn't that right, snowflake of my eye?</line>
 <line speaker="Snowy">Baaaa!</line>
 <line speaker="Luke">Hmm, Snowy says what's stressing him out most right now is the headlock you've got him in...</line>
-<line speaker="Phoenix"><thought>Talking to animals... That has to be a first for any assistant I've ever had...</thought> Ms Mary, you didn't happen to see a girl run by here by any chance, did you?</line>
+<line speaker="Phoenix">(Talking to animals... That has to be a first for any assistant I've ever had...) Ms Mary, you didn't happen to see a girl run by here by any chance, did you?</line>
 <line speaker="Mary">I don't think so. I don't think I've seen a single person come by, actually.</line>
 <line speaker="Luke">Huh? You didn't see her at all? She was wearing a black robe! And what's more, that girl was actually Miss Kira!</line>
 <line speaker="Mary">Hmm?! Did you say Kira? What are you blabbing about? Kira was sent to the flames, don't you remember?</line>
@@ -719,7 +719,7 @@
 <line speaker="Luke">We're almost there, Mr Wright!</line>
 <line speaker="Phoenix">Are you all right, Espella? Not long now!</line>
 <line speaker="Espella">Uh-huh...yes, I'm fine.</line>
-<line speaker="Phoenix"><thought>...Man, I hate these dark, narrow spaces. I guess I'm a little bit claustrophobic...</thought></line>
+<line speaker="Phoenix">(...Man, I hate these dark, narrow spaces. I guess I'm a little bit claustrophobic...)</line>
 <line speaker="Espella">...Oh! I can see light!</line>
 <line speaker="Phoenix">Woah!</line>
 <line speaker="Luke">Waaah!</line>
@@ -800,7 +800,7 @@
 <line speaker="Espella">U-um, perhaps... Maybe it doesn't move unless someone is inside the cage...?</line>
 <line speaker="Phoenix">Hmm... That's a possibility.</line>
 <line speaker="Luke">......</line>
-<line speaker="Phoenix"><thought>But...who in their right mind would be crazy enough to go inside?</thought></line>
+<line speaker="Phoenix">(But...who in their right mind would be crazy enough to go inside?)</line>
 <line speaker="Espella">I'll go inside, Mr Wright!</line>
 <line speaker="Phoenix">Espella, no way am I letting you get inside that thing. We've been trying to keep you OUT of the fire, remember? I'll do it. Granted, I'm not a big fan of heights, but... there has to be some sort of trick to this whole thing... I don't think there's anything to worry about.</line>
 <line speaker="Luke">...Mr Wright.</line>
@@ -833,7 +833,7 @@
 <line speaker="Phoenix">We hear you loud and clear, Luke!</line>
 <line speaker="Luke">I'm all right! Why not try jumping down here yourselves?</line>
 <line speaker="Espella">Oh, thank goodness...you're okay! Should we go see what's down there?</line>
-<line speaker="Phoenix"><thought>Just like we thought... There's definitely something fishy behind this contraption. Which means Maya must be...</thought> All right, let's go, Espella!</line>
+<line speaker="Phoenix">(Just like we thought... There's definitely something fishy behind this contraption. Which means Maya must be...) All right, let's go, Espella!</line>
 <line speaker="Espella">Okay!</line>
 <line speaker="Phoenix">...Wh-whoa!</line>
 <line speaker="Luke">Aaaaah!</line>

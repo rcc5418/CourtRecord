@@ -23,13 +23,13 @@
 <line speaker="Maya">Really!? Why?</line>
 <line speaker="Phoenix">Because the real scene of the crime was Studio Two... where that trailer is!</line>
 <line speaker="Maya">Whaaaat!?</line>
-<line speaker="Phoenix"><thought>Hmm... was Maya always this excitable?</thought></line>
+<line speaker="Phoenix">(Hmm... was Maya always this excitable?)</line>
 <line speaker="Phoenix">Well, have you noticed anything that might help us?</line>
 <line speaker="Maya">I can't see what's going on when Mia is here... So, no. I haven't noticed anything.</line>
 <line speaker="Phoenix">Right...</line>
 <line speaker="Maya">Maybe we should go talk to WP?</line>
-<line speaker="Phoenix"><thought>WP... Powers... right.</thought></line>
-<line speaker="Phoenix"><thought>Who would have thought that it was Jack Hammer inside! But why did he steal it? That's what I have to figure out.</thought></line>
+<line speaker="Phoenix">(WP... Powers... right.)</line>
+<line speaker="Phoenix">(Who would have thought that it was Jack Hammer inside! But why did he steal it? That's what I have to figure out.)</line>
 <line speaker="Maya">...?</line>
 <line speaker="Maya">I wish I had my own Samurai Spear! Just think, I could poke you as much as I wanted!</line>
 <line speaker="Phoenix">Me!? Why me!?</line>
@@ -40,7 +40,7 @@
 <line speaker="Phoenix">Um, yeah, whatever you say.</line>
 <line speaker="Phoenix">This is Cody's--</line>
 <line speaker="Maya">Hey! A digital camera! I'm impressed a kid like him would have something this expensive. Kids these days!</line>
-<line speaker="Phoenix"><thought>I don't imagine spirit mediums-in-training get a lot of toys...</thought></line>
+<line speaker="Phoenix">(I don't imagine spirit mediums-in-training get a lot of toys...)</line>
 <line speaker="Will">Mr. Wright! You did very well again today... thank you!</line>
 <line speaker="Phoenix">Oh... thanks. Um, could you not look like you're about to burst into tears...?</line>
 <line speaker="Maya">Wow, Nick! You must have really wowed 'em in there.</line>
@@ -56,7 +56,7 @@
 <line speaker="Maya">Yeah! Why?</line>
 <line speaker="Phoenix">You're the medium! Why don't you summon up Mr. Hammer's spirit and ask him yourself?</line>
 <line speaker="Maya">*sigh* Gimme about three more years.</line>
-<line speaker="Phoenix"><thought>Look at us, the two novices.</thought></line>
+<line speaker="Phoenix">(Look at us, the two novices.)</line>
 <line speaker="Phoenix">Have you seen this, Mr. Powers?</line>
 <line speaker="Will">W-what's that!? I've never seen these Steel Samurais in my life...</line>
 <line speaker="Phoenix">These are the Steel Samurais that appear at live shows. A fanboy collected all these pictures himself.</line>
@@ -74,7 +74,7 @@
 <line speaker="Maya">Whew! She's alive!</line>
 <line speaker="Phoenix">Um, I was wondering about Dee Vasquez, the producer.</line>
 <line speaker="Oldbag">Oh, the studio bigwigs LOVE her. So she always gets her way.</line>
-<line speaker="Phoenix"><thought>She seems bitter...</thought></line>
+<line speaker="Phoenix">(She seems bitter...)</line>
 <line speaker="Maya">Do you... not like the producer?</line>
 <line speaker="Oldbag">Look, the studio people don't want me talking about her, so, sorry.</line>
 <line speaker="Phoenix">Can I ask you about Sal Manella, the director?</line>
@@ -83,7 +83,7 @@
 <line speaker="Phoenix">Er... No, no it doesn't, Maya.</line>
 <line speaker="Phoenix">About Mr. Hammer...</line>
 <line speaker="Oldbag">Arrgh! I heard about what you said today! Cheeky whippersnapper! Poor old Hammer! You'd drag his star down from the sky and stomp on it! Calling him a criminal! A thief! I-I-I-I... I won't forget this!!!</line>
-<line speaker="Phoenix"><thought>Uh oh, she's really pissed this time!</thought></line>
+<line speaker="Phoenix">(Uh oh, she's really pissed this time!)</line>
 <line speaker="Oldbag">You listen to me, whippersnapper! My poor old Hammer would never do such a thing! Why would he steal Powers's costume so he could sneak by me? He would never stoop so low! It's impossible!</line>
 <line speaker="Phoenix">Um, Ms. Oldbag?</line>
 <line speaker="Oldbag">What!? Get that filth out of my sight! And you're claiming that's poor old Hammer in there!? And I thought you were such an innocent youth... Bah!</line>
@@ -110,7 +110,7 @@
 <line speaker="Maya">H!E!L!L!O!</line>
 <line speaker="Phoenix">M-Maya! You should at least try to be polite...</line>
 <line speaker="Vasquez">... I'm watching the clouds. ...</line>
-<line speaker="Phoenix"><thought>That's all she had to say, apparently...</thought></line>
+<line speaker="Phoenix">(That's all she had to say, apparently...)</line>
 <line speaker="Phoenix">This is where Sal Manella and Dee Vasquez ate. There's nothing left on the plates.</line>
 <line speaker="Maya">Hey, so they ate t-bone steaks too. ...</line>
 <line speaker="Phoenix">Something wrong?</line>
@@ -127,16 +127,16 @@
 <line speaker="Maya">?</line>
 <line speaker="Vasquez">Perhaps you didn't hear me. I'm watching the clouds. I'm not interested in talking to you.</line>
 <line speaker="Maya">Do something, Nick! She's really ticking me off!</line>
-<line speaker="Phoenix"><thought>Oh dear...</thought></line>
+<line speaker="Phoenix">(Oh dear...)</line>
 <line speaker="Maya">Umm... Mr. Powers wasn't the killer! You don't have to cancel the Steel Samurai!</line>
 <line speaker="Vasquez">I think I'm tired of the Steel Samurai.</line>
 <line speaker="Maya">You... you did it! Nick! She did it! She's the killer! My Fey blood speaks to me! I know it! I know it!</line>
-<line speaker="Phoenix"><thought>Oh dear...</thought></line>
+<line speaker="Phoenix">(Oh dear...)</line>
 <line speaker="Phoenix">Um, I was wondering if you could tell me about Mr. Manella?</line>
 <line speaker="Vasquez">... If you must talk about that man... Perhaps you could talk about it in the trailer? By yourselves?</line>
-<line speaker="Phoenix"><thought>Oh, oh dear...</thought></line>
+<line speaker="Phoenix">(Oh, oh dear...)</line>
 <line speaker="Vasquez">...</line>
-<line speaker="Phoenix"><thought>She's not even looking.</thought> Okay. Hey, you look.</line>
+<line speaker="Phoenix">(She's not even looking.) Okay. Hey, you look.</line>
 <line speaker="Maya">Wh-why are you showing that to me, Nick?</line>
 <line speaker="Maya">... Wasn't the assistant cleaning up yesterday? Funny, it still seems pretty messy in here.</line>
 <line speaker="Phoenix">I guess she was still on a high from getting that rare card she needed.</line>
@@ -153,7 +153,7 @@
 <line speaker="Gumshoe">Oh, sorry, pal. Didn't mean to frighten you.</line>
 <line speaker="Maya">D-didn't mean...? I almost had a heart attack!</line>
 <line speaker="Gumshoe">Heh heh. I guess I can be a little dramatique at times... I suppose it's the actor in me...</line>
-<line speaker="Phoenix"><thought>"Dramatique" indeed...</thought></line>
+<line speaker="Phoenix">("Dramatique" indeed...)</line>
 <line speaker="Gumshoe">Ahem. Anyway, I'm here to examine the plate on that table.</line>
 <line speaker="Phoenix">Wait, are you looking for sleeping pills?</line>
 <line speaker="Gumshoe">Yeah, pal. Traces thereof.</line>
@@ -178,11 +178,11 @@
 <line speaker="Phoenix">Whoa...</line>
 <line speaker="Gumshoe">Talk about burns, pal!</line>
 <line speaker="Maya">Wow! The fury of Edgeworth!</line>
-<line speaker="Phoenix">Yeah, crushing paper cups... <thought>Cups... bottles...?</thought> Say, what ever happened with that empty bottle?</line>
+<line speaker="Phoenix">Yeah, crushing paper cups... (Cups... bottles...?) Say, what ever happened with that empty bottle?</line>
 <line speaker="Gumshoe">Oh, the bottle of sleeping pills? Well, I got some good news for you about that. They found the victim, Jack Hammer's prints on the bottle.</line>
 <line speaker="Maya">So that means...</line>
 <line speaker="Gumshoe">Yep, it sounds like the one who put Powers to sleep was none other than... the victim!</line>
-<line speaker="Phoenix"><thought>So I was right!</thought></line>
+<line speaker="Phoenix">(So I was right!)</line>
 <line speaker="Gumshoe">It's looking like Will Powers was drugged... I'm going to go back to the precinct to do some more detailed tests.</line>
 <line speaker="Maya">You're being very... free with your information today, Detective.</line>
 <line speaker="Gumshoe">Well... don't go telling anyone this, pal. But I was kind of impressed at today's trial, too.</line>
@@ -218,12 +218,12 @@
 <line speaker="Will">N-nothing. Forget it. I... I've only heard rumors, anyhow.</line>
 <line speaker="Phoenix">Can you tell me anything about Mr. Manella?</line>
 <line speaker="Will">Oh, he used to be a minor straight-to-video director. But something in his work caught Vasquez's eye. She brought the Steel Samurai idea to him. Now everyone knows the name Sal Manella. I hear he's pretty much at her beck and call, though. Whenever she says "jump!" he asks "how high?" and all that.</line>
-<line speaker="Phoenix"><thought>I can imagine him being at her beck and call... though I can't imagine him jumping.</thought></line>
+<line speaker="Phoenix">(I can imagine him being at her beck and call... though I can't imagine him jumping.)</line>
 <line speaker="Maya">I was wondering about Mr. Hammer... He was a big star back in the day, right? But then he just dropped off the face of the Earth.</line>
 <line speaker="Will">Oh... Yes, you're right. In fact, he was my role model when I started in this business. But he just stopped taking on big roles. That's when he began appearing in little productions at Global...</line>
 <line speaker="Maya">How could he do that!? I was really looking forward to a sequel to "Samurai Summer."</line>
 <line speaker="Will">He just gave up being a star five years ago. Actually, now that I think about it... That was right when Ms. Vasquez came to Global.</line>
-<line speaker="Phoenix"><thought>Five years ago...?</thought></line>
+<line speaker="Phoenix">(Five years ago...?)</line>
 <line speaker="Penny">Oh! Hello!</line>
 <line speaker="Maya">What are you doing here?</line>
 <line speaker="Penny">Oh... I was just cleaning up the dressing room. I guess WP won't be using it anymore, so...</line>
@@ -247,7 +247,7 @@
 <line speaker="Penny">... Dirt. You know, bad stuff.</line>
 <line speaker="Maya">... Um, I know what dirt means...</line>
 <line speaker="Penny">About five years ago, they were filming a movie starring Mr. Hammer. They were using the new studio... Studio Two. Some sort of accident happened during filming. After that, they never used Studio Two again. They left the film set the way it was, too.</line>
-<line speaker="Phoenix"><thought>The film set...? Was that trailer part of the film set, then?</thought></line>
+<line speaker="Phoenix">(The film set...? Was that trailer part of the film set, then?)</line>
 <line speaker="Maya">W-what do you mean, the "last Steel Samurai"!?</line>
 <line speaker="Penny">I know it's a shock, but nothing can be done to save it now. Whoever really did kill Mr. Hammer, also signed the Steel Samurai's death warrant.</line>
 <line speaker="Maya">No... no!</line>
@@ -259,14 +259,14 @@
 <line speaker="Maya">H-how can they just do that! What about all the kids who love the Steel Samurai!</line>
 <line speaker="Penny">It's okay. I'm sure the kids will be fine. They'll find a new hero to follow.</line>
 <line speaker="Maya">No, that can't be true! If the program just ends, they'll be heartbroken for sure! N-Nick! Say something!</line>
-<line speaker="Phoenix">Umm... yeah. <thought>I think evidence, rather than words, is called for here.</thought> Here, take a look at this.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix">Umm... yeah. (I think evidence, rather than words, is called for here.) Here, take a look at this.</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Penny">What's this?</line>
 <line speaker="Phoenix">This is why you can't stop the Steel Samurai.</line>
 <line speaker="Penny">I'm sorry... I don't understand.</line>
 <line speaker="Maya">Neither do I, Nick.</line>
-<line speaker="Phoenix">F-funny that. I don't either! <thought>Oops. Let's try that again.</thought></line>
+<line speaker="Phoenix">F-funny that. I don't either! (Oops. Let's try that again.)</line>
 <line speaker="Penny">And this is...?</line>
 <line speaker="Phoenix">A fan collected all of these photographs. The kids love the Steel Samurai! The show shouldn't be cancelled just so some adults can save face! I would think you would understand that better than anyone.</line>
 <line speaker="Penny">... ... You're right... Okay! But what can I do?</line>
@@ -285,7 +285,7 @@
 <line speaker="Penny">Well, you know Mr. Hammer was a big star back then. They were afraid about what would happen to his career if word got out.</line>
 <line speaker="Maya">I see...</line>
 <line speaker="Penny">You know who knows more about this? Ms. Oldbag. She was here at the studios back then, you know.</line>
-<line speaker="Phoenix">Thanks. We'll try asking her. <thought>If she'll talk...</thought></line>
+<line speaker="Phoenix">Thanks. We'll try asking her. (If she'll talk...)</line>
 <line speaker="Penny">So this photo was Mr. Hammer all along?</line>
 <line speaker="Phoenix">It seems that way.</line>
 <line speaker="Penny">Why would Mr. Hammer do something like that?</line>
@@ -310,40 +310,40 @@
 <line speaker="Oldbag">Wh-whippersnappers! Dredging up dirt on someone's past like that... and the recently departed, no less! I suppose you think this is fun!?</line>
 <line speaker="Phoenix">N-no, I'm just doing my job to protect Mr. Powers...</line>
 <line speaker="Oldbag">And you claim that Hammer stole Powers's costume! You expect me to believe that rubbish!? Or do you have some kind of proof?</line>
-<line speaker="Phoenix"><thought>Proof that Hammer stole Powers's costume? Hmm...</thought></line>
+<line speaker="Phoenix">(Proof that Hammer stole Powers's costume? Hmm...)</line>
 <line speaker="Phoenix">Proof? Well... no.</line>
 <line speaker="Oldbag">See! See!? I see how you work! Anything that doesn't fit, you just blame on the dead! Well... well... Just butt out, lawyer-boy!</line>
-<line speaker="Phoenix"><thought>She knows something! But how am I going to get her to talk...?</thought></line>
+<line speaker="Phoenix">(She knows something! But how am I going to get her to talk...?)</line>
 <line speaker="Phoenix">I'm sorry Ms. Oldbag, but I do have proof. I can prove that Mr. Hammer stole Mr. Powers's costume.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Mr. Powers ate a t-bone steak for lunch, correct?</line>
 <line speaker="Oldbag">W-well... yes. So?</line>
 <line speaker="Phoenix">This is the plate that he used to eat that steak. There are traces of sleeping pill powder on the plate!</line>
 <line speaker="Oldbag">Mmmph? Hah! I-I bet Powers put it in there himself! Even a lightweight like him must have trouble sleeping sometimes.</line>
 <line speaker="Phoenix">Except, I have proof that Mr. Hammer put the pills in.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Oldbag">Hmph! What's that supposed to prove!? That means nothing to me!</line>
 <line speaker="Maya">Nick... I'm kinda having trouble figuring that one out too.</line>
-<line speaker="Phoenix"><thought>Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!</thought></line>
+<line speaker="Phoenix">(Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!)</line>
 <line speaker="Phoenix">This bottle contained sleeping pills. Mr. Hammer's fingerprints were found on the bottle.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Here's my proof.</line>
 <line speaker="Oldbag">What? What's a little empty bottle supposed to prove?</line>
 <line speaker="Phoenix">It's a bottle of sleeping pills. With Mr. Hammer's fingerprints on it...</line>
 <line speaker="Oldbag">Wh-what does that prove? I... I'm sure old Hammer had some sleepless nights! Where's your proof that he used those pills on Powers?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Oldbag">Hmph! What's that supposed to prove!? That means nothing to me!</line>
 <line speaker="Maya">Nick... I'm kinda having trouble figuring that one out too.</line>
-<line speaker="Phoenix"><thought>Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!</thought></line>
+<line speaker="Phoenix">(Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!)</line>
 <line speaker="Phoenix">Mr. Powers ate a t-bone steak for lunch, correct?</line>
 <line speaker="Oldbag">W-well... yes. So?</line>
 <line speaker="Phoenix">This is the plate that he used to eat that steak. There are traces of sleeping pill powder on the plate!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Oldbag">Hmph! What's that supposed to prove!? That means nothing to me!</line>
 <line speaker="Maya">Nick... I'm kinda having trouble figuring that one out too.</line>
-<line speaker="Phoenix"><thought>Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!</thought></line>
+<line speaker="Phoenix">(Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!)</line>
 <line speaker="Oldbag">...! ... ... I see. Poor, poor Hammer. You did wrong, Hammer, rest your soul.</line>
 <line speaker="Maya">Ms. Oldbag...?</line>
 <line speaker="Oldbag">Okay. You win. I'll talk. I'm tired, see... Tired of holding it all in.</line>
@@ -369,7 +369,7 @@
 <line speaker="Maya">I bet Edgeworth is pretty angry with him.</line>
 <line speaker="Maya">The assistant must have gone off somewhere. That stuff about Mr. Hammer must have come as a shock to her.</line>
 <line speaker="Vasquez">...</line>
-<line speaker="Phoenix"><thought>She's not even looking.</thought></line>
+<line speaker="Phoenix">(She's not even looking.)</line>
 <line speaker="Vasquez">Where.</line>
 <line speaker="Phoenix">Wh-what?</line>
 <line speaker="Vasquez">Where did you get that?</line>
@@ -383,7 +383,7 @@
 <line speaker="Vasquez">It's gotten stronger, don't you think? The wind. ... Your conversation interests me. Let's talk about it more inside the trailer.</line>
 <line speaker="Maya">Nick. She went inside the trailer.</line>
 <line speaker="Vasquez">Hmph. You came. Well then, what was that you were talking about?</line>
-<line speaker="Phoenix"><thought>...! Why is she so eager to talk all of a sudden?</thought> Ms. Vasquez. You were using that accident! You were blackmailing Mr. Hammer so you could control him, weren't you? That's why he was doing kids' shows for petty change!</line>
+<line speaker="Phoenix">(...! Why is she so eager to talk all of a sudden?) Ms. Vasquez. You were using that accident! You were blackmailing Mr. Hammer so you could control him, weren't you? That's why he was doing kids' shows for petty change!</line>
 <line speaker="Vasquez">Hmph... So I'm a blackmailer now?</line>
 <line speaker="Maya">Well, that's what it was, wasn't it! I mean, sure, it was an accident... But you used it to drag Mr. Hammer down from his rightful place as a star!</line>
 <line speaker="Vasquez">Oh...? I haven't pulled anyone down from anywhere. Mr. Hammer's career went sour of its own accord.</line>
@@ -397,7 +397,7 @@
 <line speaker="Vasquez">Hmph! Just think! Would he have let me run his life for five years... over a mere accident? And I ran him hard, believe you me!</line>
 <line speaker="Maya">B-but, the security lady said it was an accident!</line>
 <line speaker="Vasquez">Oh. Well, she was a big fan of Hammer's, you see. She jumped on the reporter who brought that photo into the studio. She wrenched it out of his hands, she did. Gave him a few bruises, too.</line>
-<line speaker="Phoenix"><thought>... So that's why she had the photo...</thought></line>
+<line speaker="Phoenix">(... So that's why she had the photo...)</line>
 <line speaker="Vasquez">She's an old fool. Of course, all the reporter would need is the negatives. He could have made a copy. But he didn't. The only copy of that photo is the one you hold. Give it to me. Now.</line>
 <line speaker="Maya">W-what? This is valuable evidence!</line>
 <line speaker="Vasquez">Boys!</line>
@@ -416,6 +416,6 @@
 <line speaker="Maya">Detective Gumshoe?</line>
 <line speaker="Gumshoe">Sorry, it's just... I've wanted to say that line ever since I became a detective. ... Okay. I've got one more job to do today. I'm sure we'll run into each other again soon!</line>
 <line speaker="Maya">Well, Nick. It looks like we're getting close to the bottom of this.</line>
-<line speaker="Phoenix"><thought>And who's at the bottom...? Dee Vasquez!</thought></line>
+<line speaker="Phoenix">(And who's at the bottom...? Dee Vasquez!)</line>
 <line speaker="Phoenix">No clues here.</line>
 </xml>

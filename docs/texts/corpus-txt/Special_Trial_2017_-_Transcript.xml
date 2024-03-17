@@ -40,7 +40,7 @@
 <line speaker="Phoenix">You'd better believe it! The very first Ace Attorney was released back in 2001. And to celebrate that fact, we've been doing a whole bunch of stuff this year.</line>
 <line speaker="Maya">That's right! Like in January, we put on a huge event. The '15th Anniversary Special Trial'! It was sooo much fun!</line>
 <line speaker="Phoenix">It was. It really drove home the impressiveness of our fifteen-year-long history.</line>
-<line speaker="Susato"><cutIn>Hold it!</cutIn></line>
+<line speaker="Susato"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Susato">If I might be permitted...to make a small observation.</line>
 <line speaker="Phoenix">Oh! Sure...what is it?</line>
 <line speaker="Susato">If driving home the impressiveness of a long history was the intention... ...then you should have been celebrating the more than one hundred years since Mr Naruhodo's birth!</line>
@@ -50,14 +50,14 @@
 <line speaker="Susato">I think...they've started to worship you.</line>
 <line speaker="Ryunosuke">Let's try not to mention the Meiji era again.</line>
 <line speaker="Maya">Don't forget that last year we took to the stage and finally appeared in a TV anime series, too! A new story every week! I mean, that was really ace, right?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Tee-vee...?</line>
 <line speaker="Susato">A-ni-me...?</line>
 <line speaker="Ryunosuke">What on earth are you talking about? Stop half-explaining things!</line>
-<line speaker="Phoenix"><thought>A hundred years is a terrifying chasm to bridge...it really is.</thought></line>
+<line speaker="Phoenix">(A hundred years is a terrifying chasm to bridge...it really is.)</line>
 <line speaker="Judge">Ah, and there was another interesting development this year, wasn't there? An orchestral concert. The first in nine years, if I'm not mistaken.</line>
 <line speaker="Maya">You're not mistaken! With nine years of pent-up emotion inside, I cried so hard!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Or-kes-tral...?</line>
 <line speaker="Susato">Kon-sert...?</line>
 <line speaker="Ryunosuke">Ah! A western instrumental group performance! Even we ancestors know about those!</line>
@@ -85,8 +85,8 @@
 <line speaker="Phoenix">Exactly! Just like that!</line>
 <line speaker="Maya">You're right, Nick... Like, when you thump the bench, it's really jerky. There's only two frames.</line>
 <line speaker="Phoenix">Out of interest, what does your 'objection' look like?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">...That's not actually humanly possible, surely.</line>
 <line speaker="Phoenix">The point is this! The jerkiness on this side of the courtroom... ...proves that we're your predecessors! In other words...WE are the ancestors here!</line>
 <line speaker="Ryunosuke">...What can I say to that?</line>
@@ -99,7 +99,7 @@
 <line speaker="Phoenix">......... Hm... ...I think this is a perfect opportunity to use that timeless phrase of mine, don't you?</line>
 <line speaker="Maya">Ooh! A joint predecessor-ancestor performance! What a treat!</line>
 <line speaker="Susato">Altogether now, then...for the continued success of Ace Attorney! One, two...</line>
-<line speaker="Phoenix/Maya/Ryunosuke/Susato"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix/Maya/Ryunosuke/Susato"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Maya! Put the brakes on!</line>
 <line speaker="Ryunosuke">You know what they say: what goes around comes around.</line>
 <line speaker="Susato">Goodbye for now, everybody. See you again soon!</line>

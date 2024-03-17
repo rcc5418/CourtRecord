@@ -35,7 +35,7 @@
 <line speaker="Darklaw">Well, out with it, defender. NOW.</line>
 <line speaker="Phoenix">Uuuuuuhhh...what the heck?! Why do I get the "I'm gonna kill you, Wright" face...?</line>
 <line speaker="Darklaw">Oh! F-forgive me! I just... Upon seeing your face, I couldn't help myself.</line>
-<line speaker="Phoenix"><thought>That doesn't make me feel any better...</thought> Umm, anyway... This is from me. I followed Espella's recipe. It's been a while since I made one, so I hope it's good...</line>
+<line speaker="Phoenix">(That doesn't make me feel any better...) Umm, anyway... This is from me. I followed Espella's recipe. It's been a while since I made one, so I hope it's good...</line>
 <line speaker="Darklaw">Is this...banana bread?</line>
 <line speaker="Phoenix">Well, yeah. I did work at Patty's bakery, after all. Barnham didn't call me "Sir Apprentice Baker" for nothing.</line>
 <line speaker="Luke">I brought you something too, Miss Eve!</line>
@@ -71,7 +71,7 @@
 <line speaker="Maya">Stick a fork in 'im. He's done...</line>
 <line speaker="Darklaw">...You know what? I think you tried your best, Zacharias. ...And for that, I thank you.</line>
 <line speaker="Barnham">Urk! N-no! Miss Eve, 't-twas nothing! Your thanks is unnecessary! The smile on your face is reward enough! ...I owe this mission's success to my trusty armour!</line>
-<line speaker="Phoenix"><thought>What? Did that armour give him "birthday gift-giving" powers or something?</thought></line>
+<line speaker="Phoenix">(What? Did that armour give him "birthday gift-giving" powers or something?)</line>
 <line speaker="Maya">Hey... Barnham said he was "working" a part-time job, but he never actually got paid for any of it, did he?</line>
 <line speaker="Luke">Hmm...you're right. It must be because he's still an apprentice.</line>
 <line speaker="Phoenix">Oh yeah. Speaking of éclairs... didn't Constantine also give Eve, err... Cat Eve, a present just the other day?</line>
@@ -88,7 +88,7 @@
 <line speaker="Barnham">'Twas indeed a great blunder. When my steed flung me from its back, my ankle became caught in the reins.</line>
 <line speaker="Darklaw">And so...he couldn't get free of the horse. The thing must have dragged him around all of Labyrinthia for hours... Since then, the incident was charmingly dubbed "Barnham's Wild Ride".</line>
 <line speaker="Espella">I remember that. The children used to tie their dolls to the knights' horses and call it "bouncing Barnham".</line>
-<line speaker="Phoenix"><thought>...That's brutal.</thought></line>
+<line speaker="Phoenix">(...That's brutal.)</line>
 <line speaker="Darklaw">And yet...now Zacharias has ended up owning a cute little puppy... It's funny how life turns out, isn't it?</line>
 <line speaker="Barnham">...I believe that is enough reminiscing for one day. Now, I have a question for you, Sir Top Hat.</line>
 <line speaker="Layton">Certainly. What is it, Mr Barnham?</line>

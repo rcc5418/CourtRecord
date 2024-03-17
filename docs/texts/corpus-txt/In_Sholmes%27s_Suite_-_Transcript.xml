@@ -95,7 +95,7 @@
 <line speaker="Ryunosuke">Yes, it's the 'various other deductions' that I'm interested in.</line>
 <line speaker="Sholmes">Ah, well, you shall have to read the book then! I'm sure Iris has penned it with her usual flourish.</line>
 <line speaker="Iris">Oh, absolutely! I've put an ingenious spin on the great detective's exploits.</line>
-<line speaker="Ryunosuke"><thought>It must have been very ingenious to make this man sound even remotely credible as a detective.</thought></line>
+<line speaker="Ryunosuke">(It must have been very ingenious to make this man sound even remotely credible as a detective.)</line>
 <line speaker="Iris">......... Wait... Is that...? Does it smell like something's burning again?</line>
 <line speaker="Ryunosuke">We've had enough devilment for one day, Mr Sholmes. Put your puckish spirit to bed.</line>
 <line speaker="Sholmes">I assure you, this has nothing to do with me or my spirit!</line>
@@ -107,7 +107,7 @@
 <line speaker="Ryunosuke">Miss Susato! Where are you going?!</line>
 <line speaker="Sholmes">Stand aside, Mr Naruhodo!</line>
 <line speaker="Ryunosuke">Agh! Easy, Mr Sholmes! What are you...?</line>
-<line speaker="Ryunosuke">Mr Sholmes?! <thought>Why did he just chuck that bust of Napoleon on the floor?</thought> Oh! <thought>Look at that! In amongst all the broken porcelain...</thought> Coins! Sovereigns, in fact! Worth a whole pound each!</line>
+<line speaker="Ryunosuke">Mr Sholmes?! (Why did he just chuck that bust of Napoleon on the floor?) Oh! (Look at that! In amongst all the broken porcelain...) Coins! Sovereigns, in fact! Worth a whole pound each!</line>
 <line speaker="Sholmes">Come, everyone! We must leave at once! Evacuate the building!</line>
 <line speaker="Iris">......... Hehehe! You fell for it, Hurley. Hook, line and sinker!</line>
 <line speaker="Sholmes">Ah...</line>
@@ -123,7 +123,7 @@
 <line speaker="Iris">So, thank you for the loan, Hurley. Oh, but wait...</line>
 <line speaker="Ryunosuke">What's the matter?</line>
 <line speaker="Iris">Where's Susie? She's disappeared.</line>
-<line speaker="Ryunosuke"><thought>Oh yes, that's right. She ran off up the stairs before, didn't she?</thought></line>
+<line speaker="Ryunosuke">(Oh yes, that's right. She ran off up the stairs before, didn't she?)</line>
 <line speaker="???">Hahh...hahh...hahh...</line>
 <line speaker="Susato">Oh! What are you all still doing in here? We have to evacuate! It won't be long before the fire is...is...</line>
 <line speaker="Ryunosuke">.........</line>
@@ -131,7 +131,7 @@
 <line speaker="Iris">.........</line>
 <line speaker="Susato">Ah!</line>
 <line speaker="Iris">Sorry, Susie. Children will get up to mischief once in a while, you know. But it's all perfectly harmless!</line>
-<line speaker="Ryunosuke"><thought>Harmless, maybe, but oh so devious!</thought></line>
+<line speaker="Ryunosuke">(Harmless, maybe, but oh so devious!)</line>
 <line speaker="Susato">Oh well...at least nobody was hurt.</line>
 <line speaker="Sholmes">Apart from Napoleon. And my secret hoard. Now, tell us, Miss Susato. What is it that you went so fleet-footedly to fetch?</line>
 <line speaker="Susato">Sorry? Oh! No, nothing. This is just... No, this is nothing.</line>
@@ -140,7 +140,7 @@
 <line speaker="Sholmes">Ah... a testament to the various people you've helped over the past months.</line>
 <line speaker="Ryunosuke">Miss Susato, I...</line>
 <line speaker="Susato">Well, I am your judicial assistant, after all. I would do anything to ensure the safety of these records. Even risk my life, if necessary. I mean, it's very important to me. It's like a diary of everything we've achieved together.</line>
-<line speaker="Ryunosuke">......... <thought>I'm getting all teary-eyed now...</thought></line>
+<line speaker="Ryunosuke">......... (I'm getting all teary-eyed now...)</line>
 <line speaker="Sholmes">Yes, in stark contrast to a certain someone who would have fetched his daruma doll, I must say.</line>
 <line speaker="Ryunosuke">Uuuuuugh...</line>
 </xml>

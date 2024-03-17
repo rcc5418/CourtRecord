@@ -40,8 +40,8 @@
 <line speaker="Maya">Hey, Nick?</line>
 <line speaker="Phoenix">Hmm? What is it, Maya?</line>
 <line speaker="Maya">Y'know, Eve is pretty cute and all... But I'm starting to think she's actually kind of a drama queen.</line>
-<line speaker="Phoenix"><thought>...Oh, brother.</thought></line>
-<line speaker="Phoenix"><thought>And with unwavering confidence, the Great Witch makes her exit...</thought></line>
+<line speaker="Phoenix">(...Oh, brother.)</line>
+<line speaker="Phoenix">(And with unwavering confidence, the Great Witch makes her exit...)</line>
 <line speaker="???">Ah...it would appear that you have arrived.</line>
 <line speaker="Luke">Oh! ...Whoa! Everyone, it's the Storyteller!</line>
 <line speaker="Storyteller">Allow me to warmly welcome you all back to Labyrinthia.</line>

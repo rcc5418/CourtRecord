@@ -47,10 +47,10 @@
 <line speaker="Korekuta">Yes, well... Anyway, young man. Myself, I was greatly impressed with you in the courtroom today.</line>
 <line speaker="Kazuma">Oh, you mean me?</line>
 <line speaker="Korekuta">A lawyer already, before you've even graduated. And such a loyal friend to this...one.</line>
-<line speaker="Ryunosuke"><thought>This 'one'? What's that supposed to mean?</thought></line>
+<line speaker="Ryunosuke">(This 'one'? What's that supposed to mean?)</line>
 <line speaker="Kazuma">Oh no. I still have much to learn. In fact, that was brought home to me in no uncertain terms only last year. My Achilles' heel was spectacularly exposed...by my best friend here.</line>
 <line speaker="Korekuta">Indeed?</line>
-<line speaker="Ryunosuke">What? By me? <thought>This is the first I've heard about it.</thought></line>
+<line speaker="Ryunosuke">What? By me? (This is the first I've heard about it.)</line>
 <line speaker="Kazuma">Yes, by Ryunosuke Naruhodo... You can't have forgotten, surely? It was last summer. At the speech contest.</line>
 <line speaker="Ryunosuke">The speech contest? ...Oooh. That.</line>
 <line speaker="Kazuma">Contestants had to take to the stage and deliver a public address on any subject they chose. We were competing to give the most compelling and powerful speech.</line>
@@ -93,7 +93,7 @@
 <line speaker="Korekuta">Ah yes, even a decrepit tongue in an ailing frame such mine can find its way around that one.</line>
 <line speaker="Ryunosuke">I've no doubt. It's just a bit of fun, really. I can't imagine anybody would struggle to say it. Isn't that right, Kazuma?</line>
 <line speaker="Kazuma">......... Swift swamurai swor- AAAAAAAAARGH!!!</line>
-<line speaker="Ryunosuke"><thought>A blabbering mess by word two.</thought></line>
+<line speaker="Ryunosuke">(A blabbering mess by word two.)</line>
 <line speaker="Nosa">It's not just the samurai. Every good soldier needs to be able to handle a sword. That's why I've been busy teaching Aido the finer points of swordplay! None of this wordplay nonsense, private!</line>
 <line speaker="Ryunosuke">Come to think of it... ...not long after that, we started to attend lectures together, didn't we? And we got into that debate about family values at the sukiyaki place on campus. Do you remember?</line>
 <line speaker="Kazuma">Yes. Your argument was full of jokes and puns and wordplay as usual. I remember it well.</line>

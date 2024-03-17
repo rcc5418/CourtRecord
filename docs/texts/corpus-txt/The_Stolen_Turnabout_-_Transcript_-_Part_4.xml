@@ -23,7 +23,7 @@
 <line speaker="Maya">Come on, don't be silly! ... W-Wait a sec!</line>
 <line speaker="Phoenix">You don't mean... You're the murderer...!?</line>
 <line speaker="Ron">N-N-N-No, no! I'm just a poor thief! ... No, wait, that's not right. A thief can't really be "poor".</line>
-<line speaker="Phoenix"><thought>Now, let's see... According to Mr. DeLite... From his second crime on, he was following a bunch of set plans. Plans that someone had been sending to him to "help" him commit the heists.</thought></line>
+<line speaker="Phoenix">(Now, let's see... According to Mr. DeLite... From his second crime on, he was following a bunch of set plans. Plans that someone had been sending to him to "help" him commit the heists.)</line>
 <line speaker="Maya">Do you think there's a connection between the thief and the murder, Nick?</line>
 <line speaker="Phoenix">It's possible... But today's trial is a race against the clock.</line>
 <line speaker="Maya">Huh? How come? Let's just take our time like always.</line>
@@ -33,12 +33,12 @@
 <line speaker="Phoenix">The defense is ready, Your Honor.</line>
 <line speaker="Godot">You're "ready"? Preparation is the last refuge of the week.</line>
 <line speaker="Judge">...OK, settle down everyone. Let's begin with your opening statement, Mr. Godot.</line>
-<line speaker="Phoenix"><thought>Ugh... He's got the judge in the palm of his hands... Yet again...</thought></line>
+<line speaker="Phoenix">(Ugh... He's got the judge in the palm of his hands... Yet again...)</line>
 <line speaker="Godot">Ron DeLite is simply too young to be sent to war. ...That's all.</line>
 <line speaker="Judge">... I'm afraid I have no idea what that means, Mr. Godot.</line>
 <line speaker="Godot">Ha...! Then you need to get out more, Your Honor. Life is war. But that is exactly why you must be more precise in your wording. That's all my statement means. You understand now, right?</line>
 <line speaker="Judge">...Yes. Well then, let me briefly summarize the details of this case.</line>
-<line speaker="Phoenix"><thought>Wow... The judge is taking charge like he knows what's going on for a change...</thought></line>
+<line speaker="Phoenix">(Wow... The judge is taking charge like he knows what's going on for a change...)</line>
 <line speaker="Judge">The victim is Kane Bullard, CEO of KB Security. His body was found in a safe at approximately 9 AM on the morning of the 13th. However, the time of death was estimated as 1 AM of the previous day.</line>
 <line speaker="Godot">And... that's when our little lost kitten dropped the ball. That little lost kitten is, of course, the defendant.</line>
 <line speaker="Judge">Very well then, Mr. Godot. Please call your first witness.</line>
@@ -46,7 +46,7 @@
 <line speaker="Judge">Um, Mr. Godot. Your witness...?</line>
 <line speaker="Godot">...OK, then. Let's hear what the defendant, Mr. Ron DeLite, has to say for himself.</line>
 <line speaker="Judge">The defendant...? Well, Mr. Wright? Does the defense have any objections? It may be a bit of a disadvantage having the defendant testify, but...</line>
-<line speaker="Phoenix"><thought>I remember when Mia was defending me... She allowed me to testify so she could do the cross-examination... She put a lot of trust in me back then...</thought> We have no objections, Your Honor. The defense will allow Mr. DeLite to testify.</line>
+<line speaker="Phoenix">(I remember when Mia was defending me... She allowed me to testify so she could do the cross-examination... She put a lot of trust in me back then...) We have no objections, Your Honor. The defense will allow Mr. DeLite to testify.</line>
 <line speaker="Godot">Ha...! You've got guts, Trite.</line>
 <line speaker="Judge">Alright then, Mr. Ron DeLite, please take the stand!</line>
 <line speaker="Godot">...You did it. Didn't you?</line>
@@ -65,19 +65,19 @@
 <line speaker="Maya">You'd never know that from the way he's chugging it down.</line>
 <line speaker="Judge">Mr. Wright... Your cross-examination, if you please.</line>
 <line speaker="Ron">That evening, around 1 AM, I went to see Mr. Bullard in his office at KB Security.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">1 AM, huh... You're absolutely sure about that?</line>
 <line speaker="Ron">Yes. That's what my watch said when I was entering the CEO's office... Err, no... Actually, I'm not really sure. My watch was slow, and my internal clock was also a bit</line>
 <line speaker="Judge">1 AM... That's the exact time the victim, Mr. Bullard was murdered, correct?</line>
 <line speaker="Godot">It's too late for a coffee date, that's for sure.</line>
 <line speaker="Ron">The blackmail letter I got... It ordered me to go there.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">It "ordered you there"?</line>
 <line speaker="Ron">It was the first time I'd gotten a blackmail letter that ordered me to go somewhere.</line>
 <line speaker="Judge">Does that mean you've gotten other blackmail letters then?</line>
 <line speaker="Ron">Oh, of course. They'd say things like, "Steal this" or, "Take that".</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
-<line speaker="Phoenix">Aha ha! Why don't you save those for later, Mr. DeLite? <thought>Pleeease don't say any more! ...Now, what should do I do?</thought></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">Aha ha! Why don't you save those for later, Mr. DeLite? (Pleeease don't say any more! ...Now, what should do I do?)</line>
 <line speaker="Phoenix">So what did the blackmail letter in question say...?</line>
 <line speaker="Ron">It said to bring $50,000.</line>
 <line speaker="Godot">Money, eh. A perfect motive for committing murder.</line>
@@ -87,29 +87,29 @@
 <line speaker="Judge">Hmm... An important point indeed. Witness, let's have that added to your testimony.</line>
 <line speaker="Ron">Yes, sir!</line>
 <line speaker="Godot">Ha...!</line>
-<line speaker="Phoenix"><thought>A muddy mudskipper in outer space has a better chance of surviving than I do.</thought></line>
-<line speaker="Phoenix"><thought>I can't press Ron too hard... It could ruin the case. I'll just take this one slowly...</thought></line>
+<line speaker="Phoenix">(A muddy mudskipper in outer space has a better chance of surviving than I do.)</line>
+<line speaker="Phoenix">(I can't press Ron too hard... It could ruin the case. I'll just take this one slowly...)</line>
 <line speaker="Maya">Wow Nick, you kind of look like a politician, planning out your next move...</line>
 <line speaker="Ron">The blackmail threat didn't scare me. It wasn't going to cause me trouble or anything.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Just what were you being "blackmailed" about anyway?</line>
 <line speaker="Judge">The blackmail letter said, "If you don't want your identity revealed," correct?</line>
 <line speaker="Ron">I'm sure it was referring to the whole Mask☆DeMasque thing. But I wasn't worried. Mr. Bullard didn't have anything on me.</line>
 <line speaker="Judge">He didn't...?</line>
 <line speaker="Ron">Anyway, I don't care what anyone says about me. Just as long as Dessie believes in me.</line>
-<line speaker="Phoenix"><thought>So that's why Ms. DeLite didn't believe he was Mask☆DeMasque.</thought></line>
+<line speaker="Phoenix">(So that's why Ms. DeLite didn't believe he was Mask☆DeMasque.)</line>
 <line speaker="Ron">That's why I knew they were just hollow threats!</line>
 <line speaker="Judge">Hmm...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Just what were you being "blackmailed" about anyway?</line>
 <line speaker="Judge">The blackmail letter said, "If you don't want your identity revealed," correct?</line>
 <line speaker="Ron">I'm sure it was referring to the whole Mask☆DeMasque thing. </line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Tsk, tsk. I'm afraid that reason isn't going to hold up anymore.</line>
 <line speaker="Phoenix">What do you mean?</line>
 <line speaker="Godot">The victim had no proof the defendant was Mask☆DeMasque. But… You were the one who stole company secrets only one year earlier.</line>
 <line speaker="Ron">B-B-But... That was all over with one I was fired! But it is true that the fact I stole secrets was kept under wraps... Even so, there was no reason for me to pay up now, a whole year later!</line>
-<line speaker="Phoenix"><thought>Hmm... Is that really true?</thought></line>
+<line speaker="Phoenix">(Hmm... Is that really true?)</line>
 <line speaker="Maya">What is it, Nick?</line>
 <line speaker="Phoenix">The fact that Ron was stealing company data... I wonder if he would've had a problem if that ever became public knowledge...?</line>
 <line speaker="Phoenix">...Nah, I guess not.</line>
@@ -124,36 +124,36 @@
 <line speaker="Godot">Well then, feel free to keep up the heat, my little lawyer amigo!</line>
 <line speaker="Phoenix">L-Little lawyer amigo...?</line>
 <line speaker="Godot">Yes, now come on. Provide some evidence to back up your assertion. Why would Mr. DeLite want to keep his data stealing secret from going public!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Godot">Ha...! Well, Mr. Defendant?</line>
 <line speaker="Ron">...!</line>
 <line speaker="Judge">...You heard the defendant.</line>
-<line speaker="Phoenix"><thought>Just when I thought it wasn't possible, a whole new level of irritation rises before me...</thought></line>
+<line speaker="Phoenix">(Just when I thought it wasn't possible, a whole new level of irritation rises before me...)</line>
 <line speaker="Judge">It looks like the defense was just playing with himself.</line>
-<line speaker="Phoenix"><thought>Do you think you could rephrase that, Your Honor...? For my sake...?</thought></line>
+<line speaker="Phoenix">(Do you think you could rephrase that, Your Honor...? For my sake...?)</line>
 <line speaker="Judge">Well, let's get back to the testimony, shall we?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ron">I'd been working for KB Security until a year ago, so I knew where his office was.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You used to be a security chief for KB Security, right?</line>
 <line speaker="Ron">...Yes, that's right.</line>
 <line speaker="Judge">A security chief? You?</line>
 <line speaker="Godot">And yet... A year ago, you were fired without notice... Revenge for an old grudge? A perfect motive for murder, wouldn't you say?</line>
 <line speaker="Judge">Hmm...</line>
-<line speaker="Phoenix"><thought>This isn't good. Maybe I should change the subject...?</thought></line>
+<line speaker="Phoenix">(This isn't good. Maybe I should change the subject...?)</line>
 <line speaker="Phoenix">What did you do after being fired from KB Security?</line>
 <line speaker="Ron">I spent a lot of time looking for work... But then I decided I wanted to start something myself.</line>
-<line speaker="Phoenix"><thought>Not good! This is going from bad to worse...</thought></line>
+<line speaker="Phoenix">(Not good! This is going from bad to worse...)</line>
 <line speaker="Ron">So I started looking at books, TV, and movies, learning all I could about masked men.</line>
 <line speaker="Judge">M-Masked men...?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">S-So you wanted to try drawing a comic, right? ...About masked men!</line>
 <line speaker="Ron">No no, that's not right. I wanted to become--</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Your Honor! Let's move along, shall we!?</line>
 <line speaker="Judge">But you asked the question... You're being quite odd today, Mr. Wright.</line>
-<line speaker="Phoenix"><thought>Way to bring the spinning buzz saw one notch closer to your own neck, Ace Attorney.</thought></line>
+<line speaker="Phoenix">(Way to bring the spinning buzz saw one notch closer to your own neck, Ace Attorney.)</line>
 <line speaker="Phoenix">Mr. DeLite. Please tell us why you were fired from your job.</line>
 <line speaker="Ron">W-Well...</line>
 <line speaker="Godot">The world is filled with those who have said, "I wish I had never asked that."</line>
@@ -168,7 +168,7 @@
 <line speaker="Ron">KB Security has a lot of security info on all sorts of companies... And since I was a security team chief...</line>
 <line speaker="Godot">You stole some data... and sold it.</line>
 <line speaker="Ron">Mr. Bullard found out, and I was fired immediately.</line>
-<line speaker="Phoenix">Whaaaaaaaaaa! <thought>I wish I had never asked that...</thought></line>
+<line speaker="Phoenix">Whaaaaaaaaaa! (I wish I had never asked that...)</line>
 <line speaker="Ron">I was somehow able to keep it secret, and made it seem like I had quit on my own.</line>
 <line speaker="Maya">What is it, Nick? You don't look so good.</line>
 <line speaker="Godot">Someone who brings harm to their company is fired as punishment. You'd well to remember that.</line>
@@ -176,13 +176,13 @@
 <line speaker="Judge">So you admit that you stole data from your company, is that correct?</line>
 <line speaker="Ron">Y-Yes. I'm sorry...</line>
 <line speaker="Judge">This is a very important fact. Please add it to your testimony!</line>
-<line speaker="Phoenix"><thought>Oh man... This whole thing just took a big turn for the worse, crashed, and blew up. ...It's gonna take the jaws of life to rip this case from the clutches of disaster.</thought></line>
-<line speaker="Phoenix"><thought>I should just avoid this whole subject... At least for now.</thought></line>
+<line speaker="Phoenix">(Oh man... This whole thing just took a big turn for the worse, crashed, and blew up. ...It's gonna take the jaws of life to rip this case from the clutches of disaster.)</line>
+<line speaker="Phoenix">(I should just avoid this whole subject... At least for now.)</line>
 <line speaker="Judge">Hmm... As the defense appears to have nothing to say, it seems that this is indeed your motive.</line>
 <line speaker="Ron">Wh-What? That's not true! I didn't have any hard feelings towards Mr. Bullard!</line>
-<line speaker="Phoenix"><thought>Ack! I knew I should've said something!</thought></line>
+<line speaker="Phoenix">(Ack! I knew I should've said something!)</line>
 <line speaker="Ron">He fired me for selling company secrets... but Dessie doesn't know about that.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why would you do something like that?</line>
 <line speaker="Ron">Well, for Dessie's hobby. What else?</line>
 <line speaker="Phoenix">Wasting money, huh...?</line>
@@ -190,7 +190,7 @@
 <line speaker="Maya">So Ms. DeLite doesn't know that her husband was fired, does she?</line>
 <line speaker="Phoenix">So it would seem.</line>
 <line speaker="Maya">I'm not sure what to think about couples who keep secrets like that from each other.</line>
-<line speaker="Phoenix"><thought>I can't believe it. This case has gotten even Maya to think seriously about couples...</thought></line>
+<line speaker="Phoenix">(I can't believe it. This case has gotten even Maya to think seriously about couples...)</line>
 <line speaker="Judge">Please try to stay focused, Mr. Wright.</line>
 <line speaker="Maya">Hmm... There wasn't much to his testimony, was there?</line>
 <line speaker="Phoenix">Sounds like he's avoiding something... At least, that's what it sounds like to me.</line>
@@ -205,12 +205,12 @@
 <line speaker="Phoenix">Ms. Desirée DeLite. The defendant's wife.</line>
 <line speaker="Ron">Waah! But I-I...! L-Listen to me! My Dessie! She's...!</line>
 <line speaker="Godot">...Looks like if I just sit back and relax, the fun will end before it truly begins.</line>
-<line speaker="Phoenix"><thought>Grr! Godot!</thought></line>
+<line speaker="Phoenix">(Grr! Godot!)</line>
 <line speaker="Godot">Yes, we know. It was all your wife's fault.</line>
 <line speaker="Judge">What do you mean...?</line>
 <line speaker="Godot">Mr. DeLite stole company data to pay for his wife's spending habit, for which he was fired. Unable to face his own wife, someone used this dirty little secret to blackmail him. And that is how this murder came about!</line>
 <line speaker="Judge">Oh... Hmm...!</line>
-<line speaker="Phoenix"><thought>No! Everything is falling neatly into place for him!</thought></line>
+<line speaker="Phoenix">(No! Everything is falling neatly into place for him!)</line>
 <line speaker="Ron">D-Don't talk about my Dessie like that... Or you'll be sooooooorry!!</line>
 <line speaker="Judge">Well, it seems... ...that we've learned a great deal of things here, so far.</line>
 <line speaker="Maya">What do you think, Nick?</line>
@@ -221,14 +221,14 @@
 <line speaker="Godot">What happened at the crime scene at 1 in the morning, Mr. DeLite? Come now! Tell us! We're all ears.</line>
 <line speaker="Ron">When I entered the office, there was a suspicious shadow there...</line>
 <line speaker="Judge">I see... Suddenly hit on the forehead, huh? I believe the detective from yesterday provided similar testimony. He said that Mask☆DeMasque struck him on the head from behind.</line>
-<line speaker="Phoenix"><thought>Of course, since Atmey turned out to be the culprit himself, that was all a lie.</thought></line>
+<line speaker="Phoenix">(Of course, since Atmey turned out to be the culprit himself, that was all a lie.)</line>
 <line speaker="Godot">Ha...! No one's going to believe a pathetic lie like that.</line>
 <line speaker="Ron">Wh-What are you saying!? I really was attacked!</line>
 <line speaker="Judge">We'll find out if what you say is true or not during the cross-examination.</line>
 <line speaker="Godot">Got that, Mr. Trite? Don't go easy just because he's your client. If I see any sign that you are, I'll treat you to another cup of my special blend!</line>
-<line speaker="Phoenix">You don't need to worry about that, Mr. Godot... <thought>I have faith in Ron... I know he didn't do it...!</thought></line>
+<line speaker="Phoenix">You don't need to worry about that, Mr. Godot... (I have faith in Ron... I know he didn't do it...!)</line>
 <line speaker="Ron">When I entered the office, there was a suspicious shadow there...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Who was this "suspicious shadow"?</line>
 <line speaker="Ron">If there were a thousand of me, and if even one knew, I'd tell you. Trust me.</line>
 <line speaker="Maya">...His dodging all of our questions is NOT helping us win his case.</line>
@@ -238,7 +238,7 @@
 <line speaker="Ron">That's a good question... What do you think, Mr. Wright?</line>
 <line speaker="Phoenix">...F-Forget it.</line>
 <line speaker="Ron">Suddenly, I was hit on the forehead. After that, I remember being a bit dazed.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Your forehead...?</line>
 <line speaker="Ron">Yes. I was hit on the forehead as soon as I entered the room. It was an amazingly fast and powerful attack.</line>
 <line speaker="Phoenix">Do you remember anything about who hit you?</line>
@@ -246,28 +246,28 @@
 <line speaker="Maya">I don't think Mr. DeLite even grasped what you were asking...</line>
 <line speaker="Phoenix">Yeah, I'd like to show him a fast and powerful attack himself. Maybe that would knock some sense back into him...</line>
 <line speaker="Ron">If I hadn't been wearing that, I would have been killed!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"That"? Could you please clarify what you are referring to?</line>
 <line speaker="Ron">Why, my Mask☆DeMasque costume, of course!</line>
 <line speaker="Judge">W-Wait just a moment! "Mask☆DeMasque"...?</line>
 <line speaker="Ron">Huh? Oh, did I forget to mention it before...? Just to be on the safe side, I dressed as Mask☆DeMasque! And then, I descended upon the office of the CEO of KB Security!</line>
 <line speaker="Judge">Whaaaaaat!?</line>
 <line speaker="Maya">Nick! Did you know about this? He never told me this!</line>
-<line speaker="Phoenix"><thought>I don't recall him ever mentioning it to me either...</thought></line>
+<line speaker="Phoenix">(I don't recall him ever mentioning it to me either...)</line>
 <line speaker="Godot">Even I didn't know that. It seems our little friend really loves to keep secrets.</line>
 <line speaker="Ron">I'm sorry. I just never had a chance to mention it up until now... Wait. That's not right. Umm... You know how sometimes things just slip your mind</line>
 <line speaker="Godot">Ha...! My 6th cup of coffee is staring up at me coldly.</line>
 <line speaker="Judge">At any rate, we can't ignore this new piece of information. Witness! Please correct your testimony.</line>
 <line speaker="Ron">I'd have been killed if I hadn't been wearing my Mask☆DeMasque costume!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why were you dressed up as Mask☆DeMasque?</line>
 <line speaker="Ron">Why... because I'm Mask☆DeMasque, of course.</line>
 <line speaker="Judge">W-What are you talking about!? Mask☆DeMasque's trial is being held next door!</line>
 <line speaker="Ron">Ah... Y-Yes, I guess so. Anyway, at that time... ...I thought I as being blackmailed over the Mask☆DeMasque issue. So I thought I should go as him, just to be safe.</line>
 <line speaker="Phoenix">Oh boy...</line>
 <line speaker="Ron">Let me tell you, it's a real pain to move around with that cape... That's why it took a lot longer than I'd expected.</line>
-<line speaker="Phoenix">"Took a lot longer"...? <thought>What is he talking about...?</thought></line>
-<line speaker="Phoenix"><thought>I think I'll wait and see how this develops...</thought></line>
+<line speaker="Phoenix">"Took a lot longer"...? (What is he talking about...?)</line>
+<line speaker="Phoenix">(I think I'll wait and see how this develops...)</line>
 <line speaker="Maya">Hey, why aren't you doing anything?</line>
 <line speaker="Phoenix">Because it'll probably end up causing more trouble. I'll tackle it once I'm mentally prepared.</line>
 <line speaker="Maya">... I guess I should prepare myself for the worst, too.</line>
@@ -289,9 +289,9 @@
 <line speaker="Phoenix">Uh, well... Yes.</line>
 <line speaker="Judge">Why am I the only one not in the loop here!? Witness! Make sure you add this to the testimony!</line>
 <line speaker="Ron">Y-Yes, sir!</line>
-<line speaker="Phoenix"><thought>Uh oh... Looks like a storm front is moving over the fair-weather judge.</thought></line>
+<line speaker="Phoenix">(Uh oh... Looks like a storm front is moving over the fair-weather judge.)</line>
 <line speaker="Ron">When I came to... Mr. Bullard was lying there... dead!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"When you came to"...?</line>
 <line speaker="Ron">Yes. I was passed out in the corner of the room.</line>
 <line speaker="Phoenix">Do you know when your assailant made their escape, and to where...?</line>
@@ -302,19 +302,19 @@
 <line speaker="Judge">It certainly is, isn't it, Mr. Wright? It almost sounds... practiced.</line>
 <line speaker="Phoenix">I-I don't know why you're telling me...</line>
 <line speaker="Ron">I panicked and hid the body in the safe. It took about 10 minutes.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why did you hide the body in the safe anyway?</line>
 <line speaker="Ron">Well... Because it wouldn't fit in a drawer.</line>
 <line speaker="Phoenix">Uh, that's not exactly what I meant...</line>
 <line speaker="Ron">When I saw that corpse, I kind of lost it. I thought, "If they find his corpse, they'll think I did it!"</line>
 <line speaker="Godot">Ha...! I think you had a simpler reason than that. It's because you killed him! That's why you spent 10 minutes hiding the body.</line>
 <line speaker="Judge">Hmmm... That certainly makes more sense.</line>
-<line speaker="Phoenix">Nngh... <thought>Hold on... "10 minutes"...?</thought></line>
+<line speaker="Phoenix">Nngh... (Hold on... "10 minutes"...?)</line>
 <line speaker="Maya">What is it, Nick?</line>
 <line speaker="Phoenix">I just had a thought... Under those circumstances, would you normally try to hide the body...? And spend 10 whole minutes to do it?</line>
 <line speaker="Maya">Under "those circumstances"? What circumstances...? ...Oh! Hey, Nick! If you think his behavior was so strange... ...why don't you present some evidence that would show just what those circumstances were!</line>
-<line speaker="Phoenix"><thought>That's it! I'll take a look at the Court Record, and present some evidence!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(That's it! I'll take a look at the Court Record, and present some evidence!)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">We heard this from Mr. DeLite yesterday, didn't we?</line>
 <line speaker="Phoenix">There's not much in this testimony either.</line>
 <line speaker="Maya">I betcha he's still hiding something.</line>
@@ -327,16 +327,16 @@
 <line speaker="Phoenix">And according to this record, the buzzer was pushed once, at 1:02 AM!</line>
 <line speaker="Judge">Wh... Whaaat?</line>
 <line speaker="Phoenix">If Mr. Ron DeLite truly was the murderer... ...he would have run as soon as that buzzer sounded! After all, a security guard would've been heading his way!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! Let's remember who we're dealing with here. He probably had no idea there were security personnel in the building!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Up until one year ago, my client was working as a chief of security! There's no way he wouldn't have known about them!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">But! As it turns out, the guard never came.</line>
 <line speaker="Phoenix">That was nothing more than a coincidence! The fact that the guard was a pathetic loser... ...who had just gotten punched in the face by his ex's new boyfriend... ...and wasn't anywhere in the vicinity was not something Mr. DeLite could have known!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! Again, remember who we're dealing with here. It's a sure bet that Mr. DeLite didn't even notice the buzzer going off!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This buzzer is extremely loud. There is no way he could've ignored something like that! IF he had been conscious, that is.</line>
 <line speaker="Judge">"Conscious"...? What do you mean by that!?</line>
 <line speaker="Godot">... Ugh...! Fine. Let's hear your theory.</line>
@@ -346,23 +346,23 @@
 <line speaker="Godot">S-So what are you trying to say...!?</line>
 <line speaker="Phoenix">Mr. DeLite was knocked out, and the buzzer went off soon afterwards... Now, unless my client was able to hit the buzzer while he was unconscious... It can only mean that there was another person in that room! That's right! Whoever it was knocked out Ron DeLite and then pressed the buzzer!</line>
 <line speaker="Judge">O-Order in the court! Mr. Wright! This... This is...!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Th-This is preposterous! It was this kid... ...Ron DeLite, is the one who killed Kane Bullard!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Then who pressed the buzzer?</line>
 <line speaker="Godot">I-It was... The victim, of course! He pressed the buzzer when the defendant attacked him! He didn't die right away! He must have held on long enough to push that button!</line>
 <line speaker="Phoenix">ACK!!</line>
 <line speaker="Judge">Hmmm... So Kane Bullard sounded the buzzer himself... What is your opinion on this, Mr. Wright!?</line>
-<line speaker="Phoenix"><thought>I need to prove that the real criminal was there at the scene! But how? Can I prove that it wasn't Kane Bullard who sounded the buzzer?</thought></line>
+<line speaker="Phoenix">(I need to prove that the real criminal was there at the scene! But how? Can I prove that it wasn't Kane Bullard who sounded the buzzer?)</line>
 <line speaker="Phoenix">The defense... admits there is no evidence to the contrary. It is possible that the victim himself sounded the buzzer...</line>
 <line speaker="Godot">Ha...! "Possible"? More like "definite", Mr. Trite.</line>
 <line speaker="Judge">Which means... Only two people were there at the crime scene after all.</line>
 <line speaker="Godot">The victim, Kane Bullard, and his killer... Mr. DeLite.</line>
 <line speaker="Maya">Come on, Nick! If you can't prove that the "real killer was there"... ...this trial is as good as finished!</line>
-<line speaker="Phoenix"><thought>Argh! I guess I need to show some sort of evidence after all...!</thought></line>
+<line speaker="Phoenix">(Argh! I guess I need to show some sort of evidence after all...!)</line>
 <line speaker="Phoenix">The defense's opinion is this, Your Honor! This piece of evidence proves that it wasn't the victim who sounded the buzzer!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">Well, what do you think, Mr. Godot?</line>
 <line speaker="Godot">Ha...! I can hear it... The sound of a buzzer!</line>
 <line speaker="Judge">Huh?</line>
@@ -381,12 +381,12 @@
 <line speaker="Judge">Now I'm the one who's clueless!</line>
 <line speaker="Phoenix">This button has no fingerprints on it. If Mr. Bullard had really pressed it himself... ...naturally, he would have left his fingerprints behind!</line>
 <line speaker="Godot">Phwoooooooooooh!!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">R...Ron DeLite... obviously wiped them off!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Why would he? A guard could have come in at any moment!</line>
 <line speaker="Godot">He touched that button! I know he did!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The defendant, Mr. DeLite, was dressed as Mask☆DeMasque. And Mask☆DeMasque... always wears gloves! What reason could he possibly have had to wipe the button free of fingerprints!?</line>
 <line speaker="Judge">Order! Order! Order!</line>
 <line speaker="Godot">Ha...! It would seem... I've been forced to eat crow!</line>
@@ -404,7 +404,7 @@
 <line speaker="Maya">And Mr. DeLite just happened to waltz in when the murder was taking place, right?</line>
 <line speaker="Phoenix">The killer clobbered Mr. DeLite, and then sounded the buzzer.</line>
 <line speaker="Maya">Even though security was supposed to respond right away if the buzzer was pressed.</line>
-<line speaker="Phoenix"><thought>"Security was supposed to respond"? Hmm...</thought></line>
+<line speaker="Phoenix">("Security was supposed to respond"? Hmm...)</line>
 <line speaker="Judge">...Time's up, Mr. Wright. Let's hear what you have to say.</line>
 <line speaker="Phoenix">Very well then...</line>
 <line speaker="Godot">Oh ho... You've got some guts. I like that in an opponent.</line>
@@ -413,24 +413,24 @@
 <line speaker="Judge">What do you mean...?</line>
 <line speaker="Phoenix">It's possible that they simply pressed it by accident. It could have been with their back during the scuffle, for example.</line>
 <line speaker="Ron">Aha! That must be why there weren't any fingerprints!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! Is there a functioning brain underneath all that ridiculous hair, Mr. Trite?</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Godot">The accused testified that he was hit as soon as he entered the room. In other words, as far away from the buzzer as he could possibly be at the time!</line>
 <line speaker="Phoenix">...Ack!</line>
 <line speaker="Judge">It would seem you've been taken for a ride, Mr. Wright.</line>
-<line speaker="Phoenix"><thought>Argh! One more time! I've got to calm down and think quick!</thought></line>
+<line speaker="Phoenix">(Argh! One more time! I've got to calm down and think quick!)</line>
 <line speaker="Phoenix">In all probability... the killer didn't know what the button was for.</line>
 <line speaker="Judge">What do you mean...?</line>
 <line speaker="Phoenix">The killer probably thought, "I wonder what this does?" and pressed it to find out!</line>
 <line speaker="Ron">Oh! That's exactly how I make a lot of my mistakes, too!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! Is there a functioning brain underneath all that ridiculous hair, Mr. Trite?</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Godot">The panel around the button is labeled quite clearly. It says, "Emergency Buzzer".</line>
 <line speaker="Phoenix">Doh!</line>
 <line speaker="Godot">Let me guess. Maybe next, you'll want to claim this mysterious "killer" was illiterate?</line>
-<line speaker="Phoenix"><thought>Argh! One more time! I've got to calm down and think quick!</thought></line>
+<line speaker="Phoenix">(Argh! One more time! I've got to calm down and think quick!)</line>
 <line speaker="Phoenix">The killer knew that if they pressed that button, a guard would come running. And that was exactly what they wanted.</line>
 <line speaker="Judge">D-Do you mean to say the killer called the guard on purpose!?</line>
 <line speaker="Phoenix">Yes... Although as it turned out, he never showed up.</line>
@@ -451,28 +451,28 @@
 <line speaker="Maya">But, but! Who is it?</line>
 <line speaker="Phoenix">I don't have any solid proof yet... but think about it. The killer knew Mr. DeLite's identity. And they also knew... ...that he had been called to KB Security that night... So, the killer used him to execute a well-crafted plan to murder Kane Bullard!</line>
 <line speaker="Judge">Hmm, now then. Let's hear your accusation, Mr. Wright. Who was it framed Mr. Ron DeLite for the murder of Kane Bullard!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Naturally... the true culprit was none other than... Ron DeLite's wife, Desirée!</line>
 <line speaker="Judge">Wh-Whaaaat!? Why that's simply--</line>
 <line speaker="Ron">M-Mr. Wright!! Have you gone insane...!?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Aren't you forgetting something, Mr. Trite?</line>
 <line speaker="Phoenix">E-Excuse me?</line>
 <line speaker="Godot">Where was Desirée DeLite at 1:00 AM that night...?</line>
 <line speaker="Maya">Ah! That's right! She was at the police station! For almost the entire night!</line>
 <line speaker="Godot">She was being questioned after being stopped for reckless riding... ...I have a record of it here.</line>
-<line speaker="Phoenix">Aaaah!! <thought>I forgot all about that...</thought></line>
+<line speaker="Phoenix">Aaaah!! (I forgot all about that...)</line>
 <line speaker="Judge">It seems that senility may be setting in early for you, Mr. Wright.</line>
-<line speaker="Phoenix"><thought>Talk about things you never want to hear this judge say to you...</thought></line>
+<line speaker="Phoenix">(Talk about things you never want to hear this judge say to you...)</line>
 <line speaker="Maya">It looks like you'd better think again.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Maya">H-Hang on, Nick! Are you saying this is the person who tried to frame Mr. DeLite for the murder?</line>
 <line speaker="Phoenix">Well, yeah. Who else could it be?</line>
 <line speaker="Maya">Did they even know that Mr. DeLite was Mask☆DeMasque?</line>
 <line speaker="Phoenix">Hmm, I wonder...</line>
 <line speaker="Judge">Mr. Wright! Need I warn you about what will happen of you present irrelevant evidence?</line>
-<line speaker="Phoenix"><thought>It looks like I'd better think this through again...</thought></line>
+<line speaker="Phoenix">(It looks like I'd better think this through again...)</line>
 <line speaker="Phoenix">Detective Luke Atmey... He's the only one who could have done it.</line>
 <line speaker="Godot">Ace Detective...</line>
 <line speaker="Ron">Luke Atmey...</line>
@@ -492,14 +492,14 @@
 <line speaker="Godot">For Luke Atmey's verdict. It was a pretty simple trial, after all. If we're going to stop this trial and stall that one, we need to do it now. Of course... That's assuming you have proof that the detective was the one who committed the murder.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Judge">Mr. Luke Atmey's trial has indeed attracted the attention of the entire attorney. If we were to intrude, and failed to provide adequate proof of his true crime...  Mr. DeLite would be left with no grounds for appeal.</line>
-<line speaker="Phoenix">... <thought>Am I really sure about this...?</thought></line>
+<line speaker="Phoenix">... (Am I really sure about this...?)</line>
 <line speaker="Godot">Ha...! A bet's only good when your life's the ante.</line>
 <line speaker="Ron">Mr. Wright! I... I believe in you!</line>
 <line speaker="Phoenix">Mr. DeLite...</line>
 <line speaker="Ron">So... So... Please. I'M BEGGING YOOOOOOU!!</line>
-<line speaker="Phoenix"><thought>Thanks... But... My decision will determine the rest of your life! Can I really risk your life like this...?</thought></line>
-<line speaker="Phoenix">...! <thought>Wh-What was that...?</thought></line>
-<line speaker="Phoenix"><thought>Th-That voice... It-It sounds like... M-Mia...!</thought> Your Honor! The defense requests an immediate recess!</line>
+<line speaker="Phoenix">(Thanks... But... My decision will determine the rest of your life! Can I really risk your life like this...?)</line>
+<line speaker="Phoenix">...! (Wh-What was that...?)</line>
+<line speaker="Phoenix">(Th-That voice... It-It sounds like... M-Mia...!) Your Honor! The defense requests an immediate recess!</line>
 <line speaker="Godot">Ha...! So that's your answer, huh?</line>
 <line speaker="Judge">Very well. I've decided as well. This court will now take a 20 minute recess. ...Mr. Wright. When we return, please summon Mr. Luke Atmey to the stand!</line>
 <line speaker="Phoenix">Yes, Your Honor!</line>
@@ -507,7 +507,7 @@
 <line speaker="Atmey">Heh... Heh heh heh... I have to say, Mr. Payne. You performed splendidly.</line>
 <line speaker="Payne">Oh no, Sir Detective Atmey. You were the one who...</line>
 <line speaker="Judge">That's enough! This court sees no reason to further prolong the trial. This court finds the defendant, Luke Atmey...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Wait! Don't hand down your verdict yet! Please!</line>
 <line speaker="Atmey">Well well... Sir Lawyer. Welcome to my courtroom...</line>
 <line speaker="Judge">Who's this hoser, eh!?</line>
@@ -525,7 +525,7 @@
 <line speaker="Phoenix">To be honest... we don't have any definite proof. But he's the only one who could have done it.</line>
 <line speaker="Desirée">But, wasn't he at Lordly Tailor that night?</line>
 <line speaker="Maya">Not to mention, we don't exactly know his motive. I mean, why would Detective Atmey want to kill Kane Bullard...?</line>
-<line speaker="Phoenix">... Oops, it's almost time! Better get back to the courtroom. <thought>I need to find some solid proof... and it's gotta happen sooner rather than later!</thought></line>
+<line speaker="Phoenix">... Oops, it's almost time! Better get back to the courtroom. (I need to find some solid proof... and it's gotta happen sooner rather than later!)</line>
 <line speaker="Judge">Now then, this court is back in session. Mr. Luke Atmey. Please take the stand.</line>
 <line speaker="Atmey">Well well... How do you do, Sir Lawyer? I never would have thought to see you acting so recklessly.</line>
 <line speaker="Phoenix">I couldn't let them hand down your verdict just yet. Not when it would have given you your perfect alibi. An alibi by the name of "Mask☆DeMasque"...</line>
@@ -541,41 +541,41 @@
 <line speaker="Atmey">As you wish... Sir Prosecutor.</line>
 <line speaker="Atmey">I was stealing the urn as Mask☆DeMasque, just as I announced I would...</line>
 <line speaker="Judge">Hmm... It seems the main point of discussion will be this photo of the crime scene.</line>
-<line speaker="Phoenix"><thought>Everything else up until now was all part of his plan. There has to be a secret to this picture as well!</thought></line>
+<line speaker="Phoenix">(Everything else up until now was all part of his plan. There has to be a secret to this picture as well!)</line>
 <line speaker="Atmey">Even the great Mask☆DeMasque cannot be in two places at once. Now then, if you'll excuse me. I have a verdict to receive.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Unfortunately, Mr. Atmey, we still have to do your cross-examination.</line>
 <line speaker="Atmey">...A fool is too foolish to know that he is a fool...</line>
 <line speaker="Maya">I think he's trying to say that you're full of it, Nick.</line>
 <line speaker="Phoenix">The only thing that's full of it is his alibi!</line>
 <line speaker="Atmey">I was stealing the urn as Mask☆DeMasque, just as I announced I would...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So this photograph is the proof, correct?</line>
 <line speaker="Atmey">Indeed it is.</line>
 <line speaker="Phoenix">And the man in the photo is certainly wearing a mask.</line>
 <line speaker="Atmey">That is why I am called "Mask☆DeMasque".</line>
 <line speaker="Phoenix">But conveniently, that also means that there is no way to tell who this really is.</line>
 <line speaker="Judge">Wh-What do you mean!?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! Are you saying that this is not, in fact, Luke Atmey? That it could be an accomplice dressed up as Mask☆DeMasque to create an alibi...?</line>
 <line speaker="Atmey">Oh ho... What an interesting idea. Are you saying that I, Lone Wolf Luke, had an accomplice?</line>
-<line speaker="Phoenix"><thought>If Luke Atmey was at KB Security during the murder... ...then the Mask☆DeMasque in this picture has to be a fake.</thought> ...Exactly. You had an accomplice!</line>
+<line speaker="Phoenix">(If Luke Atmey was at KB Security during the murder... ...then the Mask☆DeMasque in this picture has to be a fake.) ...Exactly. You had an accomplice!</line>
 <line speaker="Godot">Now remember you've said that, Mr. Trite, because there's no going back. If you're making baseless claims, I'll treat you to a penalty itself!</line>
 <line speaker="Maya">That penalty is probably boiling hot, too...</line>
 <line speaker="Godot">So who was it, Mr. Trite!? Who was the accomplice!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Umm... It was this person.</line>
 <line speaker="Godot">Ha...! That's quite the prank you're trying to pull... Do you have any evidence that this person is, in fact, the accomplice?</line>
 <line speaker="Phoenix">W-Well... T-The aura! The aura that this person has around them is...</line>
 <line speaker="Judge">If you're going to judge someone by their aura... ...you'd be right up there as the number one suspect, Mr. Wright!</line>
-<line speaker="Phoenix"><thought>Nnrgh... I jumped the gun on that one!</thought></line>
-<line speaker="Phoenix"><thought>If Luke Atmey was at KB Security during the murder... ...then the Mask☆DeMasque in this picture has to be a fake.</thought></line>
+<line speaker="Phoenix">(Nnrgh... I jumped the gun on that one!)</line>
+<line speaker="Phoenix">(If Luke Atmey was at KB Security during the murder... ...then the Mask☆DeMasque in this picture has to be a fake.)</line>
 <line speaker="Maya">Then there really was an accomplice!</line>
 <line speaker="Phoenix">But right now, I have no idea who it was.</line>
 <line speaker="Maya">Hmm... I don't have any idea right now either. </line>
-<line speaker="Phoenix"><thought>Baseless objections are just what that guy wants... There's got to be another way... And I'm going to find it!</thought></line>
+<line speaker="Phoenix">(Baseless objections are just what that guy wants... There's got to be another way... And I'm going to find it!)</line>
 <line speaker="Atmey">I had more than enough time to prepare. It was a pathetically easy job.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I believe Adrian Andrews hired you at one point?</line>
 <line speaker="Atmey">That's right... That was over 20 days ago, if I'm not mistaken.</line>
 <line speaker="Phoenix">You sent the calling card to Lordly Tailor 10 days before the heist... That would mean you seat out the card after you began your security watch, right?</line>
@@ -585,63 +585,63 @@
 <line speaker="Maya">Hey, Nick... Isn't there something odd about this?</line>
 <line speaker="Phoenix">Hm?</line>
 <line speaker="Maya">Detective Atmey was always proud of his "Ace Detective" skills, right? But if the urn was stolen from Lordly Tailor while he was the only one watching it... ...he'd have no way to maintain his perfect "Ace Detective" persona.</line>
-<line speaker="Phoenix"><thought>You know, that's true... It is kind of odd.</thought></line>
+<line speaker="Phoenix">(You know, that's true... It is kind of odd.)</line>
 <line speaker="Atmey">...</line>
 <line speaker="Atmey">A photograph contains no words... But in this case, one turned out to be my witness.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So by "photograph", you mean this piece of evidence here. Is that correct?</line>
 <line speaker="Atmey">Indeed it is. That is it! The very thing that proves I committed the crime.</line>
-<line speaker="Phoenix">The very thing... that proves you committed the crime... <thought>When you think about it... It's really odd...</thought> You say that almost as if you had this picture taken on purpose...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">The very thing... that proves you committed the crime... (When you think about it... It's really odd...) You say that almost as if you had this picture taken on purpose...</line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">He was simply caught by the very camera that he had set up... We all have days like that.</line>
 <line speaker="Atmey">Indeed... It turned out that there was no such thing as the perfect crime after all. Life is truly an ironic thing. A sad, blue melody...</line>
-<line speaker="Phoenix"><thought>It looks like I'd better gather more information for now... If he's truly the killer... there's got to be something phony in that video.</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix">(It looks like I'd better gather more information for now... If he's truly the killer... there's got to be something phony in that video.)</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So by "photograph", you mean this piece of evidence here. Is that correct?</line>
 <line speaker="Atmey">Indeed it is. That is it! The very thing that proves I committed the crime.</line>
 <line speaker="Phoenix">The very thing... that proves you committed the crime...</line>
 <line speaker="Godot">Surely even you understand by now.</line>
 <line speaker="Atmey">Lordly Tailor provided that camera. There's no way I could have tampered with it. That means I could not have killed Kane Bullard... unless I had an accomplice.</line>
 <line speaker="Judge">Hmmm...</line>
-<line speaker="Phoenix"><thought>Come on, think long and hard about that night... The basement warehouse, and this picture that supposedly captures it... It's got to be here... Isn't there something "funny" about this picture?</thought></line>
+<line speaker="Phoenix">(Come on, think long and hard about that night... The basement warehouse, and this picture that supposedly captures it... It's got to be here... Isn't there something "funny" about this picture?)</line>
 <line speaker="Atmey">Are you implying that this picture is a fake?</line>
 <line speaker="Phoenix">You bet I am. There's definitely something strange about this picture. We took a look around the basement warehouse that night, before the theft took place. And there's something in this photo that doesn't match my memory of that night!</line>
 <line speaker="Judge">...Very well, then let's hear what you have to say! What about this photograph do you find "funny"?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">The funny part... is right here!</line>
 <line speaker="Judge">Why, this... this is a bloodstain! Ah! Blood! Now this case is getting interesting!</line>
 <line speaker="Phoenix">Umm, not exactly... This stain is actually pink paint.</line>
 <line speaker="Judge">Oh, just paint... And peach-colored at that.</line>
-<line speaker="Phoenix"><thought>From blood to peaches... The judge sure loves going on his wild tangents.</thought> The problem with this photograph is not the paint. The problem is, when you consider the layout of the basement warehouse... It turns out that "something" that should be there is nowhere to be seen!</line>
+<line speaker="Phoenix">(From blood to peaches... The judge sure loves going on his wild tangents.) The problem with this photograph is not the paint. The problem is, when you consider the layout of the basement warehouse... It turns out that "something" that should be there is nowhere to be seen!</line>
 <line speaker="Atmey">...</line>
 <line speaker="Judge">...Well, Mr. Wright? What is supposed to be in this picture instead of the paint stains?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">What do you think, Mr. Godot?</line>
 <line speaker="Phoenix">Um, well... I thought I'd just kind of throw this out and see... </line>
 <line speaker="Judge">I'll have you know I am not a trashcan!</line>
-<line speaker="Phoenix"><thought>And I was so close, too...</thought></line>
+<line speaker="Phoenix">(And I was so close, too...)</line>
 <line speaker="Judge">It seems you've just been wasting our time!</line>
 <line speaker="Godot">That's nothing unusual for this guy...</line>
 <line speaker="Judge">Very well then, witness. Proceed with your testimony.</line>
 <line speaker="Atmey">...Certainly.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">This part here!</line>
 <line speaker="Judge">You mean the "date stamp"...?</line>
 <line speaker="Phoenix">Unfortunately... I'm afraid you can't call this a "date stamp"! ...Because there is no sign of "date" here at all!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Unfortunately, I'm afraid you can't call that "funny" either, Mr. Trite!</line>
 <line speaker="Phoenix">Huh...?</line>
 <line speaker="Godot">While a security camera that only records the time leaves something to be desired... ...the Lordly Tailor staff are the ones who set up the camera. It is not the fault of this witness. </line>
 <line speaker="Judge">Hmm... That's certainly true.</line>
-<line speaker="Phoenix"><thought>Hmm... It looks like I need to approach this from a different angle...</thought></line>
+<line speaker="Phoenix">(Hmm... It looks like I need to approach this from a different angle...)</line>
 <line speaker="Judge">Very well then, witness! Let's return to your testimony.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">Perhaps THIS is the area in question!</line>
 <line speaker="Judge">This "area"...? Could you be any more vague?</line>
 <line speaker="Godot">Ha...! Today's java has a little extra kick to it...</line>
 <line speaker="Atmey">It seems that the funny part... ...lies in the "area" of the defense!</line>
-<line speaker="Phoenix"><thought>Ouch... I better think this through, or I'm gonna fall victim to another drubbing.</thought></line>
+<line speaker="Phoenix">(Ouch... I better think this through, or I'm gonna fall victim to another drubbing.)</line>
 <line speaker="Judge">Very well then, witness! Let's return to your testimony.</line>
 <line speaker="Phoenix">Unfortunately... I don't see anything wrong.</line>
 <line speaker="Judge">That is indeed unfortunate.</line>
@@ -649,16 +649,16 @@
 <line speaker="Maya">Hey, Nick. I've been thinking...</line>
 <line speaker="Phoenix">What is it, Maya?</line>
 <line speaker="Maya">This photo was taken in that basement warehouse, right? And if this was taken on the same night as when we went to see the Treasure Exhibit... ...then there's one thing here that doesn't add up.</line>
-<line speaker="Phoenix"><thought>It looks like I need to approach this from a different angle...</thought></line>
+<line speaker="Phoenix">(It looks like I need to approach this from a different angle...)</line>
 <line speaker="Atmey">The time at which the camera captured Mask☆DeMasque was the same time as the murder!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">About the camera that took this photograph...</line>
 <line speaker="Atmey">Oh come now! It's all too clear what you're thinking!</line>
 <line speaker="Phoenix">...Huh?</line>
 <line speaker="Atmey">You think I altered the timestamp on the photograph, don't you?</line>
 <line speaker="Godot">I'm afraid that's impossible. The camera was set up by Lordly Tailor. And on top of that... ...it was Lordly Tailor staff that printed that picture's data. Unfortunately for the defense, there's no way that picture could have been altered.</line>
 <line speaker="Judge">I see...</line>
-<line speaker="Phoenix"><thought>It looks like I'd better find something else that could be suspicious...</thought></line>
+<line speaker="Phoenix">(It looks like I'd better find something else that could be suspicious...)</line>
 <line speaker="Maya">So, this alibi is false?</line>
 <line speaker="Phoenix">It has to be, or he couldn't have killed Mr. Bullard at KB Security.</line>
 <line speaker="Maya">But... I'm not really spotting anything unusual.</line>
@@ -667,27 +667,27 @@
 <line speaker="Andrews">Well, there's a good reason for that. On the day of the crime, around noon... ...that golden statue just happened to arrive from the mountain training hall.</line>
 <line speaker="Andrews">I realized that the statue would be the perfect size for covering up the paint stains. That's why... I put it where you first saw it.</line>
 <line speaker="Phoenix">I myself was there the night the theft took place, and saw the statue in that spot. If this picture was truly taken on that night, then that statue should've been there!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">But when I went there the day after the theft... ...that statue of the old bag was sitting in the corner.</line>
 <line speaker="Judge">Hmmm... Perhaps it was somehow pushed there accidentally...?</line>
 <line speaker="Phoenix">Your Honor, this statue is slightly larger than yourself and quite heavy. It would take more than an accidental push to move it that distance!</line>
 <line speaker="Godot">Ha...! In that case... Can you prove it? Can you give us the "rhyme and reason" as to why that statue was moved that night?</line>
 <line speaker="Maya">C-Can you do it, Nick?</line>
-<line speaker="Phoenix"><thought>Never mind who moved it... The real question is "why did they move it"...</thought></line>
+<line speaker="Phoenix">(Never mind who moved it... The real question is "why did they move it"...)</line>
 <line speaker="Judge">Well, Mr. Wright. I hope you are prepared with your answer. Now then, who was the one that moved the golden statue on the night of the crime?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">What do you think, Mr. Godot?</line>
 <line speaker="Godot">A man should be able to answer his own questions. That's what I think. Right now I'm busy trying to come up with two answers of my own. Why is coffee black? And... Why is it bitter...?</line>
 <line speaker="Judge">Mr. Wright... To put it simply, you've messed up.</line>
 <line speaker="Maya">What are you doing, Nick!? You need to think about why that statue was moved!</line>
-<line speaker="Phoenix"><thought>The good thing about when everyone chews me out is that it gives me time to think!</thought></line>
+<line speaker="Phoenix">(The good thing about when everyone chews me out is that it gives me time to think!)</line>
 <line speaker="Phoenix">The one who moved the statue is none other than... Luke Atmey!</line>
 <line speaker="Atmey">Come now, Sir Lawyer! There you go again on one of your strange delusions...</line>
 <line speaker="Judge">Mr. Wright! What basis do you have for your strange delusions!?</line>
 <line speaker="Phoenix">...It's very simple. The witness was the only one in the basement warehouse that night.</line>
 <line speaker="Atmey">That is indeed very simple... However! Why would I want to move a heavy golden statue?</line>
-<line speaker="Phoenix"><thought>The reason for moving the golden statue... Here's where our battle finally begins.</thought></line>
+<line speaker="Phoenix">(The reason for moving the golden statue... Here's where our battle finally begins.)</line>
 <line speaker="Judge">Well, Mr. Wright? What reason did the witness have to move that statue!?</line>
 <line speaker="Phoenix">The reason can be found here in this photograph.</line>
 <line speaker="Atmey">...!</line>
@@ -696,22 +696,22 @@
 <line speaker="Phoenix">But this photograph contains a single, fatal flaw. If the statue had been there, your lie would be exposed like cheap film at a drug store... That is why you moved the statue!</line>
 <line speaker="Judge">A single, fatal flaw?</line>
 <line speaker="Godot">Interesting theory... Please enlighten us. Just where in this picture does this "lie" exist!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">The lie... is Mask☆DeMasque!</line>
 <line speaker="Judge">A-Are you saying that this Mask☆DeMasque is a fake!?</line>
 <line speaker="Godot">Ha...! You know... I really wish you would start acting more responsibly...</line>
 <line speaker="Phoenix">...Huh?</line>
 <line speaker="Godot">The current question is, "why was the golden statue moved?" So what possible connection could there with Mask☆DeMasque's identity?</line>
-<line speaker="Phoenix"><thought>Oh buggers!</thought></line>
+<line speaker="Phoenix">(Oh buggers!)</line>
 <line speaker="Judge">Your face has "Oh buggers!" written all over it. That's a penalty for you!</line>
 <line speaker="Godot">I'll ask you again, Mr. Trite.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">The lie in this photo is somewhere around here!</line>
 <line speaker="Godot">Jumping to conclusions again? I think you need to take a gander in your logical mirror.</line>
 <line speaker="Atmey">As the Yiddish proverb goes, "A half-truth is a whole lie".</line>
 <line speaker="Judge">Keep lying like this and you'll be the one on trial.</line>
-<line speaker="Phoenix"><thought>Oh man, now they're calling me a liar...!</thought></line>
+<line speaker="Phoenix">(Oh man, now they're calling me a liar...!)</line>
 <line speaker="Maya">The question is why was the statue moved, right?</line>
 <line speaker="Phoenix">There was some reason the culprit didn't want the statue in the picture... At least, that's what I thought.</line>
 <line speaker="Godot">I'll ask you again, Mr. Trite.</line>
@@ -733,7 +733,7 @@
 <line speaker="Atmey">One moment, Your Honor! H-Have you forgotten this?</line>
 <line speaker="Judge">Wh-What's that...?</line>
 <line speaker="Atmey">The data for the basement warehouse computer! According to this, the camera did indeed go off on the night of the crime!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Hmm... It's true that the camera had been set up by the Lordly Tailor staff. However! The program used to manage that data was yours! That alone would have allowed you to tamper with the data!</line>
 <line speaker="Atmey">Ah... AAAAAAAAAAAHHH!</line>
 <line speaker="Judge">Order! Order! Mr. Godot! What is the meaning of this!? Godot! I warned you about making me wait! Now put that coffee down!</line>
@@ -757,40 +757,40 @@
 <line speaker="Atmey">...Zvarri.</line>
 <line speaker="Judge">Very well then! Mr. Wright! You may begin your cross-examination!</line>
 <line speaker="Atmey">I first received the request from Lordly Tailor about 20 days ago.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You were asked to guard the urn by Ms. Adrian Andrews, is that right?</line>
 <line speaker="Atmey">Indeed... It seemed that they had heard of my Zvarrikling reputation.</line>
-<line speaker="Phoenix"><thought>I see Ms. Andrews is still attracting the weirdos.</thought> You'd better watch out too, Maya.</line>
+<line speaker="Phoenix">(I see Ms. Andrews is still attracting the weirdos.) You'd better watch out too, Maya.</line>
 <line speaker="Atmey">The urn was placed in a box, and Zvarri! It was then sent to the warehouse.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean... this box?</line>
 <line speaker="Atmey">Yes. That pathetic box. Lady Andrews was especially taken with that urn... ...and she wouldn't let anyone enter the storeroom, not even me.</line>
-<line speaker="Phoenix"><thought>Huh. Interesting new tidbit...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(Huh. Interesting new tidbit...)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Atmey">Hence, I was actually unable to see the urn for myself until the day of the crime...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you're sure that you had never seen the urn before?</line>
 <line speaker="Atmey">Indeed... You may ask Lady Andrews to confirm for yourself. My security was focused entirely on the entrance to that warehouse. However! I, Luke Atmey, let no information whatsoever slip through my fingers!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Atmey">I knew it was an extremely valuable treasure, so I sent my card 10 days beforehand.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean... this calling card?</line>
 <line speaker="Atmey">That's right! That is, without a doubt, my calling card.</line>
 <line speaker="Maya">I guess Mr. DeLite didn't make this after all.</line>
-<line speaker="Phoenix"><thought>Of course... Because Atmey knew about the emblem. Making this card authentic would've been child's play to him.</thought></line>
+<line speaker="Phoenix">(Of course... Because Atmey knew about the emblem. Making this card authentic would've been child's play to him.)</line>
 <line speaker="Atmey">I then handled security by myself to ensure that my crime would go smoothly!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Then no one entered the basement warehouse?</line>
 <line speaker="Atmey">Unfortunately... There were many different treasures being taken there. Thus, for a period of approximately 5 days... ...people were indeed going in and out of the warehouse.</line>
 <line speaker="Judge">Hmmm...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Atmey">At last, I held the urn in my hands for the first time at 1 AM on October 12th.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And this is the photo that proves that, huh?</line>
 <line speaker="Atmey">...Indeed. To be honest, even if a photo was taken... I didn't think it would matter terribly much.</line>
 <line speaker="Maya">Hey, Nick. If this photo is a fake... Detective Atmey might have stolen the urn whenever this was taken.</line>
-<line speaker="Phoenix">...That's true. You know, he's been saying that he "never saw the urn until that night"... If we can prove that he's lying there, we can wrap this up and put a bow on it. <thought>I need to take a good hard look at the Court Record!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">...That's true. You know, he's been saying that he "never saw the urn until that night"... If we can prove that he's lying there, we can wrap this up and put a bow on it. (I need to take a good hard look at the Court Record!)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Hmmm... Not a lot to go on, is there?</line>
 <line speaker="Phoenix">That detective's been covering his tracks... There's only one thing we need to prove in this cross-examination...! That he took this photo well before the actual night of the crime.</line>
 <line speaker="Maya">Alright then... How do we do that?</line>
@@ -816,7 +816,7 @@
 <line speaker="Atmey">Gwagwagwagwawaaaah!</line>
 <line speaker="Judge">...Witness. Do you have anything to say for yourself?</line>
 <line speaker="Atmey">Grr... Mmm... Nnn...</line>
-<line speaker="Phoenix"><thought>Alright! That did it! He's broken!</thought></line>
+<line speaker="Phoenix">(Alright! That did it! He's broken!)</line>
 <line speaker="Maya">Um, Nick, I think it's still a little early for a victory pose.</line>
 <line speaker="Phoenix">...Huh?</line>
 <line speaker="Godot">Ha...! It's so sad... No one has any conviction these days...</line>
@@ -834,14 +834,14 @@
 <line speaker="Atmey">Indeed. According to my own research, the boy's motive is clear!</line>
 <line speaker="Judge">Without a motive, it's nearly impossible to prove guilt in a murder case! Now then... Maybe you can enlighten us to what the defendant's motives were.</line>
 <line speaker="Atmey">Thank you, Sir Old-timer.</line>
-<line speaker="Phoenix"><thought>They're doing everything they can to make Ron look suspicious... Despite our lack of hard information, this may be our only chance...</thought></line>
+<line speaker="Phoenix">(They're doing everything they can to make Ron look suspicious... Despite our lack of hard information, this may be our only chance...)</line>
 <line speaker="Atmey">I, Luke Atmey, had no points of contact with the victim whatsoever.</line>
 <line speaker="Judge">So the victim, Kane Bullard, blackmailed the defendant...?</line>
 <line speaker="Godot">This is the blackmail letter found in the defendant's apartment. A handwriting test confirms that Mr. Bullard was indeed the one who wrote the letter.</line>
-<line speaker="Phoenix"><thought>Wh-What!?</thought></line>
+<line speaker="Phoenix">(Wh-What!?)</line>
 <line speaker="Judge">Very well, Mr. Wright. Begin your cross-examination.</line>
 <line speaker="Atmey">I, Luke Atmey, had no points of contact with the victim whatsoever.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And who in the world is going to prove that!?</line>
 <line speaker="Godot">I will.</line>
 <line speaker="Phoenix">...!</line>
@@ -851,13 +851,13 @@
 <line speaker="Judge">That was blunt.</line>
 <line speaker="Atmey">In any case, the only one with a motive was Mr. DeLite.</line>
 <line speaker="Atmey">Kane Bullard decided to investigate Mask☆DeMasque and simply mistook who he was!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mistook...?</line>
 <line speaker="Atmey">That's right. "Mistook". From the Old Norse "mistaka", meaning, "to take in error".</line>
 <line speaker="Phoenix">...Umm, that wasn't what I meant.</line>
 <line speaker="Judge">Just who did the victim mistake Mask☆DeMasque to be?</line>
 <line speaker="Atmey">Why, the answer is obvious. ...Ron DeLite, of course.</line>
-<line speaker="Phoenix"><thought>Boy, I'd like to wipe that smug look off this guy's face...</thought></line>
+<line speaker="Phoenix">(Boy, I'd like to wipe that smug look off this guy's face...)</line>
 <line speaker="Phoenix">Why would the victim mistake the defendant for Mask☆DeMasque?</line>
 <line speaker="Atmey">Don't you already know that? Zvarri! Take a look at this newspaper!</line>
 <line speaker="Judge">Oh ho... That's the famous "Tear of Emanon." A magnificent jewel!</line>
@@ -866,42 +866,42 @@
 <line speaker="Atmey">The victim clearly misread this article and... Zvarri! He got the wrong impression. The impression that this ugly security guard was in fact Mask☆DeMasque!</line>
 <line speaker="Judge">Hmm... I see...</line>
 <line speaker="Maya">That was an unusually reasonable deduction.</line>
-<line speaker="Phoenix"><thought>I can't stand to hear any more of his long-winded stories. I'll hold off on pressing him further for now...</thought> ...That's fine. Please continue your testimony.</line>
+<line speaker="Phoenix">(I can't stand to hear any more of his long-winded stories. I'll hold off on pressing him further for now...) ...That's fine. Please continue your testimony.</line>
 <line speaker="Maya">Aww. I was looking forward to one of his long-winded stories!</line>
 <line speaker="Atmey">It was Mr. Bullard who wrote the blackmail letter and sent it to Ron DeLite.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean this blackmail letter right here?</line>
 <line speaker="Judge">It says, "Bring $50,000"...</line>
 <line speaker="Phoenix">And the handwriting is, without a doubt, the victim's?</line>
 <line speaker="Godot">There's no mistake. We have an official report to prove it.</line>
 <line speaker="Judge">But, I don't see an addressee on this letter anywhere.</line>
-<line speaker="Phoenix"><thought>An addressee...?</thought></line>
+<line speaker="Phoenix">(An addressee...?)</line>
 <line speaker="Godot">The letter was discovered in Ron DeLite's apartment. And Mr. DeLite did show up at the designated place and time. The fact that there is no addressee is irrelevant.</line>
-<line speaker="Phoenix"><thought>I wonder...</thought></line>
+<line speaker="Phoenix">(I wonder...)</line>
 <line speaker="Maya">What's up, Nick?</line>
 <line speaker="Phoenix">I just had a thought. What if that blackmail letter wasn't meant for Mr. DeLite?</line>
 <line speaker="Maya">Whoa... Do you have any evidence of that?</line>
-<line speaker="Phoenix"><thought>For some reason, I just can't shake the feeling... ...that there's something not quite right about this blackmail letter...</thought></line>
+<line speaker="Phoenix">(For some reason, I just can't shake the feeling... ...that there's something not quite right about this blackmail letter...)</line>
 <line speaker="Atmey">Well, everyone? Are you quite satisfied?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Mind if I ask you a few questions, Detective Atmey?</line>
 <line speaker="Atmey">Well... If-If it's just a "few", I guess it's alright.</line>
 <line speaker="Phoenix">When you said that this letter was "addressed to Ron DeLite"... ...I couldn't help but notice one major contradiction.</line>
 <line speaker="Atmey">C-Contradiction...?</line>
 <line speaker="Godot">I don't know where a walking contradiction like you gets off saying things like that...</line>
-<line speaker="Phoenix"><thought>You're one to talk!</thought></line>
+<line speaker="Phoenix">(You're one to talk!)</line>
 <line speaker="Godot">At times like these, men are made to express themselves with their fists. Why don't you show us what you've got there, junior?</line>
 <line speaker="Judge">Indeed! Time to man up, Mr. Wright. Show us the contradicting evidence in the content of the blackmail letter!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Godot">Ha...! A little two-one punch like that wouldn't even faze me...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I think you mean "one-two" punch..</line>
 <line speaker="Judge">Mr. Wright! Try thinking things through a little more before finding fault with others!</line>
-<line speaker="Phoenix"><thought>Ouch... I sure felt that punch, Your Honor... Anyway... Let's try reading the blackmail letter one more time... There's got to be something off about it somewhere...</thought></line>
+<line speaker="Phoenix">(Ouch... I sure felt that punch, Your Honor... Anyway... Let's try reading the blackmail letter one more time... There's got to be something off about it somewhere...)</line>
 <line speaker="Judge">Very well then, witness. Please proceed with your testimony.</line>
 <line speaker="Atmey">And it was again Mr. Bullard who harbored a grudge against Mr. DeLite for his betrayal!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What do you mean by that!?</line>
 <line speaker="Atmey">Oh my, I was certain you were already aware. ...Zvarri!</line>
 <line speaker="Ron">KB Security has a lot of security info on all sorts of companies... And since I was a security team chief... I stole data from the company.</line>
@@ -910,7 +910,7 @@
 <line speaker="Judge">Hmmm... H-However! Isn't this a bit odd!? Why did the defendant pay Mr. Bullard the money... ...even though he wasn't actually Mask☆DeMasque...?</line>
 <line speaker="Atmey">On that point, there was an unfortunate bit of chance.</line>
 <line speaker="Atmey">Mr. Bullard's mistake is quite excusable. The defendant truly believes he is Mask☆DeMasque.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Um... Do you really think that story is going to hold up?</line>
 <line speaker="Atmey">That assertion is not merely my own, I'm afraid.</line>
 <line speaker="Phoenix">What do you mean?</line>
@@ -918,19 +918,19 @@
 <line speaker="Phoenix">Ugh... Was he trying to act like Ms. DeLite just now?</line>
 <line speaker="Maya">I thought he was actually pretty convincing.</line>
 <line speaker="Atmey">That is why Mr. DeLite saw it fit to kill Kane Bullard. Truly a tragedy...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Now that's just your imagination talking!</line>
 <line speaker="Atmey">Come now, Sir Lawyer! I'm afraid "imagination" isn't the right word for it! This is a deduction. The result of carefully applied reasoning...</line>
 <line speaker="Judge">Can we hear that careful reasoning for ourselves?</line>
 <line speaker="Atmey">... It's a long story, and better saved for another time.</line>
 <line speaker="Judge">Hmmm... Very well, another time.</line>
-<line speaker="Phoenix"><thought>Those so called "long stories" aren't usually all that long. At least, not in my experience.</thought></line>
+<line speaker="Phoenix">(Those so called "long stories" aren't usually all that long. At least, not in my experience.)</line>
 <line speaker="Maya">So you're going to try to connect Detective Atmey to Mr. Bullard, right?</line>
 <line speaker="Phoenix">Y-Yeah, that's right. Hopefully it won't require surgery either...</line>
 <line speaker="Maya">In that case, you'll have to talk about the blackmail...</line>
-<line speaker="Phoenix">That's true. <thought>Was that blackmail letter really intended for Ron?</thought></line>
+<line speaker="Phoenix">That's true. (Was that blackmail letter really intended for Ron?)</line>
 <line speaker="Maya">Since we don't have enough information, you should press him for more testimony!</line>
-<line speaker="Phoenix"><thought>Maybe I'll able to shake some contradictions loose that way!</thought></line>
+<line speaker="Phoenix">(Maybe I'll able to shake some contradictions loose that way!)</line>
 <line speaker="Phoenix">Take a good look at this newspaper clipping. It contains a picture of the "Tear of Emanon", the stolen jewel.</line>
 <line speaker="Judge">Wh-What about it?</line>
 <line speaker="Phoenix">The problem is this jewel's color.</line>
@@ -938,18 +938,18 @@
 <line speaker="Phoenix">According to the clipping, the color of the stolen jewel was "blue". However, in the blackmail letter, a totally different jewel is mentioned. "I'll take that red diamond you received the other day."</line>
 <line speaker="Judge">R-Red...!?</line>
 <line speaker="Phoenix">Which means! The "red diamond" described in the blackmail letter... ...is not the "Tear of Emanon" that Mask☆DeMasque stole at all!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">And your point is, Mr. Trite!? So you are trying to say that this blackmail letter was intended for someone else. ...That is what you're trying to say!? Right, Trite?</line>
 <line speaker="Judge">That is what you're trying to say!? Right, Mr. Wright?</line>
 <line speaker="Maya">Well? That is what you're trying to say!? Right, Nick!?</line>
 <line speaker="Phoenix">...Yes. This is who Kane Bullard was actually blackmailing!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">... I'm impressed, Mr. Wright. That was a first-class joke.</line>
 <line speaker="Atmey">I'm afraid I can only rate it second-class myself.</line>
 <line speaker="Godot">Actually I don't think it had any class at all.</line>
 <line speaker="Maya">I could laugh... if I tried.</line>
-<line speaker="Phoenix"><thought>Thanks everyone, for your undying support... Especially you, Maya. Argh! OK, we've come this far, and I'm definitely not about to let him slide!</thought></line>
+<line speaker="Phoenix">(Thanks everyone, for your undying support... Especially you, Maya. Argh! OK, we've come this far, and I'm definitely not about to let him slide!)</line>
 <line speaker="Godot">Hey... It looks like you've got some life in you yet... </line>
 <line speaker="Phoenix">Naturally... It was you, Detective Atmey!</line>
 <line speaker="Atmey">... Do you have some sort of basis for that claim?</line>
@@ -960,23 +960,23 @@
 <line speaker="Phoenix">That is the diamond referred to in the letter! Which means that Kane Bullard wrote that letter in order to blackmail YOU!</line>
 <line speaker="Atmey">Aaaaahhhhh!</line>
 <line speaker="Judge">Order! Order in the court! Um, um... Order, I say...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">It seems... You've gone too far with your childish pranks, Mr. Trite.</line>
-<line speaker="Phoenix"><thought>Uh oh... I don't like the way he said that...</thought></line>
+<line speaker="Phoenix">(Uh oh... I don't like the way he said that...)</line>
 <line speaker="Godot">Kane Bullard blackmailing Luke Atmey? Are you for real?</line>
 <line speaker="Phoenix">Y-Yes. I am.</line>
 <line speaker="Maya">Nick! Come on, stand up to him!</line>
 <line speaker="Godot">Then answer me this! The blackmail letter contains the following passage. "If you don't want your identity revealed to the world"...!</line>
 <line speaker="Judge">Yes, it certainly does.</line>
 <line speaker="Godot">Kane Bullard threatened to make Luke Atmey's "identity" public knowledge! An "identity" he wanted to keep a secret. So just what was that identity!?</line>
-<line speaker="Phoenix"><thought>Atmey killed Kane Bullard because he was afraid of his secret becoming known...! What was the "identity" he wanted to keep secret...?</thought></line>
+<line speaker="Phoenix">(Atmey killed Kane Bullard because he was afraid of his secret becoming known...! What was the "identity" he wanted to keep secret...?)</line>
 <line speaker="Maya">This is what it all comes down to, Nick!</line>
 <line speaker="Phoenix">The "identity" that Luke Atmey wanted to so desperately keep secret was his identity as...</line>
 <line speaker="Phoenix">Luke Atmey... was an Ace Detective!</line>
 <line speaker="Atmey">Thank you for the kind introduction. I am Luke Atmey, Ace Detective. One embodies the nefarious forces of darkness. The other the angelic cherubs of light!</line>
 <line speaker="Judge">...I am completely lost. Someone get me a translator. *ahem* But anyway, everyone already knows you're an Ace Detective!</line>
 <line speaker="Maya">Come on Nick... Are you even trying anymore?</line>
-<line speaker="Phoenix"><thought>Actually, I kind of wonder myself...</thought></line>
+<line speaker="Phoenix">(Actually, I kind of wonder myself...)</line>
 <line speaker="Phoenix">Luke Atmey... was Mask☆DeMasque! ... Wh-What?</line>
 <line speaker="Godot">That's my line.</line>
 <line speaker="Phoenix">Wh-What's that supposed to mean?</line>
@@ -986,7 +986,7 @@
 <line speaker="Phoenix">Oof... OK, I'll try thinking about this again.</line>
 <line speaker="Phoenix">Luke Atmey... was a blackmailer!</line>
 <line speaker="Atmey">...!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Hey now... Isn't that a little different from what you've been saying? You said that Kane Bullard was the one blackmailing Luke Atmey. Are you saying that Atmey was blackmailing someone else on top of that?</line>
 <line speaker="Maya">Ugh... You have to admit, that does sound a little odd...</line>
 <line speaker="Phoenix">It's not odd. ...It's the only thing that makes any sense. Kane Bullard was blackmailing Luke Atmey. But! Ron DeLite was also being blackmailed by a certain someone!</line>
@@ -1004,11 +1004,11 @@
 <line speaker="Atmey">Ron DeLite started receiving plans from his second crime onward, correct? Which means... I learned of his identity when he committed that first crime.</line>
 <line speaker="Judge">Good point.. You certainly couldn't have blackmailed him otherwise.</line>
 <line speaker="Godot">In that case, let's see some hot, bitter evidence. During the first crime, how did Luke Atmey know that Ron DeLite was Mask☆DeMasque?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Judge">Mr. Wright, please don't just throw out any piece of evidence you like.</line>
 <line speaker="Godot">The only thing a man should throw when he's frustrated is a hissy fit.</line>
-<line speaker="Phoenix"><thought>Come on, there's no need to overthink this! How did Luke Atmey find out who Mask☆DeMasque was...? That answer has got to be staring me right in the face!</thought></line>
+<line speaker="Phoenix">(Come on, there's no need to overthink this! How did Luke Atmey find out who Mask☆DeMasque was...? That answer has got to be staring me right in the face!)</line>
 <line speaker="Judge">Hmm... Judging by your expression, it seems you haven't given up.</line>
 <line speaker="Phoenix">I think I see it...</line>
 <line speaker="Atmey">See what...?</line>
@@ -1026,7 +1026,7 @@
 <line speaker="Judge">It would seem we've finally gotten to the real answer.</line>
 <line speaker="Maya">That was... quite a performance by Mr. Atmey...</line>
 <line speaker="Judge">Bailiff! Please prepare a cell for Mr. Atmey...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">The hammer that strikes too fast has no time to aim.</line>
 <line speaker="Judge">Wh-What do you mean! I'm already prepared to deliver my sentence...</line>
 <line speaker="Godot">Allow me to say one thing. I... will be the one to judge!</line>
@@ -1041,7 +1041,7 @@
 <line speaker="Godot">Just because he wasn't at the warehouse doesn't mean he was at the murder scene. Therefore, if you can't prove that this pitiful excuse for a man was at KB Security... ...then I don't see how a verdict can be delivered!</line>
 <line speaker="Phoenix">No... No waaaaaaaaaay!</line>
 <line speaker="Judge">Order! Order in the court! ...Well, Mr. Wright!?</line>
-<line speaker="Phoenix"><thought>Th-This is it... This is the final round...!</thought> I've got to prove that Atmey was at Mr. Bullard's office on that night...</line>
+<line speaker="Phoenix">(Th-This is it... This is the final round...!) I've got to prove that Atmey was at Mr. Bullard's office on that night...</line>
 <line speaker="Maya">B-But...! Can you really prove that?</line>
 <line speaker="Godot">That's long enough. Mr. Trite... I want to hear your answer.</line>
 <line speaker="Phoenix">That night, Luke Atmey was at KB Security, and the defense...</line>
@@ -1049,7 +1049,7 @@
 <line speaker="Judge">Are you sure?</line>
 <line speaker="Godot">Ha...! Don't you worry. I'll watch over you. ...As you break down and fall to pieces.</line>
 <line speaker="Judge">Very well then, let's see this proof! Proof that Luke Atmey was at KB Security that night!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Phoenix">This is the proof!</line>
 <line speaker="Judge">It's true... That is very important. However, I'm not so foolish as to think that will pass for evidence here!</line>
 <line speaker="Godot">Mr. Trite... It's time you learned the true flavor of life... The flavor of my special Godot Blend #49!</line>
@@ -1057,11 +1057,11 @@
 <line speaker="Judge">Well, Mr. Wright?</line>
 <line speaker="Phoenix">... It's bitter. ...Very bitter.</line>
 <line speaker="Maya">Come on, Nick! Don't give up now!</line>
-<line speaker="Phoenix"><thought>What do I do...!? If I make a mistake here, it's over...</thought></line>
+<line speaker="Phoenix">(What do I do...!? If I make a mistake here, it's over...)</line>
 <line speaker="Phoenix">I... I can't prove it.</line>
 <line speaker="Judge">Just as I thought.</line>
 <line speaker="Phoenix">...But! If we hear more of Detective Atmey's testimony...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Unfortunately... That's as far as you go, Mr. Trite.</line>
 <line speaker="Phoenix">Wh-What do you mean?</line>
 <line speaker="Godot">I won't allow for any more testimony... That's what I mean.</line>
@@ -1070,7 +1070,7 @@
 <line speaker="Phoenix">N-No...</line>
 <line speaker="Atmey">Well now, Sir Lawyer! It seems that love wins out in the end after all! I am the Ace Detective as well as Mask☆DeMasque! My verdict will verify that! Just as Ron DeLite's will verify that he is the true murderer! I declare that with the full force of my Ace Detective-ness!</line>
 <line speaker="Judge">Order! Order in the court! That's enough deliberation over this witness!</line>
-<line speaker="Phoenix"><thought>I-I can't believe this...! At this rate, Ron is...</thought></line>
+<line speaker="Phoenix">(I-I can't believe this...! At this rate, Ron is...)</line>
 <line speaker="Maya">D-Don't give up now, Nick! We still have tomorrow! We can look for more evidence and...</line>
 <line speaker="Phoenix">By then, it'll be too late...</line>
 <line speaker="Maya">Huh? Wh-Why!?</line>
@@ -1082,16 +1082,16 @@
 <line speaker="Maya">No way...</line>
 <line speaker="Judge">The fact that you were unable to prove Mr. Atmey's guilt of that crime here... ...means that he will never again be tried as Kane Bullard's murderer.</line>
 <line speaker="Phoenix">U... Uwaaaaaaaaaah!</line>
-<line speaker="Phoenix"><thought>Now there's nothing I can possibly do to win... Even if Ron is proclaimed to be innocent... ...the real killer, Luke Atmey, will go free.</thought></line>
+<line speaker="Phoenix">(Now there's nothing I can possibly do to win... Even if Ron is proclaimed to be innocent... ...the real killer, Luke Atmey, will go free.)</line>
 <line speaker="Judge">You have cross-examined every statement the witness has made here today. And as long as there is no more testimony... I'm afraid I have to declare that there will be no further questioning of this witness! Are there any objections? Then I hereby end the cross-examination of Luke Atmey!</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="???">I think... I see it. Your Honor. When you were a child, this is what was on your report card every year. "Has poor hearing, and often makes mistakes as a result."</line>
 <line speaker="Judge">H-H-H-H-How did you...!?</line>
 <line speaker="???">...Phoenix. Raise your head up high. Have you forgotten what I used to tell you? A lawyer is someone who smiles no matter how bad it gets.</line>
-<line speaker="Phoenix"><thought>Th-That voice... No way!</thought></line>
+<line speaker="Phoenix">(Th-That voice... No way!)</line>
 <line speaker="Mia">Long time no see, Phoenix.</line>
 <line speaker="Phoenix">M... Mia!</line>
-<line speaker="Phoenix"><thought>This is the true power of the Kurain Channeling Technique... I know that it's really "Maya" who's standing before me... But right now, she's my mentor, Mia Fey.</thought></line>
+<line speaker="Phoenix">(This is the true power of the Kurain Channeling Technique... I know that it's really "Maya" who's standing before me... But right now, she's my mentor, Mia Fey.)</line>
 <line speaker="Mia">Now... Let's do this!</line>
 <line speaker="Phoenix">B-But...! There's nothing more we can do, Mia! Without any more testimony, I can't cross-examine...</line>
 <line speaker="Mia">Not yet... The testimony's not over yet.</line>
@@ -1117,7 +1117,7 @@
 <line speaker="Mia">Phoenix? This is it. This is our absolute last chance.</line>
 <line speaker="Phoenix">Y-Yes, Chief!</line>
 <line speaker="Atmey">Indeed, it is true that I was not at Lordly Tailor.</line>
-<line speaker="Phoenix"><thought>This testimony actually seems to hold up pretty well...</thought></line>
+<line speaker="Phoenix">(This testimony actually seems to hold up pretty well...)</line>
 <line speaker="Judge">The witness's earlier remarks do not appear to have been hastily prepared. All of his points have been explained, and none of them seem to contradict anything.</line>
 <line speaker="Atmey">...But of course.</line>
 <line speaker="Judge">But... How did you know about the emergency buzzer?</line>
@@ -1135,95 +1135,95 @@
 <line speaker="Phoenix">Wh-What do you mean, "So it would seem"...?</line>
 <line speaker="Mia">Listen, Phoenix. Pointing out contradictions... ...doesn't always mean you have to present evidence... does it? At any rate, this is our chance. If you can't point out a case-breaking contradiction... ...you lose. That's all there is to it.</line>
 <line speaker="Godot">...Cup number 17. The last cup. It seems like the time has come to put an end to this trial.</line>
-<line speaker="Phoenix"><thought>I have to find a fatal contradiction in this testimony... And... I need to point it out without presenting evidence! Which means all I can do is find the contradictory remark and press it...!</thought></line>
+<line speaker="Phoenix">(I have to find a fatal contradiction in this testimony... And... I need to point it out without presenting evidence! Which means all I can do is find the contradictory remark and press it...!)</line>
 <line speaker="Mia">Remember! You only get one chance!</line>
 <line speaker="Judge">Very well then, Mr. Wright. Please begin your final cross-examination!</line>
 <line speaker="Atmey">Indeed, it is true that I was not at Lordly Tailor.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">I had to leave to see about another vitally important job request.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">I had known about the date beforehand, so I had this photograph readied.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">My brilliant deduction was what informed me that the true culprit was Ron DeLite.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">And thanks to the Key Card and Wallet, it was abundantly clear that he was there.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">I was also able to make a deduction from the buzzer, which only sounded once.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">The button did not have any fingerprints on it... Why?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">The victim would have left prints if he sounded it. Which means the killer sounded it.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">Mr. DeLite was wearing his Mask☆DeMasque outfit, which is why he left no prints.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Atmey">And, the blackmail letter? The victim likely just mistook the color of the jewel.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
 <line speaker="Atmey">Zvarri! Therefore, all the evidence points to that poor boy!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">Wha...</line>
 <line speaker="Godot">I said this before... There's still one thing you haven't proven. That this scum was in Kane Bullard's office that night... And now... it's time for me to drink my last cup!</line>
 <line speaker="Judge">Mr. Wright. I will hold you to your end of the bargain.</line>
-<line speaker="Phoenix"><thought>This cross-examination is the only chance I have to nail him! Somewhere there's a huge contradiction, and I've got to find it...!</thought></line>
+<line speaker="Phoenix">(This cross-examination is the only chance I have to nail him! Somewhere there's a huge contradiction, and I've got to find it...!)</line>
 <line speaker="Mia">As far as I can see, there is no evidence that contradicts his testimony. All you can do is press him. And you only get one shot.</line>
 <line speaker="Phoenix">Mr. Atmey. About this last remark...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...You still don't get it, do you, Trite? This isn't the time to be pressing the witness on every little statement.</line>
 <line speaker="Phoenix">I'm afraid you're the one who still doesn't get it, Mr. Godot. </line>
 <line speaker="Godot">Wh-What...?</line>
@@ -1244,18 +1244,18 @@
 <line speaker="Atmey">Ah... AAAAYEEEEHHH!!!</line>
 <line speaker="Phoenix">You were in the next courtroom, being tried as Mask☆DeMasque! So then, enlighten us! Just how did you know about that piece of information!?</line>
 <line speaker="Atmey">Urk...! W-Well...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">C-Come on! This detective must have known about it! He probably had plenty of chances to find out beforehand!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">And it's those "chances" that I want to discuss next! That night, "Mr. DeLite was wearing his Mask☆DeMasque outfit." There is one, and only one way... ...for Detective Atmey to have found that out.</line>
 <line speaker="Judge">Only one...</line>
 <line speaker="Godot">...One way, you say!?</line>
 <line speaker="Phoenix">Please remember, if you will, Mr. DeLite's testimony!</line>
 <line speaker="Ron">When I entered the office, there was a suspicious shadow there...</line>
 <line speaker="Phoenix">For a second, my client witnessed the real killer.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">But Mr. DeLite never saw him! There's no way to tell whether or not the "real killer" was Luke Atmey...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">It's with that statement that I'll turn this case on its head!</line>
 <line speaker="Godot">J-Just what are you implying!?</line>
 <line speaker="Phoenix">"Mr. DeLite saw the real killer," correct? Now, if you turn that statement around... ...it stands to follow that the real killer had also "seen" Ron DeLite!</line>
@@ -1273,7 +1273,7 @@
 <line speaker="Judge">I came perilously close to besmirching the record of an innocent young man... ...Besmirching him with the title of "murderer"!</line>
 <line speaker="???">...Don't ignore meeeeeee!</line>
 <line speaker="Judge">...Oh. I didn't realize you were there.</line>
-<line speaker="Phoenix"><thought>Why wouldn't he be...?</thought></line>
+<line speaker="Phoenix">(Why wouldn't he be...?)</line>
 <line speaker="Ron">Um... About the verdict...</line>
 <line speaker="Judge">I know. You never committed any murder.</line>
 <line speaker="Ron">That's right! I'm so glad you understand that! But... I, um... I really am Mask☆DeMaaaaasque!!!</line>
@@ -1283,11 +1283,11 @@
 <line speaker="Ron">What was it you said? "Double Jeopardy"?</line>
 <line speaker="Judge">Now that you mention it...</line>
 <line speaker="Godot">I've been careless.</line>
-<line speaker="Phoenix"><thought>Careless...?</thought> Um, What do you think, Mia?</line>
+<line speaker="Phoenix">(Careless...?) Um, What do you think, Mia?</line>
 <line speaker="Mia">As the defendant says, the rule of "Double Jeopardy" is absolute. A defendant can never be tried twice for a crime in which he was once found innocent.</line>
 <line speaker="Phoenix">Then... Mask☆DeMasque is really innocent?</line>
 <line speaker="Mia">For now... it would seem so.</line>
-<line speaker="Phoenix"><thought>F-For now...</thought></line>
+<line speaker="Phoenix">(F-For now...)</line>
 <line speaker="Judge">Now then! This court finds the defendant...</line>
 <line speaker="Ron">Boy, this is really lucky... Wait, err, I... That isn't so good after all. You see the thing is, I still am Mask☆DeMasque after all</line>
 <line speaker="Mia">You did it, Nick!</line>
@@ -1301,7 +1301,7 @@
 <line speaker="Mia">...Watch over her, will you Phoenix?</line>
 <line speaker="Phoenix">Of course.</line>
 <line speaker="Mia">Well then... See you around.</line>
-<line speaker="Phoenix"><thought>Mia...</thought></line>
+<line speaker="Phoenix">(Mia...)</line>
 <line speaker="Ron">Ah! M-Mr. Wright! Um... I, Uh... I don't know what to say.</line>
 <line speaker="Phoenix">Congratulations, Mr. DeLite.</line>
 <line speaker="Ron">Th-Th-Thank you so much! ... Err, no, wait. Nothing really matters anymore though, now that all of this has happened</line>
@@ -1313,7 +1313,7 @@
 <line speaker="Ron">Stealing security information from KB Security, becoming Mask☆DeMasque... I did it all for one reason... For her.</line>
 <line speaker="Phoenix">You mean your wife, Desirée?</line>
 <line speaker="Ron">She hates criminals more than anything.</line>
-<line speaker="Phoenix"><thought>Come to think of it, she was once held hostage by some robbers, wasn't she?</thought></line>
+<line speaker="Phoenix">(Come to think of it, she was once held hostage by some robbers, wasn't she?)</line>
 <line speaker="Ron">She always said how she hated sneaky criminals... I knew that. I knew that, but... Once I got fired from KB Security and lost all the money I had... ...she wouldn't have any reason to stay with me. I thought, she would leave me for sure.</line>
 <line speaker="Phoenix">So, that's why you became Mask☆DeMasque...?</line>
 <line speaker="Ron">Yes... But, it's all over now... A broken bowl can never be put back together!</line>
@@ -1321,8 +1321,8 @@
 <line speaker="Phoenix">Right.</line>
 <line speaker="Ron">R-Really!? Can we go back to the way things were!?</line>
 <line speaker="Maya">You'll be fine! And Nick can prove it!</line>
-<line speaker="Phoenix"><thought>I can? I kind of wish you would check with me first...</thought> Mr. DeLite, even if a bowl is broken, there is always a way to put it back together.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix">(I can? I kind of wish you would check with me first...) Mr. DeLite, even if a bowl is broken, there is always a way to put it back together.</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Ron">The Sacred Urn... Dessie was the one who found this...</line>
 <line speaker="Phoenix">Desirée, your wife... She's always believed in you, Ron. That's why you'll be fine. You don't have to worry about anything.</line>
 <line speaker="Desirée">Ah! There you are!</line>
@@ -1339,15 +1339,15 @@
 <line speaker="Maya">Chivalrous...?</line>
 <line speaker="Desirée">I knew I was right about you. Every day I spend with you is filled with thrills and excitement!</line>
 <line speaker="Ron">D-Dessie...</line>
-<line speaker="Phoenix"><thought>Desirée... You really do love Ron, don't you...?</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix">(Desirée... You really do love Ron, don't you...?)</line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn></line>
 <line speaker="Ron">... ...Thank you, Mr. Wright. For trying to cheer me up. You don't have to put on a brave face just for me.</line>
 <line speaker="Phoenix">...Huh?</line>
 <line speaker="Ron">I think I'm going to go off by myself and think things over for a while.</line>
 <line speaker="Maya">Wait...! Mr. DeLite!</line>
 <line speaker="Ron">Farewell!! Mr. Wright!</line>
 <line speaker="Maya">He's gone...</line>
-<line speaker="Phoenix"><thought>I guess that didn't do much to make him feel any better...</thought></line>
+<line speaker="Phoenix">(I guess that didn't do much to make him feel any better...)</line>
 <line speaker="Desirée">Hey, Nicky boy!</line>
 <line speaker="Phoenix">M-Ms. DeLite...</line>
 <line speaker="Desirée">I haven't seen Ronnie... Do you know where he is?</line>
@@ -1358,32 +1358,32 @@
 <line speaker="Desirée">I'm really glad I asked you to defend my Ronnie. Thank you so much! I'll never forget what you've done for us.</line>
 <line speaker="Phoenix">Oh, well, um... Take care of yourself.</line>
 <line speaker="Desirée">You too, Nicky boy. ...............</line>
-<line speaker="Phoenix"><thought>*gulp*... I can feel my face going red.</thought></line>
+<line speaker="Phoenix">(*gulp*... I can feel my face going red.)</line>
 <line speaker="Pearl">Mr. Nick! Mystic Maya! Congratulations! ... *gasp!*</line>
-<line speaker="Phoenix"><thought>...Talk about bad timing.</thought></line>
+<line speaker="Phoenix">(...Talk about bad timing.)</line>
 <line speaker="Pearl">Mr. Nick! How could you!? With another man's wife! In front of Mystic Maya! No no no! You've got it all wrong! I'll NEVER forgive you!! Never! Ever!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection overruled.</line>
-<line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(I don't think that won me any points with the judge...)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
-<line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(Whoops! That didn't go so well.)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
-<line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix">(I don't think that won me any points with the judge...)</line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
-<line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>
+<line speaker="Phoenix">(Ugh, I must be on the wrong track...?)</line>
 <line speaker="Judge">That's enough! This court sees no reason to further prolong the trial. Nor is there any need for more time to decide the case against the defendant. This case is extremely clear. I see no room for mis-interpretation of the facts. This court finds the defendant, Ron DeLite...</line>
 <line speaker="Judge">The accused will surrender to the court immediately... ...to be held pending trial at a higher court within a month from today's date. That is all. This court is adjourned!</line>
 </xml>
