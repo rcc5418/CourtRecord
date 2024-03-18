@@ -1,0 +1,2466 @@
+
+Turnabout Big Top
+Transcript
+ 	 	 	 		 			 		 		 		 	 
+Part 1
+Part 2
+Part 3
+Part 4
+December 29, 9:43 AMDistrict CourtDefendant Lobby No. 5
+Max:
+...
+Phoenix:
+Good morning Max.
+Max:
+...
+Maya:
+Max?
+Max:
+Mil... Milk...
+Maya:
+What?
+Max:
+If I don't have a glass of milk before I go on stage... I just can't function sweetie.
+Maya:
+St-Stage? Don't worry... There won't be a stage. All you have to do is sit down.
+Max:
+I guess...
+Maya:
+Nick. Max is really nervous.
+Phoenix:
+That's understandable.
+Max:
+Hey! My sweeties!!
+Phoenix:
+W-What!?
+Max:
+You don't think I should fly, do you?
+Phoenix:
+Huh?
+Max:
+You know... You've got to make a good first impression! When I enter the room, maybe I should fly in and warm up the crowd a little...
+Phoenix:
+No no no no no... We can't be having you flying around the courtroom... It just wouldn't be right. Imagine if you hit someone!
+Maya:
+Don't worry Max... Just do what Nick says and everything will be OK.
+Max:
+Oh sweetie!!
+Phoenix:
+What is it this time, Max?
+Max:
+Why don't you try flying into the courtroom?
+Phoenix:
+...
+Max:
+I can see it now... The dashing young lawyer flying fabulously in from above! One glimpse of that, and everyone in the room will be on your side!
+Maya:
+Max... Really... No one needs to fly today. ... Nick? What's with that look in your eyes?
+Phoenix:
+(I like the sound of that... "Dashing young lawyer flying fabulously...")
+December 29, 10:00 AMDistrict CourtCourtroom No. 2
+Judge:
+And now the case of one...
+Phoenix:
+...
+von Karma:
+...
+Judge:
+... What!?
+von Karma:
+Your Honor! Get on with it!
+Judge:
+Oh... Sorry... I just realized that the defendant's name is Billy Bob Johns.
+Phoenix:
+So...
+Judge:
+Well, isn't the defendant also known as Maximillion Galactica?
+Phoenix:
+Yes, Your Honor, he does often go by that name.
+Judge:
+You know, my grandchild is a huge fan of his. I think everyone here wouldn't mind if we call the defendant Maximillion Galactica... It sounds more... Friendly.
+Phoenix:
+(Hmm... I wonder if that is to our advantage?)
+Judge:
+Ms. von Karma. Your opening statement if you please.
+von Karma:
+...I hope you didn't bother thinking you'd win this one Mr. Phoenix Wright.
+Phoenix:
+Eh?
+von Karma:
+That spirit channeling trial was a sham! I refuse to acknowledge its legitimacy! It did not count! Do you hear me!?
+Phoenix:
+(She must still be upset about what happened last time...)
+von Karma:
+You have no chance. Zero. Zilch. Nada. I'm not losing this case! Why, you ask? Because it is not in the nature of a Von Karma to lose at anything!!
+Maya:
+I guess being born with the name Von Karma is a free pass to be arrogant and annoying.
+von Karma:
+Watch and learn, Mr. Phoenix Wright! I'll show you the textbook procedure for proving how absolutely guilty you are!!
+Phoenix:
+M-M-M-Me!? ... Guilty!? What are you talking about!?
+von Karma:
+...It will be my ultimate revenge...
+Maya:
+Her dad is gone you know...
+von Karma:
+The prosecution is finished. Let's hurry and wrap up this waste of time.
+Judge:
+You may call your first witness Ms. von Karma.
+von Karma:
+Detective Dick Gumshoe! Get up there! NOW!!
+von Karma:
+Sorry to keep you from work, as I'm sure you need every penny you can earn, Detective.
+Gumshoe:
+Don't mention it! It's no trouble at all! I've been looking forward to this.
+von Karma:
+Very well. I would like you to begin by shedding light on the events in question.
+Gumshoe:
+At your service, sir.
+Judge:
+Alright, Detective. You may proceed with your testimony.
+Witness Testimony
+-- Details of the Events --
+Gumshoe:
+The night of the crime, snow was falling until 9:40 PM, making it extremely cold out.
+All of the circus performers gathered in the Big Top to practice their routines.
+The practice session broke up around 10 PM.
+The murder itself took place in the plaza in front of the lodging house at 10:15 PM.
+The victim was found bent over a wooden box dead as a doornail.
+The cause of death was blunt force trauma that snapped a vertebrae in his neck.
+Judge:
+I see... He was beaten to death.
+Gumshoe:
+Here is the autopsy report for the victim.
+Judge:
+The court accept* ([sic]) this into evidence.
+Autopsy Report added to the Court Record.
+Judge:
+A blunt object... Hmm... Very well... Mr. Wright, you may begin your cross-examination.
+Phoenix:
+Yes, Your Honor.
+Cross Examination
+-- Details of the Events --
+Gumshoe:
+The night of the crime, snow was falling until 9:40 PM, making it extremely cold out.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Let me ask you about the snow...
+Gumshoe:
+It was nearly a blizzard up until the time of the crime.
+Phoenix:
+Did it pile up?
+Gumshoe:
+It wasn't such a big deal... Maybe about an inch and a half was on the ground. The snow froze in place and stayed on the ground until the next day.
+Phoenix:
+(Hmm... The snow... Let me see... There's got to be more to this...)
+Maya:
+Eh? What's the matter? Nick?
+Phoenix:
+I need to take a look at the Court Record...
+Judge:
+Mr. Gumshoe, what were the members of the circus doing on the night of the crime?
+Press (after picking third choice at fifth statement and pressing sixth statement)
+Phoenix:
+Hold it!
+Phoenix:
+Let me ask you about the snow...
+Gumshoe:
+It was nearly a blizzard up until the time of the crime.
+Phoenix:
+Did it pile up?
+Gumshoe:
+It wasn't such a big deal... Maybe about an inch and a half was on the ground. The snow froze in place and stayed on the ground until the next day.
+Phoenix:
+(Hmm... The snow... Let me see... There's got to be more to this...)
+Maya:
+Eh? What's the matter? Nick?
+Phoenix:
+I need to take a look at the Court Record...
+Leads to:
+"Well, I think we have a good feel for the details of the event now."
+Gumshoe:
+All of the circus performers gathered in the Big Top to practice their routines.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+When you say "all of the circus performers"... Who do you mean?
+Gumshoe:
+Everyone but the dancers and staff were there. Regina the animal tamer, Moe the clown, Ben the Ventriloquist... And of course, the defendant, Maximillion Galactica, and his victim, the Ringmaster. Oh, I almost forgot... Regent the tiger was there as well.
+Phoenix:
+Out of curiosity, what about the circus monkey?
+Gumshoe:
+When I was investigating yesterday, he happened to snatch my wristwatch.
+Judge:
+Detective, you are welcome to file a police report AFTER these proceedings!
+Gumshoe:
+The practice session broke up around 10 PM.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+After the practice was over, where did everyone head off to...?
+Gumshoe:
+Regina was playing with Regent, while Moe went back to his room tired from work... Ben the ventriloquist went to the front gate absorbed in his own world... The Ringmaster and Max went off to the Ringmaster's room to talk privately.
+Judge:
+Talk privately, huh? That's awfully suspicious... You wouldn't happen to know what they were talking about would you?
+Gumshoe:
+It seems they were negotiating Max's salary...
+Phoenix:
+(Actually, Max was asking for Regina's hand in marriage!)
+Gumshoe:
+The murder itself took place in the plaza in front of the lodging house at 10:15 PM.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+I'd like you to be a bit more specific about the events at 10:15 PM.
+Gumshoe:
+Uh... Umm... OK... Not a problem, pal. We've got a witness that told us how the whole thing went down. OWWW!!
+von Karma:
+This is totally meaningless. Time to move on!
+Judge:
+Hmm... Alright... We'll just have to revisit that testimony later. Detective Gumshoe, would you mind telling us how the victim met his end?
+Gumshoe:
+The victim was found bent over a wooden box dead as a doornail.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+A "wooden box"?
+Gumshoe:
+That's right. The victim must have been carrying the wooden box when he was killed.
+Judge:
+Carrying the box, huh?
+Gumshoe:
+It was a rather strange wooden box, Your Honor.
+Judge:
+What do you mean?
+Gumshoe:
+Well... It was much heavier than it looked... Not to mention it was locked.
+Judge:
+Locked, you say?
+Wooden Box added to the Court Record.
+Phoenix:
+(This may be my only chance, so I might as well ask some questions...)
+About the Wooden Box
+Phoenix:
+This wooden box... You figure it weighs about 20 pounds, right?
+Gumshoe:
+Sounds about right. The whole thing is lined with iron.
+Phoenix:
+Iron plating? Why do you think it's lined with iron?
+Gumshoe:
+I figure they just did it to make the box heavier... Yeowch!!
+von Karma:
+I think we could all do without your guesses, Detective. Stick to what little you actually know!
+Gumshoe:
+S-S-Sorry... Suffice it to say, the box is really heavy.
+von Karma:
+Much better. You may continue on, Detective.
+Leads back to corss-examination
+About the lock
+Phoenix:
+You said the box was locked. How exactly was it locked?
+Gumshoe:
+Well... It had quite a sturdy lock on it. It took quite a bit to open that bad boy up.
+Phoenix:
+So, when you found the box, it was locked, correct?
+Gumshoe:
+Yes, it was. Some of the forensics team took it back to the precinct to crack it open.
+Judge:
+I see... Continue Detective Gumshoe.
+Leads back to corss-examination
+About the contents
+Phoenix:
+Do you mind telling us what was inside that box?
+Gumshoe:
+Well, when we found the box, it was locked tighter than Fort Knox. So we took it back to the station and cracked it open. All that was inside was this little bottle...
+Judge:
+Bottle? What is that, Detective?
+Gumshoe:
+Exactly what it looks like Your Honor. It's a condiment bottle.
+Phoenix:
+What's inside the bottle?
+Gumshoe:
+It's filled with... Pepper.
+Judge:
+Pepper...? Why in the world was it locked in that big box?
+Phoenix:
+(There was only one little bottle in that huge box...?)
+Maya:
+I wonder if that has some sort of special meaning?
+Small Seasoning Bottle added to the Court Record.
+Leads back to corss-examination
+Gumshoe:
+The cause of death was blunt force trauma that snapped a vertebrae in his neck.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+According to the Autopsy Report, the murder weapon was a blunt object, correct?
+Gumshoe:
+You've done your homework, pal.
+Phoenix:
+And you haven't found this murder weapon, have you?
+von Karma:
+The police are searching for it as we speak.
+Gumshoe:
+My theory is that it is something the perpetrator ran off with.
+Judge:
+You would think so... Especially since you didn't find it on the scene.
+Gumshoe:
+No no no... I bet he made it disappear with magic... Ho ho ho!
+Maya:
+There wasn't much that we could go after Gumshoe with this time...
+Phoenix:
+He gave us the facts, as he saw them. But there's gotta be more to this.
+Maya:
+I didn't see anything... But that's why you're the lawyer and I'm the medium.
+After pressing first and sixth statements and picking third choice at fifth statement:
+Judge:
+Well, I think we have a good feel for the details of the event now.
+Phoenix:
+(I guess that's all we're gonna get out of Gumshoe in this case...)
+Maya:
+You mean all we're gonna get out of him is that little bottle of pepper?
+von Karma:
+Now that we have wrapped up with the Detective, I'd like to call my next witness.
+Gumshoe:
+Eh? I'm not even off the stand yet!
+von Karma:
+Obviously... But that's due to you being slow and unable to take a hint!
+Gumshoe:
+I dunno, but "wrapped up" has such a mean sound to it... I'm a sensitive guy...
+Judge:
+Thank you very much, Detective Gumshoe. You may step down. Ms. von Karma. Call your next witness.
+von Karma:
+I would like to call Mr. Benjamin Woodman to the stand.
+Phoenix:
+(She must be talking about Ben the ventriloquist...)
+Maya:
+I wonder if Trilo will show up on the stand as well...?
+von Karma:
+Please state your name and occupation for the record.
+Trilo:
+My full name is Trilo Quist. I am employed as an opera tenor.
+Judge:
+Ex-Excuse me! The witness called to the stand was one Mr. Benjamin Woodman, Ventriloquist.
+Trilo:
+That robe must be cutting off your circulation. I said that I was a singer!! Maybe you don't believe me. Fine. I'll grace you with a song. *Ahem*... Mi mi mi mi mi! The world of the law... Exciting and daring... Guilt or innocence... Decided by a judge dressed up like a woman!! ...Well, what do you think?
+von Karma:
+...
+Judge:
+...
+Maya:
+It had a good rhythm...
+Phoenix:
+It's just the lyrics... They leave something to be desired, so to speak.
+Ben:
+T-Trilo! You know better than to insult a judge!!
+Trilo:
+Shuddup! Just look at your nose. You would think you'd have the sense to fix it!! It's so ugly I want to punch you in the face on the off change swelling would help. You know that your nose is the reason you'll never be an A-List star.
+Maya:
+Celebrities must really enjoy saying everything that flashes into their minds.
+Judge:
+What's going on here!? Order! Order! I demand to know who the witness is!!
+Ben:
+Don't... Don't worry about me, sir. I'll let Trilo handle this.
+Judge:
+I'm not worried about you one bit... I'm worried about getting testimony in my court! OUCH!!
+von Karma:
+You won't get anywhere trying to figure out this witness! Now let's proceed!
+Witness Testimony
+-- What You Witnessed --
+Trilo:
+Once practice was over, I left the tent with the stooge... I mean clown.
+Once we got to the lodging house, I ditched him and went over to the plaza.
+That's when I saw Max heading towards the scene of the crime.
+He was the only one heading that way... How could that punk not be the killer!?
+Then the police showed up, and took magic boy away.
+von Karma:
+You saw Maximillion Galactica heading towards the scene? You're sure of that?
+Trilo:
+Without a doubt. He had on his silk hat, cloak, and the dumb white roses on his chest. How can you mistake someone with that crazy get-up and his nose stuck up so high...
+Judge:
+Th-That's enough... I think we all get the picture. Just one thing... You said you "ditched" the clown.
+Trilo:
+That's right, dress-boy.
+Judge:
+Well, since you weren't with him, couldn't that mean the clown committed the crime?
+Phoenix:
+(Hmm... He's got a point.)
+von Karma:
+What a shame... It was a nice theory, but the clown can't be the criminal.
+Judge:
+Why's that?
+von Karma:
+Here's absolute proof.
+Judge:
+A... silk hat?
+von Karma:
+This was found at the scene of the crime. It belongs to the defendant.
+Phoenix:
+Ah...
+von Karma:
+Without question, he was wearing his signature hat during practice. If the clown was the murderer, there would be no reason for this hat to be at the scene.
+Judge:
+Hmm... Well done, Ms. von Karma. Your prosecutorial skills are unrivaled. Well done.
+von Karma:
+Thank you for stating the obvious... Mr. Phoenix Wright, what do you have to say?
+Phoenix:
+O-OK... (I guess she's the boss again today...)
+Cross Examination
+-- What You Witnessed --
+Trilo:
+Once practice was over, I left the tent with the stooge... I mean clown.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+The clown... You're talking about Moe?
+Trilo:
+Of course I'm talking about that old fart. He's so pathetic, I can't stand him! Just a little bit of exercise and his makeup is running all over the place... Once practice was over, he was 9/10ths of the way to keeling over for good...
+Phoenix:
+Poor guy...
+Trilo:
+We didn't have any choice, so Ben took him back to his room. When it comes to being a first place loser, that guy's ahead of the pack!
+Judge:
+Hmm... Then what happened?
+Trilo:
+Once we got to the lodging house, I ditched him and went over to the plaza.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+What did you do then?
+Trilo:
+I went over to the Plaza to do some thinking.
+Phoenix:
+It was awfully cold out that night... Especially with all the snow around... Wouldn't thinking in your nice warm lodging house have been a better idea?
+von Karma:
+Objection!
+von Karma:
+Mr. Phoenix Wright. I think you should leave the thinking to the witness.
+Phoenix:
+(But I'm a good thunker* ([sic])! At least my teachers always said I was...)
+Trilo:
+That's when I saw Max heading towards the scene of the crime.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Are you sure it was really Max Galactica?
+Trilo:
+Of course I'm sure. How could you mistake someone wearing such a snobby 3 piece get-up!
+Phoenix:
+Snobby 3 piece get-up?
+Trilo:
+Get the wax out of your ears! Lawyers nowadays... You're like talking to a brick wall! Max's 3 piece get-up! Jeez! Could you be any more dense! All together now!
+"SILK HAT! CLOAK! WHITE ROSES!"
+Trilo:
+Thank you!
+Maya:
+Nick, I think you should put a little bit more effort into preparing your questions...
+Trilo:
+He was the only one heading that way... How could that punk not be the killer!?
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You saw Max and only Max, right Trilo?
+Trilo:
+That's right. And that makes him the killer! There was only one person headed that way that night.
+Judge:
+Hmm... That makes quite a bit of sense and makes Max one suspicious character...
+Phoenix:
+(There's more to this story than meets the eye... Is there something amiss in this?)
+No problems.
+Phoenix:
+(I can't really see anything wrong with what Ben... I mean Trilo said.)
+Maya:
+Maybe you should take a step back and look things over again, Nick.
+There is no proof it was Max.
+Phoenix:
+Wait a second! There's no proof that the witness saw Maximillion Galactica...
+Trilo:
+Hey! Hey! You still don't get it, do ya? I saw what I saw... It was Max's 3 piece joke of a costume! Alright! Lets* ([sic]) say it all together now!
+"SILK HAT! CLOAK! WHITE ROSES!"
+Trilo:
+Thank you!
+Judge:
+I think you should study up on your celebrities, Mr. Wright!
+Phoenix:
+(Great, I'm getting shut down by a toy!)
+Ben only saw Max?
+Phoenix:
+That's a bit strange, don't you think?
+Trilo:
+What's strange!?
+Phoenix:
+That you only saw Max... Doesn't it seem like you should have seen someone else as well?
+Judge:
+What? Where are you going with this, Mr. Wright? Who else do you suppose this witness could have seen?
+Present Russell Berry profile (before correctly presenting Regina Berry profile on fifth statement)
+Phoenix:
+Take that!
+Judge:
+That's the... victim...
+Phoenix:
+That's correct. If Trilo was at the entrance to the plaza... He should have seen the Ringmaster as well! Ah-hah!
+von Karma:
+Obviously the Ringmaster arrived at the scene of the crime before the witness could have seen him! Anyone with sense could have figured that one out!
+Phoenix:
+What are you talking about!? The Ringmaster and Max went together to the Ringmaster's room!
+von Karma:
+Is that according to the defendant? A likely story! If Maximillion Galactica was supposed to be in the Ringmaster's room, why was he, just as the witness stated... At the scene of the crime!?
+Phoenix:
+Ahh!!
+Judge:
+I see... It seems that at this stage I have no reason to doubt this witness' testimony. And there are clearly no conclusive contradictions.
+Phoenix:
+He's right...
+von Karma:
+A brilliant judgment Your Honor. Now let's move along with the testimony!
+Leads back to cross-examination
+Present Russell Berry profile (after correctly presenting Regina Berry profile on fifth statement)
+Phoenix:
+Take that!
+Judge:
+That's the... victim...
+Phoenix:
+That's correct. If Trilo was at the entrance to the plaza... He should have seen the Ringmaster as well! Ah-hah!
+von Karma:
+Obviously the Ringmaster arrived at the scene of the crime before the witness could have seen him! Anyone with sense could have figured that one out!
+Phoenix:
+What are you talking about!? The Ringmaster and Max went together to the Ringmaster's room!
+von Karma:
+Is that according to the defendant? A likely story! If Maximillion Galactica was supposed to be in the Ringmaster's room, why was he, just as the witness stated... At the scene of the crime!?
+Phoenix:
+Ahh!!
+Judge:
+I see...
+Leads to:
+"Alright! There is obviously a reason why this witness was there that night!"
+Present anyone else
+Phoenix:
+Take that!
+Trilo:
+...
+Ben:
+...
+Trilo:
+Don't hold your tongue Ben! It's your job to answer all the stupid questions.
+Ben:
+I'm sorry Trilo...
+Phoenix:
+(I've gotta find a way to get more information out of this witness...)
+Maya:
+Think about it some more Nick! I'm sure you'll come up with something!!
+Press (after correctly presenting Russell Berry profile)
+Phoenix:
+Hold it!
+Phoenix:
+You saw Max and only Max that night?
+Trilo:
+Jeez, you're persistent. You can ask all you want, my answer won't change! The only person I saw that night was Maximillion Galactica!
+Phoenix:
+(He really needs to improve his manners...)
+von Karma:
+You've heard what he has to say. Let him continue with his testimony!
+Trilo:
+Then the police showed up, and took magic boy away.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Around what time did the police arrive at the scene?
+Trilo:
+Hmm... I suppose that would have been around... Hey, what time was it!?
+Ben:
+Huh!? Umm... I think it was around... I'd say a bit after 10:30 PM... I think...
+Phoenix:
+Practice ended at 10 PM so you hung around the lodging house the entire time?
+Ben:
+I... I... I... I guess that sounds about right...
+Phoenix:
+Wasn't it awfully cold? I can't believe you'd just stand outside in that weather!
+Ben:
+Well... Uh... The truth is...
+Trilo:
+Will you shut up, you big nosed dope! Why are you telling him anything extra!? Why can't you believe that we'd just stand outside in that weather?
+Phoenix:
+Well, maybe you were waiting for someone?
+Trilo:
+W-W-W-W-WHAT!? WHO SAID WE WERE WAITING FOR SOMEONE!?
+von Karma:
+Objection!
+von Karma:
+Mr. Phoenix Wright! We can all do without your off-handed theories!
+Phoenix:
+Objection!
+Phoenix:
+But! This witness! He's cracking under the pressure already! I'm on to something!
+Judge:
+Hmm... Mr. Wright! Who do you suppose the witness was waiting for out in the cold that night?
+Present Regina Berry profile (before correctly presenting Russell Berry profile on fourth statement)
+Phoenix:
+Take that!
+Phoenix:
+Well, if he was waiting outside in the cold, it was for one person... And one person only! He was waiting for the animal tamer, Regina!
+Trilo:
+WAAAAHHHH!!
+Phoenix:
+You were waiting outside for Regina to come back to the lodging house. Am I mistaken?
+Trilo:
+...
+Judge:
+Is this true?
+Ben:
+Well... I... Umm... You can't really ask me that question...
+Trilo:
+Who cares who I was waiting for that night! What's important is what I saw! Don't you forget it!!
+Judge:
+Well well well... The puppet may be a bit stiff, but he's right.
+Phoenix:
+Eh...
+Judge:
+It seems that at this stage I have no reason to doubt this witness' testimony. And there are clearly no conclusive contradictions.
+Phoenix:
+He's right...
+von Karma:
+A brilliant judgment Your Honor. Now let's move along with the testimony!
+Leads back to cross-examination
+Present Regina Berry profile (after correctly presenting Russell Berry profile on fourth statement)
+Phoenix:
+Take that!
+Phoenix:
+Well, if he was waiting outside in the cold, it was for one person... And one person only! He was waiting for the animal tamer, Regina!
+Trilo:
+WAAAAHHHH!!
+Phoenix:
+You were waiting outside for Regina to come back to the lodging house. Am I mistaken?
+Trilo:
+...
+Judge:
+Is this true?
+Ben:
+Well... I... Umm... You can't really ask me that question...
+Trilo:
+Who cares who I was waiting for that night! What's important is what I saw! Don't you forget it!!
+Judge:
+Well well well... The puppet may be a bit stiff, but he's right.
+Phoenix:
+Eh...
+Leads to:
+"Alright! There is obviously a reason why this witness was there that night!"
+Present anyone else
+Phoenix:
+Take that!
+Trilo:
+...
+Ben:
+...
+Trilo:
+Don't hold your tongue Ben! It's your job to answer all the stupid questions.
+Ben:
+I'm sorry Trilo...
+Phoenix:
+(I've gotta find a way to get more information out of this witness...)
+Maya:
+Think about it some more Nick! I'm sure you'll come up with something!!
+Maya:
+Hmm... Trilo wouldn't happen to have an ulterior motive for incriminating Max, would he?
+Phoenix:
+Well, Max is part of that bitter love triangle with Regina. Which is probably why Max conked him over the head.
+Maya:
+Umm Nick... Wasn't Ben the one who got knocked over the head?
+Phoenix:
+Uh... Yeah... I think so... I dunno anymore!
+Phoenix:
+Alright! There is obviously a reason why this witness was there that night! He spent all that time waiting for Regina to arrive! Moreover... Even if someone else would've walked right in front of him, I doubt he would have paid them a second thought!
+Trilo:
+AHHHH!!
+Judge:
+That makes perfect sense.
+von Karma:
+Objection!
+von Karma:
+What did you just say!? The witness saw the defendant at the scene of the crime!!
+Phoenix:
+Objection!
+Phoenix:
+However, he did not see the victim on the way to his eventual demise! If you accept that, then you must accept that there is a high likelihood that... He could have missed someone else other than Max heading to the scene! OWWW!!
+von Karma:
+There is absolutely no proof that the witness was waiting for the animal tamer!
+Trilo:
+Umm... Umm... I guess you got me... Alright! Alright! I'll spill the beans for real this time! It's true. I was waiting for Regina.
+Ben:
+PAIN!!
+von Karma:
+Don't volunteer things!!
+Judge:
+Mr. Quist, tell us the truth this time... And I mean the whole truth! Were you or were you not waiting for Regina at the entrance to the lodging house?
+Trilo:
+I was! I was waiting to propose to her!!
+Judge:
+You were what!? Waiting to... Propose!?
+Trilo:
+What's the matter!? You think that humans have a monopoly on marriage!?
+Judge:
+That... The matter of puppet marriage is not under review in this case!
+Trilo:
+You're the judge! I mean, look at your horrible outfit!!
+Ben:
+MORE PAIN!!
+von Karma:
+Hmph. Thanks to your bumbling, my perfect plan is not so perfect anymore! Now we have to waste time getting to the bottom of some silly proposal by a puppet!!
+Witness Testimony
+-- About the Proposal --
+Trilo:
+Don't be so surprised that I was going to propose to Regina!
+I even had something to give to her...
+I kept it in my pocket, waiting for the change to propose and give it to her.
+Of course, I also had it in my pocket that night. It was a present for her.
+In the end, I wasn't able to give it to her, so I've still got it in my pocket!
+Judge:
+You were going to propose... You... A puppet...
+Trilo:
+Don't be so obtuse! Just because I'm a puppet doesn't mean I can't love!
+Judge:
+I guess you're right... Just because I'm old doesn't mean I couldn't propose to her too!
+Trilo:
+Exactly!
+Phoenix:
+(His Honor is looking a little less than honorable right now...)
+Judge:
+OK Mr. Wright... Please continue with your examination... *sigh*
+Maya:
+Aww... Did you hear that? His sigh seemed a little wistful.
+Cross Examination
+-- About the Proposal --
+Trilo:
+Don't be so surprised that I was going to propose to Regina!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+By proposal, you mean proposing marriage, correct? To Regina.
+Trilo:
+Of course that's what I meant! What kinda stupid question is that!? I wasn't going to propose that we become sort of outlaw biker gang together!! Right, Ben!?
+Ben:
+Ye-Yeah...
+Trilo:
+Got it!? That's the truth!
+Trilo:
+I even had something to give to her...
+Press
+Phoenix:
+Hold it!
+Phoenix:
+What was it exactly that you planned on giving her?
+Trilo:
+You know exactly what I was going to give her, numbskull! The only thing I could find that could match Regina's beauty!
+von Karma:
+Answer his question! What was it!?
+Trilo:
+You're gonna die when you hear this... It's an engagement ring!!
+von Karma:
+An
+Judge:
+Engagement Ring!?!?
+Phoenix:
+(Wow... Those two nearly fell out of their chairs!)
+von Karma:
+Mr. Phoenix Wright's joke has gone too far! Time for this to end right here!
+Phoenix:
+(Franziska's whip looks like it's about to lash out at almost anything... One hit from that thing will probably shut someone up for a long time...)
+Pain equals bad
+Phoenix:
+(I think I'm gonna live to fight another day and shut up now...)
+Maya:
+Nick! Don't be such a coward!
+Push on anyway
+Phoenix:
+It may be something of a joke, but this is a historic moment! The first time that a puppet has ever proposed to a human being... OWWW!!
+von Karma:
+I advise you to cut this argument short...
+Judge:
+I'm going to have to agree with the defense here. Will the witness please revise their testimony... Specifically about the engagement ring... I'd like to stick to facts, not sociology.
+Trilo:
+You sure do enjoy sweating the details, especially for a man in a black bath robe...
+Change statement:
+"I even had something to give to her..." to "I planned on giving an engagement ring to Regina..."
+Trilo:
+I planned on giving an engagement ring to Regina...
+Press
+Phoenix:
+Hold it!
+Phoenix:
+An engagement ring...?
+Trilo:
+Uh huh! It's actually a diamond shaped stone cut from glass! Even more brilliant than the real thing! I think Regina is going to love it!
+Phoenix:
+(It's just a ring...)
+Maya:
+What's the matter, Nick?
+Phoenix:
+Well... There's got to be something I can catch him on...
+Trilo:
+I kept it in my pocket, waiting for the change to propose and give it to her.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Who's pocket was the ring in?
+Trilo:
+Mine of course! What a stupid question!! You've got to be kidding me! You think Ben could pull that off!?
+Ben:
+I-I'm s-s-sorry... R-R-Really...
+Trilo:
+You don't have to apologize for that!! He's the one who should be apologizing!!
+Phoenix:
+(Really?)
+Present Ring (after changing second statement)
+Phoenix:
+Objection!
+Leads to:
+"Trilo, do you mind if I show you something?"
+Trilo:
+Of course, I also had it in my pocket that night. It was a present for her.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+So you went to the lodging house to give it to her?
+Trilo:
+That's right! I tried to give it to her during practice so many times that I lost count, but... That uppity snob kept getting in the way!
+Max:
+Uppity snob!? He couldn't possibly be talking about me... Maximillion Galactica! When I get a hold of him, I'm gonna saw his wood block in half... And not with magic!!
+Judge:
+...
+Phoenix:
+Well... They always say that love creates rivalries.
+Judge:
+So what about this present?
+Present Ring (after changing second statement)
+Phoenix:
+Objection!
+Leads to:
+"Trilo, do you mind if I show you something?"
+Trilo:
+In the end, I wasn't able to give it to her, so I've still got it in my pocket!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+So you are still thinking of trying to give it to Regina...?
+Trilo:
+Of course I am! I spent three months salary on this thing! I'm not gonna give up that easily!
+Maya:
+Hmm, I wonder how much he receives for appearing in the circus?
+Phoenix:
+Probably way more than he deserves.
+Present Ring (after changing second statement)
+Phoenix:
+Objection!
+Leads to:
+"Trilo, do you mind if I show you something?"
+Maya:
+How about it Nick?
+Phoenix:
+I think it's time to unwrap this toy's testimony.
+Maya:
+That's the spirit Nick! Give him heck!
+Phoenix:
+(Uh oh, the judge has that dazed look again. Maybe he should get out more.)
+Phoenix:
+Trilo, do you mind if I show you something?
+Ben:
+What is it?
+Trilo:
+What are you talking about!?
+Phoenix:
+(Uh oh... Looks like they're going to double team me now...) Do you recognize this ring?
+Trilo:
+Ah! That's... That's... That's mine!! Give it back! Thief! Thief!
+Phoenix:
+Didn't you just testify about this very object? I believe you said... "In the end, I wasn't able to give it to her, so I've still got it in my pocket!" Why then, do I have it right here...?
+Trilo:
+AAAAAAAAAARRRRRGHHHHH!!
+Judge:
+What is going on here!?
+Trilo:
+That's... That's... Ben! Say something!!
+Ben:
+Eh? Don't put me on the spot like that Trilo!!
+Phoenix:
+I found this in Money's room...
+Judge:
+M-M-Money's room? You mean a room they put money, like a bank vault?
+Trilo:
+Hah! That filthy monkey is gonna get what's coming to him!!
+Judge:
+Mr. Quist, I would prefer if you avoided slandering innocent fiats in my court.
+Phoenix:
+Well, Your Honor... Money really is a monkey... In every sense of the word.
+Judge:
+Ah. I see... Well then...
+Phoenix:
+Money likes to go after the shiniest things that he can find and gather them up.
+Judge:
+Shiny... Things?
+Phoenix:
+Trilo! When was this ring stolen from you?
+Ben:
+Well... I suppose it was... That time... You know... That night... The night of the crime...
+von Karma:
+What did you just say!?
+Phoenix:
+Details... I need more details...
+Ben:
+Well... It was stolen right after Max showed up in the plaza...
+Phoenix:
+Right about when you saw the defendant walk past, correct?
+Ben:
+Well... Umm... I guess you... Might... Umm... Be able to say that... The ring might have... Well... It could have been... Taken around that time...
+???:
+Oooo-Ooooh!
+Ben:
+Ahhhhh... Yeowwwwwwwww... Ohhhhhhhhhh...
+Trilo:
+Ben! What's with you!? ... Oh, whatever... It has nothing to do with anything! Especially not who committed the murder!!
+Phoenix:
+It's not for you to decide what has to do with what! Now Trilo! Back to the topic at hand!
+Trilo:
+I haven't admitted a thing! Not I... Mr. Trilo Quist!
+Phoenix:
+What did you do when the ring was taken Trilo?
+Trilo:
+You know exactly what I did! I chased after that ring snatching monkey Money!!
+Phoenix:
+But you weren't able to catch up with him were you?
+Trilo:
+It's all this slow loafy fool called Ben's fault! While he was fumbling his way through the snow, that dumb monkey was able to get away!
+Judge:
+That is indeed an incredible shame.
+Phoenix:
+Well... This does indeed prove one very important point.
+von Karma:
+Prove an important point!? What point could that possibly be?
+Ben doesn't exercise enough.
+Phoenix:
+Obviously that one Mr. Benjamin Woodman is lacking in the area of exercise!!
+Judge:
+...
+von Karma:
+...
+Trilo:
+...
+Phoenix:
+This is clear from the testimony we have just listened to!! He was too slow and awkward to catch a monkey fleeing through the snow!!! (This revelation doesn't seem to be registering too well around the courtroom...)
+Maya:
+Maybe you should leave the courtroom drama for video games and rethink that one...
+Phoenix:
+Umm... OK.
+Leads back to:
+"Well... This does indeed prove one very important point."
+Ben's testimony has a flaw.
+Leads to:
+"There is a huge contradiction in this witness' testimony!"
+Phoenix:
+There is a huge contradiction in this witness' testimony!
+von Karma:
+Co-Contradiction!?
+Phoenix:
+The witness just testified to the following effect-- Up until the police arrived, he didn't move from the entrance to the plaza. HOWEVER! The witness just stated that he chased after Money the monkey. When the witness was off chasing Money, there was no one watching the plaza!
+von Karma:
+What is the meaning of all this, Mr. Phoenix Wright!? Where are you going with this little theory of yours?
+Phoenix:
+I'm saying that there is no possible way that this witness saw the plaza the entire time! That's where I'm going with this little theory! Which leads me to my next point. It is entirely possible that someone other than the defendant was at the scene!
+Judge:
+Interesting Mr. Wright.
+von Karma:
+Objection!
+von Karma:
+Well then tell me this, Mr. Phoenix Wright!! Do you have any proof that something slipped past this vigilant ventriloquist?
+Phoenix:
+Objection!
+Phoenix:
+Well, he obviously didn't see the victim, the Ringmaster, arrive on the scene!
+von Karma:
+However, that doesn't change the fact that he saw the defendant arrive!
+Phoenix:
+The witness is lying! He is blinded by his rivalry with Max!
+Judge:
+Well... The defense's argument does hold water. This witness does have a history of animosity towards the defendant.
+Trilo:
+What!? How dare you!? I wouldn't lie just to get that dorkface in trouble! He's not even worth it!! I saw him! No doubt about it! I saw that worthless liar!
+Judge:
+Well... Just for clarity's sake, let's flesh out exactly who you saw on that night.
+Trilo:
+Hah! I've told you so many times, you'd think you'd know my story's not changing!
+Phoenix:
+(You've already changed your story stick boy! And I'm sure it will change some more.)
+Maya:
+Where there is one lie, there are usually many more behind it.
+Phoenix:
+Exactly, Maya. That's why we have to keep after him!
+Maya:
+Yeah!
+Witness Testimony
+-- Witnessing Max --
+Trilo:
+I'll give you that I was waiting that night for Regina.
+But that doesn't change the fact that I saw Max in the plaza that night!
+He showed up after I had been waiting there for about five minutes.
+I said "good evening" to him, but he didn't even acknowledge my presence!
+I'm absolutely sure it was him! I saw Maximillion Galactica at the scene!!
+There's no way I could mistake someone wearing those three ridiculous symbols!
+Judge:
+Hmm...
+von Karma:
+So that means that Money didn't show up until after you saw Max?
+Trilo:
+That's right. Money ran up less than a minute after I saw Max.
+Phoenix:
+Then Money snatched the ring, and you went chasing after him?
+Judge:
+How long was it until you came back to where you were waiting?
+Trilo:
+Well. Let's see... I'd say about...
+Ben:
+I suppose five minutes. I think...
+von Karma:
+So the victim could have arrived on the scene in that five minute stretch.
+Judge:
+Mr. Wright, please proceed with your cross-examination.
+Cross Examination
+-- Witnessing Max --
+Trilo:
+I'll give you that I was waiting that night for Regina.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+So you were only concerned with waiting for Regina that night?  That means you probably wouldn't have noticed if someone else showed up.
+Trilo:
+You should think about how many eyes I actually have. I've got four, you know! Four. F-O-U-R. Counting Ben of course... With that many eyes, do you really think something would have slipped by me?
+Judge:
+Four eyes is an awful lot of attention directed at one area, I suppose...
+Phoenix:
+(Yikes! The judge is even more dangerous to our case than Trilo!)
+Trilo:
+But that doesn't change the fact that I saw Max in the plaza that night!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+So you saw Max coming out of the Big Top that night?
+Trilo:
+Of course that's where I saw him coming from! I was staring at the entrance to the tent the entire time!
+Phoenix:
+(I guess that makes sense, especially since he was waiting for Regina.)
+Trilo:
+He showed up after I had been waiting there for about five minutes.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+About what time would you say these events took place?
+Trilo:
+You're one of the dumbest people on the planet if you can't figure it out yourself! You already know that practice finished promptly at 10 PM! And you already know that I went to the lodging house right after practice! You don't need to be a brain surgeon to know around what time it was when I saw him... Just add ten more minutes! I'm sure you can do that! Now what time was it?
+Judge:
+Indeed, what time was it?
+Phoenix:
+Hmm... What time was it? Lemme think about that for a second......... ...YEOW!! I'm no good at math!
+von Karma:
+*sigh* It was 10:10 PM!
+Judge:
+Ahhh, yes. That sounds about right!
+Trilo:
+It sounds about right because that's the time that I saw Max on the scene!
+Trilo:
+I said "good evening" to him, but he didn't even acknowledge my presence!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+So you testified that you said "good evening" to Max that night.
+Trilo:
+You must enjoy asking incredibly obvious questions! You say "good morning" in the morning, and "good afternoon" during the day, right? And it's obvious that I'd say "good night" to someone at night!!
+Ben:
+...
+Trilo:
+What Ben!? You've got something to add!? Lemme guess... "That's not it Trilo! You say 'good evening' at night!"
+Ben:
+Ah... I'm sorry Trilo...
+Judge:
+Mr. Quist, I would prefer if you kept your ventriloquist's act outside of the courtroom!
+Trilo:
+Impossible! A performer lives and breathes his performances! You should know better!!
+Phoenix:
+(There's got to be something wrong with this bit of testimony...)
+Nothing especially
+Phoenix:
+(I guess it's kinda petty to bad mouth someone's performances...)
+Maya:
+I think so too... I guess you really are "Wright all the time!"
+Phoenix:
+Glad to see you finally coming around to that.
+Judge:
+Continue with the cross-examination please!
+Trilo's evening greeting
+Phoenix:
+Isn't that a bit strange to you?
+Trilo:
+What do you mean?
+Phoenix:
+Well, if you hate Max so much, why would you bother being nice to him? It strikes me as somewhat strange.
+Trilo:
+Why would it strike you as strange?
+von Karma:
+Exactly! How is it strange to be cordial to one of your coworkers?
+Phoenix:
+Well... If it was simply just being cordial to a coworker I would understand... OWW!! That hurt!!
+von Karma:
+Maybe you should think of having some proof before your lips start flapping next time! Proof is everything in this world! You should have learned that back in grade school!!
+Phoenix:
+(There's no reason that Trilo would ever say something nice to Max... But how do I go about proving that with the evidence?)
+Maya:
+Bluffing is everything in this world! ...But I'm sure you already learned that one!!
+Phoenix:
+I guess I can give it a shot...
+Judge:
+The witness will resume his testimony.
+Ben's half of the comedy act
+Phoenix:
+I hate to say it, but Ben's part of your little act is coming off a bit stale! I'm sure that if a pro was to review your work, he would say... OWWW!!
+von Karma:
+You're not trying to pass yourself off as a professional performer, are you? Don't get so wrapped up in yourself, Mr. Phoenix Wright! You! Should know! Better!
+Phoenix:
+OW! OWWW! AWWWWWW! THAT HURTS!!
+von Karma:
+That should have set him straight! You may proceed with your testimony, Witness.
+Present Broken Bottle or Regina Berry profile
+Phoenix:
+Objection!
+Leads to:
+"Trilo, is it not true that you had a fight with Max on the day of the murder?"
+Trilo:
+I'm absolutely sure it was him! I saw Maximillion Galactica at the scene!!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You are 100% absolutely sure of what you just said?
+Trilo:
+I told you already! Jeez!! I am 100% absolutely sure!
+von Karma:
+There's no way that he could be any more confident than that, right?
+Trilo:
+There's no way I could mistake someone wearing those three ridiculous symbols!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Those three ridiculous symbols, huh?
+Trilo:
+Out of curiosity, exactly how many times have you asked that question by now? If you're gonna ask again, I'll answer with a chorus... Everyone together now!
+Judge:
+"SILK HAT!
+Maya:
+CLOAK!
+WHITE ROSES!"
+Trilo:
+Thank you very much!
+Phoenix:
+Maya... You didn't have to join in did you!?
+Maya:
+But... It's fun shouting out with everyone else!!
+Maya:
+There has to be a hole in his testimony somewhere.
+Phoenix:
+I agree. But do we have the proof to make something stick?
+Maya:
+All we can do is try, right Nick!? We've gotta have something that will prove useful.
+Phoenix:
+All right, time to go to work.
+Phoenix:
+Trilo, is it not true that you had a fight with Max on the day of the murder?
+von Karma:
+A fight?
+Phoenix:
+A fight over Regina to be exact.
+Trilo:
+It wasn't that big of a deal! It was just an argument... A disagreement at most!
+Phoenix:
+A disagreement usually doesn't end with someone getting clonked over the head...
+Trilo:
+AHHHH!!
+Phoenix:
+That morning, Ben got clobbered over the head by Max, didn't he?
+Judge:
+Wh-What? Is that an admission of assault and battery? OUCH!!
+von Karma:
+Before we handle that, we should wrap up the defendant's murder charge first!
+Phoenix:
+The truth is that on the day of the crime, the defendant and witness had a huge fight! There is absolutely no way they would have suddenly become cordial that evening! Moreover, just consider the personality of the witness on stand! There is no way a puppet this lewd would just up and say "good evening" to his rival!
+Trilo:
+GWWAAAAHHHH!!
+von Karma:
+Objection!
+von Karma:
+Are you saying this witness is lying!? That he is trying to frame the defendant by claiming to have seen him at the crime scene!?
+Trilo:
+I-I-I... I didn't tell a single lie! Honestly! I just...
+Judge:
+That's enough from you Mr. Quist! Mr. Wright...
+Phoenix:
+Yes, Your Honor.
+Judge:
+Let's clarify this testimony for the court... Could you explain your theory about who the witness actually saw that night?
+He didn't see anyone.
+Phoenix:
+Of course, the witness did not see a soul that night.
+Judge:
+I see...
+Trilo:
+Who... Who do you think you are to just up and decide what it is I saw that night!?
+von Karma:
+A fool can only understand a foolish foolery uttered by the most foolish of fools. The witness "didn't see anyone"... You wouldn't happen to have proof to back up that statement, would you?
+Phoenix:
+*gulp*
+Maya:
+Nick, I just thought of something... If Ben and Trilo really didn't see anyone that night, they wouldn't have testified that they greeted someone that night, would they?
+Phoenix:
+Wh-What do you mean?
+Maya:
+I think that Trilo really did say "good evening" to someone that night.
+Phoenix:
+But... Trilo and Max... They were in the middle of a huge fight.
+Judge:
+Maybe you should think this over some more on your own time, Mr. Wright.
+Leads back to:
+"Let's clarify this testimony for the court..."
+He saw the defendant.
+Phoenix:
+Of course he saw the defendant! How could he miss Maximillion Galactica!? OWWWW!!
+von Karma:
+You said that Trilo would have no reason to greet Max if they had met that night! You said that, did you not!? Mr. Phoenix Wright!!
+Phoenix:
+Ahh...
+von Karma:
+"Ahh..." is not the correct answer!
+Judge:
+Mr. Wright! I'm afraid that "Ahh" has just landed the defense a penalty!
+Phoenix:
+(Foiled again...)
+Maya:
+Nick, you've got to think about things a bit more and give it another shot!
+Phoenix:
+Yeah, I know... (And by the looks of things I've gotta hurry up!)
+Leads back to:
+"Let's clarify this testimony for the court..."
+He saw a different person.
+Leads to:
+"It is my belief that the witness did indeed see someone that night..."
+Phoenix:
+It is my belief that the witness did indeed see someone that night... It was just someone else! That's who he said "good evening" to.
+von Karma:
+What kind of theory is that!?
+Phoenix:
+The correct one. Furthermore, I don't believe the person the witness saw was Max at all.
+von Karma:
+Wh-What!?
+Phoenix:
+If he had truly met Max that night, there would have been no greeting at all. Which means there is only one proper answer. The person the witness saw that night was not Maximillion Galactica. That is why Trilo made the effort to greet whoever it was that he saw that evening. Or "good evening" as he put it.
+Trilo:
+Uhh...
+von Karma:
+What in the world... You...
+Judge:
+Would the defense kindly explain who it was Trilo saw that evening then?
+Present Russell Berry profile
+Phoenix:
+Take that!
+Leads to:
+"Considering the ill temper of this witness, there is only one person he would greet!"
+Present anything else
+Phoenix:
+Take that!
+Phoenix:
+This is the person that this witness felt the need to greet that night!
+Judge:
+Hmm... How about it, Mr. Quist?
+Trilo:
+How about you stop asking me these ridiculous questions! You can show me all the crappy pictures you'd like, there's not one I wouldn't greet!
+Ben:
+...
+Trilo:
+What the oak are you doing, Woodman? You better not say, "Trilo watch your mouth!"
+Ben:
+Ahh... Well... OK. Sorry about that, Trilo.
+Judge:
+Order! ORDER! There will be order in my courtroom! Mr. Wright!!
+Phoenix:
+(Uh oh, now I've done it!)
+Judge:
+You better rethink this line of questioning before I lose my patience with you!!
+Leads back to:
+"Would the defense kindly explain who it was Trilo saw that evening then?"
+Phoenix:
+Considering the ill temper of this witness, there is only one person he would greet!
+Judge:
+It must be Regina! It's Regina right!? She's so cute!!
+Phoenix:
+No, Your Honor, it is not Regina. If it was Regina, Trilo would have given her the engagement ring as a present.
+Judge:
+Oh... Yeah... I suppose you've got a point there.
+von Karma:
+It was Russell Berry. The victim himself, was it not?
+Phoenix:
+You are correct. It was indeed Russell Berry.
+Trilo:
+...!
+Phoenix:
+The person you saw that evening was the victim, the Ringmaster, Russell Berry. That's why you greeted him Trilo. Isn't that correct?
+Trilo:
+... *gulp*
+Phoenix:
+Answer the question, Mr. Quist!
+Trilo:
+WAAAAHHHH!! AH!
+Judge:
+ORDER! ORDER! How do you respond to this!?
+Trilo:
+Wa-Wait a second!! Well, at first I thought it was the old man! But! But! Once I got a better look at him, it was obviously Maximillion Galactica!
+Judge:
+I think it is high time that we clear the air about this question! Mr. Quist obviously witnessed a single person in the area of the plaza that evening. The problem is identifying exactly who that person was... Was it Maximillion Galactica? Or was it the Ringmaster, one Mr. Russell Berry?
+von Karma:
+The prosecution argues that it was the defendant that the witness saw that night! The witness has clearly stated that he saw the defendant's three symbols!
+Phoenix:
+Three symbols?
+Trilo:
+Alright... This is getting old. C'mon man! You've gotta remember them by now!! Here we go again! Everyone... All together now!! OWWWWW!!
+von Karma:
+Yes, yes... We know... The silk hat, cloak, and white roses...
+Phoenix:
+Objection!
+Phoenix:
+A silk hat and a cloak! Anyone could wear them! They'd even look good on me!
+von Karma:
+What was that!?
+Phoenix:
+Well, the witness has endlessly repeated that he saw Max's three symbols... However, how do we really know it was Maximillion Galactica? It could have been someone else, dressed up as him. Possibly even Russell Berry!
+von Karma:
+WHAT!?
+Judge:
+Ms. von Karma.
+von Karma:
+...
+Judge:
+Do you have clear evidence that the person the witness saw was the defendant?
+von Karma:
+Well... I...
+Judge:
+If that's the case, then it is impossible for me to make a judgment at this point.
+Phoenix:
+(Yes! I think we've finally won a point in this one!!)
+von Karma:
+... That is very... Unfortunate.
+Phoenix:
+Huh?
+von Karma:
+You're just a little too excited for your own good, Mr. Phoenix Wright.
+Phoenix:
+What do you mean by that?
+von Karma:
+You merely established one thing from this witness. You established that this witness saw one person in the plaza that night. I applaud you on your effort, but...
+Judge:
+But...?
+von Karma:
+Who that person was can only be answered by the next witness!
+Phoenix:
+HUH!?
+von Karma:
+Your Honor, the prosecution will provide, beyond a shadow of a doubt, an answer to that question, and evidence that clearly establishes one thing. That there is no one other than Maximillion Galactica responsible for this crime!
+Judge:
+Very well. The court will take a 10 minute recess. During that time, I request the prosecution prepare their next witness. Court is now in recess!
+To be continued.
+December 29, 11:54 AMDistrict CourtDefendant Lobby No. 5
+Max:
+Sw-Sweetie! You have to believe me! I didn't go anywhere near that crime scene!
+Maya:
+So then where were you when the murder took place?
+Max:
+We talked about it yesterday remember? I was in the Ringmaster's room!
+Phoenix:
+And while you were there, it was the Ringmaster who left the room, right?
+Max:
+Exactly. He told me to wait in the room because he would "be right back".
+Maya:
+That's when the Ringmaster headed to the scene of the crime... Right?
+Phoenix:
+That's what it seems like.
+Maya:
+But... The Ringmaster must've been wearing Max's costume. Right?
+Max:
+Oh! Sweetie! I just remembered! I went straight to the Ringmaster's room still dressed in my stage clothes. But when I got there, I went ahead and took the costume off.
+Maya:
+Which means?
+Phoenix:
+It means that the Ringmaster could have taken his costume, and went out looking like Max!
+Max:
+FABULOUS! That's a fabulously possible possibility!
+Maya:
+Heh Heh... Well done Nick.
+Max:
+However, sweetie... Why would the Ringmaster want to dress up like me? Isn't that a bit strange?
+Phoenix:
+Hmm...
+Max:
+If you think about it, all they found at the crime scene was my silk hat. What about my cloak? Where did that go?
+Phoenix:
+Double hmm...
+Maya:
+Wow Max. I never thought of that. You should be a detective or something!
+Max:
+Well, I was never quite sure what to be when I grew up... Magician or President? You have no idea how hard it was to make a decision!
+Maya:
+That's really cool...
+Phoenix:
+(Fabulous... This mystery just keeps getting deeper...)
+December 29, 12:06 PMDistrict CourtCourtroom No. 2
+Judge:
+Now that everyone is back, let's get started. The court is now back in session. Ms. von Karma, please proceed with the prosecution's case.
+von Karma:
+Very well... I will now call my next witness. A pitiful clown with the unfortunate distinction of having seen the entire thing. Will Mr. Lawrence Curls please take the stand!
+Phoenix:
+(Why did she just call him a "pitiful" clown?)
+von Karma:
+The witness will state his name and occupation for the court record.
+Moe:
+...
+von Karma:
+...
+Moe:
+... In West Clownadelphia, born and raised, on the playground is where I spent my clowin...
+von Karma:
+... Name and occupation.
+Judge:
+Will the witness please inform the court why he is speaking autobiographical gibberish?
+Moe:
+O-Oh... I-I'm sorry... I'm just not used to being in court. I've never been in a courtroom in my life. I wasn't quite sure what joke is best suited to this sort of occasion.
+Judge:
+What in the world are you talking about!? You're in a grand hall of justice, not some comedy club! Since it's easy to see your occupation, please state your name for the court.
+Moe:
+... Oh... Yeah... Maybe this joke is OK... "Mom, do I have to wear pants?" "The sign only says no shirt, no shoes, no service." Aha! Aha! Aha! Aha! Aha! Aha! Aha! Aha! Aha! Aha!
+.....................
+Moe:
+OK! OK! How about this? "Have you met my proctologist? Dr. Seymour Butts!!" How was that one!? Aha! Aha! Aha! Aha! Aha! Aha! Aha! Aha! Aha! Aha! ...But a couple of clowns, they were up to no good... Started makin' trouble in...
+von Karma:
+Your name...
+Moe:
+Lawrence Curls. Professional funnyman, also known as Moe the clown.
+von Karma:
+You witnessed the scene at around 10:15 PM the day of the murder. Correct?
+Moe:
+Yes... Yes it is.
+Judge:
+Very well, Mr. Curls. Will you please testify to what you saw that evening?
+Moe:
+A rabbi, a priest, and a Rastafarian walked into this plaza...
+Judge:
+Without the humor please.
+Moe:
+OK...
+Maya:
+Aww... Poor Moe can't be his normal stoogey self in court.
+Witness Testimony
+-- What You Witnessed --
+Moe:
+I know... I know... I'm not the greatest comedian in the world...
+I haven't been able to make people laugh for 10 years!
+No matter what I say, all I get in return is a vacant stare and polite applause.
+Since no one ever laughs at my jokes, I've taken to laughing at them myself.
+It's a bad habit, but hey, at least I'm trying!!
+Imagine my predicament! I'm a clown who can't make people laugh!! I'm almost useless!
+But I keep trying... I even tried to come up with jokes just for today!!
+But this atmosphere is very nerve-racking! I decided to try making everyone laugh!
+Seriously... Everyone... What do you think of me? How am I doing?
+Judge:
+...
+von Karma:
+...
+Phoenix:
+Umm... Aren't we the ones supposed to be asking the questions here?
+von Karma:
+Witness...
+Moe:
+Huh?
+von Karma:
+We will listen to your call for help after the court proceedings are over. Thus, please stick with the facts of this case.
+Moe:
+Really!? You'll really hear me out!?
+von Karma:
+Well, I'll make sure that one of my staff will be your straight man later.
+Moe:
+Thank you!! Thank you!! I can't wait!!
+Phoenix:
+(Poor Gumshoe...)
+Judge:
+Now that that's settled, shall we begin once again with the testimony!?
+Moe:
+Of course we can! I'll talk for as long as you want!!
+Witness Testimony
+-- What You Witnessed --
+Moe:
+The night of the murder, after practice was over, I went straight back to my room.
+You have no idea how tired I was that night. I was pooped.
+I thought I'd go straight to sleep, but before I did, I glanced out the window.
+That's when I saw two silhouettes! They were a bit far away though!
+It was the Ringmaster, and he was with Max, who was wearing his cloak!
+I kept watching them, and all of a sudden, Max clonked the Ringmaster over the head!
+Judge:
+That's very interesting... If this eyewitness account is to be believed, I have enough to pass judgment right now...
+von Karma:
+Of course you can! There is no way that this account can be criticized.
+Judge:
+However... The witness is a bit, how do you say, "off-kilter"... Almost like he has some sort of atmosphere of guilt surrounding him.
+Moe:
+Aha! Aha! Aha! That must be because of my insincere smile...
+Judge:
+Mr. Wright, please begin the defense's cross-examination.
+Phoenix:
+Yes, Your Honor.
+Maya:
+Nick! You've gotta find some kind of contradiction in his testimony!
+Phoenix:
+I know that!
+Judge:
+Mr. Wright.
+Phoenix:
+Your Honor?
+Judge:
+I'm afraid that if you push this witness too far, it would bring disaster upon the court. Thus, I sincerely hope you are not going to engage in pointless saber-rattling.
+Phoenix:
+I understand Your Honor.
+von Karma:
+If you cause this clown to stray from the facts, I'll hold you responsible!
+Phoenix:
+(Why am I responsible!? I'm not the one with the corny jokes.)
+Cross Examination
+-- What You Witnessed --
+Moe:
+The night of the murder, after practice was over, I went straight back to my room.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You'd say that practice wrapped up around 10 PM correct?
+Moe:
+See, that's the thing...
+Phoenix:
+Huh?
+Moe:
+How exactly am I supposed to make a joke about 10:00 PM? Now eight o'clock... That's something a clown can riff off of... Let's just pretend it was eight o'clock... That way I can make a great joke!
+Let's not...
+Phoenix:
+Let's not make it 8:00 PM, alright Moe?
+Moe:
+What do you mean let's not! Don't take the clown out of the clowning around!
+Maya:
+C'mon Nick, just listen to his joke!
+Phoenix:
+There are three reasons why I don't want to... One, I probably won't laugh. Two, I'll get hit with a penalty. Three, I'll get whipped. Will the witness just proceed with his factual testimony...
+Maya:
+You are sooo boring.
+Leads back to cross-examination
+Alright, eight o'clock then...
+Moe:
+You know you want to hear the joke... A man goes to his doctor and the doctor asks, "How is number 1?" The man says "Everyday at six." The doctor asks, "And 2?" The man says "Everyday at seven." "Then what's the matter?" "I slept til eight."
+von Karma:
+Witness! These are exactly the type of jokes you should save for Gumshoe!
+Phoenix:
+... OWWW!!
+von Karma:
+You knew what would happen! Don't look at me like that!
+Judge:
+Mr. Wright, you're hereby penalized! This will not become a kangaroo court!
+Phoenix:
+(This isn't funny at all... In more ways that* ([sic]) one...)
+Leads back to cross-examination
+Moe:
+You have no idea how tired I was that night. I was pooped.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You were "pooped" that night?
+Moe:
+Yes. I was very very tired... Not to mention I had some bad Mexican food.
+Phoenix:
+What?
+Moe:
+The double cheese double bean enchilada is a dangerous menu item... What happened after that, as they say, "happens"... Aha! Aha! Aha! Aha! Aha! Aha! That one was cool, huh? I hear the kids really love toilet humor these days...
+Phoenix:
+That joke was so hip, I don't want to ruin it with a reply.
+Judge:
+I've got a good reply though. That joke was so funny it just earned you a penalty!
+Moe:
+I thought I'd go straight to sleep, but before I did, I glanced out the window.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You just happened to glance out of the window?
+Moe:
+You could say that. You could also say I peeked, stared, glimpsed, peeped, eyeballed...
+Judge:
+Mr. Curls!!
+Moe:
+Oh... I guess synonyms aren't allowed either...
+Phoenix:
+(What should I do? I wonder if I should press him further on this issue...)
+Let it rest.
+Phoenix:
+Very well, Moe. How about we get back to your testimony now?
+Judge:
+This is definitely one of your more straightforward cross-examinations, Mr. Wright.
+Phoenix:
+(Of course! You threatened me with a penalty if I don't keep this stooge in check!)
+Keep pressing.
+Phoenix:
+Exactly why did you look out of your window that night?
+Moe:
+Why!? Why!? Clowns don't need a reason to look out their windows, do they!?
+Phoenix:
+That's not what I meant. I meant that... Well... When we spoke yesterday...
+Moe:
+Once I had tucked myself into bed, I heard this amazing noise. It was incredibly loud. It sounded like a giant "THUMP"!
+Moe:
+... Oh yeah! I forgot about that!!
+von Karma:
+You... Forgot!?
+Phoenix:
+Your Honor, the witness looked out of his window upon hearing a loud sound. He did not just simply "glance" out of his window that night.
+Moe:
+Oh yeah! That's right! I forgot to mention that "THUMP" didn't I? Owwy Oww Oww...
+von Karma:
+That's not something you just "forget to mention"!
+Phoenix:
+Umm... Yeah... What she said... I believe it would be best if Moe were to revise his testimony.
+Judge:
+Hmm... Very well. Mr. Curls. Please revise your testimony.
+Phoenix:
+(This should start turning the tables in our favor!)
+Changes statement from "I thought I'd go straight to sleep, but before I did, I glanced out the window." to "I heard a huge noise outside the window, and that's what made me take a look outside..."
+Moe:
+I heard a huge noise outside the window, and that's what made me take a look outside...
+Press
+Phoenix:
+Hold it!
+Phoenix:
+What was the sound like?
+Moe:
+Well... I guess it kinda sounded like... Hmm... I guess you could say...
+Judge:
+Mr. Curls. May the court remind you that humor is unnecessary.
+Moe:
+Doh! How'd you know that I was gonna make a joke! Aha! Aha! Aha! Aha! Aha! I guess that the sound sounded like a... I suppose it sounded like someone getting hit with something very hard... Yep. That's what it sounded like. Honestly.
+Judge:
+"Someone getting hit..." huh?
+von Karma:
+What then? You went to look out the window and you saw...
+Moe:
+That's when I saw two silhouettes! They were a bit far away though!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Far away you say... If you had to say exactly, how far away were they?
+Moe:
+Let me think about that for a second... If my room is here... And they looked about yay-big... I'd say they were about 30 feet from my window.
+von Karma:
+Just 30 feet? That's not far at all!
+Moe:
+It was snowing that night, and it cut down on visibility.
+Judge:
+I see. Please continue with your testimony regarding the two shadows that you saw.
+Moe:
+It was the Ringmaster, and he was with Max, who was wearing his cloak!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You'd say you clearly saw this? Even though you were, by your own admission, far away?
+Moe:
+That's right. I had been thinking about it over and over since that night, but things didn't really make sense until I spoke with the prosecutor, Ms. von Karma. But now I am 100% certain that it was Max and the Ringmaster that I saw that night. Just think about it? How could I be wrong if Max is always wearing his uppity symbols?
+Phoenix:
+Uppity symbols?
+Moe:
+Lawyers nowadays!! Do you even have to go to school anymore to be one? Alright! Everyone knows what to do!! Altogether now!! Say it with Uncle Moe!
+.....................
+Moe:
+... See what I mean!! It's always like this! The crown never wants to go along with me! I must really be utterly and completely worthless as a clown... Yeowza!
+von Karma:
+Enough foolishness, get back on track!
+Judge:
+Will the witness please testify as to what he saw... And only what he saw!
+Moe:
+I kept watching them, and all of a sudden, Max clonked the Ringmaster over the head!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You say you saw the Ringmaster get "clonked" over the head!?
+Moe:
+Yes I did!! It's the climax of my story!
+Phoenix:
+(He really does enjoy the completely random non sequitur...) What would you say the victim was struck with?
+Moe:
+You mean weapon? I have no idea. A weapon wasn't found at the murder scene, right?
+Phoenix:
+No no no... You did say you saw the entire thing, didn't you?
+Moe:
+Well... I, umm... Yeah, I suppose I did. Wait... No I didn't. I didn't see a weapon... Heh heh heh!
+Phoenix:
+Moe! Did you or did you not see the crime of murder committed that night!?
+von Karma:
+Objection!
+von Karma:
+I will not permit you to harass my witness in this manner! You'd better have an excellent reason for attacking this poor, poor clown. Because if you  don't... You know what is waiting for you... A nice penalty!
+Phoenix:
+*gulp* (Wasn't that a bit melodramatic...)
+von Karma:
+So what will it be then, Mr. Phoenix Wright? Do you have any clear basis to believe that my witness did not see the crime?
+Of course I don't!
+Phoenix:
+Well... See... Right now, I don't have a clear basis to be thinking that...
+von Karma:
+Then this is just another one of your pointless efforts to badger my witness! Thus, you have just earned yourself a penalty... FROM ME!!
+Judge:
+Now wait a second Ms. von Karma! This time, I do not feel the need to treat Mr. Wright so harshly.
+Phoenix:
+That's right! What he said! (Bailed out by the judge! What an honor indeed!)
+Judge:
+If we must penalize Mr. Wright for his display, I think a verbal censure would be best.
+Phoenix:
+Huh?
+Judge:
+You know the rules Mr. Wright. There is no room for baseless hounding in this courtroom.
+Phoenix:
+(I guess he didn't really bail me out after all...)
+Of course I do! (before changing third statement)
+Phoenix:
+Of course I have grounds to make this claim!
+von Karma:
+Then let's hear it!
+Phoenix:
+That's something I can't share with you at this time.
+Judge:
+W-W-What did you just say!? Mr. Wright!!
+Phoenix:
+(I know there's something wrong with this testimony... But I can't put why I feel this way into words for the Judge...)
+Maya:
+Maybe we should get a bit more information... Once we find something more solid, we can give it another shot!
+Phoenix:
+Yeah, you're right...
+Judge:
+Mr. Wright, before we resume testimony, you know that you must be penalized.
+Phoenix:
+(Yikes. That's harsh...)
+Of course I do! (after changing third statement)
+Leads to:
+"I've got a great reason to make my claim!"
+Maya:
+You know... Moe's testimony and what he told us yesterday are kinda different...
+Phoenix:
+Yeah I noticed. We've just got to pinpoint what's changed.
+Maya:
+You can do it, Nick!
+Phoenix:
+I've got a great reason to make my claim!
+von Karma:
+And I suppose you will be telling us all that "great" reason?
+Phoenix:
+Of course I will... The reason is... The witness' very own testimony!
+Judge:
+What is the meaning of that Mr. Wright?
+Phoenix:
+Moe said that he heard a sound like a "thump" of someone getting hit.
+Judge:
+Hmm... He did say that.
+Phoenix:
+However, Moe just stated the following under oath.
+Moe:
+I kept watching them, and all of a sudden, Max clonked the Ringmaster over the head!
+Phoenix:
+If Moe is to be believed when he says he looked out the window upon hearing a sound, there is no way that he could have seen Max "clonk" anyone!
+Moe:
+In 1972, a crack clown unit was sent to prison by a circus court for a crime...
+Judge:
+Mr. Curls! How do you respond to Mr. Wright's assessment!!?
+Moe:
+...they didn't commit. These clowns promptly escaped from a maximum security clown car...
+Judge:
+Mr. Curls, are you reciting the C-Team theme to anger this court?
+Moe:
+No no no... I'm just stalling for time while I jog my memory...
+Maya:
+Great job, Nick!
+Phoenix:
+These types of witnesses always seem to have a selective memory... You just have to peel back the layers of the clown make-up to find the truth.
+Moe:
+Well... Um...
+Judge:
+Ahh, you're back from your jog?
+Moe:
+Well... It pretty much happened the way I said.
+Phoenix:
+"Pretty much"...?
+Moe:
+When I looked out my window that night, the Ringmaster was already face down in the snow. The prosecution helped me fill in the gaps of my statement.
+Phoenix:
+(Von... Von Karma!! Tampering with witnesses again!!)
+von Karma:
+...
+Judge:
+So now you are saying that you did not see the defendant "clonk" the Ringmaster?
+Moe:
+Y-Yes... When I looked out my window, the Ringmaster had already checked out.
+Judge:
+Checked out?
+Moe:
+Yep. He was on permanent vacation as they say. Aha! Aha! Aha! Aha! Aha!
+Judge:
+Mr. Curls!!
+Moe:
+Your Honor?
+Judge:
+You did not witness the actual crime; however, you still say you saw the criminal, correct?
+Moe:
+Y-Y-YES!! Exactly! The Ringmaster was slumped over and I saw someone's silhouette next to him.
+Judge:
+Very well. Then please testify to this silhouette you saw... I expect the truth! And if I even catch a hint of a joke from you... I will put you in a holding cell until you learn court etiquette, got it!?
+Moe:
+Got it.
+Witness Testimony
+-- The Silhouette --
+Moe:
+I was a bit far away, but that shadow could only have belonged to Max.
+There's no doubting it. Especially since I saw his uppity symbols.
+His silk hat. That black cloak. They were all there!
+His face was silhouetted, but there was no doubt that it was him.
+His cloak was fluttering in the wind, so I couldn't really see what he was carrying.
+Judge:
+Hmm... It does seem as if the defendant was at the scene of the crime.
+von Karma:
+You took your time realizing that, didn't you!? Whatever. That should be enough, right!?
+Judge:
+It is decisive testimony...
+Maya:
+Was Max really at the crime scene that night...?
+Phoenix:
+He said he wasn't there. We have to keep believing that.
+Judge:
+Alright, Mr. Wright. Commence your cross-examination.
+Cross Examination
+-- The Silhouette --
+Moe:
+I was a bit far away, but that shadow could only have belonged to Max.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Don't you think that you are going a little overboard with how explicit you're being? 'That shadow belonged to Max' is an awfully firm statement, don't you think?
+Moe:
+What are you getting at...?
+Phoenix:
+I'm just saying that one of your fellow performer's life is on the line here. Are you truly, 100% absolutely certain that it was Max?
+Moe:
+... I'm not the kind of person who would lie about something as serious as this! The silhouette I saw was Max. I'm convinced of that.
+Phoenix:
+(It doesn't seem like he is jumping to any conclusions this time...) Let's go over this again then. What makes you so sure that you saw Max that night?
+Moe:
+There's no doubting it. Especially since I saw his uppity symbols.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Trilo said the same thing. But if it was just the symbols, then even I could have been wearing them. What if someone had just taken Max's symbols and worn them?
+Moe:
+I thought of that myself. But just looking at the shape of the face I saw, it must have been Max.
+Judge:
+Hmm... You're sure of that!?
+von Karma:
+Such a silly little boy... He threw his entire case headlong into a trap!
+Present Max G. Promo Poster
+Phoenix:
+Objection!
+Leads to:
+"You say you saw all of Max's "uppity" symbols?"
+Moe:
+His silk hat. That black cloak. They were all there!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You're sure that is what you saw that night?
+Moe:
+Exactly what I said I saw is exactly what I saw. I've got eyes like a hawk!
+Phoenix:
+(Umm... Don't birds have terrible night vision?)
+Moe:
+But that's not all I saw!
+Present Max G. Promo Poster
+Phoenix:
+Objection!
+Leads to:
+"You say you saw all of Max's "uppity" symbols?"
+Moe:
+His face was silhouetted, but there was no doubt that it was him.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You were able to see that kind of detail from your window?
+von Karma:
+Objection!
+von Karma:
+There was a light near the scene of the crime. Anyone with decent eyesight should have been able to see that much.
+Phoenix:
+Out of curiosity Moe, what is your eyesight like?
+Moe:
+I can see like a hawk out of my left eye, and an eagle out of my right eye...
+von Karma:
+Our records say his eyesight is a perfect 20/20.
+Phoenix:
+(That must mean he could have seen the crime scene clearly.)
+Judge:
+Hmm... The more we look into this matter, the more suspicious it becomes.
+Moe:
+Hey! You asked me what my eyesight was like, not what it actually was!
+Moe:
+His cloak was fluttering in the wind, so I couldn't really see what he was carrying.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+So, you didn't actually see what the criminal was holding?
+Moe:
+That's correct. I've been curious to know what caused that loud noise... It must have been something incredibly hard.
+Phoenix:
+(Too bad they haven't found the murder weapon to know for sure...)
+Maya:
+They claim it was a blunt object... At least it says so in the autopsy report.
+Phoenix:
+(With Trilo's testimony, and now Moe's... It really seems like Max is the killer.)
+Maya:
+N-Nick... You've gotta find a contradiction in this.
+Phoenix:
+That's not going to be enough...
+Maya:
+What?
+Phoenix:
+I have to prove that Moe saw someone other than Max that night! That's the only thing that will help! I've gotta do it!
+Phoenix:
+You say you saw all of Max's "uppity" symbols?
+Moe:
+I suppose so... The silk hat and the cloak, right?
+Phoenix:
+Moe... Everyone knows that Maximillion Galactica has three uppity symbols!
+Moe:
+Three symbols?
+Maya:
+Yay! Everyone get ready!! All... Together... Now...
+"SILK HAT! CLOAK! WHITE ROSES!"
+Moe:
+What the!?
+von Karma:
+Who cares if he knew that there were three or not! He saw what he saw. And he saw the symbols. He just forgot to mention one.
+Moe:
+...
+von Karma:
+Isn't that right, Moe?
+Moe:
+... Do you like Pi? I love Pi! 3.141592653589793238462643383279! Tasty!
+von Karma:
+Silence fool! You are to respond with the whole truth! No fractions!
+Judge:
+Order! Order!
+Phoenix:
+Moe! You didn't see the roses, did you!?
+Moe:
+To be honest... There wasn't any roses on the person I saw...
+von Karma:
+Objection!
+von Karma:
+The crime scene was dark! It's obvious it was too dark to see that kind of detail!
+Phoenix:
+Objection!
+Phoenix:
+But the witness said he was able to see the silhouette of the criminal's face. Not to mention that the roses are white! There's no way he could have missed them!
+von Karma:
+Objection!
+von Karma:
+Then the roses must have fallen off when the defendant assaulted the victim!
+Phoenix:
+If that was the case, then the police would have found them near the crime scene!
+Judge:
+Mr. Wright! Are these white roses truly material to the facts of this case?
+von Karma:
+Clearly not! He is just toying with this court!
+Phoenix:
+... (I got her on the ropes now... Whenever there's a nugget of truth, it always seems to peek out at me... Then run away.) Someone is toying with the court, but it's not me! Your Honor! Do you recall Trilo's testimony?
+Trilo:
+There's no way I could mistake someone wearing those three ridiculous symbols!
+Trilo:
+How can you mistake someone with that crazy get-up and his nose stuck up so high...
+Trilo:
+How could you mistake someone wearing such a snobby 3 piece get-up!
+Phoenix:
+Trilo saw them all! Trilo saw all three of Max's symbols! However, this witness claims there were no white roses on the person he saw! There is absolutely no doubt that this is a contradiction!
+Judge:
+Hmm... Now what am I supposed to think? One is supposed to disregard the pointless, but this...
+von Karma:
+Judge! Forget the roses! Think about his other testimony! The witness has stated without a doubt that he saw Maximillion Galactica! Nothing else matters! Let's wrap this case up now!
+Phoenix:
+Your Honor! It may be trivial, but there should still be doubt lingering in your mind!
+Judge:
+... Frankly, I have my doubts about this witness. It seems that, unlike wine, the witness has not grown more mature with age.
+Moe:
+I'm not... Mature...
+Judge:
+I've come to a conclusion... I'm 99% certain that this witness saw the defendant. However! My remaining one percent of doubt is quite reasonable! Which means that for my peace of mind, I'm going to request a bit more testimony.
+von Karma:
+W-What!?
+Judge:
+If there are no contradictions in his next statement, I am prepared to issue a ruling.
+Phoenix:
+(A ruling...!!)
+Maya:
+Nick! This is your last chance!
+Witness Testimony
+-- The Silhouette, Part 2 --
+Moe:
+There's no doubt in my mind! There were no white roses that night!
+However, all of the other symbols were there... I'm equally sure of that.
+Especially the silk hat! There is no way I could forget seeing the decorations on it!
+He was wearing it the entire time that he was on the scene!
+Judge:
+Mr. Wright... You've got one last chance at this.
+Phoenix:
+Just one chance?
+Judge:
+I will not allow even the slightest hint of badgering against this witness. If you are going to prove to me there's a contradiction with Mr. Curls' statement, you'd better have at least a shred of evidence to back up your accusations.
+Phoenix:
+(I've only got a single shot as* ([sic]) this... I've got to be careful.) I understand, Your Honor. One chance is all I will need!
+Cross Examination
+-- The Silhouette, Part 2 --
+Moe:
+There's no doubt in my mind! There were no white roses that night!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Moe... Be honest... OWWW!!
+von Karma:
+You promised Mr. Phoenix Wright. No more badgering! I hope you enjoy this penalty!
+Phoenix:
+Ungh... I'm finished...
+Judge:
+Umm... Excuse me. I'm the one handing out the pen-- OWWW!!
+von Karma:
+Witness, continue with your testimony.
+Moe:
+You're not going to whip me too, are you?
+von Karma:
+Maybe after court... If you're into that kinda thing.
+Moe:
+But isn't it kinda pointless if you only whip me after court?
+Moe:
+However, all of the other symbols were there... I'm equally sure of that.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Moe... Be honest... OWWW!!
+von Karma:
+You promised Mr. Phoenix Wright. No more badgering! I hope you enjoy this penalty!
+Phoenix:
+Ungh... I'm finished...
+Judge:
+Umm... Excuse me. I'm the one handing out the pen-- OWWW!!
+von Karma:
+Witness, continue with your testimony.
+Moe:
+You're not going to whip me too, are you?
+von Karma:
+Maybe after court... If you're into that kinda thing.
+Moe:
+But isn't it kinda pointless if you only whip me after court?
+Moe:
+Especially the silk hat! There is no way I could forget seeing the decorations on it!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Moe... Be honest... OWWW!!
+von Karma:
+You promised Mr. Phoenix Wright. No more badgering! I hope you enjoy this penalty!
+Phoenix:
+Ungh... I'm finished...
+Judge:
+Umm... Excuse me. I'm the one handing out the pen-- OWWW!!
+von Karma:
+Witness, continue with your testimony.
+Moe:
+You're not going to whip me too, are you?
+von Karma:
+Maybe after court... If you're into that kinda thing.
+Moe:
+But isn't it kinda pointless if you only whip me after court?
+Moe:
+He was wearing it the entire time that he was on the scene!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Moe... Be honest... OWWW!!
+von Karma:
+You promised Mr. Phoenix Wright. No more badgering! I hope you enjoy this penalty!
+Phoenix:
+Ungh... I'm finished...
+Judge:
+Umm... Excuse me. I'm the one handing out the pen-- OWWW!!
+von Karma:
+Witness, continue with your testimony.
+Moe:
+You're not going to whip me too, are you?
+von Karma:
+Maybe after court... If you're into that kinda thing.
+Moe:
+But isn't it kinda pointless if you only whip me after court?
+Present Silk Hat
+Phoenix:
+Objection!
+Leads to:
+"This wouldn't happen to be the silk hat you saw that night, would it?"
+Maya:
+Whaddya think, Nick?
+Phoenix:
+There's no way I'm going to lose after coming this far. There's gotta be an answer. And it's probably in the Court Record!
+Phoenix:
+This wouldn't happen to be the silk hat you saw that night, would it?
+Moe:
+Yep! That's it! That's the hat he was wearing that night!
+Phoenix:
+No question in your mind?
+Moe:
+Exactly how would one mistake a thing like that!?
+Phoenix:
+I see...
+Judge:
+Is there some sort of problem, Mr. Wright?
+Phoenix:
+Ms. von Karma. Where exactly was the silk hat found?
+von Karma:
+Must you always ask these questions!? It was found at the crime scene!! ... The c-c-crime scene... That means...
+Phoenix:
+The silk hat fell off at the crime scene! However the witness clearly testified to the contrary!! The witness stated that "He was wearing it the entire time that he was on the scene!"
+Moe:
+NoooooOOOOOooooo!! That's not trrrrrruuuuueeee!!
+Judge:
+ORDER! ORDER!! OOORRRDER!! MR. CURLS!!
+Moe:
+Y-Yes, Your Honor?
+Judge:
+WHAT IS THE MEANING OF ALL OF THIS!? You are old enough to know better than to behave like this in court!
+Moe:
+Hey! That's just not right!! That's so harsh!
+Judge:
+What's not right here is your eyesight and your memory, amongst other things!!
+Moe:
+............... Wh... Why are you being so mean to me!! What did I do!? Lemme guess... You just didn't like my jokes or something, right? You didn't have to go and insult my eyesight or my memory!? They're both great! Seriously!! Why!? Just because you are sitting above me doesn't mean you belong there! And no matter how old I get, I'll always be younger you!!* ([sic]) WAAAAAHHHHHHHH!! *sobs*
+...
+Judge:
+... Enough of these childish outbursts, Mr. Curls! Who do you think you are?
+Moe:
+I saw him! I swear I saw him!! It was Max!! Even if he didn't have his roses, he was still wearing his dumb silk hat!! I'm telling the truth!!
+Maya:
+He's turned into a bratty little kid.
+Phoenix:
+It's pitiful, isn't it?
+Moe:
+He left the scene wearing that dumb silk hat! He was there!!
+Phoenix:
+(He... Left the scene?)
+Maya:
+What's the matter, Nick?
+Phoenix:
+There's something I've been mulling over for a while now. Moe?
+Moe:
+Whaddya want!?
+Phoenix:
+You just said that he left the scene... Exactly how did the murderer leave the scene of the crime?
+Moe:
+WHAT!? He... Umm... He... Went... Whaddya mean "how did he leave the scene"? You can't ask me that!!
+von Karma:
+Objection!
+von Karma:
+Mr. Phoenix Wright is badgering the witness, Your Honor!!
+Phoenix:
+Objection!
+Phoenix:
+This witness' testimony is so full of holes, Ms. von Karma's protest is useless!
+von Karma:
+Grrrr...
+Judge:
+You've got a point. Let's hear what the witness has to say on this matter. Is that alright with you, little guy?
+Moe:
+Don't talk to me like I'm a little baby!! Besides, what kind of stupid question is "how did he leave the crime scene!?" The answer's obvious! He just turned around and walked away!!
+Phoenix:
+That's what I expected you'd say... You sure that's how it happened?
+Moe:
+Hmph!!
+Judge:
+Huh? I'm not sure I know exactly where you're going with this... Lawyers nowadays sure do love to harp on the smallest things. Do you have any proof to counter his story as to how the criminal left the scene?
+Present Crime Photo
+Phoenix:
+Take that!
+Leads to:
+"Look at this picture."
+Present anything else
+Phoenix:
+Take that!
+Phoenix:
+How about this!?
+Judge:
+This isn't your idea of a joke is it, Mr. Wright?
+von Karma:
+Not very amusing, Mr. Phoenix Wright.
+Moe:
+You're not going to get paid for that one.
+Maya:
+It doesn't look like it worked.
+Phoenix:
+(What happened? It's like I turned into Moe or something...)
+Judge:
+You'll have to excuse me, but I don't understand what you're getting at.
+Leads back to:
+"Do you have any proof to counter his story as to how the criminal left the scene?"
+Phoenix:
+Look at this picture. The problem is the footprints in the snow...
+Judge:
+Footprints?
+Phoenix:
+In this photo, we can clearly see the footprints of the victim! However, where are the criminal's footprints? They aren't there!!
+Moe:
+Ai-yai-yai-yai-yai!!
+Phoenix:
+So Moe, exactly how did the criminal escape the scene?
+Moe:
+Umm... He... Uh...
+Phoenix:
+Your Honor! This witness has already proven that his testimony is completely unreliable! I move to strike all of this witness' testimony from the court record!
+Judge:
+I agree... This clown's testimony is as rickety as the clown car he came to court in.
+Moe:
+WAIT JUST A SECOND!! You guys can't just ignore everything I've said!! Fine fine! I'll tell you the truth this time...
+von Karma:
+YOU WAIT A SECOND! I think you've said more than enough for today!!
+Moe:
+That didn't hurt!! I'm sick and tired of listening to you anyways!! I'll give you the real deal this time... I swear!!
+Maya:
+I dunno why, but I get the feeling things are gonna get worse before they get better.
+Judge:
+Mr. Lawrence Curls.
+Moe:
+Yes!?
+Judge:
+The testimony you've provided up until now has been false?
+Moe:
+It hasn't been false! I haven't lied! It's just...
+Judge:
+It's just what?
+Moe:
+It's just I was a bit confused on the bit about the criminal leaving the scene. Especially since Von Karma and her whip told me not to talk about what I really saw!
+Judge:
+ORDER!! ORDER!! I WILL HAVE ORDER!! Franziska von Karma!! How could you!!
+von Karma:
+Your Honor... If you had heard the truth from this witness... You would have exactly the same opinion as I have.
+Judge:
+What opinion is that?
+von Karma:
+It's not funny!
+Judge:
+That's enough out of you! I'm going to listen to what he has to say. Now then, let's hear the truth about what you say you saw!
+Moe:
+Hah! You're not gonna believe this but it's all true I tell you!
+von Karma:
+Try not to waste our time with your idiotic drivel.
+Witness Testimony
+-- The Truth --
+Moe:
+Now it's time for our next segment, "Moe Knows..."!!
+Everything that I've said up until now has been the truth!
+When I looked out the window, the Ringmaster was down and Max was standing above him!
+He wasn't wearing his white roses, but he was wearing the silk hat!
+That's when I saw... He...
+This is the truth now, get ready for it!
+He flew! He jumped up and flew through the air!!
+He flew right off and disappeared into the darkness!
+That's why there were no footprints! Flying people don't leave footprints!
+von Karma:
+I told you it wasn't funny. Do you believe me now?
+Phoenix:
+...
+Judge:
+...
+.....................
+Judge:
+Well... That was... Umm... How do you put this into words...
+von Karma:
+Maximillion Galactica is a world-class magician. But to leave the scene of a crime by flying. There's no way that actually happened.
+Judge:
+You... You're right.
+Moe:
+Why is she right!? You believed the other witnesses! Why won't you believe me!? Especially since it's the best part of the story!!
+Judge:
+Hmm... To be honest, this is the first time I've heard of a flying criminal. What do you think about this witness' testimony, Mr. Wright?
+His eyes are playing tricks.
+Phoenix:
+It's obvious that the witness' eyes are playing tricks on him...
+Moe:
+Don't be such a fool! Who in the world do you think I would mistake that jerk for!?
+Phoenix:
+(Jeez... I didn't say you were lying!)
+Maya:
+Wow, he looks really serious right now. More serious than he's looked all day!
+Leads to:
+"I suppose I will let you all in on my thinking regarding this matter..."
+He's telling the truth.
+Phoenix:
+What he just said was so strange, I don't think he would have made it up.
+Judge:
+Which means that he is telling the truth?
+Phoenix:
+That's what I think...
+Maya:
+Nick, wait! That means that Max actually used magic!!
+Phoenix:
+Yikes! You're right! OWWW!!
+von Karma:
+Only a foolish looking fool could be fooled by such a foolish fool's foolish dream. Don't be ridiculous! Magic does not exist!
+Leads to:
+"I suppose I will let you all in on my thinking regarding this matter..."
+This is all a dream, right?
+Phoenix:
+Right now, I can't believe any of this! I'm not even sure if this day hasn't been some kind of Kafkaesque dream... OWWW!!
+von Karma:
+Now do you think it's still a dream!? Huh, Mr. Phoenix Wright!?
+Leads to:
+"I suppose I will let you all in on my thinking regarding this matter..."
+Judge:
+I suppose I will let you all in on my thinking regarding this matter... "The criminal disappeared into the sky." I'd love to believe that... But I just can't wrap my head around how that could actually happen.
+von Karma:
+You imbecile!
+Judge:
+If you disregard a need for proof, Ms. von Karma's case is sound. However... I've got the feeling that this case is in dire need of more investigation.
+von Karma:
+...!
+Judge:
+Thus I will conclude today's proceedings at this point! It's an undisputed fact that the criminal left no footprints at the scene. Tomorrow, I want us to find out the reason behind this mystery of mysteries.
+Phoenix:
+Umm, uhh...
+von Karma:
+Grrr...
+Judge:
+I believe that's enough for today. Court is now in recess!
+December 29, 2:33 PMDistrict CourtDefendant Lobby No. 5
+Max:
+Hey! Sweeties! What in the world is going on!?
+Phoenix:
+That's what I want to know!
+Maya:
+They say the criminal flew off into the air and disappeared!
+Phoenix:
+Max, I can't believe I'm asking this, but you didn't fly that night, did you?
+Max:
+I know you didn't mean to ask me such a fabulously stupid question! I can't fly whenever I please. It's not that easy!!
+Maya:
+But it looks so effortless for you on stage...
+Max:
+It's not that simple!! I'm not actually flying on stage! I use invisible wires and have them hoist me through the air!
+Maya:
+Wow... You just told me the secret to your magic!!
+Max:
+NO!! I broke the first rule... The cardinal rule... The ONLY RULE!
+Phoenix:
+I'm sorry, Max. I'm sorry you had to break a magician's creed to keep the magic tricks secret...
+Maya:
+Nick! What do we do now!?
+Phoenix:
+All we can do now is hope we find the flying criminal in court tomorrow.
+Maya:
+Great idea! Let's do our best and catch this sucker!
+To be continued.
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+Your Honor! What do you think about the witness's statement?
+Judge:
+Uh... I'm not sure I follow you.
+Phoenix:
+It clearly, er, contradicts the... um... I thought...
+Judge:
+You don't sound very sure, Mr. Wright. Objection denied.
+Phoenix:
+(I don't think that won me any points with the judge...)
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+Your Honor! That statement contradicts this evidence!
+Judge:
+...? It does? I don't see anything contradictory...
+Phoenix:
+Huh? Really?
+Judge:
+Objection denied. Try to think before you make accusations, Mr. Wright!
+Phoenix:
+(Whoops! That didn't go so well.)
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+This evidence clearly reveals the contradiction in that statement, Your Honor!
+Judge:
+How exactly are the evidence and the statement just now related?
+Phoenix:
+They aren't, are they...
+Judge:
+Not at all. Mr. Wright, please think the facts over before making accusations.
+Phoenix:
+(I don't think that won me any points with the judge...)
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+The witness's statement is clearly faulty, Your Honor!
+Judge:
+... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.
+Phoenix:
+(Ugh, I must be on the wrong track...?)
+Too many penalties
+Judge:
+That's enough! This court sees no reason to further prolong this trial. Nor is there any need for more time to decide the case against the defendant. This case is extremely clear. I see no room for misinterpretation of the facts. This court find the defendant, Mr. Billy Bob Johns...
+Guilty
+Judge:
+The accused will surrender to the court immediately, to be held pending trial at a higher court within a month from today's date. That is all. This court is adjourned!
+Game over

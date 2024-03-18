@@ -1,0 +1,542 @@
+
+Turnabout Countdown (demo)
+Transcript
+Episode 1Turnabout Countdown
+???:
+Heh heh heh! The best thing about bombs is how they erase and destroy... without discretion. Now all I have to do is pin everything on that little girl!
+December 18, 9:22 AMDistrict Court - Defendant Lobby No. 5
+Phoenix:
+(Ugh... These good ol' pre-trial jitters... It's all coming back to me. They never seem to go away no matter how many times I do this.)
+???:
+Mr. Wright! What's the matter? You've been pretty quiet there, Boss.
+Phoenix:
+Huh? I-I have? I was... just thinking about t-today's trial. (And about how I could do with a glass of water right about now. I feel like a newbie again.) My name is Phoenix Wright. I run what could be called a law office, I guess. Although, I was forced to take a break from practicing until only recently. (This is Athena Cykes. She's a rookie defense attorney that just joined our team.)
+Athena:
+What I lack in experience, I make up for with heart! I love orange juice after a workout, and I love to win!
+Phoenix:
+(She's a force to be reckoned with, no doubt, and she's got the temperament to match...)
+Athena:
+Setting up a positive mental image before the trial, huh? That's my boss for you! That must be one of the secrets to your success, right?
+Phoenix:
+Huh? Um... yeah. I guess? (Project confidence... like a boss...)
+???:
+Mr. Wright, Thena... Thank you again for agreeing to help me.
+Phoenix:
+(This is Juniper Woods. She's our client for this case. She and Athena have been friends since childhood.)
+Athena:
+Don't you worry, Junie! Mr. Wright here will definitely get you acquitted!
+???:
+Do it for me too, Mr. Wright!
+Phoenix:
+A-Apollo! (Shouldn't you still be in the hospital?! This is Apollo Justice. He's another young defense attorney at my law office.) How are your injuries? Are you all right?
+Apollo:
+I-I'm fine! Ngaaah...
+Phoenix:
+(That's... not the sound of someone who's feeling "fine." A dying cat, maybe...
+Apollo:
+I couldn't laze around in a hospital bed. Not when I'm one of the victims in this case!
+Phoenix:
+(That's true... He was the one at the bench when the bomb went off that day.)
+Apollo:
+I actually wanted to serve on the defense myself today.
+Athena:
+Rest assured, Apollo! Mr. Wright here will make short work of anyone who doubts Junie's innocence!
+Phoenix:
+Huh? Oh, r-right. Yeah... Yes, of course! (Urk! She sure knows how to ramp up the pressure on a guy.)
+Athena:
+Well, it looks like it's just about that time.
+Phoenix:
+Are you ready, Athena? (I sure hope so, because I don't think I am...)
+Athena:
+Of course! I'm always ready for a good fight!
+Apollo:
+Well, I can't do much except cheer you on from the gallery... But you just have to win this one!
+Athena:
+And we will! Los geht's!
+Phoenix:
+Come what may, it's show time!
+December 18, 9:46 AMDistrict Court - Courtroom No. 5
+Day 1Court Is Now In SessionAll Rise
+Judge:
+Court is now in session for the trial of Juniper Woods.
+Phoenix:
+The defense is ready, Your Honor.
+Payne:
+The prosecution is also ready, Your Honor.
+Phoenix:
+(Uh-oh. Now that I'm actually standing here, the butterflies in my stomach are going nuts!)
+Judge:
+Ah, Mr. Wright. It's been quite a while, but it's good to have you back.
+Phoenix:
+Thanks. It's good to be back!
+Judge:
+Quite frankly, I didn't think I'd ever see you at the defense's bench again. But now that you've been reborn, so to speak, let's see how you do here today.
+Phoenix:
+Well, I-I think you'll see I've learned quite a bit during my time away, Your Honor! (Gulp... Throat drying... Voice... cracking...)
+Athena:
+Hope you're ready over there, because it's a whole new Phoenix Wright on our side!
+Payne:
+You mean "Phoenix Van Winkle"? I doubt I have much to worry about then, in that case.
+Athena:
+Wh--! Why you--! Whatever! Believe what you want! But mark my words: my boss will wipe that smug look off your face in ten minutes or less!
+Phoenix:
+(Whoa there, Athena! Let's not make any wild claims, and especially not impossible ones!)
+Judge:
+Hmm. A quick verdict might not be such a bad thing. There isn't much time in a demo, after all! Now then, Mr. Payne. Please tell us about the incident, if you would.
+Payne:
+The incident happened in this very courthouse, in Courtroom No. 4. A time bomb that was being presented as evidence suddenly went off during the trial. I have here the bomb's specifications and the police report on the incident for the court.
+Stuffed Animal Bomb added to the Court Record.
+Bombing Incident Report added to the Court Record.
+Phoenix:
+(Hmm... If memory serves, I touch the Court Record Button (R) to check the evidence.)
+Judge:
+Wait, so this impish stuffed animal was the bomb?!
+Payne:
+Well, yes and no. The actual bomb was stuffed inside that to hide its wires and timer.
+Judge:
+And it's your claim that it was the defendant who activated this bomb?
+Payne:
+Exactly. The defense may boast that they can finish faster than a bag of boil-in-bag rice... but the prosecution has decisive evidence of the defendant's crime.
+Judge:
+And what, pray tell, is this? It appears to be a little singed.
+Payne:
+This, Your Honor, is the tail of the stuffed animal the bomb was in. It's apparently called "Phony Phanty," or some such nonsense.
+Athena:
+A-And what does that tail have to do with anything?!
+Payne:
+This tail is made of vinyl cloth. And we found something very interesting on its surface... the defendant's fingerprints.
+Phoenix:
+(WH-WHAAAAAT?!)
+Payne:
+Now do you see? This evidence clearly proves that the accused had handled the bomb.
+Judge:
+Hmm. That does appear to be pretty irrefutable evidence... The court accepts this item into evidence.
+Phony Phanty Tail added to the Court Record.
+Payne:
+Heh heh heh. It looks like this trial may very well end in under ten minutes... But I'll be the one wiping the smug look off of YOUR face with a guilty verdict.
+Athena:
+Wh-What are we going to do, Mr. Wright?!
+Phoenix:
+I-I don't know...! This is all thanks to you making that "ten minutes" comment!
+Athena:
+Huh? THAT'S what got us into this mess?!
+Judge:
+Mr. Wright, I'll overlook your private quarrel, but just this once. Now then, let's move on. Mr. Payne, please call your first witness to the stand.
+???:
+............
+Payne:
+Witness, your name and occupation, please.
+Tonate:
+NAME: TED TONATE OCCUPATION: BOMB DISPOSAL SPECIALIST
+Judge:
+Oh, my! What a strange, robotic voice you have!
+Tonate:
+SPEECH SYNTHESIS VIA TYPING. IT IS THE SAME AS ME TALKING.
+Judge:
+Hmm. What an odd witnss.
+Payne:
+Mr. Tonate was in charge of the bomb for that trial and was there when it went off. He is here to testify about the circumstances surrounding the moment of the explosion.
+Witness Testimony
+-- When the Bomb Went Off --
+Tonate:
+THE BOMB WAS ORIGINALLY DISARMED BY ME, THEN TRANSPORTED HERE AS EVIDENCE. BOMB NAME: HH-3000 OPERATED BY TIMER OR WITH A REMOTE. I WAS WATCHING FROM THE GALLERY WHEN I SUDDENLY BECAME ALARMED. I SAW THAT THE BOMB'S TIMER WAS COUNTING DOWN.
+Judge:
+Hmm. The HH-3000... So that's the name of the bomb in this thing, huh? I honestly wouldn't have known such a thing was hiding inside if you hadn't told me.
+Phoenix:
+So even though the bomb was supposed to be disarmed, it somehow got switched on?
+Tonate:
+PRECISELY. ACTIVATING THE TIMER IS VERY SIMPLE. EVEN A MONKEY COULD DO IT. I AM SURE THE DEFENDANT WOULD BE ABLE TO.
+Judge:
+I see. Well, Mr. Wright, you may now begin your cross-examination.
+Phoenix:
+(Cross-examination time! This is where the real battle begins!)
+Athena:
+Go get him, Boss! Give him that famous Phoenix Wright treatment! Unleash the wild accusations and unabashed bluffing we all know and love on him!
+Phoenix:
+Just you watch! I'll get him! (Though it's been years since I've done this... Ugh, I hate to admit it, but maybe I should ask Athena for a refresher course...)
+Refresher course, please!
+Phoenix:
+Um, Athena, you remember how to conduct a cross-examination, right?
+Athena:
+What?! Of course I do! What kind of lawyer would I be if I didn't?!
+Phoenix:
+Now, now! Don't get upset! But why don't you humor me with a little review...?
+Athena:
+You got it! Basically, we examine a witness's testimony... and compare it against the Court Record, searching carefully for any inconsistencies. This green text represents a witness's testimony. Touch the right arrow to advance to the next statement of the testimony. Touch the left arrow to go back to the previous statement. Pay close attention to the testimony, and when you've found an inconsistency... touch "Present" (R) to open the Court Record! The Court Record contains information on all the evidence we have at our disposal. You can use it to look for facts that conflict with what the witness has said. When you find something, "Present" (X) that evidence to refute the witness's statement!
+Phoenix:
+What if nothing conflicts with the witness's testimony?
+Athena:
+Well, that's when you "Press" (L) the witness for more information. Find any inconsistencies or lies in the testimony and reveal them to the court. That's what cross-examination is all about!
+Phoenix:
+Looks like you remember it just as I taught it. (And, thanks to you, I remember it now, too!)
+Leads to:
+"Your Honor, I'm ready to cross-examine the witness now!"
+No, thanks
+Phoenix:
+(I can't ask my subordinate for help on how to cross-examine! I'll just have to wing it. I hope it's like riding a bicycle...)
+Leads to:
+"Your Honor, I'm ready to cross-examine the witness now!"
+Phoenix:
+Your Honor, I'm ready to cross-examine the witness now!
+Cross-Examination
+-- When the Bomb Went Off --
+Tonate:
+THE BOMB WAS ORIGINALLY DISARMED BY ME, THEN TRANSPORTED HERE AS EVIDENCE.
+Press
+Phoenix:
+Phoenix:
+You say that you disarmed the bomb... but are you sure it was really disarmed?
+Tonate:
+ABSOLUTELY. I CAN DISARM ANYTHING. IN A FLASH.
+Phoenix:
+That looks more like "dismantle" than "disarm" to me...
+Tonate:
+Oh. Pardon me.
+Payne:
+Heh heh heh. If you must know, Mr. Wright, according to the court's own records... the fact that the bomb had indeed been disarmed was officially confirmed.
+Phoenix:
+(Hmm... I guess I can rule out the possibility that he forgot to disarm it...) Could you talk about the bomb in a little more detail for the court, Mr. Tonate?
+Tonate:
+CERTAINLY.
+Tonate:
+BOMB NAME: HH-3000 OPERATED BY TIMER OR WITH A REMOTE
+Press
+Phoenix:
+Phoenix:
+What was the approximate size and weight of the bomb?
+Tonate:
+DIMENSIONS: 9.5" H x 9" W x 10" D WEIGHT: 12 LBS
+Athena:
+I bet if I dropped that thing on your foot, you'd be hoppin'!
+Phoenix:
+If you dropped that thing anywhere, I'd be "hopping" for the nearest exit!
+Judge:
+So, Mr. Tonate, you were keeping an eye on the bomb? Where were you watching from?
+Tonate:
+I WAS WATCHING FROM THE GALLERY WHEN I SUDDENLY BECAME ALARMED.
+Press
+Phoenix:
+Phoenix:
+Why were you in the gallery?
+Tonate:
+I WAS ON STANDBY DURING THE TRIAL, BUT I WANTED TO KEEP WATCH JUST IN CASE. EVEN WHEN A BOMB HAS BEEN DISARMED, YOU CAN NEVER BE TOO CAREFUL. EXPLOSIVE DEVICES ARE VERY DANGEROUS THINGS.
+Judge:
+Ah, how admirably responsible of you. A model to be emulated. Now, then. What did you witness from the gallery?
+Tonate:
+I SAW THAT THE BOMB'S TIMER WAS COUNTING DOWN.
+Press
+Phoenix:
+Phoenix:
+You saw it counting clearly, with your own eyes? I'd hardly think a timer as small as the one on this bomb could be seen from the gallery.
+Tonate:
+THESE GOGGLES HELP ME SEE VERY SMALL THINGS CLEARLY FROM VERY FAR AWAY. I CAN EVEN SEE WHAT YOU HAD FOR BREAKFAST BY LOOKING AT YOUR TIE.
+Phoenix:
+(Why do I suddenly feel like a bug under a magnifying glass?)
+Athena:
+Hmm... I guess it's possible he saw the timer if he was wearing those goggles.
+Phoenix:
+I'm not so sure. There's something that just doesn't sit right with me...
+Athena:
+Hm? You mean there's something wrong with this part of the testimony?
+Phoenix:
+(The bomb was completely hidden inside the stuffed animal. So well concealed, in fact, that it didn't even look like a bomb at all!)
+Present HH-3000 Bomb
+Phoenix:
+Leads to:
+"So you could see the bomb's timer counting down, is that right?"
+Athena:
+So you're trying to find testimony that conflicts with the evidence, right?
+Phoenix:
+That's right. So the first step is listening carefully to Mr. Tonate's testimony. Then, it's a matter of taking a look at any evidence that seems relevant.
+Athena:
+Remember that you can touch "Present" (R) to check the evidence in the Court Record! If you find evidence that conflicts with the testimony, "Present" (X) it! Let's see... This testimony is about when the bomb went off... So the state of the bomb at that time must be pretty important!
+Phoenix:
+(Hmm... A bomb that didn't look like a bomb because it was inside a stuffed animal...)
+Phoenix:
+So you could see the bomb's timer counting down, is that right?
+Tonate:
+OF COURSE. I CLEARLY SAW IT COUNTING DOWN TO ZERO.
+Phoenix:
+And I say... that you are CLEARLY lying!
+Tonate:
+WHAT ARE YOU TALKING ABOUT?
+Phoenix:
+There is no way you could have seen the bomb's timer. After all, the bomb was concealed inside a stuffed animal.
+Tonate:
+!
+Phoenix:
+Mr. Tonate! How can you claim to know the bomb was about to go off... when you couldn't even see the timer?!
+Tonate:
+WELL... I... I...
+Athena:
+Ooh! That was great, Mr. Wright! You found a contradiction right off the bat!
+Phoenix:
+Aw, it was nothing. (Nothing short of amazing, that is! All right, I'm starting to feel like I'm in the zone here. I can do this!)
+Judge:
+Very impressive, Mr. Wright. I see the great "Turnabout Terror" is back! Ah, this brings back memories...! Now those days were the stuff of legends! Oh, how you would tear through trials with wild accusations and unabashed bluffing!
+Phoenix:
+Uh... that actually doesn't sound like such a flattering legend, Your Honor...
+Judge:
+Witness! How do you explain the contradiction in your testimony?
+Tonate:
+WELL, LET ME SEE... I... UH... OH, YES! YES, OF COURSE! I REMEMBER NOW! THE SOUND! I KNEW BECAUSE OF THE SOUND! WHEN THE TIMER OF THIS TYPE OF BOMB IS SWITCHED ON, IT MAKES A BEEPING SOUND. BEEP... BEEP... BEEP... IT IS THE SOUND OF THE COUNTDOWN.
+Judge:
+I suppose it would be possible to notice that, even with the bomb inside the stuffed animal.
+Tonate:
+I SIMPLY MADE A MISTAKE. MY BAD.
+Phoenix:
+What? No way! (Why am I not surprised...?)
+Payne:
+The prosecution believes it's time to hear from the defendant herself, Your Honor.
+Judge:
+Very well. Please show the defendant to the witness stand.
+Woods:
+............ I... I don't really remember much... about when the bomb went off... I... think it's probably... the shock of it all...
+Payne:
+Hmph! What a convenient excuse!
+Athena:
+Mr. Wright... Can I go and give that prosecutor a smack?!
+Phoenix:
+Wh-What?! Of course not! Do we have to review Courtroom Manners 101 again?!
+Athena:
+But this is so painful for Junie! She's so scared... so very scared!
+Phoenix:
+(Looks like Athena's picking something up with her heightened sense of hearing... And it sounds like this time, it's the pain in Ms. Woods's voice.)
+Payne:
+If you would, Ms. Woods, please testify to this court about when the bomb went off.
+Witness Testimony
+-- When the Bomb Went Off --
+Woods:
+Well, that day... *cough* I was watching from the gallery... *cough, cough* The bomb went off... *cough* *cough* And rubble started falling... It fell on top of me... *cough, cough*
+Athena:
+Junie looks like she's in pain, being forced to recall the bombing like this... Why can't the prosecution see that she can't even get her words out?!
+Phoenix:
+(This isn't working... Hey, wait a minute! If she can't tell us what she wants to say, there's only one thing to do! Yes, now's the perfect time to use Athena's power! Athena has a unique ability, you see. With her special sense of hearing, she can discover a witness's true feelings. In essence, she can discern emotions from the tone of a person's voice. At a time like this, all I can do is leave it to Athena and her special ability.) Athena, I need you to do something for me. I want you to use the analytical psychology you studied... and listen to Ms. Woods's TRUE testimony.
+Athena:
+...Okay, Mr. Wright! I'll give it a try!
+Phoenix:
+So your holographic thingamabob can show us how Ms. Woods is feeling, right?
+Athena:
+In a nutshell, yes. The emotions and images that I picked up on just now while listening to her testimony... I can enter them into my computer and use its Mood Matrix program to analyze them. These mood markers here reflect fluctuations in Junie's emotions. When she feels happy or is enjoying the memory, the "Happy" marker will light up. When she feels angry or frustrated, the "Angry" marker will react. When she feels sadness or is frightened by a memory, the "Sad" marker will blink. And when she feels surprised or confused, the "Surprised" marker will let us know.
+Phoenix:
+So, basically, with your special ability and that computer's Mood Matrix program... you can let me know the emotions Ms. Woods is feeling during her testimony. Is that how it works?
+Athena:
+You've got it!
+Phoenix:
+Okay! It's time to listen to Ms. Woods's true testimony!)
+NOISE LEVEL100%
+Woods:
+Well, that day... *cough*
+Woods:
+I was watching from the gallery... *cough, cough*
+Woods:
+The bomb went off... *cough*
+Woods:
+*cough* And rubble started falling...
+Woods:
+It fell on top of me... *cough, cough*
+Athena:
+I think I have a good grasp on Junie's emotional state now.
+Phoenix:
+(This power of Athena's is incredible...)
+Athena:
+And I'm seeing an unexpected emotion that's inconsistent with her testimony!
+Phoenix:
+What?! Already?!
+Athena:
+Look at this! When she says, "It fell on top of me," the "Happy" marker is reacting!
+Phoenix:
+Well, look at that. That IS odd!
+Athena:
+There must be a reason for this contradictory emotion! We just need to do some digging! When you find an unexpected emotion... touch "Pinpoint" (L)... and then select the unexpected emotion or reaction from the four mood markers.
+Woods:
+It fell on top of me... *cough, cough*
+Pinpoint Happiness
+Phoenix:
+Got it!
+Leads to:
+"Ms. Woods!"
+Phoenix:
+Ms. Woods! As the rubble was falling, was there something that made you feel happy?
+Woods:
+What?! *cough*
+Phoenix:
+Take your time and see if you can remember what happened.
+Woods:
+Um... Let's see... Just as I was about to escape the courtroom... rubble started falling! I thought I was done for...! And then... Oh, I remember! Just then... Apollo came and rescued me!
+Phoenix:
+(So that's when Apollo got hurt...) It looks like we were able to make Ms. Woods recall something after all.
+Athena:
+I'll just input this new information and make an update. Now, let's continue with Junie's true testimony!
+Phoenix:
+So when I find an unexpected emotion, I should touch "Pinpoint" (L), right?
+Athena:
+That's right! And then you select the unexpected emotion from the mood markers. If we can find the reason for the discord in her voice... Then we should be able to draw new testimony out!
+Woods:
+I tried to run, but I was too slow.
+Woods:
+Before I could get away, the bomb went off.
+Woods:
+I was so startled I tripped! Then rubble started falling on me.
+Woods:
+I thought I was done for...
+Woods:
+But then Apollo came and rescued me!
+Pinpoint Sadness
+Phoenix:
+Got it!
+Leads to:
+"You were happy when Mr. Justice rescued you, weren't you?"
+Athena:
+I can sense some discord in Junie's voice when I listen to her testimony. There must be an unexpected emotion here somewhere! When you find an unexpected emotion... touch "Pinpoint" (L)... and then select the unexpected emotion from the four mood markers.
+Phoenix:
+You were happy when Mr. Justice rescued you, weren't you?
+Woods:
+Yes... I was happy and relieved.
+Phoenix:
+But was there also something you felt sad about at the same time?
+Woods:
+Sad?
+Phoenix:
+The reason I ask is... when you were describing how you were rescued, we sense a little sadness, too.
+Woods:
+......Oh! I think it was probably because of Bum Rap Rhiny.
+Phoenix:
+Bum Rap Rhiny? (Well, what do you know? Something new!)
+Woods:
+That's right. I... I brought my stuffed animal, Bum Rap Rhiny, to watch the trial with me. Bum Rap Rhiny and Phony Phanty are brothers.
+Phoenix:
+(Don't tell me those things are part of some kind of "collectible" craze...)
+Woods:
+I had Bum Rap Rhiny with me while I was watching the trial... But it wasn't until Apollo saved me that I realized I'd lost him as I was running away... My poor Rhiny! A victim of that terrible bomb!
+Athena:
+Mr. Wright! I don't sense any discord in Junie's voice anymore! I think we managed to draw out all of her testimony!
+Woods:
+Oh, I know! You can see what he looks like in this poster! This little guy is Bum Rap Rhiny.
+Phoenix:
+(Say, that tail looks mighty familiar... Aha! It's all starting to make sense now!) Your Honor! The defendant has just made a very important new statement! I assert that the existence of this "Bump Rap Rhiny" negates the prosecution's evidence!
+Judge:
+Wh-What's this?!
+Phoenix:
+(Well, it might've taken a little longer than ten minutes... but it looks like I'm taking you out after all, Payne.)
+Judge:
+I'm afraid I don't follow, Mr. Wright. Perhaps you could clarify your assertion for us. Which of the prosecution's pieces of evidence does the existence of Bum Rap Rhiny negate?
+Present Phony Phanty Tail
+Phoenix:
+Leads to:
+"Ms. Woods, I know this trial has been very hard for you."
+Present anywhere else
+Phoenix:
+Phoenix:
+Your Honor! Please have a look at this evidence!
+Judge:
+I'm having a look, but I fail to understand what I'm supposed to be seeing.
+Payne:
+The defendant's testimony negates the prosecution's claims about this evidence! ...Um, doesn't it?
+Judge:
+What are you asking me for?! If your next question is "Am I going to get a penalty?" the answer is "Yes."
+Phoenix:
+(Urk... But I actually wasn't going to ask that question... Guess I'd better rethink this.)
+Leads back to:
+"I'm afraid I don't follow, Mr. Wright. Perhaps you could clarify your assertion for us."
+Phoenix:
+Ms. Woods, I know this trial has been very hard for you. But you can relax now. You are, without a doubt, innocent.
+Judge:
+Mr. Wright! What wild assertion are you making now?!
+Phoenix:
+My "wild assertion" is simply this: the two stuffed animals were mixed up. The tail the defendant's fingerprints were found on wasn't that of Phony Phanty. It was the tail of her gallery companion, Bum Rap Rhiny!
+Payne:
+WHAAAAAAAAAAAT?!
+Athena:
+You did it! You did it, Mr. Wright! You turned it right around!
+Phoenix:
+It's too early to celebrate, Athena. We still have a long road of refuting ahead of us!
+Athena:
+Oh. *ahem* Right, Mr. Wright. But I just know we'll win this thing for Junie! We'll crush anyone who even doubts her innocence!
+Phoenix:
+Let's get Ms. Woods that not guilty verdict together, you and me! (And reclaim the legendary title of "Ace Attorney"!)
+Presenting wrong evidence during testimony
+Phoenix:
+Judge:
+...... Do you have something you wish to say about this piece of evidence, Mr. Wright?
+Phoenix:
+Well, it clearly contradicts the statement... er, doesn't it?
+Judge:
+I'm afraid I don't see any particular contradictions.
+Phoenix:
+(Whoops! I got it wrong.)
+Judge:
+That's a penalty for you!
+Phoenix:
+...Urk!
+Athena:
+I think you'd better start over from scratch, Mr. Wright. I just get the feeling that's the wrong evidence AND the wrong statement.
+Phoenix:
+Maybe you're right. I think the last statement is the one we'd better concentrate on.
+Athena:
+And I think the Stuffed Animal Bomb is the evidence we need to look at!
+Phoenix:
+(Okay. The last statement and the Stuffed Animal Bomb, huh?)
+Presenting wrong evidence in correct statement during testimony
+Phoenix:
+Phoenix:
+The witness's statement clearly contradicts this piece of evidence, Your Honor!
+Judge:
+...... And what exactly about the testimony is inconsistent with that?
+Phoenix:
+............ I apologize, Your Honor. May I please try again?
+Judge:
+Oh, by all means! But I'm afraid I will have to penalize you first, Mr. Wright.
+Phoenix:
+Ouch. (Guess I should've seen that one coming.)
+Athena:
+But I agree there's definitely something off about this statement.
+Phoenix:
+Hmm. Wonder if I presented the wrong piece of evidence?
+Athena:
+I bet that's it! Why don't you take another look through the Court Record? There must be something in there that contradicts the statement: "I saw that the bomb's timer was counting down."
+Presenting correct evidence in wrong statement during testimony
+Phoenix:
+Phoenix:
+There's something odd about the witness's statement! And this is the evidence that proves it!
+Judge:
+...... I'm sorry, Mr. Wright... but the only thing I find "odd" here is your objection.
+Phoenix:
+(That didn't go so well...)
+Athena:
+I just don't understand it. I was sure that the correct evidence to present was this Stuffed Animal Bomb.
+Phoenix:
+Hmm. I guess I presented it at the wrong statement.
+Athena:
+I bet that's it! Why don't we take a good look at the other statements? There must be a statement in the testimony that contradicts the Stuffed Animal Bomb!
+Pinpointing wrong emotion during mood matrix
+Phoenix:
+Got it!
+Phoenix:
+Ms. Woods, you probably aren't aware of this yourself... but there is a contradiction between your testimony and your emotions.
+Woods:
+Huh? What do you mean by that?
+Phoenix:
+When we view your emotions alongside your testimony, we find the unexpected emotion-- (Wait a minute... there really isn't anything strange here.)
+Athena:
+I don't know, but I think maybe we made a mistake, Mr. Wright...
+Phoenix:
+......I think maybe you're right.
+Athena:
+Let's take another look! There must be an unexpected emotion here somewhere!
+Too many penalties (Ted Tonate)
+Judge:
+That's enough! I see no need to further prolong this cross-examination.
+Phoenix:
+(But I still have so much more to get out of him!)
+Judge:
+I declare this cross-examination over!
+GAME OVERTry again from where the trial ended?
+Too many penalties (Juniper Woods)
+Judge:
+That's enough! I see no need to hear further argument in this case.
+Phoenix:
+(B-But... Your Honor...!)
+Judge:
+This concludes the trial of Ms. Juniper Woods!
+GAME OVERTry again from where the trial ended?

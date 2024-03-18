@@ -1,0 +1,8 @@
+This folder contains the html pages for all of the Transcripts from the Ace Attorney fandom page.
+(https://aceattorney.fandom.com/wiki/Category:Transcripts)
+
+I (Reece Cullen) retrieved them using the webfile scraper found here (modified from a file written by Dr. Beshero-Bondar of Penn State Behrend.
+(File found here: https://github.com/rcc5418/CourtRecord/commit/e8b84e7bdd79642ced22c980a0c9edc4bdc7edc5)
+
+Note: Some straggler files have been pruned from this pasted folder. For an honest representation of everything pulled with the webfile scraper, see the corpus folder located in the VirtEnv folder (path from here: ../../VirtEnv/corpus).
+

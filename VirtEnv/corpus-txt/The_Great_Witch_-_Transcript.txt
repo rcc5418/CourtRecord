@@ -1,0 +1,4593 @@
+
+The Great Witch
+Transcript
+Chapter 3
+The Great Witch
+Waiting Hall
+Layton:
+...The Great Witch Bezella. The legendary witch from ancient times. She is the source of all evil, and the one who gives rise to all other witches. As long as the Great Witch Bezella is alive, there will always be witches in Labyrinthia. Apparently, that is the commonly held belief. Therefore, if Bezella were to be put to the fire, there would be no further need for these trials.
+Phoenix:
+In other words: no Bezella, no witches, right? But...how does all that implicate Espella?
+Layton:
+............
+Maya:
+By the way, Professor. You seem to know a lot about all this.
+Luke:
+The professor and I discovered a mural of the Great Witch Bezella in a room below the library... And it looked like it was painted a long time ago, that's for sure.
+Phoenix:
+You mean like a wall painting...of Bezella?
+Layton:
+Indeed. There were some historical remains hidden beneath the library. We found it there. At any rate, I'd very much like to investigate Bezella in greater detail. I'm afraid my knowledge extends no further than the legend known to the townspeople.
+Maya:
+In that case, I guess we have no choice but to ask Espella. Maybe she can tell us why she's accused of being Bezella...
+Phoenix:
+Well, yeah, but... Didn't they tell us we can't see her for a while?
+Maya:
+C'mon, we've never let that stop us before!
+Phoenix:
+Urgh... And that, Maya, is how we always end up in all sorts of trouble.
+Maya:
+Well, fine! Just leave it to me. It's nothing that a little sweet talking can't fix.
+Phoenix:
+Maya, I'm not so sure that's a good idea...
+Maya:
+Hey! Look, pal! We need to see Espella! It's a matter of life and death!
+Layton:
+I'm not sure I would qualify that as "sweet talk", but rather more of a full-on assault.
+Knight:
+Did you not hear what Inquisitor Barnham said? Espella Cantabella is currently undergoing questioning... And while that's taking place, no one is permitted entry.
+Maya:
+Can't you do something?!
+Knight:
+H-hey, keep it down, will you?! Orders are orders! No matter how many times you ask, the answer will still be no. Now be on your way, will you? Go on...go!
+Maya:
+...Access denied.
+Phoenix:
+That much is obvious, Maya...
+Luke:
+I can't believe Mr Barnham took Espella into custody just because of that outburst.
+Layton:
+That reminds me, something Inquisitor Barnham said has been bothering me... "It was not I who made the decision". ...I believe that's how he put it.
+Phoenix:
+Ah, yeah...that's right. So in other words... there's someone of higher authority than Inquisitor Barnham, huh.
+Maya:
+That's it! We'll just go and ask that person instead!
+Luke:
+But who in Labyrinthia could have more authority than Inquisitor Barnham?
+Maya:
+Well, I know how to find out. Let's ask around, Luke!
+Knight:
+Not you again... You don't give up, do you? Like I said before, you cannot see...
+Maya:
+Um, it's not Espella. There's someone else we'd like to see.
+Luke:
+That's right, we'd like you to take us to see the person ranked above Inquisitor Barnham.
+Knight:
+Above Inquisitor Barnham...? You...you're not telling me that you want to see the High Inquisitor?
+Luke:
+............! So they're called the High Inquisitor, then?
+Knight:
+What's this? Are you seriously suggesting that you don't even know of High Inquisitor Darklaw?
+Phoenix:
+High Inquisitor Darklaw?
+Maya:
+That's weird, I can't help but feel I've heard that name somewhere before.
+Layton:
+I'm sorry, but could you tell us where we can find that person?
+Knight:
+P-please, do me a favour and don't ask. She's not the sort of person you can just drop in and see, believe me!
+Luke:
+But there's something of importance we wish to discuss with her.
+Knight:
+You people really are fearless. Well, don't say I didn't warn you. To meet High Inquisitor Darklaw, you must go to the Inquisitors' Hall. Just be careful not to upset her.
+Layton:
+We understand. Thank you for your assistance.
+Luke:
+Is the High Inquisitor really so fearsome?
+Knight:
+Of course not! Not our High Inquisitor. She's wonderful, beautiful, intelligent... just a little strict. You don't have to go mentioning what I said about upsetting her, understood?
+Luke:
+Don't worry...you can rely on us...
+Maya:
+High Inquisitor...that title sounds really high up on the food chain, doesn't it?
+Luke:
+Apparently, if we go to the Inquisitors' Hall, we can see her there.
+Layton:
+Well, we won't achieve anything standing here. Let's go and see her.
+A new destination has been added to the map: Inquisitors' Hall.
+Examine
+Chained barrel
+You found a hint coin!
+Candles left of Witches' Court entrance
+You found a hint coin!
+Candles left of dungeon entrance
+You found a hint coin!
+Guard on left
+Knight:
+High Inquisitor Darklaw is in the Inquisitors' Hall. Even if you go there, I doubt she'll see you, though.
+Guard on right
+Phoenix:
+The guards are watching us. Or should I say, staring at us with an unspoken threat in their eyes.
+Layton:
+The doors to the courthouse are shut and guarded. We cannot gain entry now.
+Luke:
+These knights must have seen all the witch trials. Do they enjoy them or find them distressing?
+Chandelier
+Maya:
+So many candles, and yet it's so dark in here. Let's light some more!
+Luke:
+The ceiling may catch fire...
+Layton:
+This chandelier is very simple compared to the Great Archive's.
+Phoenix:
+You know...the candle maker must be the richest person in this town.
+Wooden bench
+Phoenix:
+An old wooden bench that many woodworms would call "home" if they could speak.
+Layton:
+Those awaiting trial sit here, on these uncomfortable, worn-out benches.
+Luke:
+Uhm, cheers, I'd rather stand. That bench is bristling with splinters.
+Maya:
+Maybe this bench is a torture tool? Shall we try it out on you, Nick?
+Exit on left
+Leads to:
+"Ah, I can see Inquisitor Barnham over there."
+Inquisitors' Hall
+Maya:
+Ah, I can see Inquisitor Barnham over there.
+Phoenix:
+Okay. Which means that woman standing next to him must be...
+Layton:
+High Inquisitor Darklaw.
+Luke:
+They look so...serious. It might be difficult to butt in. Perhaps we should wait until they've finished their conversation.
+Barnham:
+We have prepared for the questioning of Espella Cantabella. She's in the Deathknell Dungeon. Would you like to see her now?
+Darklaw:
+Barnham, I intend to leave the questioning of the girl to you.
+Barnham:
+B-but...if she is indeed the Great Witch, shouldn't the High Inquisitor be there?
+Darklaw:
+It is not necessary that I be present, and I have much faith in your abilities.
+Barnham:
+Understood. I will not let you down.
+Darklaw:
+I intend to visit the scene of the crime. You take care of things here while I'm away.
+Barnham:
+The scene of the crime? You mean...
+Darklaw:
+That's right. It's unlikely there are any clues left, though. Anyway, the questioning is yours, Barnham.
+Barnham:
+Yes, Milady.
+Luke:
+It looks like they've finished talking. Um...uh, Inquisitor Barnham!
+Barnham:
+............! You...how did you get in here?!
+Luke:
+S-sorry, sir, we didn't intend to eavesdrop.
+Maya:
+Uh...Inquisitor Barnham? There's something we'd like to ask you.
+Barnham:
+............ I've no time right now. You'd best leave.
+Maya:
+He's gone!
+Phoenix:
+(Gone to question Espella...)
+Layton:
+It would appear that we have to find what we need to know from the High Inquisitor.
+Examine
+Trio of mounted candles to right of Darklaw
+You found a hint coin!
+Miniature cabinet on right desk
+You found a hint coin!
+Dagger on bulletin board near left desk
+You found a hint coin!
+Darklaw
+Leads to:
+"So you are the High Inquisitor?"
+Zacharias Barnham's armor
+Phoenix:
+That's Barnham's armour. It makes quite an impression.
+Luke:
+It must be difficult to walk in heavy armour like that. And imagine the heat in summer!
+Layton:
+The armour and cape are made from the finest materials, far better than what regular knights wear.
+Drawing on bulletin board
+Phoenix:
+A drawing of someone's scary face. Barnham has a gift for caricatures.
+Maya:
+That's Inquisitor Darklaw! The picture looks like it's used for dagger-throwing practice.
+Luke:
+Uhm...I hope Mr Barnham and Miss Darklaw have a good work relationship...
+Cluster of papers on bulletin board
+Phoenix:
+So many memos. Magic crime is on the rise, from the looks of it.
+Luke:
+Does Mr Barnham really need all these notes? Maybe he's just a hoarder.
+Maya:
+Aww, a picture of smiling Barnham with his doggie! They look cute together.
+Quill on left desk
+Maya:
+Look at that! What a sweet quill stand! I want it!
+Phoenix:
+...It's cute. Wait, Maya, put it back where it was!
+Dumbbell on stack of papers
+Phoenix:
+Barnham uses a dumbbell as a paper weight. I guess it makes sense when you have that many papers...
+Luke:
+It's as if Mr Barnham wanted to say, "I've got a heavy workload today."
+Maya:
+I can picture him slowly making his way through all this while Darklaw stares at him from across the room.
+Outward side of left desk
+Phoenix:
+Does Barnham use his own desk to practise swordplay on? It's badly damaged.
+Maya:
+It's amazing...that this desk hasn't collapsed yet. It's full of cracks, and bits are chipped off.
+Layton:
+What a stark contrast with the tidy desk on the other side of the room. It reminds me of my own...
+Luke:
+All these notes and documents piled up on the desk... The inquisitors have a lot on their plates, too.
+Large statue of cloaked woman
+Maya:
+What a pretty lady...with a ruthless face and a scary sword ready to cut someone's head off...
+Layton:
+It may symbolise the inquisitors' harsh but just judgement.
+Luke:
+Labyrinthians seem to be fond of statues. They put them everywhere.
+Painting behind right desk
+Maya:
+A normal-looking painting. It feels like it doesn't belong here.
+Layton:
+It's a landscape painting of a house by the lake surrounded by beautiful red flowers.
+Luke:
+I wonder if it's a real place somewhere in Labyrinthia.
+Chair behind right desk
+Phoenix:
+It's the kind of chair you can sit in all night long and not fall asleep.
+Layton:
+The chair is elegant and of high quality, but not extravagant.
+Maya:
+Your comments are not half as smart as the professor's, Nick.
+Quill on right desk
+Luke:
+That's a splendid writing quill.
+Layton:
+Miss Darklaw is taking very good care of that quill. It looks as good as new.
+Layton:
+So you are the High Inquisitor?
+Darklaw:
+From the way you talk, one would think we had already met.
+Layton:
+I'm certain we have never met before. But I did have the opportunity of seeing you at the Storyteller's parade.
+Luke:
+That's right, Professor! During that parade, she was... standing right next to the Storyteller!
+Phoenix:
+The Storyteller... Isn't he the one who...err...
+Layton:
+He's known as "the Creator" in this town.
+Maya:
+So any person who gets to stand by his side has to be someone important, right?
+Darklaw:
+Did you all just come here to stand around speculating? If so, then there's a quiet cell in the dungeon which has just become vacant... You can speculate all you want in there.
+Layton:
+Just a moment, Miss Darklaw. We have come here to talk to you.
+Darklaw:
+Talk to me?
+Layton:
+That's right. It's about this trial... We'd like to ask you about it.
+Darklaw:
+Inquisitors do not make a habit of discussing the details of trials with just anyone.
+Layton:
+Just anyone? We...or in particular, he... acted as Espella's attorney. That is hardly "just anyone"...
+Phoenix:
+Uhh...that's me, all right! I'm Phoenix Wright, attorney at law.
+Darklaw:
+So...you're the one. You're the Knight of the Court who opposed Inquisitor Barnham, aren't you? I received a detailed report. Yes, indeed...most interesting. Hmm... So what would you like to know?
+Layton:
+(I should ask Darklaw about...)
+Espella
+Phoenix:
+Espella was proven innocent at the last trial. Despite that, she's now been accused of being Bezella, even though there's no decisive evidence to support that claim.
+Darklaw:
+Just a moment. Before we discuss that, there is one thing I need to make clear. While it's true that you acted as Espella's defender in the last trial, that does not necessarily mean to say you will be defending her again.
+Phoenix:
+Wh-what do you mean? Just because the trial is different, that doesn't change the fact that I'm her attorney!
+Darklaw:
+The charge against Espella Cantabella is of the gravest nature.
+Phoenix:
+You mean the charge that she's the Great Witch Bezella?
+Darklaw:
+What makes you think the accused wants you to defend her again?
+Phoenix:
+...!
+Maya:
+Does that mean that if Espella doesn't ask Nick to defend her again... then he can't request to be her defence attorney?
+Darklaw:
+Correct. The Great Witch Bezella is the source of all other witches. Her defender could, by their own words, place themselves in great danger.
+Luke:
+Knowing Espella's kind nature...I don't think she'd want to subject anyone to that risk! That's why she kept quiet earlier.
+Layton:
+............ However, Espella is, at this very moment, undergoing questioning, is she not? And there's a possibility that she may be cleared of the suspicion of being a witch.
+Luke:
+That's right! There can't possibly be evidence of Espella actually being a witch! So how could anyone prove she is?!
+Darklaw:
+Just how well do you people really think you know Espella?
+Luke:
+Eh?!
+Darklaw:
+On what grounds can you say that she's not a witch or that there's no evidence? I'd be glad to have you explain that to me.
+Maya:
+That's not...fair.
+Layton:
+............
+The Great Witch Bezella
+Layton:
+We are certainly not experts when it comes to the Great Witch Bezella. So could you perhaps tell us more about this particular witch?
+Darklaw:
+............
+Layton:
+To begin with, is the Great Witch not just a figure of legend?
+Darklaw:
+The Great Witch Bezella does exist. That is a fact accepted by all of the townsfolk. In the past, the Great Witch Bezella used her evil power to burn the entire town.
+Layton:
+Hmm...she burned the town...
+Luke:
+Professor, we saw that witch in the picture in the library. She was burning the town...
+Darklaw:
+If the Great Witch Bezella uses her powers, this town could burn again as it did long ago. We have to capture Bezella before that can happen.
+Maya:
+But there's no way Espella would ever do something like that!
+Phoenix:
+One thing I'd really like to know is... why Espella, of all people, is suspected of being Bezella.
+Darklaw:
+............ Of course, there is one reason...
+Phoenix:
+One reason?
+Why Espella is a suspect (appears after "Espella" and "The Great Witch Bezella")
+Leads to:
+"From what you've told us so far, it seems there's something about Espella that we do not yet know."
+Layton:
+From what you've told us so far, it seems there's something about Espella that we do not yet know. Something which makes the townsfolk, and you yourself, believe that she is the Great Witch Bezella.
+Phoenix:
+Could you tell us...what that reason is?
+Darklaw:
+That's something you will have to investigate. As the High Inquisitor, do you think it would be in my best interests to provide you with that information?
+Luke:
+Oh, please! If you could just tell us a little more!
+Darklaw:
+I don't have to tell you anything! If you really want to know, find out for yourselves.
+Maya:
+Then at least let us SEE Espella!
+Phoenix:
+So, Inquisitor Barnham is questioning Espella right now, is that right?
+Darklaw:
+Yes, he is. So seeing her tonight would be difficult. Try coming back tomorrow.
+Phoenix:
+Tomorrow... All right, fine. We'll try again tomorrow.
+Luke:
+That we will!
+Phoenix:
+............
+Darklaw:
+I hope you all realise how this will look to the people of this town, when they see you all supporting the person suspected of being the Great Witch Bezella.
+Phoenix:
+When it comes to rescuing Espella, I'm not worried about what people think.
+Layton:
+And I feel the same way as Mr Wright.
+Darklaw:
+...That is what I was hoping to hear. At the very least, you should investigate. And I pray I don't see disappointment in your eyes the next time we meet. Now, if you will excuse me...
+Maya:
+Hey, Nick. I was thinking... We've met her before, haven't we?
+Phoenix:
+Yeah, we have. In that trial back in England.
+Luke:
+Huh?! Then who on earth is she?
+Phoenix:
+I'm not entirely sure. But at that time she was a teacher from a boarding school for girls.
+Layton:
+Was she indeed? It would seem Labyrinthia is packed full of puzzles. And this is one puzzle that I would really like to solve.
+Luke:
+Okay then! Leave it to me. I'll give it my best shot! Uhm...where shall we begin?!
+Layton:
+While I appreciate your enthusiasm, Luke, I wonder if it might be better to first return to the bakery. Mrs Eclaire is no doubt worried about us. We should let her know the situation.
+Maya:
+Right! We need to tell her all about the trial.
+Phoenix:
+Argh...I have a feeling that's not going to go too well...
+Luke:
+I think you did very well, Mr Wright. I'm sure she'll understand.
+Maya:
+She's like a mother to Espella. She must be worried sick about her.
+Phoenix:
+Okay, everyone. Let's head back and tell her everything.
+Layton:
+............ How the court proceedings went, and the way the townspeople reacted... Espella, it would seem you do indeed have a secret...
+NEW MYSTERY
+High Inquisitor Darklaw
+The manner and speech of the mysterious woman accompanying Inquisitor Barnham allude to her high status. Mr Wright and Miss Fey seem to have heard of her. Who on earth could she be?
+Standing alongside the Storyteller during the parade indicates her high standing and the power she wields.
+Court Entrance
+Luke:
+Phew...I feel like it's been a while since we've been out here in the fresh air.
+Layton:
+Indeed. Shall we head back to the bakery? ...Hmm?
+???:
+Woof-woof! Woof!
+Maya:
+Yikes!
+Phoenix:
+Whoa! He's one frisky little puppy.
+Maya:
+He's a cute little guy, huh? You're just begging to be petted, aren't you, boy?! Good boy, good little doggy...
+???:
+Ruff, ruff...ruff, ruff, woof!
+Maya:
+See...see! Look, Nick, he's so happy he's showing his teeth, like he's smiling!
+Phoenix:
+I'm not so sure dogs show their teeth when they're happy...
+Maya:
+Don't be such a spoilsport. Come on, try petting him!
+???:
+Ruff-ruff...woof!
+Phoenix:
+All right...let me give this a shot. C'mon! Here boy!
+Luke:
+M-Mr Wright! Don't... Don't pet him!
+Phoenix:
+Huh...?
+???:
+Grrrrr... Wooof, wooof-wooof-ruff!
+Phoenix:
+Ah! Owwwww! Oooooh...
+Maya:
+I guess...even cute little puppies have a bite worse than their bark...
+Layton:
+Are you all right, Mr Wright?
+Luke:
+I tried to warn you...
+???:
+Woof-woof, ruff!
+Maya:
+Hmm...I guess you can't always judge a dog by its looks.
+Luke:
+He may look cute, but what he was saying wasn't cute at all.
+Maya:
+Wh-what do you mean... by what he was saying, Luke?
+Layton:
+That's right, Miss Fey. Luke can understand what animals are saying.
+Maya:
+WOOOOOOW! That's amazing! It's like...magic! Luke, you have magic powers just like the witches do!
+Luke:
+Umm...given the current circumstances... I'm not so sure that's a good thing!
+Maya:
+I wish I could talk to animals... I'd love to talk to a puppy! Or even to Espella's cat, Eve.
+Luke:
+That puppy's way of talking reminded me a lot of Inquisitor Barnham. He said something like: "I'll only say this once, Sir Blue Knight! I, Constantine, do not permit you to stroke me!" Or words to that effect...
+Maya:
+Hmm... So the dog's name is Constantine, huh?
+Layton:
+Hmm...perhaps that could have been Inquisitor Barnham's dog.
+Luke:
+I'm sure of it. He ran off in the direction of the Inquisitors' Hall. Maybe he's going to meet his master.
+Maya:
+That dog is just like his owner...constant. Constantly barking, constantly biting Nick... and constantly adorable!
+Luke:
+So, Maya, you mean you really believe in my ability?
+Maya:
+Trust me, Luke, when it comes to people and their special abilities, nothing surprises me. I have a few myself, you know... Okay then, let's get back to the bakery. Come on, Nick, let's go!
+Phoenix:
+Ah...I guess so. I think I've been bitten enough for one night... By dog...and by his owner.
+A new destination has been added to the map: Road to the Court.
+Examine
+Bushes at front left corner of building
+You found a hint coin!
+Crest on left spire
+You found a hint coin!
+Torch to right of right doorway
+You found a hint coin!
+Eight-pointed star above entrance
+Phoenix:
+The Witches' Court is like a cross-breed of a courthouse and an execution place.
+Maya:
+I wonder why it was built so far away from the rest of the town?
+Luke:
+This deep in the forest, no one can hear the screams of burning witches...
+Layton:
+However magnificent this courthouse looks, the trials that take place inside are an ugly matter.
+Crest on central spire
+Phoenix:
+Oh, another owl flew by.
+Luke:
+Professor, I saw another owl.
+Layton:
+Owls are nocturnal animals. This forest seems to sustain quite a large population.
+Inquisitors' Hall
+Examine
+Constantine
+Layton:
+This adorable pup is a courageous, loyal companion. He's wearing his armour with pride.
+Luke:
+Constantine is a smart dog. He only bites his master's rivals and enemies.
+Road to the Court
+Examine
+Tall grass fronds and flowers next to split path
+You found a hint coin!
+Six-pronged symbol on signpost
+You found a hint coin!
+Tall grass fronds between trees on right
+You found a hint coin!
+Tree foliage on right
+Layton:
+Hmm...? Did you see the leaves moving in that tree over there?
+Luke:
+Yes, I did. I wonder what it could be. Perhaps there's a bird up there. ............ ........................ Good grief!
+Muffet:
+Wah-dee-dah...fwoooooating down. Hu-hu...hu!
+Layton:
+I must say, this is a surprise! I didn't expect you to drop in like that.
+Luke:
+What were you doing up there in that tree?
+Muffet:
+Hu-hu...I can't tell you that. It's a maiden's secwet!
+Luke:
+I-is that so?
+Muffet:
+...Do you want to know why?
+Luke:
+Um...no, it's okay.
+Muffet:
+Well I suppose I can tell you anyway... I was searching for fwowers.
+Layton:
+You climbed up that tree to find flowers? You certainly are an active young lady.
+Muffet:
+I thought of a good way to appeal to the man of my dweams, you see. I'm going to cweate a fwower bouquet like ones the faiwies would make! ............ Am I head over heels?!
+Puzzle #24: Pretty PoseyFor more information, see the Professor Layton Wiki
+Picarats:
+30
+Notes:
+N/A
+Additional dialogue:
+N/A
+Muffet:
+If I give him a bouquet such as this... would he ever fall head over heels for me? Oh...I can't wait for the day when I can meet him again!
+Muffet (after solving puzzle)
+Muffet:
+Oh...I'm so looking forward to the day when I next see Inquisitor Barnham and hand over the bouquet!
+Tree foliage on far left
+Layton:
+It is very dark in there. It should not be dangerous, but we had better be careful.
+Maya:
+To think that a big forest like that's just outside the town!
+Luke:
+Do you think this forest is infested with witches?
+Stone lantern
+Phoenix:
+There's a sizeable candle inside. It can probably last all night.
+Layton:
+The stone lantern's design is quite to my liking.
+Luke:
+Who put that here? It totally doesn't match the style of anything else in this town.
+Maya:
+Pretty, huh? Now, try coming here at night on your own... The lone lantern would be a scary sight.
+Arrows on signpost
+Phoenix:
+The letters on the signpost are so worn out by the elements that it's almost impossible to read it.
+Luke:
+This way goes to the courthouse, that one to the shopping district... but what about the other one?
+Layton:
+Let's find out where that path leads some other time.
+North Parade Avenue
+Examine
+First floor windows in house on closer left
+Luke:
+It's bright here even after dusk.
+Layton:
+Perhaps the light helps dispel Labyrinthians' fear of the witches.
+Luke:
+Is it just my imagination, or are there fewer people around? Have they all gone home because of that story?
+Great Archive
+Luke:
+The opposite side is not very well lit, so it's hard to see anything from here.
+Layton:
+The Great Archive, towering above us against the dark skies, looks truly imposing.
+Luke:
+At night, it looks more like a place to test your courage at rather than read books.
+Third floor windows in house on closer right
+Layton:
+Unlike in the other parts of the town, buildings here are tall and magnificent.
+Luke:
+It looks quite posh.
+Layton:
+Many of the houses have shops on the ground floor and living quarters above.
+Phoenix:
+I can see why they chose to do the parade here. Just look at these fancy houses!
+Great Archive Entrance
+Examine
+Great Archive top floor
+Luke:
+It looks even taller when you see it up close! I can't even see the top!
+Layton:
+It requires a lot of architectural knowledge to construct a building of this size.
+Maya:
+Awesome. But looking up at it gave me neck pain. Nick, can you make it go away?
+Luke:
+It makes me feel giddy just looking up at it!
+Burnt roof
+Layton:
+This seems to be related to the mural we saw in the Great Archive cellar.
+Luke:
+The librarian said the fire was caused by a fire dragon summoned by Bezella, the Great Witch.
+Labyrinthian coat-of-arms flag on right
+Luke:
+Those symbols were in the Great Archive, too.
+Layton:
+These flags serve to constantly remind the townspeople that their creator is watching them.
+Luke:
+It's a bit unsettling, although I can't really say why.
+Archway on right
+Luke:
+Labyrinthia seems surrounded by cliffs and woods. In the distance there's nothing but fog.
+Layton:
+The fog is so thick, I can't see far.
+Maya:
+Huh? Did someone just say something? I was miles away...
+Luke:
+This place looks so mysterious, surrounded by the misty forest.
+Great Archive
+Examine
+Statues on either side
+Layton:
+There are two identical statues, one on each side.
+Luke:
+The statues portray people reading. Maybe that's supposed to motivate those who come here to read more.
+Phoenix:
+Maybe we should put a statue of someone eating bread in our bakery to boost sales.
+Area around left ladder
+Layton:
+This appears to be documentation on accidents and criminal cases.
+Phoenix:
+The professor would be itching to dig up any hidden puzzles buried in those books...
+Luke:
+There's nothing on magic or witches in here.
+Owl statue
+Layton:
+An owl statue. This is a frequently used motif in this town.
+Luke:
+Ah, that's right! The flags also have an owl symbol on them!
+Phoenix:
+Aztec tribes associated owls with witchcraft and evil...but I don't think that's the case here.
+Candle chandeliers on either side
+Luke:
+A candle chandelier. How do they light the candles?
+Layton:
+I would venture a guess that they light them from the second floor, with the aid of a long stick.
+Maya:
+Oh, I'd love to give it a try! Think they'll let me light it up?
+Luke:
+Reading by candlelight can ruin your eyesight.
+Special Viewing Room
+Examine
+Framed painting on left
+Luke:
+Oh, these colours and the brush strokes...this wasn't painted by some amateur!
+Layton:
+An abstract painting in soft colours. It reminds me of a meadow in spring.
+Luke:
+Huh? If you look at it from a distance, it resembles an animal.
+Maya:
+It looks kinda like a hippo...
+Cabinet behind Grand Grimoire
+Luke:
+It's locked. I can't even peek inside.
+Layton:
+A cabinet that cannot be opened... This smells like a puzzle to me.
+Maya:
+Something really important or valuable must be inside.
+Luke:
+It won't open no matter how much I push or pull. Maybe it's locked with a puzzle?
+Layton:
+Oh, it appears we could not open it simply because the door was not fitted properly.
+Painting in elliptical frame
+Layton:
+A lively picture of children playing.
+Luke:
+There's a woman in this picture. Is this someone famous in Labyrinthia?
+Layton:
+The author's signature is on the bottom. It seems to be a self-portrait.
+Maya:
+So this archive isn't only about books. There are some paintings, too.
+Candle chandelier
+Luke:
+It looks like candles are the only source of light at night in the Great Archive.
+Layton:
+The quiet Great Archive, bathed in warm candlelight, looks very peaceful.
+Maya:
+All these candles are making the room so hot. Isn't this a fire hazard?
+Luke:
+It looks very nice, but I wouldn't want to be the one who replaces all these candles when they burn out.
+W. Shopping Area
+Examine
+Streetlamp
+Layton:
+Few lights are on at night around here, giving this place a very different atmosphere.
+Luke:
+These are some fancy street lights. What's that burning inside?
+Layton:
+London street lights used to be powered by gas, but that is not the case here.
+Blacksmith vendor
+Luke:
+You can hear hammer strikes even at night.
+Layton:
+He may have received an urgent order. You can tell from the sound that he's very keen on the work.
+Luke:
+The town feels somewhat desolate at night, so seeing shops like this brightens up the mood a little.
+Maya:
+Oh, that's a super-cute helm! It would look awesome on the professor!
+Cobblestone path
+Luke:
+The middle of the road is paved with white cobblestones.
+Layton:
+These cobblestones surround the shopping district. This must be the main street.
+Luke:
+If you follow the white line, you won't get lost.
+Town Square Outskirts
+Examine
+Door on left building
+Luke:
+The windows are closed, but the first floor lights are on.
+Layton:
+Very few people are out and about at this hour. Streets empty out as night sets in.
+Luke:
+Witches found their way even into the professor's office! Doors and shutters won't keep them out.
+Fountain
+Layton:
+It's a water fountain. The water looks very clear. It may be suitable for drinking.
+Luke:
+There must be a spring somewhere nearby.
+Phoenix:
+Yeah... I used to draw water from this water fountain back in the olden days when I was a baker.
+Crates on left
+Layton:
+A pile of discarded wooden crates.
+Luke:
+They're just crates. Nothing to see.
+Maya:
+Time for a treasure hunt! Let's see what's inside these crates! Uhm... they're all empty...
+Town Centre
+Examine
+Knight-on-horseback statue
+Luke:
+The fountain looks marvellous illuminated by the lights.
+Layton:
+They don't seem to use electricity for light. There must be torches on the inside of the trough at the base.
+Luke:
+The statue has a different air about it at night.
+Top of barrel
+Luke:
+The cat that was here earlier has gone off somewhere.
+Layton:
+It might have gone for a patrol around its territory.
+Luke:
+Cats sleep so much during the day that they're full of energy at night.
+Shop billboard
+Layton:
+It doesn't seem to be open for business at night, either.
+Luke:
+The lights are on upstairs, but maybe the shopkeeper's unwell?
+Layton:
+We should put our time to better use than waiting for this shop to open. Let us go back.
+Main Street
+Examine
+Labyrinthian flag at top left
+Luke:
+I was staring at that flag for so long that I started to make out a face in the pattern...
+Layton:
+The coat of arms is unlike anything I have seen in books on the topic.
+Luke:
+Those flags are all over the place, so they've got to be important, I guess.
+Produce vendor
+Luke:
+The shop's closed. The owner must have gone home already.
+Layton:
+The shop staff may have just gone to purchase fresh produce.
+Gear vendor
+Layton:
+I am not averse to admiring implements of this sort.
+Luke:
+These things don't have anything to do with witches or magic.
+Layton:
+Archaeologists learn about ancient cultures by examining sundries like these.
+E. Shopping Area
+Patty:
+Phoenix! Maya! Why are you back so late! [sic]
+Maya:
+Uh...yeah, sorry we're so late. It's just that...
+Phoenix:
+Well...we, um... About Espella...
+Patty:
+Ha-ha-ha-ha... What are you two looking so glum about? I was so surprised!
+Phoenix:
+Huh...?
+Patty:
+Just how is it...that you could do such a brilliant job as a defender?! It was wonderful the way you proved Espella innocent. Thank you...from the bottom of my heart.
+Phoenix:
+Not at all...no need to thank me. After all, Espella is still...
+Patty:
+I know, Phoenix.
+Maya:
+Oh, were you...watching the trial?
+Patty:
+I certainly was, Maya. There's no reason for you to look so glum. The way you stood up to the inquisition... In all my life I've never seen anything like it! That outstretched arm... That pointing finger... It was truly a sight to behold, Phoenix!
+Phoenix:
+Boss...
+Patty:
+That's why I'm not at all worried.
+Phoenix:
+Huh...?
+Patty:
+Because I believe in you, Phoenix. And I know you'll rescue Espella again. You will rescue her, won't you?
+Phoenix:
+I will. I'll be there for her, no matter what! Right to the very end.
+Patty:
+Ha-ha-ha...that's a promise now, you hear? Now, then... You must both be tired after all you've been through. You must have a good rest! And that means you two gentlemen as well!
+Luke:
+Oh...do you mean us?
+Patty:
+Of course! Why, if it hadn't been for you two, Phoenix couldn't have done what he did.
+Layton:
+Thank you, madam.
+Patty:
+Perhaps I should bring out another extra large loaf for our young apprentice here!
+Luke:
+No! I mean, I'm fine...really... But thanks for the offer!
+Maya:
+Nick, we have to give it all we've got! For the boss' [sic] sake!
+Phoenix:
+You've got that right.
+Layton:
+It might be difficult to rest right after a trial like that. But tonight, perhaps we should all try to get a good rest, as Mrs Eclaire suggests.
+Phoenix:
+I agree, Professor. Tomorrow's a new day, after all.
+Luke:
+Let's go inside, then. If we don't take that rest, we won't be able to do our best tomorrow! I hope Espella is able to rest for tonight as well...
+Patty:
+............
+Examine
+Butcher
+Layton:
+There's a butcher next to the fishmonger. It's still open.
+Luke:
+Extended opening hours? That's convenient. Do you think they take pounds and pennies?
+Layton:
+I think we've all got a bit hungry. We seem to be noticing only food.
+Seafood vendor
+Luke:
+Ooooh! Phosphorescent anglerfish!
+Layton:
+And that would be octopus over there. It looks belligerent and ready to spray the potential buyer with ink.
+Luke:
+They've sold out of most of their products today.
+Empty trays on right
+Layton:
+This is the entrance to the bakery. Shall we go in?
+Luke:
+Let's stay the night here and resume our investigation tomorrow morning.
+Bakery
+Leads to:
+"Well then, let's all turn in for the night."
+Espella's Room
+Examine
+Roof window
+Layton:
+Calming moonlight is pouring into the room through the roof window.
+Luke:
+It must be very nice to lie down in bed with a view of the starry skies above!
+Bookshelf
+Luke:
+Thick volumes are lined up on the shelf.
+Layton:
+Labyrinthian books...interesting. I would like to read some when we have time.
+Luke:
+They're all very thick. It would take you some time to read them, Professor.
+Maya:
+They all have bor...difficult titles. I'm impressed by this...studiousness. Hey, is that a word?
+Jars of jam on right
+Layton:
+Jars with...jam, perhaps? They all have vibrant colours.
+Luke:
+They look scrumptious.
+Layton:
+I am sure this jam would be even more delicious on Mrs Eclaire's freshly baked bread.
+Phoenix:
+Oh, Espella's home-made jam! Of course I'd love to try some!
+Entrance
+Leads to:
+"Well then, let's all turn in for the night."
+Bakery
+Layton:
+Well then, let's all turn in for the night.
+Maya:
+............
+Luke:
+...Ah! Is that you, Maya?
+Maya:
+Hey, Luke. What's the matter? Can't sleep?
+Luke:
+I kind of woke up... But then, I guess you did too, right? You're worried about Espella, aren't you?
+Maya:
+Yeah...
+Luke:
+After all, you were living here together. She must be like a member of the family. But you and Mr Wright found yourselves here in Labyrinthia, just like me and the professor, didn't you?
+Maya:
+Seems that way... Even though we've supposedly been living here for five years now... But those memories... didn't exactly turn out to be real. I've got no idea how I even had that kind of memory in the first place... On top of that, even the boss seemed to have the exact same memory of us... She's done so much to take care of us. When I think about it, I can't help but feel like we were deceiving her, y'know?
+Luke:
+I don't think you have any reason to feel that way, Maya. It's not your fault that your memories have changed. And even if the memories are different, I'm sure your feelings for Mrs Eclaire and Espella are real.
+Maya:
+You're so right, Luke! Thanks, Luke! I feel way better now!
+Luke:
+Not at all...it's nothing.
+Maya:
+Aaaaaaall right! I'm gonna try real hard and get my beauty sleep! I'll be out faster than you can say "good night"!
+Luke:
+I'm not so sure beauty is achieved by sleeping, or that sleep is something you can try hard at, but I'm definitely ready to sleep! Um...Maya, did you just say something?
+Maya:
+Me? I didn't say anything...
+Luke:
+But I'm sure I heard something. Maybe it was from outside.
+Maya:
+I wonder what it was...? Let's go and have a look, Luke.
+E. Shopping Area
+Maya:
+Hey, isn't that Patty over there?
+Luke:
+It looks like she's searching for something.
+Patty:
+Eve... Coooeeeee... Eve! Goodness me, where could that cat have gone? She doesn't normally go wandering off at this time of the night... I suppose you're worried about Espella too, aren't you? ...Espella... I wonder what she's doing right now... Is she crying herself to sleep? Don't worry, Espella! You've got friends here, and we're going to make sure you come home to us safely! And when you do, we'll all sit down and have a nice dinner together!
+Maya:
+Boss...
+Luke:
+She's worrying so much about Espella... She looks so sad...
+Maya:
+She really does... This must be so hard for her. ............
+Luke:
+...Maya! I've got a great idea! Let's go and find Eve for her. If Eve still isn't back by the time Espella comes home... she'd miss her for sure! And Mrs Eclaire could relax a little too.
+Maya:
+Luke, you're a little genius! Let's go and find Eve for Espella and Patty! But I wonder where she could've gone?
+Luke:
+We'll probably find her quicker if we ask around a bit. Eve is easy to recognise. She looks quite distinctive and has that scarf around her neck. I'm sure someone must have seen her.
+Maya:
+Correction, you're not just a "little" genius, you're a super-mega-huge genius!
+Luke:
+It's nothing! I mean, I am the professor's apprentice!
+Maya:
+Let's get this show on the road. How about we start by looking around the town centre?
+Luke:
+Right you are, Maya! But we'd better take care, since we'll be in the streets at night. Don't worry though! If anything happens, you can rely on me! It's the job of every gentleman to protect a lady! Let's go, Maya!
+Maya:
+As the grown-up here, I can't help but feel it should be me who's doing the protecting...
+Examine
+Butcher
+Maya:
+Eve isn't at the butcher's.
+Luke:
+Maybe she went farther away. Let's check some other places.
+Seafood vendor
+Maya:
+Eve is so lucky to live next to the fishmonger!
+Luke:
+Eve's not here now. Where can she be?
+Empty trays on right
+Maya:
+I guess...we really weren't bakers.
+Luke:
+Mrs Eclaire looked very concerned. I'd like to help her out as much as possible.
+Bakery
+Examine
+Top shelf
+Maya:
+Oh, the bread I baked has sold!
+Luke:
+Yeah! It was somewhat misshaped and a bit burnt, but it didn't taste that bad, it seems!
+Maya:
+Luke, what matters is that you put your heart into baking those loaves, not how they turn out in the end!
+Wood oven
+Maya:
+Let's chuck in some more logs and see them burn!
+Luke:
+No, that's too much! The bakery will burn down if you stuff so much wood into the oven!
+Jar on right
+Maya:
+Nick brings the water from the well near the town square.
+Luke:
+There's not much water left in this one. Let's go get some more tomorrow morning.
+Espella's Room
+Examine
+Roof window
+Maya:
+Maybe Eve will just come back on her own?
+Luke:
+We should be looking for her, not hoping she'll just come back at some point!
+Bookshelf
+Maya:
+Maybe Eve is hiding behind the bookshelf?
+Luke:
+She's not there. She must have gone outside.
+Jars of jam on right
+Maya:
+I secretly had a few spoonfuls earlier. It's so rich and yummy!
+Luke:
+Why not sell your bread and jam together? That'd be an irresistible combo!
+Great Archive Entrance
+Examine
+Constantine
+Constantine:
+Woof, woof, ruff, ruff!
+Maya:
+Look, it's Constantine! I wonder what he's doing here this late...
+Constantine:
+Ruff, woof, woof, woof!
+Luke:
+It seems he's on his evening patrol. Looks like Constantine's a member of the order of knights too.
+Constantine:
+Ruff, ruff!
+Maya:
+Wow, really? So I guess that makes him a "Dog of the Order" then.
+Luke:
+Hmm...Dog of the Order...Order of the Dog, eye of the needle...knee of the idol... Constance of the Order!
+Maya:
+Hey, Luke!
+Luke:
+What is it, Maya?
+Maya:
+Why don't you ask Constantine if he's seen Eve?
+Luke:
+Right! Let's see what he's got to say. Hey, Constantine, what's up, boy? Have you seen Eve?
+Constantine:
+Ruff, ruff...grrr...
+Maya:
+I-I wonder what's wrong? He seems to be upset.
+Luke:
+Apparently Constantine doesn't like Eve.
+Constantine:
+Woof, woof, grrr...
+Luke:
+"What makes you think I have even the slightest interest in a feline like that?!" ...Is what he said.
+Maya:
+Feline...? I guess this must be a cats and dogs thing. Hey, Luke, ask him why he doesn't like Eve!
+Luke:
+Um...okay. But we're getting a little personal now...
+Constantine:
+Woof, woof, ruff! Ruff, woof, woof, woof, woof!
+Luke:
+"It's nothing to do with liking or disliking. I just have no interest in her, that's all!" ...Is how he put it.
+Maya:
+Well, I think Constantine actually likes Eve.
+Constantine (subsequent times)
+Constantine:
+Rrrrr...ruff!
+Luke:
+"I'm not patrolling to chase after some furry feline!" ...He says.
+Maya:
+Yeah? Well, I think it's just the mysterious male psyche at work here...
+Great Archive top floor
+Maya:
+Just imagine dropping a book from the top! It could kill someone! Especially a hardcover edition.
+Luke:
+Miss Maya, why do you always think about such horrible things...
+Burnt roof
+Luke:
+The librarian said the fire was caused by a fire dragon summoned by Bezella, the Great Witch.
+Labyrinthian coat-of-arms flag on right
+Luke:
+You get used to seeing it everywhere after a while.
+Maya:
+Maybe it's an occult symbol, with some hidden scary power!
+Archway on right
+Maya:
+Eve wouldn't have got this far, right?
+Luke:
+I don't think Eve would have gone all the way over there.
+Great Archive
+Examine
+Ridelle Mystere
+Ridelle:
+Well, good evening! What brings you here at this late hour? It's past our closing time, you know. We can't lend you any books, I'm afraid.
+Luke:
+No, no... We're not here to borrow books. We were just wondering if you've seen a black cat around here, by any chance...
+Ridelle:
+A black cat...? No, I'm afraid I've been working late here in the library.
+Maya:
+So you haven't seen her, huh? I wonder where Eve could have gone...
+Ridelle:
+If the cat is a pet, surely it will find its own way home.
+Luke:
+Yes, but we want to find her. Someone's feeling downhearted, and we're trying to help.
+Ridelle:
+How admirable. Well, I wish you both luck. But remember to take care...especially after that incident.
+Luke:
+Yes...yes, indeed.
+Ridelle:
+By the way... since you're here... Why not take a look at a puzzle or two before leaving?
+Leads to puzzle archival
+Ridelle Mystere (subsequent times)
+Ridelle:
+I'm afraid I haven't seen your black cat... but I have seen a lot of puzzles. Why not take a look at one or two before you go?
+Leads to puzzle archival
+Statues on either side
+Luke:
+They went to so much trouble to make these statues look identical. Amazing.
+Maya:
+Yeah, must've been hard to make them look the same! The bread I bake looks different every time!
+Area around left ladder
+Maya:
+That sure is a lot of books! Has anyone ever read them all?
+Double doors on second floor
+Luke:
+It's closed. The librarian must have locked the door.
+Owl statue
+Maya:
+Does the door under the owl statue lead to the Special Viewing Room?
+Luke:
+Unauthorised access is strictly forbidden!
+Candle chandeliers on either side
+Luke:
+The Great Archive deserves a great chandelier, I guess.
+Maya:
+Doesn't melting wax drip on the heads of people below?
+Road to the Court
+Examine
+Tree foliage on far left
+Maya:
+If Eve went into the forest, there's no way we can find her.
+Luke:
+I doubt she went there. Let's go back and look for her in the town.
+Stone lantern
+Luke:
+It stands there silently, in the middle of the forest.
+Maya:
+Eve wouldn't have crawled inside, would she?
+Arrows on signpost
+Luke:
+The path leads deep into the forest. I'd like to follow it with the professor one day and see where it goes.
+Maya:
+Yeah, I don't think Eve went that way. Let's go back to the town?
+Court Entrance
+Examine
+Eight-pointed star above entrance
+Maya:
+No way we're going to get in at this hour.
+Luke:
+Miss Maya, why don't we go back to the town for now?
+Crest on central spire
+Maya:
+Patty must be worried sick about Eve. Gotta find her quickly!
+Luke:
+Miss Maya, I don't think Eve would have come all the way here...
+Town Square Outskirts
+Examine
+Door on left building
+Maya:
+Hel-lo! Anyone home? Can I interest you in ordering freshly baked bread from the bakery?
+Luke:
+You're so business-minded, Miss Maya! But maybe you shouldn't yell under people's windows at night.
+Fountain
+Maya:
+I used to come here with Nick... He'd carry the water pots and I'd cheer him on.
+Crates on left
+Luke:
+Maya, don't you get those urges to open up all the boxes and see what's inside?
+Maya:
+Maybe we could build a cat fort for Eve with these crates and boxes!
+North Parade Avenue
+Examine
+Mailer
+Leads to:
+"Make way... Make way! Letters to be delivered!"
+First floor windows in house on closer left
+Maya:
+I always wanted to chill out at a trendy place like this.
+Luke:
+It looks pricey, but I guess we could step in for a bit, if you want to.
+Maya:
+Uhm, you're right, we'd need deeper pockets to be able to enjoy this place, anyway...
+Great Archive
+Maya:
+That's the Great Archive. Think it's a nice place to work at? Maybe I should apply.
+Luke:
+Dewey said it's paradise for book-lovers.
+Maya:
+Well, a bakery is paradise for bread-lovers!
+Third floor windows in house on closer right
+Maya:
+These tall buildings must be perfect for watching the parade! The view has to be stunning!
+Luke:
+Look at how wide the road is here. Maybe this area was designed especially for the parades.
+???:
+Make way... Make way! Letters to be delivered!
+Luke:
+Ah! Sorry!
+Mailer:
+Phew... Okay. Everything seems to be okay. ...Hmm? What is it?
+Luke:
+It's a little late in the evening to be delivering letters, isn't it?
+Mailer:
+Yes! Yes, it is. But I'm the only courier in this town. Which means I'm always busy! Even at this time of day!
+Maya:
+What? You're the only one? That must be tough...
+Mailer:
+So...what is it then? What can I do for you?
+Luke:
+Oh, right! Um, you haven't seen a black cat anywhere around here, by any chance?
+Mailer:
+Black...cat...hmm... ...Ah! Siiiiiiiirrr! I do believe I did! I saw it! The cat, I mean.
+Maya:
+Wait, really? That's great! Can you tell us about it?
+Mailer:
+Well, I could... But I'm wondering. Should I tell you for free...?
+Luke:
+Oh... Uhm, we don't have any money on us, if that's what you mean.
+Mailer:
+No, no. Not money. It's just, I'm kind of in a bind. I'm sort of not sure. About where to take the next letter, I mean. Do you think you could help me with it?
+Luke:
+If that's all that's troubling you, we'd be glad to help!
+Puzzle #25: Puppy Postal PatrolFor more information, see the Professor Layton Wiki
+Picarats:
+40
+Notes:
+No penalty for an incorrect submission
+Additional dialogue:
+N/A
+Mailer:
+Hey... That's amazing! Now I know where to go! Thanks!
+Luke:
+A puzzle like that is a piece of cake.
+Mailer:
+Now then. A promise is a promise! Let me tell you about that cat. Although... I, um... I didn't actually see it. The cat, I mean. I more heard it. Or rather, about it. The minstrel near the fountain was singing about a black cat.
+Luke:
+Near the fountain? That's in the town centre, isn't it!
+Mailer:
+Right! Well, time's ticking. Better get going. These won't deliver themselves, you know! The letters, I mean.
+Maya:
+Wow...that's a world-class sprint! Now THAT'S determination! C'mon, Luke! Put the pedal to the metal!
+Luke:
+H-hey, Maya...wait for me!
+W. Shopping Area
+Examine
+Price
+Leads to:
+"Um, excuse me."
+Streetlamp
+Maya:
+They are so dim. Are you sure they aren't using energy-saving light bulbs?
+Luke:
+We're not going to get ambushed by any witches, right? Not that I'm scared...
+Dry goods shop on left
+Maya:
+Eve may be sleeping, curled up in one of these pots!
+Luke:
+That's right. Cats love getting inside narrow spaces, like boxes or pots. I guess they feel cosy.
+Blacksmith vendor
+Luke:
+You seem to be really into helms, Miss Maya. I thought you could only get this enthusiastic about food...
+Maya:
+Well, they're the coolest headgear. Let's get one for the professor! He'll love it!
+Luke:
+Ugh, I don't think he will... Let's ask him first?
+Cobblestone path
+Maya:
+Stop looking down at your feet... Or you won't notice the world around you!
+Luke:
+But...we're looking for Eve, so we should keep our eyes on the road...
+Luke:
+Um, excuse me.
+Price:
+What is it, lad? You have something you wish to sell? It must be serious for a young fellow-my-lad like yourself to be visiting my shop at this hour.
+Maya:
+Um...what kind of store is this anyway? I only see a bunch of pots and junk here...
+Price:
+This is a pawnbroker's shop, madam. So, pray tell, what is it that you're selling?
+Luke:
+We're not exactly here on business... We're just looking for a cat.
+Maya:
+It's a cute black cat called Eve. You haven't seen her, have you?
+Price:
+A black cat, you say... I have a feeling I may have seen it, but then again... Uuuummm...
+Maya:
+Yes?
+Price:
+Um, it's no good. I felt I was about to remember for a moment there, but... I've got things on my mind and am finding it hard to concentrate, you see. If only I could solve this...
+Maya:
+Oh...are you talking about a puzzle? Becaaaaause I could totally solve it for you. ZVARRI! Just like that!
+Luke:
+I'll help too! Maya's still a newbie when it comes to solving puzzles.
+Maya:
+Okay, Luke. We can do this, can't we? ZVARRI! Just like that!
+Price:
+Then let's get to it, madam. Recently, the mice have been bothersome. I want to catch the mice that have been causing trouble in the shop and teach them a lesson!
+Puzzle #26: MousequeradeFor more information, see the Professor Layton Wiki
+Picarats:
+30
+Notes:
+Penalty for an incorrect submission
+Additional dialogue:
+N/A
+Price:
+Hehm... I didn't think you'd solve such a difficult puzzle so easily. I'm quite impressed!
+Maya:
+All right! That settles it then, I'm the professor's new apprentice!
+Luke:
+Ah, I think not! The professor has only one apprentice, and that's me!
+Price:
+So do you two want to talk about a cat, or don't you?
+Luke:
+O-of course we do. We'd very much like to hear about that cat. So, Mr Pawnbroker, what can you tell us?
+Price:
+Well, I haven't actually seen the cat. But I'm certain I overheard the minstrel near the fountain singing about a black cat.
+Luke:
+Near the fountain, got it! Thank you! We'll go and take a look there.
+Examine
+Price
+Price:
+This is a pawnbroker's shop. You two are perhaps a little young to be needing my services.
+Town Centre (after solving puzzle given by Price in W. Shopping Area or Mailer in North Parade Avenue)
+Examine
+Bardly
+Leads to:
+"Good evening, sir. There's something we'd like to ask you."
+Knight-on-horseback statue
+Maya:
+She's not in the fountain. I thought she could've gone for a swim...
+Luke:
+Cats generally hate water, but there may be some that do like it.
+Top of barrel
+Luke:
+A stray cat sleeps here during the day but disappears at night.
+Maya:
+Maybe it left because it found the ultimate barrel and this one just doesn't compare any more!
+Luke:
+If it was still here, I could have asked about Eve...
+Shop billboard
+Luke:
+Miss Maya, do you have any idea what kind of a shop this is?
+Maya:
+I vaguely remember someone telling me this is where all the bottle enthusiasts gather!
+Luke:
+Say again? Bottle enthusiasts? Uhm, that's...weird.
+Luke:
+Good evening, sir. There's something we'd like to ask you.
+Bardly:
+............
+Luke:
+What's the matter? You're a bit quiet this evening, aren't you?
+Bardly:
+............
+Maya:
+I wonder what's up...a sore throat, maybe?
+Bardly:
+C'est la vie, c'est la vie...
+Luke:
+C'est la vie?
+Bardly:
+I have no choice but to retire... C'est la vie!
+Maya:
+Yikes!
+Bardly:
+Alas, now a rival has up and appeared, So how can I sing when I'm so afeared?♪ A simple bard just cannot compete, With a rival that strong, he cannot be beat♪
+Luke:
+P-please calm down! What do you mean?
+Bardly:
+Hm? Ahem...
+Oh, that bard, with a parrot on his shoulder. Wrapped in colours, he couldn't be bolder♪ When he sings, it is with such grace, He draws the eyes of all in the place♪ This bardly bard named Bardly, No bird sits on his shoulder, Dressed so drably he can hardly...♪
+Compete with the bard who is bolder. *sigh*
+Luke:
+It would seem some amazing new rival has appeared.
+Bardly:
+............Woe is me...
+Maya:
+Well, for starters...you could try perking up a little.
+Bardly:
+...Perking up... I need some colour to cheer up my day... I need some colour to replace the grey...
+Luke:
+You need...colour?
+Bardly:
+For example, bright colours such as these!♪
+Puzzle #27: Stained GlassFor more information, see the Professor Layton Wiki
+Picarats:
+30
+Notes:
+N/A
+Additional dialogue:
+N/A
+Luke:
+Look at this, Mr Bardly! The colours are beautiful. Come on, cheer up! A minstrel isn't judged by appearances, he's judged by his songs. I'm certain that there are many people who love to hear your songs, Mr Bardly.
+Maya:
+Absolutely! I, for one, would love to hear more of your songs!
+Bardly:
+............Really?
+Maya:
+Yes, really!
+Bardly:
+............Really, truly?
+Luke:
+Yes, truly - really!
+Bardly:
+............
+Oh, yes, you're right! Now I feel reborn, There's no reason for me, To feel so forlorn!♪ I shall sing to my heart's content! Morn, noon and night, on and on and on! I won't give up without a fight!♪
+Maya:
+That's more like it! At least he's perked up enough to continue singing.
+Luke:
+Yeah, too right! That's a relief.
+Bardly:
+In return for the cheer that you did bring, Now, more than ever, I'll continue to sing♪
+Luke:
+You're very welcome!
+Maya:
+Still...it seems like there's another minstrel somewhere in town...
+Bardly:
+Oh, oh kindly duo, what could it be? What brings you to Bardly? What would you ask of me?♪
+Luke:
+Oh! I almost forgot! Mr Bardly, have you seen a black cat anywhere around here?
+Bardly:
+I've seen it, seen it, I've seen a black cat! Since you are asking, I'll sing about that♪ A beautiful black cat with fur so sleek, Chased and chased, ran to the main street♪ Three knights gave chase, but it didn't last, The cat got away, by running so fast♪
+Maya:
+That's it, Luke! Eve must've gone to the main street!
+Luke:
+Come on, Maya... Let's go that way!
+Maya:
+Yeah! He mentioned something about Eve being chased... We'd better hurry!
+Examine
+Bardly
+Bardly:
+A beautiful black cat with fur so sleek,
+Chased and chased, ran to the main street.
+Three knights gave chase, but it didn't last,
+The cat got away, by running so fast.
+Main Street
+Examine
+Conversing knights
+Leads to:
+"If we don't hurry up and find that cat, it'll get away from us."
+Labyrinthian flag at top left
+Maya:
+There's even a flag here! It's not looking very perky though.
+Luke:
+That's just because there's no wind right now.
+Produce vendor
+Maya:
+This shop's closed. We should've come during business hours.
+Luke:
+It's so late that the shopkeepers have already gone home.
+Gear vendor
+Luke:
+Stalls like these look more appealing at night rather than during the day.
+Maya:
+It's the ambience of a stall that makes a difference!
+Knight:
+If we don't hurry up and find that cat, it'll get away from us.
+Knight:
+Come on, give me a break. Just how long do you intend to chase after a cat?!
+Knight:
+If we don't get back to our posts, the captain's going to blow his top!
+Knight:
+Even so, I'm sure that cat was a stray. Surely it's part of the code of chivalry to rescue people and animals without distinction?
+Knight:
+But we've done nothing but chase it around. Sheesh, why did you have to be in our squad?
+Luke:
+Did you hear that, Maya? Those knights are talking about a cat!
+Maya:
+Yep, and I bet they're talking about Eve!
+Luke:
+Let's ask them! Um, excuse me, sir. We're looking for a black cat... and we overheard you talking about a cat.
+Maya:
+We're looking for a black cat wearing a purple neck scarf.
+Knight:
+Eh? A cat, you say? That must be...
+Knight:
+Hey, wait a minute! Aren't those two the ones... who gave Inquisitor Barnham such a hard time at the trial?
+Knight:
+Aha! These are the ones, all right. They were with that defender.
+Knight:
+What business could you possibly have with us? Be off with you! Or feel our wrath!
+Knight:
+I know nothing of this cat you seek.
+Luke:
+Eh? But I heard you... You were talking about chasing a cat.
+Maya:
+Yeah, I heard you too. You were worried about her escaping.
+Knight:
+E-even so, I don't know what I don't know and can't tell what I can't tell!
+Luke:
+Come on, just tell us! We need to find her.
+Knight:
+You can ask as much as you like... but we know nothing!
+Knight:
+Saw nothing!
+Knight:
+Heard nothing!
+Puzzle #28: An Evening StrollFor more information, see the Professor Layton Wiki
+Picarats:
+20
+Notes:
+Penalty for an incorrect submission
+Additional dialogue:
+N/A
+Knight:
+Seen nothing, heard nothing, know nothing! And we're not going to tell! ...Hmm?!
+Luke:
+We've worked out where Eve is, Maya! And you know where she's going, don't you?
+Maya:
+I sure do. It looks like she ran off toward the town square.
+Knight:
+Nooo! We didn't even tell you, how did you work it out? Did you read our minds?!
+Luke:
+No, the answer was in the puzzle!
+Maya:
+Say, shouldn't you be getting back before your captain goes ballistic?
+Knight:
+Touché!
+Maya:
+We're close to finding Eve, Luke!
+Luke:
+Right, let's go and find her before she goes running off somewhere else.
+Maya:
+Yeah! Hey, you know what? I could really get used to this whole puzzle-solving thing! You know, it's like the moment I saw the answer it just felt so right...and I was right!
+Luke:
+Hey, I was right too, you know?! Anyway, let's go!
+Town Square
+Luke:
+......... It's...it's you!
+Maya:
+High Inquisitor...Darklaw!
+Darklaw:
+......... Oh...if it isn't you two. Isn't it a bit late for you to be out here strolling around?
+Examine
+Darklaw
+Leads to:
+"Um...so what are you doing here, anyway?"
+Right bench
+Maya:
+Aren't you tired, Luke? Why don't we take a short break?
+Luke:
+I'm not a little boy! I can walk. And I'm not tired at all.
+Belfry
+Maya:
+A bell this large can probably be heard throughout the whole town.
+Luke:
+Do they ever ring it, though? Miss Maya, have you heard it?
+Maya:
+Uhm...nope. Maybe it's broken?
+Bell tower entrance
+Luke:
+I hope Eve didn't get inside.
+Maya:
+Even she wouldn't be able to sneak in unnoticed with those guards around.
+Luke:
+Um...so what are you doing here, anyway?
+Darklaw:
+.........
+Maya:
+You seem...a little different, somehow.
+Darklaw:
+Well, well... aren't you quite the inquisitive ones? I'm the inquisitor here, remember? Anyway, I happen to be on duty.
+Maya:
+On duty? This late at night?
+Darklaw:
+As long as there are witches in this town, there will always be crimes of magic. I'm directing the knights' enquiry into a certain incident involving this bell tower.
+Luke:
+A...certain incident?
+Darklaw:
+Three months ago, an alchemist residing not far from here was murdered. Naturally...it was at the hand of a witch.
+Luke:
+D-did you say an alchemist? A witch murdered an alchemist using magic? That's terrible.
+Darklaw:
+Indeed...it was a dreadful incident. And it is the only case to remain unsolved.
+Maya:
+The only incident to remain unsolved...
+Darklaw:
+That's the reason we are working on it through the night. Go home to the comfort of your beds... We wouldn't want you meeting a witch now, would we?
+Luke:
+Hey, I'm no child, you know?
+Maya:
+That's "we", Luke!
+Luke:
+We happen to be searching for a cat. It's a black cat called Eve.
+Darklaw:
+............Eve............?
+Maya:
+Hey...have you seen her?
+Darklaw:
+I have seen no sign of any cat. Not around here.
+Luke:
+O-oh...really?
+Maya:
+But...she has to be somewhere nearby. Come on, Luke, let's look around a bit more!
+Luke:
+Yeah...right you are, Maya! Well, thank you, High Inquisitor Darklaw.
+Darklaw:
+............ ...Maya Fey.
+Maya:
+Y-yes! What...what is it? Wait... That's weird... I don't remember telling you my name...
+Darklaw:
+There are witches in the most unlikely of places. You must remain vigilant.
+Maya:
+............! Wh-what did she mean by that?
+Luke:
+Hey, Maya! Over here! I've found Eve! What's the matter, come on!
+Maya:
+Um...yeah...okay...I'm coming!
+MYSTERY SOLVED
+High Inquisitor Darklaw
+She is the High Inquisitor and leader of the Inquisition. Her stance on witches and witchcraft is strict, as is her attitude towards her subordinates.
+Working alone relentlessly at night, she appears to embrace a hate for witches. As yet, I do not know why.
+Town Square Outskirts
+Eve:
+Meeow!
+Maya:
+Eve! We found you! Finally!
+Eve:
+Meeow!
+Luke:
+I'm so glad you're safe. Espella would be so upset if anything happened to you.
+Maya:
+She sure would, Luke. She said that Eve is "a real friend". Hopefully, the boss will feel better too when we get Eve back home.
+Luke:
+I'm sure she will. Come on then, let's go back to the bakery.
+Examine
+Crates on left
+Luke:
+Maya, don't you get those urges to open up all the boxes and see what's inside?
+Town Square
+Examine
+Belfry
+Luke:
+I keep thinking about the incident High Inquisitor Darklaw told us about.
+Bell tower entrance
+Maya:
+We've found Eve, mission complete. No need to check that area.
+Town Centre
+Examine
+Conversing knights
+Eve:
+Meeow!
+Knight:
+Ah! It's the black cat! Did you come back to see me? You're so cute, you sweet little pussycat. I'd like to stroke you.
+Eve:
+...Meeow!
+Knight:
+...Ah!
+Luke:
+I suggest you keep your hands...or should I say gauntlets, to yourself. Eve seems a little afraid of you.
+Knight:
+A little afraid? How would you know? Don't keep her all to yourself. Come on, let me stroke her too!
+Knight:
+Hey, will you cut that out already?!
+Knight:
+It looks like we may have to drag him back to his post...
+Knight:
+Aww, and just when I'd found the cat... No, no...I don't want to go back!
+Knight:
+Look, we know you love cute animals, but you're going a little too far.
+Knight:
+Seriously though, how can you even call yourself a knight? Why did you join up in the first place?
+Knight:
+I was sure there would be cute pets in the order of knights... You know, like Inquisitor Barnham's...
+Knight:
+So it was little Constantine that attracted you to the group?
+Maya:
+Hey, Luke. I think we should go, while the going is good.
+Luke:
+I think you're right, Maya... Before they decide to chase after Eve again.
+Eve:
+Meeow!
+Conversing knights (subsequent times)
+Maya:
+Hey, Luke. I think we should go, while the going is good.
+Luke:
+I think you're right, Maya... Before they decide to chase after Eve again.
+Eve:
+Meeow!
+Knight-on-horseback statue
+Luke:
+Eve the cat is drinking water greedily. She must have been parched.
+Top of barrel
+Maya:
+Looks like the barrel cat has quite an active nightlife.
+W. Shopping Area
+Examine
+Price
+Eve:
+Meeow.
+Price:
+Ho! That's a fine looking cat! A-ha! This must be the cat those three knights were searching for.
+Eve:
+Meeow.
+Price:
+Does this cat belong to you two?
+Luke:
+No...it belongs to Espella.
+Price:
+Oh, really? Espella's cat... It's not really for me to say, but I feel I must warn you both... Stay away from that girl. You do realise she's being held on suspicion of being the Great Witch Bezella? Of course I would never say it out loud, but I always suspected as much...
+Maya:
+Espella is not a witch!
+Luke:
+Yeah, no way is she a witch! Don't talk like it's a foregone conclusion!
+Price:
+I, uh...I'm sorry. You're right, of course. Although... it's not as unreasonable as you might think.
+Luke:
+Why is it that people suspect her so much?
+Price:
+Well...that's because... I'm afraid I cannot say! You should ask her yourself. Now then, I must be going...
+Maya:
+Why does everyone seem to fear Espella? What are they all so scared of?
+Luke:
+I wonder if Espella herself will be able to tell us...
+Price (subsequent times)
+Price:
+It's getting late, you know. Young boys and girls should be at home.
+Cobblestone path
+Maya:
+Stop looking down at your feet... Or you won't notice the world around you!
+Luke:
+We've found Eve, so let's hurry back to the bakery!
+North Parade Avenue
+Examine
+First floor windows in house on closer left
+Luke:
+Shops are still open, but I doubt they'd let us in with a cat.
+Great Archive Entrance
+Examine
+Constantine
+Eve:
+Meeow.
+Constantine:
+............! Ruff, ruff, woof, woof, grrrrr!
+Maya:
+Hey, Constantine sounds a little stressed!
+Luke:
+At this rate we're going to see a fight.
+Maya:
+Luke, can't you do something?!
+Luke:
+Okay...I'll try! Now listen up, you two! I have a proposition for you...
+Constantine:
+Grrrrrr!
+Eve:
+Meeow...
+Maya:
+Look, Luke! I think you've done it!
+Luke:
+Well, I got them both to agree to a suggestion of mine...
+Maya:
+A suggestion? What kind of suggestion?
+Luke:
+Well...a puzzle, of course!
+Maya:
+A puzzle?
+Luke:
+Yes, I thought that if we all worked on a puzzle together, they could become friends.
+Maya:
+Luke! That's genius! That just might work!
+Luke:
+I'm glad you think so! By the way, I need your cooperation too!
+Maya:
+Who...? Me...?!
+Luke:
+Of course you! This is one of those puzzles that needs everyone's input.
+Puzzle #29: Wagon Draggin'For more information, see the Professor Layton Wiki
+Picarats:
+25
+Notes:
+N/A
+Additional dialogue:
+N/A
+Luke:
+You see! The four of us working together were able to solve the puzzle.
+Maya:
+You were right, Luke! It was refreshing solving a puzzle together like that.
+Constantine:
+...Woof, ruff, ruff.
+Maya:
+Hey...Luke, what did he just say?
+Luke:
+"I suppose it won't do any harm to show a little more consideration to this feline." ...Is what he said.
+Maya:
+Hey, way to go, Constantine!
+Luke:
+Well, at least we seem to have relieved the tension a bit.
+Maya:
+You hear that, Eve? You've got to be nice to Constantine too.
+Eve:
+Meeow.
+Constantine (subsequent times)
+Constantine:
+Woof, woof...ruff!
+Luke:
+"You win. I can hold up my end of this... if it will really please you both so much." ...He said.
+Eve:
+Meeow.
+Constantine:
+Woof, woof.
+Maya:
+Oh, wow, I could've sworn Constantine's little bark had a little extra bounce in it just now. Now c'mon, you two... Try and get along with each other, got it?
+Eve:
+Meeow.
+Constantine:
+Woof.
+Archway on right
+Luke:
+It's pitch-black, as always. I can't see what's below.
+Great Archive
+Examine
+Ridelle Mystere
+Eve:
+Meeow.
+Ridelle:
+Hm...bringing a cat into the library is not something I encourage. You see, it might damage the books.
+Luke:
+S-sorry, but she's very well behaved.
+Ridelle:
+Well your cat does look very refined. It's obviously not just some stray cat you've picked up somewhere. However, I still ask that you take care. Cats can be temperamental, you know. Don't let her get playful with those claws. By the way... since you're here... Why don't you take a look at a puzzle or two before leaving?
+Leads to puzzle archival
+Ridelle Mystere (subsequent times)
+Ridelle:
+Cats can be very temperamental, you know. Please keep an eye on her at all times. I don't want her scratching the books. By the way... since you're here... Why don't you take a look at a puzzle or two before leaving?
+Leads to puzzle archival
+Area around left ladder
+Luke:
+There's nothing on magic or witches in here.
+Road to the Court
+Examine
+Tree foliage on far left
+Maya:
+I don't want to be here. It looks as if we might get ambushed by witches at any time!
+Stone lantern
+Maya:
+This place is spooky, and my expert opinion is that it's haunted. Let's go back...
+Arrows on signpost
+Luke:
+We've found Eve already, so let's head back to the bakery.
+Court Entrance
+Examine
+Crest on central spire
+Maya:
+All righty! We've got Eve now. At least that will help us cheer Espella up tomorrow!
+Luke:
+It's late and everyone's probably worried about us. Let's go back to the bakery.
+E. Shopping Area
+Maya:
+That took us longer than I thought it would. I wonder if everyone's asleep?
+Luke:
+It's getting close to daybreak. We should enter quietly and try not to wake anyone.
+Eve:
+Meeow.
+Bakery
+Patty:
+Where on earth could those two have gone? After what happened earlier, you'd think they'd know better than to go wandering out at night like this.
+Phoenix:
+It's getting bright out already. I'm starting to worry that they came across a witch...
+Layton:
+If they don't show up soon, I suggest we all go looking for them.
+Phoenix:
+After a trial like that...it makes me wonder where they get their energy from.
+Eve:
+Meeow.
+Patty:
+Oh, Eve! Where were you?
+Maya:
+Ah, good morning, everyone!
+Phoenix:
+What do you mean, "good morning"? Where have you two been this whole time?
+Maya:
+S-sorry... We didn't expect to be gone for so long.
+Layton:
+I'd have thought you'd know better, Luke. What were you doing out there at this hour?
+Luke:
+Sorry, Professor...we went looking for Eve.
+Layton:
+Looking for Eve, you say?
+Patty:
+You mean you were both concerned that Eve was missing?
+Maya:
+Well... When Espella comes home, she'll want Eve here to meet her, won't she? After all, Eve is like a member of the family.
+Patty:
+Oh, you dears... That's very considerate of you. Thank you. But, I want you to promise me that you won't go wandering around late at night like that again. It's just not safe, what with all those witches out there.
+Maya:
+We promise... I'm sorry, boss.
+Luke:
+I'm sorry too...
+Patty:
+I should say! It's nearly morning already. Why don't you both go and get yourselves cleaned up? I've already prepared breakfast. So jump to it!
+Maya:
+Yes, ma'am! Come to think of it, I'm so hungry I could eat one of Mary's goats! How about you, Luke?
+Luke:
+Now that you mention it... I'm definitely ready for breakfast!
+Phoenix:
+You certainly both love your food. Personally, I'd just like a little more sleep...
+Layton:
+Right then, let's eat breakfast and make our way to the court.
+Luke:
+Right you are, Professor! I'm sure Espella must be feeling lonely.
+Layton:
+Oh and, Mr Wright, could you perhaps take something from the bakery for her?
+Phoenix:
+You bet. I'm sure Espella will be glad to get some of Patty's freshly baked bread.
+Maya:
+Come on, what are you all waiting for?! Breakfast is ready!
+Phoenix:
+...All right, all right. We're coming...
+Layton:
+Well then, let's dig in.
+E. Shopping Area
+Layton:
+As it seems we are all ready to go, shall we make our way to the court? So does everyone remember how to get there?
+Phoenix:
+Sure...we just head east from here, and it's on the other side of the forest, isn't it?
+Maya:
+Boy, Espella must be feeling so sad and lonely. Let's get a move on!
+Luke:
+Let's go!
+Examine
+Mary
+Mary:
+Welcome, welcome. How about some fresh goat's milk from a freshly milked goat? Well, I'll be... If it isn't you lot! What a coincidence seeing you here.
+Luke:
+Hey, Miss Mary, I thought you were selling milk on the outskirts of the market...'
+Mary:
+That's right, I do. But not everyone can get to the market to buy their milk, child. That's why Snowy and I sometimes set up a stall in town like this.
+Layton:
+It must be hard having to do it right after the trial like this.
+Mary:
+We have to deliver the milk while it's still fresh, you see. There's no way we can go taking a break! Not only that, but we hardly feel like resting! Not after all of that excitement. We've never experienced a trial like that. Who would have thought that sweet flower seller, Kira, would turn out to be a witch? Such an innocent face, too. You'd never believe she could have done it! Don't you think so, my little Snowy-kins?
+Snowy:
+Baaa...
+Maya:
+At any rate, it was a real shock seeing an execution by fire...
+Mary:
+Maybe so.... But on the other hand, it couldn't be helped. After all, she was a witch!
+Maya:
+............
+Mary:
+Anyway, at times like this, a little puzzle can help to clear the air. Isn't that right, my little fluffy dumpling?
+Snowy:
+Baaa...
+Puzzle #30: Gabbin' GoatsFor more information, see the Professor Layton Wiki
+Picarats:
+50
+Notes:
+Penalty for an incorrect submission
+Additional dialogue:
+N/A
+Mary:
+What do you think? Doesn't it feel dreamy being surrounded by lovely bleating goats?
+Phoenix:
+I'll be seeing them in my dreams tonight for sure. I'll probably be counting goats instead of sheep...
+Luke:
+They certainly do look cute, don't they?
+Layton:
+Their cute appearance can be quite relaxing, if only you can block out their bleating.
+Mary (subsequent times)
+Mary:
+Fresh goat's milk, straight from the goat! Be quick, or we'll be sold out!
+Snowy:
+Baaa...
+Milk wagon
+Luke:
+Where do the wagons with milk come from?
+Layton:
+I haven't seen any cows or goats around here, but there may be a farm outside the town?
+Luke:
+Someone left their wagon unsupervised.
+Phoenix:
+The goat lady said that goats give little milk, so it's very expensive.
+Seafood vendor
+Luke:
+So many types of fish! Is there a river or a lake nearby?
+Layton:
+Interesting. I, too, wonder where they obtain so much fish from.
+Luke:
+The fish are very fresh. Some are still alive, in fact.
+Phoenix:
+Oh, a sly cat crouching in the shadows is getting ready to pounce on the fish.
+Bread on right
+Luke:
+Mmm...there's a delicious smell coming from the bakery.
+Layton:
+There is only one bakery in this area, it would seem.
+Luke:
+So many types of bread! Sweet, savoury...
+Maya:
+I arranged everything so nicely! It looks too awesome to be sold to unappreciative people!
+Main Street
+Examine
+Produce vendor
+Luke:
+They're selling fruit and veg. Good place to get your five-a-day.
+Layton:
+They also have fish on the other side. It's a grocery stall.
+Luke:
+The open market is much more fun than shops in the town centre.
+Town Centre
+Examine
+Knight-on-horseback statue
+Luke:
+It's a statue of a knight. We've got them in London, too.
+Layton:
+It is a magnificent statue. We can deduce from it that knights are very respected in this town.
+Maya:
+Knights, huh. They're like medieval police officers! ...With swords!
+Luke:
+The water's so pure and cold.
+Phoenix:
+Just how many knights are in this town?
+Sleeping cat
+Luke:
+It's comfortably asleep. Just like in our world, cats take it easy here.
+Layton:
+Cats used to be valued for catching mice. I wonder if they're kept here for the same reason?
+Maya:
+They say cats have nine lives. I wouldn't complain if I had a couple spare ones, myself.
+Luke:
+This kitty likes sitting on top of barrels.
+Layton:
+The cat seems determined not to get down unless someone makes it an offering of delicious fish.
+Shop billboard
+Layton:
+The shop sign looks very peculiar. What do they sell here, I wonder?
+Luke:
+The shop's not open yet. The door's locked.
+W. Shopping Area
+Examine
+Dry goods shop on left
+Layton:
+A sundries shop. Pots and vases of various sizes are lined up on display.
+Luke:
+I'm not sure if you could call it a sundries shop. It looks like they specialise in earthenware?
+Layton:
+Perhaps it is an antique shop. Although I am not sure if the concept exists here.
+Blacksmith vendor
+Luke:
+The wares he's peddling look pretty heavy. I can't believe he can walk carrying all that.
+Layton:
+He looks athletic, but what is physical strength compared to the power of witches?
+Luke:
+The trade with the knights seems to be flourishing.
+North Parade Avenue
+Examine
+Tarp on left
+Luke:
+It's a café. Why don't we pop in and take a short break from investigating?
+Layton:
+It is an expensive residential area, after all. Everything here looks very elegant and refined.
+Luke:
+It's so spacious and the sky seems so high.
+Great Archive
+Luke:
+Well, doesn't that look imposing? Who designed that building?
+Layton:
+An enormous book presides over this town, governed by a story...
+Luke:
+I didn't know that medieval people could build things on this scale.
+Maya:
+Maybe it's all full of books, piled up all the way to the ceiling!
+Great Archive Entrance
+Examine
+Labyrinthian coat-of-arms flag on right
+Layton:
+The symbol from the flag can be found throughout the town.
+Luke:
+It's an odd symbol. Maybe it's unique to this town.
+Layton:
+The quills seem to resemble the Storyteller.
+Maya:
+Maybe Nick should have a flag in his office, too. It might raise his image.
+Town Square Outskirts
+Examine
+Door on left building
+Layton:
+Hmm. The door and windows on the ground floor are shut. Could this be so for safety reasons?
+Luke:
+If this was my house, I'd keep the windows open during the day to let fresh air in.
+Phoenix:
+At least the windows on the second floor are wide open.
+Town Square
+Examine
+Right bench
+Luke:
+Look at that bench, Professor! Wouldn't it be nice to spend a whole day on it, reading in the sunshine?
+Layton:
+Luke, we are carrying out an investigation. This is not the time to be lazing about on a bench.
+Maya:
+Lush grass, a fine bench. Should I get my picnic set out?
+Belfry
+Layton:
+A single bell hangs in the belfry. Perhaps it is sounded on special occasions.
+Luke:
+That's one huge bell.
+Phoenix:
+I don't remember hearing that bell ring, somehow.
+Bell tower entrance
+Luke:
+Some knights are standing guard at the entrance. I guess we can't go in.
+Layton:
+It is plausible that the guards are there to make sure no one goes to ring the bell without permission.
+Phoenix:
+Maybe it's just me, but this belfry seems so ominous.
+Road to the Court
+Examine
+Tree foliage on far left
+Phoenix:
+It's so sunny. I feel sorry for Espella, imprisoned in a dark cell. We've got to get her out of there soon.
+Luke:
+The forest stretches ahead. I hope there are no snakes. I'm not good with snakes...
+Layton:
+The weather is so fine that it is hard to believe this town is threatened by witches.
+Maya:
+Good weather makes you optimistic, huh?
+Stone lantern
+Phoenix:
+That was lighting our way when we left the Witches' Court last night.
+Layton:
+Seen during the day, it has a very intriguing shape.
+Luke:
+It was hewn out of one stone, from the looks of it.
+Maya:
+I'm sure this lantern attracts a lot of moths and other insects at night. And ghosts.
+Arrows on signpost
+Phoenix:
+A signpost. Let's check later where this road leads to.
+Maya:
+The path disappears in the forest. Does anyone live there?
+Layton:
+The path splits in two directions. We can check where the other branch leads on another occasion.
+Court Entrance
+Maya:
+Coming back here makes me remember yesterday's trial.
+Luke:
+Espella's still being held somewhere inside the building.
+Phoenix:
+Yeah, and it's up to us to get her out as soon as we can.
+Layton:
+The first thing we should do is make sure we're allowed to see her.
+Knight:
+You there! Yes, you!
+Maya:
+Uh-oh! There's nothing like a confrontation first thing in the morning to keep you on your toes!
+Phoenix:
+Um...we're here to ah...you know... to, err...visit...our client.
+Knight:
+It's not you we're interested in...it's Dark Hat over there! He's to come with us immediately!
+Layton:
+...Who, sir, me, sir?
+Knight:
+Yes, sir, you, sir! What have you done this time?!
+Maya:
+P-Professor! Did you do something?!
+Layton:
+Hmm...I wonder what it could be. Luke, do you have any idea?
+Luke:
+P-Professor!
+Knight:
+Don't play innocent with us! The order came from the Storyteller himself! You have been personally summoned to the Audience Room to see the Storyteller!
+Layton:
+The Audience Room?
+Knight:
+Meeting the Storyteller in person is the highest honour that can be bestowed upon a person. There's no one in all of Labyrinthia who wouldn't be proud to meet him. That goes for us knights too, although such an honour is almost unheard of. Nevertheless, those were the orders... To have Hershel Layton make his way to the Audience Room.
+Layton:
+Very well. And in this Audience Room... the Storyteller will be waiting to see me, is that correct?
+Luke:
+Whaat?! Why does the Storyteller want to see you, Professor?!
+Maya:
+Yeah! What's going on here, anyway?!
+Layton:
+............ Would it be possible to go there after having seen Miss Cantabella?
+Knight:
+The Storyteller's order is of the absolute highest priority! Nothing can take precedence!
+Luke:
+B-but!
+Knight:
+Not only that, but in any event, you are not permitted to see the accused.
+Layton:
+Why would that be?
+Knight:
+Permission to see the accused is restricted to Defender Wright and his assistant. Those are the orders!
+Layton:
+............!
+Luke:
+What do you make of that, Professor?
+Layton:
+............
+Knight:
+Make of it what you will. Orders are orders!
+Layton:
+Very well. Let's go and meet the Storyteller.
+Knight:
+That's more like it.
+Phoenix:
+Professor, are you really planning on meeting with the Storyteller? It might be a trap...
+Layton:
+Hmm...while I do sense the potential for a scheme here, I'd be foolish to pass up the opportunity to meet with this town's "creator". There are rather too many things that I would like to ask him.
+Phoenix:
+I see...
+Luke:
+If the professor is going, then I'm going too! After all, I am the professor's apprentice!
+Maya:
+Be careful, Luke! I'm sure you'll be just fine, as long as you stay with the professor.
+Luke:
+I will, and please give Espella our best. Oh and, Maya, could you give Espella the bread from Mrs Eclaire?
+Maya:
+Sure thing, Luke!
+Knight:
+Well, if you've finally finished talking, I would suggest wasting no more time. You'll find the Audience Room beyond the guard post, east of the Great Archive. And, defender, you should see the accused.
+Layton:
+Well, it would seem we must go our separate ways for the time being.
+Phoenix:
+Yeah, it looks like it. Well, take care, Professor.
+Layton:
+And you, Mr Wright. I wish you both luck.
+Waiting Hall
+Maya:
+Well, there they go. Do you think they'll be okay?
+Phoenix:
+The professor and Luke? I think they can take care of themselves. Anyway, we should hurry up and talk to Espella.
+Maya:
+Right! Even though she tries to hide it, inside she must be terrified...
+Phoenix:
+What if she's found guilty of being a witch? What would we do then? Last night we saw with our own eyes what they do to witches.
+Maya:
+............ It's not right... Any world where things like that are allowed to happen isn't right!
+Phoenix:
+I know, Maya... But for now, we have no choice. We have to clear Espella of the charges. We need to focus on that and that alone.
+Maya:
+The Great Witch Bezella... I wonder why they suspect Espella of being her?
+Phoenix:
+I don't know... But if we're lucky, maybe she'll be able to shed some light on it.
+Knight:
+Hey, defender! It's time for you to see the accused.
+Maya:
+Well, this is it, Nick.
+Phoenix:
+It sure is. Let's go, Maya!
+A new destination has been added to the map: Deathknell Dungeon.
+Examine
+Guard on right
+Phoenix:
+We've got to find the Great Witch before the next parade. Let's go to talk to Espella first.
+Chandelier
+Maya:
+Get a move on, Nick! I want to see Espella!
+Wooden bench
+Phoenix:
+We'd better hurry up and go to the Deathknell Dungeon.
+Great Archive Entrance* (Some puzzles that are meant to be completed chronologically after visiting Espella (based on puzzle number) can be accessed at this point in the game.)
+Examine
+Allan
+Allan:
+...Hey, it's you two!
+Phoenix:
+Oh... Did you want to speak to us?
+Allan:
+I need to have a word with you both! Thanks to your turning courtroom procedure upside down, we're in a fine mess now! Finding a defendant INNOCENT is unprecedented in the history of the Witches' Court!
+Maya:
+What do you mean?! I'm pretty sure trying innocent people is more of a problem than your precious procedure!
+Allan:
+What are you...trying to say?! That girl...is being held on suspicion of being the Great Witch Bezella! Defending her only invites suspicion upon your own complicity!
+Phoenix:
+That's a false accusation.
+Maya:
+That's right! There's not a shred of evidence against Espella!
+Allan:
+Harrumph... No matter what you say, she is the most likely suspect! Anyway... If I stand around talking to you for too long, I'll invite suspicion upon myself! So from now on, I would appreciate it if you would keep your distance.
+Phoenix:
+(But...you're the one who approached us...)
+Allan:
+Harrumph...
+Allan (subsequent times)
+Allan:
+I won't talk to anyone whom I think might be supporting Bezella.
+Great Archive top floor
+Maya:
+Awesome. But looking up at it gave me neck pain. Nick, can you make it go away?
+Labyrinthian coat-of-arms flag on right
+Maya:
+Maybe Nick should have a flag in his office, too. It might raise his image.
+Archway on right
+Maya:
+Huh? Did someone just say something? I was miles away...
+Great Archive
+Examine
+Ridelle Mystere
+Ridelle:
+I know you... You're both acquaintances of the professor, aren't you? I was at the trial last night. I saw the whole thing.
+Phoenix:
+Oh, you were there too? I guess the witch trial really does get the townsfolk interested...
+Ridelle:
+Indeed... Especially last night...on account of the defendant being Espella Cantabella. But I must admit, you amazed me.
+Phoenix:
+I did?
+Ridelle:
+Very much. It was the first time I had ever seen a defender fight that way for his client. For example, the way you used the word "contradiction" in the courtroom... It worked almost like...magic.
+Maya:
+But that's only natural for a defence attorney...
+Ridelle:
+Until now, the defender was always defeated the moment they stood before Inquisitor Barnham. Not only that... But in this town, there's no one who wants to befriend a witch.
+Phoenix:
+Th-that's just not how a trial should be... That's not justice!
+Ridelle:
+I believe Professor Layton made the right decision giving you the Grand Grimoire. And from now on, I hope you will continue to fight for justice in court.
+Phoenix:
+All right, you've got it.
+Ridelle:
+Now then, this conversation has become rather heavy, don't you think? If it's okay with you, I have something to lighten the mood...
+Phoenix:
+Oh... Then that means...
+Ridelle:
+I have a repository of all the puzzles in Labyrinthia. If you come to me, you can tackle any puzzles you may have missed. As well as puzzles that you previously couldn't solve. Why not occasionally try a puzzle or two to keep your thinking flexible?
+Leads to puzzle archival
+Ridelle Mystere (subsequent times)
+Ridelle:
+I believe Professor Layton did the right thing when he gave you the Grand Grimoire. Please continue to fight as a just defender. Oh, and be sure to drop by for a look at some puzzles.
+Leads to puzzle archival
+Dewey
+Dewey:
+Oh...it makes me so mad...
+Phoenix:
+What's the problem?
+Dewey:
+It's my neighbour... He's got this really annoying habit.
+Maya:
+Annoying habit?
+Dewey:
+He just loves stomping around his place all the time. Thanks to him, all the books in my house are now a complete mess. Not to mention, I can't get any sleep!
+Phoenix:
+That does sound like a serious problem...
+Dewey:
+Can you even imagine how loud it is?
+Maya:
+Well, I...uh, not exactly...
+Dewey:
+That's what I thought. I knew you couldn't. So let me just reproduce it for you! You'll truly be amazed!
+Puzzle #38: Stomp on It!For more information, see the Professor Layton Wiki
+Picarats:
+40
+Notes:
+Can be solved in five moves
+Additional dialogue:
+N/A
+Dewey:
+So what did you think of that? Wasn't that stomping just ridiculous?! I've had enough already...
+Maya:
+Then why don't you just pack your things and move out?
+Dewey:
+Move out? Move...out... Hey, that's a great idea! I'll come and stay in the library instead! I could be of more help to Miss Mystere, and I'd be surrounded by all these books! This is the greatest idea ever!
+Ridelle:
+No, Dewey. I'm sorry, but I must insist that you leave and go home.
+Dewey:
+............
+Phoenix:
+Well, Maya... Let's just pretend like nothing ever happened and get going ourselves...
+Maya:
+Hmm... Sometimes life doesn't go quite the way you want it to, huh?
+Dewey (subsequent times)
+Dewey:
+He stomps so hard my entire house shakes! I don't even want to go home...
+Statues on either side
+Phoenix:
+Maybe we should put a statue of someone eating bread in our bakery to boost sales.
+Area around left ladder
+Phoenix:
+The professor would be itching to dig up any hidden puzzles buried in those books...
+Owl statue
+Phoenix:
+Aztec tribes associated owls with witchcraft and evil...but I don't think that's the case here.
+Candle chandeliers on either side
+Maya:
+Oh, I'd love to give it a try! Think they'll let me light it up?
+Town Centre
+Examine
+Knight-on-horseback statue
+Maya:
+Knights, huh. They're like medieval police officers! ...With swords!
+Phoenix:
+Just how many knights are in this town?
+Sleeping cat
+Maya:
+They say cats have nine lives. I wouldn't complain if I had a couple spare ones, myself.
+W. Shopping Area
+Examine
+Petal
+Petal:
+............
+Maya:
+What's the matter? Are you lost or something?
+Petal:
+...'Course not! How could I be lost?! You listen to me...
+Maya:
+...!
+Petal:
+Have you two seen a young boy about the same age as me?
+Phoenix:
+Hmm...nope, can't say we have. What's up? Did you get separated?
+Petal:
+Nuh-uh! We haven't been "separated"! More like he went and ran off somewhere on his own!
+Maya:
+Oh...I see. Well, if we see him, we'll bring him back here to you.
+Phoenix:
+That's right... He's probably a little worried as well.
+Petal:
+Who said I was worried?! Just that, you know Cecil... He's such a little weakling crybaby! He's probably crying his eyes out somewhere right now... That wimp can't do anything without me by his side! When he feels sick, he can't even go for medicine without me. So...
+Phoenix:
+I get it... It's only natural that you're worried about him. So his name's Cecil, right?
+Maya:
+Don't worry, we're on it! If we see a crybaby fitting that description, we'll give you a shout.
+Petal (subsequent times)
+Petal:
+Cecil... Why did that wuss have to run off like that?
+E. Shopping Area
+Examine
+Milk wagon
+Phoenix:
+The goat lady said that goats give little milk, so it's very expensive.
+Seafood vendor
+Phoenix:
+Oh, a sly cat crouching in the shadows is getting ready to pounce on the fish.
+Bread on right
+Maya:
+I arranged everything so nicely! It looks too awesome to be sold to unappreciative people!
+North Parade Avenue
+Examine
+Great Archive
+Maya:
+Maybe it's all full of books, piled up all the way to the ceiling!
+Third floor windows in house on closer right
+Phoenix:
+I can see why they chose to do the parade here. Just look at these fancy houses!
+Town Square Outskirts
+Examine
+Cecil (after examining Petal in W. Shopping Area)
+Cecil:
+Boo-hoo...boo-hoo! Waaaaah!
+Maya:
+Hey, Nick! That kid...he must be...
+Phoenix:
+Hey, you're right. He must be the one that little girl was searching for.
+Maya:
+Okay, let's talk to him then! Hi there, Cecil!
+Cecil:
+Boo-hoo! Wh-who are you?
+Maya:
+A moment ago we met a little girl who asked us to help her find a missing crybaby. ...You're Cecil, right?
+Cecil:
+My-my sister Petal said that?
+Phoenix:
+That's right, she's been worried about you.
+Cecil:
+............ P-Petal always tells me not to talk to strangers...
+Maya:
+What?
+Cecil:
+I mean, you might just grab me and take me off somewhere... You might even be...a witch!
+Phoenix:
+............ Well, in that case, there's nothing we can do. See you around, kid.
+Maya:
+Oh, come on, Nick! We promised his sister!
+Phoenix:
+Listen...if I'm going to be suspected of being a witch's accomplice... I'd rather just hand this kid over to one of the patrolling knights.
+Cecil:
+............ Um... Okay, okay! Please, could you solve this puzzle for me?
+Maya:
+Huh?
+Cecil:
+If you're the kind of people who can solve puzzles, I'll believe in you!
+Puzzle #39: Train TroubleFor more information, see the Professor Layton Wiki
+Picarats:
+40
+Notes:
+Penalty for an incorrect submission
+Additional dialogue:
+N/A
+Cecil:
+That's great! You two aren't strangers after all.
+Maya:
+Yeah! Of course we're not! I mean, do I look like some stranger?
+Cecil:
+Well, you don't look strange yourself... But those clothes you wear sure are weird!
+Maya:
+Urk...Nick... I think we should go.
+Phoenix:
+Maya...we can't give up now. After all, we just solved the puzzle.
+Maya:
+Okay, name one thing strange about my clothes! ONE!
+Phoenix:
+...I could give you a laundry list of things. Anyway, we'll go and get your sister... You just wait here for a while, okay?
+Cecil:
+O-okay!
+Petal:
+Oi, Cecil! Why'd ya let go of my hand and run off?!
+Cecil:
+I-I'm sorry, sis. I just... At least we're back together now, right? Ha ha ha...
+Petal:
+Pssh, so what?! I couldn't care less one way or the other! B-but anyway, from now on... Don'cha go running off like that, GOT IT?
+Cecil:
+Got it, sis!
+Maya:
+There you go, problem solved. It feels good helping people out like this!
+Phoenix:
+Even so, that was a tough puzzle... I was wondering if we'd ever actually solve it for a second there.
+Maya:
+Yeah, but we so have what it takes, Nick! I could see us going pro at this whole puzzle-solving thing. Just like the professor! If we get stuck on a case, we could always consider changing jobs!
+Phoenix:
+I'll think about it...
+Cecil and Petal (after solving puzzle)
+Cecil &amp; Petal (Petal):
+Hey, thanks for what you did there.
+Maya:
+No problem. You guys stick together now, you hear?
+Cecil &amp; Petal (Cecil):
+Right! I'll hold Petal's hand extra tight, just to be sure she doesn't go running off somewhere.
+Cecil &amp; Petal (Petal):
+Hey, you were the one who went missing!
+Cecil &amp; Petal (Cecil):
+...! Waaaaah! Boo-hoo! She hit meeeeee!
+Phoenix:
+...You two should try and stop arguing.
+Door on left building
+Phoenix:
+At least the windows on the second floor are wide open.
+Fountain
+Phoenix:
+Yeah... I used to draw water from this water fountain back in the olden days when I was a baker.
+Crates on left
+Maya:
+Time for a treasure hunt! Let's see what's inside these crates! Uhm... they're all empty...
+Town Square
+Examine
+Right bench
+Maya:
+Lush grass, a fine bench. Should I get my picnic set out?
+Belfry
+Phoenix:
+I don't remember hearing that bell ring, somehow.
+Bell tower entrance
+Phoenix:
+Maybe it's just me, but this belfry seems so ominous.
+Road to the Court
+Examine
+Tree foliage on far left
+Phoenix:
+It's so sunny. I feel sorry for Espella, imprisoned in a dark cell. We've got to get her out of there soon.
+Maya:
+Good weather makes you optimistic, huh?
+Stone lantern
+Phoenix:
+That was lighting our way when we left the Witches' Court last night.
+Maya:
+I'm sure this lantern attracts a lot of moths and other insects at night. And ghosts.
+Arrows on signpost
+Phoenix:
+A signpost. Let's check later where this road leads to.
+Maya:
+The path disappears in the forest. Does anyone live there?
+Court Entrance
+Examine
+Eight-pointed star above entrance
+Phoenix:
+The Witches' Court is like a cross-breed of a courthouse and an execution place.
+Maya:
+I wonder why it was built so far away from the rest of the town?
+Crest on central spire
+Phoenix:
+Oh, another owl flew by.
+Inquisitors' Hall
+Examine
+Zacharias Barnham's armor
+Phoenix:
+That's Barnham's armour. It makes quite an impression.
+Drawing on bulletin board
+Phoenix:
+A drawing of someone's scary face. Barnham has a gift for caricatures.
+Maya:
+That's Inquisitor Darklaw! The picture looks like it's used for dagger-throwing practice.
+Cluster of papers on bulletin board
+Phoenix:
+So many memos. Magic crime is on the rise, from the looks of it.
+Maya:
+Aww, a picture of smiling Barnham with his doggie! They look cute together.
+Dumbbell atop stack of papers
+Phoenix:
+Barnham uses a dumbbell as a paper weight. I guess it makes sense when you have that many papers...
+Maya:
+I can picture him slowly making his way through all this while Darklaw stares at him from across the room.
+Outward side of left desk
+Phoenix:
+Does Barnham use his own desk to practise swordplay on? It's badly damaged.
+Maya:
+It's amazing...that this desk hasn't collapsed yet. It's full of cracks, and bits are chipped off.
+Large statue of cloaked woman
+Maya:
+What a pretty lady...with a ruthless face and a scary sword ready to cut someone's head off...
+Painting behind right desk
+Maya:
+A normal-looking painting. It feels like it doesn't belong here.
+Chair behind right desk
+Phoenix:
+It's the kind of chair you can sit in all night long and not fall asleep.
+Maya:
+Your comments are not half as smart as the professor's, Nick.
+Deathknell Dungeon
+Examine
+Espella Cantabella
+Leads to:
+"............Ah."
+Mounted shackles
+Phoenix:
+I don't like the look of those chains on the wall.
+Maya:
+This place looks scary, Nick.
+Espella:
+............Ah. Mr Wright, Maya...
+Maya:
+Espella!
+Phoenix:
+So this is the Deathknell Dungeon... Looks more like solitary confinement to me.
+Espella:
+Don't worry, I'm fine...really. I was a little surprised at how hard the bed was, though...
+Phoenix:
+Espella...
+Maya:
+Oh, that's right! I have something for you here! The boss made it for you. Look, it's her special walnut bread. You should try it!
+Espella:
+Aunt Patty made that...for me? Thank you, Maya.
+Maya:
+We'll get you home soon, then we can all sit down and eat Patty's freshly baked bread together!
+Phoenix:
+Yeah...that would be nice. We're going to have you out of here soon, so don't you worry, Espella.
+Espella:
+............ But are you sure you want to do that?
+Maya:
+What are you talking about, Espella?
+Espella:
+Do you really want to continue defending me, Mr Wright?
+Phoenix:
+Wh-what?! Of course I do! What made you say that?!
+Espella:
+You do both know what I've been charged with, don't you?
+Maya:
+S-sure we do. They're accusing you of being Bezella... the source of all witches here in Labyrinthia.
+Espella:
+That's right... And anyone who defends such a suspect will also come under suspicion themselves. People are likely to criticise you and make you suffer...all on my account. I can't ask you to defend me... I don't want you suffering because of me!
+Phoenix:
+............ Listen to me, Espella. We're already suffering just seeing you here in this prison. Do you honestly think...we'd just stand around not doing anything?
+Espella:
+Mr Wright...
+Maya:
+Hey! I think I get it, Espella! I bet you're just worried that Nick will slip up the way he always does.
+Espella:
+...Huh?
+Maya:
+Trust me. There's nothing to worry about. The professor and Luke are on our side, too.
+Espella:
+Huh? No, no...that's not what I meant! I wouldn't think that at all. Mr Wright, you were...just amazing. You and Mr Layton, both... It was like you were working magic together!
+Phoenix:
+Well, that settles it then, Espella. And don't worry, we're going to be there for you - we'll fight to the very end. The two of us, the professor and Luke. We'll all be working together on this thing... We won't let you down!
+Espella:
+........................
+Maya:
+Wh-what's wrong, Espella?
+Espella:
+It's just that... the only one who's ever been this kind to me before is Aunt Patty... I...I don't know what to say...
+Phoenix:
+............ Espella...I'm not sure how to say this, but... It seems that the townsfolk are distancing themselves from you. It's as if they fear you for some reason.
+Espella:
+............
+Maya:
+Yeah...I can't believe they'd all think a cute girl like you could be the Great Witch.
+Espella:
+............
+Phoenix:
+Espella, we heard from High Inquisitor Darklaw... that there's a "reason" why people are so suspicious of you.
+Espella:
+............!
+Phoenix:
+If it's okay with you...we'd like you to tell us what that reason is. The reason the townsfolk suspect you... and why they are so distant.
+Espella:
+............ All right. I guess I never had the chance to explain properly.
+Maya:
+Eh?
+Espella:
+It's true that the townsfolk look at me... "differently". And the reason for that is... because I am...
+Great Archive Entrance
+Luke:
+Well, Professor, we've reached the library. And the place at which the Storyteller is waiting for us is east of here, isn't it?
+Layton:
+Indeed... According to the knight, the Audience Room is past the guard post.
+Luke:
+I wonder what the creator of Labyrinthia wants to talk to you about, Professor.
+Layton:
+It's too soon to assume anything, Luke. But whatever it might be, I have a few things that I would like to ask him, too. We should be thankful that this opportunity has come so soon. Even if it is part of some scheme...
+Luke:
+............ Let's go, Professor. To the Audience Room!
+A new destination has been added to the map: Guarded Gate.
+Examine
+Great Archive top floor
+Luke:
+Let's go meet the author of all these tomes!
+Labyrinthian coat-of-arms flag on right
+Layton:
+The Storyteller's flag. We will soon meet the Storyteller himself.
+Archway on right
+Luke:
+Labyrinthia seems surrounded by cliffs and woods. In the distance there's nothing but fog.
+Layton:
+The fog is so thick, I can't see far.
+Luke:
+This place looks so mysterious, surrounded by the misty forest.
+Great Archive
+Examine
+Ridelle Mystere
+Ridelle:
+Ah, Professor Layton. It's so good to see you again.
+Layton:
+The pleasure is all mine, Miss Mystere. By the way, I've noticed the puzzles in Labyrinthia are of the highest quality.
+Ridelle:
+It warms my heart to hear you say that, Professor. So then, would you like to see if there are any puzzles you've missed or attempt any puzzles you've put off? How about spending a moment or two with me, just to check some puzzles?
+Leads to puzzle archival
+Ridelle Mystere (subsequent times)
+Ridelle:
+When you want to tackle a puzzle you've missed or solve a puzzle that you previously put off, just come by and see me. So...would you like to solve a puzzle before you leave?
+Leads to puzzle archival
+Dewey
+Dewey:
+Ah, you're the gentleman from yesterday!
+Layton:
+Hello again, Dewey.
+Dewey:
+Hey, you even remembered my name! Say, are you always so calm and collected? Uh-oh... Ooooooooh!
+Layton:
+Please calm down, or you'll drop all those books.
+Dewey:
+Oh, oh... Whoa, whoa, whoa! Phew... I was really surprised when you borrowed the Grand Grimoire in the first place... But then to lend it to someone who works at a bakery!
+Luke:
+But the professor did get permission, so there's no problem, is there?
+Dewey:
+I guess not...
+Luke:
+And if not for the Grand Grimoire, an innocent person would have been found guilty already.
+Dewey:
+Well, I suppose so...
+Layton:
+In my opinion, Mr Wright should be well capable of completing Miss Mystere's trials himself. In fact, I'm quite certain of it.
+Dewey:
+I was really surprised watching him perform in yesterday's courtroom... Everyone in the town is talking about it. This is the first time we've ever seen a person accused of being a witch... be proven innocent in the court.
+Layton:
+Is that so?
+Luke:
+It makes me wonder if the people sent to the fire before now... really were all witches.
+Dewey:
+...! Don't talk like that! You can't go around saying things like that, or you'll have the knights after you!
+Luke:
+............
+Statues on either side
+Layton:
+There are two identical statues, one on each side.
+Luke:
+The statues portray people reading. Maybe that's supposed to motivate those who come here to read more.
+Area around left ladder
+Layton:
+This appears to be documentation on accidents and criminal cases.
+Luke:
+There's nothing on magic or witches in here.
+Owl statue
+Layton:
+An owl statue. This is a frequently used motif in this town.
+Luke:
+Ah, that's right! The flags also have an owl symbol on them!
+Candle chandeliers on either side
+Luke:
+A candle chandelier. How do they light the candles?
+Layton:
+I would venture a guess that they light them from the second floor, with the aid of a long stick.
+Luke:
+Reading by candlelight can ruin your eyesight.
+Special Viewing Room
+Examine
+Framed painting on left
+Luke:
+Oh, these colours and the brush strokes...this wasn't painted by some amateur!
+Layton:
+An abstract painting in soft colours. It reminds me of a meadow in spring.
+Luke:
+Huh? If you look at it from a distance, it resembles an animal.
+Cabinet behind Grand Grimoire
+Luke:
+It's locked. I can't even peek inside.
+Layton:
+A cabinet that cannot be opened... This smells like a puzzle to me.
+Luke:
+It won't open no matter how much I push or pull. Maybe it's locked with a puzzle?
+Layton:
+Oh, it appears we could not open it simply because the door was not fitted properly.
+Painting in elliptical frame
+Layton:
+A lively picture of children playing.
+Luke:
+There's a woman in this picture. Is this someone famous in Labyrinthia?
+Layton:
+The author's signature is on the bottom. It seems to be a self-portrait.
+Candle chandelier
+Luke:
+It looks like candles are the only source of light at night in the Great Archive.
+Layton:
+The quiet Great Archive, bathed in warm candlelight, looks very peaceful.
+Luke:
+It looks very nice, but I wouldn't want to be the one who replaces all these candles when they burn out.
+Main Street
+Examine
+Old Rootie
+Old Rootie:
+Hee, hee, hee... Are you two folks interested in hearing a rumour?
+Layton:
+A rumour, you say? Well, I suppose rumours can be a useful source of information... One can learn a lot about a place by simply talking to its people.
+Old Rootie:
+Hee hee! Sounds like you folks are after some juicy gossip, all right!
+Luke:
+What kind of rumour can you tell us?
+Old Rootie:
+Hee, hee... That's a silly question, youngster! It's not for me to choose the rumour... You two folks have to guess what it is!
+Luke:
+What do you mean?
+Old Rootie:
+Take a look at this! One, two... One, two... What's today's vegetable? Hee, hee! Why, it's a puzznip!
+Puzzle #31: Animal PensFor more information, see the Professor Layton Wiki
+Picarats:
+30
+Notes:
+N/A
+Additional dialogue:
+N/A
+Old Rootie:
+You folks must love your puzzles to have solved the puzznip. Hee, hee!
+Layton:
+What a charming thought, putting a puzzle into a turnip like that.
+Luke:
+She's certainly lively, isn't she, Professor? ...By the way, what about that rumour?
+Old Rootie (subsequent times)
+Old Rootie:
+No more puzznips today, I'm afraid. You folks should come again another day.
+Town Centre
+Examine
+Knight-on-horseback statue
+Luke:
+It's a statue of a knight. We've got them in London, too.
+Layton:
+It is a magnificent statue. We can deduce from it that knights are very respected in this town.
+Luke:
+The water's so pure and cold.
+Sleeping cat
+Luke:
+It's comfortably asleep. Just like in our world, cats take it easy here.
+Layton:
+Cats used to be valued for catching mice. I wonder if they're kept here for the same reason?
+Luke:
+This kitty likes sitting on top of barrels.
+Layton:
+The cat seems determined not to get down unless someone makes it an offering of delicious fish.
+E. Shopping Area
+Examine
+Milk wagon
+Luke:
+Where do the wagons with milk come from?
+Layton:
+I haven't seen any cows or goats around here, but there may be a farm outside the town?
+Luke:
+Someone left their wagon unsupervised.
+Seafood vendor
+Luke:
+So many types of fish! Is there a river or a lake nearby?
+Layton:
+Interesting. I, too, wonder where they obtain so much fish from.
+Luke:
+The fish are very fresh. Some are still alive, in fact.
+Bread on right
+Luke:
+Mmm...there's a delicious smell coming from the bakery.
+Layton:
+There is only one bakery in this area, it would seem.
+Luke:
+So many types of bread! Sweet, savoury...
+North Parade Avenue
+Examine
+Great Archive
+Luke:
+Well, doesn't that look imposing? Who designed that building?
+Layton:
+An enormous book presides over this town, governed by a story...
+Luke:
+I didn't know that medieval people could build things on this scale.
+Third floor windows in house on closer right
+Layton:
+Unlike in the other parts of the town, buildings here are tall and magnificent.
+Luke:
+It looks quite posh.
+Layton:
+Many of the houses have shops on the ground floor and living quarters above.
+Town Square Outskirts
+Examine
+Door on left building
+Layton:
+Hmm. The door and windows on the ground floor are shut. Could this be so for safety reasons?
+Luke:
+If this was my house, I'd keep the windows open during the day to let fresh air in.
+Fountain
+Layton:
+It's a water fountain. The water looks very clear. It may be suitable for drinking.
+Luke:
+There must be a spring somewhere nearby.
+Crates on left
+Layton:
+A pile of discarded wooden crates.
+Luke:
+They're just crates. Nothing to see.
+Town Square
+Examine
+Right bench
+Luke:
+Look at that bench, Professor! Wouldn't it be nice to spend a whole day on it, reading in the sunshine?
+Layton:
+Luke, we are carrying out an investigation. This is not the time to be lazing about on a bench.
+Belfry
+Layton:
+A single bell hangs in the belfry. Perhaps it is sounded on special occasions.
+Luke:
+That's one huge bell.
+Bell tower entrance
+Luke:
+Some knights are standing guard at the entrance. I guess we can't go in.
+Layton:
+It is plausible that the guards are there to make sure no one goes to ring the bell without permission.
+Road to the Court
+Examine
+Tree foliage on far left
+Luke:
+The forest stretches ahead. I hope there are no snakes. I'm not good with snakes...
+Layton:
+The weather is so fine that it is hard to believe this town is threatened by witches.
+Stone lantern
+Layton:
+Seen during the day, it has a very intriguing shape.
+Luke:
+It was hewn out of one stone, from the looks of it.
+Arrows on signpost
+Layton:
+The path splits in two directions. We can check where the other branch leads on another occasion.
+Court Entrance
+Examine
+Eight-pointed star above entrance
+Luke:
+This deep in the forest, no one can hear the screams of burning witches...
+Layton:
+However magnificent this courthouse looks, the trials that take place inside are an ugly matter.
+Crest on central spire
+Luke:
+Professor, I saw another owl.
+Layton:
+Owls are nocturnal animals. This forest seems to sustain quite a large population.
+Guarded Gate
+Examine
+Middle Labyrinthian coat-of-arms flag on left
+You found a hint coin!
+Knight statue on right
+You found a hint coin!
+Bushes on far right
+You found a hint coin!
+Guards on either side
+Leads to:
+"............Ah! Aren't you..."
+Left side of moat
+Layton:
+There is a current, so this moat has to be connected to a river or some other waterway.
+Luke:
+Oh, little fish are swimming over there! It's quite pretty for a moat.
+Layton:
+The water is very clean. I suppose there is a spring nearby.
+Gate
+Luke:
+Opening and closing that heavy gate behind every visitor must be a bother.
+Layton:
+The guards are very alert. We can be certain that this town's creator is nearby.
+Castle wall
+Luke:
+This area is guarded pretty tight. Maybe the knights are keeping an eye on us.
+Layton:
+Limiting the means of access to a bridge, supervised from the keeps, is a good way to keep intruders out.
+Luke:
+It feels like they're not only looking out for witches but trying to keep the townspeople out, too.
+Knight:
+............Ah! Aren't you... Hershel Layton, the Hatter?
+Layton:
+Well, I'm not a hatter... Although I certainly am Hershel Layton. I have been told that my presence is requested in the Audience Room.
+Knight:
+I've definitely heard something about that, but it's beyond me why...
+Layton:
+...?
+Knight:
+With all due respect, why would the Storyteller invite mere commoners to the Audience Room?
+Luke:
+Aren't people normally allowed to visit?
+Knight:
+Of course not! Both the Audience Room and the tower in which he resides are areas of strict surveillance. One does not simply... visit the Storyteller.
+Luke:
+Did you say...tower?
+Knight:
+The Storyteller's Tower, naturally. Don't tell me you've never heard of it! He only comes out of his tower to appear before the people in his parades. The Audience Room is where the Storyteller comes whenever there is a parade. We, the order of knights, provide his protection from this guard post! We feel honoured by his presence, even if he doesn't speak to us.
+Layton:
+I see... Then it would seem we are extremely privileged to have been invited here.
+Knight:
+Hurrumph, don't let it get to your head! Wait here while I open the gate.
+Luke:
+Come to think of it, during the parade... the Storyteller did seem to be held in high esteem by all the townsfolk.
+Layton:
+Indeed, Luke. After all, he is the author of this town's story. So he is effectively like some kind of god.
+Luke:
+Like...a god?
+Knight:
+Nooo! Someone tell me this isn't happening!
+Layton:
+............? There seems to be some commotion over there.
+Luke:
+It's that knight! He's coming back this way. And he doesn't look too happy...
+Knight:
+This is bad, really bad! What am I going to do?
+Layton:
+What's the matter?
+Knight:
+Well, actually, Dark Hat, the g-gate won't open! It's broken...and I can't fix it!
+Luke:
+So what happens now?!
+Knight:
+I wish I knew... Wh-what am I to do?! We need to do something... Can't keep the Storyteller waiting! If we do... there goes my career as a knight! Um...unless, aren't you two meant to be good at finding people?
+Layton:
+Finding...people? I wouldn't say we're particularly good...
+Knight:
+Don't say that, I need your help here! There is one knight who is able to fix the gates, but he's busy training with the other knights. I'd like to call him back here without disturbing the others... but in armour, they all look the same. The only way to identify him is to look for a knight with an unusually shaped sword.
+Layton:
+Unusually shaped sword? How interesting...
+Luke:
+Professor, doesn't that mean...
+Layton:
+Indeed, my boy. It means we can tackle this the way we would a puzzle.
+Knight:
+So...will you...find him?
+Layton:
+Okay, I'll see what I can do.
+Puzzle #32: Not Standard IssueFor more information, see the Professor Layton Wiki
+Picarats:
+25
+Notes:
+Penalty for an incorrect submission
+Additional dialogue:
+N/A
+Knight:
+Thanks to you, Sir Hatter, I've been able to have it repaired immediately.
+Layton:
+I'm glad you were able to fix it.
+Luke:
+A puzzle like that is a piece of cake for the professor!
+Knight:
+Hmm...as I suspected all along, you're certainly no ordinary gentleman. Sir Hatter, Hershel Layton, shall henceforth be allowed to pass through this gate freely.
+Layton:
+Thank you, kind sir.
+Knight:
+Please make your way to the Storyteller as swiftly as possible!
+A new destination has been added to the map: Knights' Garrison.
+Examine
+Guards on either side
+Knight:
+Usually, common townsfolk are not allowed through this gate. Only the knights are permitted to go beyond this guard post into the Storyteller's domain.
+Knights' Garrison
+Luke:
+Wow! No matter where I look, there are knights everywhere.
+Layton:
+Yes, indeed. The knights have their guard post on this side of the gate. Given the grandness of the scale, I imagine they are living here too.
+Luke:
+But I wonder exactly where around here we're supposed to meet the Storyteller... That knight said to go to the Audience Room, wherever that is... With a name as grand as "Audience Room", you'd think it would be easy to notice.
+Layton:
+Hmm... Luke, can you see the long flight of stairs over there? I think we should go and take a look.
+Luke:
+A flight of stairs? Ah...I see it! There's also a building over there. Looks rather stately... Do you think that's where the Audience Room is?
+Layton:
+Indeed, my boy. However, there seems to be something going on over there. And from the looks of things, I don't think we'll be able to just ignore it and stroll right by. At any rate, let's go and take a look.
+Examine
+Balcony on far left
+You found a hint coin!
+Statue left of flight of stairs
+You found a hint coin!
+Upright sword practice target hay bale
+You found a hint coin!
+Cutter
+Leads to:
+"How many times do I gotta tell you?"
+Knight on left
+Knight:
+Hmm... Hmm...hmm. Hmm...this is no good! It's been three days and three nights, but still I don't get it...
+Luke:
+What is it that you don't understand?
+Knight:
+Whoa! Don't frighten me like that! How long have you been there?
+Luke:
+We've been here for quite some time now...
+Knight:
+Hmm... Mmm... Well...I suppose I can tell you. See, I've been doing my mind training. Us knights must train...not just physically, but mentally too.
+Layton:
+Training of the mind? How delightful. As a gentleman, I always endeavour to keep my thinking flexible, too.
+Knight:
+Hmm...your comment exudes confidence! And if you are so self-assured, why not try solving this puzzle? This is a chess puzzle based on a brave fight between knights. The trouble is, no matter how hard I try, I can't defeat the black knight!
+Puzzle #34: Chess SkirmishFor more information, see the Professor Layton Wiki
+Picarats:
+20
+Notes:
+N/A
+Additional dialogue:
+N/A
+Knight:
+Whoa! You beat the black knight! If I can just remember how you did that... Hmm... Mmm... All right, now if I can beat him, he can keep guard of this area next week instead of me!
+Luke:
+Keep guard...
+Layton:
+instead [sic] of you?
+Knight:
+...! N-no! It's, um, purely for mind training, believe me!
+Luke:
+Sounds a little fishy to me...
+Knight on left (subsequent times)
+Knight:
+This kind of chess puzzle is becoming quite popular recently. But naturally, I do this for mind training, not just for the fun of it.
+Layton:
+Splendid. I wouldn't mind having a go myself one day.
+Spire at top left
+Luke:
+Ah, Professor! I think there are mice hiding up there!
+Layton:
+Take a closer look, Luke... You may notice that there are not only mice hiding there.
+Luke:
+Eh? Ah...I see what you mean, Professor! There's a hidden puzzle there, too! Just leave it to me, Professor! I can handle a puzzle like this, no problem!
+Layton:
+This puzzle might prove to be a little tricky. Take a deep breath and do your best! If you think it's too much for you right now, you can always select "Quit" and come back to it later.
+Luke:
+Right you are, Professor!
+Puzzle #35: Mouse MayhemFor more information, see the Professor Layton Wiki
+Picarats:
+25
+Notes:
+N/A
+Additional dialogue:
+N/A
+Chariot
+Luke:
+Professor! That's the Storyteller's chariot from the parade!
+Layton:
+So this is where it's parked when not in use.
+Luke:
+We need to save Miss Espella before the next parade...
+Sideways practice hay bale on right
+Luke:
+Enthusiastic shouts and clinking of metal can be heard from the other side. A training session?
+Layton:
+Seeing the knights practise has rekindled my passion for fencing. Perhaps I should join them.
+Luke:
+But aren't swords useless against witchcraft?
+Stable entrance on right
+Luke:
+Ooh, I can hear the horses in there! I'd like to chat with them.
+Layton:
+It's a big stable. It just shows how important horses are for getting around here in Labyrinthia.
+Luke:
+The horses are all in a good mood. They're neighing, "This hay's sooo good!"
+Cutter:
+How many times do I gotta tell you? I ain't this "suspicious guy" you're after!
+Captain:
+Hmm... And you expect us to believe you just because you say so, eh? You can save us all time and trouble here. Just admit your guilt and be done with it!
+Cutter:
+You gotta be kiddin' me! This is a false accusation! C'mon, why won't you listen to me? I admit my face might look a li'l scary, sure. But I'm tellin' yer straight... my pals are always sayin' there's no one with a purer heart than good old Cutter!
+Captain:
+Oh, spare me...we're getting nowhere here. Hey, knights!
+Knight:
+Yessir!
+Captain:
+Put this miserable wretch into solitary confinement!
+Knight:
+Yessir, Captain!
+Cutter:
+Oi, oi! What're ya doing?! I'm innocent... Innocent, I tell ya!
+Layton:
+You seem to have your hands full here. May I ask what happened?
+Captain:
+Hey, if it isn't you two! Do you mean to tell me you're the ones that the Storyteller has summoned?
+Luke:
+That's us, all right! So you can't go chasing us around the way you did before.
+Captain:
+Nnngh... Rats...
+Layton:
+By the way, Captain, what has that man been accused of?
+Captain:
+What has he done? He is guilty of carrying out a heinous crime of assault and theft!
+Cutter:
+How many times do I gotta say it? It weren't me...it's a FALSE ACCUSATION. I'm totally innocent!
+Captain:
+Silence! Who else could have done it?
+Layton:
+Hmm...could you tell me a little more about this?
+Captain:
+Well, I had a feeling you'd want to know... You seem to like poking your nose into other people's business. A series of thefts have been occurring in this town...and at the same time, a suspicious figure has been sighted. Now, I ask you, does this man not look suspicious to you? Clearly it has to be him!
+Cutter:
+You got it all wrong! I heard there was a thief in the area... That's why I teamed up with them townsfolk to keep a lookout for the blighter! And that ain't all! I even found a way to make sure every dang corner of the town was bein' watched. We placed ourselves in positions where we didn't obstruct one another's line of sight! Catch my drift? This suspicious figure you guys mentioned...there ain't no way that was me!
+Captain:
+So you're saying that you watched every part of the town, while at the same time avoiding overlapping each other's search? That's impossible. You committed the crimes and are lying to cover yourself!
+Layton:
+I wonder if you're perhaps mistaken... It might just be true. For example, if they positioned themselves like this...
+Puzzle #33: Street PatrolFor more information, see the Professor Layton Wiki
+Picarats:
+40
+Notes:
+N/A
+Additional dialogue:
+N/A
+Captain:
+Hmm... I would never have guessed such a solution could exist.
+Cutter:
+So d'ya believe me now?! I was tellin' the truth! The real culprit must still be on the loose, goin' around stealing stuff in broad daylight!
+Captain:
+Hmm... Men, it looks like we've no choice. Let him go. We'd better head back to the crime scene and go over it again with a fine-toothed comb.
+Knight:
+Yes, Captain!
+Layton:
+Well, I'm glad we were able to sort out the misunderstanding.
+Captain:
+I don't know who you two are, but you're a bit too sharp to be some regular townsfolk.
+Layton:
+Not at all, we're nothing so special. Just a couple of regular English gentlemen.
+Captain:
+Hmm...English, eh? So what is that, your title? Well, whatever it may be...it's not normal to be summoned directly by the Storyteller himself. It would appear that you are indeed something special... The Storyteller is in the Audience Room. I wouldn't keep him waiting if I were you! As for the Audience Room, it's in the building at the top of those stairs.
+Layton:
+That building up there...just as we thought. Thank you.
+Captain:
+Just mind your manners when in the presence of the Storyteller, you hear me? If I hear any sign of trouble... you'll regret it!
+Luke:
+W-we'll be on our best behaviour! So please keep your hand off your sword - you're scaring me!
+Layton:
+It just goes to show how highly the knights regard the Storyteller. Now then, let's move on, Luke.
+Luke:
+Right. Let's go, Professor!
+A new destination has been added to the map: Audience Rm. Entrance.
+Examine
+Cutter
+Cutter:
+You did it! You've saved my hide big time, fellas! I won't forget this, believe me! An' I'll tell you two this: my motto is to always return kindness from others! So if you two ever find yerselves in trouble, just gimme a shout and I'll be right there!
+Audience Rm. Entrance
+Luke:
+The Storyteller should be in here, right? I'm starting to feel a little nervous... ...Hmm, this area is totally deserted. All I can hear is the wind...
+Layton:
+It looks as if not even the knights are allowed to come up here.
+Luke:
+He really is treated almost like a god... I wonder what someone like that wants to talk to us about...
+Layton:
+............
+Examine
+Leftmost spire
+You found a hint coin!
+Area just above insignia
+You found a hint coin!
+Second-to-rightmost spire
+You found a hint coin!
+Doorway
+Leads to:
+"Huh? Professor...the door won't open!"
+Second-to-leftmost spire
+Layton:
+Hmm... What's this?
+Luke:
+What is it, Professor?
+Layton:
+Have a look at this, Luke. There's a puzzle concealed here. In a situation like this, perhaps solving a puzzle might help to relieve stress.
+Luke:
+I think you're right, Professor!
+Puzzle #37: Rotating Room 2For more information, see the Professor Layton Wiki
+Picarats:
+40
+Notes:
+N/A
+Additional dialogue:
+N/A
+Insignia
+Layton:
+It doesn't seem to be a trap.
+Luke:
+What if...once you're in, you can't get out?
+Layton:
+We should proceed with caution.
+Tall tower
+Layton:
+I can make out the outline of a tall building in the fog. This could be the tower the knights spoke of.
+Luke:
+It could rival a skyscraper! They didn't have buildings like that in the Middle Ages, surely.
+Luke:
+Huh? Professor...the door won't open! Helloooo! Is anybody there? ............ No reply.
+Layton:
+It appears there is no key hole... This is no ordinary lock mechanism.
+Luke:
+Inviting someone to visit you only to lock them out?! That's a bit rude!
+Layton:
+Just a moment, Luke...if you look closely, you'll see there's a puzzle built in there. I believe this may be a test, Luke. A test to determine whether we qualify for an audience with the Storyteller or not.
+Luke:
+Hmm...that's a bit off, isn't it? But when it comes to puzzles...we'll be glad to oblige, won't we, Professor?!
+Layton:
+Indeed, my boy. Let's show our mettle!
+Puzzle #36: Decipher the DoorFor more information, see the Professor Layton Wiki
+Picarats:
+40
+Notes:
+The puzzle can be solved in four moves, but this is not necessary to clear it.
+Additional dialogue:
+N/A
+Luke:
+We did it, Professor! That should open the door!
+Layton:
+It would seem that we have proven ourselves worthy...
+Luke:
+Labyrinthia's creator is waiting for us inside...
+Layton:
+The creator...of this town. I wonder what he intends to say.
+Luke:
+............
+Layton:
+Are you all right, Luke? I imagine you must be a little nervous.
+Luke:
+Wh-who, me? Well, to be honest...I suppose I am, just a little. But don't worry, Professor, I can do this! Let's go... Let's meet the Storyteller!
+Layton:
+Very well. Muster your courage - we're going in!
+Luke:
+Right you are, Professor!
+Anime cutscene
+Storyteller:
+...And thus, the guests finally made their appearance! I bid you welcome to Labyrinthia, the town governed by stories.
+Audience Room
+Storyteller:
+I've been waiting for you, Hershel Layton.
+Layton:
+I believe I should say, it is an honour. Mr Storyteller.
+Luke:
+You're the creator of Labyrinthia... But...why did you call the professor here?
+Storyteller:
+I have summoned you... so that I may ask you...why you are here.
+Layton:
+I beg your pardon?
+Luke:
+Wh-what are you talking about?!
+Storyteller:
+............ In writing the story, I provide everything... and in turn, take everything away. I give each person a story... and weave their intertwining webs of fate. However, it would appear that interlopers have found their way into the story. The two of you.
+Layton:
+............ You mean to say...that my presence here was not written in your story?
+Storyteller:
+...Precisely. And so, I must ask you...exactly how did you find your way into this world?
+Layton:
+In truth, we found ourselves here somewhat inadvertently. We were brought here by a book... A book called the Historia Labyrinthia.
+Storyteller:
+Hmm...
+Layton:
+I am led to believe it was you who wrote that book... Surely you cannot deny it.
+Storyteller:
+It would appear I have found it - the source of the corruption within my story.
+Luke:
+Corruption?
+Layton:
+In other words, you consider our presence to be a hindrance to your story, is that correct?
+Storyteller:
+Not only you... There was another man who tried to change the course of my story.
+Layton:
+...!
+Luke:
+You mean...Carmine Accidenti?
+Storyteller:
+Carmine... So, there is a connection between him and the two of you after all.
+Luke:
+Oops...
+Storyteller:
+Your presence here is, shall I say... a slight inconvenience. The story of Labyrinthia is about to take a turn towards its grand finale.
+Layton:
+...Grand finale?
+Storyteller:
+Indeed. A conclusion that requires a climax of epic proportions. The identity of the Great Witch Bezella is made public...she is tried in the court and finally...destroyed! At last, peace will be restored to the town... The final scenario is close at hand.
+Luke:
+Th-the identity of the Great Witch... Do you mean...?
+Layton:
+...!
+Deathknell Dungeon
+Espella:
+It's true that the townsfolk look at me in a... different way. And the reason for that is because... I am...the Storyteller's daughter.
+Maya:
+You're...WHAAAAAAAAAAAT?! Espella...
+Phoenix:
+You're the Storyteller's daughter? (I didn't...see that coming...)
+Espella:
+When I first came down into the town, everyone was friendly. Perhaps they thought that if they got to know me, things would go well for them. That was the impression I had.
+Maya:
+Hmm...that sounds like the kind of thing people would probably do. But obviously not me! I wouldn't do anything like that!
+Phoenix:
+(No one's accusing you of anything, Maya!)
+Espella:
+...But unfortunately, things didn't work out the way people hoped they would.
+Maya:
+Hmm...well, people should realise that good things don't come easy.
+Espella:
+Then one day someone just happened to bump into me in the town... and I was knocked over. Later...that night, that same person was attacked by a witch and killed by her magic.
+Phoenix:
+...!
+Espella:
+I don't know whether it was just a coincidence or not, but... after that, everyone's attitude towards me changed. They started saying things like "it's best to keep away from her, or you'll have a bad story written about you". All because I'm the Storyteller's daughter...
+Maya:
+What's the Storyteller thinking?
+Phoenix:
+What do you mean?
+Maya:
+Well, he has his daughter stuck in a place like this... And if he didn't write such a bad story, she wouldn't have to suffer like this!
+Phoenix:
+............ (You have a good point there, Maya...) Anyway, the investigation has only just begun. Espella, if it's okay with you...I'd like to ask you a few more questions.
+Espella:
+Of course, I'd like to help in any way I can.
+Phoenix:
+(I've got to gather as much information as I can. I should ask Espella about...)
+The Storyteller
+Phoenix:
+This might be difficult for you to answer, but... Why are you not living with the Storyteller... I mean, with your father?
+Espella:
+I did live with him before. We lived together on the edge of the town... in the Storyteller's Tower.
+Phoenix:
+The Storyteller's Tower...
+Espella:
+When I was little, he was very kind... And always listened to what I had to say. But then, at some point or other, he started to become distant... If you think about it, I guess it's only natural... because he had to write the Story for every single person in the town.
+Maya:
+Espella...
+Espella:
+As he became busier and busier... I was left alone in the tower. And that's the reason... I decided to leave home with Eve and live in the town. I stayed with Aunt Patty and helped out at the bakery. Now you two are at the shop too... But my dad... ............
+Phoenix:
+(What's the deal with the Storyteller...? I can't believe he'd write a story where his own daughter is the Great Witch Bezella...)
+Maya:
+Maybe the professor will be able to find out the Storyteller's true motives...
+Patty Eclaire
+Phoenix:
+And what about Patty? Does she know anything about your past? Have you ever told her that you're the Storyteller's daughter?
+Espella:
+Yes...she knows. When the other people in town started avoiding me...Aunt Patty was the only one who stood by me that whole time.
+Maya:
+Yeah, Patty's always looking out for you...
+Espella:
+There is so much I have to thank her for... It's been five years since I left my dad and started living with Aunt Patty. She's always been so kind... She's been like a mother to me.
+Phoenix:
+Now that you mention it... what about your real mother, Espella?
+Espella:
+She... Actually, I... I can't remember anything about her. According to my dad, she died in an accident when I was still young. And...that's really all I know. He didn't tell me any more than that.
+Maya:
+I see...
+The Great Witch Bezella (appears after "The Storyteller" and "Patty Eclaire")
+Leads to:
+"Espella, we believe in you. There's no way you can be the Great Witch Bezella."
+Phoenix:
+Espella, we believe in you. There's no way you can be the Great Witch Bezella.
+Maya:
+That's right! That's why we'll find the real Great Witch!
+Espella:
+The real...Great Witch... But...the Great Witch is only a character of legend. How could you possibly find her?
+Phoenix:
+Well, admittedly...at the moment we have no real leads.
+Maya:
+Actually, to be honest, we know next to nothing about Labyrinthia. We were supposed to have been living with you for five years now... but that memory turned out to be completely phoney...
+Phoenix:
+Do you have any ideas at all, Espella? Anything that could give us a clue. I guess it's a lot to ask...
+Espella:
+All magic-related incidents are thoroughly investigated by the Knights of the Inquisition. And if there were any clues as to the whereabouts of the Great Witch, then I believe they would have found them.
+Phoenix:
+I guess you're right.
+Espella:
+As far as I know, there's not a single incident that has remained unsolved by the inquisitors.
+Maya:
+............ Wait a minute, that's not right...
+Phoenix:
+What is it, Maya?
+Maya:
+The part about there being no unsolved incidents left...
+Espella:
+What...?
+Maya:
+Last night...me and Luke ran into High Inquisitor Darklaw.
+Phoenix:
+Wait, what?! You saw High Inquisitor Darklaw?
+Maya:
+Yup. She said she was investigating some kind of incident with magic. She said that it took place three months ago, I think. Apparently, it's "the only incident that has remained unsolved".
+Phoenix:
+An unsolved incident...
+Espella:
+...Oh! Now that you mention it, I remember hearing rumours about such a case.
+Phoenix:
+(The only magic incident in Labyrinthia to remain unsolved, huh...) Espella, about that incident... Could you tell us about it in more detail?
+I'll have to ask you to stop right there, defender! Visiting time is up! You're to leave immediately!
+Maya:
+No way! We just got to the good part!
+Espella:
+Mr Wright, Maya! I really don't know much about that incident. But perhaps you could try asking an inquisitor about it...
+Phoenix:
+Okay, Espella. Thanks for the help.
+Maya:
+All right...we'll see you again real soon. Keep your spirits up, Espella!
+Espella:
+Thank you. Take care, both of you!
+Espella:
+Mr Wright... Maya... They're both doing so much for me. ............ I wonder...if there's anything I could do for both of them in return... The Great Witch Bezella... Until now, I hadn't given it much thought... ...!... ...The Great Witch... ...The Legendary Fire... ...Flames... Inferno... Oh my... Wh-what is this...? ...My...head...hurts...
+Anime cutscene
+Espella:
+No! What...what was that? That...inferno...
+Were these things...my memories?
+Waiting Hall
+Phoenix:
+This town's one and only unsolved incident of magic...
+Maya:
+I'm sure she said something about an alchemist who lost their life to a witch.
+Phoenix:
+An alchemist was attacked? (Hm, that sounds like a serious case.) You got that from High Inquisitor Darklaw, right?
+Maya:
+That's right. When I was searching for Eve last night. I meant to tell you about it, but it totally slipped my mind.
+Phoenix:
+(Hmm...the only unsolved incident, huh? That's suspicious, all right. This might just be the lead that will take us to the Great Witch.)
+Maya:
+Okay, let's get to investigating! We can do this thing!
+Phoenix:
+Yeah. So, uh... I guess first we should check out the Inquisitors' Hall, right? We might just learn something there.
+Maya:
+Sure! Let's get going!
+Phoenix:
+(On the other hand...we may just learn how unwelcome we are there...)
+Maya:
+Hey! C'mon, Nick! Enough with that wishy-washy attitude!
+Phoenix:
+(...I didn't even say anything!)
+Examine
+Guard on right
+Maya:
+Hey, Nick! Aren't we going to the Inquisitors' Hall?
+Chandelier
+Phoenix:
+So...the Inquisitors' Hall is upstairs, right? I hope someone's in.
+Wooden bench
+Maya:
+These old benches can wait. Let's go to the Inquisitors' Hall!
+Inquisitors' Hall
+???:
+Woof, woof, woof! Ruff, ruff, woof!
+Phoenix:
+W-wait a minute... That aggressive bark... Please tell me that isn't...
+Constantine:
+Woof, woof!
+Maya:
+Aha! It's Constantine! He looks happy to see us!
+Phoenix:
+Wish I could say the feeling was mutual. Once bitten, twice shy... That pretty much sums me up right now.
+Maya:
+Really? I dunno... I think he's looking much friendlier today if you ask me. See? Come on, Nick, pet him just once...
+Constantine:
+Grrrrr...grrrrr...woof!
+Phoenix:
+Aaaaaaargh! (This mutt really, REALLY hates me...)
+Barnham:
+Well, well... If it isn't Sir Blue Knight... Exactly what are you doing over there on all fours?
+Maya:
+Oh...Inquisitor Barnham! Um, glad to see you again. Actually, there's something we'd like to ask you about. Come on, Nick...stand up already!
+Phoenix:
+Oooh...I'd like to meet that mutt's owner face-to-face.
+Barnham:
+Pfft... How foolish... Constantine happens to be mine. And a true knight's companion he is. He needn't waste time sinking his teeth into the likes of you.
+Phoenix:
+Ugh...I had a hunch. So Constantine really is your dog, huh? (Gotta admire the nerve of this guy... He just sits back and lets his dog bite people, err...I mean, me.)
+Barnham:
+Never mind that. What is it that you want to talk about? Just make it quick...Sir Blue Knight.
+Phoenix:
+So...you inquisitors are the ones who investigate incidents of magic in this town, aren't you?
+Barnham:
+Yes, of course.
+Maya:
+If you don't mind, we'd like to ask you about that unsolved incident with magic.
+Barnham:
+............ There's one thing you must never forget: the Knights of the Inquisition excel at their work.
+Phoenix:
+...Uh, right.
+Barnham:
+All incidents of magic perpetrated by the witches are dealt with by the inquisitors. Without exception.
+Phoenix:
+(Spoken with that usual calm and collected air of confidence...) That's interesting... You see, we heard different. Apparently, there's one particular incident that still remains unsolved.
+Barnham:
+............
+Maya:
+Something about an alchemist being murdered... Ring any bells?
+Barnham:
+What?! Who did you get that information from?
+Phoenix:
+We...erm... Well...High Inquisitor Darklaw.
+Barnham:
+............ Well, why the blazes didn't you say so?! You could have saved us some time!
+Phoenix:
+(Huh? How is it my fault...?)
+Barnham:
+The High Inquisitor has put me on the spot by leaking such information to the likes of you. Well, I suppose that leaves nothing for it... I shall tell you the whole story, since I do not believe in doing things by halves...
+Phoenix:
+Please, go ahead. We're all ears.
+Barnham:
+It was three months ago that an alchemist living near the town square was murdered.
+Maya:
+Sorry, Inquisitor Barnham, but I'm kinda lost already... Is there a difference between alchemy and magic?
+Barnham:
+............ When it comes to something that difficult, it will do no good asking me.
+Maya:
+Huh...?
+Barnham:
+It seems that while the townspeople respected him, they also treated him with caution.
+Phoenix:
+They respected him?
+Barnham:
+He used his skills to make medical concoctions and acted much like a physician. The efficacy of his cures was almost like magic. He was famous within his neighbourhood. In fact, he was sometimes referred to as "Dr Belduke" by the townspeople. ...At any rate, it's safe to say that Sir Belduke was no witch.
+Maya:
+How can you say for sure?!
+Barnham:
+That's simple... Sir Belduke was a man.
+Phoenix:
+............ (Well, can't really argue with that...)
+Barnham:
+Sir Belduke came to a mysterious end three months ago.
+Phoenix:
+A mysterious end...?
+Barnham:
+There were two things about his death that cannot be explained rationally. Firstly, the murder scene. His body was discovered in his residence, in the study. His room was locked. There was no conceivable way the crime could have been committed, except by witchcraft.
+Maya:
+Isn't that what people call a "locked room mystery"?
+Barnham:
+Hmm...? A what?
+Phoenix:
+Oh...ah...it's nothing...really. So what was the other mysterious thing?
+Barnham:
+............ Secondly, until then, all incidents involving witches had been foretold in the story.
+Phoenix:
+...Foretold in the story? (In other words, predicted by the Storyteller...)
+Barnham:
+However... The murder of Sir Belduke did not appear in the story. Such a thing had never occurred before.
+Phoenix:
+(So not only was this the only unsolved incident in Labyrinthia's history... but it was also the only incident not to be predicted by the Storyteller.) Hmm...this definitely sounds worth investigating.
+Barnham:
+............ You certainly are an interesting one, Sir Blue Knight.
+Phoenix:
+Huh?!
+Barnham:
+You really think you can solve this incident alone, when the Knights of the Inquisition have been working on it for three months? I must say, that is some confidence.
+Phoenix:
+...We won't know unless we try.
+Barnham:
+You may risk becoming the target of some terrifying witch's vengeance...
+Phoenix:
+............ (I'm hoping that was a joke...)
+Barnham:
+Well... I suppose you may as well take a look... Who knows, you may even find something. Sir Belduke's residence is just beyond the town square. Ask anyone around there, they'll soon point you in the right direction.
+Phoenix:
+Thank you, Inquisitor Barnham.
+Barnham:
+............ Sir Blue Knight. I believe our courtroom battles are far from over. Until we meet again in court...
+Phoenix:
+...I'll see you then, Inquisitor.
+Examine
+Constantine
+Constantine:
+Grrrrr...woof, woof!
+Phoenix:
+Maya...can you PLEASE get this mutt away from me? I can't feel my leg...
+Maya:
+Aww...so soon? I was hoping he'd use you as a blue chew toy just one more time!
+Zacharias Barnham
+Barnham:
+Sir Belduke's residence has already been scoured by the Knights of the Inquisition. I believe you will only be wasting your time if you go there now.
+Waiting Hall
+Examine
+Guard on right
+Maya:
+Next time we pass through this door, we'll have the decisive evidence!
+Chandelier
+Maya:
+Nick, it's time for the Great Witch hunt! Let's go, go, go!
+Wooden bench
+Phoenix:
+If we're gonna take a short break and sit down for a while, let's find a more comfy spot.
+Main Street
+Examine
+Old Rootie
+Old Rootie:
+Hee, hee, hee... Would you two folks be interested in a rumour?
+Maya:
+Huh? A rumour? What kind of rumour?
+Old Rootie:
+Hee, hee... That, young lady, is a silly question! It's not for me to choose the rumour... You two folks have to guess what it is!
+Phoenix:
+We have to guess it? You mean if we roll off a few yes or no questions, you'll answer them for us? Do you think you could tell us about the alchemist?
+Old Rootie:
+All right... But no need to rush. First, let's see what vegetable you folks get.
+Maya:
+See what...vegetable we get? What do you mean?
+Old Rootie:
+Take a look at this! One, two... One, two... What's today's vegetable, I wonder... Hee, hee! That would be... a wee little pumpkin! This little fella is small, even for a pint-sized pumpkin.
+Phoenix:
+Oh... Right...
+Old Rootie:
+Now, as for that alchemist... He was an outstandingly handsome man. And that smile of his...why, it worked wonders on all the women folk, all right! Better than any medicine, or so they say. Worked a treat for me, too! That smile would always ease my nerve pains...
+Maya:
+............
+Phoenix:
+............ Oh...that's it?
+Old Rootie:
+Well, it was a very small pumpkin! That's all for today, I'm afraid.
+Maya:
+So you're saying...that the alchemist's remedies weren't so effective?
+Phoenix:
+I don't think that's quite what she meant...
+Town Square
+Phoenix:
+Well, we've reached the square. But I wonder where the alchemist's residence is...
+Maya:
+Hey, Nick, look over there! There's a street leading away from the square...
+Phoenix:
+Hey, you're right! Let's go take a look.
+A new destination has been added to the map: Alchemist's House.
+Examine
+Petter
+Petter:
+Hey, I thought you two were working at the bakery... Are you goofing off?
+Phoenix:
+Well...not exactly...
+Maya:
+Actually, we thought we'd give up baking and try our hands at something else.
+Petter:
+Is that so? Sounds like a good idea... Your bread did taste...a little unusual, anyway.
+Maya:
+Whaaaaaat?! You mean our bread wasn't delicious?
+Phoenix:
+That's strange... I mean, we used so much butter...and kneaded that dough so hard...
+Petter:
+Just my opinion, mind. I prefer my bread a little more fluffy and light.
+Maya:
+Oh, really? So, uh...just how fluffy and light are we talking here?
+Petter:
+Well...maybe about as fluffy and light as in this puzzle...
+Puzzle #20: Cloud Maze 2For more information, see the Professor Layton Wiki
+Picarats:
+50
+Notes:
+N/A
+Additional dialogue:
+N/A
+Petter:
+Wow, impressive work! I really didn't expect you to solve that.
+Phoenix:
+Actually, I thought the same thing too...
+Maya:
+Well, I knew I could do it!
+Petter:
+So what were you out-of-work bakers doing hanging around here, anyway?
+Maya:
+We're investigating an incident involving the alchemist.
+Phoenix:
+Do you know anything about it?
+Petter:
+Surely the Knights of the Inquisition are the ones you should ask... They could tell you a lot more than I can.
+Phoenix:
+You might be right about that.
+Petter:
+Even so, it's a right shame someone like him could get murdered... I often went to him myself to get medicine. He was always friendly and understanding.
+Maya:
+Seems like Sir Belduke was a good man... At least, from what we've heard so far.
+Petter:
+I just hope they manage to solve this case soon.
+Petter (subsequent times)
+Petter:
+Personally, I prefer my bread soft as a cloud, not hard as a rock. I seem to remember the bread being fluffier and lighter before...
+Alchemist's House
+Phoenix:
+So this is Sir Belduke's residence...
+Maya:
+It definitely looks like an alchemist's house. I've never seen plants like these before...
+Phoenix:
+So...what do we do now? Just because the owner's deceased, we can't exactly go barging in...
+Maya:
+Hmm... But have you noticed just how well kept his yard is? It looks like someone is still living here.
+Phoenix:
+(Someone has definitely been doing the upkeep around here, that's for sure...) ...Hey! Who's that over there?
+Examine
+Chimneytop
+You found a hint coin!
+Emblem above double doors
+You found a hint coin!
+Patch of grass behind blue-haired figure
+You found a hint coin!
+Blue-haired figure
+Leads to:
+"My sincere apologies. I'm afraid medicaments are no longer being provided here."
+Flask-shaped vase
+Maya:
+That's a strange place to put a vase!
+Phoenix:
+It seems to serve the same purpose as a mailbox. There are letters sticking out of it.
+Maya:
+I'd normally call that weird, but since it's an alchemist's house, it's sort of fitting.
+Phoenix:
+Some plant is growing in that vase, too. I wonder if it's intentional.
+Hanging garden
+Phoenix:
+What fruit is that?
+Maya:
+They look so juicy! I'm going to try one!
+Phoenix:
+This is an alchemist's garden, Maya. I'd advise against eating anything that grows here.
+Belfry
+Phoenix:
+The bell tower's visible over the treetops.
+Maya:
+So the town square is in that direction.
+Phoenix:
+The bell tower is really tall. How come we've never heard the bell?
+???:
+My sincere apologies. I'm afraid medicaments are no longer being provided here.
+Phoenix:
+...Huh?
+???:
+Did you not come here for medicaments of some kind?
+Phoenix:
+Um...no, we...didn't come here for that. We're here to investigate the incident... The one involving Sir Belduke.
+???:
+Forgive me if I'm mistaken, but... you do not look like members of the Knights of the Inquisition.
+Phoenix:
+I'm Phoenix Wright, attorney at law. And you...? I'm guessing you live here?
+???:
+Indeed. My name is Jean Greyerl. I was butler to the late Master Belduke.
+Maya:
+Wow, a butler! This must be my first time meeting a real one!
+Phoenix:
+Well, Mr Greyerl, if you don't mind... I've been told that the incident involving your master was shrouded in mystery. Has it got something to do with the Great Witch Bezella? We're trying to investigate that at the moment.
+Greyerl:
+The Great Witch...Bezella? Am I right in supposing that you are... defending Espella Cantabella?
+Phoenix:
+Well, actually... Yes, yes we are. So you know Espella, do you?
+Greyerl:
+That goes without saying... Everyone around here knows her.
+Maya:
+Do you think you can help us? We're here looking for leads.
+Greyerl:
+............ While he was alive, the master taught me the value of investigating the truth that governs the natural world. If you, too, are investigating the truth, then it would be against his teachings for me not to cooperate with you. Would you both like to come in? We can discuss the matter further, inside.
+Phoenix:
+That would be great. Thank you, Mr Greyerl.
+Maya:
+Whoa. Spoken like a true butler! He's a pretty cool guy, isn't he, Nick?
+Butler's Room
+Phoenix:
+What is this room?
+Greyerl:
+This is the room that Master Belduke kindly provided as my accommodation.
+Phoenix:
+So, uh... Is this the room where the incident took place?
+Greyerl:
+That would be the master's study. It is the room right next door. However... the state of the room has been carefully preserved since the incident three months ago. As such, entry into the room is not currently permitted.
+Maya:
+Really? Bummer...
+Phoenix:
+Is that by order of the Knights of the Inquisition, by any chance?
+Greyerl:
+Yes. And as I have lived with Master since an early age... they also decided it would be only fitting for me to stay on and keep the place in order.
+Maya:
+So you've been looking after the place ever since Sir Belduke passed away?
+Greyerl:
+Yes...that's correct. Now then, is there anything further you wish to discuss?
+Examine
+Vase full of pink roses
+You found a hint coin!
+Stand containing clear bottles
+You found a hint coin!
+Rolled-up sheets of parchment
+You found a hint coin!
+Jean Greyerl
+Leads to:
+"As I mentioned a moment ago, I know very little about this matter."
+Open window
+Phoenix:
+The town is over there. It's the opposite direction from the bell tower.
+Maya:
+A pretty view like this makes you forget all about witches and murders.
+Shelves adjacent to desk
+Phoenix:
+Books and documents are all neatly placed on the shelves. Greyerl is a very tidy person.
+Maya:
+Maybe Jean could teach me some alchemy and you how to keep your desk tidy, Nick!
+Bottles on bottom shelf
+Maya:
+Is that a minibar? What's inside all those bottles?
+Phoenix:
+Maya, don't drink it! Who knows what strange mixtures the alchemist kept in those bottles!
+Scorched area below crate
+Maya:
+The floor's been singed. The Legendary Fire didn't spare even the alchemist's house!
+Phoenix:
+Why would the Legendary Fire manifest itself just in this room? Greyerl probably dropped a candle.
+Greyerl:
+As I mentioned a moment ago, I know very little about this matter. As a matter of fact, it might be better to ask the inquisitors. I can tell you about one thing, though... Namely, what occurred before the incident.
+Phoenix:
+Before the incident?
+Greyerl:
+Yes. It was three months ago, around the time that Master Belduke was murdered. We were on our way back from collecting specimens for research, and it was already into the small hours of the morning. There was a thunderstorm on the way, and as the storm drew nearer, we quickly made our way home.
+Anime cutscene
+Greyerl:
+Anyone would have been surprised at what we saw, but Master Belduke... well, how can I put this... he reacted in a most peculiar way. Unlike others who saw it, he seemed unsettled, as if he was truly afraid of something. After that bell tower appeared, he changed completely. Master Belduke became a different man.
+Phoenix:
+W-wait a second! Did you just say...a bell tower appeared?
+Maya:
+Hey, that explains it! That must be... what High Inquisitor Darklaw meant when she mentioned an incident involving the bell tower.
+Greyerl:
+To this day I do not know what the master was so afraid of...
+Phoenix:
+Do you think...it was connected in some way to his death?
+Maya:
+I think it must have been magic. I mean, for a bell tower to just appear like that...
+Phoenix:
+............ Mr Greyerl, do you mind if we have a look around? I know that the inquisitors have already carried out a full investigation, but... There just might be a clue or two with some kind of connection to the Great Witch.
+Greyerl:
+............ Well I suppose... Providing I am allowed to accompany you, of course. There is sensitive equipment everywhere. And it is my responsibility to take care of it.
+Phoenix:
+I understand. We'll be careful.
+Maya:
+I wonder how the professor and Luke are doing with their visit to the Storyteller...
+Phoenix:
+Yeah, I've been wondering about that too. A chance to meet Labyrinthia's "creator"... Let's just hope they don't upset the guy and have some terrible plot twist written about them...
+Maya:
+That'd only happen if it was YOU that visited the Storyteller, Nick. The professor would never let anything like that happen. I've got a feeling they'll come back with some pretty useful leads. We have to do our best too, Nick! Let's keep up our side of this investigation!
+Phoenix:
+You got it, Maya. We're all in this together. C'mon, let's see what we can find!
+Maya:
+That's the spirit!
+NEW MYSTERY
+Bell Tower and Alchemist
+According to Greyerl, Sir Belduke's butler, the bell tower appeared mysteriously after lightning struck one evening. For some reason, Sir Belduke became seriously agitated upon its appearance.
+The bell tower in the town square is under continuous guard. Could this be related in some way to the death of the alchemist?
+Audience Room
+Luke:
+The Great Witch Bezella...will be tried in the court?
+Storyteller:
+That will be Labyrinthia's final chapter. A fitting end, for a town ruled by witches and their magic.
+Layton:
+Am I to believe that this final chapter has already begun?
+Storyteller:
+That is correct... And there is no way you can possibly change its final outcome.
+Layton:
+Hmm... I wonder about that. You see, I gave my word to a young lady. I promised...that without fail, I would be able to rescue her. If I'm not mistaken, the Great Witch trial will begin in two weeks' time. The same day on which you will hold your next parade. I believe that should give us sufficient time to show you what we can do.
+Storyteller:
+Such a smug countenance... I find it...intolerable.
+Layton:
+I beg your pardon?
+Storyteller:
+Two weeks from now, you say? I'm afraid that information is out of date, Hershel Layton.
+Layton:
+Out of date? What do you mean?
+Storyteller:
+My parade will be held the day after tomorrow, according to the amended story.
+Luke:
+Whaaaat?! The day after tomorrow? Th-that's not fair!
+Storyteller:
+Now that's the kind of countenance I want from the characters in my story!
+Luke:
+Wh-what?!
+Storyteller:
+That's what I do, didn't you know? I decide the fate of characters who have no knowledge of their future. It would appear that you are not yet fully aware of the gravity of the situation. Let me see now... Just for fun, I'll write you a little story. A story full of surprises and a few tears... I shall enjoy seeing the emotions of the characters as they play their parts...
+Luke:
+A story...for us?
+Storyteller:
+Stories are a fixture of this town... You would be wise to embrace them. Let's see...I think we need a stimulating incident... We shall have a witch, some witchcraft...and perhaps a little death.
+Layton:
+Death... You can't!
+Storyteller:
+Oh, but I can... Let me see... This is a golden opportunity to use the alchemist's residence. How about this...? Your comrade meets with death by golden curse in the alchemist's residence. Hmm...this could be a truly interesting story.
+Luke:
+No way...
+Storyteller:
+Feel free to act as you wish, when playing your role in the story.
+Luke:
+H-how can you?!
+The beginning of a new tragedy...or farce. The victim of a golden curse lies in the dwelling of a user of false alchemy. A man from afar falls to a golden curse, and a woman from afar cries out in grief. The woman is captured, her dark trial begins, the fiery pit will cleanse all her sins.
+Luke:
+"A man from afar falls to a golden curse, and a woman from afar cries out in grief." Th-this must be referring to Maya and Mr Wright!
+Layton:
+...! If we don't do something, Mr Wright and Miss Fey will be in danger! There's no time to lose, Luke! Let's go and find them.
+Luke:
+Right you are, Professor!
+Storyteller:
+Hm...the story has already been written. And no matter what you do, you will not change the result.
+Layton:
+I do not agree. What we do next can change the future in any number of ways...
+Storyteller:
+I'm sure that's what you want to believe. In fact, a naive outburst like that could be a poignant plot point... Please, be my guest. Your words may help to raise the tension and bring a little excitement to my story!
+Luke:
+You...you monster!
+Layton:
+Luke! Now is not the time... We need to help Mr Wright and Maya.
+Luke:
+Okay... Let's go, Professor! Better hurry!
+A Friend's Death added to Items.
+Knights' Garrison
+Luke:
+Hm? Professor, do you hear a... a flapping sound coming this way?
+Layton:
+The sound of a large bird, perhaps...
+Luke:
+Ah! That's the owl that we saw in the Audience Room!
+Layton:
+It's holding a letter in its mouth... Not to mention watching us intently.
+Luke:
+Perhaps he wants to tell us something. I'll try talking to him to see what he wants.
+Hoot:
+Hoo-hooo!
+Luke:
+What can we do for you?
+Hoot:
+Hoo-hoo-hooo.
+Luke:
+I've got it, Professor! Hoot - that's the owl - says the letter was delivered to the Storyteller three months ago.
+Layton:
+To the Storyteller? If that's so, then we can't very well keep it. After all, it's wrong to read letters addressed to someone else.
+Luke:
+That's what the owl said... But he also said there's absolutely nothing written on the sheets of parchment inside the envelope. Look, Professor! See...they're totally blank.
+Layton:
+A letter with nothing written on it... That is, indeed, most curious.
+Luke:
+And another thing, Professor... The owl says this letter was sent by the alchemist...
+Layton:
+What's that, my boy? Written by the alchemist? Do you remember what the Storyteller wrote in that story he penned a moment ago? A victim of a golden curse lies in the dwelling of a user of false alchemy. Which probably means the place at which this incident will occur...
+Luke:
+is [sic] the home of the one who sent this letter. In other words, at the alchemist's house, right, Professor?!
+Layton:
+It appears the address of the sender, Sir Belduke, is written on the envelope. Which means...we had better make our way there immediately!
+Hoot:
+Hoo-hoo.
+Luke:
+Thanks, Mr Hoot!
+Blank Letter added to Items.
+Layton:
+The address on the envelope is somewhere near the town square.
+Luke:
+That's a little far from here, Professor. We might not make it in time... I think we'd better run!
+Layton:
+Luke, my boy, we have the need... to rent a steed!
+Luke:
+I think you're right, Professor! That would be far quicker than running!
+Layton:
+Quickly, Luke! There's no time to lose!
+Luke:
+Hey, easy, boy! This horse is certainly spirited!
+Butler's Room
+Maya:
+Say, Nick...have you noticed how the colour of that wall is different from all the other walls in the room?
+Phoenix:
+...I think I've investigated enough crime scenes by now to notice something as obvious as that, Maya.
+Greyerl:
+I'm embarrassed to admit it, but actually there was a small fire here a while ago. It was my fault. The wall ended up a little bit singed in the process...
+Phoenix:
+Now that you mention it, there are some signs of a fire on the floor there, too.
+Greyerl:
+Yes, that's correct. Anyway, I decided to paint the wall myself.
+Phoenix:
+(Looks like Mr Greyerl is way handier with his herbs than with a paintbrush...)
+Greyerl:
+I let a candle set fire to some dry straw... In all my time as a butler, I've never made such a major blunder.
+Phoenix:
+Nah, it's not that bad! You're being a little hard on yourself.
+Maya:
+That's right, it's not so bad... You think that's bad? You should see Nick try and do the laundry. Now that's a major blunder!
+Phoenix:
+Okay, that was one time... A-anyways...
+Maya:
+Let's go check out Mr Belduke's study!
+Phoenix:
+While we're here, could you show us around your room a little, Mr Greyerl?
+Greyerl:
+Of course. If it will bring you any closer to finding the truth, be my guest. However, as the Knights of the Inquisition have ordered that the crime scene be left undisturbed... I must ask that you refrain from touching anything while you are in the study.
+Phoenix:
+Sure, we'll be careful.
+A new destination has been added to the map: Alchemist's Study.
+Examine
+Jean Greyerl
+Phoenix:
+Mr Greyerl, there's something I was hoping to ask you.
+Greyerl:
+Certainly, what is it?
+Phoenix:
+This murder is the only unsolved case involving magic, is that right?
+Greyerl:
+Yes, that is correct.
+Phoenix:
+Is it really true that this crime would have been impossible without the use of witchcraft?
+Greyerl:
+That is the conclusion to which the Knights, and the High Inquisitor herself, came. The crime took place behind a locked door, for one thing, which already leads to suspicions of witchcraft. Besides...
+Phoenix:
+...Besides?
+Greyerl:
+The Master was loved by many people, and wasn't at all the type to make enemies. He was kind to everyone, not to mention sincere... It has always been an honour to serve him.
+I cannot believe that anyone, other than a witch, would want to harm him.
+Maya:
+Hey, Nick. How do you think the culprit got into a sealed room, anyway?
+Phoenix:
+Well, it was a witch, right? So I guess she used magic to get inside.
+Maya:
+I think we should stop calling the culprit a witch... How about "magician"?
+Phoenix:
+I'm not sure we need to be sweating over semantics...
+Jean Greyerl (subsequent times)
+Greyerl:
+Master Belduke was loved by many people, and wasn't at all the type to have enemies. He was kind to everyone, not to mention sincere... It has always been an honour to serve him. I cannot believe that anyone, other than a witch, would want to harm him.
+Green-painted wall
+Greyerl:
+I got a little careless and failed to properly extinguish a fire. I painted the wall green, so as to cover the discolouration caused by the fire.
+Scorched area below crate
+Phoenix:
+The box covers slight burn marks from a small fire.
+Maya:
+They could've painted that over with the same green paint as the wall.
+Door on right
+Leads to:
+"Hey, look, Nick! There on the floor... It's one of those...whatchamacallits... You know...a crop circle, right?"
+Alchemist's Study
+Maya:
+Hey, look, Nick! There on the floor... It's one of those...whatchamacallits... You know...a crop circle, right?
+Phoenix:
+That's an alchemist's circle, Maya. We're not in a wheat field...
+Greyerl:
+I'm sorry to repeat myself, but please be sure not to touch anything.
+Phoenix:
+You heard him, Maya. That means keep your hands to yourself.
+Maya:
+No problem! I'll just do the touching with my eyes!
+Phoenix:
+(With your...eyes?)
+Examine
+Hanging gyroscope
+You found a hint coin!
+Golden sphere on urn next to door
+You found a hint coin!
+Pile of books next to powder
+You found a hint coin!
+Jean Greyerl
+Greyerl:
+............
+Phoenix:
+What's the matter, Mr Greyerl?
+Greyerl:
+Oh... It's ah...actually, it's that pendant. I must say, I find it fascinating.
+Maya:
+Oh, you mean this old thing? It's called a Magatama.
+Greyerl:
+Maga...tama?
+Maya:
+Yup! You could say it's kind of like my "source of power", I guess.
+Greyerl:
+I understand... Stones are often charged with energy, after all.
+Maya:
+The pendant you're wearing is pretty neat too! It's such a mysterious colour...
+Greyerl:
+Oh, this? It's an amethyst. Master Belduke asked me to wear it.
+Phoenix:
+An amethyst?
+Greyerl:
+The amethyst brings about good vibrations, in an alchemy sense. ............
+Phoenix:
+Mr Greyerl...?
+Greyerl:
+Oh, I'm sorry. I was just remembering Master Belduke. He gave me this stone, and accepted me as his assistant alchemist... But now, Master... Such is the order of the natural world. ............
+Phoenix:
+(Seems like Greyerl really misses him... He must have really respected Sir Belduke.)
+Jean Greyerl (subsequent times)
+Greyerl:
+............
+Cupboard on left
+Phoenix:
+The cabinet might have contained the alchemist's research materials but it's been emptied.
+Maya:
+Only some junk's been left behind.
+Spilled powder
+Phoenix:
+It looks like a load of white powder has been scattered around the desk. Um...about this white powder... Has it been here since the incident?
+Greyerl:
+That's right. It was just like this when I entered the room on the morning following the incident. I have left it this way ever since.
+Maya:
+I guess someone must have dropped a container full of some medicine...
+Greyerl:
+Please try not to walk in it. You may leave footprints...
+Maya:
+Now that you said it, all I wanna do is leave little ol' footprints all over the place... It'll be like... "Maya wuz here"!
+Spilled powder (subsequent times)
+Phoenix:
+It looks like a load of white powder has been scattered around the desk. Maya, try not to step in any of that. The last thing we want to do is leave footprints all over the place.
+Maya:
+Oooo... Urge to leave footprints everywhere rising...
+Painting
+Maya:
+Hey, that's a pretty little picture over there. We could use a picture like this back at the office, don't you think? We could hang it right next to Charley!
+Phoenix:
+............
+Maya:
+Hmm? What is it, Nick?
+Phoenix:
+The wall behind this picture frame...
+Maya:
+The wall? Oh...that! It seems like there's...some kind of green mark on the wall just by the painting.
+Phoenix:
+(I wonder if there's something hidden behind this painting...)
+Maya:
+Hey, Nick, look at this!
+Phoenix:
+The wall behind the painting... (It's painted green!)
+Greyerl:
+Is there a problem?
+Phoenix:
+Uh...no... No problem. (Hmm...this could be some kind of clue.)
+Wall Behind the Painting added to Items.
+Painting (subsequent times)
+Phoenix:
+The wall behind the little painting has been painted green... (Hmm...this could be some kind of clue.)
+Greyerl:
+...?
+Globe on desk
+Phoenix:
+That's a globe of the night sky.
+Maya:
+The alchemist was also an astronomer! Or maybe he was into astrology?
+Magic circle
+Maya:
+Oh, that's a magic circle! It's neatly drawn and it sure looks magical.
+Phoenix:
+I guess that's the kind of stuff you're into, being a spirit medium.
+Pots in front of desk
+Phoenix:
+A curiously shaped implement. No idea what it was used for.
+Maya:
+This could be a device for turning bread into gold!
+After examining Jean Greyerl, spilled powder, and painting:
+Phoenix:
+Well, I think we've just about investigated everything we can for now...
+Maya:
+But we didn't find any leads on the Great Witch...
+Phoenix:
+Oh, uh...Mr Greyerl?
+Greyerl:
+Yes? What is it?
+Phoenix:
+Is there anywhere else you can think of where we might find more clues?
+Greyerl:
+Let me see... Well, there is a cellar under this study... That's where the master kept his research materials.
+Phoenix:
+A cellar under this room?
+Greyerl:
+Yes... There's a trap door in the floor, leading down to the cellar.
+Phoenix:
+(A room containing Belduke's research materials...) If you don't mind, I'd like to have a quick look at that room.
+Greyerl:
+I see. Very well. If you'll please just wait a moment... That ladder leads down into the cellar. But be careful, it's rather dark down there.
+Phoenix:
+It looks like it might be a little cramped down there too.
+Greyerl:
+That's true... Perhaps it is a little bit small for the both of you at once.
+Maya:
+Okay, Nick, this seems more like your kind of thing, anyway!
+Phoenix:
+...What do you mean?
+Maya:
+I dunno...I guess you're just more suited to small, dark, damp places.
+Phoenix:
+I'm not a rat, you know...
+Maya:
+C'mon, you know that's not what I mean! I'll just stay up here and snoop around for some clues.
+Phoenix:
+It's not snooping, Maya, it's investigating. ...Anyway, you do that. I'll be right back.
+Maya:
+Yay! Way to go, Nick!
+Greyerl:
+Well, I should return to my room. Please give me a call as soon as you have both finished.
+Phoenix:
+Okay, got it.
+Basement Study
+Phoenix:
+............ Brrr...it's a little chilly down here. Doesn't look like it's been used much... The air is so musty and stale. ...Anyway. Better hurry up and take a look around.
+Examine
+Pot on far left
+You found a hint coin!
+Fir needles right of top shelf
+You found a hint coin!
+Wooden bucket
+You found a hint coin!
+Rolled-up papers
+Phoenix:
+Plenty of sketches and drawings. Nothing useful for us.
+Desk on left or box of things
+Phoenix:
+Looks like Sir Belduke studied alchemy here, too. I don't see anything medicine-like, but there sure is a lot of equipment... This desk is pretty messy. Not a speck of dust, though. I guess Greyerl must be keeping it clean... There's a wooden box by the desk, filled with all kinds of junk. A doll is peeping out of the box. I wonder if it was left by a little girl who was one of the doctor's patients.
+Desk on left or box of things (subsequent times)
+Phoenix:
+It looks like Sir Belduke carried out research here as well.
+Stool
+Phoenix:
+What was Belduke's research about? Will all his work be lost now that he's gone?
+Golden goat
+Phoenix:
+Looks like...a sculpture of a goat, I think. Something about it gives me the creeps... Wait a second... Is this...?! This thing is completely made of gold! Could this be the result of alchemy? I guess in this town anything's possible... (If Maya were here, she'd break her back trying to take that goat away with her...) That's strange... Almost everything in this room is covered in a layer of dust... Everything except for that goat, that is. Seems to have been kept in pristine condition.
+Golden goat (subsequent times)
+Phoenix:
+A finely crafted golden goat... and well taken care of, to boot.
+Hanging poster
+Phoenix:
+What's this? A map?
+Well
+Phoenix:
+Well, well, well...if this isn't a well. Looks like it's still in use, too. I'm guessing you need quite a bit of clean water for alchemy. (Come to think of it...I haven't noticed any plumbing here in Labyrinthia.)
+Well (subsequent times)
+Phoenix:
+This well must have been built here specifically to provide water for alchemical research.
+Potted plants below well
+Phoenix:
+The poor potted plants are starting to wither. I'm going to get some water for them...
+After examining desk on left/box of things, golden goat, and well:
+Phoenix:
+Well, looks like I've pretty much seen all there is to see down here. The room doesn't seem to have been used much, and there's nothing I can see that might provide a lead. If I stay here any longer, I might just end up covered in dust myself... (...Not to mention, standing here sighing is kind of clogging up my lungs.) Maybe it's time I head back upstairs... I should probably see how Maya's doing.
+Alchemist's House
+Layton:
+This is the alchemist's house! We have to hurry!
+Luke:
+Pro-professor! Wait...wait for me!
+Alchemist's Study
+Layton:
+Miss Fey!
+Maya:
+Hi, Professor! What's up? You look flushed.
+Layton:
+Where's Mr Wright? Have you seen him?
+Maya:
+Oh, Nick? He's just down in the basement, doing some investigating. He should be back up soon. So how did it go? Did you get to see the Storyteller?
+Layton:
+Please, get Mr Wright, immediately! It's safer if we're all together in one place. I'll explain later...just hurry!
+Maya:
+Huh...?
+Layton:
+As things stand, Mr Wright is in serious danger!
+Maya:
+Nick's in danger?! What do you mean?
+Layton:
+I have reason to believe that a witch will appear here soon!
+Maya:
+...!
+Anime cutscene
+???:
+All is as written in the Story.
+Layton:
+Do you happen to be the Great Witch Bezella?
+???:
+Concern yourselves not with who I am... but rather...with what you will now become!
+Alchemist's House
+Ms Primstone:
+Oh dearie, dearie me! Whatever is the matter, child? You look positively flustered. Sir Belduke is no longer resident here. You'll need to go elsewhere for your medicaments.
+Luke:
+I know that! Let me through... It's a matter of life and death!
+Birdly:
+Life and death, you say?! If so, then I may foresee a hit ballad. Raise up your hearts, and sing with Birdly! My bird is Cracker! First, second and thirdly!
+Luke:
+(Ah! This must be that rival Mr Bardly was talking about.) Anyway, I'm in a hurry!
+Ms Primstone:
+Oh dearie, dearie me!
+Anime cutscene
+???:
+Ahhh!
+Luke:
+Professor!
+Maya:
+It...it wasn't me!
+Phoenix:
+Huh? What the...?!
+Professor... The words the Storyteller wrote really did come true! And in the worst possible way... "A man from afar falls to a golden curse..." At first, I thought he was referring to Mr Wright... But I got it all wrong... it was about the professor!
+To Be Continued...
+NEW MYSTERY
+Golden Layton
+Professor Layton was turned into a gold statue through witchcraft in the alchemist's residence. How can this be?!
+............
+Quitting puzzle (Pretty Posey)
+Muffet:
+...It just won't do! I need that faiwy fwower bouquet badwy!
+Luke:
+Don't worry, I'll definitely solve it later!
+Reinitiating puzzle (Pretty Posey)
+Muffet:
+If I give him a faiwy fwower bouquet, will he fall head over heels for me?
+Quitting archived puzzle (during chapters "Looking for Eve..." and "The alchemist killed by a witch")
+Ridelle:
+Are there any other puzzles you wish to take a look at?
+Solving archived puzzle (during chapter "Looking for Eve...")
+Ridelle:
+That was splendid. You certainly know how to handle puzzles.
+Exiting puzzle archival (during chapters "Looking for Eve..." and "The alchemist killed by a witch")
+Ridelle:
+Any time you feel like solving puzzles, just drop by and let me know.
+Quitting puzzle (Puppy Postal Patrol)
+Maya:
+At this rate, we're never going to find out where Eve is...
+Luke:
+This is just a short break, Maya. Don't worry, I'll definitely solve this soon.
+Reinitiating puzzle (Puppy Postal Patrol)
+Mailer:
+I'm not sure... About where to take the next letter, I mean. As soon as I am, I'll tell you about the cat. Until then, I can't continue my deliveries. That simply won't do!
+Quitting puzzle (Mousequerade)
+Luke:
+This is...actually quite difficult.
+Maya:
+Grrrr... Let's give it one more try!
+Reinitiating puzzle (Mousequerade)
+Price:
+If you can solve this, I have a feeling I'll be able to remember about that cat.
+Quitting puzzle (Stained Glass)
+Bardly:
+Like I said, c'est la vie...
+I'll just have to retire!♪
+Luke:
+C-calm down, Mr Bardly! You mustn't give up so easily!
+Maya:
+Solve the puzzle and he'll feel better. Give it another try, Luke!
+Reinitiating puzzle (Stained Glass)
+Bardly:
+If you could only create such colour, I could surely find the heart to sing.
+Quitting puzzle (An Evening Stroll)
+Knight:
+We haven't seen, nor heard, nor do we know anything about your cat.
+Luke:
+There's no way you don't know!
+Maya:
+Let's try to persuade them, Luke!
+Reinitiating puzzle (An Evening Stroll)
+Knight:
+About your cat, we three knights... know nothing!
+Knight:
+Saw nothing!
+Knight:
+Heard nothing!
+Solving archived puzzle (during chapter "The alchemist killed by a witch")
+Ridelle:
+That was splendid! You certainly know how to handle puzzles.
+Quitting puzzle (Wagon Draggin')
+Constantine:
+Grrr...ruff!
+Eve:
+...Meeow.
+Maya:
+Uh-oh, looks like Constantine's getting a little stressed.
+Luke:
+Okay, Maya, let's give this another try!
+Reinitiating puzzle (Wagon Draggin')
+Constantine:
+Ruff, ruff, ruff...woof!
+Eve:
+Meeow!
+Maya:
+Constantine is still acting kinda weird, Luke.
+Luke:
+I'm certain that if we can all solve this puzzle together, he'll calm down.
+Quitting puzzle (Gabbin' Goats)
+Mary:
+You mean to say you didn't appreciate the cute chorus of my adorable goats? Unbelievable! Drink more of the goat's milk, and it might put some sense into you! Don't you agree, my little Snowy-wowy?
+Snowy:
+Baaa...
+Reinitiating puzzle (Gabbin' Goats)
+Mary:
+Did you want to hear the cute bleating of my sweet Snowy and the other goats once more before you leave?
+Snowy:
+Baaa...
+Quitting archived puzzle (during chapters "Heading to the Audience Room", "Investigation after visiting Espella", and "A friend's death")
+Ridelle:
+Would you like to try another puzzle?
+Solving archived puzzle (during chapters "Heading to the Audience Room" as Phoenix Wright and Maya Fey, "Investigation after visiting Espella", and "A friend's death"
+Ridelle:
+That was marvellous!
+Exiting puzzle archival (during chapters "Heading to the Audience Room" as Phoenix Wright and Maya Fey, "Investigation after visiting Espella", and "A friend's death")
+Ridelle:
+I'll be here any time, if you feel the need to solve a puzzle or two.
+Quitting puzzle (Stomp on It!)
+Dewey:
+Was it so loud that you couldn't even solve the puzzle?
+Reinitiating puzzle (Stomp on It!)
+Dewey:
+My neighbour is always stomping around his place. I'll show you just how loud it is.
+Quitting puzzle (Train Trouble)
+Cecil:
+I knew it... I knew I shouldn't trust a stranger like you... You're a friend of the witch...and you tried to take me away with you... Waaaaah! Help me, sis!
+Phoenix:
+Oh, brother... Somehow I had a feeling it would end up like this.
+Maya:
+Hey, Nick! Stop complaining and solve the puzzle!
+Phoenix:
+If only the professor and Luke were here...
+Reinitiating puzzle (Train Trouble)
+Cecil:
+If you can solve this puzzle, I'll go with you, I promise!
+Solving archived puzzle (during chapter "Heading to the Audience Room" as Hershel Layton and Luke Triton)
+Ridelle:
+That was exceptional puzzle solving!
+Exiting puzzle archival (during chapter "Heading to the Audience Room" as Hershel Layton and Luke Triton)
+Ridelle:
+Feel free to drop in any time you'd like to solve a puzzle or two.
+Quitting puzzle (Animal Pens)
+Old Rootie:
+Hee, hee! The puzznip is rare, you know.
+Reinitiating puzzle (Animal Pens)
+Old Rootie:
+Today's vegetable is a puzznip!
+Quitting puzzle (Not Standard Issue)
+Knight:
+Oh, no! There's nothing I can do. I'm simply unable to let you in...
+Luke:
+And to think we came this far... What shall we do, Professor?
+Layton:
+I'm certain we can solve this puzzle. Let's give it another try.
+Reinitiating puzzle (Not Standard Issue)
+Knight:
+I really want to let you through the gate, but I just can't open it! Surely the Hatter can solve this!
+Quitting puzzle (Chess Skirmish)
+Knight:
+Well, I thought you seemed confident, but maybe I was mistaken...
+Reinitiating puzzle (Chess Skirmish)
+Knight:
+As a knight of honour, I must find a way! Do you think you could show me how to defeat the black knight?
+Quitting puzzle (Mouse Mayhem)
+Luke:
+Hmm... This might take a little more time...
+Layton:
+Why not leave it for the time being? We'll make sure to try again later.
+Reinitiating puzzle (Mouse Mayhem)
+Layton:
+This puzzle might prove to be a little tricky. Take a deep breath and do your best! If you think it's too much for you right now, you can always select "Quit" and come back to it later.
+Luke:
+Right you are, Professor!
+Quitting puzzle (Street Patrol)
+Captain:
+Like I said, it's obvious that the suspicious figure was this guy!
+Cutter:
+You got it all wrong, pal! C'mon, ol' Cutter has a face you can trust!
+Layton:
+At this rate, it's only a matter of time before they take him away to jail.
+Luke:
+But, even though his face looks scary, I don't think he did it... I think he's being falsely accused, just like we were yesterday. If we solve this puzzle, I'm sure we can prove his innocence!
+Layton:
+Yes, indeed. Let's give it another try.
+Reinitiating puzzle (Street Patrol)
+Cutter:
+I'm innocent, I swear! Please, you gotta prove it to 'em!
+Quitting puzzle (Rotating Room 2)
+Layton:
+Even though we didn't solve it, it was still a pleasant diversion. Let's give it another try later.
+Reinitiating puzzle (Rotating Room 2)
+Layton:
+In a situation like this, perhaps solving a puzzle might help to relieve stress.
+Luke:
+I think you're right, Professor!
+Quitting puzzle (Decipher the Door)
+Layton:
+...This puzzle is quite a tough one.
+Luke:
+Come on, Professor! At this rate, we'll never get in!
+Layton:
+We've come this far... We can't just give up now. Let's keep trying.
+Reinitiating puzzle (Decipher the Door)
+Layton:
+If we don't solve this puzzle, we won't be able to go in.
+Quitting puzzle (Cloud Maze 2)
+Petter:
+Hey...didn't you like my fluffy little puzzle?
+Reinitiating puzzle (Cloud Maze 2)
+Petter:
+Well? Are you going to solve this fluffy little puzzle then?

@@ -1,0 +1,1235 @@
+
+Turnabout Goodbyes
+Transcript
+ 	 	 	 		 			 		 		 		 	 
+Part 1
+Part 2
+Part 3
+Part 4
+Part 5
+Part 6
+December 27, 2:11 PMWright &amp; Co. Law Offices
+Maya:
+What was Mr. Edgeworth talking about...?
+Edgeworth:
+A memory of a crime... that I committed. A memory... of a murder.
+Maya:
+Do you really think Mr. Edgeworth killed...?
+Phoenix:
+... I don't believe it. Not Edgeworth. Some painful memory has been troubling him recently... But he'd never take someone's life! Never!
+Maya:
+Nick...
+Butz:
+Yo! How's everyone doing? Whaddya think of my performance today? I had 'em swooning in the aisles! Huh, Maya?
+Maya:
+S-swooning? Me? Oh... Oh, yes. I do remember feeling faint.
+Butz:
+Right on! Tell me the truth, it was like love at first sight, right? Right, Nick?
+Phoenix:
+H-huh? Me!? I... uh, well, maybe my heart skipped a beat or two...
+Butz:
+... I think you can do better than that! C'mon! I saved Edgeworth in there, dude! Edgey! You guys should be bowing before me! Yeah! Bow before your hero!
+Present
+Anything
+Butz:
+Woo hoo, I was hot in there. Hot!
+Phoenix:
+(I'm glad someone's happy about how this case is going... He seems too happy to care about anything I show him.)
+Move
+Detention Center
+Leads to:
+December 27
+Detention Center
+Visitor's Room
+Gourd Lake Entrance
+Leads to:
+December 27
+Gourd Lake Park
+Entrance
+Criminal Affairs Dept.
+Leads to:
+December 27
+Police Department
+Criminal Affairs
+Grossberg Law Offices
+Leads to:
+December 27
+Grossberg Law Offices
+December 27Detention CenterVisitor's Room
+Phoenix:
+... Looks like Edgeworth is back in questioning.
+Maya:
+We have our own questions for him! Let's come back later.
+Phoenix:
+Yeah, I guess so.
+Maya:
+Don't forget, okay?
+December 27Police DepartmentCriminal Affairs
+Phoenix:
+(Hmm... Looks like Detective Gumshoe hasn't gotten back yet.)
+Police:
+Gumshoe? He won't be coming back today.
+Maya:
+Oh... really?
+Police:
+He said there was some guy he had to arrest by tomorrow.
+Phoenix:
+(The boat shop caretaker...)
+Police:
+He shouted something about "catching him if it's the last thing I do, pal!"
+Phoenix:
+(Good luck, Gumshoe!)
+Examine
+Detective
+Phoenix:
+That must be one of the detectives. He's mumbling something to himself.
+Police:
+"Please! Think about what you're doing, Jolinda! Don't take my Tommy away from me! No!"
+Phoenix:
+... He must be doing image training for a nasty divorce argument.
+Chief
+Phoenix:
+This must be the chief of the detectives here. He's glued to his computer screen.
+Chief:
+Wha...!? Th-that's not possible! The world ended... yesterday!?
+Phoenix:
+(He must be reading predictions for the future on someone's homepage.)
+December 27Grossberg Law Offices
+Phoenix:
+He's out... again.
+Maya:
+When does he work, anyway?
+Phoenix:
+Now, now. Don't be harsh. (Guess we'll have to come back later.)
+Wright &amp; Co. Law Offices
+Talk
+Today's trial
+Phoenix:
+Larry... You really helped out in the trial today.
+Maya:
+You did! If you weren't there, Larry, I'm sure Mr. Edgeworth would have been found guilty!
+Butz:
+Hah hah hah hah hah hah hah hah hah hah hah hah! But, seriously, Nick. That boat shop caretaker guy is pretty suspicious... But Edgey ain't off the hook yet!
+Maya:
+Way to spoil the mood, Larry.
+Butz:
+Hey, I'm just a guy sitting in the audience, you know? But from where I was sitting, Edgey seemed pretty... edgy. I mean, can you really know he's telling the truth about that night?
+Phoenix:
+...
+Maya:
+Nick?
+Phoenix:
+I don't know. But... what I do know is... I'm going to believe in you two until the end.
+Butz:
+Us two?
+Maya:
+Edgeworth and... who else? You mean me right?
+Butz:
+Nah! He means me! Right, Nick?
+Phoenix:
+Yeah, you, Larry.
+Maya:
+Not... me? ... B-but why you, Larry!?
+Butz:
+Huh? Um, actually, yeah. Why me, Nick?
+Phoenix:
+...
+Maya:
+Hmph. Enough with the silent treatment!
+Edgeworth
+Maya:
+Nick... Why do you trust Mr. Edgeworth so much? I mean, he's changed recently, true. But when we first met him, he was kind of jerk, don't ya think?
+Phoenix:
+... You didn't know him back then. Back when he wanted to become a defense attorney.
+Maya:
+Wait... Was that when you two were classmates?
+Phoenix:
+Yes. In grade school... They saved me... Miles... And Larry. They saved me and I'll never forget it. That's why I became a defense attorney, you know.
+Maya:
+Whaaaat!? Hey, hey, Larry. What's he talking about?
+Butz:
+Huh? Uh... umm... Er, sorry. I kinda forgot.
+Maya:
+Hmph. Okay, Nick. Out with it! I'm going to hear this story today, and that's final!
+Phoenix:
+Okay, okay. It's kind of a long story, so hang in there. ... It was the beginning of Spring, 4th grade. I was on trial. A class trial.
+Maya:
+A c-class trial!?
+The class trial (appears after Edgeworth)
+Phoenix:
+You remember, Larry? Spring, 4th grade? A kid in my class got his lunch money stolen.
+Maya:
+Lunch money?
+Phoenix:
+Our school was really small. Every month, kids would bring in an envelope with money for lunch from home.
+Maya:
+Huh, I see.
+Phoenix:
+Anyway, this kid's envelope disappeared. With $38.00 still inside.
+Butz:
+Oh... Yeah, now that you mention it, I do remember that!
+Phoenix:
+I can see why you'd forget, though. You were out of school that day. Anyway, the envelope had been stolen during PE class. I was coming down with a cold, so I'd skipped PE that day. I was the only one not in class.
+Maya:
+So... they thought you did it?
+Phoenix:
+Yeah. The kids in class said I should be put on trial.
+Maya:
+Trial...?
+Phoenix:
+So the next day we held a classroom trial, with me as the defendant.
+Phoenix:
+"I... I didn't do it!"
+"Guilty!" "He did it!" "Guilty!" "It was you! "Thief!" "Give me my money back!" "You're such a meanie!" "No one play with him!" "Just admit you did it!" "You can't hide the truth!" "Tell us the truth!" "We're not gonna play with you anymore!" "Yeah, and no borrowing my eraser!" "He shouldn't be allowed in the relay race!" "Or on the library committee!" "Give me back the 50 cents I loaned you!" "Hey, did you rob that bank the other day?"
+Teacher:
+"Now, Phoenix, you know you shouldn't steal people's money! It's not right."
+Phoenix:
+In the end, even the teacher thought I'd done it.
+Teacher:
+"Apologize to the class, Phoenix."
+Phoenix:
+I... I didn't know what was happening. I was so sad... I couldn't stop crying. Everyone was staring at me like I'd done it... I tried to apologize. I went over to where the boy was sitting... ... That's when it happened.
+Objection!
+"He shouldn't have to apologize! The only thing that belongs in a trial is evidence! Anything else has no place! You should all be ashamed... amateurs!"
+Teacher:
+"M-Miles?"
+Edgeworth:
+"It wasn't you who stole my money, was it?"
+Phoenix:
+"No..."
+Edgeworth:
+"Then you shouldn't apologize! Everyone's been shouting you did it, but no one has any proof! That is why, Your Honor, this boy is innocent!"
+Teacher:
+"B-but Miles, it was your money that was stolen!"
+"Yeah yeah!" "He did it! He's the one!" "We don't need proof!" "Make him say he's sorry!"
+"Why don't you all just shut up!!!"
+Butz:
+"This is always how it is, everybody ganging up and picking on one person. Just think how he feels! He said he didn't do it, so he didn't do it!"
+...
+Teacher:
+"Very well. I will replace the money myself. This class trial is over."
+Phoenix:
+That's how it happened. After that, the three of us were always friends.
+Maya:
+Wow... I had no idea!
+Butz:
+Yeah... I had no idea, either! I mean, I forgot.
+Phoenix:
+That's what I learned what it meant to be alone. Totally alone, without a friend in the world.
+Maya:
+You did a good thing, Larry!
+Butz:
+Um, yeah, well... I was just lucky that I took the day off from school. If I'd been there they would have thought I'd done it! So, I took it kind of personally, see.
+Phoenix:
+("When something smells, it's usually the Butz.")
+Edgeworth's goals (appears after The class trial)
+Phoenix:
+Anyway, Edgeworth and I talked after that class trial. That's when I heard his father was a defense attorney. I remember, his eyes would shine when he talked about his father.
+Edgeworth:
+"I'm going to become a defense attorney, just like my Dad! A famous defense attorney!"
+Phoenix:
+Then, a few months later, he suddenly transferred to another school.
+Maya:
+The DL-6 Incident...
+Phoenix:
+Right. I'm not sure, but the transfer probably had to do with his father's death.
+Maya:
+That's so sad!
+Phoenix:
+... It was several years later when I heard Edgeworth's name again. There was an article about him in the newspaper. The headline was something like "Dark Suspicions of a Demon Attorney." Fabricating evidence, manipulating testimonies, covering up facts... The article said he'd do anything to get a guilty verdict. Anything.
+Butz:
+But why? What happened!? I mean, that's not the Edgey I used to know at all!
+Phoenix:
+That's what I thought too. I tried to get in touch with him I don't know how many times... He never replied.
+Maya:
+I guess he didn't want to see his old friends...
+Phoenix:
+I couldn't just drop it, though. I wanted to meet him, to know why he had become who he became. That's when I decided.
+Maya:
+...! Wait... You don't mean...? That's why!? That's why you became a defense attorney!? To meet Edgeworth!?
+Phoenix:
+If I was a defense attorney, I knew he's have to meet me whether he wanted to or not. In court. ... Edgeworth believed in me, and I believe in him.  He's in pain... And no one's on his side. I'm the only one who knows the real Edgeworth. I'm the only one who can help him.
+Butz:
+Whoa... Nick. S-so, is that why you helped me out for free?
+Phoenix:
+Uh... yes. I helped you because I believed in you. (Except I don't remember saying I'd do it for free...)
+Butz:
+Aw, Nick! Nick!!!
+(Clearing "Edgeworth's goals" "Talk" option leads to:)
+Maya:
+Nick! We have to save Mr. Edgeworth if it's the last thing we do, okay?
+Phoenix:
+Right. (It very well may be...)
+Maya:
+First, there's that rental boat shop caretaker. We need to find out who or what he is!
+Phoenix:
+I'd settle for who. (I guess I can clean out some of this evidence I no longer need... ...) Okay, let's go!
+Move
+Detention Center
+Leads to:
+December 27
+Detention Center
+Visitor's Room
+December 27Detention CenterVisitor's Room
+Edgeworth:
+...
+Phoenix:
+You look grim as always.
+Edgeworth:
+Hmph.
+Maya:
+Um, Mr. Edgeworth? I heard the story about the class trial...
+Edgeworth:
+Class trial? What do you mean?
+Maya:
+You... don't remember?
+Edgeworth:
+No, I don't.
+Maya:
+Your lunch money was stolen, wasn't it? In 4th grade...?
+Edgeworth:
+Lunch money...? ... Oh... Oh, right. Yes, I seem to remember something like that.
+Maya:
+Nick. I think you're the only one who really remembers.
+Phoenix:
+Well, it probably only really mattered to me anyway.
+Maya:
+Mr. Edgeworth, didn't you know? That trial was the reason Nick became a defense attorney!
+Edgeworth:
+... Ridiculous!
+Phoenix:
+(Gee... thanks.)
+Edgeworth:
+That said... It does sound like that kind of thing you'd do. You haven't changed a bit, have you, Wright? So...simple. To a fault, even.
+Phoenix:
+Well, maybe yeah, but... I think you changed too much, Edgeworth.
+Edgeworth:
+... Perhaps.
+Talk
+Why prosecute?
+Phoenix:
+Hey, Edgeworth. Why did you become a prosecutor, anyway? You used to look up to your dad... You said you wanted to be a defense attorney, right?
+Edgeworth:
+... I couldn't let myself deny reality like you.
+Phoenix:
+What do you mean?
+Edgeworth:
+My father was taken from me, and you want me to defend criminals? I'm sorry, Wright, but I'm not that good of a person!
+Maya:
+One suspect was apprehended in your father's murder, right?
+Edgeworth:
+Yes. The man trapped in the elevator with my father. His name... was Yanni Yogi. He had to be the shooter, any way you look at it! Yet... he was found innocent. That defense attorney got him off the hook!
+Phoenix:
+(That would be Robert Hammond...)
+Edgeworth:
+On that day, 15 years ago... The three of us were trapped in that elevator for five hours. When we were rescued, we all suffered oxygen deprivation. I had lost all memory of the murder.
+Phoenix:
+Lost your memory?
+Edgeworth:
+Even now, I can't recall what happened in that elevator. That was the crux of Yogi's argument in court. He claimed Yanni Yogi had been "not of sound mind" due to the oxygen deprivation. Yogi was released due to a lack of evidence... innocent. That's when I changed my mind. I started to hate defense attorneys.
+Prosecutor von Karma
+Phoenix:
+What's your relationship with von Karma?
+Edgeworth:
+He's my teacher, and a man who deserves respect. I learned everything I know of courtroom techniques from him.
+Maya:
+So, he's like my sister was to you, Nick.
+Edgeworth:
+He is a perfectionist in all things. In court... In his personal life... He is obsessed with doing everything perfectly.
+Maya:
+Perfectly, huh?
+Edgeworth:
+In all the cases he has taken on, none were left unsolved. And not one suspect was declared innocent. Ever.
+Maya:
+But... but that's...
+Edgeworth:
+I know. It's possible some of the suspects were indeed innocent. However, it is impossible for us to accurately determine that in every case. All von Karma does is his job, to find the suspect guilty, perfectly. In any case... It's nigh well impossible to find a weakness in him. Should a weakness appear, he would do everything in his power to make it go away.
+Phoenix:
+Um, Edgeworth? If what you're saying is true, you're headed for a guilty sentence tomorrow!
+Maya:
+H-he's right! Now's no time to be praising the enemy, Mr. Edgeworth!
+Edgeworth:
+Mmph... It's a strange situation in which I find myself, I'll admit.
+Phoenix:
+(No kidding.)
+Present
+Lake Photo
+Edgeworth:
+What are you showing me this picture for?
+Phoenix:
+Um, uh, no reason.
+Edgeworth:
+... You know, I was impressed by your deduction in the trial today. Granted, you were at the end of your rope, but still.
+Maya:
+Nick, he noticed.
+Phoenix:
+Hah hah.
+DL-6 Case File
+Edgeworth:
+... It was that case that changed my life. And tomorrow, on December 28, its statute of limitations runs out.
+Phoenix:
+(Tomorrow... Could that be a coincidence?)
+Edgeworth:
+But... even if the case is finally closed on paper... It will never be erased from my memory. Never...
+Maya:
+Poor Mr. Edgeworth!
+DL-6 Incident Photo
+Maya:
+N-Nick! No! Th-that's a photo of his father! Don't show him that!
+Phoenix:
+(You're right... Now probably isn't a good time to dredge up those old memories...)
+Edgeworth:
+What is it?
+Phoenix:
+Uh, um, n-nothing.
+Edgeworth:
+Huh?
+Anything else
+Edgeworth:
+Sorry. I'm not sure I can help you with that.
+December 27Gourd Lake ParkEntrance
+Gumshoe:
+Hey, pal! Long time no see!
+Maya:
+Oh! Detective Gumshoe!
+Gumshoe:
+Close one today, eh! I got so worked up, I snapped my tie in half!
+Phoenix:
+Uh... Sorry about that.
+Gumshoe:
+No prob, pal! Thanks to you, we now know who really did it!
+Maya:
+You mean, the boat shop caretaker?
+Gumshoe:
+Look, I'll make you a promise. I'll have that scoundrel in my custody by trial time tomorrow! Come what may! It's my duty to you as a police officer! Now, I'm off to catch me a criminal!
+Maya:
+... Detective Gumshoe sure is... active today.
+Gumshoe:
+Oh, one other thing!
+Maya:
+Eek!
+Gumshoe:
+No one can go into the woods today.
+Maya:
+The woods?
+Phoenix:
+(Where Lotta was camping?)
+Gumshoe:
+The woods are off-limits to camping, and apparently the park ranger found out. He got pretty mad. No one can go in for a while.
+Maya:
+I guess Lotta's in a 'lotta' trouble...
+Gumshoe:
+Anyway, I'll be seeing you tomorrow!
+Move
+Gourd Lake Public Beach
+Leads to:
+December 27
+Gourd Lake
+Public Beach
+December 27Gourd LakePublic Beach
+Phoenix:
+Huh? The Steel Eyesore is missing...
+Maya:
+"Eyesore"!?
+Phoenix:
+Looks like the hotdog stand is closed, too.
+Maya:
+I guess Larry's been too busy with the trial to show up for work...
+Examine
+Lake
+Maya:
+This lake sure likes to cause problems, doesn't it.
+Phoenix:
+Huh?
+Maya:
+I mean, everything that happened here turned out to be a lie! Gourdy was a lie, and the charges against Mr. Edgeworth were all lies.
+Phoenix:
+I guess you're right.
+Maya:
+I mean, I'm glad the charges were all lies, but still.
+Trash
+Phoenix:
+A trashcan with no trash. At least the place is well maintained.
+Bench
+Maya:
+No one's going to sit here on a cold day like today. Well, unless they were eating a Samurai Dog!
+Phoenix:
+(How would that change the temperature, I wonder?)
+Maya:
+...? You seem troubled, Nick.
+Phoenix:
+N-no, who? Me?
+Stand
+Phoenix:
+Guess Larry has today off.
+Maya:
+He was pretty happy about saving Mr. Edgeworth.
+Phoenix:
+True. We owe him big.
+Move
+Boat Rental Shop
+Leads to:
+December 27
+Boat Rental Shop
+December 27Boat Rental Shop
+Maya:
+That old caretaker got away...
+Phoenix:
+Yep.
+Maya:
+I never imagined he might be the real murderer! ...
+???:*Ah-HHHHEM!*
+Phoenix:
+...! (I'd know that clearing-of-the-throat anywhere!)
+Grossberg:
+Ah hah, hello! What might you be doing here? Out for a walk, hmm? "Ahh... the days of my youth... like the scent of fresh lemon..." you see.
+Maya:
+Mr. Grossberg! This is no time for idle reminiscing! Mr. Edgeworth's trial ends tomorrow!
+Grossberg:
+Er... that is true, yes. But, from what I saw of today's trial, Edgeworth should be fine, right?
+Phoenix:
+Well... I'm not so sure about that.
+Grossberg:
+Ho ho! What do you mean by that?
+Phoenix:
+Well... I'm not sure.
+Grossberg:
+Hmm... If you find anything out, come by my office at once. I may be able to offer you some assistance.
+Phoenix:
+Thanks... (Bye...)
+Maya:
+What do you think Mr. Grossberg was doing here anyway?
+Phoenix:
+Who knows...
+Examine
+Trees
+Phoenix:
+There's a forest here beyond these bushes.
+Maya:
+Nick! The forest! There's someone in there!
+Phoenix:
+... You're right. There's a few policemen in there.
+Maya:
+They must be looking for the caretaker!
+Phoenix:
+Good luck...
+Shop
+Phoenix:
+The boat rental shop. Doesn't look like anyone is around.
+Maya:
+The caretaker must have run for the hills, huh?
+Phoenix:
+Yeah, looks like it.
+Maya:
+He didn't seem like a bad person...
+Move
+Caretaker's Shack
+Leads to:
+December 27
+Caretaker's Shack
+December 27Caretaker's Shack
+Phoenix:
+...
+Maya:
+Nobody's home.
+Parrot:
+"Hello! Hello!" *squawk*
+Maya:
+Hey! It's Polly! I wonder where your owner's gone, Polly?
+Parrot:
+"Hello! Hello!" *squawk*
+Maya:
+I can't believe he'd run off and leave his poor parrot to fend for herself!
+Parrot:
+"Hello! Hello!" *squawk*
+Examine
+Stove
+Maya:
+It doesn't look like he used this kitchen much.
+Phoenix:
+You're right.
+Maya:
+I guess the whole pasta restaurant thing was a lie.
+Phoenix:
+What, you thought he was telling the truth!?
+Fish pictures
+Maya:
+Say, Nick. Don't people usually put pictures of fish up on the wall to boast about them?
+Phoenix:
+Uh, yeah, I guess so. You mean picture of the fish they caught, right?
+Maya:
+Right... but don't all the fish on the wall here look really puny to you?
+Phoenix:
+Well, you know what they say... "You shoulda seen the one that got away!"
+Maya:
+Except the one that got away from us was the caretaker! And we did see him!
+Phoenix:
+(Why do I feel like we're having two different conversations here?)
+Fishing pole
+Phoenix:
+This fishing pole looks expensive.
+Maya:
+Maybe we should bring it to Detective Gumshoe.
+Phoenix:
+Don't you think the caretaker would mind?
+Maya:
+Well, we can just leave him the metal detector in exchange!
+Phoenix:
+Uh... maybe we'd better not.
+Table
+Phoenix:
+Hmm. Everything's cold. Looks like he didn't turn his heater on. I guess he hasn't been back here since the trial.
+Television
+Maya:
+Aah!
+Phoenix:
+W-what's wrong?
+Maya:
+Huh? Oh... N-never mind.
+Phoenix:
+What? Tell me!
+Maya:
+Just, when I saw the TV, I remembered... They're showing a Pink Princess special this week...
+Phoenix:
+... Oh.
+Maya:
+See? That's why I didn't want to tell you.
+Safe
+Maya:
+That reminds me, Nick! Polly here knows the number to this safe, right?
+Phoenix:
+Yeah, that's right.
+Maya:
+Polly, what's the number to the safe?
+Parrot:
+"1228"! *squawk*
+Maya:
+Let's open it, Nick! C'mon!
+Phoenix:
+I'm sure there isn't any money in there.
+Maya:
+Aww... But, hey! He keeps it locked, right? So there must be something of value in there!
+Phoenix:
+I'm not so sure...
+Maya:
+Okay, Nick, let's see what's in there!
+Phoenix:
+(I guess there might be a clue or two...) ... The only thing in here is a letter.
+Maya:
+A letter? Aww... boring!
+Phoenix:
+(Hmm... There's no name or signature on this thing. It's handwritten in very precise, clear letters...) ... "Get your revenge on Miles Edgeworth..." Edgeworth!
+Maya:
+N-N-Nick! Why would Mr. Edgeworth's name be on here...?
+Phoenix:
+How should I know!? I'm going to read the whole thing...!
+"Get your revenge on Miles Edgeworth..." It also says: "This is your last chance! Now is the time to get revenge on the two men who ruined your life!" ...
+Phoenix:
+(The rest of the letter goes on to describe the murder plot in detail! How to kill Robert Hammond, and frame Edgeworth... ...Calling Edgeworth out to the lake, getting on the boat... firing twice! This is exactly what I figured out today in court! It's all here... in perfect detail!) ...
+Maya:
+What do you think it means, Nick?
+Phoenix:
+I don't know... but it looks like these are instructions for that caretaker. When he killed Robert Hammond and called out Edgeworth, he was following instructions!
+Maya:
+But who could have written that letter? And... what does it mean, to "get revenge on Miles Edgeworth"...?
+Phoenix:
+Look, I don't know, okay? But one thing's for certain. This letter is an amazing clue!
+Added Letter from the Safe to the Court Record.
+Safe (subsequent times)
+Phoenix:
+There's nothing left in the safe.
+Maya:
+I wonder why the caretaker didn't take the letter with him?
+Phoenix:
+He left in a hurry, right? I don't think he even came back here after the trial.
+Parrot
+Maya:
+Maybe I should take care of Polly, Nick?
+Phoenix:
+You probably shouldn't just kidnap her. The police know about her anyway. I'm sure they'll do something.
+Maya:
+Well... okay... Sorry, Polly. He says I can't take you.
+Phoenix:
+(Great, now the bird's going to hate me.)
+Gourd Lake Public Beach
+(Clearing "Edgeworth's goals" "Talk" option and examining safe leads to:)
+Move
+Wright &amp; Co. Law Offices
+Leads to:
+"One day left, Nick."
+Wright &amp; Co. Law Offices
+Maya:
+One day left, Nick.
+Phoenix:
+Yeah... I know.
+Maya:
+Well, no time to waste! Let's get going!
+Talk
+What to do
+Phoenix:
+What do you think we should do now, Maya?
+Maya:
+You would know best, Nick! Just do what you do! That should work.
+Any ideas
+Phoenix:
+Well? Had any good ideas?
+Maya:
+This is all tied to the DL-6 Incident... We'd better find out as much as we can about that murder before tomorrow!
+Phoenix:
+(Something that happened back then has a hold on Edgeworth and it won't let go.)
+Present
+Anything
+Maya:
+Stop showing me stuff and let's get cracking! We only have today to get to the bottom of this!
+Detention Center
+Talk
+Yanni Yogi (after presenting Letter from the Safe)
+Edgeworth:
+Yanni Yogi was a court bailiff at the time. We just happened to be in that elevator together 15 years ago. The quake was incredibly strong... Before I knew it, everything was dark. We were there for so long, it felt like forever. The air thinned... and the darkness closed in on us in that little box. We became... unsettled.
+"H-help! I can't breathe!"
+"Quiet! I said quiet! You're not making this any easier!"
+"I want to get out! Help! Get us out!"
+"Don't shout! You'll just use up more oxygen!"
+"...!"
+Edgeworth:
+That's all I remember... When I came to, I was in a hospital bed, staring up at the ceiling.In court, Yanni Yogi's mental condition was called into question. They claimed the oxygen deprivation and stress had caused temporary insanity. In the end, the claim passed the court, and Yogi was found innocent.
+Maya:
+Huh... But, isn't that strange? This letter tells him to "get revenge on Edgeworth"... Why would he want to take revenge on you?
+Edgeworth:
+... Wright.
+Phoenix:
+Yeah?
+Edgeworth:
+There's something that's been troubling me these last few days. I... didn't know whether or not I should tell you.
+Phoenix:
+You mean the nightmare?
+Edgeworth:
+It's... a nightmare I've had. A memory of a crime... that I committed.
+Phoenix:
+A crime you committed?
+Edgeworth:
+...A memory... of a murder.
+Edgeworth:
+I think... I think the time has come to tell all.
+The nightmare (appears after Yanni Yogi)
+Edgeworth:
+For the last 15 years, I've had the same dream almost every night. I wake up in a fearful sweat, every time.
+Maya:
+What kind of dream?
+Edgeworth:
+It's a dream about my father's killing... in the dark.
+"H-help! I can't breathe!"
+"Quiet! I said quiet! You're not making this any easier!"
+"I want to get out! Help! Get us out!"
+"Don't shout! You'll just use up more oxygen!"
+"I... I can't breath! [sic] You... you're using up my air!"
+"Wh-what!?"
+"Stop breathing my air! I'll... I'll stop you!"
+"Aaaah! Wh-what!? What are you...!?"
+"Stop breathing my aaaaair!"
+(No! Father! He's attacking Father!)
+Edgeworth:
+Then I see the pistol lying by my feet. I don't know if it was evidence from that day in court, or the bailiff's... In a daze, I pick up the pistol...
+Edgeworth:
+(Get away...! Get away from my father!)
+*BANG*
+Uuaaaaaaaaaaaaaaaaaaaaaaaaaargh!
+Edgeworth:
+And with that scream... I wake. It's a bone-chilling scream. A scream that has rung in my ears for the past 15 years.
+Maya:
+... B-but... That's just a dream, right? Right?
+Edgeworth:
+... That thought is the only thing that has kept me sane for the last 15 years. But what if I'm wrong? What if it's real? They say that sometimes people shut out memories in self-defense. Maybe it was I who killed my father!
+Maya:
+What!?
+Edgeworth:
+If you think about it that way, this letter makes sense. "Get your revenge on Miles Edgeworth." Think about it. Yogi was really innocent. That's why he wanted revenge against me!
+Phoenix:
+Wait, Edgeworth! You... you mean...!
+Edgeworth:
+It was me. I was the true criminal of DL-6. I shot my father!
+Present
+Letter from the Safe
+Phoenix:
+Edgeworth... See this letter?
+Edgeworth:
+Hmm?
+Phoenix:
+This came out of the safe in the shack where that boat rental caretaker lives.
+Edgeworth:
+I see... ...! Revenge... on me?
+Maya:
+Who is that old guy, anyway!?
+Edgeworth:
+I... I don't know.
+Phoenix:
+Could he be an innocent defendant you got declared guilty or something?
+Edgeworth:
+Nice, Wright. But I don't remember that old man. Not at all.
+Maya:
+So, he was following this letter, then?
+Edgeworth:
+Which means there was someone else behind it!
+"Now is your time to get revenge on the two men who ruined your life!"
+Edgeworth:
+Two men... meaning myself and Robert Hammond?
+Maya:
+It also says: "This is your last chance!"
+Phoenix:
+Last chance...? Wait, maybe... Maybe he's talking about the statute of limitations on the DL-6 Incident!
+Edgeworth:
+... Wait... Wait, that old man...!
+Maya:
+Wh-what is it!? Do you know who he is!?
+Edgeworth:
+Yogi... Could he be Yogi!?
+Maya:
+Yogi?
+Edgeworth:
+The suspect in the DL-6 Incident. The one who was found innocent.
+(Clearing "The nightmare" "Talk" option leads to:)
+Phoenix:
+This is bad...
+Maya:
+What are we doing to do, Nick? What can we do!?
+Phoenix:
+I don't know... I don't think there is anything we can do. Like it or not. If there's someone else who knows a lot about the DL-6 Incident, maybe...
+Maya:
+...! There is, Nick! There is someone else who knows about DL-6!
+Move
+Grossberg Law Offices
+Leads to:
+December 27
+Grossberg Law Offices
+December 27Grossberg Law Offices
+Phoenix:
+M-Mr. Grossberg!
+Grossberg:
+Ah, hello there. What's wrong? You look troubled.
+Maya:
+No kidding! I can't believe you're not!
+Grossberg:
+M-my my my... Just calm down and tell me what's happened, hmm?
+Maya:
+It's M-Mr. Edgeworth! He... He... *sob*
+Grossberg:
+I see... So, Edgeworth dreamt he shot his own father?
+Maya:
+It's o-only a dream! Only a dream!
+Grossberg:
+... I wonder...
+Maya:
+W-what...?
+Grossberg:
+If that's the case, then why do you two look so troubled, hmm?
+Maya:
+W-well...
+Grossberg:
+Also, consider this. Yogi quite certainly holds a deep grudge against Miles Edgeworth. So deep, he'd want to frame him for murder. This leads me to surmise... That Mr. Edgeworth's dream was NOT a dream. It was real. As you imagined. Miles Edgeworth threw the pistol to save his father... the pistol fired... and the deed was done. ...
+Maya:
+N... No! I don't believe it!
+Grossberg:
+Yogi was suspected of murder, and his career as bailiff was irrevocably wrecked. Thus, he sought revenge on Miles Edgeworth. This was his last chance, of course, with the statute of limitations so close.
+Talk
+Gregory Edgeworth
+Phoenix:
+What do you know about Edgeworth's father?
+Grossberg:
+... He was a defense attorney without peer. It sounds trite, but it's true. Well, he may have had one peer now that I think about it. Your mentor, Mia Fey.
+Maya:
+My sister...?
+Grossberg:
+Gregory Edgeworth was very disapproving of Mr. von Karma's techniques.
+Phoenix:
+(That's no surprise...)
+Grossberg:
+von Karma is an extreme man. Forged testimonies and evidence are nothing to him. The result: he has a perfect win record in court. To beat him, Gregory Edgeworth tried to call attention to his methods.
+Maya:
+And...?
+Grossberg:
+He lost. And died in despair, as it were.
+Maya:
+I see...
+The spirit medium
+Grossberg:
+When Gregory Edgeworth was killed, the police called on a spirit medium. That was your mother, Misty Fey.
+"I am Gregory Edgeworth... I have been killed... The one who shot me... was the bailiff... Yanni Yogi."
+Grossberg:
+Yet Yogi was found innocent.
+Maya:
+That's when my mother left us. Everyone called her a fraud.
+Grossberg:
+That's right. Everyone thought she was, you see. Yet... now that I think about it. It seem the one who lied was Gregory Edgeworth's ghost... Gregory Edgeworth must have known who shot him.
+Phoenix:
+I don't believe it... So you're saying he falsified his "testimony"? That Edgeworth's dad lied to protect his son...?
+Grossberg:
+It's only a possibility, mind you. But... a possibility nonetheless.
+Prosecutor von Karma (appears after presenting Letter from the Safe)
+Grossberg:
+If it truly was von Karma who wrote this letter, then he would know the truth. He would know that Miles Edgeworth had accidentally killed his own father.
+Phoenix:
+...!
+Grossberg:
+He'll say as much tomorrow in court, I should think. He'll press the point until the court finds Miles Edgeworth "guilty."
+Phoenix:
+Oh no!
+Maya:
+B-but how could von Karma know about Mr. Edgeworth's past like that? Even Mr. Edgeworth thought it was just a nightmare!
+Grossberg:
+Hmm... That, I do not know. Yet I do know that von Karma is both persistent... and a perfectionist. He may be seeking to satisfy a grudge against Gregory Edgeworth by hurting his son.
+Phoenix:
+What do you mean?
+Grossberg:
+It was fifteen years ago... von Karma met Gregory Edgeworth in court, and von Karma did win... But he didn't make it through the trial unscarred.
+Gregory vs. Manfred (appears after Prosecutor von Karma)
+Phoenix:
+What happened in the trial between Edgeworth's dad and von Karma?
+Grossberg:
+von Karma got the "guilty" verdict he wanted. He won the trial. But Gregory Edgeworth accused von Karma of faulty evidence. And though he lost the trial, Mr. Edgeworth's accusation stood.
+Maya:
+Faulty evidence?
+Grossberg:
+It was the only penalty von Karma has ever received in his career as a prosecutor. Gregory Edgeworth dealt a blow to his perfect trial record.
+Maya:
+Wow.
+Grossberg:
+It must have been quite a shock for von Karma. He took a vacation for several months after that, you see.
+Phoenix:
+A vacation...?
+Grossberg:
+Yes, an unusual event for the man. That was the first, and the last vacation he's taken in his many years of prosecuting.
+Maya:
+Really!? He doesn't take vacations!? Like... go to the sea, or, uh, to the mountains? Don't tell me he's never been to Europe!?
+Phoenix:
+You have strange ideas about vacations, Maya.
+Grossberg:
+In any case... That was the only time he took a vacation from work. I believe the penalty upset him quite a lot.
+Phoenix:
+(Odd... If he wanted to keep a perfect record so badly... why would he take such a long vacation?)
+Present
+Lake Photo
+Grossberg:
+In any case, it's good that the one shooting isn't Miles.
+Phoenix:
+You bet it's good! (I can't believe the fiendish planning that went into this murder... And we almost fell right into his trap!)
+Maya:
+What a creep!
+Misty Fey's Photo
+Grossberg:
+Ah, she was a beautiful woman... I'm truly sorry about what I did...
+Maya:
+Huh? Sorry about what?
+Grossberg:
+...
+Phoenix:
+(I think I'll stay out of this one...)
+DL-6 Case File
+Grossberg:
+This incident took place 15 years ago tomorrow. So tomorrow will see the completion of not one, but two trials. All thanks to the statute of limitations. However... I'm afraid the damage the DL-6 Incident has done will never be eased...
+DL-6 Incident Photo
+Grossberg:
+Gregory Edgeworth...? He was a gifted man. His death was truly a loss. I wonder what would have become of von Karma were he alive...
+Letter from the Safe
+Grossberg:
+So this is the letter? It does seem that Yogi was following this letter... when he killed Hammond.
+Maya:
+But, why kill Robert Hammond?
+Grossberg:
+Hammond was a skilled defense attorney. But... he defended clients not for their sake, but for his own.
+Phoenix:
+Huh? His own sake?
+Grossberg:
+He never trusted his clients, that one. The only thing he trusted was his own ability.
+Maya:
+But, he got his client found innocent. So why should it matter?
+Grossberg:
+Actually, my dear, it's quite different. He won that innocent verdict for no one but himself. Yogi was a free man, but socially, he was ruined.
+Phoenix:
+(Huh...?)
+Grossberg:
+You'll understand soon enough. ... Wait!
+Phoenix:
+What is it?
+Grossberg:
+This letter... I've seen this handwriting somewhere before... a long time ago! Whose handwriting was this...? Do you have any idea who wrote this?
+Miles Edgeworth
+Phoenix:
+Miles Edgeworth?
+Grossberg:
+Wh-wh-whaaat!? Why in heavens would he write something like this!? Why, this letter is an attempt to destroy Miles! Think before you speak, greenhorn!
+Phoenix:
+(Uh oh. He's angry.)
+Grossberg:
+Think again!
+Leads back to:
+"Do you have any idea who wrote this?"
+Yanni Yogi
+Phoenix:
+Maybe it was Yanni Yogi?
+Grossberg:
+Yanni Yogi!? You claim he wrote himself this letter... then followed his own instructions?
+Phoenix:
+Uh... Yeah, I guess that would be what happened.
+Grossberg:
+Harumph! Perhaps you think Mr. Yogi has a split-personality, hmm?
+Phoenix:
+I think that's definitely a possibility, yes...
+Grossberg:
+Hmm... No, I think not. I do not know this Yogi, in any case. There's no way I would recognize his handwriting.
+Phoenix:
+Oh, right...
+Grossberg:
+Yes, Wright. I'll ask you again.
+Leads back to:
+"Do you have any idea who wrote this?"
+Manfred von Karma
+Leads to:
+"Hmm... could it be Manfred von Karma?"
+Phoenix:
+Hmm... could it be Manfred von Karma?
+Grossberg:
+von Karma? Why would he have something to do with this?
+Phoenix:
+Um, well, I'm not sure...
+Grossberg:
+... Hmm? von Karma... von Karma... W-wait! You're right, my boy! This is von Karma's handwriting, I'm sure of it! I used to see it all the time on court reports...
+Maya:
+Whaaaaaat!? But... but that means...! Th-the one who told Mr. Yogi to kill was...
+Grossberg:
+Correct. Manfred von Karma, himself!
+Phoenix:
+What does this mean, then? Why would von Karma want to frame Edgeworth...?
+Letter from the Safe (subsequent times)
+Grossberg:
+No doubt about it, this is von Karma's handwriting. Yogi was following von Karma's instructions when he killed Hammond.
+Maya:
+But, why kill Robert Hammond?
+Grossberg:
+Hammond was a skilled defense attorney. But... he defended clients not for their sake, but for his own.
+Phoenix:
+Huh? His own sake?
+Grossberg:
+He never trusted his clients, that one. The only thing he trusted was his own ability.
+Maya:
+But, he got his client found innocent. So why should it matter?
+Grossberg:
+Actually, my dear, it's quite different. He won that innocent verdict for no one but himself. Yogi was a free man, but socially, he was ruined.
+Phoenix:
+(Huh...?)
+Grossberg:
+You'll understand soon enough. ... Now, there's only one question left. Why did von Karma write this? And why now?
+Anything else
+Grossberg:
+Er... quite sorry. I have nothing to say to that.
+(Clearing "Gregory vs. Manfred" "Talk" option leads to:)
+Maya:
+What do we do, Nick? von Karma is going to bring up DL-6, you can bet on it! What if Mr. Edgeworth pleads guilty to DL-6!?
+Phoenix:
+I won't let him!
+Grossberg:
+Erm, yes, Mr. Wright... I hate to say this... But even accidental murder is murder, you know.
+Phoenix:
+I know that! ... I... I just believe in Edgeworth's innocence! I can't believe he'd kill someone!
+Maya:
+B-but, Nick! Mr. Edgeworth admits it himself! His father must have lied to protect him, beyond the grave...
+Phoenix:
+I don't care! I know he's not guilty!
+Grossberg:
+... Mr. Wright... If you say so, I suppose I could go check again. The police files might hold something of interest.
+Phoenix:
+Mr. Grossberg... thank you!
+Grossberg:
+I can't promise anything. In fact, I think the chances of finding something are slim.
+Phoenix:
+I understand. (The police materials... hmm.)
+Move
+Criminal Affairs Dept.
+Leads to:
+December 27
+Police Department
+Criminal Affairs
+December 27Police DepartmentCriminal Affairs
+Maya:
+There's hardly anyone here...
+Phoenix:
+Everyone must be out looking for the old guy... Yogi.
+Police:
+Ah, it's you. I don't think Gumshoe'll be coming back today. He's staying out late looking for someone.
+Maya:
+Sounds like Detective Gumshoe is pounding the pavement for real! Um, we were wondering if we could check out the Records Room again...
+Police:
+Well, now, I can't have just anyone wandering around in there. But... I guess Mr. von Karma is in there now, anyway. You can go in as long as he's there.
+Maya:
+von Karma...?
+Police:
+Yes. He just arrived actually.
+Phoenix:
+(von Karma's in the Records Room!)
+Maya:
+N-Nick! Let's hurry!
+Examine
+Detective
+Phoenix:
+That must be one of the detectives. He's mumbling something to himself.
+Police:
+"So, um, what are your hobbies?" "Well... I like to do stake-outs now and then..."
+Phoenix:
+... He must be doing image training for a first date.
+Move
+Records Room
+Leads to:
+December 27
+Police Department
+Records Room
+December 27Police DepartmentRecords Room
+Maya:
+Dusty as always!
+Phoenix:
+We were only here just yesterday. I'm sure they just haven't had time to clean... ...
+Maya:
+What's wrong, Nick?
+Phoenix:
+Nothing. I was just noticing that he isn't here. von Karma...
+Examine
+Cabinet
+Phoenix:
+This cabinet is where they keep evidence for current cases. Some of the things are obviously murder weapons others... are question marks. Most of it just looks like random junk.
+Maya:
+Nick... what do you think this clothespin is for?
+Phoenix:
+Don't touch that. It's evidence...
+Open drawer
+Leads to:
+"Huh? One of the drawers here is open."
+Maya:
+Huh? One of the drawers here is open.
+Phoenix:
+Someone must have been looking in it recently.
+Maya:
+The label says, "Unsolved Cases: Evidence"
+Phoenix:
+Hmm... "Unsolved cases"?
+Maya:
+Nick! The file for DL-6... it's completely empty!
+Phoenix:
+Wh-what!?
+Karma:
+What are you doing in here!
+Maya:
+Eeek! v-v-von Karma!
+Karma:
+You...! ... How do you know my name?
+Maya:
+Huh?
+Karma:
+Have we met?
+Maya:
+W-w-what are you saying!? We see each other every day, don't we? We're Miles Edgeworth's defense team!
+Karma:
+Defense team...?  Ahem. I beg your pardon, you see, I rarely remember defense attorneys. They are like bugs to me. Needless things, to be crushed.
+Phoenix:
+(I can see how this guy was Edgeworth's mentor.)
+Examine
+Open drawer
+Phoenix:
+This large drawer is half-open. The label on the drawer reads: "Unsolved Cases: Evidence." All the stuff in here looks like random junk. Only the evidence for the DL-6 Incident is missing. I can guess who took it, too. von Karma.
+Talk
+Edgeworth
+Maya:
+Uh, umm... Mr. Edgeworth was your student, right?
+Karma:
+... A romanticist who could never shed that veneer of amateurism. Just like his father. Always second rate.
+Phoenix:
+Mr. von Karma... You had an axe to grind with Mr. Gregory Edgeworth, didn't you?
+Karma:
+Me? A grudge against a mere defense attorney? Why?
+Phoenix:
+Because he dealt a blow to your otherwise perfect trial record?
+Karma:
+Hmph.
+Phoenix:
+So you did... but what I don't get is... Why did you take his son under your wing afterwards? The son of your most bitter rival?
+Karma:
+... That, my dear attorney, is none of your business.
+Tomorrow's trial
+Karma:
+Tomorrow will be the last day of this trial. It's been a while since I've had a defense attorney last this long. Still, you will lose in the end. Miles Edgeworth will admit his own guilt.
+Phoenix:
+His guilt of 15 years ago, you mean?
+Karma:
+... You're quite the researcher. If you've done your homework so well, then certainly, you must understand. You know what Miles Edgeworth will tell the court tomorrow.
+Phoenix:
+(We were right... So von Karma is going to bring up DL-6 in court tomorrow.)
+Present
+Letter from the Safe
+Leads to:
+"Mr. von Karma, have a look at this."
+Anything else
+Karma:
+Fool. You think I, a prosecutor, would you, a defense attorney, information? Bah!
+Maya:
+(Creep!)
+Phoenix:
+Mr. von Karma, have a look at this.
+Karma:
+...
+Phoenix:
+This was you, wasn't it? You instructed Yanni Yogi to commit murder.
+Karma:
+... Yanni Yogi... How many years has it been since I've heard him called by that name. He's a fool. I told him to burn it after he read it.
+Maya:
+...! S-so you admit it! You... you wrote Mr. Yogi this letter!
+Karma:
+Yes, my dear defense attorney. Thank you for taking the trouble to bring it to me. You've saved me from a lot of needless hassle.
+Phoenix:
+Wh-what!?
+Maya:
+N-Nick! What is that thing!?
+Phoenix:
+A stun gun. For self defense... usually.
+Karma:
+Indeed. 600,000 volts will course through your body like a dog touching an electric fence.
+Phoenix:
+Six hundred thous...!?
+Karma:
+Oh, don't worry. People don't die from it, usually. Now, give me the letter.
+Phoenix:
+(No!!!)
+Maya:
+Nooooooooooo!
+Karma:
+Whoa! What are you--!?
+Maya:
+N-Nick! Run!!! Aaaaaaaaaaaaah!
+Phoenix:
+M-Maya!
+Karma:
+Out of my way!
+Phoenix:
+Waaaaaaaaaaaah!
+... ... ...
+Phoenix:
+(Ugh... he got us. The letter's... gone, of course. And he took the DL-6 evidence... all of it. Back to having no clues. Wait... Maya jumped first. Maya...! Is she okay? ...) Ma...Maya!
+Maya:
+...
+Phoenix:
+Maya! Open your eyes!
+Maya:
+...
+Phoenix:
+Maya!
+Maya:
+... The letter! Did he take it?
+Phoenix:
+Huh!? Oh... yeah. A-are you okay!?
+Maya:
+... I... I couldn't stop him. I jumped as fast as I could, but one shot from that thing knocked me out cold. I'm useless. I'm not good as a lawyer, or a medium! I can't even call my sister. Not even now, when we need her the most. I wish I hadn't woken up at all.
+Phoenix:
+Maya! (Grr! There has to be some way I can help her! I'd better do something about her self-confidence, first.) ...? (Maya... She's holding something! What is that? A bullet?) "DL-6 Incident, Evidence No. 7 Taken from the heart of Gregory Edgeworth." I remember... von Karma was holding this when Maya jumped him.
+Put DL-6 Bullet in pocket.
+Phoenix:
+(I'll prove it to you, Maya. You're most definitely not useless! I'll prove it to you in court tomorrow!)
+To be continued.
+Nothing to examine during investigation
+Phoenix:
+No clues here.

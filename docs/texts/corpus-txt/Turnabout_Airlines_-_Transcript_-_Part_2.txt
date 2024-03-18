@@ -1,0 +1,2221 @@
+
+Turnabout Airlines
+Transcript
+ 	 	 	 		 			 		 		 		 	 
+Part 1
+Part 2
+March 12, 2:52 PMFlight I-390, Lower DeckCargo Hold
+Gumshoe:
+Wow, so this is the cargo hold, huh!? It's so biiiiiiiig!
+Edgeworth:
+This plane is a special model. It has both a super-large cargo hold and ultra-luxurious First Class seating.
+Franziska:
+So is this the real scene of the murder?
+Edgeworth:
+There is certainly a high probability of that, which is why we are here, correct?
+Gumshoe:
+OK! Let's get investigating, sir!
+Begin Investigation
+Lower Deck Cargo Hold
+Logic
+"Broken glasses" and "Glass shards"
+Edgeworth:
+I think we can safely conclude that these fragments are from a pair of glasses.
+Gumshoe:
+And the victim was waering a pair of broken glasses!
+Edgeworth:
+Exactly what I was thinking. I'm sure that the shards would match up perfectly with the remnants of his glasses' lenses. Ergo, the victim was here, just as I suspected.
+Gumshoe:
+So you're saying... ...that the real scene of the crime was here, sir!?
+Edgeworth:
+Isn't that what I've been saying for a while now!?
+Gumshoe:
+Oh, is it? I didn't know that!
+Edgeworth:
+Perhaps it's a bit early to draw that conclusion? ...however, I believe that the probability has just skyrocketed considerably. All that's left is to find the murder weapon...
+"Profile on Franziska" and "Interpol"
+Edgeworth:
+Now, why would Mr. Hicks have documents profiling Franziska?
+Gumshoe:
+Oh, I know! I bet he's a big fan of Ms. von Karma, sir!
+Edgeworth:
+Franziska said that she had come to this airport as part of an Interpol investigation.
+Gumshoe:
+Oh! Maybe Mr. Hicks had heard she was coming here and he followed her...
+Edgeworth:
+Detective, I think it's more likely that Mr. Hicks was, in actuality, Interpol Agent Hicks. I think Franziska has some explaining to do.
+Partner
+Gumshoe:
+Yes, sir?
+Notice anything?
+Gumshoe:
+This cargo hold is really big! I can't believe they can fit stuff like that in here!
+Edgeworth:
+Detective! What are you going on about!? We're in the middle of an investigation here!
+Gumshoe:
+Whooooa! Stuff's falling on me! Ho ho, I can't get really into my work without something like this happening first. Well, let's get this show on the road! So, which item do you wanna start on!?
+Edgeworth:
+(In this world, there are those who are masochistic, and then there is Gumshoe.)
+Teneiro's lie
+Gumshoe:
+So that flight attendant... Rhoda Teneiro... She's the killer, isn't she?
+Edgeworth:
+I don't think we can say for sure yet. But there certainly are a great number of things pointing us in that direction.
+Gumshoe:
+You mean like how she didn't tell us about her buying her own suitcase?
+Edgeworth:
+Yes, however, in regard to the keycard being stolen... ...I can't seem to find any evidence that she's lying about that.
+Elevator
+Gumshoe:
+Ooh! I just love pushing the buttons on elevators and crosswalk signals! Here, you should give it a try, sir! Go on, push it!
+Edgeworth:
+...The elevator is currently stopped on the first floor, Detective. It can't move.
+Gumshoe:
+Oh, yeah... I guess nothing would happen if you pushed it now...
+Edgeworth:
+Well, nothing would happen normally anyway without the special keycard. (Both the door to the attendants' room and the elevator's control panels... ...require a keycard, which makes it impossible for a passenger to come down here.)
+Boxes on right
+Edgeworth:
+All sorts of boxes are piled up here.
+Gumshoe:
+This one says "FLAMMABLE", and this one... it says "PHARMACEUTICALS"...
+Edgeworth:
+...This one says for "FOR EXORCISM USE ONLY"... (Just what kind of operation is this airline running!?)
+Officer
+Edgeworth:
+Have you noticed anything strange happening around here?
+Officer:
+No, sir! I haven't noticed a thing!
+Edgeworth:
+(I'm not sure that he meant to sound so oblivious...)
+Franziska von Karma
+Edgeworth:
+You arrived at the scene of the crime before Detective Gumshoe, correct? And you then immediately began to direct the investigation. It seems to me that you were already here at this airport for something besides this murder.
+Franziska:
+............Yes, I was.
+Why at this airport?
+Franziska:
+I've been following a very large and involved govermental-level international crime. But it's much too large for one person to take on alone. So it was decided that I should form a joint investigation with Interpol (Interpol - Franziska came to this airport as an Interpol liaison.).
+Edgeworth:
+Interpol is involved...?
+Franziska:
+It's a top-secret operation, so I really can't tell you any more than I already have.
+Truth behind Hicks (after connecting "Profile on Franziska" and "Interpol")
+Edgeworth:
+You came to this airport to rendezvous with the victim, didn't you?
+Franziska:
+...Nonsense! What are you talking about?
+Edgeworth:
+We found a profile detailing information about you in the victim's luggage. I suppose it was prepared for him so that he could recognize you when he landed. Which makes him not Mr. Hicks, but rather, Interpol Agent Hicks. Isn't that correct?
+Franziska:
+...I should've known you'd figure it out, Miles. But it looks like they got to him first.
+Edgeworth:
+So you really did come here to receive an Interpol agent, then?
+Franziska:
+Yes... Agent Hicks was on the trail of a very large international smuggling ring (Smuggling - Agent Hicks was on the trail of an international smuggling ring.). He went undercover to investigate this crime. And it was I who put him on this case. I was supposed to receive a call from him on his cell phone once he had landed. ...I never expected to receive a call about his murder instead.
+Present
+Crime Scene Note or Photo of Mr. Hicks
+Franziska:
+That's the victim... It's infuriating to see him crumpled on the floor like that, lifeless. I will catch the one who did this to him myself! i swear it!
+Edgeworth:
+(Franziska is really worked up over the victim...)
+Mr. Ifly Piggy Bank
+Edgeworth:
+What do you think about this piggy bank, Franziska?
+Franziska:
+What do I think? What else is there to think but that it's the murder weapon?
+Edgeworth:
+I meant, what do you think about the Mr. Ifly itself?
+Franziska:
+It's a crude rendition of a genus of primates commonly referred to as "slow lorises". "Loris" comes from the Dutch word of "simpleton", which is extremely fitting, because... ...that's exactly what Mr. Ifly represents, the guilty simpleton I'm going to arrest.
+Edgeworth:
+(I don't suppose she's capable of giving a more "normal" answer...)
+Anything else
+Franziska:
+There's something much more urgent we should be dealing with right now. Don't waste my time or yours.
+Black suitcase
+Gumshoe:
+Hey, what's with the suitcase, pal?
+Officer:
+It's what the victim checked-in, sir!
+Edgeworth:
+So this suitcase belonged to Mr. Hicks... I don't think he'd mind if we took a closer look.
+Gumshoe:
+There's nothing out of the ordinary in here, sir.
+Edgeworth:
+Wait. A file?
+Gumshoe:
+And there's a photo of Ms. von Karma in it, sir!
+Edgeworth:
+It looks like a profile on Franziska (Profile on Franziska - Why did Mr. Hicks have documents on Franziska in his possession?)... Why would Mr. Hicks have had a file on her...?
+Teneiro's suitcases
+Gumshoe:
+Holy suitcases, Mr. Edgeworth! It's like an all-you-can-use suitcase fair!
+Edgeworth:
+These must be all the left-over ones they couldn't sell. (The ones the company is planning to dispose of after this flight is over...)
+Gumshoe:
+This paint job is really cool, don't you think!? It practically screams "ARTSY!"
+Edgeworth:
+Oh? Why not purchase one, then? I'm sure it will bring you much happiness.
+Gumshoe:
+You think so!? Then maybe I will! Let's see here... ...TWELVE HUNDRED DOLLARS!? .........I think I'll pass.
+Edgeworth:
+(And Ms. Teneiro wonders why they don't sell, You'd need two jobs just to buy one. ...Hmm, it definitely looks like one is missing. Hm? What is this brittle substance I'm stepping on?) It's a bunch of... glass fragments (Glass shards - What are these glass shards from?)...?
+Large cargo
+Gumshoe:
+I didn't know that this plane was capable of carrying such large pieces of cargo. This thing's as tall as two of you on top of each other, sir!
+Edgeworth:
+It would probably take 20 of you to cover the entire surface of this monstrosity.
+Gumshoe:
+What, really!? Hmm... Yeah, I guess that sounds about right!
+Edgeworth:
+(There's really no need to take that throwaway estimate seriously, Detective...)
+Boxes on left
+Edgeworth:
+Keeping track of this many pieces of cargo must be very taxing on the cargo crew.
+Gumshoe:
+This sure brings back memories of when I worked as a part-time mover, sir!
+Edgeworth:
+(By the looks in his eyes, he's waiting for me to ask about the rest of the story... ...but no matter how he pours on the puppy eyes, I have no intention of doing so.)
+(Connecting all possible Logic and Clearing "Truth behind Hicks" "Talk" option leads to:)
+Edgeworth:
+I think we now have pretty definitive evidence... ...that Agent Hicks came down here to the cargo hold.
+Gumshoe:
+But what was he doing down here, sir? There's nothing but luggage! Oh, I get it! Maybe he forgot something in his suitcase, and came down to get it! Owwwww!
+Franziska:
+Agent Hicks came here for a work-related reason. Of that I'm sure.
+Edgeworth:
+Yes, I'm sure he was here to investigate the smuggling operation he was observing. Franziska, do you know exactly how he intended to pursue his investigation?
+Franziska:
+No. Unfortunately, I was going to find out from him after he landed...
+Edgeworth:
+I see... But this raises another question. A normal passenger can't access the cargo hold on their own.
+Franziska:
+Agent Hicks must have identified himself to a member of the crew... ...and entered the cargo hold with that person who let him in.
+Edgeworth:
+Yes, and then he was murdered here... These glass fragments and his broken glasses are a testament to that. And then...
+Franziska:
+The killer put Agent Hicks into one of the spare suitcases and...
+Edgeworth:
+...They entered the elevator, But while they were riding it up... ...the plane hit that patch of turbulence. Because of the intense shaking, the suitcase popped open, and Agent Hicks's body flew out. At the same time, his wallet fell out of his pocket, spilling its contents everywhere. Which explains why there was money scattered all over the elevator floor.
+Investigation Complete
+Franziska:
+I think it's pretty easy to say who the culprit is at this stage.
+Gumshoe:
+What!? Really, sir!?
+Edgeworth:
+.........
+Franziska:
+I know what you're thinking, Miles Edgeworth. But the killer can be none other than Ms. Rhoda Teneiro!
+-- Definitive Evidence --
+Franziska:
+If it was a crew member, any one of them could've shown Agent Hicks to the cargo hold.
+But the point to keep in mind is the keycard that allows the elevator to come down here.
+The only person with such high-level access is Ms. Rhoda Teneiro!
+I'd say that's a pretty decisive piece of information, wouldn't you?
+Edgeworth:
+(I know what she's trying to say, but I'm not certain it's as simple as that.)
+Rebuttal
+-- Definitive Evidence --
+Franziska:
+If it was a crew member, any one of them could've shown Agent Hicks to the cargo hold.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+That might be true, but then, it could be anyone, including Ms. Meele or even the captain.
+Franziska:
+Don't be a fool! A plane without a pilot in the cockpit is like... ...a horse without a rider, crop in hand! Much like Scruffy over there!
+Gumshoe:
+H-Heeeeeeeeeigh!
+Edgeworth:
+(I can't disagree with her on that. Detective Gumshoe does always need a guiding hand.) Very well, then what about the other flight attendant, Ms. Meele?
+Franziska:
+Hah, I thought you might ask about her.
+Franziska:
+But the point to keep in mind is the keycard that allows the elevator to come down here.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+But it's highly likely that the keycard was stolen from Ms. Teneiro!
+Franziska:
+Objection!
+Franziska:
+"It's highly likely"...? Is that "possibility" the best you can come up with? And you call yourself a disciple of my father!
+Edgeworth:
+Nnnrgh! Yes, well... While I don't have any evidence, I...
+Franziska:
+Be quiet! You're a disgrace! There's more evidence pointing to Ms. Rhoda Teneiro, you know! It's not just the keycard that gives her away!
+Edgeworth:
+Are you talking about the murder weapon, the Mr. Ifly piggy bank?
+Franziska:
+Yes! She is also the only person with a key to open that display case!
+Edgeworth:
+............
+Adds statement:
+"Further, there is the matter of the key to the display case that held the murderous bank."
+Franziska:
+Further, there is the matter of the key to the display case that held the murderous bank.
+Press
+Edgeworth:
+Hold it!
+Leads to:
+"But that is a fake..."
+Franziska:
+The only person with such high-level access is Ms. Rhoda Teneiro!
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+Why would such important things, like the keycard, be entrusted to only one person?
+Franziska:
+According to Cammy Meele, Rhoda Teneiro is in charge of most of the "important stuff".
+Edgeworth:
+Then what exactly is Ms. Meele in charge of?
+Franziska:
+Chatting it up with that foolish captain, apparently. She was being so foolishly foolish that I didn't want to ask what her other duties were!
+Edgeworth:
+Gah! I understand how you feel, but whipping me just now was uncalled for!
+Franziska:
+In the end, the only one who could've let Agent Hicks into the hold was Rhoda Teneiro.
+Franziska:
+I'd say that's a pretty decisive piece of information, wouldn't you?
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+Decisive...? Do you really think it's that strong?
+Franziska:
+Objection!
+Franziska:
+There is no room for doubt! All of the other evidence points to her as well!
+Edgeworth:
+Hmm.........
+Franziska:
+No snappy comeback? That's as it should be.
+Edgeworth:
+(Tch... There's not a single flaw in Franziska's reasoning. However, there must be something I can work with that I can draw out of her.)
+Edgeworth:
+But that is a fake...
+Franziska:
+Objection!
+Franziska:
+Stop right there, Miles Edgeworth! You don't have any proof that this is just a red herring! If you must keep on insisting that it's a fake... ...then what is the real murder weapon and where did it go?
+Edgeworth:
+.........
+Franziska:
+Speechless, I see. That's not a surprise. After all, you know that we've searched the entire cargo hold and came up empty-handed!
+Edgeworth:
+(There must be a way... There must be something that can help me rule out the piggy bank as the murder weapon... What should be examined further to help us ascertain the authenticity of the weapon?)
+Piggy bank
+Edgeworth:
+We should examine the bank itself once more to determine if it is the real murder weapon. If this is the real weapon, it should be damaged or perhaps have a dent on it somewhere.
+Franziska:
+We've looked into that already and there is no sign of anything on it. But we can't discount it as the murder weapon on that one fact alone. The piggy bank is, after all, made of a stronger material than human flesh.
+Edgeworth:
+Nnngh... (If I can't prove it through the piggy bank itself, then I must find another way!)
+Leads back to:
+"(What should be examined further to help us ascertain the authenticity of the weapon?)"
+Crime scene
+Edgeworth:
+I think we should examine the crime scene in more detail. We might turn up the murder weapon if we search all of the cargo and luggage.
+Franziska:
+Did you think I hadn't thought of that? Even now, we're searching through them. But we haven't found anything that even closely resembles a murder weapon.
+Edgeworth:
+Tsk... Alright then. I suppose we should examine something else.
+Leads back to:
+"(What should be examined further to help us ascertain the authenticity of the weapon?)"
+The body
+Leads to:
+"Franziska, I think you were too quick to jump to your conclusions."
+Edgeworth:
+Franziska, I think you were too quick to jump to your conclusions.
+Franziska:
+Oh, was I!?
+Edgeworth:
+Yes. We don't even have the autopsy results yet. How can I not say that you made a snap judgement when you have yet to even see... ...if the wound on Agent Hicks's head is consistent with the "murder weapon"?
+Franziska:
+......... Scruffy!
+Gumshoe:
+Y-Yes, sir!
+Franziska:
+Contact the medical examiner's office at once! I wish to hear the results of Agent Hicks's autopsy!
+Gumshoe:
+Eeeek! Yes, siiiiiir!!!
+Gumshoe:
+W-We've got a big problem, Mr. Edgeworth, sir!
+Edgeworth:
+What is it, Detective!?
+Gumshoe:
+They're still doing the autopsy, but they said that they already know this one thing for sure!
+Franziska:
+Report! Now!
+Gumshoe:
+The doc said that it's one giant bruise from a beating from his shoulder down to his mid-back!
+Edgeworth:
+From the victim's shoulder to his mid-back? He was beaten over such a wide area?
+Gumshoe:
+Well, I'd say maybe it's a sign the killer had a grudge against Agent Hicks! It wasn't just his head; the killer went all out and hit him multiple times, sir!
+Autopsy Report data jotted down in my Organizer.
+Franziska:
+Scruffy! What is "had a grudge against Agent Hicks" supposed to mean!?
+Gumshoe:
+I... Well, that's... Um...
+Edgeworth:
+Was the wound on the victim's head consistent with the murder weapon, Detective?
+Gumshoe:
+Oh, well, they said they were still looking into that, sir!
+Franziska:
+............You're completely useless!
+Gumshoe:
+Yeeeeeooooooooowwwww!!
+Officer:
+Sir, I told you already! You can't go down there!
+???:
+No, you remove yourself from my way!
+Edgeworth:
+What is all that racket?
+Lablanc:
+My luggage! My cargo! They're mine, and I demand you return them to me!
+Officer:
+We're still investigating the cargo hold! Please understand and have a little patience!
+Lablanc:
+...I suppose there is no choice...
+Officer:
+Finally... I think he gav... Hey! What are you...!?
+Lablanc:
+You have left me no choice but to use strong force! Aaaaaaaaaaaaaaarrrrrrrrr!!
+Officer:
+Y-You won't get past me!
+Edgeworth:
+(This is...! Wait, that's it! So that's what this whole thing has been about!)
+Franziska:
+Further, there is the matter of the key to the display case that held the murderous bank (Mr. Ifly piggy bank - Is there some way for me to prove that this isn't the real murder weapon?).
+Franziska:
+After all, you know that we've searched the entire cargo hold and came up empty-handed (Weapon couldn't be found - Nobody could find anything that could be considered the real weapon in the hold.)!
+Gumshoe:
+The doc said that it's one giant bruise from a beating from his shoulder down to his mid-back (Cause of death - Extensive bruising from back of head down to mid-back, as if severely beaten.)!
+Connect Logic "Mr. Ifly piggy bank" and "Cause of death"
+Leads to:
+"(Already, the killer struck the victim many times over...)"
+Edgeworth:
+(Already, the killer struck the victim many times over... ...which is why there is extensive bruising over such a wide area. ...But is that really the correct conclusion to draw from the evidence? The bruise from his shoulder to the middle of his back is one continuous mark... ...which is more suggestive of a single blow to the back. If that's the case, then the piggy back is much too small to have caused that. Therefore, the murder weapon must be something far bigger (A sizable weapon - The unusually large area of bruising suggests that a very large weapon was used!)!)
+Connect Logic "Weapon couldn't be found" and "A sizeable weapon"
+Leads to:
+"(Already, the killer struck the victim many times over...)"
+Edgeworth:
+(If we're looking for a rather large weapon, you'd think it would stick out... But so far, we haven't found anything that resembles a weapon of any sort. Perhaps... Just perhaps, it's something we all overlooked from the very beginning. ...because normally, it's too impossibly big to be taken into consideration!)
+Gumshoe:
+Wh-What was that all about!? Was he trying to jump his way down here!?
+Edgeworth:
+Franziska!
+Franziska:
+Wh-What!? What do you want!?
+Edgeworth:
+I found it, Franziska... I found the real murder weapon!
+Franziska:
+Y-You did!?
+Gumshoe:
+He... He really jumped!
+Edgeworth:
+We didn't realize it until now, but... ...the answer has been right in front of us this whole time!
+Gumshoe:
+He might be hurt! We should go check up on him, sirs!
+Franziska:
+There's that pompous attitude of yours again. You should learn to drop that habit.
+Edgeworth:
+(This coming from a prosecutor with a habit of whipping everyone she comes across...)
+Franziska:
+Anyway, if you really are a prosecutor, then you'll back yourself up with evidence!
+Gumshoe:
+...You two aren't listening at all, are you...?
+Franziska:
+Come on then, show me this "real murder weapon" you speak of!
+Show evidence
+Edgeworth:
+This is the real murder weapon!
+Present Mr. Ifly Piggy Bank
+Edgeworth:
+Take that!
+Edgeworth:
+As we have thought all along, the real murder weapon is probably this piggy bank.
+Franziska:
+How easily you flip-flop on your own opinions. Perhaps you should flip-flop with Scruffy there and trade jobs. I'm sure he'd like that.
+Edgeworth:
+......You must be joking! (I can't believe I showed her the fake murder weapon!)
+Leads to:
+"(I need to think about the circumstances of the victim's death in a different way.)"
+Present iFly Suitcase
+Edgeworth:
+Take that!
+Edgeworth:
+The real weapon is... this suitcase.
+Franziska:
+When you say it with such confidence, I suppose you must have some evidence...?
+Edgeworth:
+Of course. Agent Hicks was placed into this suitcase alive. And it was while he was in here that he was beaten in the head and ba...aaackngh!
+Franziska:
+I wonder if you would die if I whipped you from head to toe right now?
+Edgeworth:
+(What are you thinking, woman!? Of course I would!)
+Leads to:
+"(I need to think about the circumstances of the victim's death in a different way.)"
+Present anything else
+Edgeworth:
+Take that!
+Edgeworth:
+I have concluded... that this is the real weapon, I suppose.
+Franziska:
+Wh-What is that supposed to mean, you fool!?
+Edgeworth:
+That... was practice just now for when I would show you the real murder weapon.
+Franziska:
+Why don't we add "practice whippings" to your routine as well?
+Edgeworth:
+Aaaaaaargnnn!
+Leads to:
+"(I need to think about the circumstances of the victim's death in a different way.)"
+Edgeworth:
+(I need to think about the circumstances of the victim's death in a different way. There's a wide bruise running from the victim's shoulder down to his mid-back. Maybe I should be focusing on what could cause such a large bruise in one strike...?)
+Leads back to:
+"Come on then, show me this "real murder weapon" you speak of!"
+Don't have evidence to show
+Leads to:
+"Hmph. I don't have any evidence to show you."
+Edgeworth:
+Hmph. I don't have any evidence to show you.
+Franziska:
+Foolish reasoning for a foolish fool from a foolishly foolish fool meant to fool me... What do you mean by "I don't have any evidence to show"!?
+Edgeworth:
+Perhaps I should've phrased it as "that which caused Agent Hicks's death is incorporeal". Forgive me, but I do believe I have figured out what was the real cause of death!
+Suffocation
+Edgeworth:
+The victim suffered from a lack of oxygen in the elevator and suffocated!
+Franziska:
+..................
+Edgeworth:
+A-And... ...the bruising on his back and his broken neck was caused by his sudden fall to the ground.
+Franziska:
+..................
+Edgeworth:
+..................
+Franziska:
+...You are like a fly buzzing in my ear. Be gone!
+Edgeworth:
+Aaaaargn!
+Gumshoe:
+Aw, that wasn't such a bad guess, Mr. Edgeworth!
+Edgeworth:
+(Without a shred of proof, did he just accuse me of making a good "guess"...? Wait... But he did imply I was on the right track...)
+Leads back to:
+"Forgive me, but I do believe I have figured out what was the real cause of death!"
+Free fall
+Leads to:
+"The victim fell from a great height and subsequently died as a result."
+Strangulation
+Edgeworth:
+The victim was strangled to death inside the elevator! But there are no marks on his neck because... the killer found a way to hide them somehow. A-And... ...the bruising on his back and his broken neck was caused by his sudden fall to the ground.
+Franziska:
+Care to explain how the killer magically erased strangulation marks from around his neck!?
+Edgeworth:
+..................
+Franziska:
+.................. In that case, please allow me to demonstrate.
+Edgeworth:
+That's going to leave a mark!
+Gumshoe:
+Aw, that wasn't such a bad guess, Mr. Edgeworth!
+Edgeworth:
+(Without a shred of proof, did he just accuse me of making a good "guess"...? Wait... But he did imply I was on the right track...)
+Leads back to:
+"Forgive me, but I do believe I have figured out what was the real cause of death!"
+Edgeworth:
+The victim fell from a great height and subsequently died as a result. In other words, the real cause of death is free-falling to the ground!
+Gumshoe:
+He f...f...
+Franziska:
+...Fell to his death!?
+Edgeworth:
+(Yes... This is the only plausible possibility!) The victim has extensive bruising on the back of his head and his back. And the only rational explanation for these injuries is that he fell to his death!
+Franziska:
+B-But the murder happened inside this plane!
+Edgeworth:
+I know.
+Franziska:
+Are you claiming that there is someplace in this plane from which he could've fallen from!?
+Edgeworth:
+As I said earlier, the answer has been right in front of us the entire time!
+Franziska:
+You... You can't mean!?
+Edgeworth:
+Yes, I do. The victim fell from the top of the stairs of this very cargo hold!
+Gumshoe:
+Whaaaaaaaat!? Then... Then... W-We're in trouble! We may have a second death on our hands, sirs! Hey, you! Tell me you aren't dead, pal!
+Lablanc:
+Quiet! Why are you screaming!?
+Gumshoe:
+! He's alive!
+Franziska:
+And there you have it, Miles Edgeworth! It's not possible that Agent Hicks fell over the railing to his death. That man is living proof of that.
+Edgeworth:
+.........I suppose it's true that it's not possible... given the current circumstances.
+Franziska:
+The "current" circumstances? What is that supposed to mean!?
+Edgeworth:
+Suppose that large piece of cargo wasn't there at the time. What would've happened then?
+Gumshoe:
+He would've been a Borginian pancake for sure, sir!
+Franziska:
+I suppose that man over there wouldn't still be breathing... But the reality is that the cargo box is there! So there is no point in entertaining your wild hypothetical scenarios!
+Edgeworth:
+It may be there now... but there is no proof that it was always there!
+Franziska:
+Hah! As if there could've been a window of time when that giant box was not there!
+Edgeworth:
+Ah, but there was.
+Franziska:
+What...?
+Edgeworth:
+(What can I use to show her that it's possible the box was not always where it is now?)
+Present Refueling in Zheng Fa
+Edgeworth:
+Take that!
+Leads to:
+"You refueled in the Republic of Zheng Fa...!?"
+Present anything else
+Edgeworth:
+Take that!
+Edgeworth:
+Doesn't this show sufficient probability to you?
+Franziska:
+Wh-Why are you asking me!? I was the one asking you!
+Gumshoe:
+I think there's some possibility in that, siiiiiiiiiiiir!
+Franziska:
+No one was asking for opinions from the instant noodle crowd, Scruffy!
+Edgeworth:
+(I suppose this is where the phrase "to be whipped by one's opponent" came from.)
+Franziska:
+Don't act as though you have nothing to do with this! Now answer the question!
+Edgeworth:
+(I suppose she's right. But first, I should reconsider all of the information I have.)
+Leads back to:
+"(What can I use to show her that it's possible the box was not always where it is now?)"
+Franziska:
+You refueled in the Republic of Zheng Fa...!?
+Edgeworth:
+Yes, this flight had a short layover in Zheng Fa in order to refuel. But that wasn't the only reason for the layover. We also transferred some cargo. What if the box in question was only transferred onto the plane at that time? To further prove my point, let's take a look at what's next to the box in question.
+Gumshoe:
+Ah! It's labeled "Zheng Fa Express"!
+Edgeworth:
+Correct. Meaning it was loaded onto the plane in Zheng Fa.
+Cargo from Zheng Fa data jotted down in my Organizer.
+Edgeworth:
+Now, what if the box in question was also loaded on at the same time?
+Franziska:
+It would mean that the box... ...was not here in the cargo hold during the Europe - Zheng Fa leg of the flight.
+Edgeworth:
+Making a clear drop from which Agent Hicks could've fallen to his death entirely possible!
+Franziska:
+Ah, but your theory is still very far-fetched.
+Edgeworth:
+Then allow me a chance to prove how very likely my scenario is. (My first order of business will be to examine that piece of cargo in more detail...)
+Begin Investigation
+Lower Deck Cargo Hold
+Partner
+Gumshoe:
+Yes, sir?
+Cause of death
+Gumshoe:
+Man... I can't believe Mr. Hicks fell to his death. I never would have guessed in a million years!
+Edgeworth:
+That is still only a hypothesis, however, the investigation should prove it to be true.
+Gumshoe:
+Speaking of falling, I'm glad that art guy's OK! He took quite the spill!
+Edgeworth:
+Yes, he was lucky to have landed on top of that piece of cargo.
+Gumshoe:
+Yeah, I can just see it now. "Passenger Pays Price for Police Foul Up! Did Prosecutor Edgeworth add fuel to the fire of the first murder with a second death!?" Yup, I'm willing to bet that it'd make the front page!
+Edgeworth:
+.........! (That's not funny, Detective!)
+Officer
+Gumshoe:
+If you spot anything off, you come and tell me right away, OK, pal!?
+Officer:
+Roger, sir!
+Edgeworth:
+(It's rather unusual for Gumshoe to be so directing. He must outrank this officer.)
+Gumshoe:
+If you run into any trouble, you just leave it up to me, OK?
+Officer:
+Yes, sir...! Ah! Watch out, Detective Gumshoe!
+Gumshoe:
+Owwwwwwwwwww!!!
+Franziska:
+Scruffy! I think your ego is in need of some deflating.
+Gumshoe:
+I-I was following in your footsteps, sir... I wanna try patronizing my subordinates.
+Edgeworth:
+(Cruel and unforgiving to the Detective, even in front of his own subordinate...)
+Franziska von Karma
+Edgeworth:
+If I may have a word with you, Franziska...
+Franziska:
+I don't think you have the time for idle chatter. You still need to prove to me that your hypothetical situation is, in fact, really.
+Black suitcase
+Edgeworth:
+So Mr. Hicks was actually an Interpol agent...
+Gumshoe:
+That is so cool! I can't believe he was from Interpol! The adventure! The glamour! And the miraculous big escape when you get caught by the enemy!
+Edgeworth:
+...Except, in this case, there was no big escape.
+Gumshoe:
+...And no miracle.
+Teneiro's suitcases
+Edgeworth:
+The left-over suitcases sit here, lined up in two pretty, neat rows. Too bad for Ms. Teneiro, but this design is unmarketable.
+Gumshoe:
+I'd buy one if it was cheaper, sir! Do you think they'd sell it to me at a discount? Oh! Or! Why don't they sell them in the airport and have a bargain basement sale!? "Buy one get one free! If you win the raffle, you get one more for free!" How about those ideas, sir!?
+Edgeworth:
+I think if they did that, everyone would lose.
+Officer with Lablanc
+Lablanc:
+Borginise speaking! Borginise speaking! Borginise speaking?!
+Officer:
+You can rant at me in Borginian all you want, but no still means no, sir!
+Lablanc:
+What!? You cheap man! You are only waiting for me to give you money, yes!?
+Gumshoe:
+This guy is really pushy... I wonder if he really makes any sales this way.
+Edgeworth:
+As long as I never have to face him in court, he can be as pushy as he wants.
+Large cargo
+Leads to:
+"Hmm... This is a rather large piece of cargo."
+Edgeworth:
+Hmm... This is a rather large piece of cargo.
+Gumshoe:
+There's a tag on it, sir... Let's see... "Alif Red Statue"...? Never heard of it.
+Edgeworth:
+Nor I, but all I care about is if we can prove it wasn't here at the time of the crime.
+Gumshoe:
+Then let's get investigating, sir!
+Lablanc:
+Borginise speaking! Borginise speaking! Look here! Do not go about touching my possessions without my permission!
+Gumshoe:
+Aaack! D-Don't rush up on me like that, pal!
+Edgeworth:
+(So this belongs to Mr. Lablanc, does it? I should see what else I can find out from him...)
+Logic
+"Smuggling" and "Valuable piece of art"
+Edgeworth:
+(If Mr. Lablanc has something to do with the smuggling ring... ...then it's possible this fake statue was brought onboard in Zheng Fa! I think I need to question him a bit further.)
+Partner
+Gumshoe:
+Yes, sir?
+Valuable artwork (after talking about "Lablanc's cargo")
+Gumshoe:
+What exactly is an "extremely valuable piece of art", sir? It is like the stiff you see at country fairs?
+Edgeworth:
+Somehow, I get the impression that it's worth a lot more than you can comprehend.
+Gumshoe:
+So this thing is worth more than I can imagine, huh. Whoooooooooop! It kinda makes me wanna try collection expensive art!
+Edgeworth:
+Collecting expensive art...? Hmm... Interesting. It seems there are people out there besides Mr. Lablanc who know the true value of art.
+Gumshoe:
+Huh? ...Are you talking about me, sir?
+Edgeworth:
+Of course not! Where did you get an idea like that!?
+Smuggling (after talking about "Fake statue")
+Gumshoe:
+Phoo-whee! I thought something smelled fishy in here! Turns out it's a smuggling ring!
+Edgeworth:
+If a smuggling ring is involved in this case... ...then their target would most definitely be the most valuable piece of art.
+Gumshoe:
+And that'd be the two statues on either side of the elevator, right, sir!?
+Edgeworth:
+I doubt those ghastly things are worth anything to anyone other than the person depicted.
+Officer on upstairs
+Edgeworth:
+Good job, officer. Mr. Lablanc is certainly not an easy person to hold back.
+Officer:
+No thanks necessary, sir! It's all part of the job... even if he did eventually get by...
+Edgeworth:
+Well, I have a few things to ask him anyway, so it worked out in your favor this time.
+Officer:
+Thank you very much, sir! Next time, I'll be sure to not let anyone through... ...even if it takes my life in the process, sir!
+Edgeworth:
+...I appreciate the sentiment, however, we can't have people getting hurt on the job either.
+Zinc Lablanc II
+Lablanc's cargo
+Edgeworth:
+I take it that this large piece of cargo belongs to you, Mr. Lablanc?
+Lablanc:
+Of course it is mine! I shipped this fine piece of art from Europe! This "Alif Red Statue" is worth 10 million cents! No! Maybe much, much more!
+Edgeworth:
+(Hmm... Mr. Lablanc's reason for choosing this plane must've been the large cargo hold.)
+Gumshoe:
+Ten million cents...? 
+Edgeworth:
+I suggest you stop trying to calculate how many packets of noodles that makes, Detective.
+Gumshoe:
+Darn... How did you do that!? I feel like you getting better and better at seeing right through me every year!
+Edgeworth:
+(Though I grow with each revolution of the planet around the sun... ...I have the distinct impression he continues to madly spin in place.)
+Gumshoe:
+Hey, Mr. Edgeworth... So that 10 million cents... Is that in Euros or in Dollars?
+Edgeworth:
+.........Does it really make a difference to our case!? Mr. Lablanc, there is a chance that your cargo is related to our murder case. I was wondering if you would allow us to examine it a bit closer.
+Lablanc:
+It is a very valuable piece of art (Valuable piece of art - Mr. Lablanc claims to have brought a piece of art from Europe, but...)! So, no! There will be no touching!
+Fake statue (after connect Logic)
+Leads to:
+"About your statue, Mr. Lablanc..."
+Present
+Borginian Cloth
+Lablanc:
+What a waste! How horrible to see a priceless piece of cloth soiled!
+Edgeworth:
+I-I assure you it wasn't me! I believe it to be the work of the killer.
+Lablanc:
+I will teach that killer a lesson! You can be sure I will! It will be the "Lablanc Revolution"!
+Edgeworth:
+(I think he meant the "Lablanc Retribution", but either way, it sounds intimidating.)
+Anything else
+Lablanc:
+Why do you show me something of no value!? "Show me the bread" first and maybe we will talk!
+Edgeworth:
+(Wait, he wants me to pay him before he'll comment on this?)
+Large cargo (subsequent times)
+Lablanc:
+Look here! Do not go about touching my possessions without my permission!
+Edgeworth:
+(I suppose I have to first appease Mr. Lablanc if I want to examine this in more detail.)
+Edgeworth:
+About your statue, Mr. Lablanc... ...I wonder if it might be a fake.
+Lablanc:
+Wh-What!? How dare you say my art is fake!
+Edgeworth:
+I suspect that your statue... might be the target of an international smuggling ring.
+Lablanc:
+Don't say such fantasical things! Those thieves would not dare! I have the certification of my cargo right here!
+Franziska:
+Do you mean the Cargo Certification document? Mr. Zinc Lablanc! Why didn't you say so earlier!? Please show it to us at once! ......... I can't read this! What does it say!?
+Lablanc:
+It says as plain as day "the cargo was put onto the plane in Europe"!
+Franziska:
+And there you have it, Miles Edgeworth. Too bad for you... ...this statue was brought onboard in Europe, just as it states in this certificate.
+Edgeworth:
+No, that's...!
+Franziska:
+Which means that there never was a window of time in which the statue wasn't sitting there!
+Alif Red Certificate data jotted down in my Organizer.
+Edgeworth:
+............ I respectfully disagree. We can't discount the theory until I see the statue for myself!
+Lablanc:
+Hmph! Then you can have your wish! Look at it yourself and see I am right!
+Edgeworth:
+This...! I know I've seen this somewhere before...
+Gumshoe:
+This is the "Alif Red"!? It gives off such a feeling of ART! I can practically smell it!
+Lablanc:
+This statue has a high amount of historic value! After it was unveiled at a museum in Europe... ...I brought it to this country to exhibit it!
+Alif Red Statue data jotted down in my Organizer.
+Edgeworth:
+(I believe a closer look is warranted here...)
+Zinc Lablanc II
+Lablanc:
+I grant you permission to look, but if you make tiny, single fingerprint... ...I will make you pay 10 million cents!
+Edgeworth:
+Isn't that the value of the statue itself!?
+Lablanc:
+Of course! It is the price of my very valuable time and the loaning of my statue! Now you wasted another minute! That will make your bill 11 million cents now!
+Edgeworth:
+(Ack! I'm going to have to conduct this examination with even greater haste!)
+Alif Red Statue (top side)
+First time
+Edgeworth:
+What have we here...?
+Gumshoe:
+It says "Zheng Fa Express" on the cloth, sir! I'm gonna take a guess and say that this delivery company is based in Zheng Fa.
+Edgeworth:
+If that's the case, then we can assume this was loaded onto the plane in Zheng Fa. (Something is tugging on the corner of my mind... as though something is out of place...?)
+Subsequent times
+Edgeworth:
+(I won't rest until I've inspected every suspicious-looking nook and cranny.)
+Statue
+Edgeworth:
+(So this is the Alif Red statue... I swear I've seen this somewhere before...)
+Gumshoe:
+No wonder this thing is worth 10 million cents! Look at how it sparkles, sir!
+Edgeworth:
+I wouldn't call it "sparkling", Detective... Maybe more along the lines of... "dully shining".
+Statue (after deduce statue's eyes)
+Edgeworth:
+So this Alif Red is a fake...
+Gumshoe:
+That art dealer isn't looking too happy about it either, sir.
+Edgeworth:
+I will get to the bottom of this, for his sake as well as mine.
+Statue (after deduce stuck cloth)
+Edgeworth:
+So this statue was brought onboard in Zheng Fa...
+Gumshoe:
+Which means it's a fake, right, sir?
+Edgeworth:
+Yes, and there is still one last contradiction to resolve here.
+Gumshoe:
+Huh? Where?
+Edgeworth:
+As unobservant as ever, I see. Take a good look at the evidence and it'll come to you.
+Statue's eyes
+Edgeworth:
+Are these eyes made of some sort of gem...?
+Gumshoe:
+That's a real nice shade of orange! For a sec, I couldn't even tell they were jewels! Oh, but they kinda remind me of the eyes of this stray cat that lives near my house!
+Edgeworth:
+(Are the eyes supposed to be this color...? Is it possible this statue... is a fake...?)
+Statue's eyes (after deduce statue's eyes)
+Gumshoe:
+I can't believe you were able to tell this was a fake from a single glance, sir! You knew right away that its eyes were a different color than the ones in the photo!
+Edgeworth:
+Yes, unlike a certain Detective who needs to try a little harder... (The fact that this is a fake means it was swapped with the real one at some point...)
+Deduce
+Edgeworth:
+(Is this spot somehow connected to any of the evidence I hold...?)
+Deduce eyes and present Photo of Mr. Hicks
+Edgeworth:
+Eureka!
+Edgeworth:
+These eyes are awfully orange, don't you think?
+Gumshoe:
+Yeah, and pretty! They remind me of sunsets when I was in grade school, sir!
+Edgeworth:
+...I don't think you see what I'm talking about.
+Gumshoe:
+No, I do. But it's really like the color of the sun when it's setting, sir! Ah, the memories... I remember standing out in that field, spinning with my arms out until I felt ill...
+Edgeworth:
+I don't care about sunsets! Focus, Detective! What color are the eyes in this photo!?
+Gumshoe:
+H-Huh!? Aaaaaaaaaaaaaaaah! Sir! They're red!
+Edgeworth:
+As I thought... This statue is a fake. Mr. Lablanc.
+Lablanc:
+What do you want!? Do you not know I am a busy man!? I allow you two seconds for your answer!
+Edgeworth:
+The Alif Red... I suppose this is your pride and joy, is it not?
+Lablanc:
+It is the biggest trophy on this European trip! Do you know why I wanted to possess this statue? The trigger started 17 years ago...
+Gumshoe:
+Better grab a chair, sir. Sounds like this is gonna be a long story...
+Edgeworth:
+Mr. Lablanc, I regret to inform you, and you have my heartfelt sympathy, but...
+Lablanc:
+What is that? Sympathy? For what?
+Edgeworth:
+You'll see. I'd like you to compare the eyes.
+Lablanc:
+...That large fellow there has very bright and pretty eyes compared to you.
+Edgeworth:
+I wasn't talking about the two of us! I meant the eyes of the statue in front of us and the one in this photo!
+Lablanc:
+Why the sudden yelling!? Now then... Ohhh! It is a photo of the statue on display at the museum in Europe! ............Nnwwwhaaaaaaah!!!
+Edgeworth:
+Now do you see, Mr. Lablanc? The statue before us is a fake.
+Lablanc:
+A...A faaaaaaaaaaaaaaaake!?
+Edgeworth:
+I believe that even further examination will be required... ...now that we have confirmed that this is indeed a fake. There must be some sort of proof that this was brought onboard in Zheng Fa. And I will present to you evidence that will resolve the remaining contradiction!
+Otherwise
+Edgeworth:
+Eureka!
+Edgeworth:
+I'm not entirely confident that there is a contradiction here... What do you think, Detective?
+Gumshoe:
+Well, I think it's really suspicious-looking, sir! My well-trained gut tells me so!
+Edgeworth:
+............I see. Well then, I must be mistaken.
+Gumshoe:
+How come when I answer confidently, you take that to mean we're off course, sir?
+Alif Red Statue (bottom side)
+Stuck cloth
+Edgeworth:
+(What's this...?)
+Gumshoe:
+The statue looks like it's stepping all over its neighbor's cloth cover. It kinda resembles its owner's attitude in a sense, ho ho!
+Lablanc:
+You! What did you said now!? Further, my clothing's hem is not being stepped on by anyone! It is too expensive for me to allow that to happen!
+Edgeworth:
+Please forgive the trespasses of my subordinate.
+Lablanc:
+Why should I forgive if the dress passes!? Unless it is an expensive dress, you keep it!
+Edgeworth:
+............
+Stuck cloth (after deduce stuck cloth)
+Gumshoe:
+I can't believe you could spot a contradiction from a piece of cloth getting stuck!
+Lablanc:
+You two! Why do you continue talking about the hem of my clothing being stuck!?
+Edgeworth:
+(The fact that this was brought onboard in Zheng Fa... ...is going to bring many a tears to Mr. Lablanc's eyes.)
+Deduce
+Edgeworth:
+(Is this spot somehow connected to any of the evidence I hold...?)
+Deduce stuck cloth and present Cargo from Zheng Fa
+Edgeworth:
+Eureka!
+Edgeworth:
+There is clearly a contradiction here!
+Franziska:
+What are you going on about? It's just a simple case of a cargo getting stuck under another piece of cargo. ............ Ah! That's not possible...!
+Edgeworth:
+But it is... It shouldn't be this way, but the statue is on top of the cloth. Supposing that the neighboring piece of cargo was brought onboard in Zheng Fa... ...there is no way that any part of it should wind up under something from Europe. Which means that this fake statue was smuggled onboard in Zheng Fa!
+Franziska:
+But then what about the cargo certificate!?
+Edgeworth:
+Let me ask in return, what about Agent Hicks? Why did he come down here in the middle of the flight?
+Franziska:
+?
+Edgeworth:
+There is only one reason why: to secure proof of smuggling activity aboard this flight.
+Franziska:
+So you say, but I don't believe he had to do that mid-flight. We could've just as easily inspected all of the cargo after the plane landed.
+Edgeworth:
+That must be true, however, you have it backwards, Franziska. Sure, Agent Hicks could have waited until after the plane had landed... ...but he had a reason for coming down to the cargo hold. Suppose he had found the fake at the airport. It would've been after the swap had occurred. At that time, the suspicion would naturally fall onto the statue's owner... ...who would have no way to prove that the statue was switched without his knowledge. Which means there is someone involved who is forging or modifying cargo certificates.
+Alif Red Certificate data updated in my Organizer.
+Edgeworth:
+I believe that even further examination will be required... ...now that we have confirmed that this was brought onboard in Zheng Fa. There must be some sort of proof that this statue is indeed a fake. And I will present to you evidence that will resolve the remaining contradiction!
+Otherwise
+Edgeworth:
+Eureka!
+Edgeworth:
+I'm not entirely confident that there is a contradiction here... What do you think, Detective?
+Gumshoe:
+Well, I think it's really suspicious-looking, sir! My well-trained gut tells me so!
+Edgeworth:
+............I see. Well then, I must be mistaken.
+Gumshoe:
+How come when I answer confidently, you take that to mean we're off course, sir?
+Large cargo on left
+Edgeworth:
+What have we here...?
+Gumshoe:
+It says "Zheng Fa Express" on the cloth, sir! I'm gonna take a guess and say that this delivery company is based in Zheng Fa.
+Edgeworth:
+If that's the case, then we can assume this was loaded onto the plane in Zheng Fa. (Something is tugging on the corner of my mind... as though something is out of place...?)
+Examine evidence
+Eyes of Alif Red Statue
+Edgeworth:
+This statue's eyes look like they're made of a jewel-like stone.
+Gumshoe:
+Those gems sure are pretty! And look at that fiery orange color, sir!
+Edgeworth:
+Well, according to Mr. Lablanc, this whole thing is worth a pretty penny.
+Gumshoe:
+Ooh! I just got a really great idea! I can probably find some rocks down by the river I can polish up to look like real jewels! I think I'll try that out and give one to Maggey as a present next time!
+Edgeworth:
+(I wonder if he's serious... and I wonder if I should try to stop him if he is...)
+Eyes of Alif Red Statue (after deduce)
+Edgeworth:
+The jewels in the eye sockets... They were made to look just like real gems.
+Gumshoe:
+So you mean... these aren't real?
+Edgeworth:
+Do you really think the forgers would waste that kind of money on a replica?
+Gumshoe:
+I guess not... Ooh! I just got a really great idea! I can probably find some rocks down by the river I can polish up to look like real jewels! I think I'll try that out and give one to Maggey as a present next time!
+Edgeworth:
+(I wonder if he's serious... and I wonder if I should try to stop him if he is...)
+(Deduce all contradictions of Alif Red Statue leads to:)
+Investigation Complete
+Gumshoe:
+I guess the victim knew the real version of this was gonna get nabbed, huh?
+Edgeworth:
+Yes. While this photo could be seen as nothing more than a simple souvenir... ...it was in fact taken to be used as a reference document later on. Next, Agent Hicks had to secure proof that the smuggling had taken place. He came down here to take a picture of the cargo hold... ...a rather empty one at that, right before the fake statue could be loaded onboard.
+Franziska:
+A photo of the hold missing a valuable piece of cargo would have been proof enough. After that, all he had to do was hold the Zheng Fa cargo crew and arrest the smuggler.
+Edgeworth:
+Exactly. This only goes to prove my theory. If the statue was not in the cargo hold during the Europe - Zheng Fa leg of the trip... ...there would've been enough height from which Agent Hicks could've fallen to his death!
+Franziska:
+...Officer! Move this statue immediately! I want a thorough examination of the floor underneath. Now!
+Forensics:
+Ms. von Karma! I'm ready to report my findings.
+Franziska:
+Go on.
+Forensics:
+After moving the Alif Red statue out of the way... ...we tested the area under it with Luminol, and there was a reaction!
+Franziska:
+I see, there was a reaction to Luminol... An indication that there was blood in that spot.
+Gumshoe:
+Nngh... Can we stop looking at it now, sirs...?
+Edgeworth:
+It would seem that my deductions were correct after all.
+Franziska:
+...I suppose it would appear that way.
+Edgeworth:
+The culprit cleaned the blood up well.
+Franziska:
+And how do you think the killer did that?
+Edgeworth:
+How did the killer clean up all the blood?
+Present Borginian Cloth
+Edgeworth:
+Take that!
+Leads to:
+"The killer used the bloody cloth I found inside the suitcase to clean up the mess."
+Present anything else
+Edgeworth:
+Take that!
+Edgeworth:
+I would suppose that... perhaps the culprit used this... to clean up the blood.
+Franziska:
+There is no need for you to waste your breath if you're just going to waste my time. After all, I hate to waste my energy on wasteful whipping.
+Edgeworth:
+(If it's that wasteful, then I'd rather that you didn't whip me at all! For the killer to clean up the blood, they would've needed something to soak it up.)
+Leads back to:
+"How did the killer clean up all the blood?"
+Edgeworth:
+The killer used the bloody cloth I found inside the suitcase to clean up the mess.
+Franziska:
+I see. They had a need to clean up all the blood before the plane landed in Zheng Fa.
+Edgeworth:
+Yes, because otherwise, the cargo crew would've discovered it during the layover.
+Gumshoe:
+So you guys are saying... ...that the murder happened before the plane landed in Zheng Fa!?
+Edgeworth:
+(There is no other conceivable timeline for the events of the murder. But if that is true, then that throws a certain person's testimony into doubt!) If the murder occurred before we landed in Zheng Fa, then this becomes highly suspect!
+Ms. Teneiro's testimony
+Edgeworth:
+Ms. Teneiro's testimony... is not particularly suspect, correct?
+Franziska:
+...Correct.
+Edgeworth:
+Well, that's all well and good. Glad we agree.
+Franziska:
+............ No, that is not all well and good, Miles Edgeworth!
+Edgeworth:
+Arrgnnnh! (I suppose there's no fooling her. The point to focus on is the fact that the crime occurred before we landed in Zheng Fa.)
+Leads back to:
+"If the murder occurred before we landed in Zheng Fa, then this becomes highly suspect!"
+Ms. Meele's testimony
+Leads to:
+"Recall Ms. Meele's testimony about Agent Hicks in regard to when we departed Zheng Fa."
+Mr. Lablanc's testimony
+Edgeworth:
+The times referenced by Mr. Lablanc in his testimony are inaccurate. However, I believe the actual body of his testimony is fairly reliable...
+Franziska:
+What are you sputtering on about over there!? Hurry up with your answer!
+Edgeworth:
+H-Hold on! I'm still collecting my thoughts! (The point to focus on is the fact that the crime occurred before we landed in Zheng Fa.)
+Leads back to:
+"If the murder occurred before we landed in Zheng Fa, then this becomes highly suspect!"
+Edgeworth:
+Recall Ms. Meele's testimony about Agent Hicks in regard to when we departed Zheng Fa.
+Meele:
+I saw Mr. Hicks sitting in his seat at 5 AM, you know.
+Edgeworth:
+She claims Agent Hicks was alive at the time of the service calls, but...
+Gumshoe:
+That totally contradicts the facts, sir!
+Franziska:
+But why would she lie about something like that?
+Edgeworth:
+I think the only person who can answer that is Meele herself!
+To be continued.
+March 12, 3:35 PMFlight I-390, Lower DeckCargo Hold
+Edgeworth:
+Ms. Meele.
+Meele:
+.........
+Edgeworth:
+Ms. Meele!
+Meele:
+Huh!?
+Edgeworth:
+Do you recall what you said earlier... ...about when you answered some service calls as we were departing from Zheng Fa?
+Meele:
+..................Huh?
+Edgeworth:
+You said that Mr. Hicks was sitting in his seat at that time. However... that is simply not possible! Because Mr. Hicks was dead long before we ever touched down in Zheng Fa!
+Meele:
+..................Oh?
+Edgeworth:
+Ms. Cammy Meele!
+Meele:
+......... Um... Maybe I didn't see what I thought I did?
+Edgeworth:
+No one could make a mistake so large, Ms. Meele!
+Meele:
+Ummmmmm... But I make that kind of boo-boo all the time.
+Edgeworth:
+.........Nnngh!
+Franziska:
+This is going nowhere. There must be a better way of resolving this contradiction.
+Edgeworth:
+Very well. Ms. Meele, if you please, tell me about your alibi during the time span... ...from just before we were to land at 3 AM and 6 AM when the body was found.
+Meele:
+.........Are you telling me I'm a suspect, Mr. Edgeworth?
+-- Ms. Meele's Alibi --
+Meele:
+.....................Mnngh. Oh, um... yeah...
+From 3 to 4, I was, um... in the flight attendant's room all by my lonesome self.
+.....................Mnngh. Oh, um... yeah...
+And from 5 to 6, I was, um... in the flight attendant's room all by my lonesome self.
+Edgeworth:
+(How is a man supposed to react to a testimony like that...?) Ms. Meele! Wake up!
+Meele:
+Ah! ...............zzz.
+Edgeworth:
+(*sigh* She fell asleep again. It looks like the only way I'm going to be able to wake her up is by pressing her...)
+Rebuttal
+-- Ms. Meele's Alibi --
+Meele:
+.....................Mnngh. Oh, um... yeah...
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+Ms. Meele! Wake up!
+Meele:
+*yawn* I'm awake, I'm awake. ..................zzz.
+Franziska:
+Miles Edgeworth! I demand that you do something about this flight attendant this instant!
+Edgeworth:
+(Why ask me to wake her when you can finally put that whip to an appropiate use?)
+Meele:
+From 3 to 4, I was, um... in the flight attendant's room all by my lonesome self.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+If I remember correctly, food was being served in First Class and the Lounge... ...between the hours of 3 and 4 AM.
+Meele:
+Yeah, but that kind of stuff's run by Ms. Rhoda.
+Edgeworth:
+Then what were you doing in the attendants' room at that time?
+Meele:
+Eating, and then having a most delicious dream!
+Edgeworth:
+You mean you were neglecting your duties!
+Meele:
+No way! Sleeping's part of our job, too, you know.
+Meele:
+.....................Mnngh. Oh, um... yeah...
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+Ms. Meele! How many times do I have to repeat myself!? Wake up!
+Meele:
+*yawn* I'm awake, I'm awake. ..................zzz.
+Franziska:
+......!
+Gumshoe:
+Yeowch!! Wh-What did you whip me for, siiir!?
+Meele:
+Ooh, what did I miss?
+Edgeworth:
+A poor detective being on the receiving end of a lash in your stead.
+Meele:
+Really? Heh, sorry 'bout that.
+Edgeworth:
+You can make amends for that by continuing with your testimony.
+Meele:
+And from 5 to 6, I was, um... in the flight attendant's room all by my lonesome self.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+So you were alone the entire time, were you?
+Meele:
+Yeah, no one else even popped their head in to say, "Hi!"
+Edgeworth:
+(Oh? Well, I think a contradiction just popped in to say, "Hi!" What should I do? Should I raise an objection?)
+Raise an objection
+Leads to:
+"Ms. Meele! There is a clear contradiction embedded in your testimony!"
+Don't raise an objection
+Edgeworth:
+(Maybe not yet. She hasn't exactly given me much to object to, yet, after all...)
+Meele:
+yaaaaaaaaaaaaaaaaaaaaaaawn* What did I miss?
+Edgeworth:
+Ms. Meele! There is a clear contradiction embedded in your testimony!
+Meele:
+Huh? What are you talking about?
+Edgeworth:
+It's not possible that you were alone in the attendants' room the whole time from 5 to 6 AM!
+Present Suitcase Receipt
+Edgeworth:
+Take that!
+Leads to:
+"I wonder if you would be so kind as to take a look at this receipt, Ms. Meele."
+Present anything else
+Edgeworth:
+Take that!
+Edgeworth:
+Now take a look at this eye-opening piece of evidence!
+Meele:
+...............zzz.
+Edgeworth:
+Ms. Meele! I need you to wake up and take a look at this!
+Franziska:
+Enough of your foolishness! Now hurry up and show us the real evidence!
+Edgeworth:
+(Arngh! I guess this wasn't as eye-opening as I thought...)
+Meele:
+..................Mnngh. Oh! Did you say something?
+Present Suitcase Receipt
+Edgeworth:
+Objection!
+Leads to:
+"I wonder if you would be so kind as to take a look at this receipt, Ms. Meele."
+Edgeworth:
+Finally awake, are we?
+Meele:
+What do you mean? I've been awake this whole time...
+Gumshoe:
+Aww, it's alright if you were sleeping, pal!
+Franziska:
+Pay no mind to the scruffy detective beside you, and wake up!
+Gumshoe:
+Yeaaaaaaaaaaaaaaaaaaaw! Hurry up and wake up, Ms. Meele!
+Edgeworth:
+(Enough with the clowning around. This is my show and I will resolve the contradictions as I see fit!)
+Edgeworth:
+I wonder if you would be so kind as to take a look at this receipt, Ms. Meele.
+Meele:
+Huh? A receipt? For what?
+Edgeworth:
+It's for the suitcase Ms. Teneiro bought. Now, if I may direct your attention to the timestamp. As you can see, it clearly says 5:40 AM. Ms. Teneiro!
+Teneiro:
+Yes!
+Meele:
+Huh? Why is the "killer" here? I thought you'd have her locked up by now...?
+Edgeworth:
+I requested that she be present as a witness so that we may straighten out your complex lie.
+Meele:
+.........
+Edgeworth:
+Now then, Ms. Teneiro. Between the hours of 5 AM and 6 AM... ...you took a trip from First Class down to the first floor in-flight shop, correct?
+Teneiro:
+Yes, I went to the shop to buy a suitcase... ...after which, I went straight to the attendants' room to drop it off.
+Edgeworth:
+And did you see Ms. Meele there at that time?
+Teneiro:
+...Um, no.
+Edgeworth:
+So, Ms. Meele, where were you really between the hours of 5 and 6 AM?
+Meele:
+............zzz.
+Edgeworth:
+Ms. Cammy Meele!
+Meele:
+Huh!? Ah, um... The bathroom?
+Edgeworth:
+I'll be the one to ask the questions here!
+Meele:
+Yeah, maybe that's it. I probably just missed her. Nature calls, you know.
+Edgeworth:
+Do you take me for a fool? That's a little too convenient to be true.
+Meele:
+Um... but it's the truth! Cross my heart!
+Edgeworth:
+(Hmm... I don't have enough conclusive proof to counter-argue her at this stage...)
+Meele:
+You don't believe me, do you? But please, won't you give me a chance and hear me out?
+-- Reason for Suspicion --
+Meele:
+Look, I know you're suspecting me 'cause I'm one of the crew.
+But you'd think then maybe you should suspect Ms. Rhoda, too.
+She's the one in charge of the elevator keycard and the shop, you know.
+If you ask me, that makes her super-suspicious.
+Edgeworth:
+Please leave Ms. Teneiro out of the conversation. Only you are under suspicion for now.
+Meele:
+I don't get it. Why are you covering for Ms. Rhoda all of a sudden? Oh! Now I get it! Maybe you've "got your eye" on Ms. Rhoda...
+Edgeworth:
+Of course I'm keeping an eye on her! I can't very well let her escape, can I?
+Meele:
+Never mind... But you wanna know something? Ms. Rhoda actually kinda li...
+Teneiro:
+I have absolutely no interest in people who can't appreciate my sense of design!
+Edgeworth:
+.................. (Now's not the time for this sort of talk!)
+Rebuttal
+-- Reason for Suspicion --
+Meele:
+Look, I know you're suspecting me 'cause I'm one of the crew.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+No, it's not the only reason I have for suspecting you. Your statements regarding Mr. Hicks also turned out to be a bunch of lies.
+Meele:
+Ah, but say I wasn't an attendant. You wouldn't suspect me then, would you?
+Edgeworth:
+Hmm, yes... I suppose that's true enough.
+Meele:
+But you'd think then maybe you should suspect Ms. Rhoda, too.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+She is already being detained for further questioning, or have you already forgotten?
+Meele:
+Oh, Yeah, guess I just forgot.
+Teneiro:
+Cammy... Don't tell me you suspect me, too...
+Meele:
+Sorry, can't help it. I mean, other than you, there's no one else who could've done it.
+Teneiro:
+I can't believe you would think that! I mean, me! A killer...!?
+Edgeworth:
+Ms. Meele, what did you mean just now by "no one else who could've done it"?
+Meele:
+She's the one in charge of the elevator keycard and the shop, you know.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+And what are you in charge of, Ms. Meele?
+Meele:
+Um... I take care of the attendants' room.
+Edgeworth:
+That doesn't count!
+Meele:
+Aww, but I spend so much time in there, it might as well be my responsibility.
+Teneiro:
+Mr. Edgeworth, Cammy is very talented in languages... ...so she assists passengers who may not speak English. Especially those who speak Borginian. She is the only one on this flight who is fluent.
+Meele:
+Oh! You mean that kind of "what am I in charge of"! Why didn't you say so in the first place?
+Edgeworth:
+What else could I have meant!?
+Meele:
+Yeah, so I'm really good at Borginian.
+Edgeworth:
+(She's fluent in Borginian...?) Then I suppose you're in charge of processing documents in Borginian?
+Meele:
+Yeah, I take care of anything that has to do with Borginian.
+Edgeworth:
+(Hmm... Very interesting...)
+Adds statement:
+"All I'm in charge of are the attendants' room and some Borginian stuff."
+Meele:
+If you ask me, that makes her super-suspicious.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+Actually, your on-the-job behavior makes you "super-suspicious" in my eyes.
+Meele:
+Huh? But why?
+Edgeworth:
+While Ms. Teneiro is busy with the passengers and all of her other duties... ...you have a lot of free time on your hands. Thus providing you with ample time to commit the crime!
+Franziska:
+Objection!
+Franziska:
+Miles Edgeworth! I demand that you cease and desist in this line of conjectural questioning. I won't allow you to bluff your way through this like a certain defense lawyer!
+Edgeworth:
+Nngh... But I do not honestly believe Ms. Meele does any actual work aboard this flight.
+Meele:
+Oh, that's not true, Mr. Edgeworth. Although... Well...
+Meele:
+All I'm in charge of are the attendants' room and some Borginian stuff.
+Press
+Edgeworth:
+Hold it!
+Edgeworth:
+So what exactly do you do as the one in charge of "some Borginian stuff"?
+Meele:
+Um, I do stuff like translate things from and into Borginian.
+Teneiro:
+Cammy is the only member of the crew who understands Borginian, Mr. Edgeworth.
+Edgeworth:
+Ms. Meele, I take it then that it is your job to process all the Borginian paperwork?
+Meele:
+Yeah. See, I toootally pull my weight around here.
+Edgeworth:
+So it would appear. (Perhaps I should ask her for a few more details about her work. And...)
+Present Alif Red Certificate
+Edgeworth:
+Objection!
+Leads to:
+"So, you are the only one in this flight crew that speaks Borginian..."
+Edgeworth:
+Ms. Meele, it's very unladylike to push suspicion onto someone else.
+Meele:
+That's not what I'm doing at all! I'm just saying that Ms. Rhoda is very sus...
+Edgeworth:
+There you go, pushing everything onto her again!
+Meele:
+Umm.. I don't get what you're saying... It must be a really abstract concept, huh?
+Edgeworth:
+(Hmph. The only thing abstract here is the landscape inside your head.)
+Edgeworth:
+So, you are the only one in this flight crew that speaks Borginian... Is that correct?
+Meele:
+............Oh! Yeah, I guess so. I studied abroad in Borginia for a while.
+Edgeworth:
+If that is the case, then the signature on this document... ...belongs to you, doesn't it?
+Meele:
+!
+Edgeworth:
+This is a falsified piece of documentation with only one purpose. To lead anyone who read it to believe that Mr. Lablanc's statue was loaded in Europe. The only person who could've either prepared or processed this document in Borginian... ...is you, Ms. Meele.
+Meele:
+..................
+Edgeworth:
+Without your participation, the smuggling of the Alif Red could not have occurred!
+Meele:
+..................
+Edgeworth:
+Don't sleep while I'm pointing my finger at you!
+Meele:
+Oh, I wouldn't dream of falling asleep on you, Mr. Edgeworth.
+Edgeworth:
+!
+Meele:
+It is exactly as you say.
+Edgeworth:
+Are you confessing to having participated in the smuggling?
+Meele:
+No, far from it. It's true that I was the one who signed off on that document. But you can't use that fact alone to make your allegation of smuggling stick. There is no direct correlation, after all. All you have is my signature on a piece of paper.
+Edgeworth:
+Really? All you did was sign it?
+Meele:
+I neglected to check if the cargo had been loaded onto the plane properly. So, sorry about that.
+Edgeworth:
+Hmm... (It seems that she's finally woken up. This is going to be one tough fight...)
+Meele:
+Suppose... And this is just a supposition... Even if I was involved in the smuggling... ...you can't throw the charge of murder on me just like that.
+Franziska:
+Objection!
+Franziska:
+If you were involved in the smuggling, you would have a strong motive to kill! Agent Hicks was in the middle of an investigation regarding a smuggling ring. And just when he was about to close in, he's killed by a member of that ring...
+Meele:
+Well, did you ever stop to think that maybe Rhoda is the smuggling ring member? After all, unlike me, Rhoda has access to many things on this plane for "work" purposes.
+Edgeworth:
+Hmph. So perhaps there is some element of a set-up at play in this case.
+Meele:
+What are you talking about?
+Edgeworth:
+Don't worry, I wasn't talking about you. I meant the killer. First, it was myself, and now it's Ms. Teneiro who is under the microscope. Seems to me that our killer is going to great lengths to pin this crime on anyone they can.
+Meele:
+You have no proof that Rhoda is being set-up, or that she isn't.
+Edgeworth:
+Actually, I believe that she was indeed the intended target from the very beginning. I believe that the plan was to push all of the blame for the crime onto her. And this evidence will prove my suspicions! This proves that the killer was out to frame Ms. Teneiro from the very beginning!
+Present iFly Suitcase
+Edgeworth:
+Take that!
+Leads to:
+"The killer used the bloody cloth I found inside the suitcase to clean up the mess."
+Present anything else
+Edgeworth:
+Take that!
+Edgeworth:
+This piece of evidence will answer all of our questions.
+Meele:
+Are you sleep-presenting or something, Mr. Edgeworth?
+Edgeworth:
+No, as you can plainly see, I am wide awake.
+Meele:
+Ha ha ha, then I'm afraid you failed. You were making so little sense that I thought maybe you were asleep.
+Edgeworth:
+(Argnh! Talk about a Dr. Sleepy/Mrs. Hyde-esque transformation! Is this it? But wasn't there a piece of evidence that's still unaccounted for...? I need to stay calm, think carefully, and then present the condemning evidence!)
+Leads back to:
+"This proves that the killer was out to frame Ms. Teneiro from the very beginning!"
+Edgeworth:
+The killer could have hidden the body anywhere, and yet they chose the suitcase. Why is that? Perhaps it was to move the body up from the lower deck to the first floor. However, why go through the trouble to do so?
+Meele:
+......
+Edgeworth:
+The only way all of these actions make sense... ...is if the killer had wanted to frame Ms. Teneiro for the murder. Ms. Teneiro buys a suitcase on every flight she works without fail. But, should her suitcase be switched with the one containing the victim's body... ...that would put her in a very tight spot. Unfortunately, for the killer, the turbulence put an end to that plan.
+Meele:
+...Hmph.
+Edgeworth:
+There wasn't enough time to put the body back into the suitcase. Ergo, they made due with whoever was at hand, adapted their plan... ...and tried to frame me, as I lay unconscious on the floor from the turbulence. The killer then went to hide the suitcase in the in-flight shop... ...and brought the piggy bank back to the elevator in order to fabricate a false weapon. A lot of work for a fruitless endeavor, wouldn't you agree?
+Meele:
+Sounds like the killer had a tough time, too, huh. I mean, why did the killer need to frame someone that badly anyway?
+Edgeworth:
+That is because of the special circumstances surrounding this particular case. (What special circumstance dictated the need for the killer to frame someone?)
+Where the murder took place
+Leads to:
+"The special circumstance is simply that the murder took place on a plane mid-flight."
+When the murder took place
+Edgeworth:
+The murder took place before the movie was scheduled to go on. Around that time, almost all of the passengers had returned to their seats. Therefore, the killer had to choose someone who was not at their seat to frame...
+Franziska:
+Isn't that an explanation for how the killer chose who, and not why they had to?
+Edgeworth:
+Well, I thought it best to start from there.
+Meele:
+If you're going to talk about completely unrelated matters, do you mind if I take a nap?
+Edgeworth:
+H-Hold on! I'm just getting to the meat of my argument!
+Leads back to:
+"(What special circumstance dictated the need for the killer to frame someone?)"
+Who the murder victim was
+Edgeworth:
+The killer was at a loss of what to do with Agent Hicks's body. But, as it just so happened, there were a bunch of empty suitcases nearby. Being a skinny man, the killer thought to put his body in the suitcase and hand it off...
+Meele:
+You mean that the whole plan to frame someone was an elaborate coincidence?
+Edgeworth:
+No, that's not what I said. You've wrongly deduced my meaning, Ms. Meele.
+Franziska:
+The one with the wrong deductions is you! Think before you speak again!
+Edgeworth:
+...Patience, Franziska! I was about to reveal the truth!
+Leads back to:
+"(What special circumstance dictated the need for the killer to frame someone?)"
+Edgeworth:
+The special circumstance is simply that the murder took place on a plane mid-flight. No matter which country, customs is quite strict in this day and age... ...so no matter what you do, the chances that the body will be found is very high. Therefore, there was no choice but to frame either Ms. Teneiro or myself. In other words, the only one who fits within the boundaries of the criminal's movements... ...is not Ms. Teneiro or myself... ...but you, Ms. Cammy Meele! Only you and you alone could be the killer.
+Meele:
+*yaaaaaaaaaaaaaaawn*... And?
+Edgeworth:
+...?
+Meele:
+Are you done already? I was about to fall asleep again. Anyway, let's be honest here. You don't have anything on me other than a whole lot of circumstantial evidence!
+Edgeworth:
+...Nnnghk! (I can see the outline of how the murder occurred, but I have no definitive evidence... And isn't there a piece of evidence that's still unaccounted for...? Something that I still can't quite fit into the big picture?)
+Present Missing Cell Phone
+Edgeworth:
+Take that!
+Leads to:
+"I don't have any actual evidence..."
+Present anything else
+Edgeworth:
+Take that!
+Edgeworth:
+This piece of evidence will answer all of our questions.
+Meele:
+Are you sleep-presenting or something, Mr. Edgeworth?
+Edgeworth:
+No, as you can plainly see, I am wide awake.
+Meele:
+Ha ha ha, then I'm afraid you failed. You were making so little sense that I thought maybe you were asleep.
+Edgeworth:
+(Argnh! Talk about a Dr. Sleepy/Mrs. Hyde-esque transformation! Is this it? But wasn't there a piece of evidence that's still unaccounted for...? I need to stay calm, think carefully, and then present the condemning evidence!)
+Leads back to:
+"(Something that I still can't quite fit into the big picture?)"
+Edgeworth:
+I don't have any actual evidence...
+Meele:
+I thought not.
+Edgeworth:
+But that's because it went missing, and still is.
+Franziska:
+Missing...? What do you mean by that?
+Edgeworth:
+In the complex puzzle that is this case, there was one piece I kept getting stuck on. And that is the victim's cell phone. Franziska. You were waiting at the airport for a phone call from Agent Hicks's cell phone. Or at least, that's what you told me.
+Franziska:
+That's right!
+Edgeworth:
+But Agent Hicks's cell phone could not be found at the crime scene.
+Franziska:
+You mean, the killer took the phone with them!?
+Edgeworth:
+Precisely. I suspect that if we were to find that phone, it would lead us to the killer!
+Meele:
+Ha ha ha. Come on. Get serious.
+Edgeworth:
+?
+Meele:
+If the victim fell to his death from that height, wouldn't his phone break as well?
+Edgeworth:
+We won't know that until we try a little experiment, will we? Franziska, I'd like to ask for your assistance. You know the victim's phone number, do you not?
+Franziska:
+Of course I do.
+Gumshoe:
+Agent Hicks's phone! It's ringing from somewhere, sir!
+Edgeworth:
+(I hear it, Detective. Now, where is it coming from?)
+Partner
+Gumshoe:
+Yes, sir?
+Notice anything?
+Gumshoe:
+Mr. Edgeworth! It sounds like the cell phone's in the flight attendants' room, sir!
+Edgeworth:
+Indeed. We should move to retrieve it at once!
+Large cargo
+Edgeworth:
+(We've determind that the real crime scene is here. All that's left is to catch the killer!)
+Cammy Meele
+Meele:
+......zzz.
+Edgeworth:
+Ms. Meele! Wake up!
+Meele:
+...Sorry, Mr. Edgeworth. I got sleepy all of a sudden because it sounds like a lullaby I used to love as a child.
+Edgeworth:
+(Nnrgh...! I'd better find that cell phone fast!)
+Rhoda Teneiro
+Teneiro:
+Mr. Edgeworth...
+Edgeworth:
+Don't worry, Ms. Teneiro. I will get to the bottom of this and find the truth. So please, wait here until I return.
+Teneiro:
+Alright... Thank you for all you're doing, Mr. Edgeworth...
+Franziska von Karma
+Franziska:
+It sounds like it's coming from the flight attendants' room.
+Edgeworth:
+I agree. Please don't hang up just yet. Let me find it first.
+Franziska:
+That's fine, but let's get one thing straight.
+Edgeworth:
+Yes?
+Franziska:
+Don't you dare answer his phone when you find it, understand?
+Edgeworth:
+(...I understand that you don't want to pay for the call...)
+Elevator
+Edgeworth:
+(The elevator is inoperable right now. The ringing is coming from the attendants' room. I'll have to use the stairs.)
+Anything else
+Edgeworth:
+(It sounds like the phone is up in the flight attendants' room.)
+Gumshoe:
+We'd better hurry to the flight attendants' room, sir!
+March 12, 4:12 PMFlight I-390, First FloorFlight Attendants' Room
+Gumshoe:
+The ringing's coming from somewhere in here, sir!
+Edgeworth:
+Leave no stone unturned, Detective Gumshoe! We must find it!
+Box filled with stuffs
+Edgeworth:
+It doesn't seem like the phone got mixed in with the items in this lost and found pile.
+Gumshoe:
+Well, it's not like the victim would've just dropped it somewhere, right, sir?
+Anything else
+Edgeworth:
+It doesn't seem to be over here...
+Gumshoe:
+Then let's look somewhere else, sir!!
+Panel
+Edgeworth:
+This is the emergency control panel for the elevator. The switches are currently set to "1F Open". ...which means that right now, it's stopped on the first floor with its doors wide open.
+Opened locker
+Edgeworth:
+The ringing is coming from somewhere around here.
+Gumshoe:
+But it's not here, sir...
+Edgeworth:
+(Why do I have such a bad feeling about where we're going to find the phone...?)
+Closed locker
+Leads to:
+"The ringing's coming from in here, sir!"
+Suitcase
+Edgeworth:
+I wonder if it might be inside this suitcase...?
+Gumshoe:
+I don't hear any sounds coming from inside, sir.
+Edgeworth:
+(I don't suppose the culprit would have been so dumb as to try the same trick twice.)
+Gumshoe:
+The ringing's coming from in here, sir!
+Edgeworth:
+(Wh-What...? No, it can't be!)
+Gumshoe:
+This has gotta be the victim's cell phone! Just whose locker is this, sir!?
+Edgeworth:
+...It's Ms. Teneiro's.
+Gumshoe:
+Whaaaaaaaat!?
+March 12, 4:28 PMFlight I-390, Lower DeckCargo Hold
+Meele:
+So Mr. Edgeworth, how did it go? Where did you find the phone?
+Edgeworth:
+...I found it in the flight attendants' room... In Ms. Teneiro's locker...
+Teneiro:
+Wh-What!? But...!
+Franziska:
+Rhoda Teneiro!
+Teneiro:
+I don't know anything about the phone! It wasn't me! It wasn't me...
+Meele:
+Ms. von Karma, is it? I suggest you arrest Ms. Rhoda Teneiro right away.
+Edgeworth:
+Objection!
+Edgeworth:
+Wait! I have a theory! This is related to the incident with the keycard! When the killer went to steal the keycard... ...they conveniently stashed the cell phone in Ms. Teneiro's locker at the same time!
+Franziska:
+Objection!
+Franziska:
+This is related to the keycard alright. In the same way that we have zero proof that the killer did just that.
+Edgeworth:
+Nnngh!
+Franziska:
+The only voice that sings the truth is evidence. That is the one bird we cannot ignore.
+Edgeworth:
+(What should I do? Franziska's right. I can't offer baseless conjectures at this point! Alright then, why did the culprit take the cell phone from Agent Hicks? It must have something very incriminating on or in it!)
+Edgeworth:
+Hold it!
+Franziska:
+What now, Miles Edgeworth!?
+Edgeworth:
+It's not over yet! We have yet to figure out why the killer took the phone!
+Franziska:
+What!?
+Edgeworth:
+Inside this phone lies the final piece of incriminating evidence that will point us to our killer. (We need to examine this phone in more detail!)
+Examine LCD
+Edgeworth:
+The LCD is broken. Without a screen, you can't even place a call with this.
+Examine button on right
+Edgeworth:
+This must be the switch that opens the phone... Hmm...
+Examine keyboards
+Edgeworth:
+...! When did they start putting keyboards like these into cell phones?
+Gumshoe:
+Hey! This is one of those "computer cell phones" that they started selling recently!
+Edgeworth:
+..."Computer cell phones"?
+Gumshoe:
+Yeah! It's got a computer in it, AND it's a cell phone! Neat, huh, Mr. Edgeworth?
+Edgeworth:
+...All you need in a phone is the phone part. Nothing more.
+Gumshoe:
+Hmm... I'm guessing yours can't even send out e-mail... Talk about inconvenient.
+Edgeworth:
+...Do you have a problem with what I do and do not care for, Detective?
+Gumshoe:
+Ah! No... No, sir! As they say, "Simple is best!"
+Examine camera lens
+Leads to:
+"Ah! It's camera lens!"
+Edgeworth:
+Ah! It's camera lens! Come to think of it... ...I wonder... How exactly was Agent Hicks planning to preserve the crime scene of a smuggling? Franziska! I need you to confirm something... This cell phone... Can it take pictures?
+Gumshoe:
+Mr. Edgeworth! I can't believe you don't know about this kind of basic stuff, sir!
+Franziska:
+This looks like a very similar model to my own. And mine can take photos just fine.
+Edgeworth:
+Do you think Agent Hicks could've taken some pictures with this? In particular, pictures as evidence for his smuggling case? If so, I'd say there may be some very inconvenient photos in here for our killer-smuggler!
+Gumshoe:
+But the phone's all busted up, sir!
+Meele:
+Even a super-prosecutor can't repair a broken phone.
+Edgeworth:
+(Gnnrgk! I'll find a way, don't you worry about that!)
+Meele:
+*yaaaaaaaaaaaaaaaaaaaaawn* May I go back to sleep now?
+Franziska:
+Objection!
+Franziska:
+The LCD screens on the inside and outside are broken, that's for sure. But that's also reason enough to believe that the killer wasn't able to erase the data.
+Meele:
+What!?
+Edgeworth:
+What do you mean by that, Franziska!?
+Franziska:
+It looks like our killer isn't very familiar with electronics. This phone still rang when I called it, meaning that only the LCD screens are broken. It's possible that the photos are still there inside, waiting to be accessed. All we need to do is transfer the data to my phone!
+Meele:
+...!
+Edgeworth:
+Franziska! Your phone, if you please!
+Franziska:
+Very well... It's transferring... Alright, displaying it now...
+Edgeworth:
+...! This is...
+Franziska:
+Agent Hicks was most certainly trying to obtain some evidence for his smuggling case.
+Gumshoe:
+Hey! The Alif Red's nowhere in this pic, sir!
+Meele:
+But this has no meaning as a piece of evidence in this murder case, right?
+Gumshoe:
+Ouch, she's right. There's not much we can find out from this about Agent Hicks's killer, sir.
+Edgeworth:
+(...Is this it? ...Is this the end...? Is there really nothing in this photo that we can use...!?)
+Suitcases
+Edgeworth:
+The fact that all of the suitcases are here in this photo is odd!
+Franziska:
+Agent Hicks was still alive at this time. So what exactly is so odd about suitcases that haven't been used yet bring there?
+Edgeworth:
+Yes, well, I was only pointing out things that are different between now and then.
+Franziska:
+Your off-topic ramblings have put this attendant to sleep yet again, Miles Edgeworth!
+Meele:
+...Gnngh...
+Edgeworth:
+(Grr... I'll give sleepyhead here a rude awakening: a deafening objection and a contradiction!)
+Bedsheets boxes
+Edgeworth:
+Boxes of bedsheets... These are still in the cargo hold. (There's nothing unusual about them in particular, but I can't shake the feeling...)
+Meele:
+*yaaaaawn*... If you're just playing around, mind if I go home?
+Edgeworth:
+Yes, I mind! (I need to focus on what's different now from back then!)
+Guard rail
+Edgeworth:
+The guard rail.. It looks exactly the same as it does now.
+Lablanc:
+That rail is entirely too low! I even almost fell to my death! However! I was saved in a miracle-like maner! Perhaps that is what "to run away from death by the skin of one's gum" means!
+Edgeworth:
+(Try "to narrowly escape death by skin of one's teeth", Shakespeare. Now then, there must be something in this photo...!)
+4 boxes on right
+Leads to:
+"What's all this...?"
+Edgeworth:
+What's all this...?
+Lablanc:
+Hm? Oh! They are cargo shipped from Borginia to Zheng Fa.
+Edgeworth:
+(So the reason they aren't here now is that they were dropped off in Zheng Fa...) Mr. Lablanc, can you tell me the contents of the boxes? Unfortunately, there is no English written on them anywhere...
+Lablanc:
+Hmm... One cluster of boxes is written in Borginian. It says "Borginian Speaking". It is "cloth" in English.
+Edgeworth:
+Cloth...? (Could it be...!? Is this where the killer...!?)
+Lablanc:
+Wh-What!? What for is that scary face!?
+Edgeworth:
+Ms. Meele.
+Meele:
+Yes?
+Edgeworth:
+It appears that Agent Hicks was no ordinary investigator.
+Meele:
+?
+Edgeworth:
+He left us with a piece of evidence after all. A striking piece that will point out who his killer is!
+Meele:
+Hah! Maybe you shouldn't force your mistaken reading of a simple picture, Mr. Edgeworth.
+Edgeworth:
+The Borginian cargo and this piece of evidence will point us straight to the killer!
+Present Borginian Cloth
+Edgeworth:
+Take that!
+Leads to:
+"And what is that supposed to prove?"
+Present anything else
+Edgeworth:
+Take that!
+Meele:
+Would you care to fill me in on what you are trying to prove with that?
+Edgeworth:
+It's quite simple. It shows that I will be re-presenting my evidence!
+Meele:
+I'm not laughing.
+Edgeworth:
+I-It wasn't meant to be a laughing matter!
+Leads back to:
+"The Borginian cargo and this piece of evidence will point us straight to the killer!"
+Meele:
+And what is that supposed to prove?
+Edgeworth:
+The killer used this piece of cloth to wipe up the blood they had split. But there was one thing that bothered me this whole time: "Where did it come from?" And now, I have finally found my answer in this very photo! The cargo that was unloaded in Zheng Fa had "cloth" written on it. In Borginian, that is. And this is where the killer grabbed a piece from to clean up the blood with!
+Meele:
+!
+Edgeworth:
+That's right. The killer was someone who could read and understand Borginian. And the only crew member that fits that description is you, Ms. Cammy Meele!
+Hold it!
+Meele:
+Hah! That's pretty flimsy! The killer probably searched through all the boxes looking for something to use. When you're frantic, you don't care if the box is in English or Borginian!
+Edgeworth:
+Objection!
+Edgeworth:
+Sorry, but I cannot agree with your assessment of the killer's indiscriminate nature.
+Meele:
+What!?
+Edgeworth:
+There was no need for the killer to tear through boxes at random at all. And if the killer supposedly could not comprehend Borginian... Well then... Logically, the killer would have opened this box first!
+Present Bedsheets boxes
+Edgeworth:
+Take that!
+Leads to:
+"Hey, it says "Bedsheets" in English right on the box, sir!"
+Present anywhere else
+Edgeworth:
+Take that!
+Edgeworth:
+This proves that the killer knew how to read Borginian!
+Meele:
+Where?
+Edgeworth:
+You don't fool me! Don't pretend as though you don't see what I'm talking about.
+Franziska:
+...I don't understand either.
+Gumshoe:
+I don't get it at all, sir.
+Edgeworth:
+...Alright then, I will show it to you all once again in a more understandable fashion.
+Franziska:
+You don't fool me! Don't pretend as though you know what you're talking about.
+Edgeworth:
+(I probably should have known better than to play pretend.)
+Leads back to:
+"Logically, the killer would have opened this box first!"
+Gumshoe:
+Hey, it says "Bedsheets" in English right on the box, sir!
+Edgeworth:
+Precisely. And bedsheets would be perfect for cleaning up blood, wouldn't you say?
+Hold it!
+Meele:
+So what are you trying to say!?
+Edgeworth:
+That if I were the criminal... ...this box of bedsheets would have been what I would have spotted first.
+Franziska:
+However, the killer chose to use some Borginian cloth... Do you have an explanation for that?
+Edgeworth:
+The killer didn't want anyone to know that the real scene of the crime was this cargo hold. So they were afraid to leave signs that the box for the sheets had been opened. However, the Borginian cloth... Well, that's a horse of a different color!
+Franziska:
+Because the killer knew that it was going to be unloaded in the Republic of Zheng Fa!?
+Edgeworth:
+That's right. That is why the Borginian cloth was used. And the only Borginian-reader onboard who could make such a calculated decision... ...is you, Cammy Meele! You and you alone!
+Meele:
+Unnnnnngh...!
+Edgeworth:
+It would be very easy for us to confirm if any of the boxes were re-sealed. All we would have to do is contact the Zheng Fa authorities in time. We may even find other evidence to incriminate our killer within those boxes.
+Meele:
+Grrrrrrrrrr!
+Edgeworth:
+So what do you say, Ms. Meele? Why not confess to your crime here and now? Or would you rather wait and see what we find out from our investigation in Zheng Fa!?
+Meele:
+.............................. Oooooo......oooooo...... Oooooo......oooooo...... Nooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo! He... He was Interpol... I couldn't stop it... I brought him here... He started taking pictures... I... I couldn't be found out... I... was scared... I... was in trouble... I... I... I I I I I I I I I I I I I I...
+March 12, 5:26 PMFlight I-390, First FloorLounge
+Gumshoe:
+We've finished making all the arrangements to take the suspect in, sir.
+Edgeworth:
+Very good, Detective. What about the smuggling route? Did she say anything about that?
+Gumshoe:
+They're taking her down to the precinct now. Hopefully, we can get more out of her there. Whenever we even approached the topic, she just started foaming at the mouth. It was scary, sir...
+Edgeworth:
+(She probably wasn't prepared to commit a murder all of a sudden. One thing is for sure, the ring behind this whole mess means serious business. It looks like there's a lot more to this case than meets the eye...)
+Teneiro:
+Mr. Edgeworth! I just wanted to say how much I appreciate everything you did. Thank you very much.
+Edgeworth:
+It was nothing. In fact, I should be the one thanking you for your cooperation.
+Teneiro:
+But truly, if it wasn't for you, I... I might not be here right now. Instead, I can continue to serve our passengers as a flight attendant! Um... I hope that... Well, please accept this as a token of my appreciation.
+Edgeworth:
+Th-That's...
+Teneiro:
+I see... You don't have to take it if you don't want it.
+Edgeworth:
+N-No... I mean, I would never turn down a lady's generous offer.
+Teneiro:
+Oh, thank you! I'm sure it will serve you well! And remeber, we here at iFly Airlines are always ready to serve, Mr. Edgeworth!
+Edgeworth:
+Thank you, I'll keep that in mind.
+Teneiro:
+Now I must bid you farewell. May all your skies be blue, no matter where you go!
+Gumshoe:
+I can't believe we wound up investigating the whole day, sir, but boy was it fun!
+Edgeworth:
+(Speak for yourself! My day was filled with earthquakes, elevators, and false charges!) By the way, where's Franziska?
+Gumshoe:
+Oh, she's filling out some customs paperwork for her departure.
+Edgeworth:
+Departure...?
+Gumshoe:
+Yeah, Ms. von Karma's always really busy, sir. She's been flying from country to country to chase down some leads regarding her case.
+Edgeworth:
+.........Detective. Can you cancel the car I had you reserve earlier?
+Gumshoe:
+You got it, sir!
+March 12, 5:47 PMHope Springs Airport
+Edgeworth:
+...Franziska.
+Franziska:
+I thought I told you when you first landed. I have no time for idle chatter.
+Edgeworth:
+I have no intention of wasting your time, however, it has been a while since we last met.
+Franziska:
+I also have no time for such familiar reminiscences. Just who do you think I am!?
+Edgeworth:
+You are Franziska von Karma, a very proud prosecutor deserving of much respect.
+Franziska:
+Hmph. Until only a little while ago, I was but a retched mutt who was always losing to you. A dancing pierrot living her life on the name and fame her invincible father built!
+Edgeworth:
+True, your father, Manfred von Karma, didn't lose a single case for 40 years as a prosecutor. However, I wouldn't say he was invincible.
+Franziska:
+...? What are you talking about?
+Edgeworth:
+..................
+Franziska:
+The group I'm on the trail of is a little more troublesome than most. The smuggling route we found this time is only one sliver of the big picture.
+Edgeworth:
+Sounds like a dangerous assignment.
+Franziska:
+You really don't have to worry. I can take care of myself.
+Edgeworth:
+Yes... I suppose you can.
+Franziska:
+Plus, there is another agent on this case with me.
+Edgeworth:
+Oh? Another agent?
+Franziska:
+He's a star among Interpol agents, and has the highest successful arrest rate. Who knows, you may even run into him one day.
+Edgeworth:
+Hm? I was simply caught up in this one case... I hardly see why we would cross paths.
+Franziska:
+I suppose. But I doubt he would say the same.
+Edgeworth:
+I'm not following you...
+Franziska:
+You'll understand soon enough. The fight has only just begun, Miles Edgeworth. I'll be back in this country soon enough. And when I am, you can be sure I'll pay you back... in full!
+Gumshoe:
+And just like that, she's gone, huh, sir? Thank goodness! I can finally rest easy knowing I won't have to watch out for her whip!
+Edgeworth:
+Detective Gumshoe, I want to thank you for all your help and cooperation.
+Gumshoe:
+Aww, it was nothing, sir! I was just happy to be able to work with you again, ho ho! I think I'm gonna celebrate by adding a little extra salt to my instant noodles tonight!
+Edgeworth:
+(*sigh* Just how much did you cut his salary by, Franziska...?) Detective, I was wondering if you might give me a ride down to the Prosecutor's Office!
+Gumshoe:
+Sure thing, sir! I'll even fly down the road in the patrol car if you want!
+Edgeworth:
+...Don't make me remind you, Detective. "Safety first"!
+Edgeworth:
+(Thus, I solved the first case upon my arrival home. Franziska von Karma... The smuggling route she was after... The leaders of that ring had already put their trump card into play. And the players on the other side of this war... ...they would begin to make themselves known through the next incident...) Hm...? Edgeworth speaking.
+???:
+Ah, finally. I called who knows how many times earlier but I couldn't get through.
+Edgeworth:
+And you are...?
+???:
+Ah, have you forgotten my voice, Miles, my boy?
+Edgeworth:
+.................. M-Mr. Amano!? Ernest Amano, correct!?
+Ernest:
+Ah! So you do remember me! ...I know it's rather sudden, but I can't ask this of anyone else. ...There's been an incident, Miles. ...My son... He's been kidnapped...
+Edgeworth:
+...!
+THE END
+Connect Logic incorrectly
+Edgeworth:
+(Hmm, the pieces don't fit together quite right...)
+Connect Logic incorrectly
+Edgeworth:
+(I can't see a clear connection between these two pieces of information.)
+Connect Logic incorrectly
+Edgeworth:
+(...Not exactly a shining example of the perfect line of logic.)
+Presenting incorrect evidence during argument (Franziska von Karma)
+Edgeworth:
+Objection!
+Edgeworth:
+This piece of evidence perfectly exposes the flaw in your logic!
+Franziska:
+Oh? Well then, why don't you show me how it does just that? Go on!
+Gumshoe:
+Ooh! I bet it's this part, right? This conflicts with something, right, sir!?
+Franziska:
+You have no idea what you're talking about, do you!?
+Edgeworth:
+Detective Gumshoe! Don't speak up when you don't know what you're talking about!
+Gumshoe:
+Ouch... I was just trying to follow your head, sir...
+Franziska:
+That you would allow a subordinate to take over... You're a disgrace!
+Edgeworth:
+Gnnnnnnnnrrrrk! (I guess that wasn't it...)
+Presenting incorrect evidence during argument (Franziska von Karma)
+Edgeworth:
+Objection!
+Edgeworth:
+Hmph. It would seem that your logic is not as perfect as you think it is.
+Franziska:
+And what is that supposed to mean!?
+Edgeworth:
+This piece of evidence should show you exactly what I mean.
+Franziska:
+.........Oh, yes. It clearly shows what you're thinking. That you're attempting to buy yourself time!
+Edgeworth:
+Gnnngh! (I knew I shouldn't have tried to pull a fast one.)
+Presenting incorrect evidence during argument (Franziska von Karma)
+Edgeworth:
+Objection!
+Edgeworth:
+Franziska, I believe your testimony just now conflicts with this piece of evidence.
+Franziska:
+And I believe that when you use the phrase "I believe", you are anything but certain. Which means that showing me that piece of evidence is just a way to waste time.
+Edgeworth:
+Aaaaaaaaaah! (She even managed to whip the evidence at the some time!)
+Gumshoe:
+Owwww!! Why did you whip me, too, sir!?
+Edgeworth:
+(That's one more victim besides myself and the evidence...)
+Presenting incorrect evidence during argument (Cammy Meele)
+Edgeworth:
+Objection!
+Edgeworth:
+Hah, I've got you now. Your testimony contradicts this piece of evidence...!
+Gumshoe:
+Ooh, really!? Can you explain it to me, sir?
+Edgeworth:
+Certainly. It's quite... ......Gnnrnk!?
+Franziska:
+Miles Edgeworth! How can you ignore a witness like this!? Because of you, shes's fallen fast asleep, yet again!
+Edgeworth:
+I...I'm sorry, Franziska! Ms. Meele! Please wake up!
+Cammy:
+*yaaawn* Good morning.
+Edgeworth:
+Gnnnnnnnnrrrrk! (I guess that wasn't it...)
+Presenting incorrect evidence during argument (Cammy Meele)
+Edgeworth:
+Objection!
+Edgeworth:
+I believe your testimony contradicts this piece of evidence...
+Cammy:
+Really? You think so? I don't really get these kinds of things so... you know.
+Edgeworth:
+I see. Then in that case, I might be wrong...
+Franziska:
+Your brain is about as awake as that flight attendant! Here, allow me help you wake up!
+Edgeworth:
+Ooooooooongh! I didn't need a second lashing!
+Presenting incorrect evidence during argument (Cammy Meele)
+Edgeworth:
+Objection!
+Edgeworth:
+Ms. Meele. Your testimony stands on clear contradiction to this piece of evidence!
+Cammy:
+............zzz.
+Edgeworth:
+Wake up! This is a very critical point we're discussing here!
+Franziska:
+We seem to be in need of an alarm clock here.
+Edgeworth:
+Yes... If you please.
+Franziska:
+Sure, to wake the one who gave such a sleepy objection... Miles Edgeworth!
+Edgeworth:
+Aaaaarrrrgnnnn! I-I guess that wasn't it...!
+Too many penalties (during investigation of Cargo Hold)
+Franziska:
+That's as far as you go, Miles Edgeworth. I've known the truth now for quite some time, and I won't allow you to dawdle.
+Edgeworth:
+What!? But we haven't completed the investigation yet!
+Franziska:
+Objection!
+Franziska:
+It's obvious that the culprit is Ms. Rhoda Teneiro! There's no one else it could've been!
+Edgeworth:
+Nnngh! (It can't end like this...!)
+Edgeworth:
+Ms. Teneiro was kept in custody under the pretense of a "valuable witness". Thus the truth was lost for all eternity.
+Game over
+Too many penalties (after obtaining Agent Hicks's picture)
+Meele:
+Aren't you out of patience yet?
+Edgeworth:
+Hah... Unfortunately for you, I am overflowing with patience and my will is strong. I can keep on investigating you for as long as it takes!
+Meele:
+Oh? Well, unfortunately for you, I've got a flight to catch and attend to, Bye-bye!
+Edgeworth:
+Wh-What!? No...!
+Meele:
+Hee hee.. Now if you'll excuse me, I must be going.
+Edgeworth:
+N-No, wait!
+Edgeworth:
+Cammy Meele was never seen nor heard from again... Thus the truth was lost for all eternity.
+Game over
+Nothing to Examine
+Edgeworth:
+There's nothing unusual about this area.

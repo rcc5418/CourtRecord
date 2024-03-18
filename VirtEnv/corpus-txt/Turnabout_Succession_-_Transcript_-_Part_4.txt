@@ -1,0 +1,3311 @@
+
+Turnabout Succession
+Transcript
+ 	 	 	 		 			 		 		 		 	 
+Part 1
+Part 2
+Part 3
+Part 4
+Part 5
+...That trial seven years ago was the beginning of it all. This I know beyond a doubt. The mysteries of the past work their magic on the present. But you'll soon be finding all of this out for yourself. Which of Magnifi Gramarye's disciples pulled that trigger? Where did the vanishing defendant, Zak Gramarye, go? What dark truth lurks behind the forged diary page? And what about the girl who was left behind...?
+...The past left us these four "keys" to unlocking the truth. But that's not all. There are four "keys" in the present, as well. And when all the questions have found their answers... ...the final trial will begin. But first, you must chase the truth through then and now. Think of it... as a game.
+Phoenix:
+I, Phoenix Wright, will be your guide through this game. That terrible trial saw me present forged evidence. ...It ended, half-finished, when the defendant vanished. What became of me after that...? As your investigation proceeds the answer will become clear. ...Oh, and one more thing. There is something I must tell you. As Apollo Justice has his bracelet... ...so, too, do I have my own "weapon" of sorts. ...My Magatama. What does it do, you ask? That I would have you see for yourself. ...Well now. Shall we begin? Touch the arrow to switch between past and present. But let's begin seven years ago... in the past. It is right after my last trial came to an abrupt end. ...Now that you know the game, let's play.
+After moving anywhere (7 years ago):
+Phoenix:
+The nightmare trial was over... ...and the new nightmare of figuring out what had happened had just begun. I wanted to wake up, to walk away. ...But I figured I'm the only one who could do this, probably. And besides, I had plenty of time. Thanks to the Bar Association review board's decision. It's hard to work when your attorney's badge has been taken away.
+Seven Years Ago
+Wright &amp; Co. Law Offices
+Trucy:
+Ooh! Morning, Daddy!
+Enigmar:
+Ah, I'm so glad you came.
+Trucy:
+You OK, Daddy? They picking on you?
+Enigmar:
+Ha ha ha ha ha ha ha. I am fine, as always. This old boy is here to help me, after all.
+Phoenix:
+(That's "young man" to you.) Good morning. That's a cute outfit you have on.
+Trucy:
+Thanks! My first show's today, after all!
+Phoenix:
+...Two weeks had passed since then. I called her into my office.
+Phoenix:
+Trucy, there's something we need to talk about.
+Trucy:
+......
+Phoenix:
+It's been two weeks since your father... disappeared. We need to start thinking about... your future.
+Trucy:
+......
+Phoenix:
+I, um, did some calling around. This is hard to say, but... ...you have no living
+relatives.
+Trucy:
+......
+Phoenix:
+So... ...I was wondering if you wanted to stay with me for a while. Just until your daddy comes home. It won't be long. (...I hope.)
+Trucy:
+......
+Phoenix:
+Uh, of course, it's totally your choice. If you don't like it here, you can go wherever you'd like. I could look up some places you might like to stay at... (This is so weird...)
+Trucy:
+...Mr. Attorney. Daddy told me about you. He said I could trust you.
+Phoenix:
+Huh...? Really?
+Trucy:
+So, if I stay here... ...does that mean you'll be my family?
+Phoenix:
+Huh? Uh... Um... I guess so? (Getting weirder...)
+Trucy:
+Um... Mr. Attorney?
+Phoenix:
+Er, actually, why don't you call me... Nick. ...Or you can call me "Daddy" if you'd like. It doesn't have to be today, or anything.
+Trucy:
+OK! Say, Daddy?
+Phoenix:
+(That was quick.) ...Yes?
+Trucy:
+If I move here, I have to switch schools, right? And I was thinking, I haven't paid for lunches at my last school... for a year. So thanks, Daddy!
+Phoenix:
+...Ah.
+Trucy:
+Oh, and this office? It's a little blah. A little color goes a long way, you know?
+Phoenix:
+...Ah.
+Trucy:
+Oh, and Daddy? You got fired from work, right? Don't you worry one bit! I'll work twice as hard! We'll make it through this!
+Phoenix:
+Trucy... how old are you?
+Trucy:
+Oh, I'm eight. But don't let appearances deceive you! I'm a young professional! Stick with me and you'll do just fine, Daddy!
+Phoenix:
+...Ah, thanks. (Why does it feel like she's already in charge...?)
+Examine
+Bookshelf
+Phoenix:
+Quite the collection of law books. My mentor bought all of them. I used to be too busy to read them. Now that I have the time to read them, there's no need. ...But I can't just sell them. Maybe Trucy will want to read them someday?
+Trucy:
+...?
+Phoenix:
+(...Nah.)
+Charley the plant
+Phoenix:
+My mentor's favorite plant, Charley. I guess watering Charley's my only real job now. ...... Wait! I have a child now! I can't feed Trucy like this! She probably needs more than the occasional watering, too, I'm guessing.
+Trucy:
+...?
+Movie poster
+Phoenix:
+An old movie poster hangs on the wall. I finally found out the title after not knowing for the longest time. I actually rented the movie the other day. Cried my eyes out. ...... Ack! Just thinking about it makes me tear up... Wait, it's just allergies... Really! ...I should show it to her when she's a little older. ...... (Wait... what was it called again...?)
+Trucy:
+...?
+Phoenix's desk
+Phoenix:
+My desk. Not that I have any reason to sit there anymore. I guess Trucy can use it. It's great for studying math, English, geography, magic... ...Ack! I'm not crying. I just got some dust in my eye.
+Trucy:
+...?
+Window
+Phoenix:
+You can still see that hotel from the window here. Every time I look out, I think back on those old cases... ...I wonder if the view looks different now that I'm not wearing my old badge...
+Trucy:
+I really dig the far out view, Daddy!
+Phoenix:
+...Thanks. (She must have learned a lot of words from her parents.)
+Talk
+The office
+Trucy:
+So, Daddy, you got fired from being a lawyer, right?
+Phoenix:
+You could at least kind of look aside or something when you say that. It's... actually kind of hard for me... For Daddy.
+Trucy:
+Oh, I'm sorry, Daddy! Wait! Is that "foolish pride"? My other daddy always used to talk about that.
+Phoenix:
+Uh... Actually, that's pretty accurate.
+Trucy:
+So, here's my idea. We'll make a new office! "Law" just seems so stiff, doesn't it? And no one will be my friend at school that way!
+Phoenix:
+Well that won't do, I guess. I just don't know much about anything other than law. (Or even much about law, if you were to ask some people.)
+Trucy:
+Maybe the problem is calling it an "office". We should run an "agency" instead!
+Phoenix:
+You mean... like a talent agency? Forgive me for asking, but doesn't that require "talent"?
+Trucy:
+You've got me, don'tcha? I'm a professional!
+Phoenix:
+A professional...?
+Trucy:
+Yup! After all, I am directly descended from the famous Zak Gramarye!
+Phoenix:
+Directly descended... He's your father.
+Trucy:
+Oh...! And now I'm directly descended from the famous Phoenix Wright, too!
+Phoenix:
+(I think an eight-year-old just massaged my ego.)
+Daddy
+Phoenix:
+Could you tell me a bit more about your daddy... er, Zak Gramarye?
+Trucy:
+Daddy? Sure thing, Daddy!
+Phoenix:
+(Which Daddy was that again?)
+Trucy:
+Daddy's so amazing! The biggest star of Troupe Gramarye! And they're big!
+Phoenix:
+The Gramaryes... They were on television a lot. (Haven't seen them on much recently, come to think of it.)
+Trucy:
+Big magic happens when you put Zak and Valant Gramarye together, you know. Once they made a giant waterfall, right there on the stage! And this giant trout swam up the giant waterfall!
+Phoenix:
+Let me guess, there was a giant fisherman waiting for him at the top?
+Trucy:
+I wish I could have seen more of Daddy's magic...
+Phoenix:
+(Ack! I shouldn't have brought it up so soon...)
+Trucy:
+I wonder what'll happen to me, with Daddy and Mommy both gone.
+Phoenix:
+Mommy...? (Yeah, what about Mommy? I haven't heard anything about Trucy's mother!)
+Trucy:
+But I have my magic! And a great daddy, even if he is unemployed! You know, I think thing's [sic] are going to be OK!
+Phoenix:
+(I wonder if she'll talk about her mother...?)
+The professional (appears after "The office")
+Phoenix:
+So Trucy... You're... a "professional"?
+Trucy:
+Yes! Um... It's like that thing they say! "Baby frogs grow up to be frogs"...?
+Phoenix:
+They say that?
+Trucy:
+I always thought it was funny, though.
+Phoenix:
+What was?
+Trucy:
+Aren't baby frogs called "tadpoles"...? Maybe they thought it would be easier to understand that way for kids. How stupid!
+Phoenix:
+...Right. So, in conclusion... ...you're a professional magician, Trucy?
+Trucy:
+That's right! Well? Well? Wanna see a trick?
+Phoenix:
+You're... going to do a magic trick?
+Please, show me!
+Leads to:
+"Actually, I would like to see your trick."
+Maybe next time.
+Phoenix:
+Thanks, but maybe next time.
+Trucy:
+Aw, that's no fun. You only live once, you know?
+Phoenix:
+(The tricks can wait. We've got more important things to discuss.)
+Trucy:
+I can't think of anything more important than magic, myself.
+Phoenix:
+...... (Was that... mind reading?)
+Trucy:
+Silly, it was written all over your face!
+Phoenix:
+(If that wasn't a magic trick, I wonder what the real ones are like!)
+Phoenix:
+Actually, I would like to see your trick. The future of the "agency" depends on it, after all.
+Trucy:
+That's the spirit! ...Ready? Here goes! Ta dah!!!
+Mr. Hat:
+Hey folks, it's Mr. Hat! I gotta say it's good to be seen!
+Phoenix:
+Yeeeeeeeeargh! Whoa... that was... startling.
+Trucy:
+The Amazing Mr. Hat! Isn't he great?
+Mr. Hat:
+Your friendly neighborhood Mr. Hat, at your service!
+Phoenix:
+He... certainly makes an impression.
+Trucy:
+Doesn't he? Ha ha ha! I'm so glad you like him, Daddy!
+Mr. Hat:
+Though my routines do get a bit "heady" at times! Hah! Get it? Heady!
+Phoenix:
+(...My friendly neighborhood Mr. Hat nearly gave me a heart attack.)
+The Amazing Mr. Hat added to the Court Record.
+Mommy (appears after "Daddy")
+Phoenix:
+Could you tell me about your mommy... if it's OK?
+Trucy:
+Mommy was so pretty... She was like an angel up on stage.
+Phoenix:
+On stage... You mean, with your daddy?
+Trucy:
+Yep! She was always there with Zak &amp; Valant, smiling! But then... she went away.
+Phoenix:
+Went away?
+Trucy:
+It was a grand illusion... but she made a mistake. She vanished... and I guess she didn't know how to get back.
+Phoenix:
+...Maybe so.
+Trucy:
+I cried then, a lot. That's when Daddy gave me this. ...Here.
+Phoenix:
+This... is your mother? (She's beautiful...)
+Trucy:
+Her name's Thalassa. Thalassa Gramarye.
+Phoenix:
+(Poor girl. I didn't know her mommy had gone missing. And now her daddy's vanished, too, right before her eyes.)
+Trucy:
+Hey, Daddy? You won't...
+Phoenix:
+Don't worry. I won't vanish, I promise.
+Trucy:
+Right! You can't even do magic! You're like a backup plan! Daddy always said to have a backup plan.
+Phoenix:
+(...I guess all I rate as is a "backup plan".)
+Trucy's Locket added to the Court Record.
+Present
+Trucy's Locket
+Phoenix:
+Trucy, about this locket...
+Trucy:
+Oh, that's Mommy! Isn't Mommy pretty? Wait... you don't want to know more about Mommy, do you, Daddy?
+Phoenix:
+I do, actually.
+Trucy:
+Eeek! I better keep an eye on you, Daddy!
+Phoenix:
+...... Oh, that's not how I meant it, honest. (She is beautiful, though. And something more... Poise, that's it. She's got poise.)
+Anything else
+Phoenix:
+Hey, Trucy, see this?
+Trucy:
+...I'm sorry.
+Phoenix:
+Huh...?
+Trucy:
+I'm still just training to be a magician. I can't make things disappear yet.
+Phoenix:
+W-What?
+Trucy:
+Wait one more year! I'll be able to make it disappear then!
+Phoenix:
+(I'll be sure to be careful when showing evidence to magicians in the future...)
+Examine evidence
+Trucy's Locket
+Inside of locket
+Phoenix:
+...So this is Trucy's mother, Thalassa. She's pretty. I can picture her on stage with Zak. Still, she looks like a down-to-earth type, too. I guess Trucy takes after her.
+After clearing all Talk options:
+Phoenix:
+I think that's probably enough for today. Sorry to ask you so much all at once like that.
+Trucy:
+It's OK! After all, we're family! I just hope you're ready! The Wright Talent Agency opens tomorrow!
+Phoenix:
+Wh-What!? B-But are we... representing anyone?
+Trucy:
+Me and you... That makes two, Daddy...!
+Phoenix:
+I think you need more than that to make an agency. Besides... ...you may be a magician... but I'm no talent!
+Trucy:
+Oh, I'm sure there's something you're good at!
+Phoenix:
+Well, when you put it that way...
+Trucy:
+You mean you don't have any tricks? No old standbys? This will not do! A boy should always have a trick or two in his pocket.
+Phoenix:
+OK, OK! I'll think of something.
+Trucy:
+That's the spirit! See you bright and early tomorrow, Daddy!
+Mr. Hat:
+Welcome to the team, Daddy-O!
+Phoenix:
+The team... right.
+Phoenix:
+Sometimes when magicians vanish, they leave something behind... That's how Trucy became Trucy Wright... my daughter. To be honest, I was pretty lost those first few days. Thinking back on it, it was a pretty dark time in my life. But Trucy... happy, smiling Trucy... she was my light.
+Seven Years Ago
+District CourtDefendant Lobby No. 2
+Phoenix:
+...Didn't think I'd be back here for a while. I didn't want to have to remember that day.
+Judge:
+...Though I deeply regret having to declare a verdict in this way... This trial is over.
+Zak:
+Ah, Your Honor?
+Judge:
+Y-Yes, Mr. Zak?
+Zak:
+There is one thing I wish to make clear. Today, in this courtroom... ...you cannot declare me "guilty".
+Judge:
+What are you talking about?
+Zak:
+I am talking... about this!
+Phoenix:
+M-Mr. Enigmar!!!
+Klavier:
+The defendant's escaped! Find him! Quick!
+Judge:
+Bailiff! Close all exits from the building! On the double! He must not be allowed to escape!
+Phoenix:
+(When I came here on that fateful morning, I still had my badge. But now... Like an amputated limb... I can still feel it itching. Where do I start? I don't even have the authority to investigate...)
+???:
+Hey, you there. Sir! Down on the hands! Floor on your head! Now now now!
+Phoenix:
+Wh-Wh-What's the big idea!? My ears...!
+???:
+No unauthorized personnel aren't allowed in here!
+Phoenix:
+...... But that would mean all unauthorized personnel are allowed.
+???:
+Zoooooooooooooooooooink!? ...I just say it like it is sir! And it's usually wrong. Thrown out of the precinct... lost my friends, my girl and even my wallet.
+Phoenix:
+...... We've... met before, haven't we? On a case... two years ago?
+???:
+No recollection of that, sir!
+Phoenix:
+...Huh?
+???:
+For me, "working on a case" is always in the present progressive tense, sir! There is no past! There is only now! Sir!
+Phoenix:
+OK, OK! You're... the bailiff, right?
+Meekins:
+Yes sir! Court Bailiff Mike Meekins at your service, sir!
+Phoenix:
+Um... I've asked to meet with the bailiff at this court who let the magician escape.
+Meekins:
+Let me try to make this as absolutely clear as possible for you, sir! It was meeeeeeeeeeeee! Sir.
+Phoenix:
+B-But... you were a regular police officer once... right?
+Meekins:
+...... Sometimes bad things happen to good people, sir.
+Phoenix:
+(Something tells me it's a long story. Let's not go there.) So, you were in charge of security at the time of the "vanishing"...?
+Meekins:
+I'm. Dying. Over. Here! Oh! Ohh! It's a hard knock life, sir! Thrown out of the precinct... lost my friends, my girl and even my wallet.
+Phoenix:
+(Guess I wasn't the only "victim"...)
+Examine
+Courtroom doors
+Phoenix:
+I guess this door was officially a prop in Zak Gramarye's last "show". He passed through that lobby door and vanished... but to where? He choreographed that entire fateful trial according to his grand scenario... ...... I hate magicians.
+Lobby couch
+Phoenix:
+I actually took a nap on that couch once when I was still practicing law. ...Boy, was that a mistake. I never even sit on the lobby sofas now. I never let my clients sit on them, either. It's bad luck.
+Plant
+Phoenix:
+You know, I think this was the lobby I used for my very first case. This plant has seen me grow from a rookie, to an ace... to a has-been. I hate you, plant. ...Just kidding.
+Wall painting
+Phoenix:
+I must have seen that painting a thousand times, but I never really looked at it until now. I guess my head was too stuck in the trials... ...I never had time to stop and appreciate art. I have time now. OK. Let's appreciate. ...... Actually, it's pretty lame.
+Talk
+Meekins
+Phoenix:
+The last time we met, you were a police officer, right? ...In fact, you're still wearing your uniform.
+Meekins:
+Sir I... I wish I didn't have to tell you this... ...but last year, tragedy struck a rising star at the precinct! I lost my case files four times... in three days! They fired me!
+Phoenix:
+...That takes real talent, actually. They don't know what they're missing.
+Meekins:
+So here I am, sir! Forced to start from square one, a lowly bailiff!
+Phoenix:
+But, your uniform...
+Meekins:
+...I took it with me as a souvenir the day I was fired!
+Phoenix:
+(That can't be legal.) So... you were the one who let the magician get away that day?
+Meekins:
+I'm. Dying. Over. Here! A star rises among the court bailiffs, full of hope! Then... tragedy strikes!
+Phoenix:
+Is there anything you can tell me about it? ...About Zak Gramarye's "disappearance"?
+Meekins:
+Oh, the humanity!!!!!!
+Phoenix:
+...That's enough of that.
+The magician's disappearance
+Meekins:
+Why yes, I'd say it was around 2:00 PM when I heard a commotion in court. I opened the door to see what might be amiss. The door slams open! Slam! And some guy's face is right there in front of me! Face!
+Phoenix:
+So... you saw someone suspicious coming your way.
+Meekins:
+Yes! And I, being a bailiff of little standing... I gave chase! I chased that silk hat all the way down the hall, sir!
+Phoenix:
+I have a diagram of the court building here...
+Meekins:
+Ah ha! There's Courtroom No.7. That's where I was, sir! All by myself! Nary a friend to call my own!
+Phoenix:
+OK... And which way did Zak Gramarye run after bursting through the courtroom door?
+Meekins:
+He went up, like this, and around the corner, like that! So I, with no delay... ...ran after him with no delay! When I turned the corner... ...I saw that magic man run into the defendant lobby! Swiftly, I ran! Following him, I threw myself boldly into the room! Why, I remember it like it was right here! Because it was! Lobby No. 2, sir!
+Phoenix:
+You ran into this room...? (Hmm. I don't see any place to hide in here...)
+Meekins:
+Believe it or not, sir, I didn't believe it! Here! In this room! The magician! Gone! Vanished like a puff of smoke! Except there wasn't even any smoke! He was just... gone!
+Phoenix:
+...... That's impossible.
+Meekins:
+Yes, that! That word! Oh how many times have I said that word! Even the sound of it causes me indescribable pain! ...I'm dying... I'm dying over heeeeeeeeere!
+Phoenix:
+O-OK, I won't say it again, promise! But, you have to admit, it's impo... er... difficult to vanish into thin air! Did you search the lobby?
+Meekins:
+...... I searched.
+Phoenix:
+...... (Why the pause...?)
+Meekins:
+Th-Th-There was n-n-n-nothing here at all. Sir! That's right! Nothing was here! Sir!
+Phoenix:
+(How can he talk so loud and still be hiding something...?)
+The vanishing trick (appears after "The magician's disappearance")
+Phoenix:
+So Zak was in this room when he "vanished"...
+Meekins:
+Absolutely, sir! I saw him with my own eyes! Eyes! That red silk hat, that flowing cape... ...He ran right in here! Right inside this room!
+Phoenix:
+(Silk hat, cape... That's Zak alright.)
+Meekins:
+But, sir, look at the room! There's not a single place to hide! Sir, there was nothing I could do but... nothing, sir!
+Phoenix:
+...... What about now? Have any ideas?
+Meekins:
+Sir! I-I-I-Ideas about what, exactly, sir, if you don't mind me asking!?
+Phoenix:
+You've had quite a bit of time since then. Has nothing occurred to you at all? Do you have any idea what trick he might have used to disappear like that?
+Meekins:
+...... ......
+2 PSYCHE-LOCKS
+Phoenix:
+(Psyche-Locks! I should have known... My Magatama... one of my most prized possessions, which I got during a certain case... It can show me the locks on people's hearts. And if I can unlock their hearts... ...they'll tell me their secrets! The Magatama starts it all. And the Magatama ends it!)
+Present
+Anything
+Phoenix:
+Any thoughts on this, Mr. Meekins?
+Meekins:
+This... This is an honor!!! Sir! I've offered my opinions on plenty of things, even things I knew nothing about! But no one's ever asked for my opinion before!!!
+Phoenix:
+Ow. There's no need to shout, really. ...So, no opinion?
+Meekins:
+None! I know nothing about that, sir!
+Phoenix:
+(But I thought... oh, never mind.)
+Magatama
+2 PSYCHE-LOCKS
+-- The Disappearing Trick --
+Phoenix:
+...OK, Mr. Meekins. What do you know? Spit it out.
+Meekins:
+...He-He-Hey! Who-Who-Who... What's with the atmosphere in here all of a sudden!?
+Phoenix:
+You know something, and I'm going to find out what. Zak Gramarye vanished from this room... How'd he do it?
+Meekins:
+H-H-How, sir? Well, sir, I can't say as I... sir!
+Phoenix:
+Why are you so nervous if you aren't hiding something...?
+Meekins:
+Well, sir, I, you see, at the time, sir, I was here, and... Listen! It was impossible!!! What could such a little girl possibly do, anyway!?
+Phoenix:
+...What did you just say?
+Meekins:
+...Nyurk! Sir! Did... I just say something, sir?
+Phoenix:
+No, you screamed it through that megaphone of yours. ...There was someone else in the room, wasn't there?
+Meekins:
+Sir! I'm going to have to invoke my right to remain in a state of not talking!
+Phoenix:
+(It's OK, Meekins. You don't have to tell me who Zak's accomplice was.) I know who was here in this room that day.
+Present Trucy Enigmar profile
+Phoenix:
+Take that!
+Leads to:
+"Sir, I, sir, I, sir, I, sir, I siiiiiiiiiiiiiiiiiiiiiiurgle."
+Present anyone else
+Phoenix:
+Take that!
+Phoenix:
+...Well?
+Meekins:
+...... Sir, I don't know what to say, sir. Except maybe I didn't need to worry about not saying anything!
+Phoenix:
+...Huh?
+Meekins:
+Sir, it is my distinct pleasure to say, beyond any shadow of a doubt, sir. ...You're wrong! You're wrong! You're wrooooooooooong!
+Phoenix:
+(...I wish he'd invoke his right to remain silent now. Still, his little outburst back there should be enough to go on... "What could such a little girl possibly do", was it?)
+Leads back to:
+"I know who was here in this room that day."
+Meekins:
+Sir, I, sir, I, sir, I, sir, I siiiiiiiiiiiiiiiiiiiiiiurgle. I've never seen that girl until just the other day.
+Phoenix:
+...... Mr. Meekins. I'm not buying it.
+Meekins:
+...... ...... ...... ...Sir!
+1 LOCK BROKEN
+Meekins:
+Sir, that day. She was here, in the room, sir. But he wasn't!!!
+Phoenix:
+You mean... you chased her into this room, not him?
+Meekins:
+Sir... In my days as a police officer -- literally days -- I learned a thing or two. OK, just one thing. But it was how not to mistake a girl for a 7-foot-tall magician!
+Phoenix:
+(Seven feet? Zak isn't that tall, is he?) You have a point... ...I find it hard to imagine that anyone would mistake a little girl for Zak Gramarye. But, you saw something... ...and therein lies the trick. I think you know what it was, Mr. Meekins! Tell me, does this trick look familiar!?
+Present The Amazing Mr. Hat
+Phoenix:
+Take that!
+Leads to:
+"Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha"
+Present anything else
+Phoenix:
+Take that!
+Meekins:
+...My my my.
+Phoenix:
+Your your your what?
+Meekins:
+I guess ex-attorneys have some tricks up their sleeves, too!
+Phoenix:
+...It hardly qualifies as a "trick".
+Meekins:
+You might be able to fool little girls with that... ...but you'll never fool little Meekins!
+Phoenix:
+(Well, I think I put my foot into that one.)
+Leads back to:
+"I think you know what it was, Mr. Meekins!"
+Meekins:
+Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha-Tha- What's that?
+Phoenix:
+That girl's favorite trick, "The Amazing Mr. Hat". She uses it in her show down at the Wonder Bar.
+Meekins:
+......
+Phoenix:
+Have you been to the Wonder Bar?
+Meekins:
+...... So. It wasn't a waking dream, was it, sir?
+Phoenix:
+C-Come again?
+Meekins:
+That night, on stage, I saw a vision! Except... it wasn't a vision. It was a hat. An Amazing Mr. Hat! He really exists!!
+1 LOCK BROKEN
+Unlock Successful
+Talk (after breaking Psyche-Locks)
+The vanishing trick
+Meekins:
+I remember it clearly! Though the details are a little vague. Zak Gramarye exited the courtroom... ...I gave chase and cornered him in the corner room, sir!
+Meekins:
+Zak Gramarye! Don't even think you can escape Meekins! Down on your hands! Floor on your head!!! ...... H-Hello?
+Trucy:
+Something the matter, mister?
+Meekins:
+Er... no. That is... Sir! I'm currently chasing a suspect, sir! Zak Gramarye... Do you know him!?
+Trucy:
+Oh, I love Zak Gramarye! His magic is the best! I'm his biggest fan!
+Meekins:
+I see... That's why you're wearing that costume you're wearing. Anyway! That very same Zak came into this room!
+Trucy:
+But no one's been in here except me...
+Meekins:
+...B-But he has to be in here somewhere! Under the sofa! In the trash can! Behind the painting! Under the rug!
+Phoenix:
+So... Trucy was his accomplice.
+Meekins:
+Imagine my astonished surprise when, one week later... ...I just happen to walk into a bar and see... him!!!
+Phoenix:
+Mr. Hat.
+Meekins:
+I couldn't believe my own eyes! For a while, I thought it had all been a long dream...
+Phoenix:
+(A dream that lasted a week!?)
+Meekins:
+But it wasn't the magician who disappeared... it was Mr. Hat. *sniffle, sniffle*
+The trick vanishes (appears after "The vanishing trick")
+Phoenix:
+Though it seems complex, what really happened that day was quite simple. You were standing by the door, and out came Zak. ...But that wasn't all. Another person got in on the act... and she was standing in front of Lobby No. 2. Along with Mr. Hat.
+Meekins:
+Ah, and that's the beauty of it, isn't it...?
+Phoenix:
+So... ...while you are standing in shock and amazement, the magician rounds the corner... ...and, most likely, runs through the closest door... into Lobby No. 1. This is where you come in. You turn the corner, in rather lukewarm pursuit... ...and at that very moment, Trucy runs into Lobby No. 2! Then, all she has to do is tuck away the Amazing Mr. Hat.
+Meekins:
+Sir, I... ...I only lost sight of him for the briefest of moments! Then, I saw that cape! Zak Gramarye's red cape fluttering like a... cape! ...... ...Astounding, sir! All my days of posing queries and making inquiries and chasing quarries... wasted! It was as if I could see them melting away like... ...an ice cream cone left by the side of the road to die!!! Or the scattered remains of a messily eaten chocolate parfait!!!
+Phoenix:
+(Such sweet sorrows...)
+After clearing "The trick vanishes" Talk option:
+Phoenix:
+...I'm sorry. I had no idea how much you'd suffered on account of this case.
+Meekins:
+It... It's an honor, sir!!! I've apologized to people many, many times! Sometimes more than once! But this is the first time anyone's ever apologized to meeeeeeeeeeeeee!
+Phoenix:
+Actually, about that girl... ...I'm sort of her guardian now.
+Meekins:
+Is that so? ...... ...... Sir! You should know that I harbor no ill feelings whatsoever in my harbor!
+Phoenix:
+Um, OK...
+Meekins:
+I let the defendant escape, that's the stone cold truth! Just another step on my way from singing the blues to wearing the blues! Someday, sir, I'll be standing side-by-side with the great Detective Guamshoooooooooooe!
+Phoenix:
+...Erm, Mr. Meekins. This is a free ticket to the show at the Wonder Bar. If you want...
+Meekins:
+It... It's an honor, sir!!! Sir! I can't count the number of things I've had taken from me, sir! But no one's ever given me anything for freeeeeeee! Right! I'll see you in court next time then, sir!
+Phoenix:
+I look forward to it.
+Phoenix:
+All eyes were on Zak Gramarye that day in court... until his mysterious disappearance. Now part of the mystery's been revealed... but the magician remained out of sight. It would be seven years before I met him again...
+Present Day
+Borscht Bowl Club
+Kristoph:
+...I'll be taking my leave, now. Still have some work to do back at the office.
+Phoenix:
+...Then I guess I'll go back to my piano.
+Kristoph:
+To be honest, it's better when you aren't playing. This frigid culinary dungeon almost feels... comfortable. ...Later, then.
+Phoenix:
+(*sigh*... Two hours left on my shift. Wonder if we'll get any "customers" tonight.)
+???:
+...Ahem. Do you know who I am?
+Phoenix:
+"Who I Am"? No... But if you hum it, I can play it! ...Just kidding, I don't do requests.
+???:
+How about a different sort of request? You see... I play cards.
+Phoenix:
+Oh... a customer. I was just hoping someone would come in and save me from a night at the keys.
+???:
+...I seek a true competition. I have heard the Borscht Bowl Club is the place for this. Now I see the rumor is true.
+Phoenix:
+...And this is? A friend of yours?
+???:
+Ah! Don't mind me! I'm just your friendly neighborhood newsman!
+???:
+...Ah. He will not be playing tonight. When his business is finished, I shall send him home. This competition will be between us. No others.
+Phoenix:
+The Wright Talent Agency represents two artists. And I'm number two. I play piano... Well, sort of. It's actually just a front for my real talent... ...which is playing poker. Don't ask me how I got started. I don't remember. But I'm good. Real good. It didn't take long for the rumors to get around... "Go to the Borscht Bowl Club if you want a real game. That guy's never lost"... People don't come to hear me tickle the ivory. They come to watch me play cards. Is this a seedy poker club? No. It's a restaurant. We don't play for high stakes. There's no money involved. But real players carry cash... and they're always thirsty. It's a handy source of income for the club owner.
+Phoenix:
+Then, let's compete. I'll take you to the room.
+???:
+The Hydeout, yes. But before we go...
+Phoenix:
+...Yes?
+???:
+Allow me to introduce myself. My name is Shadi Smith.
+Brushel:
+Oh, and I'm Brushel! Spark Brushel! News reporter!
+Phoenix:
+Oh. I'm...
+???:
+No, no, Phoenix Wright.
+Phoenix:
+Huh...?
+???:
+You must always look a man in the eye when you make your introductions. ...You still do not know who I am?
+Phoenix:
+Have we... met? (Ah...!)
+Zak:
+Today, in this courtroom... ...you cannot declare me "guilty".
+Judge:
+What are you talking about?
+Zak:
+I am talking... about this!
+Phoenix:
+M-Mr. Enigmar!!!
+Klavier:
+The defendant's escaped! Find him! Quick!
+Judge:
+Bailiff! Close all exits from the building! On the double! He must not be allowed to escape!
+Phoenix:
+Y-You can't be... But you're...! ...Zak Gramarye!?
+Zak:
+Yes... The reincarnation act of the century. Pity I have only an audience of one. ...You.
+Phoenix:
+(Zak Gramarye!? This must be a bad dream. In a sense, this guy ruined my life.)
+Zak:
+You there!
+Olga:
+...D-Dah?
+Zak:
+We will play soon. Ready the room.
+Olga:
+Dah... I will be preparing the Hydeout for you.
+Phoenix:
+Are you really him? The Zak Gramarye?
+Zak:
+Now I am Shadi Smith. Remember this.
+Phoenix:
+...How many years has it been now? Six?
+Zak:
+In exactly three days from now, it will be seven. I caused you much... inconvenience, I fear.
+Phoenix:
+Yeah, you could say that.
+Zak:
+Is... she well? Trucy, I mean.
+Phoenix:
+She's fine. I've got her working already. Hope you don't mind.
+Zak:
+I hardly need express my gratitude. But, you have it. ...This is why I have come. That, and to settle a matter of cards.
+Phoenix:
+...By which you mean poker? (Those eyes! He's serious...)
+Zak:
+I despise losing above all else. And so, I have decided that I will win tonight. No matter what it takes.
+Phoenix:
+(I know this guy's type... and they're dangerous. Everything's about the competition. All else is secondary.)
+Zak:
+...Perhaps we should take this time to talk, before we play. I know you have much to ask me. ...And I, you.
+Examine
+Juice crate
+Zak:
+This... is grape juice? Is it refreshing?
+Phoenix:
+I usually drink too much and it ends up making me thirsty.
+Zak:
+...Oh, Mr. Wright. There is something inside that bottle.
+Phoenix:
+Huh...? It's my business card.
+Zak:
+...... You aren't surprised at all. Perhaps you don't like magic?
+Phoenix:
+(I sure felt surprised. Maybe I had my poker face on.)
+Piano
+Zak:
+I must say, it comes as quite a surprise. I never knew you played.
+Phoenix:
+I'd do anything else if I could, believe me. Oh yeah, there's something you could help me with. Do you think you could make that piano disappear? ...It'd help out in a lot of ways, really.
+Zak:
+...... Wah ha ha ha ha ha ha! You say the funniest things with the straightest face!
+Phoenix:
+...People always tell me that. (Except I wasn't joking.)
+Table
+Phoenix:
+One of the restaurant tables. This one's the closest to the piano. ...Which makes it the hardest to eat at, I hear. ...On days when I'm playing, that is.
+Zak:
+What do you think about the ukulele? The sound is slight, the annoyance, curtailed.
+Phoenix:
+A ukulele in a Russian restaurant?
+Zak:
+Then, you must go to a Hawaiian restaurant.
+Phoenix:
+Hawaiian shirts don't go with my complexion.
+Zak:
+Wa ha ha ha ha ha ha! ...I give up.
+Talk
+The meaning of competition
+Phoenix:
+We competed that day seven years ago, too.
+Zak:
+Ah, yes. ...You must have been surprised. ...Called to the detention center out of the blue.
+Two...
+One...
+...Showdown time.
+I... I lost.
+It's only a game of poker.
+A game I've played for a long time... and only lost twice.
+...Who was the first?
+The man I "killed"... of course...
+Phoenix:
+You choose your defense attorneys by playing poker.
+Zak:
+Some are hired, others fired. When you compete, you see a man's true nature. You know what I speak of. ...I know that you do.
+Phoenix:
+...Trucy's "power"?
+Zak:
+Trucy? She is in a class of her own.
+Phoenix:
+(For seven years I've played poker here at the Borscht Bowl Club... And I've never lost once. I'm good... but not that good. I win because whenever there's a big game, I bring in Trucy. ...And she sends me signals.)
+Trucy:
+...Daddy, he's got a good hand. ...You might have a chance if you act quick! Better call him soon.
+Phoenix:
+Can you tell me what her power is?
+Zak:
+Judging a person's thoughts by reading their reactions is a staple of performance magic. But those of Trucy's line possess far greater skill.
+Phoenix:
+...Her "line"?
+Zak:
+Recall, you were the second man to whom I've lost.
+Phoenix:
+Magnifi Gramarye...
+Zak:
+That was the first time I learned of this "power", as you call it.
+Phoenix:
+Wait, so you're saying... ...her power is genetic? It's just "in" the Gramarye blood or something?
+Zak:
+"Blood"...
+3 PSYCHE-LOCKS
+Zak:
+I am sorry, but it is not something told lightly to outsiders. And it is nothing you need to know at this time.
+Phoenix:
+(It's some kind of Gramarye secret, then? Fine...)
+About Trucy...
+Zak:
+She's... fifteen this year?
+Phoenix:
+She's still trying her best to follow in your footsteps, you know.
+Zak:
+I... see. When I planned my disappearing act, it was the thought of her alone that gave me pause.
+Phoenix:
+Wait, you were planning on vanishing from the get-go?
+Zak:
+Yes, and for that, I must apologize. However... I could not be found guilty that day. Because of this.
+Phoenix:
+This...?
+Zak:
+A transferal of rights. You see the signature?
+Phoenix:
+A transferal...? That's Magnifi Gramarye's signature, isn't it? "I hereby give all rights to the secrets, staging, and performance of my magic... ...to the recipient named below." And the recipient's name... is you... Zak Gramarye.
+Zak:
+Yes, it is I.
+Phoenix:
+Wait... This page looks torn.
+Zak:
+You recall the diary, yes?
+Phoenix:
+First... take a close look at this diary. ...Notice that a page has clearly been ripped out! As it just so happens... ...I have here what I believe to be the missing page.
+Judge:
+W-Wait. Let me see that!
+Phoenix:
+...How could I forget? That scrap of paper lost me my attorney's badge.
+Zak:
+This is the real page that was torn from the book. Magnifi gave it to me that night.
+Phoenix:
+...You could have told me this earlier. Like, seven years earlier.
+Zak:
+Once again, I must apologize. It was all I could do to prepare for my escape from that courtroom.
+Transferal of rights (appears after "About Trucy...")
+Zak:
+The greatest of Magnifi Gramarye's illusions are true art. As such, they are well protected... by this document. Only its bearer may perform his illusions on stage.
+Phoenix:
+(Sounds like a pretty important thing to have if you're his disciple.)
+Zak:
+As the rightful heir to his art, I, too, wanted a rightful heir.
+Phoenix:
+"Rightful"...?
+Zak:
+I'm sure you know who I chose as my successor.
+Phoenix:
+Your daughter.
+Zak:
+That is why I have risked all to come here tonight.
+Present
+Trucy's Locket
+Phoenix:
+This person in the photo is Trucy's mother?
+Zak:
+...! How did you come by this?
+Phoenix:
+Trucy showed it to me. She said her mother was "gone"...
+Zak:
+Then, it is so.
+Phoenix:
+Huh?
+Zak:
+She is gone. What more is there to say?
+Phoenix:
+(Um... lots?)
+Brushel:
+Ah, I know, I know!
+Phoenix:
+Whoa! You're still here!?
+Brushel:
+According to my in-depth research... ..."Trucy's Mother Magnifi Gramarye's Only Daughter!" end quote.
+Phoenix:
+Wh-What!? Magnifi's daughter? Is that true, Mr. Zak...?
+Zak:
+Brushel! You say too much!
+Brushel:
+Urrrrrrrrrrrrrrng! Eh? Eh? What, why am I the bad guy? Why?
+Phoenix:
+(Zak decked him...)
+Zak:
+In any case, Mr. Wright, this discussion... is over.
+Phoenix:
+(Thalassa Gramarye... She's the most mysterious of the whole lot. I need to gather me some more evidence, clearly.)
+Trucy's Locket (subsequent times)
+Phoenix:
+This woman is Trucy's mother, yes?
+Zak:
+......
+Phoenix:
+She said her mother was "gone".
+Zak:
+...And it is so. What more is there to say?
+Phoenix:
+(Thalassa Gramarye... Magnifi Gramarye's only daughter. I need to gather me some more evidence, clearly.)
+Anything else
+Phoenix:
+Mr. Zak, could you tell me about this?
+Zak:
+...Mr. Wright. We meet for the first time in seven years, and you offer me this? Please.
+Phoenix:
+It... wasn't a present. (This guy's a hard sell. Probably won't get a rise out of him unless I show him something real interesting.)
+After clearing "Transferal of rights" Talk option:
+Zak:
+...Brushel.
+Brushel:
+Sir! Ah, here you go.
+Phoenix:
+What's this...?
+Zak:
+A letter passing the rights I have inherited to Trucy. I would have you sign here, as a witness.
+Phoenix:
+B-But... I'm not a lawyer anymore. And you need a public notary, besides.
+Brushel:
+Ah, I may not look it, but I'm a certified notary!
+Phoenix:
+You are...?
+Brushel:
+By day, I wear a notary's glasses and hunt for news. Also by day, I wear a reporter's glasses and notarize! When I take off the glasses... I can't see very well.
+Zak:
+Your signature, please. This is the first reason I have come here tonight.
+Transferal of Rights added to the Court Record.
+Phoenix:
+Ah... I've finally figured it out. Now I know why you've come out of hiding only now. It's been seven years, you said?
+Zak:
+...Precisely.
+Talk
+Seven years
+Phoenix:
+...There's a law that covers your situation. After seven years, missing persons are considered to be legally "deceased". So, if someone was to vanish from the face of the earth seven years ago... ...they would lose all rights as a "living person" after seven years from that day. Not to mention all of their possessions.
+Zak:
+Exactly. Which is why I am here. I risk showing my face in public for the sake of this document. ...Before my seven years are up. You might say, I am securing my daughter's inheritance.
+Phoenix:
+But do you really need this document? Wouldn't Trucy inherit your estate automatically?
+Zak:
+...Not in this case, I am afraid.
+Phoenix:
+"This case"...?
+Zak:
+Yes, I received the performance rights from Magnifi Gramarye. However, this was done in secret, without witnesses. Before Magnifi died, two potential successors to his repertoire were named. Myself, Zak Gramarye. And Valant Gramarye. ...Not Trucy.
+Phoenix:
+I see. So you do need this document.
+Zak:
+I have known Brushel since before I vanished. He is a man I trust. Now, only three know of my "rebirth".
+Phoenix:
+...I took the liberty of looking into Trucy's background. And found you had no other close kin.
+Zak:
+...It is as you say. ......
+Phoenix:
+...... (OK... I was kind of hoping he'd say something about the mother at this point.)
+Zak:
+......
+Phoenix:
+(I know everyone else, but Trucy's mother... is a mystery.)
+Examine evidence
+Transferal of Rights
+Signature
+Phoenix:
+Zak's signature. I'm sure he's written it many times, being an ex-star and all. Hmm. I bet there's plenty of people out there who'd kill for a Zak Gramarye autograph.
+After clearing all Talk options and presenting Trucy's Locket:
+Zak:
+Well, the prelude may have been longer than the main attraction. Shall we begin our game? My final competition?
+Phoenix:
+Final...? Why?
+Zak:
+As you said, I have come out of hiding today to make this document legally binding. Once that is done, I shall slip once more underground.
+Phoenix:
+...Without seeing your daughter?
+Zak:
+...... It would be best if I did not. ...Seven years ago, we played. Seven years ago, I lost. I already lost to Magnifi. I do not care to lose to another. And I have heard that you never lose.
+Phoenix:
+...It's just a rumor.
+Zak:
+Yes... for it is impossible to never lose. Unless one has an ace up one's sleeve.
+Phoenix:
+......
+Zak:
+As a magician, it causes me no end of irritation. To think a mere lawyer might be out there, pulling the wool over so many eyes.
+Phoenix:
+Hey... I just signed your document for you. Maybe you could try lightening up?
+Zak:
+That was that. This is this. For my final competition, I will destroy your perfect record, Phoenix Wright. This... will be my final performance. You are warned.
+Phoenix:
+(This guy is beyond serious... So much for a fun evening of cards.)
+Zak:
+...Brushel. You may leave.
+Brushel:
+Ah, but, it's your last game! I mean, what a scoop...
+Zak:
+...... ...I punch, and I punch. But still, it is not enough.
+Brushel:
+...... Er, I just remembered a future, er, prior engagement! Toodles, gentlemen! Oh, and nice meeting you, piano man!
+Zak:
+...Then let us begin. Dealer!
+Olga:
+...Dah?
+Zak:
+You will be witness to our competition.
+Olga:
+Dah. It is honor for me.
+Phoenix:
+...? (Why haven't I seen her around here before?)
+Zak:
+Ah, that reminds me... I saw a familiar face as I entered this restaurant. ...He did not seem to notice me, however.
+Phoenix:
+...?
+Zak:
+Gavin... I believe was his name.
+Phoenix:
+You know him?
+Zak:
+After a fashion. ...Listen, Phoenix Wright. One can learn much from a true competition. ...Remember this.
+Phoenix:
+The Gramarye "power"... I was close to understanding it, but I needed more. And I knew where to get it. ...Trucy's mother. I'd need to meet that reporter again, that was clear... ...And one other thing. From the moment my "final competition" with Zak began that night... ...a name was running through my head. ...The name of a man now in prison. ...A name Zak Gramarye knew. But how? And why...?
+Present Day
+Central PrisonSolitary Cell 13
+Kristoph:
+Well well, isn't this an unexpected surprise? What errand brings you down to my cramped confines?
+Phoenix:
+Gavin...
+Kristoph:
+Is... this your idea of revenge, Phoenix Wright? Revenge for the events that took away your attorney's badge seven years ago!?
+Phoenix:
+My past is like my logic, straight and true. Nothing's changed. All I did was point the finger of justice in the proper direction.
+Kristoph:
+... Fine. I'm glad we could have this little tête-à-tête, Wright.
+Kristoph:
+...You look well, Phoenix Wright.
+Phoenix:
+You, too... Gavin.
+Examine
+Bookshelf
+Kristoph:
+It's strange, you know? Here I am in solitary, and yet the books keep piling up.
+Phoenix:
+Looks like you've got more than books up there.
+Kristoph:
+...Ah, yes, my "collection". I've a few friends on the prison staff. They show me a little kindness.
+Phoenix:
+(...Just a "little"?)
+Chair
+Phoenix:
+That's some chair. Just looking at it makes me want to take a seat. You'd probably have to add a whole digit to the price of one of my office chairs.
+Kristoph:
+In here, a comfortable chair is the most valuable thing in the world. You'd have to add two digits to the price of the standard prison-issue chair for this.
+Phoenix:
+(...Those prison chairs don't look so bad, either. Maybe I should redecorate.)
+Nail polish (after clearing "Reason for murder" Talk option)
+Kristoph:
+You're thinking, "What self-respecting man would use nail polish?"
+Phoenix:
+Not really. I know appearances are a big thing with you.
+Kristoph:
+You know what I say? One cannot live a beautiful life without beautiful nails. First rate, in all things. Accept nothing less.
+Phoenix:
+That certainly does look like first rate nail polish. I like the sparkly bottle.
+Kristoph:
+It's crystal. If you're so drawn to it, please, have one. It's on me.
+Nail Polish slipped into pocket.
+Roses
+Phoenix:
+(Nice roses...) You taking care of this one here?
+Kristoph:
+Ah, yes, she's surprisingly delicate, you know. Requires careful tending. But, she is my "best friend", as they say.
+Phoenix:
+"Best"...? Come on, now I'm starting to feel bad for you.
+Kristoph:
+Oh? Of course, she's known to bite if handled roughly.
+Phoenix:
+Y-Your rose bites?
+Kristoph:
+...... I was speaking of the photo next to the rose. My retriever, Vongole. Cute, but feisty.
+Phoenix:
+(Every dog has its thorn...)
+Yellow envelope
+Phoenix:
+(That envelope's been bothering me since I came in here...)
+Kristoph:
+It's not nice to peek at other people's mail.
+Phoenix:
+...You get mail here in jail?
+Kristoph:
+That I do, though they read it first, apparently. Still, I am allowed the pleasure of correspondence. Packages and the like are a different matter, however.
+Phoenix:
+(Hmm. Looks like sneaking a peek is out of the question.)
+Talk
+Gavin's murder
+Kristoph:
+Life has been full of surprises... for both of us.
+Phoenix:
+......
+Kristoph:
+I've no doubt you never expected to lose that attorney's badge of yours.
+Phoenix:
+And I'll bet you never expected to wind up here. "Shadi Smith"... was the name of the man you killed. Did you know who he really was?
+Kristoph:
+Who he was...?
+Phoenix:
+Zak Gramarye. You know, the defendant.
+Kristoph:
+...... I remember him, of course. But you say Smith was Zak? Impossible.
+Phoenix:
+...Don't even try to tell me it was a coincidence.
+Kristoph:
+...What did I just say? Life is full of surprises. Don't you think?
+Phoenix:
+After that trial, you were arrested and found guilty. But your motive was never made clear. ...A mistake I plan to remedy.
+Kristoph:
+...You're not an attorney anymore, Phoenix Wright. What possible conclusion do you think this "investigation" of yours can lead to? I killed a man named "Smith" with a bottle because I am an evil human being. ...Isn't that enough?
+Phoenix:
+(...Not for me, it isn't. I need to know why you did it, Gavin.)
+7-year-old case
+Phoenix:
+You recall that case seven years ago?
+Kristoph:
+Ah, yes. The trial where Zak Gramarye pulled his famous vanishing act! My brother won his fair share of praise and adoration for that trial, as I recall. "Genius Prosecutor Reveals Crooked Attorney", was it?
+Phoenix:
+...That was when I met you, wasn't it?
+Kristoph:
+Was it now.
+Phoenix:
+The Bar Association review board voted unanimously for the "strictest punishment". Unanimous... save for one dissenting opinion. Yours.
+Kristoph:
+...... It was my brother who was responsible for putting you in that position, after all.
+Phoenix:
+For seven years we've been friends... ...and yet, I still don't understand you.
+Kristoph:
+But Wright, your "friendship" toward me was never pure. ...You suspected me then as you still do now, don't you?
+Phoenix:
+...Honestly, right now, I'm not sure what I think.
+Reason for murder (appears after "Gavin's murder")
+Phoenix:
+You didn't just brain a guy with a juice bottle for no reason. Tell me why you did it.
+Kristoph:
+...Persistent, aren't you?
+Phoenix:
+I came here... because I remembered something. The night of our "game"... ...Zak Gramarye mentioned your name, Gavin.
+Zak:
+Ah, that reminds me... I saw a familiar face as I entered this restaurant. ...He did not seem to notice me, however.
+Phoenix:
+...?
+Zak:
+Gavin... I believe was his name.
+Phoenix:
+...After that, he was killed. And I asked you to help me. ...Because I remembered your kindness back when everyone had turned on me.
+...I seem to be in a bit of trouble.
+Something like that.
+...Dead. Someone hit him. Hard.
+Me? Please. The cops should be here any minute.
+I'm in your hands... Should it come to that.
+Phoenix:
+...I have to know. Why did you kill Shadi Smith? No... Zak Gramarye!?
+Kristoph:
+......
+5 BLACK PSYCHE-LOCKS
+Phoenix:
+(Wh-Whoa! I've never seen Psyche-Locks like these! Dark... Cold... Full of despair... Can I even unlock these things...?)
+Kristoph:
+Something wrong, Wright?
+Phoenix:
+...No. It's nothing.
+Kristoph:
+You shouldn't push yourself so hard. Life is to be taken easy, you know. ......
+Phoenix:
+(...He's doing his nails.)
+Present
+Anything
+Phoenix:
+What do you think about this, Gavin?
+Kristoph:
+...I hardly need remind you that I am not a free man. I care little about the outside world. Save advances in chair technology.
+Phoenix:
+(No information forthcoming there, I guess.)
+Examine evidence
+Nail Polish
+Bottom
+Phoenix:
+Hmm... "Ariadoney"... I've heard of that brand. And this must be the brand symbol... It's supposed to be some kind of flower. Wait, no, maybe it's a hand. Wait... on second thought. Is that an eagle? ...... Who makes these things up, anyway? You'd think they'd try for a clearer symbol, at least.
+Seven Years Ago
+Drew Studio
+???:
+I... figured you'd come here sooner or later.
+Phoenix:
+I decided on sooner. Drew Misham... was it?
+Drew:
+...... I... I haven't done anything illegal.
+Phoenix:
+...And I didn't come here to whine about past events. I wanted to ask you some questions.
+Drew:
+...I suppose you have that right. That day... the entire court descended into chaos. Only you stood still, your eyes calmly watching. I admit, it made quite an impression on me.
+Phoenix:
+I'm used to finding myself in outrageous situations.
+Drew:
+Phoenix Wright, was it? I'll answer what I can.
+Phoenix:
+...... (I'm not sure, but... ...it feels like I'm being watched... intensely.)
+???:
+......
+Drew:
+Ah, this is my daughter. Vera, say hello.
+Vera:
+......
+Phoenix:
+(She's gone...)
+Drew:
+Shall we begin, then?
+Examine
+Door
+Drew:
+Ah, going home by any chance?
+Phoenix:
+Ah, er, no, I was just checking out the door.
+Drew:
+...Oh.
+Phoenix:
+(Good thing I'm far too stubborn to take hints like that.)
+Drawing
+Phoenix:
+What's this painting here...?
+Drew:
+Ah, that's one of mine. It's an illustration for a book. It's not on sale, yet, of course. But I thought it might be a good business. As a father, I'd like to be able to put food on my daughter's table.
+Phoenix:
+(Hmm... Not a feeling I know anything about... At least not yet.)
+Paints
+Phoenix:
+Paints are scattered all around. Probably the ones he's currently using. There's something very artistic about a messy room. Not that this is anything compared to my office. ...... I guess that would make my office a "masterpiece".
+Equipment
+Phoenix:
+You use these gizmos for painting? They're pretty... elaborate.
+Drew:
+Ah, those... Those aren't for painting. They're for analyzing. Paint composition, age... every conceivable angle.
+Phoenix:
+(...Tools of the forgery trade, I guess.)
+Misham's desk
+Phoenix:
+Maybe I'll just sidle on over here for a closer look...
+Nail polish
+Phoenix:
+That's a pretty bottle.
+Drew:
+Ah, don't touch that, please. I'll get in trouble.
+Phoenix:
+...?
+Drew:
+It belongs to Vera, you see. She always puts it somewhere she can see it. She looks at it often.
+Phoenix:
+(There's a light pink fluid inside. Nail polish, I'm guessing.)
+Photograph
+Phoenix:
+This is you and Vera?
+Drew:
+Yes... Yes. We took that one quite recently. I know, I'm a painter. Why not paint a portrait instead. ...I've never been that good at people, unfortunately.
+Phoenix:
+Ah... right. (Shouldn't you practice?)
+Red envelope
+Phoenix:
+What's this red envelope...?
+Drew:
+Ah! Don't touch that! That's, er, it's quite important.
+Phoenix:
+(The painter's face just changed hue. Guess I'd better behave. Though it's tempting to just grab it...)
+Tiny frame
+Phoenix:
+That's an awfully small frame. What's that inside it? A stamp?
+Drew:
+Ah, please don't touch that. I'll get in trouble.
+Phoenix:
+...?
+Drew:
+That stamp belongs to Vera, you see. She always puts it somewhere she can see it.
+Phoenix:
+That's "Zak &amp; Valant"... the Gramaryes, isn't it?
+Drew:
+The post office issued that commemorative stamp last year. When the Gramaryes were at the height of their popularity.
+Phoenix:
+(Not anymore... ...now that one of them has vanished off the face of the Earth.)
+Drew:
+Vera went to see one of their shows when she was quite small. She's been a dedicated fan ever since. She watched them every time they came on TV... until the end.
+Phoenix:
+...I see.
+Drew:
+That stamp's quite hard to come by, I hear. ...I still wonder how she got her hands on it.
+Commemorative Stamp added to the Court Record.
+Tiny frame (subsequent times)
+Phoenix:
+That's an awfully small frame. There's a commemorative stamp of the Gramaryes inside.
+Paint shelf
+Phoenix:
+Paints and pigments are lined up on the shelves... with some noticeable gaps.
+Drew:
+It's embarrassing, but I can't afford all the paints I want. I insist on buying the ones I use with my own money.
+Phoenix:
+I can see how you'd want to do that, sure.
+Drew:
+Perhaps you've heard that you can make any color... ...as long as you have the three primary colors? Well, it's a lie.
+Phoenix:
+(...Poor guy.)
+Stacked paintings
+Phoenix:
+These are some finished paintings stacked here. They don't look all that bad, really.
+Drew:
+...I'll sell you one for 50 cents.
+Phoenix:
+...... That's OK. They look kind of heavy.
+Drew:
+...Oh.
+Phoenix:
+(Maybe he needs to work on his sales technique a bit.)
+Talk (Drew Misham)
+Mr. Misham
+Phoenix:
+Judging from this place... you're a painter?
+Drew:
+Not, sadly, a profitable one. I've never sold a painting. It's a source of considerable embarrassment. I would be able to get by, were it only me...
+Phoenix:
+Your daughter...?
+Drew:
+Her mother... grew weary of me and left. I don't want her to grow up needy, Mr. Wright. That is why... I began my other occupation.
+Phoenix:
+Forgeries...
+The forgeries
+Drew:
+...Don't look at me with those eyes. I know what it is that I do. More than half of the paintings they bring me are stolen. And who knows what my copies are used for...
+Phoenix:
+But... some of your "works" aren't paintings, correct?
+Drew:
+You may not believe me when I tell you this... ...but that was my first work outside painting.
+Phoenix:
+What...?
+Drew:
+...To think it would be used as evidence in a murder trial... I never even imagined the possibility.
+Phoenix:
+Then why did you take the job!?
+Drew:
+I was... well paid. Very well paid.
+Phoenix:
+(I think he feels worse about it than I do... The past is hard to escape.)
+Drew:
+Honestly, the sooner I can put this behind me, the better. With apologies to you, of course.
+Phoenix:
+Sorry, but it's not going to be quite so easy. (He's trying to forget what he made. Looks like I'll have to remind him.)
+Magnifi's diary (appears after presenting Notebook Page)
+Phoenix:
+Well then. Ready to tell me about this "work" you did?
+Drew:
+...It was unlike anything I had attempted before.
+Phoenix:
+I guess it would be a little different from paintings.
+Drew:
+That is not what I mean. In all my previous work, it sufficed to create a "copy".
+Phoenix:
+...This wasn't a copy?
+Drew:
+...The client gave me two things that day. The first was a sample page, as reference. The second, a printed document I can only surmise was written by my client.
+Phoenix:
+So you used the real writing as a reference to "reproduce" what the client wrote?
+Drew:
+Y-Yes... As I said, it was my first job of that nature.
+Phoenix:
+So... ...who was your client?
+Drew:
+A-As I said in court, I do not know.
+Phoenix:
+...Really? Even for such a suspicious request? If it was me, I'd want to know as much as I could about the requester.
+Drew:
+I... I never met them! N-Not personally, I...
+2 PSYCHE-LOCKS
+Phoenix:
+(Ah. A Psyche-Lock. Of course.) It seems like you're still hiding something. Something about this "work".
+Drew:
+Unnk... Unnh...
+Present (Drew Misham)
+Notebook Page
+Phoenix:
+Your "work"... Don't try to pretend you've forgotten.
+Drew:
+......
+Phoenix:
+Sure, all you did was make a "copy"... ...but that "copy" might have destroyed the life of an innocent man.
+Drew:
+......
+Phoenix:
+I'm responsible, too. Which is why I have to know. ...And you have to tell me.
+Drew:
+I... knew it would be difficult to escape this.
+Phoenix:
+Then... let's talk.
+Drew:
+......
+Notebook Page (subsequent times)
+Phoenix:
+Your "work"... Don't try to pretend you've forgotten.
+Drew:
+......
+Phoenix:
+Sure, all you did was make a "copy"... ...but that "copy" might have destroyed the life of an innocent man.
+Drew:
+I... knew it would be difficult to escape this.
+Phoenix:
+So, Mr. Misham. Tell me about Magnifi's diary.
+Anything else
+Phoenix:
+Mr. Misham, I was wondering if you could tell me about this...
+Drew:
+I've... not been in touch with the outside world for some time now. I'm sorry, but that... isn't much of an inspiration to me.
+Phoenix:
+(...Oh, so now he's the sensitive artist.)
+Magatama
+2 PSYCHE-LOCKS
+-- You're Hiding Something --
+Phoenix:
+...Let's hear it, then. What are you hiding from me, Mr. Misham?
+Drew:
+I'm sorry, but I really don't know. I never met the client!
+Phoenix:
+...... (...True, when I asked the client's name... ...there were no Psyche-Locks in sight.) ...Regardless, you're hiding something! You have to be, otherwise it wouldn't make any sense.
+Drew:
+Hrrrm... Why are you doing this to me...?
+Phoenix:
+(Well, I've made my stand. No backing down now. So... what's Misham hiding?)
+The forger
+Leads to:
+"I can pretty much piece together what it is from what you've said."
+The sample
+Drew:
+Yes, there was a reference... Why should I hide that?
+Phoenix:
+Huh...?
+Drew:
+After the trial, I submitted everything to the court. My "work", the sample page, everything. I can give you directions to the court, if you'd like...
+Phoenix:
+Th-That's fine. I know where the court is. ...Unless you were just trying to get me to leave.
+Drew:
+Ah, sorry. I can sometimes be a little blunt.
+Leads back to:
+"Well, I've made my stand. No backing down now."
+The client
+Drew:
+...Like I said, I never met the client. How could I hide someone I do not know?
+Phoenix:
+(He did say that, didn't he? And with no Psyche-Locks, either. So... he's not lying about that, I guess.)
+Drew:
+Ask as many times as you want... My answer's the same. I personally never spoke to the client!
+Phoenix:
+You "personally"...?
+Drew:
+Ah, er, that is... Ahem.
+Phoenix:
+......
+Leads back to:
+"Well, I've made my stand. No backing down now."
+Phoenix:
+I can pretty much piece together what it is from what you've said.
+Drew:
+Wh-What is it, then?
+Phoenix:
+You told me what you knew about the client... ...and I couldn't see any Psyche-Locks...
+Drew:
+...Psycho locks? Is that some sort of asylum security? Or a new hairstyle, perhaps?
+Phoenix:
+...But then they did show up, didn't they?
+Phoenix:
+...who was your client?
+Drew:
+A-As I said in court, I do not know.
+Phoenix:
+...Really? Even for such a suspicious request? If it was me, I'd want to know as much as I could about the requester.
+Drew:
+I... I never met them! N-Not personally, I...
+Phoenix:
+"Not personally"... Those words triggered the Psyche-Lock!
+Drew:
+Again with the psycho locks! Now I really must know what they are!
+Phoenix:
+So, you didn't meet with the client... ...but someone else did! ...Maybe the real forger behind this "evidence"?
+Drew:
+Hrrm... Perhaps I'm hung up on this "lock" business... ...but I'm afraid you've lost me.
+1 LOCK BROKEN
+Phoenix:
+(Yeah, well, I didn't come here to talk about Psyche-Locks.) ...As long as I come to the right conclusion, it doesn't matter how I got there.
+Drew:
+And your conclusion is...?
+Phoenix:
+The real forger behind this wasn't you, Mr. Misham!
+Drew:
+P-Poppycock! I don't know what you're talking about. That's my work, I tell you. Made here in my studio! Who else could it have been but me!?
+Phoenix:
+...That's the real question, isn't it? If the forger wasn't you... ...then I don't have many other people to choose from. The real forger at Drew Studio is...!
+Present Vera Misham profile
+Phoenix:
+Take that!
+Leads to:
+"The real forger..."
+Present anyone else
+Phoenix:
+Take that!
+Phoenix:
+...Well, Mr. Misham!?
+Drew:
+...... Sure. Why not?
+Phoenix:
+...Huh?
+Drew:
+Feel free to accuse them of being a forger. I'll even tell you how to get to the court.
+Phoenix:
+...I know how to get to the court. (OK... now I'm confused. Who's really making the fakes here...?)
+Leads back to:
+"If the forger wasn't you..."
+Phoenix:
+The real forger... ...is your daughter, Vera Misham, isn't it?
+Drew:
+Ridiculous! My daughter's only twelve years old, Mr. Wright. I've always been more one for landscapes... not surrealism.
+Phoenix:
+(Nice comeback... but you're shaking in your boots. I've got you now!) The only two people with access to the studio are you... and your daughter. The Psyche-Locks tell me you're not the forger. Which makes your daughter the only possibility.
+Drew:
+...Ahem. I feel very much on the verge of going psycho lock myself!!!
+1 LOCK BROKEN
+Unlock Successful
+Talk (Drew Misham, after breaking Psyche-Locks)
+Magnifi's diary
+Drew:
+I... don't know how you knew, but, you're right. The one who made this page... was my daughter, Vera. Not I. She's only twelve... A genius, you might call her.
+Phoenix:
+...A precocious little girl outshining her father. There's been a lot of that going around recently.
+Drew:
+I let her play in the studio, and she watched me... ...She taught herself in that way. The drafting tools and analytical devices I bought when they became necessary. They're my little girl's playthings, now.
+Phoenix:
+(...Ah, do I detect a bit of fatherly pride?) So, Vera was the one who made this page. Would she know who the client was, then?
+Drew:
+...... Actually, the client came once. Here... to this studio.
+Phoenix:
+...What!? Why didn't you say so sooner!?
+Drew:
+But their face was covered, and they did not want to talk to me.
+Phoenix:
+So... they talked to your daughter?
+Drew:
+"I will speak only with the artist," the client told me.
+Phoenix:
+(That little girl might know something about him!)
+Your daughter (appears after "Magnifi's diary")
+Phoenix:
+(OK, what do I do now...? Maybe I should talk to her father a bit more... Or is it time to turn my attention to Vera?)
+Talk to Vera
+Leads to:
+"...Mr. Misham, I have a request."
+Save it for later
+Phoenix:
+(...I suppose there's no sense in rushing things. Let's see if there's any more to get out of Daddy first.)
+Phoenix:
+...Mr. Misham, I have a request.
+Drew:
+Let me guess. You'd like to speak with my daughter.
+Phoenix:
+...Can I?
+Drew:
+...My daughter has never been one to talk to strangers. She's quite shy. Extremely so, actually. ...With only one exception.
+Phoenix:
+Which was...?
+Drew:
+Oddly enough, it was that client.
+Phoenix:
+...!
+Drew:
+I left the studio while they talked. I returned when they had finished... and she was laughing! It was the first time I'd seen anything of the sort.
+Phoenix:
+...Please, let me speak with her.
+Drew:
+...Alright.
+Vera:
+......
+Phoenix:
+(Uh oh... this could be tough.)
+Talk (Vera Misham)
+Any option (before presenting Commemorative Stamp)
+Phoenix:
+Vera, was it? I... Would you like to have a friendly chat?
+Vera:
+......
+Phoenix:
+Er... I'm Phoenix Wright, ex-lawyer... and pianist!
+Vera:
+......
+Phoenix:
+I'm still looking for the keys that say "do re me". Can't find 'em anywhere!
+Vera:
+......
+Phoenix:
+(I'm no good at this. I need something to get through to this girl...)
+Vera (after presenting Commemorative Stamp)
+Vera:
+I... don't go outside much. I like to paint in here.
+Phoenix:
+Why don't you like the outside?
+Vera:
+There's bad people out there!
+Phoenix:
+Well, true, but there're lots of good people, too.
+Drew:
+Actually, I should tell you... ...she was almost kidnapped, once.
+Phoenix:
+K-Kidnapped...!?
+Drew:
+Since then, she's been... Well, you can see for yourself. She refuses to leave the house.
+Phoenix:
+I see... Wait. But that doesn't make sense. She said she went to the Gramarye Museum... ...with you, in fact.
+Drew:
+Ah... yes, actually, she was quite insistent on it, much to my surprise. That was the first and last time she expressed such a desire to me.
+Vera:
+That person gave me... a good luck charm.
+Phoenix:
+A good luck charm?
+Vera:
+For when I absolutely had to go outside.
+Drew:
+Yes, apparently, she received something... a gift. ...From that client, actually. She won't tell me what it was.
+Phoenix:
+...!
+Vera:
+Father! I told you to keep that a secret!
+Phoenix:
+(From that client, huh? This I have to hear about.)
+The forgeries (after presenting Commemorative Stamp)
+Phoenix:
+So, your father tells me you're good at painting all sorts of things...?
+Vera:
+I really like painting. A lot. Father is always very happy when I paint them exactly the same.
+Phoenix:
+So... you did this, too?
+Vera:
+Oh! Yes! That was my first job!
+Phoenix:
+Your first...?
+Vera:
+All I used to do was paint the same thing I saw. ...But this was totally different! The pen slips and the way the writer held the pen, and the pressure on the nib... ...I had to use a microscope and analyze it on the computer!
+Phoenix:
+(She seems happy. Odd... Her work was the last nail in the Gramarye coffin. I guess no one told her.)
+Troupe Gramarye Stamp (after presenting Commemorative Stamp)
+Vera:
+They're the best in the world!
+Phoenix:
+Huh? Oh, you mean Troupe Gramarye? Of course.
+Vera:
+Father gave it to me.
+Phoenix:
+Your father...? But... I asked him about it. He didn't know how you got it.
+Vera:
+Oh... Oh, um, I guess I just took it. Yeah.
+Phoenix:
+"Took" it...?
+Vera:
+Father got a letter... from that person.
+Phoenix:
+That person? You mean, that letter was from the client?
+Vera:
+Oh, we talked about the Gramaryes forever that day! ...I'm sure that's why I was sent that stamp. I didn't want to just send it back... so I took it.
+Phoenix:
+(They're a sneaky one, this client. So they were trying to get on her good side.)
+Commemorative Stamp updated in the Court Record.
+The client (appears after "Vera")
+Phoenix:
+So... you met the person that asked you to do this job? And... you talked with them?
+Vera:
+.....
+Phoenix:
+What's this about a "good luck charm" you received?
+Vera:
+...... I can't talk about it.
+Phoenix:
+Eh...?
+Vera:
+If I do, it won't work anymore! ...That's what I was told.
+Phoenix:
+Yeah... but I really, really have to know.
+Vera:
+......
+2 PSYCHE-LOCKS
+Phoenix:
+(Right. Time to do some psyche-unlocking.)
+Present (Vera Misham)
+Commemorative Stamp
+Phoenix:
+And then there's this...
+Vera:
+...... My stamp...
+Phoenix:
+(Hey! She spoke! She can talk!) Yeah, so this stamp... (How can I keep her talking?)
+Can I have it?
+Phoenix:
+Can I have your stamp?
+Vera:
+No way! ...It's my favoritest thing in the whole world!
+Phoenix:
+Ack, sorry, sorry! I won't take it, promise. (Wow, if looks could kill...)
+Love the frame!
+Phoenix:
+This stamp... It's got a really nice frame.
+Vera:
+...... I don't think so. ......
+Phoenix:
+(Yep, just keep her talking like that. Great job, Wright.)
+Great magicians, aren't they?
+Leads to:
+"Isn't Troupe Gramarye amazing?"
+Phoenix:
+Isn't Troupe Gramarye amazing?
+Vera:
+Ah...
+Phoenix:
+Hmm? Yes?
+Vera:
+Oh...
+Phoenix:
+I especially like those two, Zak and Valant. I mean they're, uh, just so magical!
+Vera:
+Aren't they, aren't they!?
+Phoenix:
+Yeah! Whenever I go to one of their shows, I'm like... Whoa! Magic! ...You know?
+Vera:
+Me, too! Me, too! I love them! They're so cool! It's like... like magic! Yeah!
+Phoenix:
+(Alright! She's talking! Not saying much... but it's a start!)
+Vera:
+...I went and saw them with Father the other day! The opening ceremony at the Gramarye Museum of Magic!
+Phoenix:
+The Gramarye M-Museum? They have one of those? (I guess it makes sense now that they have their own commemorative stamp...)
+Phoenix:
+So... have you been to one of their shows?
+Vera:
+Just once, when I was little. With Father. The Gramaryes on stage... It was like a dream! Disappearing, reappearing, cutting apart, putting back together... they do it all!
+Phoenix:
+Yeah, yeah! Maybe you can keep telling me stuff like this? You know... about Zak and Valant maybe...?
+Vera:
+Oh. Oh, sure.
+Phoenix:
+(Alright! Better get asking before she changes her mind.)
+Commemorative Stamp (subsequent times)
+Phoenix:
+They look pretty incredible in this stamp. I mean... it's like magic!
+Vera:
+I know, I know! I love the Gramaryes! They're just so... um... magical!
+Phoenix:
+(She's talking up a storm now! Better get what I can out of her before the storm passes over...)
+Anything else
+Phoenix:
+Um, what do you think about this?
+Vera:
+......
+Phoenix:
+(...I think I just made her nervous. I need something to grab her attention... but what?)
+Magatama
+2 PSYCHE-LOCKS
+-- The Client --
+Phoenix:
+You seem to trust this client... Quite a lot, in fact.
+Vera:
+......
+Phoenix:
+Because they gave you this stamp?
+Vera:
+N-No... that's not why. They listened to me. To my problem...
+Phoenix:
+(The problem... that keeps her inside all the time?)
+Vera:
+"Don't go outside if you don't want to"... That's what they told me. But... when I absolutely have to go out... ...all I had to do... was use a good luck charm.
+Phoenix:
+A good luck charm... that your client gave you?
+Vera:
+......
+Phoenix:
+I think I know what your client might have given you, actually. Is this your good luck charm...?
+Present Nail Polish
+Phoenix:
+Take that!
+Leads to:
+"This... was what they gave you, wasn't it?"
+Present anything else
+Phoenix:
+Take that!
+Phoenix:
+If this doesn't bring good luck, I don't know what would.
+Vera:
+...... I see. Good luck charms are different for different people, I guess.
+Phoenix:
+...Hmm? What do you mean?
+Vera:
+If you say it's lucky, then it must work for you. That's the beautiful thing about good luck charms...
+Phoenix:
+(See that innocent smile? Everyone has a different way of breaking the news. That's the beautiful thing about being totally wrong.)
+Leads back to:
+"I think I know what your client might have given you, actually."
+Phoenix:
+This... was what they gave you, wasn't it?
+Vera:
+Ah...
+Phoenix:
+The same bottle's over there on your desk. Your good luck charm... right?
+1 LOCK BROKEN
+Vera:
+I heard once... Cosmetics were once thought to ward off evil. This... is a magic bottle. It has the power.
+Phoenix:
+Ah... Of course it does. (I'll just refrain from commenting any more on that one.) I think I know who gave you that bottle, actually. The one who asked you to do this "job". Was this the client?
+Present Kristoph Gavin profile
+Phoenix:
+Take that!
+Leads to:
+"This man... is a friend of mine. Know him?"
+Present anyone else
+Phoenix:
+Take that!
+Vera:
+......
+Phoenix:
+Vera? Is something wrong?
+Vera:
+...I won't tell you. Even if that is the client, I won't.
+Phoenix:
+(...So you say. But... I know it wasn't the client. I don't see any Psyche-Locks clattering to the floor. *sigh* How could I get that one wrong? The answer is dangling in front of my face!)
+Leads back to:
+"I think I know who gave you that bottle, actually."
+Phoenix:
+This man... is a friend of mine. Know him?
+Vera:
+...!
+Phoenix:
+His name is Kristoph Gavin. ...He's a lawyer, actually.
+Vera:
+I... I promised. I promised not to tell!
+1 LOCK BROKEN
+Unlock Successful
+Talk (after breaking Psyche-Locks)
+The client
+Vera:
+I'm sorry. I can't talk about the client. I promised. And if I break my promise, the spell won't work!
+Phoenix:
+(I don't need a name anymore. I've got my answer...) You're pretty confident in this charm, then?
+Vera:
+...... I think... they might be the Devil.
+Phoenix:
+...Huh?
+Vera:
+Or maybe... an angel.
+Phoenix:
+Wh-What do you mean?
+Vera:
+I saw it... Or I think I saw it, when they gave me this. ...I saw the Devil's face.
+Phoenix:
+...Are you saying the client's face looked like the Devil's?
+Vera:
+No! The client... was gentle... with a gentle smile.
+Phoenix:
+So... where'd you see this "Devil" then?
+Vera:
+It was so quick... I don't remember well. But... that's when I knew that person wasn't like other people. That's why I believe in my good luck charm.
+Phoenix:
+(...I'm not sure what this "Devil" she saw was... ...but it's pretty clear that Kristoph Gavin has her "charmed"...)
+After clearing all Talk options:
+Phoenix:
+Well... I think that's all. I'll be leaving now.
+Drew:
+...I am sorry for what happened.
+Phoenix:
+If you want to apologize, try my client, Zak Gramarye.
+Vera:
+Um... Did I... do something bad?
+Phoenix:
+...What makes you think that?
+Vera:
+Your eyes... they're sad. Very sad.
+Phoenix:
+...... I'll put on my smile next time I come, promise. ...I hope to see you smile then, too, Vera.
+Vera:
+Oh... OK.
+Phoenix:
+...Take care.
+Phoenix:
+Thinking back on my first encounter with the young forger... ...I witnessed something of vital importance that day. ...Of course, by the time I realized it... ...it was already too late.
+Seven Years Ago
+Detention CenterVisitor's Room
+Valant:
+What strange sight doth mine eyes behold!
+Phoenix:
+Excuse me?
+Valant:
+Two men on either side of a single transparent pane... ...yet it seems fickle Fate has switched sides, so to speak! The forger of fakes walks freely. While the innocent languishes within these flexiglass confines.
+Phoenix:
+There's been no proof that I forged anything.
+Valant:
+Nor proof that I took the life of my dear mentor.
+Phoenix:
+......
+Valant:
+Yet... these chains cannot hold me for long. The stage awaits! And what, may I ask, awaits you?
+Phoenix:
+(A little piano in a cold little hole-in-the-wall...)
+Valant:
+But, since you are here... ...what shall we discuss?
+Phoenix:
+(The shooting of Magnifi Gramarye, for one... Who pulled that trigger? Valant? Or his partner Zak? His partner vanished before the answer could be found. If I'm going to get any closer to the truth, this is the place to start.)
+Examine
+Security camera
+Phoenix:
+Smile, you're on candid camera. I just had to say it. Old habits die hard. Maybe I should do a few tricks for the viewers at home.
+Security guard
+Phoenix:
+That guard keeps stealing glances in this direction. ...And scratching his head. Maybe our resident magician showed him a trick or two.
+Talk
+The fateful trial
+Valant:
+I have to hand it to my partner. He knows how to make an exit. That's talent.
+Phoenix:
+Yes. He made my attorney's badge disappear, and he never even touched it.
+Valant:
+Glory's spotlight always leaves someone weeping in the shadows... ...yet his very disappearance is itself a revelation.
+Phoenix:
+Revealing what?
+Valant:
+Zak Gramarye killed Magnifi. It's as good as a signed confession.
+Phoenix:
+(That's certainly been public opinion's take on it.)
+Valant:
+I grow tired of my cage. And the time of my release is near. I must go and prepare.
+Phoenix:
+Planning on jumping back into the magic right away?
+Valant:
+As long as an audience waits with bated breath, there will be Valant. And also...
+Phoenix:
+...Yes?
+Valant:
+Now that my partner has disappeared, Magnifi's repertoire... is mine. Valant Gramarye has a tradition to uphold.
+Phoenix:
+(Is that true?)
+Valant:
+Seen in this light, the trial was quite good to me, verdict or no. And... you can't pay for that kind of publicity.
+Blackmail
+Phoenix:
+The suspicion on you hasn't lifted entirely, Valant. After all... ...you received one of those letters, too. You were just as obligated to follow Magnifi's instructions as your partner.
+Valant:
+...So I was. But only Zak Gramarye followed them. Let us not speak any more of "who shot what". Now that my partner has vanished... the question is moot.
+Phoenix:
+I'm more interested in learning something else, actually.
+Valant:
+What might that be?
+Phoenix:
+I want to know what Magnifi had up his sleeve. How could he coerce you and your partner to kill him?
+Valant:
+The "trick" up his "sleeve"? Ah ha ha ha ha...! Perhaps you do not know.
+Phoenix:
+Know what?
+Valant:
+A great magician never reveals his secrets.
+4 PSYCHE-LOCKS
+Phoenix:
+(...I didn't think it would be that easy.)
+Valant:
+The audience must remain forever... in the audience. ...Bathing in the reflected glow of the spotlight.
+Present
+Anything
+Phoenix:
+Mr. Valant, could you look at this for me, please?
+Valant:
+Hmm. Yes, I accept your challenge. ...Well?
+Phoenix:
+Challenge? Huh?
+Valant:
+You want me to make it float? Disappear? Or shall I simply eat it?
+Phoenix:
+...... I didn't come here to play games, Mr. Valant. Or watch you do tricks.
+Magatama
+4 PSYCHE-LOCKS
+-- The Trick Up His Sleeve --
+Phoenix:
+(I'm flying by the seat of my pants on this one. There must be a path leading from the evidence to the truth... ...And that's what I'm going to find!) To ask someone to take a life, even one not long for this world... ...that's asking someone to commit murder.
+Valant:
+Yes. Our mentor was fond of dramatic moves... and dramatic finales.
+Phoenix:
+...And he got his wish. His life was taken. What "weakness" could be so powerful as to coerce someone into committing murder? My guess is it was a matter of life... or death.
+Valant:
+...Care to explain?
+Phoenix:
+Your troupe lived in a world of showmanship -- the flashier, the better... ...and flashy so often means danger, doesn't it?
+Valant:
+...Let us make this as painless as possible. If you have proof of this "danger"... then show it.
+Present Stage Pistol
+Phoenix:
+Take that!
+Leads to:
+"...!"
+Present anything else
+Phoenix:
+Take that!
+Valant:
+...Ah. And this is your idea of "danger".
+Phoenix:
+You don't agree, Mr. Valant?
+Valant:
+If you want my opinion, I would say there is something far, far more dangerous. ...And that is you!
+Phoenix:
+(It's a little early for me to be making mistakes. Think deadly... and what's more deadly than a fatal accident? That could be the source of all the Gramaryes' problems...)
+Leads back to:
+"...Let us make this as painless as possible."
+Valant:
+...! Why, that's one of ours!
+Phoenix:
+Specially designed for your show, I gather. A single bullet... One shot...
+Valant:
+...What are you suggesting!? We are magicians, Mr. Wright. Not murderers!
+Phoenix:
+I'm not crying "murder", Mr. Valant. I'm crying something far more tragic... ...An accident.
+1 LOCK BROKEN
+Valant:
+"Zak &amp; Valant's Quick-Draw Shootem"... ...How long has it been since those shots were last heard?
+Phoenix:
+Was the Shootem cancelled because someone might get hurt?
+Valant:
+...Of course. What other reason could there be?
+Phoenix:
+Well, it could have been cancelled because someone had already been hurt.
+Valant:
+...! Fascinating, my Faustian forging friend. But tell me, what can you prove with a single pistol?
+Phoenix:
+Well, tell me what would have happened if there had been an accident. What if one of your bullets took a life on stage?
+Valant:
+The performance of magic is not concerned with "what ifs". It is concerned with precision. Precisely whom do you claim we shot!?
+Phoenix:
+(Looks like I've chosen the right path. Let's just hope he walks it with me.) A life was sacrificed so that the show might go on... and this shows who it was!
+Present Trucy's Locket
+Phoenix:
+Take that!
+Leads to:
+"But... But that's...!"
+Present anything else
+Phoenix:
+Take that!
+Valant:
+A word, if I may.
+Phoenix:
+Yes?
+Valant:
+Does it excite you to know you stand at a critical moment in your quest...?
+Phoenix:
+Yeah... it does. Sort of.
+Valant:
+Then you'd never make it on stage. You're not fit to be a magician! Give it up.
+Phoenix:
+(I hadn't actually been considering that as a career option.)
+Valant:
+I'm sure you'll find something else to while away the time.
+Phoenix:
+(Like figuring out who that bullet hit...)
+Leads back to:
+"A life was sacrificed so that the show might go on... and this shows who it was!"
+Valant:
+But... But that's...!
+Phoenix:
+Zak Gramarye's wife... and Trucy's mother. ...Thalassa, I believe was her name.
+Valant:
+Ah! Allakazaaaaugh!
+1 LOCK BROKEN
+Valant:
+Bu-But how can you say this? How can you say she was struck by one of our bullets?
+Phoenix:
+(Still in denial mode, eh?) Thalassa was at the greatest risk of being shot. And this clearly shows just how much danger she was in!
+Present Commemorative Stamp
+Phoenix:
+Take that!
+Leads to:
+"Troupe Gramarye's performances were very, very popular."
+Present anything else
+Phoenix:
+Take that!
+Valant:
+...Mr. Wright, I envy you. It appears your chosen profession is far more lenient than mine.
+Phoenix:
+What do you mean?
+Valant:
+For us magicians, a single misstep can be... fatal.
+Phoenix:
+...A single mistake can be fatal for an attorney, too.
+Valant:
+Ah, so it can!
+Phoenix:
+(Thalassa's the key, I can see how her name affects him. But just a name isn't enough. I need to recreate that day in his mind. Starting with where she stood!)
+Leads back to:
+"Thalassa was at the greatest risk of being shot."
+Phoenix:
+Troupe Gramarye's performances were very, very popular. So popular, they even made a commemorative stamp at the height of your fame.
+Valant:
+We were not merely the "latest craze"... We were an age. A golden age.
+Phoenix:
+...It's all here on this stamp. ...There's Thalassa, yes?
+Valant:
+Urk...!
+Phoenix:
+Trucy's mother is "missing", I hear. ...What happened to her?
+Valant:
+I... I don't know!
+1 LOCK BROKEN
+Phoenix:
+(A part of his memory is still locked up...)
+Valant:
+...There is one thing you're failing to address.
+Phoenix:
+What's that?
+Valant:
+As you say, our troupe was a world unto itself. If our leader, Magnifi was so inclined, he could hide anything he wished with ease. ...But, Mr. Wright. Then he would have hid a crime... making him an accomplice! ...Not a great foundation for blackmail.
+Phoenix:
+...... (Valant's got a point. If one of the troupe members died in an accident, and Magnifi covered it up... ...his innocence would come into question.)
+Valant:
+...Found the right address, Mr. Wright?
+Phoenix:
+(I'm so close! There has to be something. About how Thalassa's death could affect Zak and Valant's relationship with Magnifi.)
+Valant:
+I see in your eyes... you still have something to say. How can you possibly prove more than you already have!?
+Phoenix:
+I'll prove why Thalassa's accident tied your hands so completely...
+With evidence
+Phoenix:
+(...No better proof than the evidence!) The accidental death of Zak's wife tied both your hands... And his evidence proves why Magnifi held so much power over you!
+Present anything
+Phoenix:
+Take that!
+Leads to:
+"Ha ha ha ha ha ha ha!"
+Valant:
+Ha ha ha ha ha ha ha! Were you, by any chance, trying to threaten me?
+Phoenix:
+N-No, of course not.
+Valant:
+...You'll never make a good blackmail artist. Never!
+Phoenix:
+(Not a career choice I'd been considering, actually.)
+Valant:
+Give up your dreams. Work an honest job. That's my advice.
+Phoenix:
+(...I'd better stop dreaming and get to work here, fast. Magnifi used Thalassa's death as a means to control his disciples. How was that possible if he could be implicated in the cover up? ...Do I really have the evidence to prove this?)
+Leads back to:
+"I see in your eyes... you still have something to say."
+With a person
+Phoenix:
+(...It's going to take a little knowledge of the players to crack this one.) The accidental death of Zak's wife tied both your hands... And this information proves why Magnifi held so much power over you!
+Present Thalassa Gramarye profile (after presenting Trucy's Locket to Zak Gramarye in the past)
+Phoenix:
+Take that!
+Leads to:
+"It wasn't a question of who shot Thalassa..."
+Present anyone else
+Phoenix:
+Take that!
+Valant:
+Ha ha ha ha ha ha ha! Were you, by any chance, trying to threaten me?
+Phoenix:
+N-No, of course not.
+Valant:
+...You'll never make a good blackmail artist. Never!
+Phoenix:
+(Not a career choice I'd been considering, actually.)
+Valant:
+Give up your dreams. Work an honest job. That's my advice.
+Phoenix:
+(The troupe was a tight-knit unit... it's all about the people involved. Their personalities, their histories. Who was Thalassa, really?)
+Leads back to:
+"I see in your eyes... you still have something to say."
+Phoenix:
+It wasn't a question of who shot Thalassa... Thalassa herself was the problem!
+Valant:
+What... do you mean?
+Phoenix:
+She was Zak Gramarye's wife, Trucy's mother... ...and Magnifi Gramarye's only daughter!
+Valant:
+Urk...!
+Phoenix:
+There was a terrible accident... ...and the two of you killed your mentor's only daughter! If that wasn't the key to Magnifi's power over you, I don't know what was!
+Valant:
+It... It was... It was an accident!!!
+1 LOCK BROKEN
+Unlock Successful
+Talk (after breaking Psyche-Locks)
+Blackmail
+Valant:
+...There's no proof, none at all!!!
+Phoenix:
+But Thalassa went missing... ...and your mentor blackmailed both of his disciples. It doesn't take a genius to put one and one together.
+Valant:
+...... Ours was... a complex family.
+Phoenix:
+You mean Troupe Gramarye?
+Valant:
+The master, Magnifi Gramarye, his only daughter... ...and his two disciples.
+Phoenix:
+That does sound like a recipe for disaster, doesn't it?
+Valant:
+Do not be tempted into faulty flights of fancy. Yes, there was an accident... ...but that is all it was. An accident. Zak &amp; Valant's tour de force! The guns blaze, the bullets fly... straight toward that beautiful body on stage. And then crash! zing! pow! into everything but her. Now that... is magic. It happened one day when we were practicing. Same trick, with a new twist. And... tragedy. But as for whose bullet stole Thalassa's life... ...we shall never know the answer. Thalassa disappeared from our lives... and Zak was bereft of his wife. Trucy lost her mother... ...and Magnifi, his daughter.
+Phoenix:
+...And that led to blackmail, I take it.
+Valant:
+It is all part and parcel of the darkness that comes when the curtain falls.
+The darkness (appears after "Blackmail")
+Phoenix:
+Why did Magnifi Gramarye try to cover up the "accident"...? It was his own daughter who died!
+Valant:
+All I can say is, it was a critical time for Troupe Gramarye. A passing of the torch from Magnifi to Zak &amp; Valant. We all sacrificed so that it might be a success. Thalassa's death... was the greatest sacrifice of all. Yet... ...even when her life was extinguished, her presence was not.
+Phoenix:
+What do you mean?
+Valant:
+In time, we, myself and Zak, found we could no longer oppose Magnifi's wishes. Magnifi forced us to perform his art, for his benefit.
+Phoenix:
+I see... I guess I can understand. I mean, he did lose his only daughter.
+Valant:
+But do you not find cowardice in his actions?
+Phoenix:
+Huh...?
+Valant:
+To decide to hide the truth of your own daughter's death is one thing... ...but then to hang that death as a guillotine above our heads!?
+Phoenix:
+(Things were dark behind the scenes in Troupe Gramarye, that's for sure.) Does Trucy know...?
+Valant:
+She was not told. ...Naturally. Who would want to know that their father might have taken their mother's life?
+Phoenix:
+True...
+Valant:
+...I had not thought of that accident for a very long time.
+Phoenix:
+I'm sorry to dredge up old memories... but this has helped a lot.
+Valant:
+Not to find Magnifi's slayer, I should think.
+Phoenix:
+...True.
+After clearing "The darkness" Talk option:
+Valant:
+Ah...
+Phoenix:
+...?
+Valant:
+After that accident... ...there was one who came sniffing, quite persistently.
+Phoenix:
+A reporter?
+Valant:
+He called himself a "newsman" at the time. Often I spied him lurking about the dressing room, doing his "research".
+Phoenix:
+Would you happen to remember his name?
+Valant:
+What was his name...? Sorry, I have forgotten. But, in the course of his interviewing, he became quite close to my partner, Zak. I liked him not.
+Phoenix:
+I see...
+Valant:
+His name... I do not recall. But his scent -- the cloying aroma of mint. ...Yes, whenever he smiled. Which was far too often.
+Phoenix:
+I see... Thanks for your help.
+Valant:
+...It does no good to interfere with the past, Mr. Wright. You will not uncover answers. Only wounds.
+Phoenix:
+...I'm sorry.
+Phoenix:
+I had begun to notice a dark curtain hanging over Troupe Gramarye... ...and I began to realize what I had to do. I had to protect Trucy from that darkness. The reporter he mentioned... ...the "newsman". I never learned who that was, at the time. ...Though I've got a pretty good idea who it is now. That smile, and the sickly sweet smell of mint. The last floss-thin thread connecting Zak Gramarye to this world. Sooner or later, I'd have to track him down.
+Present Day
+Drew Studio
+Brushel:
+Eh? Well well well what do we have here?
+Phoenix:
+Remember me?
+Brushel:
+Of course I remember you! "Journalist Meets Ex-Attorney In Bar", end quote.
+Phoenix:
+Can I ask what you're doing here? Mr. Misham was poisoned, and his daughter's...
+Brushel:
+Oh, yes, I know. Oh, how I know! Yes. It's caused me no end of grief, to be honest. "Journalist Wishes He'd Tracked Down Case Just A Little Quicker", end quote.
+Phoenix:
+Were you on the trail of this case the whole time?
+Brushel:
+Zak Gramarye... was a good friend.
+Phoenix:
+Zak said something to that effect back at the Borscht Bowl Club.
+Brushel:
+What a character, what a man! If a little... No, a lot... No, extremely rough around the edges!
+Phoenix:
+Do you think I could ask you a few questions?
+Brushel:
+Oh? You serious? I mean, I'm usually the interviewer, not interviewee! "Journalist Asks Questions, Not Other Way Around", end quote.
+Phoenix:
+......
+Brushel:
+Fine, shoot, I don't care! People have been asking me all sorts of things lately.
+Examine
+Coffee table
+Phoenix:
+...This is where Mr. Misham fell? Never thought our seven-year reunion would be quite like this.
+Brushel:
+Wait. You knew Mr. Misham!?
+Phoenix:
+...I met him once. In court. It was a... brief meeting, but one I'll remember for the rest of my life.
+Brushel:
+Now that's a story right there, that is! I smell a scoop! "Ex-Attorney Now Down-On-His-Luck Pianist Plays Sonata Of Sorrow!" end quote. I'm all ears! Let's have it! Don't hold anything back!
+Phoenix:
+...... Could you at least get rid of the "down-on-his-luck" part?
+Door
+Phoenix:
+The door outside. Vera might come walking in at any moment... if she wasn't in intensive care. Will she ever come through that door again, I wonder?
+Paintings
+Phoenix:
+Those three paintings...
+Brushel:
+...All Drew's "works", of course. Which is to say, Vera's "works", really. Or, to be more precise, Vera's forgeries of someone else's works. Of course, if you demand utter and total precision... ...... Actually, there's nothing more.
+Phoenix:
+(I was about to say...)
+Drafting table
+Phoenix:
+A drafting table. Probably for making detailed designs for forgeries.
+Brushel:
+You know what I think about that? I'll tell you! Painting should be done freehand... no rules, no restrictions! You really think a line drawn by a ruler's going to "move" anyone? I smell a letter to the editor! "Could You Write An Article With A Ruler?"... end quote! Unless you wanted a ruler to write the address on your blackmail letter straight! That's what I think. You can quote me on it, too.
+Phoenix:
+...... (You could drop this guy on a deserted island and he wouldn't get bored.)
+Equipment
+Phoenix:
+That's an odd assortment of equipment to find in a painter's studio. Of course, it makes more sense when you know they were making forgeries. I guess that's why they never took visitors here. Wouldn't really want people seeing all this.
+Brushel:
+Yes, in fact I was the first human being ever to set foot inside this studio. Er, other than Mr. Misham, of course. Oh, and Vera, too. And, this is assuming that I'm human, of course.
+Phoenix:
+(...I'm beginning to have my doubts.)
+Misham's desk
+Phoenix:
+Let's take a closer look at that desk.
+Desk drawer
+Phoenix:
+This envelope's from the client who requested that forgery. Just think, if that had gotten lost in the mail... ...I'd still be wearing my attorney's badge.
+Figurine
+Phoenix:
+Objection!
+Phoenix:
+...I just have to do that when I see this pose. I can't believe it's been seven years... ...I have to stop torturing myself with these things! I know! I'll just pretend it's saying something else. "The post office? Why, it's right over there! Good say, sir!"
+Photograph
+Phoenix:
+A picture of a young Mr. Misham and a very young Vera. They're smiling. They look happy. Of course, now Mr. Misham's passed away... ...and Vera's on death's doorstep in the hospital. ...Guess I'll just do what I can... and hope it's enough.
+Tiny frame
+Phoenix:
+This frame looks even smaller sitting next to that photo. Just the right size for a commemorative stamp, indeed. A commemorative stamp put there by a daughter... that killed her father. Sometimes, life just sucks.
+Paint shelves
+Phoenix:
+Look at all the jars of paints and pigments. Why are there so many jars of the same color?
+Brushel:
+My guess is that they're sorted by "age".
+Phoenix:
+Age...?
+Brushel:
+When you're making a forgery, it's important to match the age of the original, see? Paint composition's changed a lot over the years.
+Phoenix:
+Oh... right. Did you learn that in journalism school?
+Brushel:
+"Journalist Relies On Writing Skill And Imagination!" end quote.
+Phoenix:
+(...As long as you don't do news stories by imagination.)
+Brushel:
+Either that, or they just bought a lot of the same color by mistake.
+Phoenix:
+...... (I find myself not caring anymore.)
+Talk
+Family of forgers
+Phoenix:
+It was tragic what happened to Drew Misham and his daughter.
+Brushel:
+Forgery is a serious crime, and they paid the price. You know what really did them in though, don't you?
+Phoenix:
+...Yes. A forged diary page.
+Brushel:
+The night I "interviewed" him... ...I found out something about Mr. Misham I hadn't known.
+Phoenix:
+...What's that?
+Brushel:
+You know, he always felt like he was being watched? Every day, for seven years. "Walls Have Ears, Potatoes Have Eyes", end quote.
+Phoenix:
+Being watched... you mean, he felt guilty?
+Brushel:
+No, no, I'm not talking about "feelings", here.
+Phoenix:
+...?
+Brushel:
+...You know, I felt watched, too. The whole time I've been on this case, no less! "Journalist Gets Tingling Sensation On Back Of Neck, Freaks Out", end quote.
+Phoenix:
+Because... you felt guilty?
+Brushel:
+Why would I feel guilty!?
+Phoenix:
+(You felt like you were being "watched", huh? I wonder what it all means?)
+Paranoia (appears after "Family of forgers")
+Phoenix:
+Drew Misham felt like he was being "watched"... ...and you along with him. You sure it wasn't just nerves?
+Brushel:
+Nerves? No, it's nothing so mundane... ...I stopped paying attention to my nerves a long time ago! But I felt it, too! "Journalist Sure He Is Being Watched", end quote. Don't you wonder why Zak Gramarye got rubbed out after seven years... ...right after coming into contact with me!?
+Phoenix:
+...!
+Brushel:
+He completely vanishes from that courtroom... ...Then, for seven years, he talks to no one. Not a soul! Then, just as the "remaining time" was almost up... ...he contacts me in order to have this made.
+Phoenix:
+And then... he dies.
+Brushel:
+Starting to put the pieces together, are we!?
+Phoenix:
+And... you were being "watched" this whole time?
+Brushel:
+Maybe not just me. Maybe you were, too!
+Phoenix:
+(M-Me...?)
+Zak Gramarye
+Brushel:
+I met Zak through that case, actually.
+Phoenix:
+You mean the shooting of Magnifi Gramarye?
+Brushel:
+No, before that... It's not widely known.
+Phoenix:
+You mean... the "accident"? During the Quick-Draw Shootem practice?
+Brushel:
+My my my, you're well informed! You should've seen me back then. I'd dug up quite the scoop. I wanted it all. Money, fame, women, a little puppy... all for me! I was younger then, and my days and nights smelled of fresher mint than they do now.
+Phoenix:
+Valant Gramarye did mention one particularly "nosy reporter".
+Brushel:
+In fact, I was on close speaking terms with Magnifi Gramarye at the time. I knew his daughter, too, of course. Thalassa, was it?
+Phoenix:
+Really...
+Brushel:
+Then Thalassa disappeared. Quite suddenly, at that. And Magnifi wouldn't say a word about it. Yeah... My evil habit got the better of me. "Journalist Catches Scent Of A Scoop, Goes On Feeding Frenzy"... end quote. I set up a one-on-one interview with Thalassa's husband, see.
+Phoenix:
+Zak Gramarye...
+Brushel:
+Something strange was in the air over at Troupe Gramarye in those days. The whole screwy mentor-controlling-disciples scene'd started by then, I'm guessing. Thalassa, she was part of it all, right? C'mon, you can tell me, off the record!
+Phoenix:
+...Sorry, I don't know.
+Brushel:
+...Anyway. I kept prying, and eventually became friends with Zak. Sure, he punched me once or twice. Or five times. But over time, he came to see me as his confidant.
+Valant Gramarye
+Brushel:
+He's been waiting this whole time. Seven years, eh?
+Phoenix:
+Waiting...?
+Brushel:
+For his big comeback, of course! A big "revival of the Magnifi Miracle"... 'Course it was all a dream.
+Phoenix:
+Because of this. ...The performance rights.
+Brushel:
+In the absence of any official documents, he was golden. Who's to say the old man didn't give his rights to both Zak and Valant?
+Phoenix:
+...So Valant waited until Zak "died". Legally, at least.
+Brushel:
+The time finally comes, and Valant's like a kid on Christmas morning!
+Phoenix:
+He's getting ready for his show at the Sunshine Coliseum, you know.
+Brushel:
+If that document sees the legal light of day... ...it's going to put a bit of a damper on the big show. He's a sorry one, that Valant Gramarye. Lost out to his partner at work... and in love, too.
+Phoenix:
+"Love"...?
+Brushel:
+...It's the same old story, really. Two disciples, and their mentor's only daughter. What has three sides, and all of 'em pointy? ...A love triangle.
+Phoenix:
+Hmm. That is pretty classic.
+Brushel:
+When you're in a performing troupe, that's your world. It's like family. ...One with an entire high school's worth of drama, intrigue, and backstabbing.
+Phoenix:
+And in the middle of all this, Thalassa has Trucy. ...And then she dies. (I need to find out more about this Thalassa...)
+Thalassa (appears after presenting Trucy's Locket)
+Brushel:
+So... Thalassa married Zak and had Trucy, see. It was her second marriage, actually.
+Phoenix:
+You mean she was divorced...? (I hadn't heard this one before...)
+Brushel:
+Not quite. Her late husband was a performer, too. He died in an accident on stage. Tragic, really. They had only been married one year.
+Phoenix:
+I didn't know...
+Brushel:
+...Ah, but she was a beauty. I still carry a portrait photo of her around, you know. I've known Trucy since she was a little thing, too. ...She got the better deal, really. She's got you for "family", after all.
+Phoenix:
+...? What do you mean?
+Brushel:
+Just reminiscing, you know. "Thalassa Has Another Child Besides Trucy", end quote.
+Phoenix:
+What!? But... But Trucy said she was an only child!
+Brushel:
+Ahh, yes. The one she had with her previous husband.
+Phoenix:
+Her previous husband...? Her first husband who died on stage?
+Brushel:
+Yep. They had themselves a kid. Another orphan, now. That's another one who slipped through the cracks. No idea where they are now.
+Phoenix:
+(Thalassa had another child...?) Do you think I could borrow that photo?
+Brushel:
+...Sure. I can be generous on occasion, you know.
+Thalassa's Portrait added to the Court Record.
+Phoenix:
+(I won't need this locket anymore... Better return it to Trucy before I forget.)
+Present
+Trucy's Locket
+Phoenix:
+Mr. Brushel? Do you know this person?
+Brushel:
+Do I know that person? Of course! I was friends with Zak, after all... He hit me a few times. Five times, actually. But still! I'd never forget his wife.
+Phoenix:
+Thalassa Gramarye... ...Magnifi Gramarye's only daughter. ...Do you think you could tell me more about her?
+Brushel:
+...... Well, why the heck not!
+Anything else
+Phoenix:
+Mr. Brushel, could you take a look at this?
+Brushel:
+Ah, I hear you loud and clear! Loud. And. Clear! So... you want me to write an article on that, right? What's the angle!?
+Phoenix:
+Actually, no, that's OK. I don't need an article. I was just wondering if you had any thoughts on this.
+Brushel:
+I hear you. I. Hear. You! You want me to sniff around for a scoop! Well you've come to the right nose, my friend! ... It's odorless.
+Phoenix:
+...Th-Thanks. (OK, that was less than informative.)
+After clearing all Talk options:
+Brushel:
+People and events all get tangled together and get biggerer and biggerer... ...don'tcha think?
+Phoenix:
+(I was too busy wondering about "biggerer" to listen to what you were saying.)
+Brushel:
+...Sometimes, you just gotta accept that you won't be able to untangle it all, I think.
+Phoenix:
+Maybe so. But still... ...I have to do what I can. And... I have to tell what I find to those who come next.
+Brushel:
+"Next" you say?
+Phoenix:
+I'm not the one who will close the curtain on this little play. Apparently, that's not my role anymore.
+Brushel:
+Magnifi...
+Phoenix:
+...?
+Brushel:
+I was just wondering what Magnifi would think of all this.
+Phoenix:
+What do you mean?
+Brushel:
+Haven't you seen it in Trucy? She's got his power.
+Phoenix:
+You mean, how I can't lie to Trucy?
+Brushel:
+It was the same with Magnifi. And with his daughter... Thalassa.
+Phoenix:
+It's a strange thing. You think it's some Gramarye gene?
+Brushel:
+Magnifi told me once, back when Zak married Thalassa. He said Zak had good "eyes". But not good like a Gramarye's eyes. Not that good.
+Phoenix:
+(...I wonder if Zak ever played a game of poker with his wife?) Who knows what the "Gramarye Secret" was...?
+Brushel:
+Maybe nobody, now that Zak's gone.
+Phoenix:
+(Zak Gramarye...)
+Phoenix:
+...The plot had finally begun to reveal itself. It sprouted from a warp in the Gramarye fabric, and grew, swallowing everything... ...wrapping itself around the Gramaryes' "power". A power which passed from Magnifi Gramarye to Thalassa ...to the next generation. And I would once again need to meet... ...the one who bridged it all together.
+Borscht Bowl Club
+Magatama
+3 PSYCHE-LOCKS
+-- The Gramarye Secret --
+Phoenix:
+I have to know more about this "power" of Trucy's. It's like she can see right into people's minds...! The first time I saw her do it, it blew mine.
+Zak:
+And after you were done having your mind blown, you took her to play cards with you.
+Phoenix:
+Er... Gotta use the resources at hand, I always say.
+Zak:
+Yet, I myself have no such "power".
+Phoenix:
+But Trucy does... ...Why's that?
+Zak:
+......
+Phoenix:
+Maybe Trucy got her "power" from her mother? Thalassa Gramarye...?
+Zak:
+I will not speak of that!
+Phoenix:
+Thalassa is officially "missing", correct? And I think I know why you don't want to talk about her.
+Present Commemorative Stamp or Stage Pistol
+Phoenix:
+Take that!
+Leads to:
+"The three of you were a team, once."
+Present anything else
+Phoenix:
+Take that!
+Phoenix:
+Well, Mr. Zak!?
+Zak:
+...Let me be frank. It is true I do not wish to talk of her. And now, there is another I could care less about. ...You.
+Phoenix:
+Ah.
+Zak:
+Take care you do not end up "missing" yourself.
+Phoenix:
+(For some reason, it's extra scary when magicians threaten me. I'd better rethink my strategy here!)
+Leads back to:
+"Thalassa is officially "missing", correct?"
+Phoenix:
+The three of you were a team, once. Not that the entire country doesn't already know this. At your peak, you were the biggest stars around. Yet, there's another story behind the fame. One that not many know. Thalassa lost her life during a rehearsal. ...To you and Valant Gramarye's bullets.
+Zak:
+It was an accident! It... It wasn't me! How could I shoot my dear Thalassa!?
+Phoenix:
+...I'm sure Valant would say the same thing. Why, it's just like another murder I might mention.
+Zak:
+Damn you!
+1 LOCK BROKEN
+Zak:
+Her eyes... I loved Thalassa's eyes. To think they could read my mind... was frightening. Yet there was a warmth in them that felt... like an embrace. She is dead, and Magnifi Gramarye has joined her.
+Phoenix:
+So the only one with her "power" left now... ...is Trucy?
+Zak:
+......
+Phoenix:
+Mr. Zak...?
+Zak:
+I... do not know.
+Phoenix:
+(I don't need any "power" to see through that one, buddy.) So there's someone else. Someone other than Trucy. Someone who inherited Thalassa's "power".
+Zak:
+Hah... Hah! How would I know...?
+Phoenix:
+(My chances are slim. It would take a miracle to learn the truth. Or maybe... one has already occurred.) There is someone else with the "power". And I know who...
+Present Apollo Justice profile
+Phoenix:
+Take that!
+Leads to:
+"This... This boy?"
+Present anyone else
+Phoenix:
+Take that!
+Zak:
+Tell me, what do you think the "meaning" of magic is?
+Phoenix:
+...Huh?
+Zak:
+It is simple. To do magic is to make miracles happen. It is not something an amateur can achieve. Or you, apparently.
+Phoenix:
+(I don't need to make a miracle if one's already occurred... And I've known it all along. In fact, it would take a "miracle" for me to mess this one up! I know who the other one with the power is!)
+Leads back to:
+"My chances are slim.)"
+Zak:
+This... This boy?
+Phoenix:
+His name is... I forget. Something weird.
+Zak:
+Who could he be?
+Phoenix:
+An attorney.
+Zak:
+A-Attorney!?
+Phoenix:
+I noticed him when I went to visit a friend's law offices.
+Zak:
+...... ...So, what are we to make of this, O Great Ex-Attorney?
+Phoenix:
+......
+Zak:
+You can show me pictures of strange boys all you like. But you could at least say something like "I'm this boy". I could use a laugh.
+Phoenix:
+Perhaps you wouldn't laugh if you knew the facts.
+Zak:
+...!
+Phoenix:
+This might not be 100% proof, but it's close. There's a link between this boy and Thalassa... Actually, it's more of a "ring".
+Zak:
+...A ring?
+Phoenix:
+Perhaps this will refresh your memory. I just so happen to have evidence showing this "missing link"!
+Present Thalassa's Portrait
+Phoenix:
+Take that!
+Leads to:
+"Actually, I know something. Your marriage to Thalassa was her second."
+Present anything else
+Phoenix:
+Take that!
+Zak:
+Wa ha ha ha ha ha!
+Phoenix:
+...Mr. Zak?
+Zak:
+This face is your response, Mr. Ex-Attorney. You did say that I wouldn't laugh if I knew the facts, right?
+Phoenix:
+Yeah...
+Zak:
+Few magicians will tell you they're going to produce a dove, then take off their hat. It's almost more effective to not reveal your hand in advance, Mr. Wright.
+Phoenix:
+(Which I've just done, clearly. The question is, do I have a trump card in here somewhere? Think, Wright, think!)
+Leads back to:
+"This might not be 100% proof, but it's close."
+Phoenix:
+Actually, I know something. Your marriage to Thalassa was her second.
+Zak:
+How did you know this!?
+Phoenix:
+Her first husband... He died a year after they were wed, yes?
+Zak:
+...... He was a performer. They met when he joined us Gramaryes as a guest in our show. After Thalassa wed him, she left the Troupe for a while. ...... And you say she had a child then...?
+Phoenix:
+I have a photograph of her here. I couldn't help notice what she was wearing when I first saw this. Those bracelets stand out.
+Zak:
+They are a Gramarye family heirloom.
+Phoenix:
+This boy... ...wears a bracelet just like the ones in this picture.
+Zak:
+What...!? So... that's why!
+Phoenix:
+Why what, Mr. Zak?
+Zak:
+I took this photograph of Thalassa before she left us. When she returned... ...she wore only one bracelet.
+Phoenix:
+I bet I know where that other one went.
+Zak:
+She gave it to this boy. ...Her son.
+2 LOCKS BROKEN
+Unlock Successful
+Talk (after breaking Psyche-Locks)
+The Gramarye's Secret
+Zak:
+This strange "power"... I myself do not know from where it comes. Yet, the fact is that it is passed down the Gramarye line. It runs in their veins.
+Phoenix:
+What... is it?
+Zak:
+I asked her... Thalassa, once. This is what she told me. Her power responds to "tension" in others.
+Phoenix:
+Tension...?
+Zak:
+If she were to face a person, and they became tense, even slightly... ...then she would know, no matter how hard they tried to hide it from her.
+Phoenix:
+So, she could "see" it?
+Zak:
+Not quite. This is the strangest part of it all. She wouldn't realize that she was subconsciously detecting this tension... ...without the use of a particular "object", or, in her case, "objects".
+Phoenix:
+Objects...? Wait... were they something she wore?
+Zak:
+Yes. Her bracelets.
+Phoenix:
+(I admit the first time I saw one of those, I felt there was more to it than just fashion. But what kind of power could a bracelet have...?)
+Zak:
+...I have made a decision. I will tell you all I know. Consider it a gift.
+Trucy and Apollo (appears after "The Gramarye's Secret")
+Phoenix:
+Well, I hardly need you to tell me at this point, but those two...
+Zak:
+...Are brother and sister, yes. And the brother, too, has this "power" of theirs.
+Phoenix:
+So Trucy has an older brother... I wonder what will come of that.
+Zak:
+...Mr. Wright. Tonight, after our game is done... ...I will return to a life of hiding.
+Phoenix:
+......
+Zak:
+I would not see her live her life without knowing...
+Phoenix:
+I understand. I'll tell the two of them when the time is right.
+Zak:
+I... am in your debt. Once again.
+Phoenix:
+No kidding. What I want to know is how all this got to be so messed up...
+The bracelets (appears after "The Gramarye's Secret")
+Zak:
+Those bracelets are made of a special alloy... ...It is said to expand and shrink, very slightly, in response to body warmth.
+Phoenix:
+So they're temperature sensitive or something?
+Zak:
+Yes. This is how they can shrink to the exact size of their wearer's wrist!
+Phoenix:
+...And this has something to do with the "power"?
+Zak:
+What have I told you? The Gramarye "power" reacts to tension in others. When a Gramarye senses tension, they, too, become tense. And this tension translates into minute contractions of the muscles. So minute, they cannot sense it on their own.
+Phoenix:
+Their muscles? Oh, so that's what the bracelets are for!
+Zak:
+With a bracelet on, one can sense these contractions. Because the bracelet is always a perfect fit.
+Phoenix:
+...So when the person they're watching gets tense... ...the bracelet feels tighter on their wrist!
+Zak:
+Precisely.
+Phoenix:
+But that alone doesn't really count as mind reading.
+Zak:
+I believe I understand how the process works from there. It's a simple question of "eyesight".
+Phoenix:
+Eyesight...? (I guess that sounds simple enough...)
+Eyesight (appears after "The Gramarye's Secret")
+Zak:
+Have you ever heard of "kinetic vision"?
+Phoenix:
+Something about the ability to see moving objects with full clarity, right? I've heard of it before. They say athletes can see a moving ball like it was stopped... if they focus.
+Zak:
+Oh, but it's not confined to sports alone. It all relies on the ability to "focus". When we focus, we can see many things... ...The faintest twitch of the face... and the meaning that lies behind it.
+Phoenix:
+...!
+Zak:
+Therein lies one of the secrets of magic. One must know the mind of a crowd before one may distract it.
+Phoenix:
+So, basically, what you're saying is... ...the Gramaryes can see really well?
+Zak:
+For them, seeing is more than believing. It is knowing. Their "power" relies on eyesight combined with exceptional focus.
+Phoenix:
+Things are starting to come into focus for me, too.
+Zak:
+Of course, it is difficult to maintain such levels of focus for any length of time. But, what if someone could tell you when to focus?
+Phoenix:
+Or some-"thing"!
+Zak:
+...Precisely.
+Phoenix:
+But wait. Trucy doesn't have any bracelets.
+Zak:
+You are talking about poker, yes? The timing of when to focus is so elementary, she probably does it without thinking.
+Phoenix:
+...!
+Zak:
+I doubt Trucy herself has realized this.
+After clearing all Talk options:
+Zak:
+...That is all I know of things Gramarye.
+Phoenix:
+Thank you, Mr. Zak.
+Zak:
+If this boy's bracelet is the real thing, then he will use it before long. Thereby awakening his power.
+Phoenix:
+...I'll keep that in mind. Well, shall we play a game?
+Zak:
+Ah... I've said so much. Let me say one more thing. ...I will tell you of that night.
+Phoenix:
+"That night"...?
+Zak:
+The night my mentor, Magnifi Gramarye, passed from this world to the next.
+Phoenix:
+...!
+Zak:
+There were two pistols, and two letters sent. This... was Magnifi's "test".
+Phoenix:
+A test?
+Zak:
+In his last years, Magnifi Gramarye worked us to the bone... No. To the pain. But that night, I could not shoot him. ...So I shot the clown's forehead instead. This, it seems, was the correct "answer".
+Magnifi:
+...Take this. I give my art to you, Zak.
+Zak:
+What...?
+Magnifi:
+It is thanks for playing along with my "show". You shot well tonight, Zak. Though I would not have minded dying by your hand.
+Zak:
+How could I shoot you? ...You're my mentor.
+Magnifi:
+Bah! I thought you might say that.
+Zak:
+...If I went home without shooting anything... ...what would you have done then?
+Magnifi:
+Then, of course, I would have given Valant his chance.
+Zak:
+And if I had shot you in the forehead instead?
+Magnifi:
+Then it would be over. If you or Valant were to shoot me in the head... ...then I to the darkness would go, and my art with me. A fitting end, don't you think?
+Zak:
+Ah...
+Magnifi:
+Yet this ending, too, gives me no cause for regret. I thank you, Zak. And... I am sorry. I have done much that was wrong in my day.
+Phoenix:
+It seems to me that Magnifi wanted you to be his successor all along. That's why the time he gave you was earlier than Valant's.
+Zak:
+...Perhaps. But it is not something we will ever know for sure now. I wonder... What is Valant up to these days?
+Phoenix:
+...Waiting for you to "die". If seven years pass like this, the performance rights go to him.
+Zak:
+...Ahh. And now here I am... and his dream is ended.
+Phoenix:
+It's worse than that, actually. Public opinion's a fickle thing, you know?
+Zak:
+What...? You don't mean to tell me they've put the blame for our mentor's death on... him?
+Phoenix:
+The trial ended when you vanished, Mr. Zak. There were even rumors that Valant had helped you pull it off.
+Zak:
+But that's madness! ...... Well. It seems that before I can once again disappear from this world... ...I have one more act to perform.
+Phoenix:
+...?
+Zak:
+...Isn't it odd that sorting out my life should prove so complicated... ...even though I'm "dead"?
+Phoenix:
+...That night, Zak Gramarye was killed. He died as "Shadi Smith", a mysterious traveler with a secret past. But he left one thing behind before he parted... This. His "confession". ...To use as I saw fit. ...Of course, he'd killed no one. This was his way of tying up loose ends with his old partner, Valant Gramarye.
+Zak's Confession added to the Court Record.
+Present Day
+Sunshine Coliseum
+Valant:
+Well, this is a blast from the distant past.
+Phoenix:
+Long time no see, Mr. Valant.
+Valant:
+Seven years, has it been? Frankly, I didn't think I'd ever see you again.
+Phoenix:
+Actually, I came because there's something I want to ask you.
+Valant:
+...I've spoken to the press. I've nothing more to say.
+Phoenix:
+I've spoken to a lot of people myself... and come to some conclusions. But then I realized... ...I needed to hear it from you.
+Valant:
+......
+Examine
+Blue Badger
+Phoenix:
+A man in a costume is handing out balloons to the kids. ...It's nice to know kids still like balloons, somehow.
+Valant:
+They're a favorite of mine. Balloon-sellers, that is. I would have them join me on the big stage. They could hand out balloons to the children in the audience!
+Phoenix:
+Wouldn't all those balloons get in the way of seeing your show?
+Valant:
+...Bravo. The possibility had not even occurred to me.
+Phoenix:
+(Phoenix Wright, Entertainment Consultant.)
+Coliseum building
+Phoenix:
+The "Sunshine Coliseum", was it? I'm not sure it actually qualifies as a "coliseum", but it's a great forum.
+Valant:
+Yes, it is a favorite of mine. I have always been fond of sunshine. Speaking of which, have you heard what happened here recently?
+Phoenix:
+Oh, yeah, something about something going on during some concert?
+Valant:
+...Exactamundo! I see no reason to hide the fact that I, too, was involved in that case.
+Phoenix:
+Well, that's something. Did you help solve it?
+Valant:
+Hah! What do you take me for? No, I merely served to deepen the mystery.
+Phoenix:
+...That's obstruction... of justice.
+Valant:
+I'm a magician! It's my sworn duty to create mystery whenever possible.
+Phoenix:
+(*sigh*)
+Hot air balloon
+Phoenix:
+I don't think I've ever seen a hot-air balloon so close.
+Valant:
+It's a favorite of mine. I've often thought of how to use it in one of my shows. Perhaps for the climax of "Valant's Quick-Draw Shootem Returns". I stand on stage, I shoot, and the hot-air balloon is pierced! It explodes! ...What do you think? Thrilling, yes?
+Phoenix:
+A little, I guess. But no one inside the coliseum would be able to see it.
+Valant:
+...Bravo. It took me four days of planning to realize that.
+Phoenix:
+(*sigh*)
+Signboard
+Phoenix:
+That sure is a big sign.
+Valant:
+Yes, it's a favorite of mine. Impressive, isn't it? I considered using it for one wall of my house when the show's over.
+Phoenix:
+Wow, your house is that big!?
+Valant:
+Actually, as fate would have it, I currently live in a one-room apartment. But following the wild success of my show, I intend to build a luxurious mansion. I was torn over just how big to make it. Until that sign whispered the answer to me.
+Phoenix:
+That's... really beautiful.
+Talk
+Magnifi Gramarye
+Valant:
+I have walked a difficult road these past seven years.
+Phoenix:
+Because you couldn't perform Magnifi's repertoire?
+Valant:
+Do not be deceived! Valant's skill is the "real deal". I do not require my mentor's hand-me-downs. No, it was my partner who slowed me on my way.
+Phoenix:
+Zak Gramarye...
+Valant:
+...His rather well-performed disappearing act seven years ago was the end. ...Or so I thought.
+Phoenix:
+"Zak Gramarye murdered our mentor, and fled to escape punishment for his crime." You said something to that effect seven years ago, didn't you?
+Valant:
+I remember it as if 'twere only yesterday. Yet, that was not the way of it, in the end. For while he vanished, the suspicions upon my own person never did! "His partner Zak vanished to protect him..." That's what those thieving magpies of a press said!
+Phoenix:
+I had no idea.
+Valant:
+Yet that very same press comes to me now, feigning interest. They cover the greatest magic show in history as if it were a vaudevillian distraction! And here must I stand, smiling at them all. What am I, if not a player in some fiendish farce!?
+Phoenix:
+Might I suggest it's because you never made it clear what happened? Magnifi's death is still a mystery to this day. ...Which is why I came here to get the answer from you.
+Valant:
+......
+2 PSYCHE-LOCKS
+Phoenix:
+(...I knew I'd be seeing these sooner or later.)
+Valant:
+The audience has no business stepping upon the stage. They must be content to sit and stare at the spotlight.
+Phoenix:
+(That sounds an awful lot like something I heard seven years ago...)
+Present
+Anything
+Phoenix:
+Could you take a look at this, Mr. Valant?
+Valant:
+Your forgiveness, I beg. Valant has eyes for naught but the preparations for his show! The coliseum, the hot-air balloon, the sign... Oh, and the balloon-seller.
+Phoenix:
+Ah, right. Sorry. (What does the balloon guy have to do with his show?)
+Magatama
+2 PSYCHE-LOCKS
+-- Magnifi's Death --
+Valant:
+...Ask what you will, you'll get nothing from me.
+Phoenix:
+I'm as much a part of this affair as you are now. I have to know what happened.
+Valant:
+For seven long years, I have endured... ...Now, finally, the curtain lifts on my new golden age! All the miracles of our troupe, within my grasp!
+Phoenix:
+(Sorry to do this, Valant... But right now, I need answers. I think I'll start... by dropping a bomb. That should shake things up.) Valant... I wouldn't be so sure about those miracles. Not as long as I have this.
+Present Transferal of rights
+Phoenix:
+Take that!
+Leads to:
+"And what might that be?"
+Present anything else
+Phoenix:
+Take that!
+Valant:
+Let me be frank. ...No one, and I mean no one, can stand in my path. Not even you, with your silly-frilly ways.
+Phoenix:
+Let me be frank, too. That's the first time anyone's called me "silly-frilly". (What I need is a bit of magic... something to stop Valant's show in its tracks. ...Now's no time for subtlety.)
+Leads back to:
+"Valant... I wouldn't be so sure about those miracles."
+Valant:
+And what might that be? I see it bears the Gramarye seal...
+Phoenix:
+I should have brought this to your attention sooner. But I didn't imagine you'd be planning your comeback quite so fast.
+Valant:
+...... What is this...?
+Phoenix:
+A document showing the true recipient of the performance rights to Magnifi's miracles.
+Valant:
+Wh-What...!? Zak... Gramarye... He wrote this!? What!? He passed everything to his daughter!?
+Phoenix:
+Trucy Enigmar... Actually, she's officially my daughter these days.
+Valant:
+Preposterous! Zak's... Zak is gone! Vanished into the void!
+Phoenix:
+This is the genuine article. ...Zak was alive when he wrote this. Both myself and the notary can testify to this.
+Valant:
+Unh.................. Waaaaaaaaaaaaaaaaaugh!
+1 LOCK BROKEN
+Valant:
+Why... Why does Fate toy with me so!? Why must my life be lived in thrall to the dead!?
+Phoenix:
+...You're not the only one with that problem.
+Valant:
+But he shot Magnifi! Yes! It was Zak! It was! And then he left... and my career as a magician fell into darkness...
+Phoenix:
+Did you think there might be some way out of it? Say, if you could prove Zak Gramarye shot Magnifi? Was that why you testified?
+Valant:
+Yes! My way out... It should have been my way out!
+Phoenix:
+Well, it might not be too late, Mr. Valant. All you need is a way to prove your case. Who really killed Magnifi Gramarye?
+Present Zak's Confession
+Phoenix:
+Take that!
+Leads to:
+"I believe I have the answer to your prayers right here."
+Present anything else
+Phoenix:
+Take that!
+Valant:
+So this is the evidence that answers the question, "Who killed Magnifi?"
+Phoenix:
+...Well?
+Valant:
+The only question that this evidence can answer is, "Who here is an idiot?" And it answers, "You," Mr. Wright. Must I suffer such indignities even now? Ah, the life of a magician is a life of toil.
+Phoenix:
+(There's one easy way to win over public opinion... By producing a signed confession... even if the confession is a fake.)
+Leads back to:
+"Well, it might not be too late, Mr. Valant."
+Phoenix:
+I believe I have the answer to your prayers right here. Zak Gramarye wrote one more thing before passing on.
+Valant:
+This... But this is a confession!
+Phoenix:
+In which he admits to the killing of Magnifi Gramarye. ...See? All according to your plan.
+Valant:
+...... I am... a magician by trade. Deception is my life's work. I fool the audience, give them a fleeting dream... ...... Yet, it seems the tables have turned. Now I am the audience, believing in the deceptions I have wrought upon myself.
+Phoenix:
+Zak wrote this right in front of me. ...After I explained your situation to him.
+Valant:
+...Allaka... Allakazooooooooooooomg!
+1 LOCK BROKEN
+Unlock Successful
+Talk (after breaking Psyche-Locks)
+Magnifi Gramarye
+Valant:
+...You do know that this "confession" is nothing but lies?
+Phoenix:
+Yes. It's my opinion that Zak Gramarye killed no one.
+Valant:
+Then you must be thinking the truth is a simple matter of elimination. Two received instructions to kill, but if one is innocent? Then the one who remains is guilty.
+Phoenix:
+...That would be the logical conclusion, yes.
+Valant:
+So he vanished to protect me, his partner... Ha ha ha ha ha ha!!! A stirring tale, 'tis true.
+Phoenix:
+Did you shoot Magnifi Gramarye in the forehead?
+Valant:
+...If I had, and I told you, what would you do? Run to the police, perchance? ...Do as you will. There is nothing left for me now.
+Phoenix:
+......
+Valant:
+...It is true, after all. I have little talent. I needed my mentor Magnifi's repertoire. ...It was, as if a little demon grabbed hold of me...
+Phoenix:
+(I knew it... So Valant Gramarye did kill the Great Magnifi.)
+Valant:
+Heh. Heh heh heh... ...Ha ha ha ha ha!!! So sorry, Mr. Wright. But it was not I who shot my mentor.
+Phoenix:
+Wh-What!? But if it wasn't you, then who was it!? There wasn't another disciple, was there!?
+Valant:
+Another disciple... Such as...?
+Phoenix:
+I don't know... "Knack &amp; Talent Gramarye", maybe?
+Valant:
+...Your wild fancies couldn't be further from the truth! Only Zak and Valant received those threatening letters. But, there was another. One more person could have fired that pistol that night. ...I don't suppose you've figured it out by now?
+Phoenix:
+(If it wasn't Zak or Valant who shot Magnifi... ...then it had to be the only other person at the scene, which means...) W-Wait... You don't mean...!?
+Valant:
+...Yes. The Great Magnifi Gramarye himself.
+Suicide (appears after "Magnifi Gramarye")
+Phoenix:
+So Magnifi Gramarye... committed suicide?
+Valant:
+...You find it hard to believe?
+Phoenix:
+To be honest, I hadn't even imagined it as a possibility.
+Valant:
+When I arrived that night, the old man was still alive. He appeared to be asleep. I... I could not shoot him. But when I turned and made to leave the room... ...the old man called out to me.
+Phoenix:
+...So you spoke with Magnifi Gramarye?
+Valant:
+Yes. And this is why I knew what he had done. Magnifi transferred the rights to his repertoire to my partner, Zak Gramarye. Not me.
+Phoenix:
+I see... Then I guess I owe you an apology. I always thought you were the one who did it.
+Valant:
+...... You owe me no apology.
+Phoenix:
+...Huh?
+Valant:
+My crime was, in a way, more serious than that of murder.
+Phoenix:
+Wh-What!? Your "crime"...?
+Valant:
+......
+Phoenix:
+(Is Valant Gramarye confessing something to me...? What could be more serious than murder?)
+Valant's "crime" (appears after "Suicide")
+Valant:
+You see... I knew that two letters had been sent.
+Phoenix:
+...!
+Valant:
+There are no secrets between partners. It was easy to find out. ...That was when I understood Magnifi's plan.
+Phoenix:
+He wanted to die by one of your hands...?
+Valant:
+Little did I expect it had anything to do with the rights to his repertoire! That was when I heard it... ...the little demon whispering inside my heart.
+Phoenix:
+The demon...
+Valant:
+...Let me confess: I had intended to shoot Magnifi. And... I planned on framing my partner for the crime.
+Phoenix:
+Wha... Whaaat!?
+Valant:
+That night, I prepared something before going to Magnifi's hospital room.
+Phoenix:
+Which was...?
+Valant:
+IV fluid, of course. I'd seen it on an earlier visit. If Zak did not shoot, I would do the deed! Then, I would use the IV liquid to place the murder on his hands. That was my plan.
+Phoenix:
+But... you didn't shoot him.
+Valant:
+...... I could not. The demon in my heart fled when the moment came. But then Magnifi called me back.
+Magnifi:
+...I am sorry, Valant. ...I am giving my magic to Zak... not you... ...You still lack the draw he has... ...Please, help him, if you can...
+Valant:
+I left the room... ...and then I stopped. The shock of what I had just been told consumed me. That is when I heard that fateful gunshot.
+Phoenix:
+Magnifi Gramarye... killing himself.
+Valant:
+Then, the demon awoke anew within me! ...Zak killed him, he was the one... ...Frame him, and the magic will be yours... I... altered the scene of his suicide. I took the pistol from his hand, wiped off the prints... ...then I used the syringe to add the IV liquid I'd brought.
+Phoenix:
+So in the end, things happened pretty much as planned. Magnifi died, and you framed Zak for his murder.
+Valant:
+...... "As planned", indeed. Of course, the outcome was somewhat different than I had anticipated.
+After clearing all Talk options:
+Valant:
+Well... what do you think? Do you believe my story? Can it be believed, truly?
+Phoenix:
+...... That was seven years ago. I don't know what to believe. But...
+Valant:
+...Yes?
+Phoenix:
+I'm glad I heard it from you, Mr. Valant. Thank you.
+Valant:
+...It is I who should be thanking you, Mr. Wright. Only when I had lost everything could I make my decision...
+Phoenix:
+...You're going to turn yourself in?
+Valant:
+My partner may have vanished, but not so my guilt. And as my guilt stays, all else begins to leave me. My friends... my performance rights... my magic. I've had enough of vanishing acts.
+Phoenix:
+...I understand.
+Valant:
+I thought my life was ruled by a dead man... ...but I find I was wrong. For Zak Gramarye was alive...
+Phoenix:
+(Well, not anymore.)
+Valant:
+...... And now, it occurs to me: What if he was not the only one who survived?
+Phoenix:
+...What do you mean?
+Valant:
+You see, now that I think about it... ...I realize that I, no... we never saw proof of her demise. We never saw her body.
+Phoenix:
+Um, "her"...?
+Valant:
+...The mind races and the mouth flaps on. My apologies. Forget this matter. I can only hope that the day will come when I again meet my partner, Zak Gramarye. Then... I shall apologize for my terrible mistake. I am glad we had this chance to talk... Thank you.
+Phoenix:
+Zak Gramarye... "Shadi Smith". Whichever name you prefer... he is no longer with us. The truth revealed in that trial was only a sliver... ...and the impenetrable darkness that remained has taken another life. I knew what I'd have to do to push back the darkness for good. And it would involve paying that man a visit.
+Solitary Cell 13, after clearing all Talk options with Kristoph, Vera, Brushel, and Valant (Present Day):
+Guard:
+Sorry sir. Prisoner Kristoph Gavin is currently "occupied".
+Phoenix:
+I see... Do you know when he'll be finished?
+Guard:
+Ah, erm, well...
+Phoenix:
+...Could you go find out?
+Guard:
+Ah... Certainly, sir. Please wait here a moment.
+Phoenix:
+(My apologies to the guard... But there's something I need to see.)
+Examine
+Bookshelf
+Phoenix:
+Apparently, Gavin brought everything in here with him when he came. All the things in here are more valuable than what I have in my office. ...I'll admit I'm a bit jealous. But I shouldn't be... I mean it's still a prison.
+Chair
+Phoenix:
+That chair is just screaming to be sat in. And if I sat... I'd probably fall asleep. ...And have very expensive dreams.
+Roses
+Phoenix:
+My knowledge of flower names includes sunflowers, tulips, and that's about it. ...Or so I always thought, but now I see I was wrong! I know that this is a rose! ...I think?
+Yellow envelope
+Leads to:
+"...There it is."
+Phoenix:
+...There it is. The yellow envelope! And the sender is... Drew Misham! I was right!
+Brushel:
+When I arrived at the studio, Mr. Misham was at his desk. He seemed to be writing a letter... but he quickly sealed the envelope. It was a yellow envelope. ...I heard it was left at the crime scene.
+Phoenix:
+If this is the last letter that Drew Misham wrote... ...then there's something I need to do. ...The last thing I need to do, in fact. ...Here goes! Let's see if this atroquinine spray finds anything...
+Spray Commemorative stamp
+Leads to:
+"So this was Drew Misham's "messenger of death"."
+Phoenix:
+So this was Drew Misham's "messenger of death". It was this stamp alright! No mistaking it! And his last letter... was sent to Kristoph Gavin. Gotcha.
+Letter from Misham added to the Court Record.
+Phoenix:
+Finally... decisive evidence!
+Examine evidence
+Letter from Misham
+Front side
+Phoenix:
+There's no mistaking it. This commemorative stamp was the one on the desk at Drew Studio. ...Which makes this the letter he mailed just before he died. Better hold on to this one.
+Kristoph:
+...What's this? A burglar... in jail?
+Phoenix:
+...Gavin!
+Kristoph:
+I didn't know you moonlighted in larceny, Wright.
+Phoenix:
+Gavin... There's something I have to ask you.
+Kristoph:
+"Can I steal your stuff"? The answer is "no". My apologies, but there's not much I care to discuss.
+Phoenix:
+...... Vera Misham hasn't received her verdict yet. ...You follow me, Gavin?
+Kristoph:
+There are no known survivors of atroquinine poisoning. But it never hurts to hope.
+Phoenix:
+...OK, I'll be leaving now, then.
+Kristoph:
+Wright. Wait.
+Phoenix:
+...Yeah, Gavin?
+Kristoph:
+Would you mind leaving that letter? ...It's private.
+Phoenix:
+Oh, sorry. Forgot I had it.
+Kristoph:
+...Many thanks.
+Phoenix:
+...We've now seen all the clues in this case. Clues I gathered over seven long years. Now, it is time. Every story has an ending. We've come to the final chapter, the final trial. Find the truth. You're the only ones who can.
+To be continued.
+Nothing to examine during investigation
+Phoenix:
+No clues here.
+Exit Magatama session
+Phoenix:
+(I may not have enough evidence right now to pull this off. Maybe it's time to do a little more legwork.)
+Too many errors during Magatama session
+...Any more of this, and something's going to give. ...Time to cool off a bit and rethink what I'm doing.
