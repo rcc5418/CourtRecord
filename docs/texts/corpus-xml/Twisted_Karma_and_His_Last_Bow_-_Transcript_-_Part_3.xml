@@ -110,13 +110,12 @@
 <line speaker="Ryunosuke"><thought>Oh no! What was I thinking? Why on earth did I show her that?</thought></line>
 <line speaker="Iris">Poor Gregsy...</line>
 <line speaker="Ryunosuke">Iris, have a look at this...</line>
-<line speaker="Iris">That's not right. I thought you were supposed to say '<cutIn>Objection!</cutIn>' or the like when you present evidence?</line>
+<line speaker="Iris">That's not right. I thought you were supposed to say '<cutIn type="objection">Objection!</cutIn>' or the like when you present evidence?</line>
 <line speaker="Ryunosuke">No no. That's only in court.</line>
 <line speaker="Iris">That's not fair! If you won't say it, then I won't look! Hmph!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Iris">Yay! That was great! Right...next!</line>
 <line speaker="Ryunosuke"><thought>Alright, I get the message. Someone's not in the mood for looking at things...</thought></line>
-<line speaker="After clearing all Converse options">Iris:</line>
 <line speaker="Susato">Oh, Iris! You're even more enthusiastic than usual today.</line>
 <line speaker="Iris">If anyone has anything to hide, my special Wilson Shooting Iron will soon set them straight!</line>
 <line speaker="Ryunosuke">...That...water pistol?</line>
@@ -182,7 +181,6 @@
 <line speaker="Ryunosuke">That sounds rather like an elderly gentlemen's club.</line>
 <line speaker="Stronghart">.........</line>
 <line speaker="Ryunosuke"><thought>Oops, I have a feeling... ...I might have made a bit of a faux pas there.</thought></line>
-<line speaker="After clearing all Converse options">Stronghart:</line>
 <line speaker="Susato">Oh my! That is a long time!</line>
 <line speaker="Stronghart">And I hold you entirely responsible.</line>
 <line speaker="Ryunosuke"><thought>Even though we miraculously managed to fit everything into not-even-five minutes?</thought> ......... Um, I wonder if you might agree... ...to us, um...talking with Prosecutor Asogi?</line>
@@ -261,7 +259,6 @@
 <line speaker="Ryunosuke">Ah, it's just something I was hoping to ask your opinion about, that's all.</line>
 <line speaker="Van Zieks">It's a serious crime for the defence to attempt to extract information from the prosecution by illegal means.</line>
 <line speaker="Ryunosuke">...I think we have more of a defence and client relationship now...don't we?</line>
-<line speaker="After clearing all Converse options">Van Zieks:</line>
 <line speaker="Ryunosuke">Well, thank you...for confiding in me.</line>
 <line speaker="Susato">The Professor, the Reaper and Inspector Gregson... I wonder just how intimately related they all are...</line>
 <line speaker="Ryunosuke">I still can't quite believe that Gregson was essentially the Reaper. <thought>Giving assassination orders to Jezaille Brett...</thought></line>
@@ -390,7 +387,6 @@
 <line speaker="Ryunosuke">It would be wonderful if everybody saw it that way.</line>
 <line speaker="Mikotoba">Sadly, not everybody can. We all have our failings, though. As I said, we're all human.</line>
 <line speaker="Ryunosuke"><thought>I see now why he's such a respected scholar. It's his magnanimous spirit.</thought></line>
-<line speaker="After clearing all Converse options">Mikotoba:</line>
 <line speaker="Susato">Of course, Father. Thank you.</line>
 <line speaker="Mikotoba">I look forward to next month's instalment, Miss Wilson.</line>
 <line speaker="Iris">Oh good! And please, do come to Baker Street sometime, won't you? We'd love to entertain you!</line>
@@ -425,7 +421,6 @@
 <line speaker="Susato">I must catch up with Father at the telegraph office at once!</line>
 <line speaker="Iris">And I'll run and call us a cab straight away!</line>
 <line speaker="Ryunosuke"><thought>And there was me thinking everyone would be clamouring to pay Mr Sholmes's bill...</thought></line>
-<line speaker="After clearing all Converse options in Great Waterloo Hotel Foyer">2nd November</line>
 <line speaker="Susato">This is the ward where Mr Vigil was brought, apparently.</line>
 <line speaker="Ryunosuke"><thought>To be frank, I'm a little worried about seeing him again.</thought></line>
 <line speaker="Vigil">Ah. The lawyer. Hello again.</line>
@@ -564,7 +559,6 @@
 <line speaker="Vigil">......... Ugh... My head... It's, it's throbbing...</line>
 <line speaker="Susato">Oh no! It's too soon, Mr Naruhodo! It's too much for him!</line>
 <line speaker="Ryunosuke">It's too much for me seeing him swoon like that. <thought>Maybe I should lay off the evidence for a while...</thought></line>
-<line speaker="After clearing all Converse options">Vigil:</line>
 <line speaker="Ryunosuke">No no, not at all. Thank you again.</line>
 <line speaker="Susato">But what will become of you now?</line>
 <line speaker="Vigil">Well, impersonating a police officer is a criminal offence, of course. I imagine that once I'm fully recovered, I shall be arrested.</line>
@@ -829,7 +823,6 @@
 <line speaker="Ryunosuke">Kazuma...what do you make of this?</line>
 <line speaker="Kazuma">There's only one place where defence lawyers and prosecutors should discuss evidence. The courtroom. So it seems you're still confused by the situation. ...That's what I make of it.</line>
 <line speaker="Ryunosuke"><thought>...I get the feeling my friend's always going to have the edge over me, isn't he?</thought></line>
-<line speaker="After clearing all Converse options and presenting Autopsy Report">Kazuma:</line>
 <line speaker="Ryunosuke">What for?</line>
 <line speaker="Kazuma">For this. You safeguarded the soul of the Asogi clan.</line>
 <line speaker="Ryunosuke">Well, it is a famous sword that's been in your family for generations. My only slight regret is that I never got the chance to draw it before I returned it to you.</line>
@@ -1045,7 +1038,6 @@
 <line speaker="Susato">Oh no, surely not! Iris, that can't be right...can it?</line>
 <line speaker="Iris">.........</line>
 <line speaker="Ryunosuke">I-Iris?</line>
-<line speaker="After clearing all Converse options">Iris:</line>
 <line speaker="Ryunosuke">What is it, Iris?</line>
 <line speaker="Iris">I've just remembered something very important I have to do. I'm going to have to leave you now!</line>
 <line speaker="Susato">Oh! This is very sudden, Iris... Well, we'll come with you, then.</line>
@@ -1065,7 +1057,6 @@
 <line speaker="Ryunosuke">Well, in that case, we won't keep you any longer, either.</line>
 <line speaker="Gorey">......... It's been quite a while since I had any visitors. This was really fun! But next time you come, I'd prefer it if you were ready for dissection.</line>
 <line speaker="Ryunosuke">...I can't make any promises, sorry. <thought>It's a bit strange that the records of Klint van Zieks's autopsy have disappeared... ...but I think we've asked all we came to ask now.</thought></line>
-<line speaker="After clearing all Converse options in Forensics Laboratory">2nd November</line>
 <line speaker="Ryunosuke">The police are still busily investigating in here then.</line>
 <line speaker="Susato">But Gina's nowhere to be seen. Where is she?</line>
 <line speaker="Ryunosuke">Yes, it has been blissfully quiet, hasn't it? <thought>Perhaps she's out investigating on her own, practising what her boss taught her...</thought></line>
@@ -1272,7 +1263,6 @@
 <line speaker="Gina">If it turns out 'e did do it, 'ow are you gonna feel then, eh?</line>
 <line speaker="Ryunosuke">......... I have to believe in my client. It's all I can do.</line>
 <line speaker="Gina">.........</line>
-<line speaker="After clearing all Converse options">Susato:</line>
 <line speaker="Gina">Wot are you on about? I am the police!</line>
 <line speaker="Ryunosuke">Gina...if you wouldn't mind... ...could we maybe examine it?</line>
 <line speaker="Gina">Yeah, alright then. Do wot ya want wiv it.</line>
@@ -1597,7 +1587,7 @@
 <line speaker="Iris">......... Yes. You're right. It happened exactly as you said. ...Brilliant, Runo!</line>
 <line speaker="Ryunosuke">Thus concludes Ryunosuke Naruhodo's great deduction... of this punchy puzzle!</line>
 <line speaker="Iris">So then...why don't I make a fresh pot of tea for us all?</line>
-<line speaker="Sholmes"><cutIn>Objection!</cutIn></line>
+<line speaker="Sholmes"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sholmes">An admirable performance, Mr Naruhodo. But in the final act of the show there, you rather missed everything of importance.</line>
 <line speaker="Ryunosuke">M-Mr Sholmes!</line>
 <line speaker="Sholmes">If you would cast your mind back to my earlier deduction... Iris...clearly you're hiding a great secret.</line>
@@ -1704,7 +1694,6 @@
 <line speaker="Ryunosuke">Iris, about this piece of evidence...</line>
 <line speaker="Iris">.........</line>
 <line speaker="Ryunosuke"><thought>She's not in the mood to talk at the moment, then. ...I suppose that's understandable.</thought></line>
-<line speaker="After clearing all Converse options">???:</line>
 <line speaker="Iris">...!</line>
 <line speaker="Sholmes">This is really all my fault.</line>
 <line speaker="Iris">Hurley...?</line>
@@ -1819,7 +1808,6 @@
 <line speaker="Ryunosuke">Um, Mr Sholmes, about this...</line>
 <line speaker="Sholmes">My dear fellow, without wishing to sound rude... ...I'm currently in the middle of a very important blink. Perhaps some other, more convenient time, hm?</line>
 <line speaker="Ryunosuke">...Is there a set time for your 'important' blinks, or are they an all-day affair? Just so I know...</line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Ryunosuke">M-Mr Sholmes? <thought>When did he get all dressed up?</thought></line>
 <line speaker="Sholmes">Whilst I don't like to interrupt this exciting exploration of the past... ...Mikotoba and I have an urgent matter that requires a short excursion.</line>
 <line speaker="Susato">But it's very late, Mr Sholmes. Where must you go?</line>

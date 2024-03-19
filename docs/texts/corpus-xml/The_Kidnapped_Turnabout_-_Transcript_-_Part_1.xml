@@ -543,8 +543,8 @@
 <line speaker="Edgeworth">What you said just now is contradictory to the facts.</line>
 <line speaker="Kay">How so, Mr. Edgeworth!?</line>
 <line speaker="Edgeworth">This is what Officer Meekins's testimony contradicts!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Your testimony contradicts this piece of evidence!</line>
 <line speaker="Meekins">I'm just a little patrolman, so I don't understand what you're talking about, sir!</line>
 <line speaker="Kay">I can't say I get it, either.</line>
@@ -711,7 +711,7 @@
 <line speaker="Lang">Heh! Too bad you don't call the shots around here!</line>
 <line speaker="Edgeworth">As I have sworn to uphold the laws of this land, I cannot allow you to take this man in. That you would arrest a man on false charges without even conducting an investigation... ...have you no honor as a member of law enforcement!?</line>
 <line speaker="MIB">You! How dare you speak so disrespectfully to our Shifu!?</line>
-<line speaker="Lang"><cutIn>Hold it!</cutIn> .................. Ha ha ha ha ha ha ha! You amuse me, Mr. Prosecutor. Lang Zi says: "Every pack has its own rules." If you can play by their rules and come out on top, that is a true victory. Alright, I'll give your beloved laws a fair shake. I'll show you just how much investigating I've done... ...through my line of logic!</line>
+<line speaker="Lang"><cutIn type="holdIt">Hold it!</cutIn> .................. Ha ha ha ha ha ha ha! You amuse me, Mr. Prosecutor. Lang Zi says: "Every pack has its own rules." If you can play by their rules and come out on top, that is a true victory. Alright, I'll give your beloved laws a fair shake. I'll show you just how much investigating I've done... ...through my line of logic!</line>
 <line speaker="Lang">I've seen a lot of bodies like the one being carted off in my time.</line>
 <line speaker="Edgeworth">That is your reasoning...?</line>
 <line speaker="Lang">Solid as a rock! It's based on the philosophy of detainment!</line>
@@ -725,12 +725,12 @@
 <line speaker="Edgeworth">Hmph. Anything wears down and breaks over time. Do you really something as ancient as that can be applied to today's world?</line>
 <line speaker="Lang">......You want to put it to a test?</line>
 <line speaker="Lang">I've seen a lot of bodies like the one being carted off in my time.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So what can you tell me about the body?</line>
 <line speaker="Lang">A lot. Even without an autopsy, I have my eyes. They teach you the basics of forensics along with the detention philosophy.</line>
 <line speaker="Edgeworth">Oh? Then you wouldn't mind telling me a little of what you've figured out, correct?</line>
 <line speaker="Lang">I can say he was shot in a single glance, but even you figured that much out, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Yes, I think anyone who saw the bullet wounds would come to the same conclusion.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Heh, don't pat yourself on the back yet!</line>
@@ -738,14 +738,14 @@
 <line speaker="Lang">Lang Zi says: "Search where the water is deepest." You have to keep your eyes on the big fish that lurks in the depths, which is the killer.</line>
 <line speaker="Edgeworth">Is that right? And what would you know about the killer?</line>
 <line speaker="Lang">With your current gun laws, it's not exactly easy to get your hands on a gun.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It would appear you've studied a little of our laws.</line>
 <line speaker="Lang">Studied? Who needs to study what every child on any street corner already knows? It's that... that......... Shih-na!</line>
 <line speaker="Shih-na">The "Federal Firearms Restriction Act".</line>
 <line speaker="Lang">That's it. The Federal Firearms Restriction Act. I hear it's not easy to get a gun these days.</line>
 <line speaker="Edgeworth"><thought>Interesting. That woman is the one in charge of keeping track of the information.</thought></line>
 <line speaker="Lang">Not unless you're a member of law enforcement like Officer Meekins, isn't that right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If that's the case, there are plenty of other officers who might be potential suspects. You're not seriously going to arrest each and every one of them, are you?</line>
 <line speaker="Lang">As if I would need to! I've already looked into everyone else here.</line>
 <line speaker="Edgeworth">Oh?</line>
@@ -763,17 +763,17 @@
 <line speaker="Lang">Ha ha ha ha ha ha! In the end, it looks like you're still the only suspect we've got. You're the one who waited here outside this garage to ambush and kill the victim!</line>
 <line speaker="Edgeworth"><thought>So you think that Officer Meekins waited here to kill the victim, do you, Lang? I think this little accusation deserves a lot more scrutiny.</thought></line>
 <line speaker="Add statement">"Officer Meekins ambushed the victim in this garage and killed him here with his gun!"</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you are implying that the murder weapon in this case is a policeman's service revolver?</line>
 <line speaker="Lang">I don't know for sure just yet, but it's entirely possible. After all, Officer Meekins did just admit that he "lost his gun". Ha ha ha ha! You'd think he could come up with a better lie than that!</line>
 <line speaker="Lang">Officer Meekins ambushed the victim in this garage and killed him here with his gun!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You mean to tell me that the murder occurred here, in this garage?</line>
 <line speaker="Lang">From the fact that the suspect was found almost next to where the body was found... ...I'd say that it's pretty obvious that this is the crime scene. Lang Zi says: "A criminal always returns to the scene of the crime."</line>
 <line speaker="Kay">Hey! Finally, a quote even I've heard of before!</line>
 <line speaker="Lang">Furthermore, Lang Zi says: "Successful investigations are the result of multiple returns to a crime scene."</line>
 <line speaker="Edgeworth"><thought>Looks like neither detectives nor criminals have changed their ways over the millenniums.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>So this is the kind of conclusion the philosophy of detainment can lead you to...</thought></line>
 <line speaker="Kay">I don't get it, Mr. Edgeworth. Why are you putting yourself on the line for Mr. Meekins?</line>
 <line speaker="Edgeworth">It's not that I particularly care about what happens to Officer Meekins.</line>
@@ -805,38 +805,38 @@
 <line speaker="Edgeworth">Can you try to calm down and lower your voice to a more reasonable level, Officer?</line>
 <line speaker="Meekins">SIR! Roger, sir!</line>
 <line speaker="Meekins">It's true, sir! I wasn't assigned to this area, sir!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Alright then, where were you assigned to?</line>
 <line speaker="Meekins">I-I was assigned to the main gate, sir!</line>
 <line speaker="Edgeworth"><thought>He must mean the area with the bridge and the outrageous fountain.</thought></line>
 <line speaker="Kay">OK, then why are you here in the Wild, Wild West area?</line>
 <line speaker="Meekins">That's because! It's because of a very deep reason, ma'am!</line>
 <line speaker="Meekins">I was told to check every square inch of the main gate area, sir!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Describe for me how you conducted your investigation.</line>
 <line speaker="Meekins">Yes, sir! Well! First, I made sure there were no suspicious-looking people in the area, sir! But! The only people that seemed to gather around me... ...were little girls, sir!</line>
 <line speaker="Kay">Well, what did you expect when you're dressed like the Blue Badger?</line>
 <line speaker="Meekins">I thought I had no choice at that point, sir, so...</line>
 <line speaker="Meekins">I also went looking for the kidnappers while selling dreams in the Blue Badgermobile, sir!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What exactly do you mean by "selling dreams"?</line>
 <line speaker="Meekins">SIR! The Blue Badgermobile is where dreams are collected!</line>
 <line speaker="Kay">Um, what?</line>
 <line speaker="Meekins">Sweetness like you've never known except in dreams, ma'am, like "Innocence Drops". And bitterness found only in nightmares, ma'am, like "Guilty Jawbreakers". Selling those as I pushed the Blue Badgermobile along is my sworn duty, ma'am!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Meekins">But! I got completely caught up in my role, selling dreams to the children! SIR!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You completely forgot to look for the kidnappers?</line>
 <line speaker="Meekins">NO, SIR! OF COURSE NOT, SIR! I! I would never do something like that, sir!</line>
 <line speaker="Edgeworth">..................</line>
 <line speaker="Meekins">..................Umm... You're absolutely riiiiiiiight!</line>
 <line speaker="Kay">Wow, you're good at this forcing-people-to-confess thing, Mr. Edgeworth!</line>
 <line speaker="Meekins">To be frank, I'm just a little man, sir... I'm better at selling kids a few small dreams than looking for a big crook, sir!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Enough wallowing in your own self-pity. Let's return to your testimony.</line>
 <line speaker="Meekins">Yes, sir!</line>
 <line speaker="Meekins">Before I knew it, I found myself in this area, sir!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How did you wind up all the way over here?</line>
 <line speaker="Meekins">I was in the middle of a sea of kids, sir... But one of the kids decided to challenge me to a fight, sir! I had to run away from the child's painful dropkicks, and before I knew it...</line>
 <line speaker="Kay">Ha ha, the good ol' dropkick! I dished out my fair share of those when I was a kid! It was always the best when you felt one really connect with your opponent!</line>
@@ -1001,7 +1001,7 @@
 <line speaker="Oldbag">What's that "unfortunately" you tacked on at the end supposed to mean, Edgey-poo!?</line>
 <line speaker="Kay">Well, anyway! Let's see what we can find out from this little ol' lady!</line>
 <line speaker="Oldbag">I came to this stadium to take a short break.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You mean you took a break from being the Pink Badger?</line>
 <line speaker="Oldbag">You may not think it, but it's hard work keeping kids' dream alive. You smell of sweet, your hip creaks with pain -- you even begin to dream about work.</line>
 <line speaker="Kay">That's the kind of story that would scar a child for life, you know...</line>
@@ -1009,7 +1009,7 @@
 <line speaker="Edgeworth">So what did you see while you, the Pink Badger, were resting?</line>
 <line speaker="Oldbag">Oh, yes, that! Well!</line>
 <line speaker="Oldbag">As I was resting, I happened to glance over and I saw two men facing each other in that area.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You saw two men...? Can you describe them for me?</line>
 <line speaker="Oldbag">They looked like your average Joes, completely uninteresting and not worth fawning over. I'm telling you, they were so boring that I don't even remember much beyond that.</line>
 <line speaker="Edgeworth">But did they have any special features? Anything you can recall would be very helpful.</line>
@@ -1018,13 +1018,13 @@
 <line speaker="Edgeworth">I-I'm not worked up over anyone! A-And not jealous!</line>
 <line speaker="Oldbag">It's alright, Edgey-poo. Those two were just foals compared to a stallion like you. I thought so little of them that I lost interest the instant I laid eyes on them.</line>
 <line speaker="Oldbag">Suddenly, there was a loud gunshot, and the person who was shot fell to the ground.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You're claiming to have seen the exact moment in which the murder took place?</line>
 <line speaker="Oldbag">Absolutely! That gun made a terrible racket when it was fired.</line>
 <line speaker="Kay">You didn't try to go help the person that got shot?</line>
 <line speaker="Oldbag">I'm only one person, you smart-alecky brat! What could I have done!? But I took off as soon as I could to find someone who could help.</line>
 <line speaker="Oldbag">It was a very terrifying experience, let me tell you!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">..................</line>
 <line speaker="Oldbag">.................. Well, don't you have anything to say to me!?</line>
 <line speaker="Edgeworth">No, not especially.</line>
@@ -1088,8 +1088,8 @@
 <line speaker="Edgeworth">But, if that's the case, then we've already found our first contradiction.</line>
 <line speaker="Kay">Huh? What? Where!?</line>
 <line speaker="Edgeworth">If this is the real scene of the crime, there's something missing that should be here. Which piece of evidence shows the missing item?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">.................. Maybe you're still adjusting to the simulation...?</line>
 <line speaker="Edgeworth">...Y-Yes, that's it. Allow me to find my bearings, and I'll present the contradiction again. <thought>Maybe I need to review the evidence again. It should go without saying that the truth lies in what is missing from this scene!</thought></line>
 <line speaker="Edgeworth">This is the contradiction!</line>
@@ -1133,7 +1133,7 @@
 <line speaker="Kay">See! I just KNEW Little Thief would be of help! Now let's see if we can pull more info from Ms. Oldbag to put into the re-creation!</line>
 <line speaker="Edgeworth">For that, we must first find the contradiction in her testimony.</line>
 <line speaker="Oldbag">I came to this stadium to take a short break.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You mean you took a break from being the Pink Badger?</line>
 <line speaker="Oldbag">You may not think it, but it's hard work keeping kids' dream alive. You smell of sweet, your hip creaks with pain -- you even begin to dream about work.</line>
 <line speaker="Kay">That's the kind of story that would scar a child for life, you know...</line>
@@ -1141,7 +1141,7 @@
 <line speaker="Edgeworth">So what did you see while you, the Pink Badger, were resting?</line>
 <line speaker="Oldbag">Oh, yes, that! Well!</line>
 <line speaker="Oldbag">As I was resting, I happened to glance over and I saw two men facing each other in that area.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You saw two men...? Can you describe them for me?</line>
 <line speaker="Oldbag">They looked like your average Joes, completely uninteresting and not worth fawning over. I'm telling you, they were so boring that I don't even remember much beyond that.</line>
 <line speaker="Edgeworth">But did they have any special features? Anything you can recall would be very helpful.</line>
@@ -1149,15 +1149,15 @@
 <line speaker="Kay">Hey, she's right. You do seem pretty worked-up over them, Mr. Edgeworth.</line>
 <line speaker="Edgeworth">I-I'm not worked up over anyone! A-And not jealous!</line>
 <line speaker="Oldbag">It's alright, Edgey-poo. Those two were just foals compared to a stallion like you. I thought so little of them that I lost interest the instant I laid eyes on them.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Oldbag">Suddenly, there was a loud gunshot, and the person who was shot fell to the ground.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You're claiming to have seen the exact moment in which the murder took place?</line>
 <line speaker="Oldbag">Absolutely! That gun made a terrible racket when it was fired.</line>
 <line speaker="Kay">You didn't try to go help the person that got shot?</line>
 <line speaker="Oldbag">I'm only one person, you smart-alecky brat! What could I have done!? But I took off as soon as I could to find someone who could help.</line>
 <line speaker="Oldbag">It was a very terrifying experience, let me tell you!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">..................</line>
 <line speaker="Oldbag">.................. Well, don't you have anything to say to me!?</line>
 <line speaker="Edgeworth">No, not especially.</line>
@@ -1236,7 +1236,7 @@
 <line speaker="Kay">Grr... I'm not some common crow! I'm the Yatagarasu! The raven of legend!</line>
 <line speaker="Edgeworth">Unfortunately, your conclusion has yet to be tested, so let's see how well it holds up.</line>
 <line speaker="Lang">This is the real scene of the crime.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Looks like we found the real crime scene first.</line>
 <line speaker="Lang">Ha! Brag all you want, but we don't have all that free time, unlike the two of you.</line>
 <line speaker="Kay">Heh heh. You know what you remind me of? A dog licking his wounds as he whimpers home!</line>
@@ -1244,10 +1244,10 @@
 <line speaker="Edgeworth">Y-You're welcome. <thought>I hope he realizes we didn't do all of this for him...</thought></line>
 <line speaker="Lang">But I'm here now, so I'll be taking over! As I was saying, this is where the crime took place.</line>
 <line speaker="Lang">Officer Meekins lay in wait for the victim on top of the stage.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Lying in wait? How did Officer Meekins even know the victim was going to come here?</line>
 <line speaker="Lang">Simple. He was investigating the kidnappers, right? And while he was doing so, he came to understand the victim, Mr. Deacon's movements.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hah! And why would the good officer want to ambush and kill a kidnapper?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">You mean his motive? Who knows, and who cares. You can find that out for yourself when you talk to him in jail.</line>
@@ -1256,16 +1256,16 @@
 <line speaker="Edgeworth"><thought>He's right. The lack of a motive is rather weak argument by itself.</thought></line>
 <line speaker="Lang">So, the officer lay in wait on top of the stage...</line>
 <line speaker="Lang">And when the victim finally showed, he shot him from on high!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you agree with how our re-creation turned out...?</line>
 <line speaker="Lang">Like I said, I'm grateful that you were able to save me some time.</line>
 <line speaker="Edgeworth">Alright, but we still don't know why he chose to wait on top of the stage.</line>
 <line speaker="Lang">Who cares. Maybe he wanted to become the Blue Badger. Who's to say he didn't see the stage and decided to put on a Badger stage show of his own?</line>
 <line speaker="Edgeworth"><thought>Or maybe there's a completely different reason...?</thought></line>
 <line speaker="Lang">What does it matter!? It still doesn't change the fact that Officer Meekins... ...stood up on that stage and shot the victim on the ground below.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">That's the truth your little re-creation showed.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you honestly believe that what you're saying is what really occurred?</line>
 <line speaker="Lang">Hey, you're the ones who came up with this scenario. Are you saying you doubt yourselves?</line>
 <line speaker="Edgeworth">Nnngh... Touché...</line>
@@ -1313,58 +1313,58 @@
 <line speaker="Lang">That's right. It was Officer Meekins himself who pointed us to the way he did it.</line>
 <line speaker="Edgeworth"><thought>The three-tired tread marks are very telling, however... ...is the Blue Badgermobile the only thing capable of creating such a pattern?</thought></line>
 <line speaker="Lang">I ask that you take another good look at the tire marks over there.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The tire marks...?</line>
 <line speaker="Lang">Yes, the tire marks. The one there behind the stage. They were hidden up until now by the various pieces of stage equipment. As for when they were made...</line>
 <line speaker="Edgeworth">...They must have been made after the rain had begun to fall, correct?</line>
 <line speaker="Lang">Yes, and probably around the same time as when the killer's footprints were made. The tires on that Blue Badgermobile probably got pretty muddy because of that. I say it's the Blue Badgermobile because, well, that's pretty obvious, too.</line>
 <line speaker="Lang">The three marks are indicative of the Blue Badgermobile.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Three tire marks... I have to agree that the Blue Badgermobile has three tires.</line>
 <line speaker="Lang">Of course! The only thing in this park that could make those marks is that roving shop.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Are you forgetting that there are, in fact, three of them? You can't simply ignore the Pink and the Proto Badgermobiles, Agent Lang.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Of course. I didn't say it couldn't be either of the other two... ...but I see no reason to drag them into this just to complicate things!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">That story Officer Meekins told about that shop on wheels getting stolen was just a lie.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Of course, you have some sort of proof that it was all a lie, correct?</line>
 <line speaker="Lang">Of course not.</line>
 <line speaker="Kay">Well, that was blunt.</line>
 <line speaker="Lang">But, suppose it is a lie. It would explain a lot of things. Like his movements and his whereabouts.</line>
 <line speaker="Lang">He drove the Blue Badgermobile here and committed the murder.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you still claim that the tire marks belonged to the Blue Badgermobile?</line>
 <line speaker="Lang">It must have arrived on the scene after the ground had become wet with rain. Officer Meekins committed the murder.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">Then, he used the car to move the body to the garage in the Wild, Wild West Area.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Besides the Blue Badgermobile, there are other ways the body could've been moved.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Recall what the Wild, Wild West Area looked like. Only the Blue Badgermobile and Mr. Deacon's body were in the garage. I'd say that's proof.</line>
 <line speaker="Edgeworth"><thought>I suppose if one were to look at that place, that would be the only logical conclusion. However, my experience tells me that the truth is usually not so easily found. Is there some sort of problem with Agent Lang's statement with regard to that scene?</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kay">Looks like the only thing that car was selling was death, not dreams.</line>
 <line speaker="Edgeworth">Only if what Agent Lang believes turn out to be true. <thought>The three-tired tread marks are very telling, however... ...is the Blue Badgermobile the only thing capable of creating such a pattern?</thought></line>
 <line speaker="Edgeworth">Sorry, Agent Lang, but that's an impossible tale.</line>
 <line speaker="Lang">And why is that?</line>
 <line speaker="Edgeworth">Those tire marks could not have been left by Officer Meekins's Blue Badgermobile! One look at the car would've told you so! What proves that the Blue Badgermobile had never been to this stadium?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The reason I believe this car never came to the stadium is the car itself!</line>
 <line speaker="Kay">Huh? What do you mean?</line>
 <line speaker="Edgeworth">The Pink Badgermobile was here from the beginning. And there is no need for two Badgermobiles to be at any one location at the same time.</line>
 <line speaker="Lang">You sure like to give random answers to things, don't you? But I'm not so easily sidetracked by such weak logic!</line>
 <line speaker="Edgeworth">Arrnnngh!</line>
 <line speaker="Lang">Now then, tell me why you believe that car was never at this stadium!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The victim's body tells the true tale behind it all!</line>
 <line speaker="Lang">What's wrong with you, Mr. Prosecutor? We're talking about the Blue Badgermobile! What does the body have to do with anything? Unless it's hiding some sort of secret...?</line>
 <line speaker="Edgeworth">...Well, I believe we should investigate this next is all...</line>
 <line speaker="Lang">Hah! Looks like you're no match for my wits after all!</line>
 <line speaker="Edgeworth">Wait, please allow me to take another good look.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is where we should be focusing our attention!</line>
 <line speaker="Lang">I have no idea what I'm supposed to be looking at. Perhaps you're a bit worn down by all this excitement, Mr. Prosecutor?</line>
 <line speaker="Edgeworth">It's none of your business. Just allow me to explain it once again.</line>
@@ -1690,8 +1690,8 @@
 <line speaker="Edgeworth">Recall the costumes for a minute.</line>
 <line speaker="Kay">The stolen ones, you mean?</line>
 <line speaker="Edgeworth">What proves that a fourth kidnapper does not exist?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Looking here, you can plainly see that a fourth kidnapper is out of the question...</line>
 <line speaker="Kay">...Look where? Do you know what he's trying to say, Mr. Proto Badger?</line>
 <line speaker="Proto B.">N-No... I'm very sorry, sir, however, I must have missed something myself.</line>
@@ -1754,51 +1754,51 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right...</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, about this piece of evidence...</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Lang Zi says: "Confidence is like a soul, and words without confidence are but empty shells." You shouldn't waste your breath on words you have no confidence in, Mr. Prosecutor. Although, it's just as bad to say something in full confidence and be wrong!</line>
 <line speaker="Edgeworth">Arghn!</line>
 <line speaker="Kay">Are you going to let him lecture you about your self-confidence like that!?</line>
 <line speaker="Edgeworth"><thought>I don't need to be overflowing with self-confidence; I just need to think rationally. After all, I only need to be confident in the facts!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, if you could take a look at this piece of evidence... ...you'd see that there is a very big flaw in your logic.</line>
 <line speaker="Lang">Flaw? Are you sure it's not your eyes that are flawed? Talk to me again when you can see straight!</line>
 <line speaker="Edgeworth"><thought>Gnnrk! Maybe this wasn't the piece I was looking for after all!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement just now stands in contradiction to this piece of evidence!</line>
 <line speaker="Lang">That thing has nothing to do with what I was saying. Now, put it away! And your logic is so badly in need of repair that you might as well throw it out, too! This is the real deal here. Your courtroom mannerisms are worthless at a crime scene!</line>
 <line speaker="Edgeworth">Gnnrk...! You dare to insult the courts!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Officer Meekins, your statement contradicts this piece of evidence.</line>
 <line speaker="Meekins">SIR! Permission to say that I don't think it does, sir!</line>
 <line speaker="Lang">Ha ha! It's not looking good for you when even the culprit's doubting you, Mr. Prosecutor.</line>
 <line speaker="Edgeworth">Nnngh... <thought>He must be lying, or there wouldn't be that unnatural spot in his testimony. I just have to present some evidence to prove my point!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement just now stands in direct contradiction to this piece of evidence. What do you think, Agent Lang?</line>
 <line speaker="Lang">Are you trying to buy yourself some time? Because I don't see what you're talking about. If you're going to start going on about unrelated matters, I'll just take my suspect and go!</line>
 <line speaker="Edgeworth">.........!</line>
 <line speaker="Meekins">Mr. Edgeworth, sir! Is this it, sir!? Am I under arrest now?</line>
 <line speaker="Edgeworth">W-Wait, please allow me to hear his testimony once more.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This evidence contradicts your statement just now...</line>
 <line speaker="Meekins">...So what if it does?</line>
 <line speaker="Lang">Wait up, there, Junior. Where is this contradiction you speak of, Mr. Prosecutor?</line>
 <line speaker="Edgeworth">Gnnngh! <thought>There must be something wrong with the way I'm approaching this.</thought></line>
 <line speaker="Meekins">Maybe, in reality, you doubt me, too, Mr. Edgeworth, sir. B-B-But, sir! I'm telling you, I don't know anythiiiiiiiiing, sir!</line>
 <line speaker="Edgeworth"><thought>Now I KNOW something is wrong. Officer Meekins is definitely hiding something!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence says otherwise...</line>
 <line speaker="Oldbag">............</line>
 <line speaker="Kay">Great job, Mr. Edgeworth! She's so lost, she's just staring blankly at you now!</line>
 <line speaker="Edgeworth">Aaaangh! <thought>Then this piece must not be what I'm looking for... I can't let my guard down. I must stay focused or I'm done for.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement just now conflicts with this piece of evidence!</line>
 <line speaker="Oldbag">That's not fair, Edgey-poo! I didn't have a chance to prepare myself for your...</line>
 <line speaker="Edgeworth">Just be quiet and listen!</line>
 <line speaker="Kay">I don't think you're going to get much out of her with the evidence you just presented. I mean, I don't think it even contradicts anything anyway...</line>
 <line speaker="Edgeworth"><thought>Since when did she become Ms. Law Expert!?</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hold on for a second. What you said just now and this piece of evidence...</line>
 <line speaker="Oldbag">What is it now!? If you have something to say, then out with it already!</line>
 <line speaker="Edgeworth">I...I... Never mind.</line>

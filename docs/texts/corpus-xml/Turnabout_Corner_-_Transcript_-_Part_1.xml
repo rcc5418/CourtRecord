@@ -110,7 +110,6 @@
 <line speaker="Trucy">And here's your badge. You can have it back now.</line>
 <line speaker="Apollo"><thought>That's the last time I let her touch anything of mine. Period.</thought></line>
 <line speaker="Apollo">There's a number inscribed on the back of the badge. There are many numbers like it, but this one is mine. Proof that I'm an attorney. To tell the truth, I get a happy feeling inside just looking at it.</line>
-<line speaker="After clearing all Talk options">Apollo:</line>
 <line speaker="Trucy">Oh, the Hickfield Clinic. It's quite close.</line>
 <line speaker="Apollo">Right. Well, I'll be going now. And I'll, uh... give this showbiz gig some thought, OK?</line>
 <line speaker="Trucy">Wait! I'll go with you!</line>
@@ -420,7 +419,6 @@
 <line speaker="Plum">I availed myself of the public facilities to get rid of all the garbage... Now there's just the paint on the street to deal with.</line>
 <line speaker="Apollo"><thought>Public facilities...? I wonder if she means that trash can...</thought></line>
 <line speaker="Plum">Sorry, kid. I got no idea what you're talking about.</line>
-<line speaker="After switching to right side view">Apollo:</line>
 <line speaker="Trucy">She's pretty. I bet she has a story, you know?</line>
 <line speaker="Apollo"><thought>There is something about her... Too bad she seems to be in a bit of a rush.</thought></line>
 <line speaker="Apollo">...Looks like there's some trouble by the park gate.</line>
@@ -524,7 +522,6 @@
 <line speaker="Trucy">Hee hee! Just a little joke!</line>
 <line speaker="Apollo">...... Don't scare me like that!</line>
 <line speaker="Trucy">You mean, don't "shock" you? Zzzzzzaaaaap! Hee hee!</line>
-<line speaker="After clearing all Talk options">???:</line>
 <line speaker="Apollo"><thought>...That girl from before!</thought></line>
 <line speaker="Plum">Oh! Welcome home, sweetie.</line>
 <line speaker="???">Ah, uh... hello, m-mother.</line>
@@ -675,8 +672,8 @@
 <line speaker="Apollo"><thought>I know yawns are contagious, but sneezes...?</thought></line>
 <line speaker="Trucy">Mmm. Well, I'm sure there's gotta be a clue somewhere! Let's keep checking things out!</line>
 <line speaker="Apollo">I think I do have just the clue you've got in mind...</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Trucy">... That's your clue? Sorry, but that leaves me feeling kind of... clueless.</line>
 <line speaker="Apollo"><thought>Like father like daughter with the humor, apparently.</thought></line>
 <line speaker="Trucy">There's no need to bluff here, Apollo! Save that for the court!</line>
@@ -764,7 +761,6 @@
 <line speaker="Apollo">...Huh. Mysterious.</line>
 <line speaker="Trucy">Oh? Do you want to know the secret of my panties?</line>
 <line speaker="Apollo">Ack! N-No! No thanks! <thought>Who uses magic panties in a stage show anyway...?</thought></line>
-<line speaker="After examining cell phone, tailpipe, and mirror">Trucy:</line>
 <line speaker="Apollo">Huh? What is it?</line>
 <line speaker="Trucy">Now that we've solved this case, we should go report to Daddy! He'll mope if we leave him alone too long, knowing him.</line>
 <line speaker="Apollo">Um, OK. ...He doesn't seem the type to mope, though. <thought>And this is hardly a case worth reporting...</thought></line>
@@ -793,7 +789,6 @@
 <line speaker="Plum">...Meraktis, eh?</line>
 <line speaker="Apollo">Um, yes. <thought>Why's she so quiet all of a sudden?</thought> ... Is something wrong?</line>
 <line speaker="Plum">Erm, no. Pay me no mind. And thanks for the info.</line>
-<line speaker="After examining bowl, mirror, cell phone and tailpipe and clearing all Talk options with Plum Kitaki and Guy Eldoon">June 15Hickfield Clinic</line>
 <line speaker="Phoenix">Yo! How goes it?</line>
 <line speaker="Trucy">Daddy! How do you feel?</line>
 <line speaker="Phoenix">Not bad, Trucy, not bad. It's good to have you young'uns on the case. Lets ol' Daddy-o get some well-deserved R&amp;R.</line>
@@ -812,7 +807,6 @@
 <line speaker="Apollo"><thought>Make that a not-so-startling display of cheapskatedness.</thought></line>
 <line speaker="Phoenix">...</line>
 <line speaker="Apollo"><thought>It's actually a relief to be so thoroughly ignored.</thought></line>
-<line speaker="After examining bowl, mirror, cell phone and tailpipe and clearing all Talk options with Plum Kitaki and Guy Eldoon">June 15</line>
 <line speaker="Trucy">Little Plum's not here. She's not finished cleaning, huh.</line>
 <line speaker="Apollo">Maybe she went to get a paint scraper?</line>
 <line speaker="Plum">OK! Who's the wise guy who spit gum out on the street!?</line>
@@ -855,7 +849,6 @@
 <line speaker="Phoenix">...It's not our concern, in any case.</line>
 <line speaker="Trucy">Right! Let's ignore that and find that noodle stand!</line>
 <line speaker="Apollo"><thought>What ever happened to professional curiosity?</thought></line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Apollo">Um... I was wondering when I get paid? We solved the case of your accident, and um, found a missing article of clothing.</line>
 <line speaker="Trucy">My panties!</line>
 <line speaker="Phoenix">That leaves the noodle stand.</line>
@@ -902,7 +895,6 @@
 <line speaker="Alita">An attorney's badge... So you really are a defense attorney. Please, I'm counting on you. I need your help.</line>
 <line speaker="Alita">I'm not sure I understand... I'm sorry.</line>
 <line speaker="Apollo">No, no, it's me who's sorry, really! Sorry!</line>
-<line speaker="After clearing all Talk options">Alita:</line>
 <line speaker="Trucy">Right! Let's go check out the scene of the crime!</line>
 <line speaker="Alita">I hope that's OK? I've never written a letter of request before.</line>
 <line speaker="Apollo">Oh, it's fine. <thought>I should hope it's your first...</thought></line>
@@ -1042,7 +1034,6 @@
 <line speaker="Trucy">Klavier... What a lovely name! He's so dreamy!</line>
 <line speaker="Apollo"><thought>I didn't know Mr. Gavin had a brother! And what was he doing out there?</thought></line>
 <line speaker="Phoenix">I have a feeling you'll be crossing paths again soon.</line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Trucy">Yeah. That detective woman won't let us!</line>
 <line speaker="Phoenix">...Go to the office. Under the silk top hat you'll find a bottle of white powder. Try taking that to this detective.</line>
 <line speaker="Apollo">"White powder"...? <thought>I hope it's not what I think it is.</thought></line>
@@ -1159,8 +1150,8 @@
 <line speaker="Trucy">Not so mysterious, actually... We should tell her, Apollo! After all, we know where the stand came from!</line>
 <line speaker="Ema">A likely story! I didn't come here to play games, you know.</line>
 <line speaker="Apollo">Actually, we do know where the noodle stand came from. The noodle stand's owner is...</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ema">... Look, I have better things to be doing. I'd make more progress eating snacks than listening to this drivel.</line>
 <line speaker="Apollo"><thought>You could try actually investigating, rather than just standing around.</thought></line>
 <line speaker="Ema">... Who's the old guy?</line>
@@ -1237,7 +1228,6 @@
 <line speaker="Trucy">...... Then, how about a store called "Team Meat"?</line>
 <line speaker="Apollo">Uh, close, but that would be "Taem Maet" backwards. And what kind of store is that?</line>
 <line speaker="Trucy">Why, a store that sells meat! "It's not meat, useless it's Team Meat!"</line>
-<line speaker="After examining trash can and knife, and clearing all Talk options">Ema:</line>
 <line speaker="Apollo">Ah. Uh... No.</line>
 <line speaker="Ema">Visiting hours are almost over at the detention center. You might think about wrapping up here and heading over.</line>
 <line speaker="Apollo">Good idea. <thought>I don't know what good it will do. We have a witness, and a knife with prints... Have I mentioned I've got a bad feeling about this?</thought></line>

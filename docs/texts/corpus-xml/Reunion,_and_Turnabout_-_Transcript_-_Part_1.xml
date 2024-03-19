@@ -956,14 +956,14 @@
 <line speaker="Phoenix">Iim going to ask you again. Did you know Dr. Grey?</line>
 <line speaker="Ini">I totally don't know that guy. Like, you're totally more presistent than a roach!</line>
 <line speaker="Phoenix"><thought>This girl is hiding something! I'm sure of it! I guess I have no choice but to remove this lock. Alright, so first, I have to use Maya's Magatama...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Ini Miney. I believe you do know who Dr. Grey is!</line>
 <line speaker="Ini">I told you! Like, how many times do I, like, have to repeat myself? If you're, like, so totally sure, then where's, like, your proof?</line>
 <line speaker="Phoenix">While it may be possible that you never actually met Dr. Grey in person, I do believe you might have at least, indirectly known of him.</line>
 <line speaker="Ini">Like, what do you mean, like, "indirectly"...?</line>
 <line speaker="Phoenix"><thought>I should try to show that the possibility existed for now...</thought> <thought>Hmm, so, something that shows a possible connection between Ini and Dr. Grey...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here is your proof!</line>
 <line speaker="Ini">Like, what is that...?</line>
 <line speaker="Phoenix">Ouch... I guess it doesn't have anything to do with it, huh? <thought>Pearls did warn me... "If you make a mistake, it will hurt you," she said. If I don't have enough evidence, I should probably "stop". I should take another look at the Court Record and think it through one more time.</thought></line>

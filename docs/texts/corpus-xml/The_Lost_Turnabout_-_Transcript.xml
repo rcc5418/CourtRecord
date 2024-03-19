@@ -1,6 +1,6 @@
 
-<line>The Lost Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Lost Turnabout</title>
 <line speaker="Phoenix">Wha...!? What have I done wrong!?</line>
 <line speaker="Phoenix">...? B-But I'm just a simple defense attorney!</line>
 <line speaker="Phoenix">What a nightmare... And I bet it was this ringtone that caused it... I really shouldn't be dozing off right before a trial starts anyway...</line>
@@ -69,16 +69,16 @@
 <line speaker="Phoenix">S-Sorry, Your Honor... <thought>Well, I guess I'd better check the Court Record, and see what I can find... What was it again? The Court Record Button...?</thought></line>
 <line speaker="Judge">Alright, Mr. Wright. Let's see if your notes are in order. What was the piece of evidence found underneath the victim's body?</line>
 <line speaker="Phoenix">Um... I'm pretty sure it was a wallet...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">This is a court of law! You can't just make wild guesses!</line>
 <line speaker="Judge">Agreed.</line>
 <line speaker="Byrde">They're right, Mr. Wright! You have to check the Court Record before you answer! If you don't, your client might end up with a guilty verdict!</line>
 <line speaker="Phoenix"><thought>"Your client"? You do realize that's you, right?</thought></line>
 <line speaker="Judge">I will ask you one more time.</line>
 <line speaker="Phoenix">If he's a cop, then I guess maybe a badge or something...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Mr. Wright! Please stick to the facts of this case!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">He is a policeman, correct?</line>
 <line speaker="Payne">I don't think you understand the problem here.</line>
 <line speaker="Judge">I will not have an uninformed lawyer in my court.</line>
@@ -124,11 +124,11 @@
 <line speaker="Judge">Mr. Wright. Your cross-examination, please.</line>
 <line speaker="Phoenix">Y-Yes, Your Honor. <thought>Talk about trial by fire. Here goes nothing. As long as I can "expose the lies", we should be alright.</thought></line>
 <line speaker="Gumshoe">There's something even more incriminating than the glasses under the victim's body, sir.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Hmm, about those glasses... Do you have any proof that those belong to my client?</line>
 <line speaker="Gumshoe">The lenses are for near-sightedness, and are almost the same strength as hers. Even the frames look kinda like the ones she's wearing in her ID, pal.</line>
 <line speaker="Phoenix">Hmm... <thought>What should I do now?</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Almost" and "kinda" are not good enough in a case like this!</line>
 <line speaker="Gumshoe">Er, um...</line>
 <line speaker="Phoenix">Do you have more definitive proof? Is there something that clearly links the defendant with those glasses!?</line>
@@ -141,20 +141,20 @@
 <line speaker="Phoenix"><thought>We're in real trouble if those glasses really are hers... It's probably better to back out while we can.</thought></line>
 <line speaker="Byrde">Argh... Why don't you believe me...?</line>
 <line speaker="Gumshoe">During his date, the victim was pushed from the bench area.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Now, you're sure he was pushed and that's how he fell?</line>
 <line speaker="Gumshoe">Yeah, pal. If you look at the wounds on the victim's body, there's no way it was anything else.</line>
 <line speaker="Phoenix">Hmm...</line>
 <line speaker="Judge">Please continue with your testimony, detective.</line>
 <line speaker="Gumshoe">Anyway, the victim fell pretty far...</line>
 <line speaker="Gumshoe">But he managed to write the culprit's name on the ground where he landed.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The culprit's name?</line>
 <line speaker="Gumshoe">Yeah. I was surprised, too. I didn't want to believe it, but...</line>
 <line speaker="Phoenix">Was the name that of my client?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">I don't like saying it, but it was clearly the defendant's name, "Maggie", sir.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely certain!?</line>
 <line speaker="Gumshoe">Sorry, pal, but that's what it said. This is a picture of it. No matter which way you look, it still says "Maggie".</line>
 <line speaker="Phoenix"><thought>Hmm... He's got a point...</thought></line>
@@ -164,14 +164,14 @@
 <line speaker="Phoenix"><thought>Now that she mentions it, something does feel kind of off about this picture...</thought></line>
 <line speaker="Byrde">That's how you know you found a contradiction! Now hurry up and present some evidence!</line>
 <line speaker="Phoenix"><thought>So THAT'S what spotting a contradiction feels like... I'd better check the Court Record again...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">With this piece of evidence and the glasses, it's hard to say she's not the culprit.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And you are certain that it was the victim who wrote the name on the ground?</line>
 <line speaker="Gumshoe">There were scratches on his fingers from the rough sand, and there were grains of sand stuck under his pointer finger nail.</line>
 <line speaker="Judge">Hmm... It certainly seems that the name was written by the victim himself.</line>
 <line speaker="Phoenix"><thought>That didn't go well. If it really was him, then we're in a lot of trouble...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Byrde">Don't give up! Keep that fighting spirit going!</line>
 <line speaker="Phoenix">I'm glad you're all pumped up, but...</line>
 <line speaker="Byrde">I really want to see your "special move", sir!</line>
@@ -195,11 +195,11 @@
 <line speaker="Byrde">Wow, being praised by a pro! I don't know what to say!</line>
 <line speaker="Phoenix">... ... ...</line>
 <line speaker="Judge">Wh-What is it?</line>
-<line speaker="Phoenix">... <thought>What... What's come over me...? Without thinking, I just blurted out, "<cutIn>Objection!</cutIn>"... And I yelled it at the top of my lungs, finger outstretched, ready to take on my opponent! What a rush!</thought></line>
+<line speaker="Phoenix">... <thought>What... What's come over me...? Without thinking, I just blurted out, "<cutIn type="objection">Objection!</cutIn>"... And I yelled it at the top of my lungs, finger outstretched, ready to take on my opponent! What a rush!</thought></line>
 <line speaker="Phoenix">Detective Gumshoe!</line>
 <line speaker="Gumshoe">Y-You talking to me, pal?</line>
 <line speaker="Phoenix">Please state the defendant's name for me!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">What are you trying to prove with this futile exercise, Mr. Wright?</line>
 <line speaker="Phoenix">You'll see. This is a very crucial line of questioning! Actually, Mr. Payne, you can answer. The defendant's name, if you please.</line>
 <line speaker="Payne">Wh-Where is this ridiculous question coming from? The defendant's, uh, name is, uh... "Maggie Byrde".</line>
@@ -211,9 +211,9 @@
 <line speaker="Phoenix">As you can see, the victim did indeed leave a name, "Maggie". However, the defendant's name is actually spelled, "Maggey"! This is a blatant contradiction of facts!</line>
 <line speaker="Judge">Ohh!</line>
 <line speaker="Gumshoe">How about that? I hadn't even noticed!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">But, but, but...! But maybe the victim didn't know how to spell her name correctly...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">May I remind you that it was you who said, "The defendant is accused of killing her lover." If they were truly lovers, it would be impossible for him to have not known her name!</line>
 <line speaker="Payne">Noooo!</line>
 <line speaker="Judge">This is very true. Mr. Payne.</line>
@@ -227,7 +227,7 @@
 <line speaker="Payne">Nevertheless, tragedy struck.</line>
 <line speaker="Judge">Hmm, yes, I see... You may cross-examine the witness, Mr. Wright.</line>
 <line speaker="Gumshoe">Officer Prince and Officer Byrde had been going out for about half a year.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How do you know about this?</line>
 <line speaker="Gumshoe">Every year in March, we have a training camp for us cops. Officer Byrde was a rookie at the time, and she and Officer Prince seemed to hit it off.</line>
 <line speaker="Phoenix"><thought>They got close, I take it...</thought></line>
@@ -235,7 +235,7 @@
 <line speaker="Judge">What is it?</line>
 <line speaker="Gumshoe">Oh, uh, nothing, sir! Really! Anyway...</line>
 <line speaker="Gumshoe">It sounded like they were even talking about marriage.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Marriage? But wasn't the victim 8 years older than her?</line>
 <line speaker="Gumshoe">What!? You saying a guy's gotta marry someone the same age as himself, pal!?</line>
 <line speaker="Phoenix">No, that's not what I meant at all...</line>
@@ -243,25 +243,25 @@
 <line speaker="Phoenix"><thought>Ugh... I think this fella has a ways to go before marriage...</thought></line>
 <line speaker="Gumshoe">Mind your own business, pal!</line>
 <line speaker="Gumshoe">The day of the incident just happened to be the victim's birthday, sir.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The day of the incident... You mean September 6th?</line>
 <line speaker="Gumshoe">Yeah. The victim, Officer Prince, had just gotten off duty at 5:30 PM that day, and since Maggey's night shift hadn't started yet, they went to the park for a bit...</line>
 <line speaker="Judge">Ah, I remember when I was young and in love. Oh, it was a jolly time.</line>
 <line speaker="Phoenix"><thought>That's great, Your Honor... I'm glad you're such a cheerful old man...</thought></line>
 <line speaker="Gumshoe">Maggey... I mean, Officer Byrde, had gotten Officer Prince a present.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">... You seem to know a lot about the defendant.</line>
 <line speaker="Gumshoe">Well, that's because, uh, I'm her boss. And I've gotta watch out for my subordinates!</line>
 <line speaker="Phoenix">But even what she was going to give as a present? Isn't that going a bit too far...?</line>
 <line speaker="Gumshoe">Hey, pal! Watch what you say! I know everything that happens under me! If someone so much as scratches their...</line>
 <line speaker="Phoenix">I REALLY don't need to know that much...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Mr. Wright! Please refrain from badgering the witness!</line>
 <line speaker="Judge">I agree. Even if this witness has a crush on the defendant, that should not be the point of discussion at this time.</line>
 <line speaker="Gumshoe">Whoa! Wait a second! Why are we talking about this!? It's all YOUR fault, pal! You're guilty, guilty, guilty! I should have you arrested!</line>
 <line speaker="Phoenix"><thought>I think the good Detective is about done here...</thought></line>
 <line speaker="Gumshoe">It was something she had gotten over 2 months ago.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Over 2 months ago?"</line>
 <line speaker="Gumshoe">Yup. She's a very considerate woman, pal!</line>
 <line speaker="Phoenix">So... What was this birthday present?</line>
@@ -280,7 +280,7 @@
 <line speaker="Phoenix">Custom-made? The glove was custom-made?</line>
 <line speaker="Gumshoe">Yup, that's what I said!</line>
 <line speaker="Judge">Hmm... So the glove was custom-made.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Your Honor, I really don't see how this glove is related to this case.</line>
 <line speaker="Judge">Yes, it would seem that there is little relevance. What do you think, Mr. Wright? Do you think this glove is really relevant to this case?</line>
 <line speaker="Phoenix">Hmm, I suppose it isn't really relevant.</line>
@@ -292,7 +292,7 @@
 <line speaker="Payne">If there are no further questions, Your Honor... </line>
 <line speaker="Judge">Hmm... Witness, why do you know about this glove?</line>
 <line speaker="Gumshoe">I should know, 'cause she came to me to ask what she should get for him.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You discussed what the defendant was going to give to her boyfriend?</line>
 <line speaker="Gumshoe">Well, I'm, er... *ahem* She, uh... trusts me, so...</line>
 <line speaker="Phoenix"><thought>Boy does he look proud of himself right now...</thought></line>
@@ -324,13 +324,13 @@
 <line speaker="Judge">Hmm... Yes, a perfectly logical conclusion. Now then, Mr. Wright, you may cross-examine the witness.</line>
 <line speaker="Phoenix">Thank you, Your Honor.</line>
 <line speaker="Gumshoe">We first looked into the handwriting.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn> </line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn> </line>
 <line speaker="Phoenix">But can you really determine handwriting based on a sample written in sand? </line>
 <line speaker="Gumshoe">Heh, this is why amateurs are amateurs. We're not a buncha simpletons, pal! Scientific investigation in this country's actually pretty good. </line>
 <line speaker="Judge">Hmm, I believe it's time to get back to the real point. </line>
 <line speaker="Payne">Agreed, Your Honor. So, what was the result of the investigation?</line>
 <line speaker="Gumshoe">Unfortunately, we couldn't confirm that it was the victim's handwriting.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So in the end, you couldn't confirm it? </line>
 <line speaker="Gumshoe">Hey, don't you look down on us! I told you! We're not a bunch of simpletons, pal! Everyone knows you can't find out everything you want with scientific investigation! </line>
 <line speaker="Judge">I've never heard that before. </line>
@@ -339,7 +339,7 @@
 <line speaker="Byrde">I never heard anything like that at the police academy, sir... </line>
 <line speaker="Gumshoe">OK, so I made it up. Anyway...</line>
 <line speaker="Gumshoe">Next, we checked the victim's pointer finger.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">His pointer finger? </line>
 <line speaker="Gumshoe">You know, the one you're always POINTING and waving around in people's faces. </line>
 <line speaker="Phoenix">Aha, ha, ha. Don't tell me it bothers you... </line>
@@ -348,14 +348,14 @@
 <line speaker="Gumshoe">Yeah. We figured there should be something on his finger if he had been writing in sand. </line>
 <line speaker="Judge">Hmm... And the results?</line>
 <line speaker="Gumshoe">We found that there was sand trapped under the victim's fingernail.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And what does that prove?</line>
 <line speaker="Gumshoe">Well, it proves that he did write that name with his own finger.</line>
 <line speaker="Payne">Yes, which explains why there was sand stuck under his nail.</line>
 <line speaker="Phoenix"><thought>I guess he's right...</thought></line>
 <line speaker="Gumshoe">And there's more...</line>
 <line speaker="Gumshoe">There were also scratches on the skin that were caused by him writing on the ground.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Scratches on his skin?"</line>
 <line speaker="Gumshoe">Yup. You can't see them with your naked eye, but they're there. </line>
 <line speaker="Judge">That is incredible! </line>
@@ -364,11 +364,11 @@
 <line speaker="Gumshoe">Yeah, that's it! We used one of those and that's how we found them! </line>
 <line speaker="Phoenix"><thought>I can't believe this guy doesn't know what a microscope is...</thought></line>
 <line speaker="Gumshoe">From this, we could confirm that the victim wrote this name with his right hand.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely sure?</line>
 <line speaker="Gumshoe">I believe in the power of science.</line>
 <line speaker="Phoenix"><thought>Hmm, I wonder if my evidence is solid enough to counter with?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>Listening to this, you would think there was only one conclusion... that the name was definitely written by the victim...</thought></line>
 <line speaker="Byrde">But don't you think that would be really strange, sir!? If Dustin really wrote that message with his right hand, do you think I would have gone through that much trouble to get him his present?</line>
 <line speaker="Phoenix"><thought>The present...? What about it...?</thought></line>
@@ -390,7 +390,7 @@
 <line speaker="Gumshoe">That's easy! Look, it's obvious from this picture that it was his... W-W-Wait a sec...</line>
 <line speaker="Phoenix">Don't forget that the victim was left-handed!</line>
 <line speaker="Gumshoe">Aaaaah!!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">This is... This is... I mean... I... Objec--</line>
 <line speaker="Judge">Overruled. Mr. Wright, I would like to know what your line of reasoning proves.</line>
 <line speaker="Phoenix">There is only one conclusion that can be drawn! A left-handed person could not have written a message with his right hand! Therefore! The person who wrote the name "Maggie" could not have been the victim!</line>
@@ -407,7 +407,7 @@
 <line speaker="Byrde">See, you got complimented by the judge again! You're really good! And that's why you can't give up being a lawyer, sir!</line>
 <line speaker="Phoenix"><thought>Are you joking!? I'm more than ready to retire!</thought></line>
 <line speaker="Judge">I will now announce my verdict. This court finds the defendant, Maggey Byrde...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">No!! Not yet! I mean, please give me a few more minutes, Your Honor.</line>
 <line speaker="Judge">Wh-What is the meaning of this, Mr. Payne!?</line>
 <line speaker="Payne">The prosecution is not finished yet!</line>
@@ -523,7 +523,7 @@
 <line speaker="Judge">You may now question the witness, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>I'll find out the truth, no matter how well you craft your lies!</thought></line>
 <line speaker="Wellington">I was at the park all afternoon, deep in thought about my life situation.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you were at the park all afternoon? You seem to have a lot of free time. </line>
 <line speaker="Wellington">Hmph. That was very rude of you. But then again, what can I expect? That's what you get from a man who graduated from a no-name, trashy university. </line>
 <line speaker="Phoenix">N-No name? Trashy...? </line>
@@ -532,7 +532,7 @@
 <line speaker="Wellington">Oh, puh-leaze. Which university I go to will directly affect the very future of this country! </line>
 <line speaker="Phoenix"><thought>That arrogant little snot...</thought></line>
 <line speaker="Wellington">I don't remember the time all that well, but I do believe it was past 6 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How did you know what time it was? I see you're not wearing a watch, so... </line>
 <line speaker="Wellington">Is that the best you can do? Do you think you can discredit me like that? You're just a third-rate, biased fool. I guess I can't expect real smarts from you. </line>
 <line speaker="Phoenix"><thought>Grr... His arrogance is really intolerable... So, what should I do now...?</thought></line>
@@ -545,31 +545,31 @@
 <line speaker="Wellington">In any case...</line>
 <line speaker="Phoenix"><thought>Well, I guess there's no point in pressing him further. After all, there was a clock right there at the crime scene...</thought></line>
 <line speaker="Wellington">All of a sudden, a police officer falls from above, right in front of my eyes.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And how did you know he was a police officer?</line>
 <line speaker="Wellington">You obviously have no idea how powerful my deductive reasoning skills are. With one glance, I could tell just what kind of occupation he held. That shoddy, do-it-yourself hairstyle practically screamed "I'm a police officer". It was also the way he tied his tie and those cheap, low-quality shoes. Ugh. Oh, and I suppose it was also because he was wearing an officer's uniform.</line>
 <line speaker="Phoenix"><thought>Shouldn't that statement have come first!?</thought></line>
 <line speaker="Maya">Wow, that's pretty impressive. Hey, Nick! Do you think he's figured out what I do?</line>
 <line speaker="Phoenix"><thought>Even I haven't figured that out yet...</thought></line>
 <line speaker="Wellington">Without a thought, I looked up, and there I met the eyes of a charming, young lady.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure you got a good look at her face?</line>
 <line speaker="Wellington">Animals have this thing called an "eye", Mr. Wright. They use this "eye" to see things. In the case of humans, we have two of them. Yes, even you!</line>
 <line speaker="Phoenix">I don't care if I have them or not! Did you or did you not get a clear look at her face!?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">That's what the witness was just about to get to. I would like to request that Mr. Wright not use such a loud voice during questioning.</line>
 <line speaker="Judge">Sustained. Mr. Wright, please refrain from raising your voice in this court.</line>
 <line speaker="Phoenix"><thought>Then please don't make me have to raise my voice.</thought></line>
 <line speaker="Wellington">Are you finished? I'd like to continue, if that's alright with you.</line>
 <line speaker="Wellington">Of course I remember her sweet face. It was that of the pretty defendant there.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you're SURE you are not mistaken?</line>
 <line speaker="Wellington">Please. Don't confuse your pitiful, train-wreck of a life with mine. I'm what you call a famous brand-name product, while you are only a cheap imitation. There is no way someone as magnificent as myself could have made a mistake.</line>
 <line speaker="Payne">Of course, of course.</line>
 <line speaker="Phoenix"><thought>Oh ho ho ho. Of course.</thought></line>
 <line speaker="Judge">Did you notice anything else of interest, witness?</line>
 <line speaker="Wellington">The only other thing I saw was the banana that fell with the police officer.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The banana...?</line>
 <line speaker="Wellington">Well, it was actually more than just one. More like a bunch of bananas.</line>
 <line speaker="Phoenix">Now what would a bunch of bananas be doing there...?</line>
@@ -578,7 +578,7 @@
 <line speaker="Phoenix"><thought>Hmm... He could be, but... there's no reason for him to lie about there being bananas at the crime scene.</thought> And what if it's not a lie?</line>
 <line speaker="Maya">Well, maybe he thought he was seeing one thing, and it was something else...?</line>
 <line speaker="Phoenix"><thought>If he mistook something else for a bunch of bananas, then that would be an inaccuracy. Think Phoenix, think!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>If my client is innocent, there is no way he could've seen what he says he did.</thought></line>
 <line speaker="Maya">Which means if we can somehow show he's lying...</line>
 <line speaker="Phoenix">Yeah, that's exactly what we need do. <thought>She's right. She's got a sharp mind, but I just wish I could remember who she is...</thought></line>
@@ -612,7 +612,7 @@
 <line speaker="Judge">Think it over one more time and try again, Mr. Wright. </line>
 <line speaker="Phoenix">By the way, just how bad are your eyes?</line>
 <line speaker="Wellington">Huh? How... What... You... Why are you asking me about this all of a sudden!?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Your Honor, it is very simple to mistake a glove for a bunch of bananas...</line>
 <line speaker="Judge">No, I don't think so. Objection overruled.</line>
 <line speaker="Wellington">Y-Y-You... You're one of those people. Yes, you know what I mean. You're like those people who refused to accept Galileo for his Copernican Theory! You're too used to your world view to realize that there are other, new possibilities! Sure, in the end, we find out that it is in fact, a glove, not bananas. However... when viewed from afar, I do think there is room enough for doubt, don't you...?</line>
@@ -626,7 +626,7 @@
 <line speaker="Wellington">Y-You are an unrelenting, evil man. You're like those people who rejected Joan of Arc and put her to death! She was brave and courageous, only to be caught by horrible, unrighteous people. And while she didn't do anything wrong, she was still gruesomely burned at the--</line>
 <line speaker="Phoenix">Which boils down to you were not wearing your glasses at that time! Therefore! The identity of the "woman" at the scene of the crime and that of the defendant can not be proven to be the same by this witness!</line>
 <line speaker="Wellington">...!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">But the height difference was only 9 feet! It was very possible for him to see the face of the culprit standing on the upper path!</line>
 <line speaker="Judge">Hmm... Witness. Please be more accurate in your testimony. Remember, a person's life is at stake.</line>
 <line speaker="Wellington">Y-Yes, Your Honor!</line>
@@ -637,25 +637,25 @@
 <line speaker="Wellington">Yes, that is correct. Which is why, even someone without a superior brain like mine can understand that... that girl is the murderer!</line>
 <line speaker="Judge">You may question the witness now, Mr. Wright.</line>
 <line speaker="Wellington">The girl on the upper path ran away as soon as she realized I was there.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">She ran away, just like that?</line>
 <line speaker="Wellington">Yes, she did. She saw me and flew the nest like the guilty bird she is. Oh, I'm sorry. Was that pun too hard for someone who only got a third-rate education?</line>
 <line speaker="Phoenix"><thought>Actually, that did take me a few seconds to get...</thought> Anyway, if she ran away the instant she saw you, how could you tell it was my client?</line>
 <line speaker="Wellington">Eek!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">The witness has already answered that question. He has stated that the defendant is the culprit!</line>
 <line speaker="Judge">This is true. Mr. Wright, I'm striking your question from the record.</line>
 <line speaker="Phoenix"><thought>Hmm, how can I get more information out of him?</thought></line>
 <line speaker="Wellington">After that, I immediately called the police station to report the crime.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Immediately? As in?</line>
 <line speaker="Wellington">As in immediately! I mean, sure, a minute might have elapsed before I did, but... That's the duty of every good citizen, or did they not teach that at your pitiful school?</line>
 <line speaker="Phoenix"><thought>You think people learn about how to call the police in COLLEGE!?</thought></line>
 <line speaker="Maya">Hey, Nick. I think you should take a look at the Court Record for a sec.</line>
 <line speaker="Phoenix"><thought>...?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Wellington">It must've been 6:45 PM when I made the call.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How do you know what time it was...?</line>
 <line speaker="Wellington">That detective told me. You know which one I mean. The one with the jacket that makes him look like a dropout from a no-name high school.</line>
 <line speaker="Gumshoe">Hey, pal! I graduated from a pretty good, I mean, top-ranked college!</line>
@@ -663,9 +663,9 @@
 <line speaker="Wellington">It doesn't matter. I don't believe I was mistaken on what time I called. And if I am wrong, then that detective obviously doesn't know how to tell time.</line>
 <line speaker="Gumshoe">What!? Why you!!! You're just some lousy kid who...</line>
 <line speaker="Payne">I think the court can see your point. Anyway, how did the police respond?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Wellington">They must have a lot of free time on their hands since they showed up within 10 minutes.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you're saying that there were police on the scene by 7:00 PM?</line>
 <line speaker="Wellington">They got there before that, I think. There usually aren't many people in that area at that time of day. But suddenly, before I knew it, there were people crawling all over gawking. It certainly says something about the morals of the people in this country.</line>
 <line speaker="Phoenix"><thought>I can't find anything out of the ordinary in his testimony...</thought></line>
@@ -679,9 +679,9 @@
 <line speaker="Wellington">Aaaack!</line>
 <line speaker="Phoenix">I think this court would like to hear what you were doing during this 15 minute gap!</line>
 <line speaker="Wellington">Grrrrrr!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">The witness was in shock at the time after witnessing a terrible murder! It's only to be expected that he would be a little dazed...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Fifteen minutes is hardly what I would call "a little dazed"!</line>
 <line speaker="Payne">Aaaaah! </line>
 <line speaker="Wellington">Y-Yes?</line>
@@ -721,12 +721,12 @@
 <line speaker="Judge">What is it, Mr. Wright? By your screaming, I assume you have a question after all?</line>
 <line speaker="Phoenix">Your Honor! The witness' testimony does not make sense! I don't believe that there was ever a need for the witness to search for a phone!</line>
 <line speaker="Wellington">H-How dare you!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">You can't just make outrageous claims like that! You do have some sort of proof, don't you?</line>
 <line speaker="Phoenix">Well, yeah... O-Of course! <thought>This evidence should be good enough, I think...</thought></line>
 <line speaker="Judge">Alright. Let's have this proof, then. Please present proof that the witness had no need to search for a public phone booth!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It's very simple! This is the evidence that backs up my claim!</line>
 <line speaker="Judge">And yet again you have presented this court with an obscure, meaningless item.</line>
 <line speaker="Phoenix">Huh? This evidence? It's meaningless?</line>
@@ -743,9 +743,9 @@
 <line speaker="Phoenix">That is correct! All the defendant had to do was walk three steps! Mr. Wellington! Why did you not use the phone that was right in front of you!?</line>
 <line speaker="Wellington">Ooooooougn!</line>
 <line speaker="Judge">Order! Order!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Wh-What does reporting the crime a little late prove for you!?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness can't explain what he was doing for those 15 minutes! That is reason enough to throw suspicion on his testimony! </line>
 <line speaker="Judge">Yes, this is very true. What do you have to say for yourself, witness!? </line>
 <line speaker="Wellington">... </line>
@@ -767,16 +767,16 @@
 <line speaker="Phoenix">WHAAAAAAAT!?</line>
 <line speaker="Maya">Nick! You have to do something before it's too late!!</line>
 <line speaker="Judge">I hereby close the cross-exa</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">W-Wait! As to the actions of Mr. Wellington during the 15 minute gap, the defense would like to propose an explanation!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">I thought the defense had just finished proving that this couldn't be explained!</line>
 <line speaker="Phoenix">No, there is one possibility! </line>
 <line speaker="Judge">Alright. Let's hear your explanation. However, be forewarned that if your explanation is not persuasive, you will be penalized. Think carefully before you present, Mr. Wright. </line>
 <line speaker="Phoenix">Yes, Your Honor! <thought>Urk. I probably shouldn't have said there was only one possibility...</thought></line>
 <line speaker="Judge">Please present to the court the one piece of evidence that will answer the following: "Why didn't the witness call the police right away?"</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Perhaps this is the evidence you need to be convinced!</line>
 <line speaker="Judge">... Perhaps?</line>
 <line speaker="Phoenix">Aha ha ha. That was just an idea I thought I'd throw out.</line>
@@ -798,47 +798,47 @@
 <line speaker="Wellington">Oooo...OOOOWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH! </line>
 <line speaker="Phoenix"><thought>I know I'm right!He is the real murderer!</thought></line>
 <line speaker="Maya">Did you figure it out, Nick!? </line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Judge">So basically, you are saying that in order to make the defendant look guilty, the real criminal used the victim's right hand to write her name on the ground? </line>
 <line speaker="Phoenix"><thought>Ah, I forgot! Hmm, was there any way this creep could've known Maggey's name beforehand?</thought></line>
 <line speaker="Phoenix"><thought>No matter how I look at it, it's no good! There is no way he could have known Maggey or her name!</thought></line>
 <line speaker="Maya">Nick! You can't let this slimebag get away! Think harder!</line>
 <line speaker="Phoenix">Y-You're right... <thought>OK, let's go over this from the beginning one more time.</thought></line>
 <line speaker="Phoenix"><thought>It would be best if I could prove that the witness had a chance to learn... that the defendant's name was "Maggey".</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is how!</line>
 <line speaker="Judge">... Am I supposed to take this as evidence that the defense doesn't know what's going on?</line>
 <line speaker="Phoenix">Huh?... Oh... Ah ha ha ha.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Aren't you a little old to be laughing like a 5-year old? Take some responsibility!</line>
 <line speaker="Phoenix"><thought>As if I need a lecture about responsibility from you, of all people...</thought></line>
 <line speaker="Judge">The defense will receive a penalty. Please think carefully before presenting your case again.</line>
 <line speaker="Phoenix">Yes, Your Honor...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phone">............... ...*beep*...</line>
 <line speaker="Byrde">"Um, hello?"</line>
 <line speaker="???">"Oh, thank you! I've been searching for my phone."</line>
 <line speaker="Byrde">"Is this yours? Oh, I'm glad you called! We can meet up and I can give this back!"</line>
 <line speaker="???">"I'll be right there, um... I'm sorry, I didn't catch your name..."</line>
 <line speaker="Byrde">"You can call me Maggey!"</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">It's very simple, Your Honor. A person usually would not kill someone without a reason. Mr. Wellington had no reason to kill anyone!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Mr. Wellington's motive is right here!</line>
 <line speaker="Judge">The cell phone?</line>
 <line speaker="Phoenix">In the memory of the phone the defendant found was a list of certain phone numbers! </line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Mr. Wellington's motive is right here!</line>
 <line speaker="Judge">What is this? ...A list?</line>
 <line speaker="Phoenix">These phone numbers were pulled from the memory of the phone the defendant found. And we have determined that the people on this list are members of a "certain group".</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The murderer killed the victim because of this!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">The defense is obviously haphazardly throwing out evidence in desperation!</line>
 <line speaker="Judge">It certainly seems that way. Don't let all your hard work up to this point go to waste on a random guess.</line>
 <line speaker="Phoenix">... What was I thinking...? </line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">He's investigating that group! </line>
 <line speaker="Judge">Excuse me?</line>
 <line speaker="Maya">What in the world are you saying, Nick!? If he was just looking into the group, then he has no reason to kill anyone!</line>
@@ -853,14 +853,14 @@
 <line speaker="Judge">What is it? You became quiet all of a sudden.</line>
 <line speaker="Phoenix">Um, I'm sorry, Your Honor. I'd like to try one more time.</line>
 <line speaker="Judge">*sigh* Alright. One more time, Mr. Wright.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Your Honor!</line>
 <line speaker="Phone">...*beep*...</line>
 <line speaker="Byrde">"Um, hello?"</line>
 <line speaker="???">"Oh, thank you! I've been searching for my phone."</line>
 <line speaker="Byrde">"Is this yours? Oh, I'm glad you called! We can meet up and I can give this back!"</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The witness saw this!</line>
 <line speaker="Judge">Mr. Wellington. I-Is he correct?</line>
 <line speaker="Wellington">...?</line>
@@ -932,14 +932,14 @@
 <line speaker="Phoenix"><thought>"If I were me"...?</thought> Alright. If I were me, then what would I do?</line>
 <line speaker="Maya">That's easy! For starters, you'd raise your voice and object!</line>
 <line speaker="Phoenix"><thought>So for now, I should at least say something!</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Please wait, Your Honor!</line>
 <line speaker="Maya">Alright, Nick!</line>
 <line speaker="Phoenix">I think I may be able to prove it!</line>
 <line speaker="Judge">"Prove it...?" Prove what, Mr. Wright?</line>
 <line speaker="Phoenix">Everything!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Y-Your Honor! The cross-examination has already ended! If he questions the witness with any more of his badgering...</line>
 <line speaker="Judge">You will not harass the witness. Is that clear, Mr. Wright?</line>
 <line speaker="Wellington">Did you hear that? No harassment allowed, Mr. Attorney.</line>
@@ -950,15 +950,15 @@
 <line speaker="Phoenix"><thought>I only get one shot at this!</thought></line>
 <line speaker="Judge">If you cannot "prove" everything... It's over. For your client, and for you. Do you fully understand?</line>
 <line speaker="Phoenix">Yes, Your Hon-</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">I'm sure you are well aware, Your Honor, but the cross-examination period has ended!</line>
 <line speaker="Judge">Were you paying attention, Mr. Payne? I said that Mr. Wright could present only one more piece of evidence.</line>
 <line speaker="Payne">Oh...</line>
 <line speaker="Judge">Now then, Mr. Wright. This is your last chance.</line>
 <line speaker="Phoenix"><thought>It all comes down to this! It's Go time!</thought></line>
 <line speaker="Judge">Please present the one piece of evidence that will explain everything!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... Is this your final answer? It's a bit disappointing.</line>
 <line speaker="Phoenix">Nonono! That was just a friendly gesture!</line>
 <line speaker="Wellington">Ha ha ha. You sure know how to send a friendly gesture to me, at least.</line>
@@ -973,7 +973,7 @@
 <line speaker="Maya">...</line>
 <line speaker="Judge">...Did you not know that?</line>
 <line speaker="Phoenix">Nope!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Wh-Wh-What's the meaning of this nonsense!?</line>
 <line speaker="Judge">Mr. Wright! Get a hold of yourself and start behaving like a proper lawyer!</line>
 <line speaker="Maya">Ouch... Talk about a tongue-lashing, Nick...</line>
@@ -1049,25 +1049,25 @@
 <line speaker="Phoenix">Alright. Sounds good. <thought>All the phone numbers on my phone were erased by Mr. Wellington. I guess I have to start over from the very beginning...</thought></line>
 <line speaker="Maya">Come on, Nick! Let's go to our usual burger joint!</line>
 <line speaker="Phoenix">OK, OK. <thought>Actually, it hasn't even been two months since she came back into my life.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection denied.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection denied. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

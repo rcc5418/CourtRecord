@@ -556,7 +556,7 @@
 <line speaker="Phoenix">Me? Oh, uh... sure. Everyone knows that! Why don't you tell it though... for Ema's sake.</line>
 <line speaker="Edgeworth">Very well. Long ago in the kingdom of Chu, there was an arms merchant. One day, he presented the king with two items. The first was a halberd he claimed could slice through any shield or armor. The second was a shield he claimed could withstand any weapon.</line>
 <line speaker="Phoenix">Hmm... Wait a minute.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Those claims contradict each other!</line>
 <line speaker="Edgeworth">Very perceptive. But then again, you've heard this story before, right? Anyway, as you mentioned, the very descriptions of these items discredit them both. When the king pointed this out, the merchant was left speechless. And thus, the Chinese word for "contradiction" was born.</line>
 <line speaker="Ema">Oh, I see! So the "chipped shield" and the "broken knife" symbolize...</line>
@@ -1051,8 +1051,8 @@
 <line speaker="Phoenix">Protecting? No. I think "afraid of" is more like it.</line>
 <line speaker="Phoenix">If I'm not mistaken, the person in question may have persuaded you to silence.</line>
 <line speaker="Lana">... For argument's sake, Mr. Wright, whom may I ask is this person you're speaking of? The one I am supposedly so "frightened" of? What is this person's name?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The person whom you fear... is this!</line>
 <line speaker="Lana">To be honest, there's someone a bit scarier.</line>
 <line speaker="Phoenix">W-who would that be?</line>
@@ -1077,8 +1077,8 @@
 <line speaker="Lana">Me. I had access because I was second in command of that investigation.</line>
 <line speaker="Phoenix">Yes you, but also one other: Damon Gant.</line>
 <line speaker="Lana">... If you intend to accuse Chief Gant, you'll need more than just words. Show me proof that Chief Gant falsified evidence in that case!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">You want proof of the Chief's wrongdoings? Here it is!</line>
 <line speaker="Lana">That "evidence" proves someone is doing something wrong all right, but it's not the Chief.</line>
 <line speaker="Phoenix">W-who would that be?</line>

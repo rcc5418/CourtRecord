@@ -337,8 +337,8 @@
 <line speaker="Badd">That's... what's been bothering me as well...</line>
 <line speaker="Ray">Eh? ...What's missing?</line>
 <line speaker="Gregory"><thought>Let me show Raymond the part of the chocolate frame that's missing.</thought></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory">Raymond. Don't you think there is something missing here?</line>
 <line speaker="Ray">...Sorry. I don't know much about art. I thought this was one of those "artistic expressions" though.</line>
 <line speaker="Gregory"><thought>...My glasses slipped, and I pointed to the wrong spot.</thought></line>
@@ -448,11 +448,11 @@
 <line speaker="Badd">...Hmph. Fine.</line>
 <line speaker="Gregory"><thought>Detective Badd believes that he is right, but I won't give up so easily. I can't accept his reasoning... I'll have to show him evidence that contradicts it!</thought></line>
 <line speaker="Badd">If the body had been found in a locked room... Master would've been the prime suspect.</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Isn't it a little premature to suspect Mr. Master on those grounds alone?</line>
 <line speaker="Badd">It's a little premature... for you to be objecting...! ...Just wait... until I'm done...</line>
 <line speaker="Badd">That's why Master made sure to leave the door to his own room unlocked...</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">He left it unlocked?</line>
 <line speaker="Badd">If the door had been locked... Master would be the only one who could commit the crime...</line>
 <line speaker="Ray">Well... maybe the door just happened to be unlocked?</line>
@@ -461,7 +461,7 @@
 <line speaker="Gregory"><thought>...I hope he isn't trying to steal my apprentice.</thought></line>
 <line speaker="Badd">Master had... a reason... to leave the door unlocked.</line>
 <line speaker="Badd">And to ensure that the body would be seen... Master broke the lid on the treasure chest.</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">You believe the broken lid was Mr. Master's doing?</line>
 <line speaker="Badd">Yes... If he hadn't done that, the body... wouldn't have been found.</line>
 <line speaker="Gregory">...It doesn't seem likely that he would break his own work while he was judging the contest.</line>
@@ -470,9 +470,9 @@
 <line speaker="Gregory">! Detective Badd, you know about "Piece of Cake"? <thought>When I didn't even know of it!</thought></line>
 <line speaker="Ray">Whaaat! This is a surprise! So... do you sing the song too?</line>
 <line speaker="Badd">...That's... irrelevant. Anyway... The one who broke the lid on the treasure chest was Master...</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Badd">After the judging... everyone was scheduled to meet in Master's room...</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">The judging began in Mr. Gustavia's room, right?</line>
 <line speaker="Badd">Yeah... I, too, was looking forward to seeing his candy craft.</line>
 <line speaker="Gustavia">...Mm? If you would like, I can put on a display of my candy craft for you right now! ...What do you think? It represents Sir Detective!</line>
@@ -482,7 +482,7 @@
 <line speaker="Gregory"><thought>...What would my candy form be? I'm kind of curious myself.</thought></line>
 <line speaker="Badd">...Moving on...</line>
 <line speaker="Badd">That would have created the impression... that the murder had occurred... while he was away.</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Do you know the time of the murder?</line>
 <line speaker="Badd">...We're still... waiting on... the autopsy report...</line>
 <line speaker="Gregory">Without the autopsy report, how could you have arrested Mr. Master?</line>
@@ -499,7 +499,7 @@
 <line speaker="Badd">.....</line>
 <line speaker="Gregory">If the lid broke just before Ms. Hall found the body... ...then Mr. Master, who was in the middle of judging, could not have broken it!</line>
 <line speaker="Badd">I... never said that Master broke the lid directly... The ship was set up to fall during the judging... I believe he tampered with the stand.</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">Do you have proof he tampered with it?</line>
 <line speaker="Badd">No... but the investigation isn't completely over yet...</line>
 <line speaker="Gregory"><thought>It seems they still haven't found anything conclusive...</thought> Have you found any other fingerprints, other than Mr. Master's, in this room?</line>
@@ -548,7 +548,7 @@
 <line speaker="Gregory"><thought>Just how old is this woman?</thought></line>
 <line speaker="Badd">...Mr. Attorney. Let's just finish our business here.</line>
 <line speaker="Gregory">Hmm... Right.</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="???">You! What do you think you're doing!? Conversing with a mere attorney!?</line>
 <line speaker="Ray">Mr. Edgeworth! A-A scary man came out of the candy castle...!</line>
 <line speaker="Badd">...Von Karma...</line>
@@ -873,29 +873,29 @@
 <line speaker="Gregory">Mr. Master took the rock salt lamp...?</line>
 <line speaker="Gregory">Do you have evidence that he moved it?</line>
 <line speaker="Gregory">Wha...!</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">He took the rock salt lamp from Delicia's room...?</line>
 <line speaker="Gregory">But, the murder weapon was found in Delicia's room. Doesn't that place suspicion on Delicia too?</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">So, the murder weapon was the rock salt lamp hidden inside the candy castle?</line>
 <line speaker="Gregory">...Why was it necessary for you to enter the castle?</line>
 <line speaker="Ray">Ah! Maybe he's interested in candy castles?</line>
 <line speaker="Badd">...! I wasn't in charge of... the initial investigation...!</line>
 <line speaker="Gregory"><thought>Detective Badd joined the investigation halfway through...</thought></line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Wouldn't the body left behind in his room also be cause for suspicion? Moreover...</line>
 <line speaker="Gregory"><thought>...That's exactly... what I'd like to say to you.</thought></line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Are you saying that Mr. Master removed the murder weapon, and hid the body in the chest?</line>
 <line speaker="Delicia">Eep! So savory!</line>
 <line speaker="Gregory"><thought>Don't you mean... "so sorry"?</thought></line>
 <line speaker="Badd">She shows no sign... of remorse.</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">How can you conclude that Mr. Master is the killer without any evidence!?</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">Is there really no evidence pointing to anyone else at the crime scene? Surely there's room for further investigation...</line>
 <line speaker="Gregory"><thought>Think back to the crime scene. If Mr. Master isn't the killer... There must have been something there incriminating someone else!</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory"><thought>It seems Von Karma won't be shaken easily. I'll just have to present evidence that contradicts his reasoning...!</thought></line>
 <line speaker="Gregory">It's true that the murder weapon and bloodstains disappeared from the vicinity. However, there was still one piece of incriminating evidence left behind! Have a look at this photograph, which was taken when the body was first discovered. This cloth was used to wrap the body... Doesn't it remind you of the fluorescent cloth from Delicia's room?</line>
 <line speaker="Delicia">Eep! My fluorescent cloth was at the crime scene?</line>
@@ -921,8 +921,8 @@
 <line speaker="Gregory"><thought>Von Karma...! So that's why he let us investigate Delicia's room!</thought></line>
 <line speaker="Gregory">Two...?</line>
 <line speaker="Gregory">.....</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn> I still have some doubts about the fluorescent cloth found in Mr. Master's room.</line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn> I still have some doubts about the fluorescent cloth found in Mr. Master's room.</line>
 <line speaker="Gregory">...Ngh...! <thought>I don't have enough information to refute Von Karma's reasoning...</thought></line>
 <line speaker="Ray">Th-That's!</line>
 <line speaker="Gregory"><thought>I can't give up yet...</thought></line>
@@ -930,11 +930,11 @@
 <line speaker="Gregory">Detective Badd...!</line>
 <line speaker="Badd">It's not my nature... to leave any doubts behind. There is still one piece of evidence... that has yet to be identified.</line>
 <line speaker="Gregory">.....! <thought>That's right... there are still the traces someone left behind!</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">No. I also have some doubts about one piece of evidence. It's likely... That I have the same doubts Detective Badd has.</line>
 <line speaker="Gregory"><thought>This is the piece of evidence left in Mr. Master's room that has yet to be identified!</thought></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory">We still do not know the true nature of this piece of evidence!</line>
 <line speaker="Badd">...This is not... the same doubt I had...</line>
 <line speaker="Gregory">Oh.</line>
@@ -946,7 +946,7 @@
 <line speaker="Badd">*gulp*...!</line>
 <line speaker="Ray">...This isn't good for Badd. I'm so glad I have a kind boss like Mr. Edgeworth!</line>
 <line speaker="Gregory"><thought>Your salary review depends on how you perform here...</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">Do you have evidence that those fingermarks were left by Master? And moreover... there are still a few points of suspicion surrounding Delicia.</line>
 <line speaker="Delicia">Uuh... Greggy. You still suspect me? I've already apologized for stealing a few bites...!</line>
 <line speaker="Gregory">...I don't want to suspect you. However, I can't easily trust those who tell lies. You must still be hiding something!</line>
@@ -955,8 +955,8 @@
 <line speaker="Delicia">Uuh... I'm sorry. For my lack of knowledge...</line>
 <line speaker="Gregory">In your case, it's not even about the lack of knowledge. In truth... you don't even know how to make desserts, do you?</line>
 <line speaker="Gregory">We're not in court yet, but... very well. This evidence shows that Delicia can't make desserts.</line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory">This is the evidence!</line>
 <line speaker="Delicia">That doesn't prove anything! What a rude boy!</line>
 <line speaker="Badd">Really... You are a rude boy.</line>
@@ -964,7 +964,7 @@
 <line speaker="Ray">It's alright! Young people are allowed to make mistakes!</line>
 <line speaker="Gregory"><thought>I'm nowhere near your age... Good grief.</thought> Well... Will you allow me to try again?</line>
 <line speaker="Gregory">The only things Delicia made were those that broke the rules.</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">Those were not the only fake desserts she made.</line>
 <line speaker="Gregory">Her desserts may look like something out of a fairy tale at first glance... ...but in reality, they are nothing but mannequins, decorated with cream. Apart from the cream, they're all fake!</line>
 <line speaker="Gregory">This is not something one aiming to become the world's greatest pastry chef would do.</line>
@@ -1326,12 +1326,12 @@
 <line speaker="Larry">U-Uw-waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaah! Edgey! You! Can you read my mind!? In that case... there's no point in keeping any more secrets from you!</line>
 <line speaker="Edgeworth">...You just told me everything of your own accord. That was a complete waste of time, but, finally... It's checkmate.</line>
 <line speaker="Larry">I had my eyes fixed on the Gemini Sculpture...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You've mentioned the Gemini Sculpture many times now, but... I don't believe the sculpture you saw was the Gemini one.</line>
 <line speaker="Larry">Wh-What!? Was it a mirage then?</line>
 <line speaker="Edgeworth"><thought>Larry mistakenly thought he saw the Winter Palace.</thought> This piece of evidence shows what Larry really saw!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence shows what you really saw!</line>
 <line speaker="Larry">...Y'know, you really shouldn't put that much faith in your sense of aesthetics. If you'd like, I could teach you a thing or two about art.</line>
 <line speaker="Edgeworth">Ngh...! I-It's fine! <thought>So it's not this piece of evidence... Larry mistakenly thought he saw the Winter Palace. But what he saw was not the Gemini Sculpture from the Winter Palace! I must have evidence that proves that...!</thought></line>
@@ -1452,20 +1452,20 @@
 <line speaker="Courtney">...We cannot ignore the possibility. Well then, Mr. Artist. Please tell us the truth. Did you leave red paint at the crime scene? Or else... Did you cause the poison gas to go off?</line>
 <line speaker="Larry">The only thing I leave behind is my "bond of love" with you...</line>
 <line speaker="Courtney">...Please watch what you say. My gavel is already prepared to declare you guilty.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Please pay no heed to this man's statements.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Hey, hey, you guys! Ignoring my reasoning just because it's flawless won't do you any good. Mr. Edgeworth, if you've already admitted defeat, you should take your leave!</line>
 <line speaker="Edgeworth">Hmph. Even though I don't really have time to deal with your ridiculous reasoning...</line>
 <line speaker="Debeste">That artist was the "first" to discover the victim, so naturally he's the "best" suspect!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Indeed, at first glance this man seems suspicious, however...</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">At "first" glance...? Ugh... What's with that "first" all of a sudden! You! Are you trying to steal my spot as the star that shines "best"!?</line>
 <line speaker="Larry">Huh? Would that make me the "best" artist?</line>
 <line speaker="Edgeworth">...Larry! Don't make this any more confusing than it already is! Mr. Debeste, continue your reasoning, now!</line>
 <line speaker="Debeste">The poison gas was caused by Normallium, a chemical found in paint, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Yes. Apparently, Normallium is used in many everyday products.</line>
 <line speaker="Debeste">Right! So the red paint is definitely suspicious!</line>
 <line speaker="Kay">But, it's also used in things other than paint, right?</line>
@@ -1473,16 +1473,16 @@
 <line speaker="Courtney">That's right. Normallium is also used in detergent, for example.</line>
 <line speaker="Edgeworth">In other words... it might not have been paint that caused the gas.</line>
 <line speaker="Debeste">Th-That's not true! Let me finish my reasoning!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">As he was carrying paint near the victim, he would've had the "best" chance.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Even if paint is the cause of the poison gas, that does not mean he is guilty.</line>
 <line speaker="Debeste">Ha ha! Well then, if the paint is NOT the cause, that doesn't mean he's innocent either!</line>
 <line speaker="Kay">Now he's just trying to sound clever. Mimicking what Mr. Edgeworth says won't make you look cool at all!</line>
 <line speaker="Edgeworth">...Kay, please don't make my statements look bad.</line>
 <line speaker="Debeste">Now then! It's about time... to wrap up my shining logic!</line>
 <line speaker="Debeste">The paint, along with being the first witness! ...That pretty much proves he's the culprit!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you truly claim that Larry is the culprit based on just that?</line>
 <line speaker="Debeste">Huh? You got a problem with that? ...If you have a problem, then present evidence!</line>
 <line speaker="Kay">Mr. Edgeworth. It looks like he really wants you to do that.</line>
@@ -1520,8 +1520,8 @@
 <line speaker="Debeste">Come now, it's fine really. Let's hear what he's come up with.</line>
 <line speaker="Courtney">.......If you say so, Sebastian.</line>
 <line speaker="Debeste">Come on, show us! How did the poison gas start?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Can you see this piece of evidence? It has traces of the poison gas's origin!</line>
 <line speaker="Courtney">...Sebastian, don't get too close to Mr. Edgeworth. His foolish logic will make you dizzy... I find it poisonous, and even guilty.</line>
 <line speaker="Debeste">.....</line>
@@ -1536,8 +1536,8 @@
 <line speaker="Edgeworth"><thought>...I don't have time to play along with him.</thought> The red tears of Normallium... could not have triggered the poison gas by itself. That red liquid was mixed inside the case to create the poison gas.</line>
 <line speaker="Debeste">What!? Just where do you see evidence that the chemicals were mixed!?</line>
 <line speaker="Edgeworth">That can also be seen in this sketch. Here is the evidence! <thought>Show evidence that the two chemicals were mixed!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The proof... is right here!</line>
 <line speaker="Debeste">...It seems the truth has been made as clear as black and white. You really are just a bluffing fool!</line>
 <line speaker="Edgeworth">Ngh...! <thought>To be called that by Mr. Debeste of all people... As clear as black and white... it's not quite that simple. If you mixed white and red, naturally... their color should change.</thought></line>
@@ -1545,7 +1545,7 @@
 <line speaker="Debeste">H-Hold on a second! I still don't get it. How does this show that Normallium and Fatallium were mixed?</line>
 <line speaker="Edgeworth">Since we have a self-proclaimed artist here, I'll let him explain. Larry. You fancy yourself an artist, so you should know about mixing paint, right? ...What do you add to red to make pink?</line>
 <line speaker="Larry">Don't take me for a fool, Edgey! I'll have you know I graduated from middle school! You add white to red to make pink, it's common knowledge! Well, technically there's "rose pink", "baby pink" and several others...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That's enough. Now do you understand, Mr. Debeste?</line>
 <line speaker="Debeste">Ah! ...That's how it is! By mixing red Normallium with white Fatallium... ...you get a pink liquid!</line>
 <line speaker="Edgeworth">Yes, exactly. <thought>Took him long enough...</thought></line>
@@ -1570,7 +1570,7 @@
 <line speaker="Courtney">...Mr. Artist. Please get to the point.</line>
 <line speaker="Larry">I just remembered something I haven't had a chance to say yet! When I first got to this room, it was locked, so I couldn't go in. But then, that old dude just suddenly fell through the door!</line>
 <line speaker="Courtney">...It would appear that the palace rooms can be locked from the inside. But... just because you say it was so, doesn't mean the door was locked. Without proof, your statement holds no value.</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">Well, why not let Uncle Ray prove it for you.</line>
 <line speaker="Courtney">Wha...!</line>
 <line speaker="Ray">After all, we can confirm the room was locked too. Right, Miles?</line>
@@ -1579,7 +1579,7 @@
 <line speaker="Edgeworth">Until the gas outbreak, no one could have entered this room.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Perhaps the suspect entered the room with the victim during the gas outbreak?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">As you can see, this man did not inhale any of the gas. If you examine his belongings, you'll find he wasn't carrying a gas mask either.</line>
 <line speaker="Courtney">.....Is that so? Well then, I have no choice but to agree.</line>
 <line speaker="Edgeworth"><thought>...? That was easier than I expected.</thought> Anyway... I presume this clears up any suspicion surrounding Larry? ...It seems Mr. Debeste's logic was off once again.</line>
@@ -1658,8 +1658,8 @@
 <line speaker="Ray">...Well then, Miles. The person who opened the Pisces case and set off the gas... When you think about the circumstances, there's only one person it could have been.</line>
 <line speaker="Edgeworth">Yes... Considering the circumstances, it's clear who it was.</line>
 <line speaker="Courtney">So, please give me your answer. Who set off the poison gas?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The one who set off the gas is clearly... this person!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Clearly overruled.</line>
@@ -1692,8 +1692,8 @@
 <line speaker="Debeste">WHAT! How can you possibly know something I don't!</line>
 <line speaker="Edgeworth"><thought>I'd say the things he DOES know are in the minority...</thought></line>
 <line speaker="Debeste">Hey! Aren't you going to LET me know? How did Dane Gustavia open the glass case?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Mr. Gustavia used this to open the case.</line>
 <line speaker="Debeste">......? Uhh, Justine...</line>
 <line speaker="Courtney">Do not worry, Sebastian. I cannot understand it either. I'm certain that no one but Mr. Edgeworth is able to comperehend such logic.</line>
@@ -1743,7 +1743,7 @@
 <line speaker="Edgeworth">.....And its active ingredient Fatallium was one of the components of the poison gas.</line>
 <line speaker="Debeste">Exactly! That chemical is almost impossible for ordinary people to obtain! But, that pharmacist is another story altogether!</line>
 <line speaker="Delicia">I-It wasn't me! You've got it all wrong!</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">And that's not all! A bottle of Megatoxin X was found in the victim's pocket. And on the bottle... we found clear fingerprints, yours!</line>
 <line speaker="Delicia">E... EEEEEEEEEEP!</line>
 <line speaker="Debeste">You and the curator took the victim to the infirmary, right? That would have given you the perfect opportunity to plant the bottle on him!</line>
@@ -1776,8 +1776,8 @@
 <line speaker="Edgeworth">Predicting the actions of the victim would require a fair amount of advance planning... And there's only one person here capable of that.</line>
 <line speaker="Ray">Huh? Uncle Ray would like to know too. ...Who do you suspect?</line>
 <line speaker="Edgeworth">The one who stole the Megatoxin X and prepared the room in advance was...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">It was, this person... probably.</line>
 <line speaker="Ray">...Ahh. Hmmm, I see. Miles, you're feeling tired, aren't you? Instead of an alarm clock, let me tell you a funny story from when you were small. During your second year of grade school, you were as tired as you are right now...</line>
 <line speaker="Edgeworth">I-I'm awake! Please don't say any more!</line>
@@ -1827,37 +1827,37 @@
 <line speaker="Gregory"><thought>I don't think these pieces will fit together... Looks like I'll have to start over.</thought></line>
 <line speaker="Gregory"><thought>It seems these two pieces of information aren't connected... It seems I was a bit too hasty in jumping to conclusions.</thought></line>
 <line speaker="Gregory"><thought>Hmm... no good. That line of logic seems too unreasonable.</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">This piece of evidence holds the key to the truth!</line>
 <line speaker="Badd">...You know what this lollipop... and your reasoning have in common...?</line>
 <line speaker="Gregory">...What?</line>
 <line speaker="Badd">...They're both so sugary they make me sick!</line>
 <line speaker="Gregory"><thought>...In that case, why don't you stop licking that lollipop?</thought></line>
 <line speaker="Badd">I'd suggest... you try a more tangy line of logic...</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">This piece of evidence will make the contradiction clear!</line>
 <line speaker="Badd">......Rubbish!</line>
 <line speaker="Gregory"><thought>He shot that down with one stroke.</thought></line>
 <line speaker="Badd">I'd like to... hear sharper reasoning... than that...</line>
 <line speaker="Gregory">I understand. My next strike will settle this!</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">I believe your statement contradicts this piece of evidence.</line>
 <line speaker="Badd">..You know what detectives... and lollipops have in common?</line>
 <line speaker="Gregory">...What?</line>
 <line speaker="Badd">Chew them out for too long... and you'll lose your teeth! ...Next time you make a mistake, this lollipop might come flying at your head...</line>
 <line speaker="Gregory"><thought>I should watch out for cavities and any further mistakes in my reasoning...</thought> I would like one more chance.</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">What do you think of this piece of evidence, Prosecutor von Karma?</line>
 <line speaker="Gregory">I-I am a defense attorney...!</line>
 <line speaker="Gregory"><thought>Ngh...! He really looks down on me...!</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">Have a look at this piece of evidence!</line>
 <line speaker="Gregory">Uugh...!</line>
 <line speaker="Gregory"><thought>Ngh... He's laughing at me...!</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">That statement is strange. It contradicts this piece of evidence!</line>
 <line speaker="Gregory">Ngh...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Debeste. What do you think about this piece of evidence?</line>
 <line speaker="Debeste">Why are you asking for my opinion?</line>
 <line speaker="Edgeworth">Don't you see? This evidence contradicts your testimony!</line>
@@ -1866,8 +1866,8 @@
 <line speaker="Courtney">I don't believe this evidence has that kind of meaning.</line>
 <line speaker="Debeste">Eh! Is that right?</line>
 <line speaker="Edgeworth">Mmph... <thought>With Judge Courtney here...</thought></line>
-<line speaker="Courtney">Also, you don't need to yell ><cutIn>Objection!</cutIn>Edgeworth:</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Courtney">Also, you don't need to yell ><cutIn type="objection">Objection!</cutIn>Edgeworth:</line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Debeste. There is a contradiction in your statement!</line>
 <line speaker="Debeste">Eh! Is that true, Justine?</line>
 <line speaker="Courtney">It is not, Sebastian. It is Prosecutor Edgeworth's statement that is contradictory.</line>

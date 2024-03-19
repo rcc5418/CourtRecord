@@ -8,12 +8,12 @@
 <line speaker="Judge">Mr. von Karma, your opening statement.</line>
 <line speaker="Karma">... ...</line>
 <line speaker="Judge">Er... very well, no opening statement so...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Not so fast, Judge! I was taking a meaningful pause before speaking!</line>
 <line speaker="Judge">R-right, of course.</line>
 <line speaker="Karma">A prediction! Today's trial will end three minutes from now!</line>
 <line speaker="Judge">Order... order! Mr. von Karma! What is the meaning of your statement just now!?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Bah! Must you question everything! It will be over in three minutes! We have no time to waste! I'll call my witness now!</line>
 <line speaker="Judge">R-right...</line>
 <line speaker="Karma">I call my witness... my decisive witness to the stand!</line>
@@ -26,13 +26,13 @@
 <line speaker="Uncle">Er... ayup, yup I was.</line>
 <line speaker="Karma">Please testify.</line>
 <line speaker="Phoenix"><thought>Wait a second... We still haven't heard who this old guy is!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>On second thought, I guess it doesn't really matter.</thought></line>
 <line speaker="Maya">Doesn't matter!? What are you thinking, Nick!? What if that old man had something to do with the DL-6 Incident? If we don't find out who he is, we won't be able to build a case here!</line>
 <line speaker="Phoenix"><thought>Hmm, she has a point.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Wait a minute! The witness hasn't stated his name yet!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Because I did not ask him, Mr. Wright! Bah! I have predicted this trial will end in three minutes! Stop asking trivial questions and cooperate!</line>
 <line speaker="Phoenix"><thought>Yeah, right!</thought></line>
 <line speaker="Judge">The witness will state his name.</line>
@@ -45,7 +45,7 @@
 <line speaker="Judge">Very well. Let's hear his testimony then, shall we. Witness?</line>
 <line speaker="Uncle">It was the night of the 24th, just after midnight, ayup.</line>
 <line speaker="Judge">Hmm...Very well. I'd like to begin the cross-examination...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">There is nothing to question in my witness's testimony! Ergo, no need for cross-examination! Besides, there are only 10 seconds left before our three minutes are up! Judge! Your verdict, now!</line>
 <line speaker="Judge">Er... yes... M-Mr. Wright...?</line>
 <line speaker="Phoenix">What are you saying!? Of course I'll cross-examine the witness!</line>
@@ -58,19 +58,19 @@
 <line speaker="Karma">Three minutes just passed.</line>
 <line speaker="Judge">I see. Well then, let's just take our time. You may cross-examine the witness.</line>
 <line speaker="Uncle">It was the night of the 24th, just after midnight, ayup.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Just after midnight," you say?</line>
 <line speaker="Uncle">Ayup, just around then.</line>
 <line speaker="Phoenix">Are you sure?</line>
 <line speaker="Uncle">Pretty sure, ayup.</line>
 <line speaker="Phoenix">When I talked to you yesterday, you were rather vague about the time... I'm surprised you seem so sure about it today.</line>
 <line speaker="Uncle">...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">I asked him, and he remembered. Isn't that right!?</line>
 <line speaker="Uncle">Zzzz... D-don't glare at me like that...! I, er... I remembered it clearly, I did. Ayup.</line>
 <line speaker="Karma">You see? Continue!</line>
 <line speaker="Uncle">I was in the restaurant... where I er... rent boats, as usual.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Is there anyone who can verify that?</line>
 <line speaker="Uncle">... Well, I guess Polly could.</line>
 <line speaker="Phoenix">Th-that's not good enough for a court of law!</line>
@@ -79,29 +79,29 @@
 <line speaker="Judge">A... parrot?</line>
 <line speaker="Uncle">Don't be so hard on the girl, Keithy-boy!</line>
 <line speaker="Judge">Keith...?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">The prosecution concedes that we cannot prove the witness was in the shop. Witness... please continue.</line>
 <line speaker="Uncle">Then I heard a "bang!" Ayup.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And where did the "bang" seem to come from?</line>
 <line speaker="Uncle">From the lake, I figure.</line>
 <line speaker="Karma">Are you certain?</line>
 <line speaker="Uncle">A-ayup.</line>
 <line speaker="Karma">Good. Continue!</line>
 <line speaker="Uncle">When I looked out the window, I saw a boat just a' floating on the lake.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was there someone in the boat?</line>
 <line speaker="Uncle">It was pretty far out there... I couldn't see clearly... But I figure there was two men out there, ayup.</line>
 <line speaker="Phoenix">But you couldn't see them clearly!</line>
 <line speaker="Uncle">Ayup... at the time, that is.</line>
 <line speaker="Phoenix"><thought>At the time...?</thought></line>
 <line speaker="Uncle">Then I heard another "bang."</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you heard two gunshots total?</line>
 <line speaker="Uncle">Ayup.</line>
 <line speaker="Phoenix"><thought>That's what Lotta said in her testimony yesterday.</thought></line>
 <line speaker="Uncle">Just about then the boat comes back to the shore, and a man walks by my window.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"By your window"?</line>
 <line speaker="Uncle">Ayup, by my window. Right outside the window of my little shack.</line>
 <line speaker="Phoenix">And, could you see the man's face?</line>
@@ -112,7 +112,7 @@
 <line speaker="Phoenix"><thought>I have a bad feeling about this...</thought></line>
 <line speaker="Add statement">"That man was the defendant... he was saying "I can't believe he's dead.""</line>
 <line speaker="Uncle">That man was the defendant... he was saying "I can't believe he's dead."</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix"><thought>If I know von Karma, he spent time preparing his witness. I'm not going to find contradictions very easily in this testimony. Whew... it's tough being a lawyer.</thought></line>
 <line speaker="Phoenix">A-are you sure!?</line>
 <line speaker="Uncle">...</line>
@@ -125,9 +125,9 @@
 <line speaker="Karma">Tsk, tsk, tsk...</line>
 <line speaker="Maya">N-Nick...! I don't like the way things are going here! Everyone in the courtroom is glaring at us!</line>
 <line speaker="Phoenix"><thought>I'd better act quick, or this trial is going to be over!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! We proved in yesterday's court that it could not have been Edgeworth who fired the gun!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Mr. Wright. Are you referring to the fingerprints from Edgeworth's right hand found on the gun, and the photograph showing a man firing with his left hand...?</line>
 <line speaker="Phoenix">Exactly!</line>
 <line speaker="Karma">That is easily explainable! He could have wiped his prints after he fired! You are ignoring the truth of the matter here! Everything in this witness's testimony is true!</line>
@@ -135,9 +135,9 @@
 <line speaker="Karma">Judge! There is no room for doubt in the witness's testimony! I demand that you declare your verdict!</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Phoenix"><thought>The judge is lost in thought... what should I do?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! This witness claims that Edgeworth said "I can' t believe he's dead"... But his word is all we have! If he were telling a lie...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Mr. Wright. In a court of law, the evidence tells all. Apparently, you have yet to realize even this basic fact. If you say his testimony is a lie, show us proof!</line>
 <line speaker="Phoenix">Urk...</line>
 <line speaker="Maya">Nick! Do we have evidence...?</line>
@@ -162,7 +162,7 @@
 <line speaker="Judge">Remembered what?</line>
 <line speaker="Butz">The gunshot! I heard it too!</line>
 <line speaker="Judge">O-order!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">What is the meaning of this!? The verdict has been decided! I call for adjournment!</line>
 <line speaker="Judge">One moment, Mr. von Karma. So, you say you heard a gunshot?</line>
 <line speaker="Butz">Yeah, I did! A gunshot! That night! I was sitting here in the audience, listening to the testimony... Then I realized, something he said was different from what I remember! A-anyhow, I can't just sit here and let you call Edgey a murderer!  It's... It's just not right! I'll testify! Lemme testify!</line>
@@ -219,7 +219,7 @@
 <line speaker="Phoenix">It's Larry! I have no idea what he's going to say if I press him. I'm a little scared.</line>
 <line speaker="Maya">Hmm... Well, we've come this far. There's no way to go but forward, Nick!</line>
 <line speaker="Butz">That night, I was out in a boat on the lake.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">Something wrong, Mr. Wright?</line>
 <line speaker="Phoenix">There were so many things wrong I don't know where to begin...</line>
@@ -228,40 +228,40 @@
 <line speaker="Butz">Oh, it was after 11:00 when I went out in the boat. By that time everyone had gone home for the night. So I waited until the coast was clear, so to speak.</line>
 <line speaker="Phoenix">And why were you out on a boat at such a late hour...?</line>
 <line speaker="Butz">I was looking for something and I, er, found it.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Looking for something"...?</line>
 <line speaker="Butz">Er, yeah.</line>
 <line speaker="Judge">Mr. Butz, what was it you were looking for?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">What the witness was searching for is irrelevant! Most likely he was hunting for this "Gourdy"!</line>
 <line speaker="Phoenix"><thought>You know, it wouldn't surprise me one bit if that was the truth.</thought></line>
 <line speaker="Karma">This is all irrelevant! Let's get it over with.</line>
 <line speaker="Butz">So I quietly slipped the boat back in at the rental shop dock.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Around what time was that?</line>
 <line speaker="Butz">Uh... Well, let's see... I figured I was out searching for about an hour... I guess it was around 12:00. Yeah.</line>
 <line speaker="Judge">You're not sure?</line>
 <line speaker="Butz">Hey! Don't give me that face! I'm not some sort of human sundial, okay!?</line>
 <line speaker="Phoenix"><thought>People use watches these days, Larry...</thought></line>
 <line speaker="Butz">Then, just as I was thinking about going home, I heard this "bang"!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Where did the sound come from?</line>
 <line speaker="Butz">Yeah, well, I wasn't too sure about that. I looked around, y'know.</line>
 <line speaker="Judge">Did you look at the lake?</line>
 <line speaker="Butz">Yeah, I looked.</line>
 <line speaker="Butz">I looked out over the lake, but I didn't notice the boat.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Wasn't there a boat on the lake!?</line>
 <line speaker="Judge">Order! Order! Well? Mr. Butz!</line>
 <line speaker="Butz">Whoa, whoa. Everybody just calm down, okay? I mean, it was real foggy that night. I'm not sure whether there was a boat out there or not.</line>
 <line speaker="Phoenix"><thought>Oh, okay, no problem. That's just the MOST IMPORTANT PART of the case!!!</thought></line>
 <line speaker="Karma">Hmph!</line>
 <line speaker="Butz">So after I heard that single gunshot I went home.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, you only heard one "bang" correct?</line>
 <line speaker="Butz">Yeah.</line>
 <line speaker="Phoenix"><thought>Huh.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Well, Nick?</line>
 <line speaker="Phoenix">Hmm... It was a pretty wishy-washy testimony, wasn't it? I guess I should just start working on the contradictions.</line>
 <line speaker="Maya">Sorry...</line>
@@ -305,38 +305,38 @@
 <line speaker="Phoenix"><thought>I truly believe Larry has no idea what the problem is.</thought></line>
 <line speaker="Karma">Judge. Can you believe a word this witness says? What he heard was probably nothing more than a drum beat from the radio!</line>
 <line speaker="Judge">True enough, it is difficult to believe this testimony.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Wait, Your Honor! The witness said he remembers exactly what the DJ said when he heard the gunshot!</line>
 <line speaker="Judge">Excuse me? "Dee-jay"...?</line>
 <line speaker="Phoenix">An announcer... the guy who says things on the radio. Anyway! What this means is, when he heard the sound, no music was playing! The DJ only talks between songs! So he could have heard the gunshot from the lake! I'd like to cross-examine the witness, Your Honor!</line>
 <line speaker="Judge">V-very well, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>I can't believe I'm continuing this charade...</thought></line>
 <line speaker="Butz">It's lonely, being alone on Christmas Eve!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, you turned on the radio?</line>
 <line speaker="Butz">Right! I just wanted to hear someone's voice, y'know? You don't know what it's like out there, alone, on Christmas Eve! Alone!</line>
 <line speaker="Phoenix"><thought>I shouldn't have said anything...</thought></line>
 <line speaker="Butz">That's why I was listening to an all-requests show on the radio, see?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Do you by any chance remember the name of the program you were listening to?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">This has nothing to do with the case, Your Honor!</line>
 <line speaker="Judge">Objection sustained. The witness was listening to the radio. That is all we need to know. Tell us, Mr. Butz, how loud was your radio set to that night?</line>
 <line speaker="Butz">I was listening to it real booming loud, like.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Real "booming" loud?</line>
 <line speaker="Butz">Yeah, y'know.</line>
 <line speaker="Judge">And you had headphones on?</line>
 <line speaker="Butz">Yup.</line>
 <line speaker="Judge">I wouldn't think you could hear anything going on outside at all...</line>
 <line speaker="Butz">But I'm sure I heard that gunshot!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Can you prove that...? No... no, of course you can't.</line>
 <line speaker="Butz">Nah, I can't prove it. But I remember that moment real clear. I mean, while I was talking about it, it came back real clear to me, y'know?</line>
 <line speaker="Butz">I remember exactly what the DJ was saying when I heard it, too.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What did he say?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Mr. Wright! Please cease these pointless questions! What possible good could knowing what a radio DJ said do us!?</line>
 <line speaker="Judge">Indeed, Mr. von Karma has a point. I'll allow the question only if you see some reason why we should care...?</line>
 <line speaker="Phoenix"><thought>Hmm... right. I didn't really have a deep reason for asking that question, now that I think about it.</thought> Understood, Your Honor. I withdraw my question.</line>
@@ -348,11 +348,11 @@
 <line speaker="Judge">Fine, very well. Mr. Butz, please testify to the court. What was the radio announcer saying when you heard the gunshot?</line>
 <line speaker="Add statement">"Just when she said "Hey! It's almost Christmas!" I heard the gunshot!"</line>
 <line speaker="Butz">Just when she said "Hey! It's almost Christmas!" I heard the gunshot!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure?</line>
 <line speaker="Butz">Course I am! She had this real sexy voice...</line>
 <line speaker="Phoenix"><thought>Hmm... maybe von Karma was right. I'm not sure how that helped us at all.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Larry! Are you absolutely sure what you're saying is correct!?</line>
 <line speaker="Butz">Huh? What's with the face? You look scary, dude. Hey, if you're trying to scare me, you better know I don't scare that easy!</line>
 <line speaker="Judge">Is something the matter, Mr. Wright?</line>
@@ -362,7 +362,7 @@
 <line speaker="Judge">That would seem to be the case, yes...</line>
 <line speaker="Phoenix">But he should have heard that gunshot after midnight! This photograph is irrefutable proof of this fact!</line>
 <line speaker="Judge">Let's see what the time was on the photo taken when the gun triggered Ms. Hart's camera. &lt; 12/25 00:15 &gt;...! Fifteen minutes after midnight, on Christmas Day!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Larry! Are you absolutely sure what you're saying is correct!?</line>
 <line speaker="Butz">Huh? What's with the face? You look scary, dude. Hey, if you're trying to scare me, you better know I don't scare that easy!</line>
 <line speaker="Judge">Is something the matter, Mr. Wright?</line>
@@ -384,7 +384,7 @@
 <line speaker="Phoenix">...</line>
 <line speaker="Phoenix">Larry's not mistaken, Your Honor! He heard that gunshot before midnight!</line>
 <line speaker="Karma">... Intriguing. I'm assuming you have evidence for this wild claim? Show me evidence there was a gunshot before midnight!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Look at this photograph! This was taken by our witness yesterday, Ms. Lotta Hart, with her automatic camera. The timestamp on the photo reads "December 24, 11:50 PM."</line>
 <line speaker="Judge">Oh yeah? Hmm? But, there's nothing on the lake in this picture.</line>
 <line speaker="Phoenix">Your Honor. The real issue here is not why nothing is shown in the photograph. It is why this photograph exists at all!</line>
@@ -395,30 +395,30 @@
 <line speaker="Judge">Indeed, it would seem that is the case! Then... where does that leave us? Ms. Hart testified that she heard the gunshots after midnight. Are you claiming she was mistaken?</line>
 <line speaker="Phoenix">Not at all, Your Honor. It is a fact that the camera also triggered at 15 minutes after midnight! Your Honor! That night, there were two sets of gunshots, with a 25 minute pause between them!</line>
 <line speaker="Judge">Why would this be...?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Don't be fooled, Judge! That camera was set to respond to "loud noises"!</line>
 <line speaker="Judge">Yes?</line>
 <line speaker="Karma">There is no proof that the "loud noise" at 11:50 was a gunshot! Why, the witness could have sneezed, triggering the camera!</line>
 <line speaker="Butz">H-hey, my noise was clear that night, man! Clear!</line>
 <line speaker="Judge">Hmm... Well, Mr. Wright? There's no turning back now. Can you prove that the "loud noise" at 11:50 PM was indeed a gunshot? Please show the court evidence if you have any.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Mr. Wright... Is that a smirk I see?</line>
 <line speaker="Phoenix">Er, Your Honor... sorry, I wasn't really sure about the evidence.</line>
 <line speaker="Judge">Don't show us evidence you aren't confident in Mr. Wright! I'll ask you again.</line>
 <line speaker="Phoenix">This is my evidence.</line>
 <line speaker="Judge">The... murder weapon?</line>
 <line speaker="Phoenix">Something about this pistol was bothering me, Your Honor. Both of the witnesses who testified yesterday heard two gunshots. However, the murder weapon was fired three times. When, then, was the last shot fired? Only now have I realized the truth. That third shot was the shot Larry heard just before midnight!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is my evidence.</line>
 <line speaker="Judge">The... murder weapon?</line>
 <line speaker="Phoenix">Something about this pistol was bothering me, Your Honor. Both of the witnesses who testified yesterday heard two gunshots. However, the murder weapon was fired three times. When, then, was the last shot fired? Only now have I realized the truth. That third shot was the shot Larry heard just before midnight!</line>
 <line speaker="Judge">Order! Order! Hmm... I guess that would make sense out of yesterday's testimonies.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Bah! You waste our time again with your empty statements! Yes, the pistol was fired three times. But do you have any proof that it was fired before midnight!? Do you have proof that the witness didn't just "think" he heard something?</line>
 <line speaker="Judge">Indeed... Well, Mr. Wright? There's no turning back now. Do you have evidence that proves there was a gunshot before midnight? Do you have evidence that proves Mr. Butz wasn't just hearing things?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Mr. Wright... Is that a smirk I see?</line>
 <line speaker="Phoenix">Er, Your Honor... sorry, I wasn't really sure about the evidence.</line>
 <line speaker="Judge">Don't show us evidence you aren't confident in Mr. Wright! I'll ask you again.</line>
@@ -429,7 +429,7 @@
 <line speaker="Phoenix">Your Honor... This photograph was taken by an automatic camera. That camera was set to go off in response to loud noises!</line>
 <line speaker="Judge">Ahah!</line>
 <line speaker="Phoenix">Correct! There was a loud noise on the lake at 11:50 PM. That is why this photograph was taken! In other words... There was a gunshot at the time that Larry claims!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Karma">I have a favorite saying. I'd like to share it with the court. "Youth and stupidity go hand in hand." Get rid of both, and I'll allow you show me this rubbish you call "evidence"!!!</line>
 <line speaker="Phoenix"><thought>In other words, I picked the wrong evidence to show him...</thought></line>
 <line speaker="Karma">... I can tell from your face you haven't learned your lesson. Very well, try again. Show us your evidence!</line>
@@ -465,7 +465,7 @@
 <line speaker="Judge">...</line>
 <line speaker="Karma">... Mr. Wright. Are you quite mad? Explain who this is sitting on the boat!</line>
 <line speaker="Phoenix">It was the murderer and Robert Hammond!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">What are you saying!? That contradicts what you just told the court. You said that Robert Hammond had been killed 25 minutes before this gunshot!</line>
 <line speaker="Phoenix">Y-yes, that's right.</line>
 <line speaker="Judge">Also, might I mention... The defendant, Mr. Edgeworth, has admitted to being on that boat.</line>
@@ -474,7 +474,7 @@
 <line speaker="Phoenix"><thought>*sigh*</thought></line>
 <line speaker="Karma">Bah! I'll ask you again!</line>
 <line speaker="Phoenix">Miles Edgeworth and Robert Hammond!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Yes, I believe you are mad! That is exactly what I've been telling the court this whole time! You're agreeing with me! And yet, what did you just say? That Robert Hammond had been killed 25 minutes before the shot on the boat!?</line>
 <line speaker="Phoenix">Y-yes, that's what I said! I was just testing you, von Karma!</line>
 <line speaker="Judge">Mr. Wright! Your client has already been declared guilty once! I'm going to have to penalize you for this foolishness.</line>
@@ -497,7 +497,7 @@
 <line speaker="Phoenix">Um, yes.</line>
 <line speaker="Judge">You're saying that young lady dressed up like Robert Hammond and fooled Mr. Edgeworth?</line>
 <line speaker="Phoenix">Y-yes, well, she did look sort of manly.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">I am ashamed I actually listened to this utter nonsense. Listen! You came to this conclusion based on a piece of evidence. That is, this photograph taken at 11:50. If you didn't have this photograph, you never would have made this claim! Correct? And just who was it who went out of her way to give you that piece of evidence?</line>
 <line speaker="Phoenix">...! It was... Lotta Hart.</line>
 <line speaker="Karma">Why would the murderer go to all that trouble just to deliver you decisive evidence!</line>
@@ -516,8 +516,8 @@
 <line speaker="Phoenix">Why would he have to go all the way out on the lake just to shoot someone? May I suggest... That the real scene of the crime was not in a boat!</line>
 <line speaker="Judge">What!? W-well then, where did the murder take place!?</line>
 <line speaker="Phoenix"><thought>Show the judge where the murder really took place!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It was here!</line>
 <line speaker="Judge">... Where Ms. Hart, the photographer was camping?</line>
 <line speaker="Phoenix">Yes.</line>
@@ -526,14 +526,14 @@
 <line speaker="Judge">The caretaker made a mistake?</line>
 <line speaker="Phoenix">No, I did.</line>
 <line speaker="Judge">... Maybe you'd like to show us again?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Around here, maybe?</line>
 <line speaker="Judge">Around... where? You have some reason for thinking this?</line>
 <line speaker="Phoenix">Yes, well... Maybe because there's no good reason, the murderer knew we'd never expect it!</line>
 <line speaker="Judge">... Try again.</line>
 <line speaker="Phoenix"><thought>He wasn't even surprised I goofed up.</thought></line>
 <line speaker="Phoenix">Here, of course! The boat shop, where he lives. That way he could meet with the victim without anyone seeing!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Do you have proof that the boat shop was the scene of the crime!?</line>
 <line speaker="Phoenix">Recall Larry's testimony if you will. That night he was out on the lake in a boat, searching for something. He finds it, and returns the boat. Then, just as he's starting to head for home, he hears a gunshot! He heard a gunshot, Your Honor! Even though he was wearing headphones at the time! In other words, the gunshot was very, very close by! And where would that be if he had just returned a boat?</line>
 <line speaker="Judge">The boat shop...! Mr. Wright! What happened that night on Gourd Lake!? Please tell the court, from the beginning!</line>
@@ -555,7 +555,7 @@
 <line speaker="Phoenix">B-because the first shot missed?</line>
 <line speaker="Judge">Missed?</line>
 <line speaker="Phoenix">Yeah, he was aiming for Edgeworth, and he missed...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">What are you saying!? Did you not just tell us that he missed Edgeworth on purpose!?</line>
 <line speaker="Phoenix">Huh? Oh, uh, right. <thought>Uh oh... I'd better figure out just what it is I'm trying to prove here.</thought></line>
 <line speaker="Phoenix">I believe he shot twice to create a witness, Your Honor.</line>
@@ -608,25 +608,25 @@
 <line speaker="Edgeworth">... It's... a nightmare I've had. A memory of a crime... that I committed.</line>
 <line speaker="Phoenix">A crime you committed?</line>
 <line speaker="Edgeworth">A memory... of a murder.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow?</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh. I must be on the wrong track?</thought></line>

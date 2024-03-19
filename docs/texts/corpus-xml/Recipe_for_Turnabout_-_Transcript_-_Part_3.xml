@@ -288,12 +288,12 @@
 <line speaker="Maya">Hey! I thought you said you were going to help us out!</line>
 <line speaker="Gumshoe">I can't help you out if I don't have any info!</line>
 <line speaker="Phoenix">Yeah, I suppose the retrial has only just begun...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Alright, Detective Gumshoe, tell me the truth. What were you listening to?</line>
 <line speaker="Gumshoe">No way, pal. Now that you've made a big thing out of it, I'm not gonna tell you...</line>
 <line speaker="Phoenix">We'll see about that, pal. Considering all the noise you were making while you were listening... ...it's pretty clear what kind of radio program it was. I'd say it was related to...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Detective Gumshoe!?</line>
 <line speaker="Gumshoe">Yeah! That's it, pal! You got me. You sure are something!</line>
 <line speaker="Phoenix"><thought>Then how come I'm still seeing the lock? Guess I was wrong... Now, what was it he shouting when he was listening to the radio...?</thought></line>
@@ -463,7 +463,6 @@
 <line speaker="Armstrong">And if she 'adn't come to work for me, she wouldn't 'ave got into z'is mess.</line>
 <line speaker="Phoenix"><thought>Huh? I'm missing something here, aren't I?</thought></line>
 <line speaker="Armstrong">Je suis désolé, Maggey! Forgive me!</line>
-<line speaker="After presenting Glen Elg profile at Trés Bien - Kitchen">January 7</line>
 <line speaker="Maya">Wow! This place is so hi-tech! You can almost smell the electricity in the air!</line>
 <line speaker="Phoenix">It is a computer firm, Maya. They can't work without electricity, you know.</line>
 <line speaker="???">Who are you?</line>
@@ -736,7 +735,6 @@
 <line speaker="Phoenix">Y-Yeah! Sure!</line>
 <line speaker="???">I have my eye on you... Only so I can "take care of you".... Understand...?</line>
 <line speaker="Maya">Aah! I'm scared, Nick!</line>
-<line speaker="After examining CD player, ashtray, and hanging clothes">???:</line>
 <line speaker="Maya">Aaaaaaaah!</line>
 <line speaker="Phoenix"><thought>Come out from under the desk, Maya!</thought></line>
 <line speaker="The Tiger">Whad are youse two snoopin' around in my office for!?</line>
@@ -769,7 +767,7 @@
 <line speaker="The Tiger">No questions! Dis is de last time we meet!</line>
 <line speaker="Phoenix">Ack! Wait! P-Please!</line>
 <line speaker="Maya">...That was pretty weak, Nick. You waited until he was out of earshot before you shouted after him.</line>
-<line speaker="Phoenix"><thought>Like you're one to talk! I didn't hear you scream, "<cutIn>Hold it!</cutIn>" either!</thought></line>
+<line speaker="Phoenix"><thought>Like you're one to talk! I didn't hear you scream, "<cutIn type="holdIt">Hold it!</cutIn>" either!</thought></line>
 <line speaker="???">...The espresso...</line>
 <line speaker="Maya">Aaaaaaaah!</line>
 <line speaker="???">...And cookies...</line>
@@ -869,7 +867,7 @@
 <line speaker="Maya">S-Surely it's not that...</line>
 <line speaker="Kudo">I come from a long line of craftsmen. Right back to the time of the shoguns! Do you hear me!? I didn't become an embroiderer, I was BORN one!</line>
 <line speaker="Maya">Actually... I'm kind of in the same situation myself.</line>
-<line speaker="Kudo">I... I... I wanted to stick my fingers up that dribbling old judge's nose... ...and scream right down his earhole... "<cutIn>Objection!</cutIn>"</line>
+<line speaker="Kudo">I... I... I wanted to stick my fingers up that dribbling old judge's nose... ...and scream right down his earhole... "<cutIn type="objection">Objection!</cutIn>"</line>
 <line speaker="Maya">Oh... So, did you want to become a lawyer when you were young...?</line>
 <line speaker="Phoenix">I don't think that's quite it, Maya. I think he's just in a bad mood, that's all...</line>
 <line speaker="Kudo">I've got a tsunami of frustration inside and it's ready to burst out!</line>
@@ -935,14 +933,12 @@
 <line speaker="Phoenix">Excuse me...</line>
 <line speaker="Kudo">You let me get a million of my grumbles off my chest, and I'll take one quick look. I've got an earthquake of frustration inside and it's ready to rumble!</line>
 <line speaker="Phoenix">...On second thought, forget it. A million grumbles for one quick look doesn't sound like a good deal... for me.</line>
-<line speaker="After clearing "Embroiderer" and "The 'errand'" Talk option at Vitamin Square">January 7Trés BienKitchen</line>
 <line speaker="Maya">Looks like Mr. Armstrong's out again.</line>
 <line speaker="Phoenix">But the place is open for business... You can't have an open restaurant without a chef!</line>
 <line speaker="Maya">Hey! It's not my fault, Nick! Don't take it out on me!</line>
 <line speaker="Phoenix"><thought>Only a couple of minutes after the incident happened... Mr. Kudo left the scene, leaving Mr. Armstrong here alone.</thought></line>
 <line speaker="Maya">Argh... Missing when we need to talk to him the most.</line>
 <line speaker="Phoenix"><thought>Maybe he's trying to avoid us on purpose?</thought></line>
-<line speaker="After breaking Psyche-Lock, clearing "The radio" Talk option, and presenting Glen Elg profile at Trés Bien">January 7</line>
 <line speaker="Byrde">Oh, Mr. Wright!</line>
 <line speaker="Phoenix">Hello, Maggey. So they finished questioning you?</line>
 <line speaker="Byrde">Wasn't it just unbelievable in court today, sir!? I'm going to stay up all night and blog about everything that happened!</line>
@@ -1087,7 +1083,6 @@
 <line speaker="Phoenix"><thought>I'm not hearing this...</thought></line>
 <line speaker="Byrde">I know I used to be in the police force. But I'm incarcerated, now. I don't pick up much information in here. All I can help you out with now is the menu at Trés Bien.</line>
 <line speaker="Maya">Hey, come on, Maggey. Don't let your spirits fall!</line>
-<line speaker="After examining CD player, ashtray and hanging clothes at Tender Lender, and clearing "Victor's Testimony" Talk option and presenting Gumshoe's Lunchbox at Detention Center - Visitor's Room">January 7</line>
 <line speaker="Detective">The main server just went up in smoke! Why the heck isn't the press conference set up yet!? The Superintendent's here already!</line>
 <line speaker="Chief">Yeah. And there's a problem with the Internet, too.</line>
 <line speaker="Detective">I already told you to stop using your computer, Chief!</line>
@@ -1222,7 +1217,6 @@
 <line speaker="Maya">You're shaking, Detective.</line>
 <line speaker="Phoenix">Like a leaf...</line>
 <line speaker="Gumshoe">I'm just... you know... kinda on edge at the moment... If you know what I mean.</line>
-<line speaker="After clearing "MC Bomber" and "The Cadaverinis" Talk options">Gumshoe:</line>
 <line speaker="Phoenix">A-And that is...?</line>
 <line speaker="Gumshoe">You know, the lunchbox! How did everything go!?</line>
 <line speaker="Phoenix">L-Lunchbox?</line>
@@ -1246,24 +1240,24 @@
 <line speaker="Maya">But they don't allow presents for the prisoners in the detention centre, right...?</line>
 <line speaker="Gumshoe">Hey, you're right... ... Well it doesn't matter. I'm counting on you to get it to her somehow.</line>
 <line speaker="Phoenix"><thought>I'm a lawyer, not a delivery boy, Gumshoe...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">So, how about you tell me what kind of trouble Mr. Elg was in?</line>
 <line speaker="Basil">I'm sorry, sir, but we don't deal with trouble-shooting here. Perhaps you'd like to speak to someone in customer service?</line>
 <line speaker="Phoenix"><thought>What's she talking about!? I guess I'd better just take a shot and see where it gets me...</thought> Ms. Basil. Let me ask you something. Did Mr. Elg's troubles have something to do with this?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Basil">What is that?</line>
 <line speaker="Phoenix">A lottery ticket. There were hundreds of these on the victim's table at the scene of the crime.</line>
 <line speaker="Basil">And what is the relevance of that?</line>
 <line speaker="Phoenix">The victim, Mr. Glen Elg... ...had a gambling habit, didn't he?</line>
 <line speaker="Basil">I don't think that's a logical conclusion based on the facts. Everyone dreams of being rich. Even I listen to Millionaire Radio.</line>
 <line speaker="Phoenix"><thought>She's right. That is a bit weak on its own.</thought> But Mr. Elg's gambling wasn't restricted to the lottery, was it?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Basil">Everyone likes to gamble from time to time.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Basil">But be careful! If you're careless, you could lose everything -- your money, people's trust, etc.</line>
 <line speaker="Phoenix"><thought>Looks like I got that one wrong.</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Basil">What is that?</line>
 <line speaker="Phoenix">A bunch of horse racing tickets. All losing ones.</line>
 <line speaker="Basil">With that many tickets, you could get 1 dollar at the recycling center. You good people are very, very bad. Cashing in on others' misfortunes is immoral.</line>
@@ -1274,13 +1268,13 @@
 <line speaker="Phoenix"><thought>Yeah, but not everyone buys this many tickets!</thought></line>
 <line speaker="Basil">Anyway, I don't believe that proves anything on its own.</line>
 <line speaker="Phoenix">You're right. But I'm not through yet. Mr. Elg's gambling wasn't restricted to horse races, was it?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Basil">Everyone likes to gamble from time to time.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Basil">But be careful! If you're careless, you could lose everything -- your money, people's trust, etc.</line>
 <line speaker="Phoenix"><thought>Looks like I got that one wrong.</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well? What do you think!?</line>
 <line speaker="Basil">I'm not sure. Let's ask one of the programmers... Excuse me. Can you answer this man's query, please?</line>
 <line speaker="Programmer">The data queue that manages system tasks for trouble-shooting requires that the multi-tasking simulation for local variables be put into sleep mode so that data transmission on active nodes can be bundled correctly according to the source code. ...Obviously.</line>
@@ -1299,8 +1293,8 @@
 <line speaker="Phoenix">It's true that Mr. Elg won half a million dollars... in the end. But that was his first stroke of good luck. He was in deep trouble before that.</line>
 <line speaker="Basil">Deep trouble? What do you mean?</line>
 <line speaker="Phoenix">Mr. Elg's real problem was with someone or something more terrifying and ferocious!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Basil">All good people get into trouble sometimes.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Basil">Let's ask one of my programmers what they think... Excuse me? What do you think?</line>
@@ -1312,8 +1306,8 @@
 <line speaker="Phoenix">Y-Yeah. That's what I was thinking.</line>
 <line speaker="Basil">But I have never heard anything about this "Tiger" before. Maybe he's not even human. Maybe he really is a tiger!</line>
 <line speaker="Phoenix"><thought>I'm no programmer, but does she really expect me to buy such messed up logic?</thought> In that case, I think it's time to introduce you to The Tiger.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well? What do you think!?</line>
 <line speaker="Basil">I'm not sure. Let's ask one of the programmers... Excuse me. Can you answer this man's query, please?</line>
 <line speaker="Programmer">The data queue that manages system tasks for trouble-shooting requires that the multi-tasking simulation for local variables be put into sleep mode so that data transmission on active nodes can be bundled correctly according to the source code. ...Obviously.</line>
@@ -1334,8 +1328,8 @@
 <line speaker="Phoenix">Wh-What computer program is worth 100,000 dollars!?</line>
 <line speaker="Basil">... Perhaps you good people should leave so I can get back to my work.</line>
 <line speaker="Phoenix"><thought>I'm so close to cracking her!</thought> The program in question... Was it by any chance... this!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Basil">This is a very delicate matter. Without the necessary data, there's really no way I can access the information.</line>
 <line speaker="Phoenix"><thought>I know Mr. Elg created some sort of program! She can't deny it if I show her the program itself as evidence!</thought></line>
 <line speaker="Phoenix">Well? This is it, isn't it? This is the virus that's infecting computers world-wide as we speak... "MC Bomber"!</line>
@@ -1359,7 +1353,7 @@
 <line speaker="Maya">I thought I saw something suspicious under the corner of that rug!</line>
 <line speaker="Viola">One wrong move and... you might disappear forever... Hee... Hee... Hee...</line>
 <line speaker="Phoenix"><thought>This feels like Halloween... Only a whole lot more real... And a whole lot scarier, too.</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">You said that bandage around your head was from an operation?</line>
 <line speaker="Viola">...</line>
 <line speaker="Phoenix">You also said you suffered a "fatal injury" to the head, correct?</line>
@@ -1367,8 +1361,8 @@
 <line speaker="Phoenix">Now, by "fatal injury", you mean you were hurt very badly somehow, right?</line>
 <line speaker="Viola">... Hee... Hee...</line>
 <line speaker="Phoenix">Did the injury in question have something to do with this?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well!?</line>
 <line speaker="Viola">Donuts...?</line>
 <line speaker="Phoenix">Huh?</line>
@@ -1383,8 +1377,8 @@
 <line speaker="Phoenix">Y-Yes, it is.</line>
 <line speaker="Viola">I don't think... I ever introduced myself... Tell me... what do the "Cadaverinis"... have to do with me...?</line>
 <line speaker="Phoenix"><thought>Something tells me she's not about to say hi and introduce herself... Alright, then...</thought> Your relationship with the Cadaverinis is very strong... And this is why.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">So!? What do have to say for herself now!?</line>
 <line speaker="Viola">Pretzels... For you...</line>
 <line speaker="Phoenix">Huh?</line>
@@ -1399,8 +1393,8 @@
 <line speaker="Phoenix">Ran away?</line>
 <line speaker="Viola">If they'd stayed, I'd have... Hee... Hee... Hee...</line>
 <line speaker="Phoenix"><thought>Hmm, is it possible...? Could the person who committed the hit and run have been...?</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The person who caused the accident that gave you that injury was--</line>
 <line speaker="Viola">No more.. I don't want to... think about it anymore... Here... try one of these tomatoes... We all picked them together... as a family... And I added my own, special, flavoring...</line>
 <line speaker="Phoenix">N-No thanks! <thought>The person who caused the accident was riding a motorbike... Who could it be?</thought></line>
@@ -1408,8 +1402,8 @@
 <line speaker="Viola">... It wasn't Don Tigre! I refuse to believe it!</line>
 <line speaker="Viola">We collided... The motorbike, and my car... But Don Tigre isn't injured at all... is he?</line>
 <line speaker="Phoenix"><thought>It was The Tiger who caused Viola to crash. I can feel it! Plus, one of her locks just broke, so she must suspect it was him, too...</thought> I'm sorry, Ms. Cadaverini... But I have proof that The Tiger was involved in a traffic accident on his bike!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">And this is my proof!</line>
 <line speaker="Viola">Hard-boiled eggs...? Please, try one...</line>
 <line speaker="Phoenix">E-Eggs?</line>
@@ -1430,8 +1424,8 @@
 <line speaker="Phoenix">Really? But do you honestly believe that to be true?</line>
 <line speaker="Viola">...</line>
 <line speaker="Phoenix">Do you want to know what I think...? I think the reason he paid the operation wasn't because of you, but someone else... </line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I know this must be quite a shock for you, but...</line>
 <line speaker="Viola">Overcoat...?</line>
 <line speaker="Phoenix">S-Sorry?</line>
@@ -1471,7 +1465,6 @@
 <line speaker="Phoenix">We should get going. Right after we finish our espresso.</line>
 <line speaker="Maya">Yeah.</line>
 <line speaker="Phoenix"><thought>I wouldn't need to convince Viola of anything else, so I guess I can get rid of this.</thought></line>
-<line speaker="After clearing "Risky extra work" Talk option at Blue Screens, Inc. and clearing "Compensation" Talk option at Tender Lender">January 7</line>
 <line speaker="Armstrong">Eh, bonjour! I 'ave been waiting for you to return.</line>
 <line speaker="Maya">Mr. Armstrong...</line>
 <line speaker="Phoenix">Ah, good timing. I was hoping to find you here. We'd like to ask you a few questions...</line>

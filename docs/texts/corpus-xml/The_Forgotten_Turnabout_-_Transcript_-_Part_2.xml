@@ -565,7 +565,7 @@
 <line speaker="Edgeworth">The reason why we found a bloodstain in the costume trunk... ...is because the murderer hid the body in that box!</line>
 <line speaker="Ema">I wonder who won the bid for it. The trunk, I mean.</line>
 <line speaker="Edgeworth">That, I don't know... <thought>In a certain way, everything worked out exactly as someone wanted.</thought></line>
-<line speaker="Lotta"><cutIn>Hold it!</cutIn> <cutIn>Hold it!</cutIn> It couldn't have been in that dressin' box!</line>
+<line speaker="Lotta"><cutIn type="holdIt">Hold it!</cutIn> <cutIn type="holdIt">Hold it!</cutIn> It couldn't have been in that dressin' box!</line>
 <line speaker="Edgeworth">...What do you mean?</line>
 <line speaker="Lotta">When I first came down here, that box caught my eye too. It was just the right side and woulda made the perfect hidin' place! That's what I thought, anyway... But I couldn't get the dang thing to open. It'd been wrapped up real tight with a locked chain. The murder happened after that, so hidin' a body in there woulda been impossible, ya know?</line>
 <line speaker="Edgeworth">A chain wrapped around it? That's a bit strange... Right now, it doesn't seem to be locked up at all...</line>
@@ -625,19 +625,19 @@
 <line speaker="Franziska">...How repulsive. Well, Miles Edgeworth. Can you break my logic? If you truly have no intention of stopping here, prove it to me with evidence!</line>
 <line speaker="Edgeworth">...Very well. I'll show you, Franziska. The evidence that paves my path!</line>
 <line speaker="Franziska">The victim used her keycard and entered this room with the culprit.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Was there nothing suspicious about the security system?</line>
 <line speaker="Franziska">The meeting room's security is perfect, much like my logic. ...There is no room for doubt.</line>
 <line speaker="Edgeworth"><thought>Your logic isn't as perfect as you think...</thought> ...In any case, your opinion has not changed?</line>
 <line speaker="Franziska">Yes. The victim and the culprit entered the room together.</line>
 <line speaker="Franziska">Then, the culprit stabbed the victim in the chest with the candelabra, killing her.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Did the victim's wounds match up with the candelabra?</line>
 <line speaker="Franziska">The victim's chest was pierced in three places simultaneously by a sharp metal object. Is there anything else that could have done such a thing? That should all be written in Dr. Young's autopsy report.</line>
 <line speaker="Edgeworth">...So you're sure that the murder weapon was the candelabra?</line>
 <line speaker="Franziska">Exactly. As for who the culprit is...</line>
 <line speaker="Franziska">Shouldn't the letter make it obvious who the culprit is?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you have anything to confirm that the letter was actually sent by Kay?</line>
 <line speaker="Franziska">Are you proposing that it was forged by the real criminal? That possibility was dismissed some time ago. There were no traces of forgery on the letter. Of course, there were no other traces besides Kay Faraday and the victim found on the letter.</line>
 <line speaker="Edgeworth">...Are you saying you found Kay's fingerprints on the letter?</line>
@@ -645,17 +645,17 @@
 <line speaker="Ray">In other words... you can't really say that Kay is the culprit.</line>
 <line speaker="Franziska">Didn't I just say that the possibility of a forgery has been dismissed? That letter was originally sent by Kay Faraday. Therefore, it is only natural to assume that she is the culprit.</line>
 <line speaker="Franziska">Of course, the crime scene was right here in this room: the P.I.C. meeting room.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you have any proof that the crime took place in this room?</line>
 <line speaker="Franziska">"A Von Karma is perfect in every way." Perhaps you forgot that when you gave up your badge?</line>
 <line speaker="Franziska">The proof is the bloodstain we found here in the meeting room! That settles it, Miles Edgeworth.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Have we determined who the blood actually belongs to?</line>
 <line speaker="Franziska">The blood analysis confirmed that it belonged to the victim.</line>
 <line speaker="Edgeworth">Just because the bloodstain was found here, doesn't mean that this was the scene of the crime.</line>
 <line speaker="Franziska">You forget, Miles Edgeworth, that in court, evidence is everything. If you believe this room is not the crime scene, show me the evidence that proves it!</line>
 <line speaker="Edgeworth"><thought>Evidence that shows where the crime took place? We may not be in court, but... I'll show her the truth!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ema">Ms. von Karma isn't showing any openings!</line>
 <line speaker="Edgeworth">However, there is one fact we know that she does not.</line>
 <line speaker="Ema">They're not the only ones who can perform scientific investigations!</line>
@@ -737,17 +737,17 @@
 <line speaker="Ema">As expected of Mr. Edgeworth! I didn't noticed anything at all! Well then, please settle this with one blow!</line>
 <line speaker="Edgeworth">Yes, of course. Watch as I crush her logic!</line>
 <line speaker="Franziska">I will concede your argument. The murder occurred in the storeroom, correct?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You were surprisingly quick to concede.</line>
 <line speaker="Franziska">I simply cannot deny facts that are backed by evidence. ...That is all. You have proven that the murder occurred in the storeroom.</line>
 <line speaker="Franziska">That would mean the culprit is someone who participated in the auction.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The culprit participated in the auction... I'd like to hear your basis for this claim.</line>
 <line speaker="Franziska">When I spoke with the staff of this building, not a single one mentioned the storeroom. The storeroom's existence must have only been known to a select few.</line>
 <line speaker="Edgeworth">And that's where the items for the auction were being stored...</line>
 <line speaker="Franziska">I see you understand. Yes, the culprit participated in the auction.</line>
 <line speaker="Franziska">If that photographer is correct, the victim was the Conductor, and the culprit was a customer.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you're saying that the victim was the auction's Conductor?</line>
 <line speaker="Franziska">Right, and the culprit...</line>
 <line speaker="Lotta">Hey, ain't ya the one who told her that just a moment ago!?</line>
@@ -759,23 +759,23 @@
 <line speaker="Edgeworth"><thought>I can't tell whether they're on good or bad terms...</thought></line>
 <line speaker="Franziska">The issue here is the culprit's actions.</line>
 <line speaker="Franziska">The culprit waited for the victim in the storeroom, where the goods were delivered.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Ms. Hart was in the storeroom at the time. Could the culprit really have been waiting there?</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">I don't know where she was hiding, but... ...since you've seen it, you must know as well. There are numerous hiding places in that storeroom.</line>
 <line speaker="Edgeworth">So the culprit was hiding while they waited for the victim to arrive...</line>
 <line speaker="Franziska">I believe the crime occurred after the auction ended. After all, the victim was the organizer of the auction, the Conductor. During the auction, the organizer would have to be in front of the customers the entire time.</line>
 <line speaker="Edgeworth"><thought>After the auction ended...?</thought> Please add that statement to your testimony.</line>
 <line speaker="Adds statement">"I believe the crime occurred after the auction ended."</line>
 <line speaker="Franziska">I believe the crime occurred after the auction ended.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The victim was killed after the auction ended... Are you certain of that?</line>
 <line speaker="Franziska">The victim was the Conductor. That is the only possibility.</line>
 <line speaker="Ema">Without the Conductor, the auction couldn't have been held.</line>
 <line speaker="Edgeworth">The auction couldn't have been held...? <thought>Something seems odd in this testimony...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Then, they stabbed the victim in the chest with the candelabra in the storeroom.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The candelabra in the storeroom? How do you know that?</line>
 <line speaker="Franziska">If the murder weapon had been prepared in advance... ...the victim's chest would have been stabbed with something completely different. Based on the culprit's auctions, it's clear where the murder weapon came from.</line>
 <line speaker="Ema">There were signs suggesting that the candelabra was once placed in the storeroom, too.</line>
@@ -788,7 +788,7 @@
 <line speaker="Lotta">What're ya'll sayin'!? I'm a bona fide journa- OWWW!</line>
 <line speaker="Franziska">Cease your idle chatter!</line>
 <line speaker="Lotta">YEEEHAAAWW!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Franziska, calm down and listen. Ms. Hart witnessed a part of the murder. The main point here is that after witnessing the murder, she says the auction continued...</line>
 <line speaker="Lotta">That's right! Sure as can be! They all just kept goin' on shamelessly!</line>
 <line speaker="Edgeworth">Do you think the auction could have continued without someone conducting it? If the victim was not the Conductor, the person killed must have been... a customer!</line>
@@ -822,7 +822,7 @@
 <line speaker="Courtney">Ms. Faraday. You met a person in a red raincoat on the rooftop, did you not?</line>
 <line speaker="Kay">Yes. I did, but...</line>
 <line speaker="Courtney">The person in the red raincoat was the murder victim. And Kay Faraday came into contact with that person. Since one of the parties is now dead, what happened next should be clear...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Kay was attacked by that person! As the victim, it would be impossible for her to be the culprit!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">There is no evidence she was attacked, is there? Furthermore, we must consider the possibility that the victim fought back.</line>
@@ -836,7 +836,7 @@
 <line speaker="Gumshoe">Didn't you doubt it until just now, pal!?</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Congratulations, Ms. Faraday. Your courage will surely allow you to be forgiven. Now, let us rejoice in the blessings of the Goddess of Law!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Allow me to give my opinion as an international prosecutor! Her actions as a criminal are...</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Hurry! Arrest Kay Faraday at once!</line>
@@ -924,7 +924,7 @@
 <line speaker="Blaise">Hmm... Justice, huh? I wonder...</line>
 <line speaker="Edgeworth"><thought>This man, what is he planning? Why is he pushing things forward so forcefully...? It all seems too unnatural. Is there a hidden agenda? There's no time left! It's all or nothing now!</thought></line>
 <line speaker="Blaise">Well then, I must take my leave...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">No matter how you look at it, Kay's arrest was unnatural... There must be something behind it.</line>
 <line speaker="Blaise">Hey, hey. I'm a busy man, y'know. I'm kind of a big deal, y'see. I trust this won't take up too much of my time.</line>
 <line speaker="Edgeworth"><thought>In order to make it out of this situation, I must break through his defenses!</thought> There are plenty of things I want to ask, but my time is limited.  First, I'll ask about why he rushed the arrest. I have no intention of letting him push me around. I will overcome this difficult situation.</line>
@@ -1209,7 +1209,7 @@
 <line speaker="Blaise">Well then, Edgeworth. If you have any objections, let's hear them.</line>
 <line speaker="Edgeworth">.....I have no objections.</line>
 <line speaker="Blaise">I see, I see. It seems all the fight's gone out of you after your little overnight stay...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I have no objections to your claim that I investigated illegally. I admit to that. However! I object to the claim that Kay is the culprit!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">I will testify that Sebastian's investigation was fair and just.</line>
@@ -1238,7 +1238,7 @@
 <line speaker="Courtney">I see... I am relieved.</line>
 <line speaker="Edgeworth"><thought>...Relieved? What does she mean? Come to think of it... Her reason for questioning me yesterday remains a mystery. Just what is she thinking?</thought></line>
 <line speaker="Courtney">Ms. Crane went to the black market auction as a customer.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you're saying that a member of the P.I.C. was involved in illicit dealings?</line>
 <line speaker="Courtney">Regarding that... I... I have no response.</line>
 <line speaker="Blaise">He's right, y'know. After this hearing is over, we're going to have to clean up our act.</line>
@@ -1246,7 +1246,7 @@
 <line speaker="Blaise">Now, now. It is only natural, y'see. There's no need to flatter me, y'know? But, y'know, that has nothing to do with you at all, Edgeworth. Because by then, you won't even be a prosecutor anymore, y'see? Well, now that this tearful business has been cleared up...</line>
 <line speaker="Courtney">Yes, sir. I will continue.</line>
 <line speaker="Courtney">The red raincoat was one of the items up for auction...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, the red raincoat was also up for auction?</line>
 <line speaker="Courtney">Yes. It had belonged to Shelly de Killer.</line>
 <line speaker="Blaise">Based on the circumstances, we must consider that it was an item up for auction, y'see?</line>
@@ -1255,29 +1255,29 @@
 <line speaker="Edgeworth"><thought>It seems the results of this deliberation have already been decided.</thought> ...Enough about me. Please continue your testimony.</line>
 <line speaker="Courtney">Since the raincoat had been up for auction...</line>
 <line speaker="Courtney">We believe that she left her seat after winning the bid for it.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why would the victim immediately leave her seat?</line>
 <line speaker="Courtney">That had to do with how the auction was conducted. It seems that after the winning bid, the winner was required to pay for the item immediately.</line>
 <line speaker="Edgeworth"><thought>That matches up with Ms. Hart's testimony.</thought></line>
 <line speaker="Courtney">We believe that Ms. Crane paid her bid for the raincoat... ...and then immediately tried to leave the auction.</line>
 <line speaker="Courtney">The only exit from the storeroom is the hatch that leads to the viewing platform.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The victim was a P.I.C. member. Couldn't she have also just left from the meeting room?</line>
 <line speaker="Courtney">If she had done so during the auction... ...then its existence would have been revealed to the public.</line>
 <line speaker="Edgeworth"><thought>Since Ms. Hart knew about it, it seems the cat is already out of the bag...</thought></line>
 <line speaker="Courtney">The customers were required to enter and exit from the hatch. Ms. Crane was simply following protocol... Considering where the murder took place, she must have tried to leave through there.</line>
 <line speaker="Courtney">Ms. Crane went out to the viewing platform, where she was attacked by Kay Faraday.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why would Kay do such a thing?</line>
 <line speaker="Courtney">We intend to question her about that later.</line>
 <line speaker="Edgeworth">"Later?" That seems to be your favorite time for interrogations.</line>
 <line speaker="Courtney">If the culprit was aware that the customers were required to exit from the hatch... ...it would have been easy to lie in wait for an ambush. Ms. Crane was attacked when she was leaving the hatch...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Courtney">That was how she met her end. And that concludes my summary of the case.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"Met her end", what do you mean by that?</line>
 <line speaker="Courtney">She passed away... or to be more precise, she was murdered.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The candelabra was one of the items in the auction. Therefore, Kay should not have been able to get her hands on it.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">If she was able to lie in wait for the attack, then she must have known about the storeroom. If she sneaked into the storeroom during the auction, she could have obtained it.</line>
@@ -1312,21 +1312,21 @@
 <line speaker="Courtney">Prosecutor Edgeworth, I cannot understand your argument if you do not say it out loud. If you had simply asked, I would have been more than willing to explain.</line>
 <line speaker="Edgeworth">...Explain what?</line>
 <line speaker="Courtney">The sounds Ms. Hart heard may not necessarily be related to the case.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That is impossible! Enough of your excuses!</line>
 <line speaker="Courtney">Was the voice that Ms. Hart heard really that of Ms. Crane?</line>
 <line speaker="Lotta">Such a shady conversation must've had somethin' to do with the case!</line>
 <line speaker="Courtney">What did her voice sound like?</line>
 <line speaker="Lotta">H-Her voice? Well... it beats me. How was I suppos'd to know!? They were both usin' voice changers.</line>
 <line speaker="Courtney">Yes. The voices Ms. Hart heard had been altered by a device. We must therefore question whether or not they have any bearing on this case.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">......Hmph.</line>
 <line speaker="Courtney">You need not object just because you wish to sigh.</line>
 <line speaker="Edgeworth">Judge Courtney, it seems I have greatly overestimated you.</line>
 <line speaker="Blaise">No, no. Courtney is quite amazing, y'see.</line>
 <line speaker="Edgeworth">You claim that the sounds Ms. Hart heard no bearing on this case? Even if they do not, it doesn't change the fact that the crime took place in the storeroom. At the very least, the crime must have occurred before the victim went up to the rooftop. The reason being... This evidence proves the crime occurred before the victim went up to the viewing platform!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Judge Courtney. Could you take a look at this area?</line>
 <line speaker="Courtney">Prosecutor Edgeworth. What area are you referring to?</line>
 <line speaker="Edgeworth">Umm... Around here somewhere?</line>
@@ -1379,14 +1379,14 @@
 <line speaker="Blaise">That's enough, y'know. You're embarrassing your father, y'see.</line>
 <line speaker="Debeste">Huh!? What do you mean, pops!?</line>
 <line speaker="Courtney">When the body was found, there were three wounds in Ms. Crane's chest.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Three wounds... That sounds rather painful.</line>
 <line speaker="Courtney">Indeed... We must punish the culprit accordingly.</line>
 <line speaker="Kay">I-I...</line>
 <line speaker="Edgeworth">...Kay. Do not listen to what she says. Judge Courtney. Please continue your reasoning.</line>
 <line speaker="Courtney">Very well. She had three wounds...</line>
 <line speaker="Courtney">I'm sure you're well aware what kind of wounds these were, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why don't you ask Sebastian instead?</line>
 <line speaker="Courtney">Of course, Sebastian knows all about it.</line>
 <line speaker="Debeste">Huh? Me? Yeah! I know everything!</line>
@@ -1395,7 +1395,7 @@
 <line speaker="Debeste">Ummm..... Let's see here... The fatal wound was caused by the candelabra. Oooh! So that's how it was!</line>
 <line speaker="Courtney">...Ahem! The cause of the wound was just as Sebastian said.</line>
 <line speaker="Courtney">Yes, she was stabbed in the heart with the three-pronged candelabra.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the cause of death was a stab wound to the heart... Is that correct?</line>
 <line speaker="Courtney">Yes, the candelabra pierced right into her heart. Since this was Dr. Young's medical opinion, it must be truth.</line>
 <line speaker="Debeste">The coroner's medical opinion follows my own opinion. Therefore... it's perfect.</line>
@@ -1404,9 +1404,9 @@
 <line speaker="Edgeworth"><thought>However, if the cause of death was a stab wound to the victim's chest... ...wouldn't it contradict that piece of evidence...?</thought></line>
 <line speaker="Debeste">Oooh... He's totally ignoring me! Justine! Say something!</line>
 <line speaker="Courtney">Yes. I will not allow you to ignore my reasoning.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Courtney">Is there any person who could survive such an injury?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">At the very least... we cannot be certain that she died instantly.</line>
 <line speaker="Courtney">Even if she still had a little bit of life left, I doubt she would have held on for long.</line>
 <line speaker="Kay">Umm, can people survive after being stabbed in the chest?</line>
@@ -1414,7 +1414,7 @@
 <line speaker="Kay">Huh... So in the end, which one is it?</line>
 <line speaker="Courtney">...No such human exists. If you think they do, then first...</line>
 <line speaker="Courtney">Please take a close look at the autopsy report. Can you still say the same thing after reading it?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">According to the autopsy report, the stab wounds to the left chest caused the fatality.</line>
 <line speaker="Courtney">Correct. The autopsy report itself is the foundation for my reasoning.</line>
 <line speaker="Edgeworth">In other words... I just have to shatter that foundation, right?</line>
@@ -1435,8 +1435,8 @@
 <line speaker="Edgeworth">With this, a contradiction is born. One that overturns all of our assumptions up until now...</line>
 <line speaker="Courtney">Is the change really that great? I look forward to hearing it. Well then, this contradiction, why don't you show it to me? With evidence!</line>
 <line speaker="Edgeworth">Which piece of evidence shows the contradiction that arises from the order of the wounds?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence shows the huge contradiction.</line>
 <line speaker="Courtney">I have absolutely no idea what you are trying to say.</line>
 <line speaker="Kay">I'm sorry, me too...</line>
@@ -1495,25 +1495,25 @@
 <line speaker="Kay">But...</line>
 <line speaker="Edgeworth"><thought>My opponent is the P.I.C. Chairman. Taking him down won't be easy. However... ...he has underestimated me. If I can take advantage of that...!</thought></line>
 <line speaker="Blaise">You've been rambling on for quite a while about the most trivial details, y'know?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If these trivial details create contradictions in the case, we cannot call it the truth.</line>
 <line speaker="Blaise">It's fine, as long as the rest of the case makes sense, y'know. Every case is going to have a small contradiction or two, y'see. But, if we get bogged down by the details, we won't be able to arrest the criminal. Trials would go on forever, y'see. You, of all people, should understand, y'know.</line>
 <line speaker="Edgeworth">I don't, that's why I'm asking you.</line>
 <line speaker="Blaise">Ah, young folks these days. Anyways, you were rambling on about stuff...</line>
 <line speaker="Blaise">Like the location of the murder, the order of the wounds and... Hrmm, what else was there?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The autopsy report, and the questions about the Conductor. ...Were you even listening?</line>
 <line speaker="Blaise">Talk is cheap, y'know. I was listening, y'see. But I didn't think much of it, y'know.</line>
 <line speaker="Edgeworth">You didn't think much of it, even after I brought up all those issues...? Perhaps your judgement needs to be questioned, rather than my ability as a prosecutor.</line>
 <line speaker="Blaise">Ah ha ha. That's a good one, Edgeworth. But y'see...</line>
 <line speaker="Blaise">It just doesn't matter, y'know. 'Cause y'see, none of that means anything, y'know.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How can you say it doesn't matter!? Are you trying to suppress the truth!?</line>
 <line speaker="Blaise">Well, y'see. It simply doesn't matter as much as you say it does, y'know. Y'see, Edgeworth. You're only saying it matters to avoid the real issue here.</line>
 <line speaker="Blaise">Think about it. We've got the suspect herself saying she killed the victim.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Blaise">That's all that matters, y'see. She'll even get a lighter sentence with her confession, y'know.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I wouldn't call that a confession. You probably forced her to say it, didn't you?</line>
 <line speaker="Blaise">Even if you say that, y'know. What do you think, Courtney?</line>
 <line speaker="Courtney">Yes, sir. There is no doubt, she confessed to her own sin.</line>
@@ -1522,7 +1522,7 @@
 <line speaker="Blaise">Oh my, what scary eyes you have. Please don't devour me. Ah ha ha ha...</line>
 <line speaker="Edgeworth"><thought>There is no way there is a contradiction in a testimony like this. He has underestimated me. If I can take advantage of that...!</thought></line>
 <line speaker="Edgeworth">It may be true she confessed, however, that does not make it the truth! She is suffering from memory loss. So we must question the credibility of her testimony.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Even if you say that, y'know, it still won't solve anything. What good will it do to deny her confession? Sounds like nonsense to me. Wanna try asking her again? I think she'll just say that she's the murderer again, though.</line>
 <line speaker="Edgeworth">...Very well. Let's try asking her again, one last time. I'd like to hear from Kay herself. Whether or not she is the culprit.</line>
 <line speaker="Kay">Huh...? From... me?</line>
@@ -1538,8 +1538,8 @@
 <line speaker="Edgeworth">I know what I'm asking of you is unreasonable, but please, I want you to answer me. It doesn't matter how tiny it is. Do you... Do you remember anything? Anything that would prove your innocence...!</line>
 <line speaker="Kay">...Why? Why would you go that far, for me...? I... I can't do it. .....I'm sorry. .....I'm too scared to remember. Because... I might have done something even worse. If that were the case... ...I would only make things worse for you, Mr. Edgeworth. Kay Faraday must have been a despicable criminal... Someone who betrayed your trust...!</line>
 <line speaker="Edgeworth">.....Don't worry. We've only known each other for a short while... but I know you very well. I'd even say that I know you better than yourself, now that you've lost your memories. You cannot possibly be the culprit. Because, your true identity is...!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Kay. I would like you to look at this. This is your true identity!</line>
 <line speaker="Kay">...I'm sorry, I don't remember anything...</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>So this wasn't related at all...</thought></line>
@@ -1547,7 +1547,7 @@
 <line speaker="Edgeworth">...Kay. Don't worry!</line>
 <line speaker="Edgeworth">...the Great Thief Yatagarasu. The Yatagarasu is a noble thief who would never stoop to murder.</line>
 <line speaker="Kay">...! .........................No. It's useless. After all...! No matter what, that memory still remains... This image that's stuck in my head... I just can't get rid of it! That means, I must have...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">There's no clear evidence to prove that you're the culprit, besides your own confession. Remember what I said? You must believe in yourself. Or perhaps... you cannot trust my words?</line>
 <line speaker="Kay">.....No. That's not it. It's because, you are... trying to save someone like me. You've already lost so much... All for my sake... I can't bear it anymore... Please... Please just give up.</line>
 <line speaker="Edgeworth">I see now..... I thought it was strange. The reason you were acting like you wanted to be found guilty... ...was because you were concerned about me... That is just like you, Kay.</line>
@@ -1571,11 +1571,11 @@
 <line speaker="Courtney">Is that true, Defendant!?</line>
 <line speaker="Kay">Yes, your Honor!</line>
 <line speaker="Courtney">The Court hereby accepts the defendant's statement as a new piece of testimony.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Quit messing around, Courtney. A testimony like that cannot be accepted, y'know.</line>
 <line speaker="Courtney">Your objection has been noted, sir. However, testimony about the victim's belongings...</line>
 <line speaker="Edgeworth">...has been lacking up until now.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Nevertheless, y'know. Her vague memories cannot be trusted, y'know?</line>
 <line speaker="Courtney">Her memories are vague? That would be bad for us as well. Didn't you say this earlier yourself, Mr. Chairman? Since we have the suspect's confession, we don't need to worry about the trivial details. If we decide to doubt her memories... ...then we must also doubt her confession, which is the main foundation of our case. Are you willing to do that, sir?</line>
 <line speaker="Blaise">.....Aah. You're right. Well, never mind then. I shall leave it to you.</line>
@@ -1611,16 +1611,16 @@
 <line speaker="Lotta">That's hogwash! I'm tellin' ya, that right there was the conversation that I heard! The victim was holdin' on to it, right? I reckon it must've been recorded when she got attacked!</line>
 <line speaker="Courtney">That certainly is a possibility... However, your testimony alone is insufficient. I require something with a little more credibility.</line>
 <line speaker="Edgeworth"><thought>Again. Her words... It almost sounds as if she's trying to give me advice...</thought> Judge Courtney. There's no mistake that those voices were from the incident. Please recall the audio that was recorded by the stuffed animal. "I knew who you were right away. You can't hide that burn from me." If we compare this part of the recording with a certain piece of evidence... we can prove it. <thought>This evidence shows that the recording took place during the moment of the crime...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Judge Courtney. What do you think of this piece of evidence?</line>
 <line speaker="Courtney">Presenting something that has nothing to do with the recording will not do you any good.</line>
 <line speaker="Edgeworth">Uugh! <thought>I could've sworn it was this...</thought></line>
 <line speaker="Courtney">Prosecutor Edgeworth. Is there really evidence to prove that the voices were recorded during the incident?</line>
 <line speaker="Courtney">The autopsy report? And exactly what part of the autopsy report shows that?</line>
 <line speaker="Edgeworth"><thought>This part shows that the recording took place during the moment of the crime...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">If you look at this part of the autopsy report, I think you will understand...</line>
 <line speaker="Courtney">Specifically which part are you referring to?</line>
 <line speaker="Edgeworth">Umm. Around here?</line>
@@ -1663,8 +1663,8 @@
 <line speaker="Edgeworth">Certain traces left at the crime scene led me to believe that the culprit is the Conductor.</line>
 <line speaker="Courtney">Well then, please show it to us.</line>
 <line speaker="Edgeworth">What were the traces left at the crime scene that let me deduce the culprit is the Conductor?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the piece of evidence that shows the culprit is the Conductor.</line>
 <line speaker="Debeste">Umm, I don't quite understand.</line>
 <line speaker="Edgeworth">Hmph. Even if you don't understand, everyone else certainly does.</line>
@@ -1679,13 +1679,13 @@
 <line speaker="Edgeworth">The auction hall is at the P.I.C. meeting room, and furthermore, there is a storeroom above it. The Conductor must have been, at the very least, a member of the P.I.C.!</line>
 <line speaker="Blaise">So..... ...in other words, you suspect me, I take it?</line>
 <line speaker="Edgeworth">Isn't it natural to suspect you, the one with the most authority in the P.I.C.?</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">...You are quite capable. I'll give you that much, at least. But y'know, like I said before, you're far too naïve. .....You have nothing, y'know? There's no evidence that proves I am the culprit, y'see. If, by some chance, you do have evidence, then why don't you present it?</line>
 <line speaker="Edgeworth">...Urk...! Do I have evidence that Blaise is the culprit...?</line>
 <line speaker="Edgeworth">No. There is evidence. Evidence that you are the culprit.</line>
 <line speaker="Blaise">Oooh. Then, why don't you show it to me? This so-called evidence.</line>
 <line speaker="Edgeworth">Blaise Debeste. This piece of evidence proves that you are the culprit!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Could you take a look at this piece of evidence?</line>
 <line speaker="Blaise">Edgeworth. And what about it?</line>
 <line speaker="Edgeworth">Blaise Debeste, don't you understand? The meaning of this piece of evidence.</line>
@@ -1698,7 +1698,7 @@
 <line speaker="Debeste">...Bwuh? You also lost your memories?</line>
 <line speaker="Lotta">Naw, that ain't it. Somethin' just popped into my head right now!</line>
 <line speaker="Courtney">Very well. Please tell us.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Courtney. Could you tell me what you are doing?</line>
 <line speaker="Courtney">Prosecutor Edgeworth will not give up until we have destroyed every last possibility. I'm destroying every possibility. So that he will never oppose us again.</line>
 <line speaker="Blaise">........</line>
@@ -1733,7 +1733,7 @@
 <line speaker="Blaise">Did you get the answer you wanted this time? Well then, a deal's a deal...</line>
 <line speaker="Courtney">Please wait, Mr. Chairman. I believe it is still too early to make a judgment. There are still... a few mysteries left in this case. Until we have solved them all, we cannot call this a complete victory.</line>
 <line speaker="Edgeworth">......?</line>
-<line speaker="Courtney">Isn't that right, Prosecutor Edgeworth? I was expecting you to shout... ..."<cutIn>Hold it!</cutIn>" ...like you always do.</line>
+<line speaker="Courtney">Isn't that right, Prosecutor Edgeworth? I was expecting you to shout... ..."<cutIn type="holdIt">Hold it!</cutIn>" ...like you always do.</line>
 <line speaker="Edgeworth">Y-Yes. Of course. <thought>Once again... Judge Courtney has come to my aid...</thought></line>
 <line speaker="Blaise">Well then, what is it? What sort of mysteries are left?</line>
 <line speaker="Courtney">Well, of course, there's the contradiction in the autopsy report.</line>
@@ -1768,46 +1768,46 @@
 <line speaker="Blaise">Yes, yes! That's right, y'know. There's no way she would falsify it, y'see.</line>
 <line speaker="Courtney">...Under the name of the Goddess of Law, do you swear that this testimony is the truth?</line>
 <line speaker="Karin">Of course! Granny would never tell a lie...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">We were asking Dr. Young. We do not need to hear from a third party.</line>
 <line speaker="Karin">I-I'm not a third party! I'm on Granny's side! "If you raise an objection to my testimony, you'd best prepare yourself... you ex-prosecutor!"</line>
 <line speaker="Edgeworth"><thought>I will definitely expose the contradiction in the autopsy report!</thought></line>
 <line speaker="Karin">There are no mistakes in Granny's autopsy reports!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you're saying there is no way Dr. Young could have made a mistake?</line>
 <line speaker="Karin">Of course! Doctors can't afford to make mistakes. This is a world where just one misdiagnosis can end a long career. I know that my Granny, at least, would never... "If I did something like that, you think they'd still let me run a hospital?"</line>
 <line speaker="Karin">"I've been working with corpses longer than you've been alive."</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So in your long career, you've never once made a mistake?</line>
 <line speaker="Karin">"A doctor's only as good as the length of their track record."</line>
 <line speaker="Edgeworth">Heh. If we're just talking about a lengthy track record, that former Chief Prosecutor has one too. And yet, his actual abilities don't seem to measure up. I hope that you're not the same as well.</line>
 <line speaker="Blaise">Ouch... That's a low blow, y'know. But y'know, Edgeworth. I don't make mistakes either, y'see. 'Cuase y'see, before I can make a mistake, those around me will have already made it instead. Y'see, I don't have time for mistakes. It's quite amazing, y'know. It must be karma.</line>
 <line speaker="Karin">"You can't compare a Chief Prosecutor with a doctor. You really can't..."</line>
 <line speaker="Karin">"There's no way I'd make a mistake in writing the autopsy report" ...Ouch!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The victim wore this raincoat after suffering a blow to the head. And yet, there was not a single drop of blood on the front of the raincoat. Therefore, it is impossible for the head wound to have been "postmortem!</line>
 <line speaker="Karin">Errm. Well, that's... Ouch! "I don't need you to tell me that! That's what I wrote down from the very beginning!"</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The autopsy report says, "the head wound was postmortem." That's completely different!</line>
 <line speaker="Karin">Err... Y-Yeah. "I relayed to Karin what to put down in the autopsy report. After that, it was none of my beeswax!"</line>
 <line speaker="Edgeworth">...Relayed to Karin? Please elaborate on that.</line>
 <line speaker="Change this statement to">""I relayed everything to Karin. After that, it was none of my beeswax!""</line>
 <line speaker="Karin">"I relayed everything to Karin. After that, it was none of my beeswax!"</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I would like to verify once again what you saw when you examined the body.</line>
 <line speaker="Karin">Errrm, like we said... Ouch! Oooh... Well, about that... "She was done in by a thump to her noggin."</line>
 <line speaker="Courtney">Dr. Young, do you know when that happened?</line>
 <line speaker="Karin">"Before she died, of course. The wounds on her chest were postmortem. That's what I related to Karin, so that's what should've been written in the report!"</line>
 <line speaker="Edgeworth"><thought>That's what you "relayed" to her... eh? I'm finally beginning to see the truth.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karin">"I got nothing to gain from falsifying the autopsy report."</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You may have nothing to gain, but how about your granddaughter?</line>
 <line speaker="Karin">Me? Th-There isn't anything I could gain! "If Karin had something to gain, then that girl of yours might have something too. How dare you accuse my little girl, who has never done harm to anybody..." Yeah! Aren't you ashamed of yourself!?</line>
 <line speaker="Edgeworth"><thought>She should address those words to Blaise, instead of me.</thought></line>
 <line speaker="Karin">"I swear that the autopsy report wasn't falsified."</line>
 <line speaker="Karin">...Is what she says. See? There's nothing strange at all!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Did you notice anything strange when you were performing the autopsy?</line>
 <line speaker="Karin">I wonder..... Huh? What is it, Granny? "A strange man came by."</line>
 <line speaker="Edgeworth">Who are you calling strange!?</line>
@@ -1839,7 +1839,7 @@
 <line speaker="Karin">I, I... can't say! I just can't say it...!</line>
 <line speaker="Edgeworth"><thought>Not "I don't want to say", but "I can't say"...?</thought></line>
 <line speaker="Blaise">You're all a bunch of bullies, y'know. Ganging up on this poor girl who loves her grandmother so... She is totally unrelated to this. I think we can forgive her for one tiny mistake.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...That won't do. Aren't you the one with the most to lose if she testifies?</line>
 <line speaker="Blaise">Hmm? What are you saying? Y'see, as a "former" prosecutor, you'll have to speak a little more clearly, y'know?</line>
 <line speaker="Edgeworth">Very well. As you wish, I shall answer clearly. Ms. Jenson played an essential role in this case!</line>
@@ -1871,7 +1871,7 @@
 <line speaker="Lotta">What now? Ya got a problem with my testimony!?</line>
 <line speaker="Edgeworth">...Not at all. Rather, it is because I believe your testimony, that's why an accomplice must exist.</line>
 <line speaker="Blaise">So, you still won't admit that your reasoning is wrong?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Up until now, we had not even considered the possibility of an accomplice. However, if there had been an accomplice, it changes the entire story completely. If the accomplice took the murdered auction guest's place... ...then the number of people remains eleven!</line>
 <line speaker="Blaise">Oooh... I see now. So that's what you're thinking. But, y'know, wouldn't that have been quickly discovered?</line>
 <line speaker="Edgeworth">...Ms. Jenson and the victim have similar physiques. If she wore the victim's mask, she could have easily taken her place. Ms. Jenson, did you switch places with the victim?</line>
@@ -1889,12 +1889,12 @@
 <line speaker="Lotta">Whoa there! You ain't foolin' my eyes! If you were waitin' in the storeroom, I reckon I would've bumped into you! After all, I'd been up in that storeroom the entire auction!</line>
 <line speaker="Karin">I'm telling the truth!</line>
 <line speaker="Blaise">I wonder about that, y'know. Can we really believe a girl who would falsify a report?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Heh... There should've been many places to hide in that storeroom.</line>
 <line speaker="Blaise">Then by all means, tell me. Where did our little nurse hide!?</line>
 <line speaker="Edgeworth">The place in the storeroom where Ms. Jenson hid was...!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Ms. Jenson hid here!</line>
 <line speaker="Courtney">Prosecutor Edgeworth. Do you think a person could hide in a place like that?</line>
 <line speaker="Edgeworth">Heh. I don't.</line>
@@ -1968,7 +1968,7 @@
 <line speaker="Edgeworth">...Nngh! <thought>At this rate...!</thought></line>
 <line speaker="Blaise">Ah ha ha ha ha ha ha ha ha! Edgeworth, is that all you've got? Even if that little nurse is an accomplice, it changes absolutely nothing, y'know? In the end, the true culprit is still Kay Faraday. All you did was add another criminal, y'know. The rule of law cannot be overturned. At least, not for your sake.</line>
 <line speaker="Edgeworth"><thought>Is this as far as I go? Am I unable... to save Kay...?</thought></line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Franziska...! Why are you here!?</line>
 <line speaker="Franziska">Didn't I tell you, Miles Edgeworth? Wherever there is a case, I will follow.</line>
 <line speaker="Courtney">Prosecutor von Karma... Your hard work is most appreciated.</line>
@@ -1989,12 +1989,12 @@
 <line speaker="Edgeworth">No, not yet.</line>
 <line speaker="Franziska">Hmph... Is that so? In that case, listen well. The victim was struck on the head with a blunt cylindrical object. The wound on her chest was suffered postmortem.</line>
 <line speaker="Edgeworth"><thought>A cylindrical murder weapon...!</thought></line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Y'know, this report of yours, I trust it's accurate, of course?</line>
 <line speaker="Franziska">These were the results of two independent autopsies, carried out by two respected doctors.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">That's reassuring... but, it's too bad. You have no right to investigate this ca-</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Interpol is after the black market auctions. And I'm the prosecutor in charge of the investigation. The victim particpated in the auction. Therefore, it is only natural for me to investigate. Especially now that she's been murdered.</line>
 <line speaker="Blaise">.....I see, I see. Clever girl, little Von Karma.</line>
 <line speaker="Courtney">Then it has been settled. The victim died from blunt force trauma to the head.</line>
@@ -2016,8 +2016,8 @@
 <line speaker="Debeste">An auction gavel? We didn't find anything like that!</line>
 <line speaker="Courtney">If the culprit is the Conductor, it is possible that the gavel may be murder weapon. However... that alone is not reason enough, wouldn't you agree?</line>
 <line speaker="Edgeworth">Of course, I have proof to back it up! This piece of evidence proves that the murder weapon is the auction gavel...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Take a look at this piece of evidence. This proves the murder weapon is the auction gavel!</line>
 <line speaker="Franziska">Miles Edgeworth. I don't know what you're trying to say... ...but if you don't want to fall prey to my whip, then stop spouting that nonsense!</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>But you already hit me, regardless! Wasn't there something different after the gavel had been used as the murder weapon? I should take another look at the evidence.</thought></line>
@@ -2067,12 +2067,12 @@
 <line speaker="Franziska">The Chief Prosecutor... who gave Papa his first penalty...</line>
 <line speaker="Courtney">It was none other than you! Blaise Debeste!</line>
 <line speaker="Blaise">............</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Wh... What are you saying!? Pops would never do something like that!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Sebastian. We do not need your opinion right now. ...Blaise Debeste. Do you have a rebuttal?</line>
 <line speaker="Blaise">Fabricating stuff about the body, Von Karma did all that on his own, y'know. Falsifying the autopsy report? Young. You would actually do something like that? Maaan... Y-You really did some terrible things behind my back, y'know...?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Seeing as how all the parties concerned are here today, we should ask them directly.</line>
 <line speaker="Karin">P-Please wait! Granny is... Ouch! Granny... I'm sorry! I... knew. That's why I...! Yup... Because if I didn't... He said he would expose you! If I didn't assist in the crime, Granny would be prosecuted! That's what that man... the Conductor... told me!</line>
 <line speaker="Blaise">...............</line>
@@ -2081,7 +2081,7 @@
 <line speaker="Edgeworth">Any trivial thing is fine! Give us a characteristic that could be a clue...!</line>
 <line speaker="Karin">......Th-That's right! The Conductor's mask, it exposed just a tiny part of his face. There was a tattoo there. I'm sure of it!</line>
 <line speaker="Edgeworth">A tattoo... you say?</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">I really have no idea what you're talking about, y'know. As you can see, there are clearly no tattoos on my face, y'see. So that person doesn't match me at all, y'know. The person who threatened her, this so-called Conductor... I wonder who it is, y'know. Ah ha ha ha ha ha ha ha!</line>
 <line speaker="Courtney">You have incurred the wrath of the Goddess of Law. I suggest you watch what you say.</line>
 <line speaker="Edgeworth"><thought>Hasn't he incurred your own wrath, rather than the wrath of the Goddess...?</thought></line>
@@ -2105,11 +2105,11 @@
 <line speaker="Courtney">...Each person must atone for their crimes, no matter who they are.</line>
 <line speaker="Edgeworth">..... <thought>This is going to be hard for Sebastian, but... ...I simply cannot overlook his father's crimes!</thought></line>
 <line speaker="Blaise">The victim, Jill Crane, was a member of the Prosecutorial Investigation Committee, y'see.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If she was a member of the P.I.C, then you should have been familiar with her.</line>
 <line speaker="Blaise">Well... I knew her face, but that's about it, y'know. It's not like we met each other on a regular basis, y'see...</line>
 <line speaker="Blaise">Personally, I didn't really know her that well, y'know.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you're saying you weren't very familiar with the victim?</line>
 <line speaker="Blaise">That's right. I didn't even know about the burn mark on Crane's hand, y'see.</line>
 <line speaker="Edgeworth">You didn't know about the burn mark...?</line>
@@ -2117,7 +2117,7 @@
 <line speaker="Edgeworth"><thought>In other words, anyone who defies him disappears...</thought> I would like you to add your statement about the victim's burn to your testimony.</line>
 <line speaker="Add statement">"I only just learned that she had a burn mark on her hand, y'see."</line>
 <line speaker="Blaise">I only just learned that she had a burn mark on her hand, y'see.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you're saying that you didn't know about the victim's burn... Is that really the truth?</line>
 <line speaker="Blaise">You really are persistent, y'know. Do you really think I would pay attention to every little wound on a woman's hand?</line>
 <line speaker="Edgeworth">I would think the burn mark on the victim's hand would be hard to miss...</line>
@@ -2127,18 +2127,18 @@
 <line speaker="Edgeworth">...I would like you to add your so-called sensitive understanding of a woman to your testimony.</line>
 <line speaker="Add statement">"Maybe she was always wearing gloves in order to hide the burn mark, y'know."</line>
 <line speaker="Blaise">Maybe she was always wearing gloves in order to hide the burn mark, y'know.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you were aware that she always wore gloves?</line>
 <line speaker="Blaise">Well aware. Those gloves were practically her trademark, y'see. But I guess they weren't just a fashion statement. She wanted to hide her burn mark, y'know. I wonder if that girl over there is also hiding something under her bandages?</line>
 <line speaker="Kay">Huh...? I'm... not hiding anything...</line>
 <line speaker="Blaise">I think you are, y'know. You're hiding the face of a criminal!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Those words... should be directed at someone like you. I shall expose, here and now... the face of a true criminal!</line>
 <line speaker="Blaise">Ha ha ha ha ha ha ha! How amusing. ...Go ahead and try it, if you think you can.</line>
 <line speaker="Edgeworth"><thought>So, Jill Crane regularly wore gloves... That's interesting... I should look over the evidence one more time.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Either way, it's not like I had a motive to murder her, y'know.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Was there ever any trouble between you two over work?</line>
 <line speaker="Blaise">Ah ha ha! Unlikely, y'know. I'm kind of important, y'see. I've gotten reports saying that she was exceedingly capable. But, y'know, our social status was completely different, y'see? So we didn't talk much, y'know.</line>
 <line speaker="Edgeworth">That may be true, but it doesn't prove that you didn't kill her.</line>
@@ -2146,7 +2146,7 @@
 <line speaker="Courtney">It seems Ms. Crane was the one who had an interest in you, Mr. Chairman.</line>
 <line speaker="Blaise">Y'know, that really is a mystery. I haven't the faintest idea, y'see. So that's that. Since I had no motive, your reasoning doesn't hold, y'know?</line>
 <line speaker="Blaise">I have no idea why she was pursuing me, y'see.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you have no clue why the victim had been pursuing you?</line>
 <line speaker="Blaise">Nope. Not in the slightest, y'know...</line>
 <line speaker="Debeste">It's because Pops is such a handsome man!</line>
@@ -2167,7 +2167,7 @@
 <line speaker="Edgeworth">We were under the impression that this was the moment when the victim was murdered. "I knew who you were right away. You can't hide that burn from me." ...We thought that this statement was said by the culprit.</line>
 <line speaker="Blaise">I-Isn't that fine? What's the problem, y'know?</line>
 <line speaker="Edgeworth">Heh... There is a huge problem with that. If the victim had been wearing gloves from the start... ...it would have been impossible to see the burn on her hand!</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Gloves come off very easily, y'know? She could have taken them off during the auction.</line>
 <line speaker="Edgeworth">! That's...!</line>
 <line speaker="Karin">That's not true! Ms. Crane had been wearing her gloves when I took her place! She must have been wearing them before she was murdered!</line>
@@ -2175,9 +2175,9 @@
 <line speaker="Karin">I-I... I'm not scared anymore! I have Granny here with me! "Blaise... Your day of reckoning has finally come."</line>
 <line speaker="Blaise">...Somehow... it seems like you all want to disappear... permanently!</line>
 <line speaker="Edgeworth">The only one who will be disappearing here... is you! Blaise Debeste!</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Hey! How dare you say that to Pops! Does it really matter if the burn mark was visible or not?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...It certainly does matter. If the burn mark was visible, then we'd have a complete turnabout of the situation!</line>
 <line speaker="Debeste">Wha... What are you saying!? If the victim's burn mark wasn't visible, what exactly does that tell you?</line>
 <line speaker="Edgeworth">The victim didn't have a burn mark at all!</line>
@@ -2192,24 +2192,24 @@
 <line speaker="Debeste">Someone else's... burn mark...?</line>
 <line speaker="Edgeworth">Precisely. The culprit must have had a burn mark as well. In other words... "I knew who you were right away. You can't hide that burn from me." The person who said this... was not the culprit, but the victim!</line>
 <line speaker="Debeste">Wha... Whaaaaaaaaat!?</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">...Sebastian. Could you please step aside? Edgeworth. All your reasoning up til now was just a figment of your imagination, y'know? The culprit had a burn mark? ...Where was it, y'know? If you can't answer that, then your logic doesn't hold up, y'know?</line>
 <line speaker="Edgeworth"><thought>...Where was the culprit's burn mark...?</thought></line>
 <line speaker="Kay">...I wonder where the burn mark could have been...? During the auction... wasn't everyone wearing a disguise?</line>
 <line speaker="Edgeworth">...Indeed. During the auction, everyone should have been dressed in a particular way. <thought>If the burn mark was still visible under those conditions, then...</thought></line>
 <line speaker="Blaise">Now, now. Why don't you show us? Where was the culprit's burn? ...You'll have to show me the proof, y'see!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Could you take a look at this piece of evidence?</line>
 <line speaker="Blaise">Are you suggesting it will tell me where the burn mark was located? It's too bad, but I just don't understand it at all, y'know.</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>So I was wrong...! I need to consider the state of the Conductor when Ms. Crane saw the burn mark... If I focus on that, the location of the burn mark should logically come to light.</thought></line>
 <line speaker="Blaise">Hey, Edgeworth. Hurry up and present it, y'know.</line>
 <line speaker="Edgeworth">It was what the Conductor was wearing the auction... In other words, the outfit you were wearing at the time!</line>
 <line speaker="Blaise">Ah ha ha ha ha ha! What can you figure out from the clothes alone?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The Conductor had been wearing a white suit, white gloves, and a mask... His attire had covered up most of his skin. However, according to Ms. Jenson's testimony... ...the Conductor's mask exposed a small part of his face. In addition, while she thought there had been a tattoo there... ...it's possible that she simply mistook the burn mark for a tattoo!</line>
 <line speaker="Debeste">! A burn mark... on his face...?</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">That's all very scintillating, but I'm afraid you're getting excited over nothing, y'know. None of the P.I.C. members have any burn marks on their faces, y'see. Naturally, that includes me as well, y'know!</line>
 <line speaker="Debeste">Huh...? P-Pops...? But.....!</line>
 <line speaker="Blaise">...Sebastian. Could you please be quiet? If you're an idiot, then act like one, y'know?</line>
@@ -2223,12 +2223,12 @@
 <line speaker="Edgeworth">Yes... That's the spirit.</line>
 <line speaker="Blaise">Ah ha ha ha ha ha ha ha! That's impossible, y'know. For all of you. I mean, just where could I possibly have a burn mark? It's nowhere to be found, y'see! There's no evidence to prove that I'm the culprit, y'know.</line>
 <line speaker="Debeste">Th-That's right! There's no contradiction at all! There's no way there can be a contradiction! Not for my Pops...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Sebastian. I understand why you don't want to admit it. However... if you avert your eyes from the truth, you will regret it forever.</line>
 <line speaker="Debeste">! P-Pops... I... Just what should I do...!?</line>
 <line speaker="Blaise">......Hah. I really wonder... Why you're such an idiot, y'know? Sebastian. If you really wanna save me, you'll have to try a little bit harder, y'see... Gotta use your head, y'know? ...Honestly, you really are a useless idiot.</line>
 <line speaker="Debeste">N-No way...! But, I tried real hard... I tried my best, Pops! I went to the school you told me to go, reached the top of my class, just like you told me to! Just look at this jacket! Only someone who graduates at the top of his class gets to wear it! I did everything you told me to do! That's how I got to be the best at the academy! I even won all those awards, just so I could be like you, Pops...!</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">You really are... such an idiot, y'know.</line>
 <line speaker="Debeste">...!</line>
 <line speaker="Blaise">Y'know those gold stars you got on your tests, I made the teachers give them to you. Every speech and debate contest, all of the judges were my friends. Y'know, Sebastian. If you weren't even able to notice something like that... ...you're really not worthy of being called my son. Don't you think?</line>
@@ -2240,13 +2240,13 @@
 <line speaker="Courtney">Blaise Debeste! You... Just what do you think of your own son!?</line>
 <line speaker="Blaise">He's just a useless pawn, y'see. Whoa now. Maybe you should look in the mirror before you criticize me, y'know. I mean, even you... you also used Sebastian to get close to me, didn't you?</line>
 <line speaker="Courtney">...I cannot deny that. However... he is not a mere "pawn"! He always tried to do his very best, even if the results aren't up to par. I've seen just how hard he tries. ...And yet, you refuse to even acknowledge it...!</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Ah ha ha ha ha! That kid is no good, y'see. No matter what he does... or is told to do!</line>
 <line speaker="Courtney">Prosecutor Edgeworth. I shall leave this offering to the Goddess of Law to you. Deliver her divine judgment against Blaise Debeste!</line>
 <line speaker="Edgeworth">Yes. That was my intention... from the beginning. <thought>If there was a burn mark on the Conductor's face... ...then Blaise Debeste must be hiding it. What was he wearing during the auction? That is... key to revealing the truth!</thought></line>
 <line speaker="Courtney">Well then, allow me to hear your answer! Please show the piece of evidence that proves the culprit had a burn mark on his face!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Could you take a look at this piece of evidence?</line>
 <line speaker="Blaise">Are you saying that shows the proof of the burn mark? I don't understand, y'know. I don't understand it at all.</line>
 <line speaker="Edgeworth">Blaise Debeste! Even if you do not understand...</line>
@@ -2269,7 +2269,7 @@
 <line speaker="Kay">...Not a wig at all.</line>
 <line speaker="Edgeworth">Indeed. ...It was no wig. Blaise Debeste! It was your fake beard!</line>
 <line speaker="Blaise">A... Ah ha ha... This is... a real beard, y'know. Don't tease me like that, Edgeworth.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Your son must have realized the truth before anyone else. That's why he was trying so desperately to protect you. You were also worried that he would tell the truth... Isn't that why you drove your son away from here? Because... he knew that his father was hiding a burn under his fake beard!</line>
 <line speaker="Blaise">G... Grr...!</line>
 <line speaker="Edgeworth">Blaise Debeste! How about you remove that fake beard of yours!</line>
@@ -2386,8 +2386,8 @@
 <line speaker="Edgeworth">This is probably the main cause of your confused memories... You saw the moon at both the Gourd Lake Park and the Grand Tower rooftop... ..which led you to confuse the two places.</line>
 <line speaker="Kay">Huh? But... aren't they totally different places? Even if I was in a daze, do you really think I'd get them confused?</line>
 <line speaker="Edgeworth">Most likely, there was something at the Grand Tower which led to your confusion.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Wasn't this at the Grand Tower?</line>
 <line speaker="Kay">Huh? That's... I'm not totally sure!</line>
 <line speaker="Edgeworth">...Hmph. <thought>It seems this wasn't it.</thought></line>
@@ -2415,8 +2415,8 @@
 <line speaker="Edgeworth">You...! Why do you know about the incident!?</line>
 <line speaker="Edgeworth">...I've had an inkling that such a person existed, even before you said anything. After all, there was evidence to suggest that someone had used Kay to disrupt the investigation.</line>
 <line speaker="Kay">Huh!? There was...? So... who's this mastermind?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This indicates the existence of a mastermind in this case.</line>
 <line speaker="Kay">Hmm, I can't say I really understand.</line>
 <line speaker="Edgeworth">Nngh... <thought>So this wasn't it? Wasn't there anything that was left unexplained among the evidence?</thought></line>
@@ -2429,43 +2429,43 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right... I need to reconsider the information.</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information. I need to think this over one more time.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There is a clear contradiction in your testimony.</line>
 <line speaker="Franziska">In that case, would you care to explain what the contradiction is? Depending on your answer, you may or may not incur the wrath of my whip.</line>
 <line speaker="Edgeworth">Gwaaah! <thought>I didn't even say anything yet!</thought></line>
 <line speaker="Ema">As long as she has her whip, words alone won't reach her! You'll need to present evidence!</line>
 <line speaker="Edgeworth">Right. I won't let her whip me again.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Doesn't your testimony contradict with this piece of evidence?</line>
 <line speaker="Franziska">You would do well to think things over yourself before questioning others. And for the record, my answer is "nein"!</line>
 <line speaker="Edgeworth">Nnghoooh! <thought>I guess that was wrong...</thought></line>
 <line speaker="Ray">What are you doing, Miles? You're turning Franny-pie into fifty shades of rage! Before that whip hits you, you should hurry up and... YOOOWZAAA!</line>
 <line speaker="Franziska">Foolish words will only result in fifty shades of pain!</line>
 <line speaker="Edgeworth"><thought>I should settle this before Mr. Shields ends up as fifty shades of maimed...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Franziska, will you take a look at this piece of evidence?</line>
 <line speaker="Franziska">Miles Edgeworth. I'm warning you, if you do not wish to become my whip's next victim... Do not present such meaningless things before me!</line>
 <line speaker="Edgeworth">Ngh! <thought>What was the point of warning me!?</thought></line>
 <line speaker="Ema">Mr. Edgeworth, scientifically speaking, that whip looks extremely painful!</line>
 <line speaker="Edgeworth">I don't need science to tell me how painful it is...</line>
 <line speaker="Ema">Maybe you should be a bit more careful next time.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney, could you take a look at this piece of evidence?</line>
 <line speaker="Courtney">I'm afraid I cannot accept that piece of evidence. I do not believe it has any relation to my testimony.</line>
 <line speaker="Edgeworth">Nnghoooh! <thought>As I expected, she's nothing like Mr. Debeste. However, I won't back down so easily!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney. Don't you have a problem with that statement just now?</line>
 <line speaker="Courtney">Should I have a problem with it?</line>
 <line speaker="Edgeworth">Hmph... Exactly. Because there's no problem at all!</line>
 <line speaker="Courtney">In that case, you should have refrained from speaking in the first place.</line>
 <line speaker="Edgeworth">Nnghhooh! <thought>I don't think that left a good impression...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney. There is a contradiction in your testimony!</line>
 <line speaker="Courtney">I cannot authorize this statement.</line>
 <line speaker="Edgeworth">Hmph... And why not?</line>
 <line speaker="Courtney">Because it's obvious you're bluffing.</line>
 <line speaker="Edgeworth">Nguuuoooh! <thought>Is that the impression I give off? ...Next time for sure, I will present evidence that will silence her for good!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Doesn't this piece of evidence create a contradiction in your testimony?</line>
 <line speaker="Blaise">Hrmmm... I wonder. What do you think, Sebastian?</line>
 <line speaker="Debeste">I don't really understand, but I don't think so.</line>
@@ -2474,32 +2474,32 @@
 <line speaker="Kay">Mr. Edgeworth, it's fine. Why don't we just give up...?</line>
 <line speaker="Edgeworth">Kay. It's still much too early to give up. I will definitely prove your innocence.</line>
 <line speaker="Kay">Mr. Edgeworth...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Blaise Debeste! Take a look at this piece of evidence.</line>
 <line speaker="Blaise">What's wrong, Edgeworth? You're getting all fired up. Maybe you should cool your head and think it over once again. 'Cause I don't have time to put up with something as meaningless as that.</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>So that was wrong!</thought></line>
 <line speaker="Debeste">Mr. Edgeworth. You really think someone like you can defeat my pops!? Pops is super important, you know!</line>
 <line speaker="Blaise">Yes, yes. You're embarrassing me, Sebastian, so please stop, OK?</line>
 <line speaker="Edgeworth"><thought>Blaise Debeste... He seems to be a fairly formidable opponent. I should make my moves more carefully.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Blaise Debeste. Take a look at this piece of evidence and tell me what you think!</line>
 <line speaker="Blaise">What do I think? Absolutely nothing at all... Right, Sebastian?</line>
 <line speaker="Debeste">Yeah, Pops. That has nothing to do with your testimony just now!</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>Even Sebastian...!</thought></line>
 <line speaker="Kay">It looks like Mr. Debeste has gotten a bit livelier, hasn't he?</line>
 <line speaker="Edgeworth">Indeed. He probably feels a lot more confident with his father backing him up. However, I will break through that confidence of the Debeste father and son duo.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Dr. Young! Your testimony is wrong!</line>
 <line speaker="Karin">Granny is pretty old, so you should treat her more nicely... Ouch! "Don't treat me like I'm old! I'm not so senile that I would be tricked by a bluff like that."</line>
 <line speaker="Edgeworth">Argh! <thought>That wasn't a bluff.</thought></line>
 <line speaker="Kay">Granny is a lively one, isn't she?</line>
 <line speaker="Edgeworth">Although I feel like she is a bit too lively... Let's see if we can quiet her down.</line>
 <line speaker="Kay">...Mr. Edgeworth, please be nice to the elderly, okay?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Jenson. I would like you to take a look at this piece of evidence.</line>
 <line speaker="Karin">Errm, me? "I'm the one giving testimony now. Why are you asking my granddaughter?"</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>It's because you two are tied to the hip, that's why I got mixed up! There might be something I failed to hear. Let me try listening carefully to "Dr. Young's" words one more time.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Dr. Young. Could you take a look at this piece of evidence?</line>
 <line speaker="Karin">"I don't mind looking, but just what is that?" Yeah! Just what is that!?</line>
 <line speaker="Edgeworth">Hmph. It doesn't really matter if you don't understand.</line>

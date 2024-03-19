@@ -121,10 +121,10 @@
 <line speaker="Gregory">There is a piece of evidence that we believe belongs to Mr. Dover... ...and it happens to share a common feature with another piece of evidence.</line>
 <line speaker="Kate">! P-Please show me! I have no idea what you're talking about! Which two pieces of evidence share something in common?</line>
 <line speaker="Gregory"><thought>Two pieces of evidence that point to Mr. Dover... Let's start by presenting the first one.</thought></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory"><thought>And now, the second piece of evidence, which shares a common feature is...!</thought></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory">This connection between these two pieces of evidence tells all!</line>
 <line speaker="Kate">...Err...?</line>
 <line speaker="Ray">Hmm? How exactly are those two things connected?</line>
@@ -160,14 +160,14 @@
 <line speaker="Kate">...Huh? Wh-What did you say?</line>
 <line speaker="Gregory">When exactly... did you take this photo of Dover's room?</line>
 <line speaker="Kate">Th-That was... Perhaps this was taken during the judging...</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">That's strange. I thought you said the camera ran out of film during the judging. Before Mr. Master entered Dover's room, you were the one in possession of the camera. Wasn't that why you were able to take the photo when you discovered the body?</line>
 <line speaker="Kate">Yes... That's right.</line>
 <line speaker="Gregory">The only photos you took with the new film were of Dover's room and the body. ...If that's the case, a new contradiction comes to light.</line>
 <line speaker="Kate">Ugh... Another one...!</line>
 <line speaker="Gregory"><thought>The piece of evidence that contradicts the two photos Ms. Hall took is...!</thought></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory">This piece of evidence contradicts the photos Ms. Hall took.</line>
 <line speaker="Kate">Err... I don't think there's anything contradictory about that...</line>
 <line speaker="Gregory"><thought>...My logic is the only thing contradictory here. If I think back on the number of photos she took, the answer should be clear. I already carry the evidence that shows the contradiction!</thought></line>
@@ -492,8 +492,8 @@
 <line speaker="Gregory">The blood disappeared from the crime scene. Also, part of the treasure chest was missing too.</line>
 <line speaker="Badd">!</line>
 <line speaker="Gregory">Perhaps... the blood in the fountain belongs to this person.</line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory">I think the blood belongs to this person...</line>
 <line speaker="Badd">I think... the blood... must have rushed to your head... When did... that person... ever bleed...?</line>
 <line speaker="Gregory">E-Er, well... <thought>What was I thinking... There's only one person who shed blood!</thought></line>
@@ -590,17 +590,17 @@
 <line speaker="Gregory">...That's it?</line>
 <line speaker="Ray">What! How are we supposed to understand anything from so little...!?</line>
 <line speaker="Gregory">If we want Von Karma to divulge the truth, we have no choice but to present evidence. ...It's all too obvious that he's hiding something.</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Are you sure Mr. Gustavia and Mr. Dover aren't linked in some way?</line>
 <line speaker="Ray">I don't think Von Karma has that kind of authority though...</line>
 <line speaker="Badd">Von Karma... is famous... for having even the judges wrapped around his finger...</line>
 <line speaker="Ray">WHAAAAAAAA!? That's insane!</line>
 <line speaker="Gregory"><thought>...Seems like it won't be easy to go against him in court.</thought> Prosecutor von Karma. Please continue your argument.</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">It may have been a coincidence that the two participated in the same contest... ...however, you can't say for sure that they weren't connected.</line>
 <line speaker="Gregory">...... <thought>I'll be silent for now, then. So I need to show evidence of a link between Mr. Gustavia and Mr. Dover...</thought></line>
 <line speaker="Gregory"><thought>D... Does he want me to speak or be silent!?</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">It would seem Von Karma does not want us to know Gustavia and Dover's real connection.</line>
 <line speaker="Ray">Maybe the connection between those two puts the prosecution at a disadvantage?</line>
 <line speaker="Gregory"><thought>Mr. Gustavia and Mr. Dover should have had something in common. I should enlighten Von Karma on this fact.</thought></line>
@@ -611,29 +611,29 @@
 <line speaker="Gregory">! <thought>Did Von Karma know about their collaboration...?</thought></line>
 <line speaker="Gregory">You knew about their cooperation all this time, didn't you? Why would you conceal the truth?</line>
 <line speaker="Gregory"><thought>How can he act like this and keep the truth from us...? His concealment of the truth... is something I simply cannot ignore!</thought></line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">It seems you knew about their real connection all along. Why did you hide it from us...!?</line>
 <line speaker="Badd">! I... was just doing things... my way.</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Last night... that was after Mr. Dover's sculptures had melted, right?</line>
 <line speaker="Ray">I-Interrogated by Von Karma? Uuugh... Sounds scary.</line>
 <line speaker="Gregory">Knowing Mr. Gustavia, I feel like he probably tried to meditate through the interrogation.</line>
 <line speaker="Gregory"><thought>And did that... have any effect?</thought></line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Why do you think Mr. Gustavia and Mr. Dover collaborated?</line>
 <line speaker="Gregory">...If so, what was their mutual goal? Why cooperate until the finals?</line>
 <line speaker="Ray">Victory in the finals would certainly have been hollow had he created...</line>
 <line speaker="Gregory"><thought>So he believes that their cooperation only went as far as the semifinals... ...but what if it really continued through the finals?</thought> ...Prosecutor von Karma. Could you explain their cooperation in a little more detail?</line>
 <line speaker="Change this statement to">"Why? Because Gustavia had poor design sense, and Dover was a novice at baking." and "Their cooperation lasted only through the semifinals. For the finals, they were on their own."</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">Concerning your statement about Mr. Gustavia's designs... I've no objections to that.</line>
 <line speaker="Ray">I have... no objections either. He's got no sense of style.</line>
 <line speaker="Badd">I actually liked his candy crafting, though...</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">They cooperated the day before, but not the day itself...? That seems highly unnatural, don't you think?</line>
 <line speaker="Gregory"><thought>But weren't you "unnaturally" concealing that very same truth just a minute ago? There must have been a reason he hid this fact from us...!</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">Mr. Master said Mr. Dover was the favorite to win at the finals.</line>
 <line speaker="Ray">Which means he must have still been cooperating with Mr. Gustavia at the time, right?</line>
 <line speaker="Gregory">...Yes, that is what I believe. <thought>I must have evidence that proves that they still cooperated during the finals...!</thought></line>
@@ -661,10 +661,10 @@
 <line speaker="Gregory">No... All I am admitting to is the truth of one of your statements. "Dover and Gustavia's collaboration lasted only until the day before the finals." It is exactly as you said, they only cooperated until the day before the finals.</line>
 <line speaker="Gregory">The sculptures in Mr. Dover's room were all made out of sherbet. ...Such an amount would most likely need to be left overnight to freeze. Which means Mr. Gustavia prepared Mr. Dover's sherbet in advance the day before!</line>
 <line speaker="Gregory">Then, why did Mr. Dover not help Mr. Gustavia in return?</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">If you aren't going to answer that, I'll need to get in touch with Mr. Gustavia himself. Or was your interrogation not quite as thorough as you claim?</line>
 <line speaker="Gregory">That was not my intention, but I do have a problem with your attitude. I want you to give us a clear reason why we can't speak to Mr. Gustavia in person.</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">You claim their collaboration is irrelevant? If Mr. Gustavia and Mr. Dover's relationship had turned sour... ...it could serve as a motive for murder!</line>
 <line speaker="Gregory">!</line>
 <line speaker="Gregory">...... <thought>Only one of Mr. Gustavia's actions has been suspicious so far. Doubtless Von Karma already knows of this facts. This... could be a trap by Von Karma.</thought></line>
@@ -695,12 +695,12 @@
 <line speaker="Ray">Distort the truth...? You don't mean... forgery...!</line>
 <line speaker="Gregory">...I do. <thought>And I can't allow him to get away with this...!</thought></line>
 <line speaker="Forensics">Roger!</line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">I want to know the truth that you've been hiding.</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">"Police" ...no. My objection is with you!</line>
 <line speaker="Gregory">Isn't it a prosecutor's job to ensure justice for criminals...!?</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">And to find that perfect proof, you would even stoop to forgery?</line>
 <line speaker="Gregory">.....Yes. And it's for that reason... you did not allow Detective Badd to investigate.</line>
 <line speaker="Badd">....What do you mean...?</line>
@@ -708,15 +708,15 @@
 <line speaker="Badd">Wha...!</line>
 <line speaker="Ray">They never... found the body...?</line>
 <line speaker="Gregory">In that case, let us verify the body! If you do, we will have evidence that shows whether I am right or not!</line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">You must have noticed it too. The lack of bloodstains at the crime scene. So why did the blood vanish? And more importantly... Where did it go?</line>
 <line speaker="Gregory">Yes... that's exactly right. If the body had been found there, the disappearing bloodstains would have no meaning at all. ...However, what if the body was already gone? To erase the traces of the body being there, one would have to get rid of the bloodstains as well!</line>
 <line speaker="Gregory">"In court, everything must be said with evidence." ...Isn't that right, Von Karma? In that case, I'll show you the evidence supporting my claim! <thought>Which piece of evidence shows where the blood in Mr. Master's room went?</thought></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
-<line speaker="Gregory"><cutIn>Take that!</cutIn></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Gregory"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gregory">As you can clearly see... this is where the blood disappeared to!</line>
 <line speaker="Gregory">Nnghhoooh! <thought>I-I can't just disappear!</thought></line>
-<line speaker="Gregory"><cutIn>Hold it!</cutIn></line>
+<line speaker="Gregory"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gregory">V-Von Karma! W-Wait, please look at this first!</line>
 <line speaker="Gregory">There were traces of the victim's blood found in the fountain.</line>
 <line speaker="Gregory">Traces of Mr. Master's chocolate were also found in this very fountain. In other words, the blood was washed down the stream, which then flowed into the fountain. All of this points to only one possibility! After the body was removed, someone erased the bloodstains!</line>
@@ -796,7 +796,7 @@
 <line speaker="Kay">Anyway, there are so many strange things about this case.</line>
 <line speaker="Edgeworth">Indeed... Those involved in the case 18 years ago have reunited, and another incident occurs... <thought>Replicas of the statues from 18 years ago were displayed in the Winter Palace, and... Poison gas was released in the Autumn Palace, which had been disguised as the Winter Palace. The two chemicals in the Pisces case... Normallium and Fatallium, were mixed, causing an outbreak of poison gas... The victim of the poison gas was Dane Gustavia. A person involved in the IS-7 Incident. Because he was unconscious, he received treatment in the Zodiac Art Gallery's infirmary... Finally, the dead body found floating in the fountain... ...And once again, the ice sculptures have melted.</thought> There are deep connections between the two cases. ...It's possible there are still some clues left from 18 years ago.</line>
 <line speaker="Kay">Right! Let's get started!</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Juuuust one second! Don't tell me you've forgotten about me? Didn't I tell you that I'm the one in charge of this case?</line>
 <line speaker="Courtney">Prosecutor Edgeworth. If you intend to continue disrupting Sebastian's investigation... ...the world "Guilty" will be added to your P.I.C. report.</line>
 <line speaker="Edgeworth"><thought>...What does she mean "guilty"?</thought> Please allow me to assist in your investigation as before.</line>
@@ -807,8 +807,8 @@
 <line speaker="Debeste">Really!? Then tell us!</line>
 <line speaker="Edgeworth">Hmph... Very well.</line>
 <line speaker="Edgeworth"><thought>It's not just the sculptures that have made a comeback from the incident 18 years ago... The body in the fountain is...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I think there is a very high chance that the body belongs to this person!</line>
 <line speaker="Debeste">What!? A-Ah, I got it...!</line>
 <line speaker="Courtney">That's absolutely impossible. Are you trying to disrupt the investigation!?</line>
@@ -837,7 +837,7 @@
 <line speaker="Debeste">Hey... You! Are you trying to steal Debeste position for yourself!?</line>
 <line speaker="Edgeworth">I'm doing no such thing. I just want to know the truth. And for that to happen, we need to cooperate, no?</line>
 <line speaker="Courtney">The truth... is none of your concern.</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">I don't think that's true, Courtney-pie.</line>
 <line speaker="Courtney">You again...!</line>
 <line speaker="Ray">Uncle Ray assisted the defense attorney involved in the IS-7 Incident. The one who claimed that Mr. Dover's body was never found.</line>
@@ -1486,7 +1486,7 @@
 <line speaker="Kate">I was not aware that it contained such a chemical. I suppose it may have been an ingredient from the detergent I had used.</line>
 <line speaker="Courtney">...So you're saying that you did not put it in deliberately?</line>
 <line speaker="Kate">No. Of course not. There is no way for me to have known how to create the poison gas.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Despite being a former actress, ...it seems you're not very good at lying.</line>
 <line speaker="Kate">What do you mean?</line>
 <line speaker="Edgeworth">The Angel's Recipe is in your possession. And the method to create the poison gas is contained inside that recipe book. So you must have known how to create it!</line>
@@ -1529,21 +1529,21 @@
 <line speaker="Edgeworth">...Judge Courtney. I believe in the courtroom, it is standard to cross-examine the witness. Wouldn't you agree it's a little too early to say that there are no contradictions?</line>
 <line speaker="Courtney">Hmhm... you speak like a defense attorney. Very well. Proceed, as you please.</line>
 <line speaker="Kate">18 years after Monsieur Master was arrested, I was finally able to buy back this mansion.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It must've taken a lot of hard work these past 18 years, to buy back the mansion.</line>
 <line speaker="Kate">♪ The place full of my memoriiies with Monsieur Masteeer! It iiis the ooonly place for meee! No matter whaat, at any coost I wanted iiit baaaaaaack. ♬</line>
 <line speaker="Kay">Sh-She looks like she's having fun...</line>
 <line speaker="Ray">Well... she is a former actress. Singing and dancing is her livelihood.</line>
 <line speaker="Edgeworth">...Enough with the singing. Please continue your testimony.</line>
 <line speaker="Kate">Then, in order to maintain it, I decided to manage it as an art gallery.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you managing this gallery by yourself?</line>
 <line speaker="Kate">Yes. Well, I say "manage," but it only opened today. And... I must continue protecting this mansion. So that Monsieur Master has a place to return to...</line>
 <line speaker="Edgeworth"><thought>So she took back the mansion for Mr. Master's sake...</thought></line>
 <line speaker="Ray">Kate... I'm so sorry. I was powerless...</line>
 <line speaker="Kate">! It's not your fault, Monsieur Shields. I couldn't do anything either. ...All I can do now is continue to protect the mansion.</line>
 <line speaker="Kate">I collected Pierre Hoquet's works from all over the world.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Pierre Hoquet... That's Mr. Dover's alias, correct?</line>
 <line speaker="Kate">Yes. It's the name he used when he worked as a sculptor in France.</line>
 <line speaker="Edgeworth">About collecting his works... How did you prepare the Taurus and Gemini sculptures? I heard that Mr. Dover passed away before he completed those two sculptures.</line>
@@ -1551,7 +1551,7 @@
 <line speaker="Edgeworth">Oh...? Could you tell us about that in more detail?</line>
 <line speaker="Add statement">"I prepared replicas of the sculptures in the Winter Palace based on the photos I took."</line>
 <line speaker="Kate">After all, it was my dream to open the Zodiac Art Gallery.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Opening the Zodiac Art Gallery was your dream?</line>
 <line speaker="Kate">The truth is... I wanted to manage the gallery together with Monsieur Master. ♬ Singiiing and daaancing and aall kinds of sweeets! ♪ ...That's the kind of gallery I dreamed about.</line>
 <line speaker="Edgeworth"><thought>Was she planning on staging a musical in here?</thought></line>
@@ -1559,13 +1559,13 @@
 <line speaker="Kate">No! Monsieur Master is... innocent. The prosecutor at the time did not believe it, but...</line>
 <line speaker="Edgeworth"><thought>In order to protect Katherine Hall... Jeffery Master gave a false confession. They were both trying to protect each other...</thought></line>
 <line speaker="Kate">I prepared replicas of the sculptures in the Winter Palace based on the photos I took.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">By photos, do you mean the ones taken in Isaac Dover's room?</line>
 <line speaker="Kate">...Yes. You seem quite familiar with the events from 18 years ago, Monsieur Edgeworth.</line>
 <line speaker="Kay">So the sculptures in the Winter Palace were replicas. They melted and I didn't even get to see them once.</line>
 <line speaker="Edgeworth"><thought>No. The sherbet sculptures shouldn't have been replicas. Ms. Hall... is obviously lying.</thought></line>
 <line speaker="Kate">After all that trouble it took to prepare them, it's a shame they melted...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>The sculptures in the Winter Palace are the same sherbet sculptures from 18 years ago. Unless I point that out to her, I won't be able to find out the truth...</thought></line>
 <line speaker="Edgeworth">...Did you really think that your excuses would continue to hold up? No matter how much you lie, you can't deny the composition of the sculptures. From the analysis results, it's quite clear... ...that the sculptures in the Winter Palace are the sherbet sculptures Mr. Dover created!</line>
 <line speaker="Delicia">Oi! Miley! As a pharmacist, it's my turn to shine! What we call "sugar" actually comes in many different varieties and tastes. Even if the sculptures were replicas, it's nearly impossible to replicate the composition!</line>
@@ -1590,7 +1590,7 @@
 <line speaker="Kay">Mr. Edgeworth, were there any contradictions in her testimony?</line>
 <line speaker="Edgeworth">For now, I should just prove that she stole the sculptures. <thought>But when could Ms. Hall have stolen them...? If I can answer that, her crime should come to light!</thought></line>
 <line speaker="Kate">On the day of the incident, I was waiting in the main building until the judging.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What were you doing before the judging began?</line>
 <line speaker="Kate">I was in my room on the second floor, practicing my dancing. I was performing on the TV show "Piece of Cake" back then...</line>
 <line speaker="Kay">Piece of Cake...? What kind of show was that?</line>
@@ -1605,7 +1605,7 @@
 <line speaker="Edgeworth"><thought>It seems... I was mistaken.</thought> ...My apologies. Please continue, Ms. Hall.</line>
 <line speaker="Edgeworth"><thought>...It could't have been then. I should listen to more of her testimony.</thought></line>
 <line speaker="Kate">During the judging, at Monsieur Master's request, I went to change the film in the camera.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you were the only one who could move freely during the judging period?</line>
 <line speaker="Kate">I certainly would have had more freedom to move about than the contestants. However... I couldn't possibly have stolen the sculptures right in front of Monsieur Master. Moreover, upon being asked to change the film, I went directly to the entryway.</line>
 <line speaker="Edgeworth"><thought>At Mr. Master's request, she went to change the film in the camera... Could Ms. Hall have stolen the sculptures then?</thought></line>
@@ -1616,7 +1616,7 @@
 <line speaker="Edgeworth"><thought>It seems... I was mistaken.</thought> ...My apologies. Please continue, Ms. Hall.</line>
 <line speaker="Edgeworth"><thought>...It could't have been then. I should listen to more of her testimony.</thought></line>
 <line speaker="Kate">But before I could deliver the camera to him, I discovered Monsieur Dover's body.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you entered Mr. Master's room before you delivered the camera?</line>
 <line speaker="Kate">Yes. I heard the sound of something breaking, you see.</line>
 <line speaker="Kate">...Monsieur Master? Are you in here? Eek...!</line>
@@ -1631,7 +1631,7 @@
 <line speaker="Edgeworth"><thought>It seems... I was mistaken.</thought> ...My apologies. Please continue, Ms. Hall.</line>
 <line speaker="Edgeworth"><thought>...It could't have been then. I should listen to more of her testimony.</thought></line>
 <line speaker="Kate">After Monsieur Gregory arrived, I prepared tea for everyone involved in the investigation.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Did you do so in the same manner as today?</line>
 <line speaker="Kate">Yes. I poured tea for everyone working on the investigation.</line>
 <line speaker="Ray">Now that you mention it, Uncle Ray also got some tea from you that day. Kate was pushing her service cart back and forth, from the patio to the main building.</line>
@@ -1640,7 +1640,7 @@
 <line speaker="Edgeworth"><thought>...The saucer was chilled? Could Ms. Hall have stolen the sculptures then?</thought></line>
 <line speaker="Edgeworth"><thought>...It could't have been then. I should listen to more of her testimony.</thought></line>
 <line speaker="Kate">It was then that I witnessed Monsieur Gustavia entering Monsieur Dover's room.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">When exactly did Mr. Gustavia enter the victim's room?</line>
 <line speaker="Kate">It was when Monsieur Gregory and the rest were investigating the crime scene...</line>
 <line speaker="Ray">Apparently Mr. Gustavia went into Mr. Dover's room to retreive a family photo.</line>
@@ -1659,8 +1659,8 @@
 <line speaker="Edgeworth">This was when you stole the sherbet sculptures!</line>
 <line speaker="Kate">I'm sorry, but... Monsieur Shields and company were at the Fountain Patio the entire time. Are you saying that I stole them in broad daylight?</line>
 <line speaker="Edgeworth">...That's precisely what I'm saying. <thought>This is where she hid the sculptures, to steal them right under the noses...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Wouldn't it be possible to hide them here?</line>
 <line speaker="Kate">Monsieur Shields would certainly have noticed if the sculptures were hidden there.</line>
 <line speaker="Ray">Of course! Your old man would have noticed, too. Miles. Do you really think our eyes were that horrible?</line>
@@ -1669,12 +1669,12 @@
 <line speaker="Kate">Eeeeeeeeek!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">But surely that would still be impossible! If she placed the sculptures on the service cart, people would notice immediately.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I never said she used the "service cart" to move the sculptures.</line>
 <line speaker="Courtney">What...!? What do you mean? Then what did she use to move the sculptures around!?</line>
 <line speaker="Edgeworth">This is what Ms. Hall used to transport the sculptures!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Obviously, she used this to carry them around.</line>
 <line speaker="Courtney">...Well, Prosecutor Edgeworth. Could you please show us how she would have done so?</line>
 <line speaker="Edgeworth">W-Well, that's...</line>
@@ -1714,7 +1714,7 @@
 <line speaker="Edgeworth">That's right... And Ms. Hall's theft was 18 years ago. According to statute, she cannot be arrested for stealing the sculptures.</line>
 <line speaker="Kay">So that's how it is...</line>
 <line speaker="Courtney">Stealing evidence from a crime scene is an unforgivable offense. However, for this crime at least, we have no right to pass judgement. ...it appears that Prosecutor Edgeworth's tepid reasoning has all been for naught.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph... I wonder about that. I deduced Ms. Hall's actions simply to expose a different crime. If she only took the sculptures, we wouldn't have found the body from 18 years ago.</line>
 <line speaker="Kate">...Are you saying that I hid Monsieur Dover's body?</line>
 <line speaker="Edgeworth">That's correct.</line>
@@ -1724,8 +1724,8 @@
 <line speaker="Courtney">Are you claiming that you knew where the body was hidden?</line>
 <line speaker="Edgeworth">When you consider Ms. Hall's actions, the answer becomes obvious. 18 years ago, Ms. Hall stole something more than just sherbet sculptures.</line>
 <line speaker="Courtney">If you're so confident, I would like to hear your answer. Where did Ms. Hall hide the body!?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I'm sure Ms. Hall hid the body... here!</line>
 <line speaker="Courtney">...Prosecutor Edgeworth. Please show us how she could have done so.</line>
 <line speaker="Edgeworth">W-Well... isn't it obvious?</line>
@@ -1738,8 +1738,8 @@
 <line speaker="Edgeworth">Yes, and perhaps you've noticed that the victim's body can be seen in this picture?</line>
 <line speaker="Courtney">.....I do not see it. Please point it out clearly. Where in this picture can one see the body of the victim?</line>
 <line speaker="Edgeworth"><thought>It's time to expose the location of the body in the photograph!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This was Mr. Dover's body.</line>
 <line speaker="Courtney">...Does that honestly look like a body to you...?</line>
 <line speaker="Ray">You OK, Miles? Maybe all that thinking short-circuited your brain?</line>
@@ -1751,11 +1751,11 @@
 <line speaker="Courtney">The Gemini Sculpture...?</line>
 <line speaker="Edgeworth">Yes... While it may look like the Gemini Sculpture at first glance... ...in reality, this is none other than Isaac Dover himself!</line>
 <line speaker="Courtney">This... This ice sculpture was the victim's body...? But all I can see from this picture is an ice sculpture statue...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That's because a certain piece of evidence was used to conceal it.</line>
 <line speaker="Courtney">Conceal it...? Which piece of evidence did Ms. Hall use to conceal the body!?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">She used this!</line>
 <line speaker="Kate">Whaat makes you think! ♪ Thaat thiis prooves anything! ♬ About mee hiding the boodyy! ♬</line>
 <line speaker="Edgeworth"><thought>Urgh.....!</thought></line>
@@ -1767,7 +1767,7 @@
 <line speaker="Delicia">Yessie! When it glows red, it's like a raging inferno! And when it glows blue, you can almost feel the glittering cool ice!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">That cloth will only emit light when it is attached to a special device!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney... Look closely at the picture one more time. Beneath the Gemini case... lies a box-shaped object attached to the pedestal.</line>
 <line speaker="Courtney">Th-This is...!</line>
 <line speaker="Edgeworth">A rainbow light device. Detective Gumshoe reported one in the Winter Palace. This is the device that went missing 18 years ago. Originally, it would have been attached to the cloth inside the glass case. Naturally, Ms. Hall took the device with her when she moved the sculptures. By using the rainbow light device to make the fluorescent cloth glow... ...Mr. Dover's body was made to look like an ice sculpture!</line>
@@ -1775,7 +1775,7 @@
 <line speaker="Ray">So then, when Uncle Ray took a photo of the Winter Palace...</line>
 <line speaker="Edgeworth">That's right. The body had been in front of us all along, disguised as Gemini!</line>
 <line speaker="Courtney">However, the body and the fluorescent cloth were both discovered in the fountain. If the ice sculpture was the body, we would have found it in the Winter Palace!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">If we had found it there, her trick would have been revealed immediately. Ms. Hall moved the body out of the Winter Palace to prevent us from discovering it.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Absurd. You say she threw the body into the fountain without any of us noticing?</line>
@@ -1791,8 +1791,8 @@
 <line speaker="Courtney">Prosecutor Edgeworth. Are you able to prove the crime of Ms. Curator?</line>
 <line speaker="Edgeworth">Certainly. I have evidence that will show exactly what she did.</line>
 <line speaker="Courtney">Then, it's time we see your answer. Which piece of evidence reveals Ms. Curator's actions?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Just by looking at this, you should be able to understand. ...Let it enlighten you.</line>
 <line speaker="Courtney">........</line>
 <line speaker="Kay">Overruled!</line>
@@ -1810,7 +1810,7 @@
 <line speaker="Courtney">...The tablecloth. It's light blue.</line>
 <line speaker="Edgeworth">It may be light blue in the sketch, but no blue tablecloths exist in this mansion. Perhaps it's light blue because the body was hidden, still glowing, underneath the tablecloth.</line>
 <line speaker="Courtney">What...! B-But... the lift trolley is rectangular in the sketch! If she just placed the body in the lift trolley, we would notice it immediately!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There were two blocks of ice in the Winter Palace that are completely hollowed out. If she put the body inside the block of ice, it would look like a service cart.</line>
 <line speaker="Courtney">That's...!</line>
 <line speaker="Edgeworth">...Ms. Hall. You put the body in the block of ice and used the lift trolley to move it, didn't you?</line>
@@ -1893,8 +1893,8 @@
 <line speaker="Edgeworth"><thought>Ms. Hall was trying to trap the true culprit... If so, wouldn't the person who feel for the trap, be the true culprit? However... I have no evidence to back up my claims. If I make a formal accusation without any proof, it will not end well. Should I announce the true killer of Isaac Dover...?</thought></line>
 <line speaker="Edgeworth"><thought>Should I be more careful and do it after I've collected more evidence? ...No, if I miss this chance I might not be able to work on this case any further. Above all, I can't just leave the true culprit at large any longer... I can't just leave the people that have suffered for 18 years! I will solve this case by my own hand!</thought></line>
 <line speaker="Edgeworth"><thought>What I should do is reveal "the truth." In that case... there is no need to hesitate!</thought> ...Yes, that's correct. Judge Courtney. I indict this person as the true culprit behind the IS-7 Incident!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Courtney">...Is there any basis to suspect this person?</line>
 <line speaker="Edgeworth">There is... not.</line>
 <line speaker="Courtney">It's outrageous that you would suspect somebody without any basis! You could get sued for defamation!</line>
@@ -1925,7 +1925,7 @@
 <line speaker="Edgeworth">However, you committed this crime in order to prove Mr. Master's innocence. If the true culprit is someone else, we have a duty to reinvestigate.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">No false evidence from the IS-7 Incident remains in the official case files. Moreover, there is no evidence to lend credence to Ms. Hall's testimony. We should first arrest Ms. Hall as the culprit behind today's incident.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">We cannot be certain that all the case files are accurate. After all, the prosecutor in the case has a history of... forging evidence.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Are you suggesting that the P.I.C. overlooked such a prosecutor...?</line>
@@ -1938,15 +1938,15 @@
 <line speaker="Courtney">Yes. Every word I utter is for the sake of law and order.</line>
 <line speaker="Edgeworth"><thought>...It seems she intends to hide the truth for the sake of the P.I.C. At this rate, neither Mr. Master nor Ms. Hall will be saved...!</thought></line>
 <line speaker="Courtney">I acknowledge that Prosecutor von Karma fabricated the information about the body.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If you acknowledge that, why won't you reopen the case!</line>
 <line speaker="Courtney">The Goddess of Law does not err in her judgements. While Prosecutor von Karma may have used underhanded tactics...</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">If you ask me, it's all been bogus ever since Von Karma fabricated evidence. And you claim that justice was served... What is the P.I.C. thinking?</line>
 <line speaker="Courtney">...I can already declare my verdict. There is no need for further investigation.</line>
 <line speaker="Edgeworth">Let's hear your explanation on the matter then.</line>
 <line speaker="Courtney">However, he successfully convicted Mr. Master as an accomplice.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I heard that the biggest factor in Mr. Master's conviction was his confession. If Prosecutor von Karma had a hand in his confession, the ruling may not be just.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">The initial investigation was handled by Detective Rip Lacer... He was the one who obtained the confession... according to the official reports. All I can say is that the ruling has already been handed down.</line>
@@ -1955,19 +1955,19 @@
 <line speaker="Kay">Hmm. So they're kinda like what the police are to Great Thieves...</line>
 <line speaker="Edgeworth"><thought>...Says the Great Thief who nonchalantly works alongside the police.</thought></line>
 <line speaker="Courtney">I believe that the true culprit was Ms. Curator herself.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you saying that both Ms. Hall and Mr. Master murdered Isaac Dover?</line>
 <line speaker="Courtney">Mr. Master committed the murder, while Ms. Curator moved the body... That's what I believe.</line>
 <line speaker="Kate">What...! How can you say that...!? We would never kill Monsieur Dover...!</line>
 <line speaker="Courtney">Did you not steal the body and preserve it for 18 years? ...It is only natural to suspect you of being an accomplice.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">She has already confessed to her crimes. And now is not the time to judge her of her past crimes.</line>
 <line speaker="Courtney">...In that case, let's judge Ms. Hall for her current crime.</line>
 <line speaker="Courtney">She even attempted to murder Mr. Gustavia today, in order to pin the blame on him.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If she wanted to pin the crime on somebody, why choose Mr. Gustavia?</line>
 <line speaker="Courtney">Perhaps Mr. Gustavia suspected Ms. Hall was the criminal. As he attempted to confirm whether or not the Gemini Sculpture was genuine... ...he was caught in a trap meant to silence him forever.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Can you prove that theory?</line>
 <line speaker="Courtney">Mr. Gustavia is currently teetering on the brink of death. There's probably no way to prove it, unless he regains consciousness. In other words... there is nothing we can do for now.</line>
 <line speaker="Edgeworth">That can't be true. There must still be something we can do!</line>
@@ -1975,7 +1975,7 @@
 <line speaker="Edgeworth"><thought>In order to protect Katherine Hall... Jeffery Master gave a false confession. They were both trying to protect each other...</thought></line>
 <line speaker="Add statements">"We already have ample evidence for both the IS-7 Incident and today's poison gas incident." and "There is no need to investigate any further."</line>
 <line speaker="Courtney">We already have ample evidence for both the IS-7 Incident and today's poison gas incident.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">By ample evidence, you mean...?</line>
 <line speaker="Courtney">For the IS-7 Incident, we have a body, the murder weapon... and a pair of suspects. For the poison gas incident, we have the two chemicals and Ms. Hall's confession. Furthermore, I have finished collecting all the evidence necessary... ...for your own P.I.C. hearing, Prosecutor Edgeworth.</line>
 <line speaker="Edgeworth">What...!</line>
@@ -1983,15 +1983,15 @@
 <line speaker="Ray">Miles, you know you're always welcome to join the Edgeworth Law Offices.</line>
 <line speaker="Edgeworth">...Mmgh... Judge Courtney. I'd like to ask that you refrain from making such needless remarks.</line>
 <line speaker="Courtney">Hmhm... I understand. Well, regardless...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Courtney">There is no need to investigate any further.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you saying that there is nothing left for us to investigate?</line>
 <line speaker="Courtney">We have already exhausted all ends in regards to the evidence. This court will accept no further deliberations. I shall now deliver my verdict for the defendant, Katherine Hall. I hereby pronounce you...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn> There is still a need for further investigation!</line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn> There is still a need for further investigation!</line>
 <line speaker="Courtney">If you wish to halt my verdict, please do so with evidence. That is, if there is any evidence that requires further deliberation...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>I cannot allow this case to end here. There is still something that needs to be cleared up! Looks like I'll have to show Judge Courtney something to convince her...!</thought></line>
 <line speaker="Edgeworth">There is still one piece of evidence from the IS-7 Incident that remains unsettled. ...Take a look at this.</line>
 <line speaker="Courtney">This is...?</line>
@@ -2034,7 +2034,7 @@
 <line speaker="Gustavia">Nnph...! At least there is one person here who understands.</line>
 <line speaker="Courtney">My name is Justine Courtney. I am a judge. If you would like, I would be happy to assist you. Let us show Prosecutor Edgeworth the truth of 18 years ago.</line>
 <line speaker="Gustavia">Nnph... Understood. I shall prove my innocence to you, Sir Prosecutor!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney... Is that your answer? Do you intend to bury the truth of the IS-7 Incident before it can be brought to light!?</line>
 <line speaker="Courtney">...I merely believe in the judgement of the Goddess of Law.</line>
 <line speaker="Edgeworth">Ultimately, those who render judgement are only human. As long as humans control the law, there is no guarantee that every verdict is correct. If you are going to help conceal the truth... I will not hold back!</line>
@@ -2055,7 +2055,7 @@
 <line speaker="Courtney">There are parts of Mr. Gustavia's testimony that I have issues with, as well. However... there is no evidence to disprove it.</line>
 <line speaker="Kay">B-But that's...!</line>
 <line speaker="Gustavia">Would it not make sense for suspicion to fall on Lady Katherine before myself? She may have intended to release the poison gas haphazardly.</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">Kate turned on the sprinklers as soon as the gas was released. She was specifically targeting the person who triggered the trap. ...Mr. Gustavia. You were her only target.</line>
 <line speaker="Gustavia">You... You are willing to accept the words of this criminal as the truth?</line>
 <line speaker="Edgeworth">Ms. Hall must atone for her crimes. However... the same can be said for the criminal from 18 years ago.</line>
@@ -2082,7 +2082,7 @@
 <line speaker="Gustavia">Ngh... Back then my training had been insufficient.</line>
 <line speaker="Edgeworth">It seems you worked together through the semifinals, but not during the finals. Why is that?</line>
 <line speaker="Gustavia">We both wished to compete in the finals against Sir Master on our own merits...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You must have also helped with Isaac Dover's dessert even during the finals!</line>
 <line speaker="Gustavia">Nnph... What makes you able to declare something like that?</line>
 <line speaker="Edgeworth">Didn't you tell Prosecutor von Karma about it yourself, 18 years ago? ...That you "cooperated until the day before the finals"?</line>
@@ -2116,7 +2116,7 @@
 <line speaker="Gustavia">Nnghhoooh! Wh-What is it!?</line>
 <line speaker="Edgeworth">During the finals of the contest, you made your desserts on your own.</line>
 <line speaker="Gustavia">I wanted to compete for the title of the World's Greatest Pastry Chef on my own merits.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">If that was truly the case, you would have competed on your own merits from the start. I want you to tell me why it was necessary for you to cooperate with Isaac Dover.</line>
 <line speaker="Edgeworth">During the contest 18 years ago, Mr. Gustavia collaborated with Mr. Dover. I wonder... What made them decide to cooperate in the first place? That's what I need to draw out from him, but...</line>
 <line speaker="Gustavia">......</line>
@@ -2303,7 +2303,7 @@
 <line speaker="Ray">Well, of course he isn't going to fess up that easily. This gun's been on the run for 18 years, after all. Guess we'll just have to keep on pressing him until he breaks, eh?</line>
 <line speaker="Edgeworth">...Yes.</line>
 <line speaker="Gustavia">Sir Dover and I cooperated until the finals. I handled the flavor, he was in charge of the design.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So Mr. Dover took care of the design, while you handled the flavor...</line>
 <line speaker="Gustavia">Sir Dover was a sculptor by tade. His sense of design was splendid. But he was just an amateur chef. We combined out strengths by working together.</line>
 <line speaker="Ray">He he heh. You never did have much design sense, did you, Mr. Gustavia?</line>
@@ -2313,7 +2313,7 @@
 <line speaker="Ray">Woah! You really improved these past 18 years!</line>
 <line speaker="Gustavia">Nwahahahahahaha! Behold the fruits of my 18 years of training! I've put my life and limb on the line for my dessert skills! It's true that I cooperated with Sir Dover 18 years ago, up until the finals...</line>
 <line speaker="Gustavia">However, for the finals, I wanted to challenge Sir Master with my own skills.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you were really serious about the title of World's Greatest Pastry Chef?</line>
 <line speaker="Gustavia">Yes. Confectionery is my life... Naturally, I wanted to be the World's Greatest. ...But back then I was still inexperienced, and I was no match for the better chef.</line>
 <line speaker="Edgeworth">But your goal was also to obtain the Angel's Recipe, right? Wouldn't the recipe book be worth more to you than the title?</line>
@@ -2323,14 +2323,14 @@
 <line speaker="Edgeworth">Gah... I realize he's still recuperating, but...!</line>
 <line speaker="Courtney">Mr. Gustavia, do not yield to this devilish prosecutor! Now then, please continue with your testimony.</line>
 <line speaker="Gustavia">I helped Sir Dover make his entry, but I made mine completely on my own.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you helped Mr. Dover with his dessert, but made yours all by yourself...? No matter how you look at it, this seems odd. Why didn't Mr. Dover assist you?</line>
 <line speaker="Gustavia">It matters not how it seems, it's the truth. I do not know what Sir Dover was thinking.</line>
 <line speaker="Ray">It's hard to prove if someone is lying about something that happened 18 years ago. Hey, Kay, does your secret weapon also work as a lie detector?</line>
 <line speaker="Kay">If it did, I'd have already stolen Mr. Edgeworth's spotlight!</line>
 <line speaker="Edgeworth">...There's no need for that, I will expose this man's lies myself. Dane Gustavia. Please continue with your testimony.</line>
 <line speaker="Gustavia">If the flavor of my entry wasn't good enough, my own lack of training was to blame.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Up until the finals, I heard that you received high praise for the flavor of your desserts. Was there some sort of accident during the finals?</line>
 <line speaker="Gustavia">Nmph... Nothing of the sort. I simply... was unable to taste my work due to my taste disorder. My intuition must have been off. That's all.</line>
 <line speaker="Edgeworth">Then, was your intuition fine while making Mr. Dover's entry? How could there be such a huge difference between the finals and the previous day?</line>
@@ -2345,15 +2345,15 @@
 <line speaker="Add statement">"Sir Dover's son and my own attended the same elementary school."</line>
 <line speaker="Edgeworth"><thought>I don't think there's any reason to change the topic.</thought></line>
 <line speaker="Gustavia">Aside from not cooperating with Sir Dover, the finals weren't much different from the semifinals.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you were still able to make your desserts without Mr. Dover's assistance?</line>
 <line speaker="Gustavia">I may have lacked design sense, but I was confident in the flavor. Apart from the design, there were no major differences between my finals and semifinals entries.</line>
 <line speaker="Ray">Huh? That sure is strange. That's not how Uncle Ray remembers it. I'm pretty sure both the look and taste of your finals dessert scored poorly.</line>
 <line speaker="Kay">Then, there's no way he would have won the contest.</line>
 <line speaker="Edgeworth"><thought>Even the flavor, which he was so confident about, failed to materialize during the finals. Something must have changed besides Mr. Dover's cooperation, but what...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gustavia">Sir Dover's son and my own attended the same elementary school.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Then, it wasn't a coincidence that you both participated in the contest?</line>
 <line speaker="Gustavia">I heard about the contest, so I made the suggestion to Sir Dover. He always wanted money for his sculpting business.</line>
 <line speaker="Edgeworth"><thought>If I recall... Mr. Dover was a greedy man who was always after more money.</thought></line>
@@ -2451,8 +2451,8 @@
 <line speaker="Gregory">That's the lyre from the Gemini constellation...</line>
 <line speaker="Edgeworth">Exactly... For some reason, salt bad been mixed into the lyre. No other traces of salt were found in Dover's room.</line>
 <line speaker="Courtney">In that case... Please explain. Where did the salt detected in the lyre come from?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This was the true nature of the salt!</line>
 <line speaker="Courtney">...Presenting me with such absurd logic... You fill my eyes with salty tears!</line>
 <line speaker="Edgeworth"><thought>Mmph... I can almost feel the cold salty tears flowing down my cheeks as well...</thought></line>
@@ -2575,36 +2575,36 @@
 <line speaker="Gustavia">Nwahahahahahahaha! How unfortunate, Sir Prosecutor!</line>
 <line speaker="Edgeworth"><thought>...Is there nothing I can do!? Is there no way to continue pursuing Mr. Gustavia!?</thought></line>
 <line speaker="Gustavia">It has been 18 years since I murdered Dover.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">No matter how many years have passed, your sin will never fade!</line>
 <line speaker="Gustavia">Sir Prosecutor, I'm sure you must have realized by now... ...there's no way you can arrest me!</line>
 <line speaker="Gumshoe">Arresting you would be a piece of cake for someone like Mr. Edgeworth! Isn't that right. sir!?</line>
 <line speaker="Edgeworth">Uh... Hmm... I don't think it will be that simple.</line>
 <line speaker="Gustavia">Nwahahahahaha! It's impossible for you to arrest me!</line>
 <line speaker="Gustavia">Afterwards, I trained in Zheng Fa to become the world's best confectioner.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You trained in Zheng Fa...?</line>
 <line speaker="Gustavia">After the incident 18 years ago, I left on a journey. I already decided to hone my candy crafting skills in Zheng Fa. Thanks to that... My design sense is incomparable to what it was in the past!</line>
 <line speaker="Debeste">Woooooah! That's awesome!</line>
 <line speaker="Gustavia">...You may have it, if you'd like.</line>
 <line speaker="Debeste">Oh! Sweet!</line>
 <line speaker="Edgeworth"><thought>So, he trained in Zheng Fa...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gustavia">I did not witness the Sir Master's final trial.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you weren't called as a witness by Prosecutor von Karma or my father?</line>
 <line speaker="Gustavia">I had more important things to do than attend the trial. I was much too busy trying to master the art of desserts.</line>
 <line speaker="Ray">Your old man did try to find him, but could never get hold of a contact address.</line>
 <line speaker="Edgeworth"><thought>...So he took the initiative, and left before he could be summoned to court.</thought></line>
 <line speaker="Gustavia">The statute of limitations for murder in this country is 15 years, is it not?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It's possible that some of your actions 18 years ago were not affected by the statute!</line>
 <line speaker="Gustavia">Nwahaha... It's been so long, I've got nothing left to hide. Ask me anything you'd like.</line>
 <line speaker="Edgeworth">...Very well. Could you explain to me what you did during these past 18 years?</line>
 <line speaker="Gustavia">Certainly. After the contest, the medicine from the recipe book allowed me to fully cure my taste disorder. I then immediately headed to Zheng Fa, to train my design skills.</line>
 <line speaker="Ray">So he wasn't seen ever since that case because he was in a foreign country...</line>
 <line speaker="Gustavia">Indeed. And I'm certain that I went abroad to train... ...about one year after that case... Right before Sir Master's final trial began. And thanks to my training, I am now a confectioner unparalleled in both taste and design!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You should not be proud of a position earned through the sacrifices of others.</line>
 <line speaker="Gustavia">Nwahahahahahahaha! You can't bake a cake without breaking a few eggs. Sacrifices were necessary for my goal!</line>
 <line speaker="Kay">That's horrible...</line>
@@ -2618,7 +2618,7 @@
 <line speaker="Add statement">"I did not witness the Sir Master's final trial."</line>
 <line speaker="Edgeworth"><thought>...Nothing seems particularly important. I'll think about this a little more.</thought></line>
 <line speaker="Gustavia">In other words, it's impossible for you to arrest me!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It's... too early to say for sure that it's impossible!</line>
 <line speaker="Gustavia">Just give up, Sir Prosecutor. Just like your father before you, you cannot catch me!</line>
 <line speaker="Edgeworth">Ngh...! <thought>It was because of Von Karma's interference that my father couldn't find the truth. And now, I'm about to lose the truth due to the statute of limitations...!</thought></line>
@@ -2628,7 +2628,7 @@
 <line speaker="Edgeworth">I am not a Great Thief... But, it is as you say. Dane Gustavia... I won't let you escape!</line>
 <line speaker="Gustavia">Nwahahahahahahaha! By all means, do try your best!</line>
 <line speaker="Gustavia">I only confessed my crime because the statute of limitations had expired!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you confessed because you knew that the statute of limitations had already expired.</line>
 <line speaker="Gustavia">Nwahahahaha! Of course! Who would confess otherwise!? Well... I would have preferred to carry the truth of Dover's murder to my grave.</line>
 <line speaker="Edgeworth">...Why is that?</line>
@@ -2662,7 +2662,7 @@
 <line speaker="Kate">So... Monsieur Gustavia really is beyond the law's reach.</line>
 <line speaker="Ray">Kate... What are you thinking?</line>
 <line speaker="Kate">..........</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">If you're thinking of taking matters into your own hands, I implore you to reconsider. There still... might be a way to bring this man to justice.</line>
 <line speaker="Kate">What...?</line>
 <line speaker="Ray">...Miles. Remember the facts of the case 18 years ago. Just as you were mistaken earlier, it seems Mr. Gustavia has also overlooked one key detail.</line>
@@ -2674,12 +2674,12 @@
 <line speaker="Edgeworth"><thought>If I don't object here... Mr. Gustavia will never be brought to justice for his crimes. And I'll lose my chance to save Mr. Master forever. Is that truly the path I believe in?</thought></line>
 <line speaker="Edgeworth"><thought>My father and Von Karma. Their paths diverged. One revealed the truth, the other concealed it... The path that I choose is... the one that reveals the truth!</thought></line>
 <line speaker="Courtney">I see no further reason to prolong this trial. I hereby find Dane Gustavia "Not Guilty".</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">"Overruled"! Gustavia... will stand in court for his crimes!</line>
 <line speaker="Courtney">...Do you mean to say you have found a way to arrest Mr. Gustavia?</line>
 <line speaker="Edgeworth">...Exactly. <thought>I'll show Judge Courtney the evidence that will shatter the statute of limitations!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I submit this evidence to the court!</line>
 <line speaker="Courtney">...I find it hard to ascertain its relevance. Therefore, I cannot accept it.</line>
 <line speaker="Edgeworth">Wha!</line>
@@ -2702,7 +2702,7 @@
 <line speaker="Gustavia">GNNGGHHAAAAAAAAAAHH!</line>
 <line speaker="Courtney">The Goddess of Law is unerring in her judgments. However... it seems that the prosecutor at the time was not. I cannot believe it, but it seems like the case will have to be reopened...</line>
 <line speaker="Gustavia">This... is absurd...! ...You cannot arrest me...!</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">For the last 18 years... an innocent man has suffered greatly in your stead. Mr. Gustavia. It's now time for you to atone for your crimes!</line>
 <line speaker="Gustavia">Nnghhooooh! I had finally... earned my place as the greatest confectioner in the world... To achieve that goal... I cast everything aside, even my own son...!</line>
 <line speaker="Edgeworth">...What a shame. You can't run from your crimes any longer!</line>
@@ -2772,7 +2772,7 @@
 <line speaker="Edgeworth">Mr. Master... I don't think you realize just how much Ms. Hall cares for you. I have something here that clearly proves the two of you share an unbreakable bond.</line>
 <line speaker="Master">An unbreakable bond...?</line>
 <line speaker="Edgeworth"><thought>Proof of the bond between Jeffery Master and Katherine Hall. This should give Mr. Master some peace of mind...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Master">These chocolates... Did Kate make them?</line>
 <line speaker="Edgeworth">...She did.</line>
 <line speaker="Kay">They're really sweet and tasty!</line>
@@ -2784,7 +2784,7 @@
 <line speaker="Master">Ho ho... Thank you very much. Say, you remind me of an old friend... Do you know of a Detective Badd?</line>
 <line speaker="Gumshoe">Of course I do! Detective Badd is my number one role model, pal!</line>
 <line speaker="Master">How uncanny... Talk about fate.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Master">This... is the bond Kate and I share? I see... you must be speaking metaphorically...</line>
 <line speaker="Edgeworth">Uh, well, that's... <thought>Looks like I showed him the wrong thing.</thought></line>
 <line speaker="Master">...Thank you.</line>
@@ -2820,61 +2820,61 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right... I need to reconsider the information.</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information. I need to think this over one more time.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">What do you think of this piece of evidence, Prosecutor von Karma?</line>
 <line speaker="Gregory">I-I am a defense attorney...!</line>
 <line speaker="Gregory"><thought>Ngh...! He really looks down on me...!</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">Have a look at this piece of evidence!</line>
 <line speaker="Gregory">Uugh...!</line>
 <line speaker="Gregory"><thought>Ngh... He's laughing at me...!</thought></line>
-<line speaker="Gregory"><cutIn>Objection!</cutIn></line>
+<line speaker="Gregory"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregory">That statement is strange. It contradicts this piece of evidence!</line>
 <line speaker="Gregory">Ngh...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Take a look at this piece of evidence!</line>
 <line speaker="Kate">In that case, would you take a look at my dance too?</line>
 <line speaker="Edgeworth">N-No. Dancing doesn't have anything to do with what we're talking about.</line>
 <line speaker="Kate">But can't the same be said about what you've just said, Monsieur Edgeworth?</line>
 <line speaker="Edgeworth">Ngh!</line>
 <line speaker="Kate">...Shall I return to my story?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence will tell us the truth.</line>
 <line speaker="Kate">This one, you say? ...Do you want to make me out to be a criminal that badly, Monsieur Edgeworth? Even going as far as to force your strained logic on me...</line>
 <line speaker="Edgeworth">P-Please don't cry!</line>
 <line speaker="Kate">In that case, I'll return to my story.</line>
 <line speaker="Edgeworth"><thought>Those tears were fake...? As expected of a former acclaimed actress.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your statement just now clearly contains a contradiction!</line>
 <line speaker="Kate">♬ How strange, How suspiciooous! ♪ ♪ I don't think soooo! Not. One. Bit! ♬</line>
 <line speaker="Edgeworth">.....! <thought>I got caught up in her rhythm!</thought> I'd like an encore. ...Testify for me one more time.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney, could you take a look at this piece of evidence?</line>
 <line speaker="Courtney">I'm afraid I cannot accept that piece of evidence. I do not believe it has any relation to my testimony.</line>
 <line speaker="Edgeworth">Nnghoooh! <thought>As I expected, she's nothing like Mr. Debeste. However, I won't back down so easily!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney. Don't you have a problem with that statement just now?</line>
 <line speaker="Courtney">Should I have a problem with it?</line>
 <line speaker="Edgeworth">Hmph... Exactly. Because there's no problem at all!</line>
 <line speaker="Courtney">In that case, you should have refrained from speaking in the first place.</line>
 <line speaker="Edgeworth">Nnghhooh! <thought>I don't think that left a good impression...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney. There is a contradiction in your testimony!</line>
 <line speaker="Courtney">I cannot authorize this statement.</line>
 <line speaker="Edgeworth">Hmph... And why not?</line>
 <line speaker="Courtney">Because it's obvious you're bluffing.</line>
 <line speaker="Edgeworth">Nguuuoooh! <thought>Is that the impression I give off? ...Next time for sure, I will present evidence that will silence her for good!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This evidence will tell us the truth!</line>
 <line speaker="Gustavia">...You are clearly bluffing! I was not born yesterday.</line>
 <line speaker="Edgeworth">(I-Indeed... this evidence doesn't show a contradiction!</line>
 <line speaker="Gustavia">Shall I continue?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your testimony just now, it's contradictory, isn't it?</line>
 <line speaker="Gustavia">...Oh my. You say such strange things, Sir Prosecutor. At this rate, you'll never reach your father.</line>
 <line speaker="Edgeworth">What did you...!</line>
 <line speaker="Gustavia">Nwahahahaha! Don't get so worked up.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your testimony is faulty. Take a look at this!</line>
 <line speaker="Gustavia">.....</line>
 <line speaker="Edgeworth">...Why are you meditating? Take a look at this piece of evidence!</line>

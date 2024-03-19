@@ -181,7 +181,7 @@
 <line speaker="Kay">What the!? Hey! The Steel Samurai just waltzed straight on through without one! Now if you don't hurry up and let me through, my phony is going to escape!</line>
 <line speaker="Edgeworth">Kay, a country's embassy is considered to be a part of the country itself. If you don't go through the proper procedures to enter the country...</line>
 <line speaker="Kay">Mr. Edgeworth! I'm going to enter through Babahl and climb over the wall into Allebahst!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You would tell a prosecutor straight out that you intend to illegally enter another... Kay, are you listening to me!?</line>
 <line speaker="Kay">Kay Faraday, and I'm coming through!</line>
 <line speaker="Guard">Yes, and welcome!</line>
@@ -191,7 +191,7 @@
 <line speaker="Edgeworth">You... accursed Yatagarasu! Kay! You...! You had better be alright, wherever you are!</line>
 <line speaker="Kay">I told you! It wasn't me!</line>
 <line speaker="Shih-na">..................</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">*huff, huff, huff*... Kay! Are you alright!?</line>
 <line speaker="Kay">Do I look alright to you!? Now, can you do something about this woman!?</line>
 <line speaker="Gumshoe">Mr. Edgeworth...</line>
@@ -227,7 +227,7 @@
 <line speaker="Palaeno">It's really nothing. Manny was my secretariat, so of course I want to help you as much as I can. In fact, it's a blessing that Interpol agents were able to make it so quickly.</line>
 <line speaker="Edgeworth">Franziska...</line>
 <line speaker="Franziska">Well, well. I never imagined that I'd meet you here of all places. This is an embassy, meaning that you have no authority to conduct...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Franziska">A-Already!? What is it!?</line>
 <line speaker="Edgeworth">Ambassador Palaeno.</line>
 <line speaker="Palaeno">Hm? And you are?</line>
@@ -319,7 +319,7 @@
 <line speaker="Gumshoe">It looks like the ripped corner of a piece of paper, sir.</line>
 <line speaker="Edgeworth">No, I don't think it's ripped; it seems more, to me, like it's stuck in the safe.</line>
 <line speaker="Gumshoe">Hey, you're right! It won't budge an inch, not even when I tug on it! But I don't think I've ever seen paper stuck on the inside of a safe before...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Detective, I think you have it backwards. It's not the paper that's strange... It's the safe.</line>
 <line speaker="Gumshoe">What do you mean?</line>
 <line speaker="Edgeworth">What I mean is that the secret to this safe is that...</line>
@@ -356,13 +356,13 @@
 <line speaker="Edgeworth">Arrngh... <thought>It's bad enough for Franziska to doubt me, but Detective Gumshoe as well!? I must remain calm, and examine this safe once more for a clue on how to open it!</thought></line>
 <line speaker="Edgeworth">Doesn't the shape of this keyhole remind you of something, Franziska?</line>
 <line speaker="Franziska">The shape? It does look very familiar... However, I believe it's simply a latch hole for the safe's lock mechanism. It's just for keeping the door shut, nothing more.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Is that so? The person who used this safe... ...Mr. Coachen, made sure this safe had two compartments, in order to hide something. Do you honestly think someone like that would allow the keyhole to the hidden half... ...to look so obviously like a keyhole that even the average person could figure it out?</line>
 <line speaker="Franziska">! ...You can't be serious...! Are you saying that this hole is the keyhole to the hidden compartment of this safe?</line>
 <line speaker="Edgeworth">That's precisely what I'm saying.</line>
 <line speaker="Franziska">...!</line>
 <line speaker="Edgeworth">And I will prove to you right now... ...that the Yatagarasu's Key is the key that will open it!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">The Yatagarasu's Key!? Miles Edgeworth! This had better be a very bad joke!</line>
 <line speaker="Edgeworth">Sorry, but this is no joke. The Yatagarasu's Key... ...is the very key that will open the second compartment of this safe.</line>
 <line speaker="Franziska">We know that this key opens the first compartment of the safe. But the keyhole you're talking about... ...is of an entirely different shape than that of the key!</line>
@@ -417,7 +417,7 @@
 <line speaker="Franziska">Yes, and with this, it has become crystal clear... ...that Mr. Coachen himself was responsible for the mass smuggling of Babahlese ink!</line>
 <line speaker="Edgeworth">Babahlese ink?</line>
 <line speaker="Franziska">Babahlese ink is a special product of the Republic of Babahl. However, due to a special reason, only a limited volume is ever exported.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And that reason is...?</line>
 <line speaker="Franziska">That's classified. It's on a need to know basis, and you don't need to know. In any case, it seems that the head of the smuggling ring was our victim, Mr. Manny Coachen.</line>
 <line speaker="Edgeworth">His base was in an embassy, thus, it was hard for both our country and his to interfere. Making it the deal conditions under which to run a smuggling operation.</line>
@@ -487,7 +487,7 @@
 <line speaker="Gumshoe">Well, if I had one of those in my room, I bet I'd go dizzy from staring at it as I slept.</line>
 <line speaker="Edgeworth">Detective Gumshoe. In the real world, we close our eyes when we sleep.</line>
 <line speaker="Palaeno">Because this is a national treasure, can I ask that you please not touch it? I'm afraid the only ones allowed to touch it are myself and the secretarist.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">But there is a possibility that it is related to the murder, wouldn't you agree?</line>
 <line speaker="Gumshoe">Hey, Mr. Edgeworth... Why don't we give up for now? We can force them to let us investigate it later when we find some solid proof!</line>
 <line speaker="Edgeworth">...I suppose I don't have a choice here. <thought>This must be one of the Primidux Statues Kay was talking about earlier. ............ Is it just me or does this man look just like the Steel Samurai? They could be twins.</thought></line>
@@ -573,7 +573,7 @@
 <line speaker="Palaeno">Oh! How fascinating!</line>
 <line speaker="Edgeworth"><thought>Is it possible that the ambassador didn't know about the existence of this key...?</thought></line>
 <line speaker="Palaeno">...Hm? In its knife form, there is a flower mark at the base of the blade. Hmm... I guess this knife might be from when we used to be a part of Cohdopia.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And how did you come to that conclusion?</line>
 <line speaker="Palaeno">It has both of Cohdopia's national symbols, the butterfly and the flower. I suppose Manny used this key here at the embassy <thought>Key used at Embassy - This key was stolen from the Cohdopian Embassy 7 years ago by the Yatagarasu.</thought> back when we were still Cohdopia.</line>
 <line speaker="Franziska">Ambassador Palaeno, this key was stolen from the Cohdopian Embassy seven years ago... ...by Calisto Yew, otherwise known as the Great Thief Yatagarasu.</line>
@@ -629,7 +629,7 @@
 <line speaker="Shih-na">You realize now, don't you? That this girl is the only one it could be. Now come along quietly, Yatagarasu... Kay Faraday. You are under arrest for the murder of Manny Coachen.</line>
 <line speaker="Kay">M...Mr. Edgeworth! Please, you have to believe me! I didn't do it! I chased the fake Yatagarasu in here... and he... he was already...</line>
 <line speaker="Shih-na">You have the right to remain silent. Anything you say can and will be used against you.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I'd like to help you reduce the number of mistaken arrests Interpol makes.</line>
 <line speaker="Shih-na">...What is that supposed to mean?</line>
 <line speaker="Edgeworth">I believe I told you that Kay Faraday is not the culprit of this crime.</line>
@@ -642,26 +642,26 @@
 <line speaker="Edgeworth">Very well. Then I shall prove that Kay is not the Yatagarasu who killed Mr. Manny Coachen!</line>
 <line speaker="Shih-na">...Go ahead and try. Show me what the prosecutors of this country are made of.</line>
 <line speaker="Shih-na">Even your police confirmed that the Yatagarasu infiltrated the Babahlese embassy tonight.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">They may have confirmed it, but are you telling me that no one could catch the thief? If so, you're basically admitting that the Yatagarasu that committed murder eluded us!</line>
 <line speaker="Shih-na">......... Of course, I chased after the Yatagarasu that entered the Babahlese Embassy right away. And that is also why I'm making this arrest right now. Because at the end of my long chase... there was only this girl.</line>
 <line speaker="Edgeworth">Nnnghoooh!</line>
 <line speaker="Shih-na">In any case, this is what I believe happened tonight.</line>
 <line speaker="Shih-na">Utilizing the confusion cause by the fire, the Yatagarasu snuck into this embassy.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The confusion caused by the fire...? Are you saying... that the Yatagarasu was not the arsonist who started the fire?</line>
 <line speaker="Shih-na">A suspicious person in a long coat was spotted in the area. Officers in the area claim to have seen that person start the fire.</line>
 <line speaker="Edgeworth">Hmph... It sounds like we have a phantom in our midst.</line>
 <line speaker="Gumshoe">Umm... Yeah...</line>
 <line speaker="Edgeworth"><thought>In a way... he could be considered a phantom, with the way he randomly appears.</thought></line>
 <line speaker="Shih-na">Furthermore, this girl claims to be the Yatagarasu.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Just because she calls herself that, it doesn't prove that she is a killer.</line>
 <line speaker="Shih-na">No, but it does give her a motive. The Yatagarasu sent a card saying, "I will be there to steal your dirtiest secret." Furthermore, there are documents pertaining to some smuggling activity in this room. She obviously wanted to steal them... ...so she killed Mr. Coachen for the key.</line>
 <line speaker="Edgeworth">I see... <thought>Her logic is very sound. I expected nothing less of Agent Lang's secretary. However, that statement just now didn't sound right. It might just be the opening I need.</thought></line>
 <line speaker="Add statement">"She wanted to steal documents regarding smuggling, so she killed Mr. Coachen for the key."</line>
 <line speaker="Shih-na">She wanted to steal documents regarding smuggling, so she killed Mr. Coachen for the key.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you're claiming that Kay knew that a foreign country's embassy had such documents?</line>
 <line speaker="Shih-na">As stated in the calling card, the Yatagarasu was out to steal a "dirty secret"... ...which means that the goal tonight was to steal those smuggling activity documents.</line>
 <line speaker="Kay">You have it all wrong! It was the fake that sent that card!</line>
@@ -669,9 +669,9 @@
 <line speaker="Kay">Umm... Hey, Mr. Edgeworth! I leave it to you to handle this!</line>
 <line speaker="Edgeworth">Yes, I'd rather you did. <thought>The Yatagarasu's goal, huh...</thought></line>
 <line speaker="Shih-na">You can claim she's innocent, but you can't change the facts I've already outlined.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Shih-na">And most importantly, other than her, there was no one else in here with the body.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I really don't think that being the first to discover the body makes her the killer by default.</line>
 <line speaker="Shih-na">No, but if you saw the self-purported Yatagarasu standing in front of a body... ...wouldn't you get a little suspicious yourself?</line>
 <line speaker="Edgeworth">Gnnrk! Even so... I'll still listen to what that person had to say before I passed judgement!</line>
@@ -688,14 +688,14 @@
 <line speaker="Shih-na">.........!</line>
 <line speaker="Edgeworth">By the simple fact that the documents were still in the safe when we looked... ...it's obvious that the killer's target was not the safe at all!</line>
 <line speaker="Shih-na">Then perhaps she didn't know that Mr. Coachen had the key on him.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">If that's the case, then why would she have needed to kill him? Because I can think of no reason for her to kill him if she had not known that fact!</line>
 <line speaker="Shih-na">Need, reason... All of this is simply our conjecturing after the fact. It's entirely possible that she accidentally killed him when she was sneaking him.</line>
 <line speaker="Edgeworth">.........!</line>
 <line speaker="Shih-na">Perhaps she didn't notice the safe's second compartment before returning the key.</line>
 <line speaker="Edgeworth">Arngh!</line>
 <line speaker="Shih-na">But the fact still remains... that Mr. Coachen was stabbed to death.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But you have no definitive proof that it was Kay who committed the act!</line>
 <line speaker="Shih-na">...Actually, I do. I saw her holding the knife she used on the victim with my own eyes.</line>
 <line speaker="Edgeworth">Wh-What...!?</line>
@@ -722,15 +722,15 @@
 <line speaker="Shih-na">Still not giving up, I see. In that case, try to counter my argument, if you can.</line>
 <line speaker="Edgeworth">Don't worry, I can and I will!</line>
 <line speaker="Shih-na">The knife wound on the body is consistent with the blade of the knife.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Does this mean that you already have the results back?</line>
 <line speaker="Shih-na">We have confirmed that the shape of the Babahlese knife's blade matches the wound. Please don't confuse the efficiency of Interpol's forensics teams with your own.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I won't if you don't underestimate our police force. And so we're clear, I'd hardly say your logic is sound, which you will see in a bit.</line>
 <line speaker="Shih-na">If you can prove me wrong... please, by all means go ahead.</line>
 <line speaker="Edgeworth">That has been my intention all along. Now, let us return to your testimony.</line>
 <line speaker="Shih-na">The knife with the butterfly handle is the murder weapon, which the killer is holding.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You mean to say that you saw Kay holding the murder weapon with your own eyes?</line>
 <line speaker="Shih-na">I was also on the search for the Yatagarasu. When I heard that girl's scream coming from this room, I rushed over straight way. When I arrived, I saw that girl standing there motionless with the knife in her hands.</line>
 <line speaker="Kay">But I already told you! I only came in here because I was also after the Yatagarasu! The suspicious person I saw came into this room! But when I entered, it was pitch dark. I felt something by my foot on the floor, so I turned on the lights, and then...</line>
@@ -740,9 +740,9 @@
 <line speaker="Shih-na">That's the only acceptable way to counter an agent of Interpol on the scene of a crime.</line>
 <line speaker="Kay">Mr. Edgeworth... Do you have some kind of evidence that can prove me innocent...?</line>
 <line speaker="Edgeworth">I think I do, because there is one piece of evidence I find to be a bit... interesting. <thought>I think I need to carefully examine that piece of evidence again.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Shih-na">I assume she obtained the knife from the display rack and used it on the victim.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I ask that you please refrain from speculation!</line>
 <line speaker="Shih-na">It's a sound hypothesis derived from the evidence. ...There's no room for debate.</line>
 <line speaker="Edgeworth">Arngh!</line>
@@ -751,7 +751,7 @@
 <line speaker="Franziska">Heh... Helping a subordinate out with advice is the job of any good superior.</line>
 <line speaker="Edgeworth"><thought>She seems to be rather enjoying herself. But she is correct, none the less.</thought> Agent Shih-na, please continue with your testimony.</line>
 <line speaker="Shih-na">The knife is part of a special 3-piece set, which has a design like no other.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">About the three-piece set, is there really no other like it?</line>
 <line speaker="Shih-na">Let's ask Ambassador Palaeno for more details, shall we?</line>
 <line speaker="Palaeno">The knives are indeed special. They have the butterfly, the symbol of the Republic of Babahl, engraved on them. And because there are only three of them in the world, they are very, very valuable.</line>
@@ -760,10 +760,10 @@
 <line speaker="Edgeworth">I see...</line>
 <line speaker="Shih-na">Are you satisfied now? If so, let's continue.</line>
 <line speaker="Shih-na">The evidence and testimony, it all points to the girl. There is no counterargument.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">No, I believe there is still room for debate, and I'll thank you to not decide that for me.</line>
 <line speaker="Shih-na">I didn't decide anything for you. I'm merely looking at reality the way it is.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmph. Are you sure you're not just viewing the facts through rose-colored glasses?</line>
 <line speaker="Shih-na">............</line>
 <line speaker="Kay">Mr. Edgeworth... I think she's mad at you.</line>
@@ -788,18 +788,18 @@
 <line speaker="Edgeworth">A knife handle with a butterfly on it. I wonder where the blade that this should be attached to is...?</line>
 <line speaker="Edgeworth">How so?</line>
 <line speaker="Shih-na">It's possible... that the girl herself is the one who switched the handles.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Don't be ridiculous! For what purpose would she do such a thing!?</line>
 <line speaker="Shih-na">I don't care to know how a criminal thinks. The way they view the world is beyond the comprehension of a normal person like myself. Therefore, I wouldn't put anything past them, no matter how odd it may seem.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Heh. The truth is right there in front of you, and this knife will show you the way! You will come to see that Kay is not and could not have been Mr. Coachen's killer!</line>
 <line speaker="Edgeworth">There is quite a bit of Mr. Coachen's blood on this blade. Thanks to being a prosecutor, I guess I have become accustomed to seeing blood... But this is not what is important right now!</line>
 <line speaker="Shih-na">What is this mark on here?</line>
 <line speaker="Edgeworth">It's the mark of a flower. I assume you know what this means?</line>
 <line speaker="Shih-na">No, not really. Butterflies rest on flowers all the time to drink their sweet nectar.</line>
 <line speaker="Edgeworth">...And so they do. <thought>However, would this butterfly really drink the nectar of this flower? The answer is clearly... not a chance! Now to prove the relationship between the butterfly and the flower with this!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence will make everything clear to you!</line>
 <line speaker="Shih-na">I can't quite figure out what you're trying to prove with that.</line>
 <line speaker="Edgeworth">I! That is...</line>
@@ -818,7 +818,7 @@
 <line speaker="Shih-na">..................</line>
 <line speaker="Gumshoe">Huh? Hey, why is everyone so quiet...?</line>
 <line speaker="Edgeworth"><thought>I'm happy we got this far and cleared Kay's name... ...but what worries me now is what will happen next.</thought></line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">What is the meaning of this!? An Allebahstian knife, here...!?</line>
 <line speaker="Edgeworth">Do you mean... how did this find its way to the Republic of Babahl? It didn't just find its way over. Rather, we should focus on how it was smuggled over!</line>
 <line speaker="Kay">You know what!? My brain hurts thinking about it while we're just standing around! Thinking while you're on the run? Now THAT'S the way a real Great Thief operates!</line>
@@ -831,7 +831,7 @@
 <line speaker="Shih-na">I understand now that the girl didn't commit the murder. However, there is still the possibility that she is the Yatagarasu.</line>
 <line speaker="Kay">That again!? Look, how many times do I have to explain it to you!? I am the real Yatagarasu! I'm not like that fake one that goes around setting fires, OK!?</line>
 <line speaker="Shih-na">Whether you're the real deal or a fake, it doesn't really matter. All I have to say is this: I have my suspicions that this girl is the one who started the fire.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Preposterous! On what grounds do you suspect her of such a thing!?</line>
 <line speaker="Shih-na">The fact that she calls the Yatagarasu. That in itself is a more elegant proof.</line>
 <line speaker="Kay">Ms. Shih-na.</line>
@@ -865,7 +865,7 @@
 <line speaker="Lang">Yo, were you guys there the whole time? I got a call from Shih-na, and she's already filled me in. It sounds like you're out to get in my way again.</line>
 <line speaker="Edgeworth">I have absolutely no intention of interrupting your investigation. I simply request that you grant me permission to investigate the Allebahstian Embassy.</line>
 <line speaker="Lang">Hmph. And what if I say no?</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Agent Lang! This man is my subordinate. As I have received permission from the ambassador, he is to be extended the same rights.</line>
 <line speaker="Lang">Sorry, sis, but it's not that simple. Allebahst has the strictest immigration regulations in the world, or didn't you know? Even among my elite men, about only half of them were admitted into the country. Besides, any more cooks in the kitchen, and we might spoil the soup, if you get what I mean.</line>
 <line speaker="Franziska">How dare you make such assumptions!?</line>
@@ -919,7 +919,7 @@
 <line speaker="Franziska">It was nothing. I simply made some deductions based on the smuggled item I was following.</line>
 <line speaker="Edgeworth">You mean the Babahlese ink? But why are there restrictions on the export of Babahlese ink to begin with?</line>
 <line speaker="Franziska">That's classified Interpol infor...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Franziska! As your subordinate, I'm a part of your investigation now. Don't you think it would be beneficial if I was as well-informed as you?</line>
 <line speaker="Franziska">.........Point taken. Very well, I'll fill you in. Recently. we discovered some very well-made counterfeit bills circulating in Zheng Fa.</line>
 <line speaker="Edgeworth">Counterfeit bills?</line>
@@ -1123,14 +1123,14 @@
 <line speaker="Larry">I wanted to do that thing he does, so I climbed up to one of the chimneys! But when I got there, there was smoke pouring out of the chimney <thought>Smoke from chimney - Smoke was pouring out of the chimney when Larry thought to climb down it.</thought>.</line>
 <line speaker="Edgeworth">...And?</line>
 <line speaker="Larry">Well, I couldn't go down the chimney with smoke coming up, right? So, I gave up.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Larry, you do realize that Santa Claus does not exist, right?</line>
 <line speaker="Larry">Of course I know! I did graduate from junior high, you know?</line>
 <line speaker="Edgeworth">Then you should also understand this: If Santa was real... he would be the biggest unlawful trespasser in history!</line>
 <line speaker="Larry">Aw, cruuuuuuuuuuud!</line>
 <line speaker="Edgeworth">It is your attempt to imitate Santa that has landed you as prime suspect in this murder!</line>
 <line speaker="Larry">Come on, man. What's so wrong with pretending to be Santa...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Let's start with the fact that it will be the ides of March in a matter of hours. Santa only visits homes on December 24th! That's in December, you nitwit!</line>
 <line speaker="Larry">Nooooooooooooooooooooooo! Hey, wait a sec! We're not in court!</line>
 <line speaker="Edgeworth">Larry, about the Samurai Sword that was used as the murder weapon...</line>
@@ -1138,7 +1138,7 @@
 <line speaker="Edgeworth">Yes.. apparently you did.</line>
 <line speaker="Larry">And, well, I totally forgot about it and left it behind when I left afterwards! You wanna talk about shock, I was the most shocked of all when I heard it killed someone! Shooooooooooocked!</line>
 <line speaker="Franziska">Foolish fool looking especially foolish for foolishly stating such a foolish excuse... You forgot to take something that big with you!? Who would believe such a tale!?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Sorry, Ms. von Karma, but I believe him. Because if anyone could forget something like that, it would be Larry.</line>
 <line speaker="Larry">Edgeyyyy... You believe meeeee...! I just knew that our friendship is something special!</line>
 <line speaker="Edgeworth"><thought>Anyway... even if Larry had simply forgotten the sword and left it behind... ...that, in no way, clears his name. Which means that I will have to prove his innocence from a different angle.</thought></line>
@@ -1368,7 +1368,7 @@
 <line speaker="Oldbag">After the show was over, I've had nothing but free time on my hands. So I used the fireplace <thought>Used the fireplace - At the time of the crime, Ms. Oldbag was warming her hip in the room next door.</thought> in the room next door to keep my bad hip warm.</line>
 <line speaker="Franziska">Well, a murder occurred in the room right next to yours!</line>
 <line speaker="Oldbag">Is that right? Oh, Edgey-poo! I'm so scared! Hold me! Carress me!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I-If you could please not cling on to my personage!</line>
 <line speaker="Franziska">In any case, I take it then, that you failed to show up at Ambassador Alba's speech?</line>
 <line speaker="Oldbag">Oh, that. No, I didn't go. I mean, I may have the heart of a young, tender maiden... ...but my body just refuses to cooperate at times. As soon as the show ended, my hip started acting up and got stiff. I couldn't move at all!</line>
@@ -1458,7 +1458,7 @@
 <line speaker="Edgeworth"><thought>This is one of those rare times when Franziska and I actually see eye to eye...</thought></line>
 <line speaker="Edgeworth">That Samurai Dog was yours, wasn't it?</line>
 <line speaker="Oldbag">Oh, of course I'm forever yours, my Edgey-Wedgey-poo!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I-If you could just stick to what I asked you!</line>
 <line speaker="Larry">Edgey... Are you... and Ms. Oldbag...</line>
 <line speaker="Edgeworth">NO!</line>
@@ -1523,7 +1523,7 @@
 <line speaker="Franziska">As your superior, I command you to hurry up and expose this man's lie!</line>
 <line speaker="Edgeworth">I have every intention to, for I'm not about to let us waste time on such a trifling matter.</line>
 <line speaker="Larry">After the show, I left the pushcart in the Rose Garden, and came into the embassy.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You left the pushcart? Could you please clarify that statement for me?</line>
 <line speaker="Larry">Yeah. So the wheels on the pushcart got covered in dirt from the Rose Garden. It would've made a mess of the floor inside, so Ambassador Alba said to just leave it.</line>
 <line speaker="Edgeworth"><thought>Well, it WOULD be rather impolite to dirty another country's embassy.</thought></line>
@@ -1533,7 +1533,7 @@
 <line speaker="Edgeworth"><thought>She must've been incapacitated by the pain of her bad hip that she suffered during the show.</thought></line>
 <line speaker="Larry">So, I came into the embassy, right? And then...</line>
 <line speaker="Larry">Then, they took a picture of me shaking hands with the ambassador.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you shook hands with the ambassador of the Kingdom of Allebahst, did you...?</line>
 <line speaker="Larry">Yeah! Can you believe it!? I did something really cool for a change. ...But, honestly speaking, there's nothing interesting about shaking some guy's hand.</line>
 <line speaker="Lang">Hey, there. Are you disrespecting another country in their very own embassy?</line>
@@ -1543,7 +1543,7 @@
 <line speaker="Edgeworth">You're already telling us nothing but lies! So let it go and move on!</line>
 <line speaker="Larry">Aaaaaaaalright, already! You don't need to glare at me like that, Edgeeeeeeey!</line>
 <line speaker="Larry">After that, and until my next appearance, I had some free time, so I wandered around.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Larry, I want you to listen very carefully and take this to heart. The whole point of your life is to cause misery and pain to everyone you encounter.</line>
 <line speaker="Larry">I-I knoooooooow! I get it! I'm totally the bad guy again!</line>
 <line speaker="Lang">I thought you're his friend. Don't you think that was a bit harsh? Lang Zi says: "True friends are bosom friends." If you are in trouble, call on your bosom friend, whose shoulder you can truly cry on.</line>
@@ -1551,7 +1551,7 @@
 <line speaker="Edgeworth"><thought>Has it crossed your pea-sized brain yet that Agent Lang is only out to arrest you, Larry?</thought></line>
 <line speaker="Lang">Now then, you were wandering around inside the Embassy, and then what happened?</line>
 <line speaker="Larry">That's when I spotted the chimney. A chimney like that is a rare thing, you know.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I should hardly think that chimneys are that rare.</line>
 <line speaker="Franziska">Agreed. Especially since they are a traditional feature of American houses.</line>
 <line speaker="Lang">Plus, many grand buildings have even larger and fancier chimneys.</line>
@@ -1559,7 +1559,7 @@
 <line speaker="Edgeworth">A "romantic" chimney...?</line>
 <line speaker="Larry">It might sound kinda silly... umm... but women seem to really enjoy them... And I just had a good feeling about that chimney!</line>
 <line speaker="Larry">So then, I wanted to play Santa and decided to give it a try.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You... suddenly wanted to play Santa...?</line>
 <line speaker="Larry">Oh, well, actually, I dressed up as Santa once before already. That was down at Gourd Lake.</line>
 <line speaker="Edgeworth">Gnnrk! ...I'd appreciate it if you wouldn't dredge up such unnecessary memories for me!</line>
@@ -1578,12 +1578,12 @@
 <line speaker="Larry">Of course I know that! I DID graduate from junior high, you know!</line>
 <line speaker="Edgeworth">In that case, it's your turn to tell me something. I want you to tell me to whom you were delivering a present to.</line>
 <line speaker="Larry">Umm... I was, ah... delivering a present to a child not basking in the glow of love?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That must be the most elegant description of you I've ever heard, but a lie is still a lie.</line>
 <line speaker="Larry">Y-You sure know how to kick a guy when he's down, you know that!?</line>
 <line speaker="Edgeworth">In any case, the person you wished to deliver a present unto was most certainly this!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">That's right, it was this person!</line>
 <line speaker="Franziska">...</line>
 <line speaker="Lang">...</line>
@@ -1596,8 +1596,8 @@
 <line speaker="Edgeworth">Well, I must admit that I, myself, hardly ever have the want to run into that lady. However... what if you were misinformed, and under the wrong impression? Then what?</line>
 <line speaker="Lang">Define "wrong impression".</line>
 <line speaker="Edgeworth">I simply mean that the man before you thought to enter the old lady's room... ...without knowing one very important fact. And that fact... is best summed up with this!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Larry, I'd like for you to take a look at this piece of evidence.</line>
 <line speaker="Larry">No way!</line>
 <line speaker="Edgeworth">But--!</line>
@@ -1645,20 +1645,20 @@
 <line speaker="Larry">Yeah, see! I'm totally a pro at this now!</line>
 <line speaker="Edgeworth">Very well. If you wish to see the evidence... ...then let me show you the last piece of evidence you'll ever wish to see.</line>
 <line speaker="Larry">So you think all I wanted to do was to go visit Mindy?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Well, I have been saying that for a while now... After all, if not for that, then for what other reason did you wish to go down that chimney?</line>
 <line speaker="Larry">You can't say that without any evidence! That's against the rules, Edgey!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Heh! Thanks for keeping the prosecutor in line for me, Mr. Suspect!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmph... I have the evidence. And if you wish to see it that badly, I can introduce you two.</line>
 <line speaker="Franziska">Ah, but it's not good to keep them waiting, my subordinate. Hurry and show them already!</line>
 <line speaker="Larry">L-Lies! All lies, Edgey!</line>
 <line speaker="Edgeworth">Well, if YOU wish to lie, then by all means, continue. Because I'm ready to expose your lie at a moment's notice!</line>
 <line speaker="Larry">Arrrrnngh... Y-You won't get the better of me! Now, let's see...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Larry">Well, I dressed up as Santa and climbed up to the chimney, but the smoke was really thick.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Was the smoke coming from the chimney really that thick?</line>
 <line speaker="Larry">You bet! It was so thick, I had tears pouring out of my eyes! It was a mess!</line>
 <line speaker="Lang">..................</line>
@@ -1668,7 +1668,7 @@
 <line speaker="Edgeworth">Hardly. You simply have yet to master how to counter this cross-examination technique.</line>
 <line speaker="Larry">W-Well, what I just said was a slip of the... No, I mean, I said the wrong thing! Besides, isn't this what you really meant to say about what I did tonight?</line>
 <line speaker="Larry">It was a case of mistaken identity, and that mistake made me late for the speech.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I'm not quite sure how you could mistake that actress for this lady...</line>
 <line speaker="Oldbag">Ooh, Edgey-poo! Are you staring at me? Ah, are you finally succumbing to my feminine charms?</line>
 <line speaker="Edgeworth">I-I should think that the Steel Samurai is the one who should know all about your "charms".</line>
@@ -1683,7 +1683,7 @@
 <line speaker="Lang">Hah! So you're saying a woman like that is what made you late to the speech?</line>
 <line speaker="Larry">...Huh? C-Curse you, too! Why is everyone out to make a suspect out of me!? Look, all I can say is this! I was late to the speech...</line>
 <line speaker="Larry">Then, to top it all of, I became a suspect in a murder. THAT'S what you really meant.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I suppose you might be correct in a small way.</line>
 <line speaker="Larry">Wh-What do you mean by that!?</line>
 <line speaker="Franziska">Besides being a suspect in a murder, there are a few other things you are a suspect of.</line>
@@ -1696,7 +1696,7 @@
 <line speaker="Edgeworth">If you have a serious assertion to make, then I'd consider listening, however...</line>
 <line speaker="Larry">No problem! I'm gonna put all I've got into this, so listen good, OK!?</line>
 <line speaker="Larry">But why would I ever put myself through so much humiliation on purpose!?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Larry... This is the final point you wish to make?</line>
 <line speaker="Larry">You got it! I've called on all the energy I have and told it to you with all my soul!</line>
 <line speaker="Edgeworth">In that case, allow me to take that soul and break it.</line>
@@ -1709,17 +1709,17 @@
 <line speaker="Larry">I-In place of the honorable Larry, I offer my soul to you.</line>
 <line speaker="Edgeworth">...Larry... Come out from behind there and face this like a man!</line>
 <line speaker="Larry">Y-You're scary, My Lieeeeeeege!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>This whole testimony is one giant confession of all that he's done tonight. He's practically begging me to show why he bothered to put himself through all of this.</thought></line>
 <line speaker="Edgeworth">Larry, don't even think about denying that you have knowledge of this letter.</line>
 <line speaker="Larry">H-H-H-H-H-Hey! Wh-Wh-Wh-Wh-Wh-Why are you showing that thing to me!?</line>
 <line speaker="Franziska">"Wéndy, I'll be descending on you from above tonight. Your loving knight" Well, isn't that just romantic?</line>
 <line speaker="Edgeworth">But you weren't able to "descend on her from above", were you... Mr. Loving Knight?</line>
 <line speaker="Larry">Aaaaaaaaaaaarghn! I-I have no idea what you're talking about! I don't remember a thing!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You can pretend to be ignorant all you'd like, but it's written right here. This letter proves that you were not out to meet the old lady... ...but rather, that you were attempting to pay Ms. Mindy a visit! <thought>What part of this letter shows that the person Larry had intended to meet was Mindy?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Hmph... All will be answered if we simply look here!</line>
 <line speaker="Larry">Really? Because I'm not sure where I'm supposed to be looking, Edgey!</line>
 <line speaker="Edgeworth">Hmm... <thought>My finger is apparently not as precise as I thought it to be.</thought> You leave me with no other choice. I shall have to point you to a spot that even you can easily comprehend.</line>
@@ -1735,15 +1735,15 @@
 <line speaker="Larry">It's a fake! Someone's out to get me, so they made that fake letter... ...to set me uuuuuuuup!</line>
 <line speaker="Franziska">Accept your defeat graciously!</line>
 <line speaker="Larry">But... you guys are being so mean...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Penmanship analysis.</line>
 <line speaker="Larry">What's that?</line>
 <line speaker="Edgeworth">No matter who, all people have certain unique features to their handwriting. Ergo, all we have to do is compare the handwriting in this letter to a sample of yours... ...and we'll know soon enough who it was that sent this letter.</line>
 <line speaker="Larry">I...I...I... I'll never write another thing in my life!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Tsk, tsk, tsk... It's no use, Mr. Loving Knight. For you've already graciously provided me with a sample of your handwriting</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">You remember this, don't you?</line>
 <line speaker="Larry">Nope, But if you're giving it to me, I'll take it.</line>
 <line speaker="Edgeworth">As if I'd give this to you! <thought>Oops. wrong piece of evidence...</thought> Hmph... A-Anyway! I don't need you to write anything for me!</line>
@@ -1775,7 +1775,7 @@
 <line speaker="Lang">I was the one who found the body of the victim, DeMasque II.</line>
 <line speaker="Edgeworth">Isn't it a bit far-fetched to accuse someone simply on the basis of ownership?</line>
 <line speaker="Lang">But this owner wanted to sneak onto the crime scene. I think that's plenty to go on, don't you?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If you're alluding to his reason for being by the chimney, we've already established that!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Hold on there, Mr. Prosecutor. You two are long-time friends, right? Who's to say you didn't fabricate the evidence to give him an alibi?</line>
@@ -1785,7 +1785,7 @@
 <line speaker="Larry">But come on, I can't think up something as complicated as that! Right, Edgey?</line>
 <line speaker="Edgeworth">Larry, I can agree because I know you and your personality well. However, Agent Lang knows nothing about you... or me, for that matter. <thought>I sense his hatred for my entire profession emanating from his entire being. Meaning that the only way I can prove Larry's innocence is to present irrefutable evidence.</thought></line>
 <line speaker="Lang">I was the one who found the body of the victim, DeMasque II.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you were the first to discover the body this time...</line>
 <line speaker="Lang">"This time"...? What's that supposed to mean!? You'd better watch what you say!</line>
 <line speaker="Edgeworth">I only said "this time" because earlier, Kay was the first to discover the body in Babahl... ...and your secretary, Agent Shih-na, was ready to accuse her of murder for that.</line>
@@ -1794,13 +1794,13 @@
 <line speaker="Edgeworth">Of course not; I was simply pointing out the usual pattern with discoverers of bodies!</line>
 <line speaker="Lang">But in the Babahlese case, there was proof that she was holding the weapon, right? Well, in this one, it's a bit different, since we know exactly where the weapon is.</line>
 <line speaker="Lang">Beside him was the Samurai Sword... glittering red, and offering up the scent of blood.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Excuse me, but "glittering red and offering up scent of blood"...?</line>
 <line speaker="Lang">Do I have to spell it out for you? I mean the sight and smell of blood, of course! And according to the tests, the blood on the sword belongs to the victim. The swords was made to only be used on stage, so it's not sharp. But it is pretty weighty. It's certainly heavy enough to beat someone to death with. Which leads me to suspect that the victim was beaten to death with the sword.</line>
 <line speaker="Edgeworth">Beaten to death, huh? <thought>The last statement is too important to just let it slip by.</thought></line>
 <line speaker="Change statement">"Beside him was the Samurai Sword... glittering red, and offering up the scent of blood." to</line>
 <line speaker="Lang">Beside him was the Samurai Sword... covered in the victim's blood.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the sword is covered in the victim's blood...?</line>
 <line speaker="Lang">Yeah, the lab results confirm that the blood on the sword matches the victim's. But the sword is as dull as a vanilla envelope. It's just a stage prop, after all.</line>
 <line speaker="Larry">The Steel Samurai is all about "Safety First"! So you can't use it like a real sword!</line>
@@ -1810,16 +1810,16 @@
 <line speaker="Edgeworth">...Wh-What the Pink Princess would like to say can wait for the day after eternity!</line>
 <line speaker="Lang">Anyway, my point is that even though the sword is too dull to slice with... ...it's certainly heavy enough to bludgeon someone to death with. Therefore...</line>
 <line speaker="Lang">I suspect he beat the victim to death with that thing.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">About this Samurai Sword... Have you received a report from forensics yet?</line>
 <line speaker="Lang">They confirmed that the blood on the sword belongs to the victim.</line>
 <line speaker="Edgeworth">Alright, but have they confirmed that the outline of his wound is consistent with the weapon?</line>
 <line speaker="Lang">Tell me something... Do you see the dead body right there in front of you? So! If they were conducting the autopsy right now, shouldn't that body not be here!? Well!?</line>
 <line speaker="Edgeworth">Hmph... I suppose so. <thought>I guess they must still be investigating this room. Meaning that it's possible he doesn't know about that piece of evidence's true nature.</thought></line>
 <line speaker="Lang">Anything else you'd like to chit-chat about? No? Good. Now let's continue.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">It was supposed to be in the Steel Samurai's dressing room, but I found it here instead.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Larry has already testified that he forgot the Samurai Sword here...</line>
 <line speaker="Larry">Yeah! I was shaking hands with the ambassador in here, and I left it behind by accident!</line>
 <line speaker="Lang">Not so fast!!</line>
@@ -1831,14 +1831,14 @@
 <line speaker="Lang">And yet you offer it up as fact!? You're a worse person than I originally thought.</line>
 <line speaker="Edgeworth">You are free to think what you'd like, however, I know that Larry is not the killer. Agent Lang, please continue with your argument. I'll expose the flaw in it soon enough!</line>
 <line speaker="Lang">Plus, I found the murder weapon's owner, the suspect, Larry Butz in here, too.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Just because he is the owner of the weapon, therefore he must be the killer, is it?</line>
 <line speaker="Lang">No. Climbing all the way up to the chimney is plenty suspicious in my book as well.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Regarding that, I have already drawn the truth out, and the truth is one thing I don't bend.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">It doesn't matter if it's you or whoever. You prosecutors are all the same. And as for me, prosecutors are the one thing I don't trust in!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">An agent who doesn't trust prosecutors? What are you playing at?</line>
 <line speaker="Lang">...Sorry, sis. But there are only two things I trust: my subordinates and evidence at the crime scene.</line>
 <line speaker="Edgeworth"><thought>Agent Lang hates prosecutors. But as long as he trusts evidence that has been at a crime scene... ...then there IS something I can show him that he can believe in!</thought></line>
@@ -1862,9 +1862,9 @@
 <line speaker="Edgeworth">Ms. von Karma, as you know, unlike your father, I am not a genius prosecutor. Plus, I doubt his record of a 40-year win streak will ever be broken.</line>
 <line speaker="Franziska">..................</line>
 <line speaker="Edgeworth">But perhaps, it is for the best if it remains unbroken. For no one should've conceived of the notion to "convict all defendants" in the first place!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">What a foolishly foolish statement from a foolish fool who hates to lose... It's the job of a prosecutor to make sure that all defendants are found guilty in court. There is nothing more important in this world than a perfect victory!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That may be your opinion, however, I don't believe that's all we are.</line>
 <line speaker="Lang">.........!</line>
 <line speaker="Edgeworth">As a prosecutor, what I pursue is not the perfect victory, but the perfect truth. And if that means that the bridge I must cross will crumble beneath my feet... ...then let it crumble as I walk on towards the truth!</line>
@@ -1876,39 +1876,39 @@
 <line speaker="Lang">It's possible to use the Samurai Sword to kill someone.</line>
 <line speaker="Edgeworth">How long do you intend to cling onto that preposterous theory?</line>
 <line speaker="Lang">As long as I want, because we examined every corner within the walls of this embassy. There's no stone we've left unturned! And we have managed to come up with only one logical conclusion! That the only place inside this embassy with the victim's blood on it is this sword.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You left no stone unturned? Is that a fact?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">If you've got something to say, then say it in the only way I respect, Mr. Prosecutor!</line>
 <line speaker="Edgeworth">Yes, of course. In that case, allow me to make it all crystal clear for you!</line>
 <line speaker="Lang">It's possible to use the Samurai Sword to kill someone.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">May I inquire as to how are you able to make such a claim, Agent Lang?</line>
 <line speaker="Lang">Lang Zi says: "Capable of miracles beyond comprehension, a mysterious creature is man."</line>
 <line speaker="Edgeworth"><thought>...Rather than man, it's Agent Lang's quotes that are getting increasingly incomprehensible.</thought></line>
 <line speaker="Lang">The human body is a mysterious thing. Even with a toy-like sword... ...it's easy to kill a man if you hit just the right spot. Which is why I think it's possible to kill with this thing without leaving a dent.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">But we can only be sure one way or the other by seeing if the wound matches the sword!</line>
 <line speaker="Lang">Hmph, I know that. But as long as it's a possibility, I can proclaim it as much as I'd like.</line>
 <line speaker="Lang">And under these circumstances, it's the only logical conclusion.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">But you must know that your conclusion is wrong!</line>
 <line speaker="Lang">Given the circumstance I'm in, the only people I can trust are my subordinates. Because they're a much more trustworthy bunch than you prosecutors will ever be.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you call yourself a professional...!?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">You still don't see, do you, Mr. Prosecutor? You have to earn my trust. And the only way to do that is to show me proof of another possible murder weapon!</line>
 <line speaker="Edgeworth"><thought>Another possible weapon... In this room, there is only one other thing left... This is going to be a gamble, but I can't withdraw from the game now!</thought></line>
 <line speaker="Lang">You're not going to get me to trust you by the power of your glare alone, you know. Plus, I have other reasons as to why I think the Samurai Sword is the murder weapon!</line>
 <line speaker="Lang">We searched the Embassy, top to bottom, but the victim's blood is only on that weapon.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The only place where you could find blood was on the Samurai Sword...?</line>
 <line speaker="Lang">That's right. Even with Luminol. Which means that there are no other possibilities outside of what I've already outlined.</line>
 <line speaker="Edgeworth"><thought>Do I have a problem with Agent Lang's assertion that the Samurai Sword is the weapon?</thought></line>
 <line speaker="Edgeworth"><thought>Hmm... Perhaps I should wait and see how this plays out for a bit longer.</thought> Agent Lang, if you could be so kind as to continue with your testimony...</line>
 <line speaker="Lang">Hrmph!</line>
 <line speaker="Lang">So isn't it only natural that suspicion would fall onto the owner of said weapon?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And what if you were to find a different murder weapon? Would that clear Larry's name?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Are you saying you can prove the possibility?</line>
@@ -1928,16 +1928,16 @@
 <line speaker="Edgeworth">Of course. Because it's not possible that your men inspected everything in their investigation.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">What are you talking about!? I don't appreciate mind games, and I don't appreciate it when people like you slander my men!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I'm not slandering them, I assure you! I'm merely pointing out that their investigative dragnet has a few holes in it! Namely, that there is something your men couldn't even lay a finger on. And that item is the real murder weapon!</line>
 <line speaker="Lang">Aaaaaaaalright then! I'll play along for now! This "real" weapon that killed DeMasque II... What exactly is it!?</line>
 <line speaker="Edgeworth">The real murder weapon, which not a single person has yet to touch, is this!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">Heh, so you think it's the sword, too, huh?</line>
 <line speaker="Larry">E-Edgeeeeeeey! How can you not believe me!?</line>
 <line speaker="Edgeworth">I-It's not that I don't! My finger merely selected the wrong piece by accident! <thought>Think, Miles! Isn't there something else that could be the murder weapon...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the weapon you're looking for.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Lang Zi says: "One should always perform one's job in the proper manner." And I can't see how it's proper to show me evidence so devoid of potential or relation!</line>
@@ -1949,7 +1949,7 @@
 <line speaker="Edgeworth">Yes, and as you know, only the ambassador and his secretariat may touch it. Which, I believe, means that neither you nor your men were able to examine it, correct?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Ha... ha ha ha ha... You know very well that if we did that, there'd be an international incident... ...between the Kingdom of Allebahst and the Republic of Babahl. The two countries' precarious relationship teeters in the balance... ...over a stupid fight related to a sovereignty statue! But I'll be damned if I let something go unexamined!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, if you could take a look at this... The direction the statue is facing just before and after the crime are different...! And there is only one conclusion I can draw from that.</line>
 <line speaker="Lang">..................</line>
 <line speaker="Lang">Go look for Ambassador Alba, and get him to give us the OK to examine the statue.</line>
@@ -1966,7 +1966,7 @@
 <line speaker="Lang">What do you want? Let's just hurry up and examine the statue already.</line>
 <line speaker="MIB">Wh--!? But Shifu! What about causing an international incident!?</line>
 <line speaker="Lang">Quiet! I'll take the fall if I have to later!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, the hypothesis is mine, so if someone is to take the responsibility, let it be me!</line>
 <line speaker="Lang">Responsibility? If we're going to talk in such heavy terms, maybe I should let you. It'd be a real problem for my men if something were to happen to me. Alright then... Less talk and more investigating!</line>
 <line speaker="Edgeworth"><thought>If we want to know the truth, we can't stop here! Action must be taken!</thought> Agent Lang, I'd like to run a Luminol chemiluminescence test on the statue.</line>
@@ -2174,7 +2174,7 @@
 <line speaker="Palaeno">Yes, well, I've already inspected it myself. And it is definitely Allebahst's statue. I know because... it's the real statue.</line>
 <line speaker="Edgeworth">...Then you're saying that Babahl's was a replica?</line>
 <line speaker="Palaeno">I'm embarrassed to say it's true, even though I knew that someday it would be exposed. I received my orders from the leaders of Babahl... ...and I was to negotiate with Ambassador Alba at this event. I was to negotiate with him and fix the results of the evaluation tonight... ...to say that we could not determine which statue was the real one.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why are you telling me this?</line>
 <line speaker="Palaeno">Well, because you already figured it out. Our statue is just a hollow gold shell. Even if Babahl were to lose face, the re-unification of the country is what's important. I'm right in thinking that, aren't I? I'm not making a mistake, right?</line>
 <line speaker="Edgeworth">If you don't know yourself, then I won't pretend to know either.</line>
@@ -2311,7 +2311,7 @@
 <line speaker="Lang">Yeah, I saw the thief alright. With my own two eyes. The Yatagarasu was always there, lurking in the shadows. But when the spotlights were turned on for Ambassador Alba's speech... ...a shadow appeared. That's when cries of, "It's the Yatagarasu!" rang out. The next second, the spotlight went out... ...and by the time we got the area lit again, the deft thief had vanished. When we investigated afterwards, we found that the reason the lights went out... ...was because someone had unplugged the extension plug for all the outdoor electronics. Whether it was someone doing it on purpose... ...or simply a guest who had tripped over it, we don't know. But one thing is for certain. The Yatagarasu was here!</line>
 <line speaker="Edgeworth">So you're saying that, basically, all you saw was the thief's silhouette?</line>
 <line speaker="Lang">Yes...</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">If all you saw was a shadow... ...then it's entirely possible that the shadow belonged to someone else.</line>
 <line speaker="Lang">Hah! Good thinking, sis. You just might be right. If it weren't for the fact that there was no one else with that same shape. Not among the staff or the audience members. My men have already done a thorough check of everyone, so I know I'm right!</line>
 <line speaker="Edgeworth"><thought>Someone else's shadow...? That sounds like a plausible hypothesis...</thought></line>
@@ -2369,18 +2369,18 @@
 <line speaker="Larry">I-I'm sorry... Oh, hey, Edgey! Thanks for what you did back there!</line>
 <line speaker="Edgeworth">Your gratitude alone is enough. More importantly, Larry... this pool is not for your personal enjoyment!</line>
 <line speaker="Larry">I know that! Do you really think that I'm the type to just jump into a pool and swim around for fun!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">.................. Alright then. Did you, by chance, fall into the pool?</line>
 <line speaker="Larry">Nice guess... but no dice. So you know my son, right, Edgey?</line>
 <line speaker="Edgeworth">Your son...?</line>
 <line speaker="Larry">I guess I kinda lost sight of him when I shook hands with the ambassador. And I'm pretty sure he was around here when I last saw hiiiiiiiiiim!</line>
 <line speaker="Franziska">Y-You imbecile! How can you be so flippant at a time like this!? What are you going to do if your son fell into the pool!? And how old is this child of yours, anyway!?</line>
 <line speaker="Larry">Huh? Oh, umm... How old is he again?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Larry, this is the first I've heard of a son. Who exactly is the mother?</line>
 <line speaker="Larry">The mother? Oh, that chick... the Pink Princess!</line>
 <line speaker="Franziska">The... Pink... Princess...?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Ms. von Karma. I was a bit confused by this man's words for a bit there... ...however, I believe what he is looking for is the doll of the Iron Infant.</line>
 <line speaker="Larry">Yup! Because I'm the Steel Samurai through and through. Heart and soul! And the Iron Infant is my cute little son!</line>
 <line speaker="Franziska">Y-You have given a whole new meaning to the phrase "an astounding fool"...</line>
@@ -2396,21 +2396,21 @@
 <line speaker="Edgeworth"><thought>All I tried to do was offer up a possibility, and this is what I get...?</thought></line>
 <line speaker="Edgeworth">The suddenly appearing and disappearing shadow of the Yatagarasu... I believe I've figured out its true origin.</line>
 <line speaker="Franziska">I expected no less from my subordinate. Now, let's hear what you know on the subject. What really cast the shadow of the Yatagarasu?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Franziska, if you could take a look at this. Don't you find it to be a bit suspicious?</line>
 <line speaker="Franziska">Not at all.</line>
 <line speaker="Edgeworth">.............................. Hmph... As I thought. For you see, I was merely testing you just now.</line>
 <line speaker="Franziska">We have no time to waste on your pompous talk, so get on with your explanation already!</line>
 <line speaker="Edgeworth">Nghhooooh! <thought>Gnrk... I guess Franziska just couldn't understand my point. I need to think this through again. Now, the Yatagarasu's shadow... There really is only one thing that can explain how it was cast, and it must be this!</thought></line>
 <line speaker="Edgeworth">The suddenly appearing and disappearing shadow of the Yatagarasu... Is it not possible that it was created by this statue?</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Are you playing me for a fool, Miles Edgeworth!? This statue bears absolutely no resemblance to the shadow of the Yatagarasu!</line>
 <line speaker="Edgeworth">You are correct, however, this statue is but one part of the whole picture.</line>
 <line speaker="Franziska">What do you mean by "only one part"...?</line>
 <line speaker="Edgeworth">What is the other part to the real form of the Yatagarasu's shadow?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Franziska, if you could take a look at this. Don't you find it to be a bit suspicious?</line>
 <line speaker="Franziska">Not at all.</line>
 <line speaker="Edgeworth">.............................. Hmph... As I thought. For you see, I was merely testing you just now.</line>
@@ -2432,8 +2432,8 @@
 <line speaker="Franziska">Why didn't you say that in the first place!?</line>
 <line speaker="Edgeworth">You're right. I-I apologize...</line>
 <line speaker="Franziska">Now, what part of the queen's statue was used to complete the Yatagarasu's shadow?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This... is that part!</line>
 <line speaker="Franziska">And how exactly should we shine the light on this part to complete the shadow? Because I can't see how this would fit in at all.</line>
 <line speaker="Edgeworth"><thought>Nngh......... Alright, perhaps I was wrong.</thought> Franziska, it's not there we should be shining a light on, but a different location.</line>
@@ -2469,7 +2469,7 @@
 <line speaker="Badd">...Apparently, right after the fires... on the fourth and fifth floors were put out... It was taken... from a near-by building... that you can see the embassy from.</line>
 <line speaker="Edgeworth">I see. So this was taken after the fire...</line>
 <line speaker="Badd">The blur in this picture... took off from the Babahlese Embassy... ...flew over the boundary... and headed for the Embassy of Allebahst...</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">This is simply not possible! People are incapable of flight!</line>
 <line speaker="Edgeworth">Is that a fact? I've had the "pleasure" of dealing with a case involving a "flying person" once.</line>
 <line speaker="Franziska">.............................. Actually, come to think of it, I've come across a case like that as well. Two, actually.</line>
@@ -2580,7 +2580,7 @@
 <line speaker="Edgeworth">The seal is unbroken, so the fire probably couldn't get into the bottle to burn up the ink.</line>
 <line speaker="Kay">Hey, Mr. Palaeno! It looks like your precious Babahlese ink is alright after all!</line>
 <line speaker="Palaeno">What!? ...That's odd.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Ambassador, what do you mean by that?</line>
 <line speaker="Palaeno">Umm, well, it's just that there is something strange about the ink.</line>
 <line speaker="Edgeworth">Would you mind elaborating on that statement for me please?</line>
@@ -2685,7 +2685,7 @@
 <line speaker="Palaeno">Oops, look at me going on and on. Now then, what was it you wanted to ask again?</line>
 <line speaker="Edgeworth">We were discussing what your actions and whereabouts for today were. And, if you happened to know, what Mr. Coachen's actions and whereabouts were as well.</line>
 <line speaker="Palaeno">Yes, very well. Let's see, I've been quite busy all day from morning until now. First I woke up and then I brushed my teeth. After that, I had a roll for breakfast...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Fascinating... How about if you just skip to the relevant parts for me.</line>
 <line speaker="Palaeno">Oh! You'd like a condensed version? Alright, I can do that for you!</line>
 <line speaker="Edgeworth">So what did Mr. Coachen and you do this morning?</line>
@@ -2696,7 +2696,7 @@
 <line speaker="Palaeno">Oh, but the tidying didn't take much, really. We just burned some files we no longer needed and expired coupons in the fireplace.</line>
 <line speaker="Kay">I bet cleaning up the fireplace must've been a real pain though, huh?</line>
 <line speaker="Palaeno">Ah, about that... I kind of forgot to clean the ashes out. Ha ha ha... I guess I'm up a creek without Manny here to get angry at me.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">An ambassador like yourself has been on the receiving end of a secretary's anger?</line>
 <line speaker="Palaeno">Oh, he was very good at being very mad. Why, even just this morning, he got mad at me. I spilled some Babahlese ink onto the back wall when I was burning the files, you see... ...and he got mad at me, saying that I should treat the ink with more respect.</line>
 <line speaker="Edgeworth">......... <thought>Apparently, orders go up the chain of command around here.</thought></line>
@@ -2716,7 +2716,7 @@
 <line speaker="Palaeno">I'm sorry I couldn't be of more assistance, Mr. Edgeworth. If there is anything else, please don't hesitate to ask, alright?</line>
 <line speaker="Edgeworth">I wonder if you might tell me what you noticed about Mr. Coachen's bottle of ink?</line>
 <line speaker="Palaeno">Umm... I just thought of it right now, but... ...during the second fire, Manny was worried about his office, so he came rushing back to it. I called out to him, and when I received no reply, I used my spare key to open the door... ...but when I did, I was greeted by roaring green flames. The flames were so big that I wasn't able to see into the room at all.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The fire was green...? What was the cause...?</line>
 <line speaker="Palaeno">Well, whitcrystal oil burns green when it's lit, as you can see by this lantern.</line>
 <line speaker="Edgeworth">Hmm... And Babahlese ink is made from the same oil, which means it would also burn green.</line>
@@ -2731,7 +2731,7 @@
 <line speaker="Palaeno">Of course he knew! That's why he was the only person I could consult with. We'd have to do something once our statue was revealed as a replica. As to be expected, I was very nervous today, as this would impact our country's authority.</line>
 <line speaker="Edgeworth">Yes, I understand.</line>
 <line speaker="Palaeno">Well, when I told Manny my concerns, he said, "Let me handle it. It'll be alright. I'll find a way to make sure you're the ambassador of the re-united Cohdopia." At the time, I thought he was just trying to cheer me up... ...but when I saw that note, I realized he was serious...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Mr. Coachen... conducted a lot of business behind your back. I assume he did all that to ensure that you are the next Cohdopian ambassador.</line>
 <line speaker="Palaeno">But... why was he trying so hard, I wonder? He was so much better at getting things done than I ever was or will be...</line>
 <line speaker="Edgeworth"><thought>I don't know the answer to why he was trying so hard yet... ...but I suspect he had an ulterior motive in mind beyond just simple kindness.</thought></line>
@@ -2750,7 +2750,7 @@
 <line speaker="Kay">This... is really valuable, right?</line>
 <line speaker="Edgeworth">...That's what they say.</line>
 <line speaker="Kay">.........</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Kay! You're not seriously considering the theft of this statue, are you...?</line>
 <line speaker="Kay">No way, Mr. Edgeworth! I wasn't thinking about anything like that! I was just calculating, in my head, how much the statue is worth.</line>
 <line speaker="Edgeworth"><thought>Hmm... That sounds mighty suspicious to me.</thought></line>
@@ -2786,14 +2786,14 @@
 <line speaker="Kay">As prosecutor and detective, your dynamic is just like theirs back in the day.</line>
 <line speaker="Edgeworth">.........</line>
 <line speaker="Kay">Well, don't you worry! I'm going to find my own wonderful partner someday! And when I do, I'm going to become a good Yatagarasu, just like my father, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Please don't ask me questions to which I have no answers to, Kay. However, I can say that is truly a wonderful thing to find a paetner you can trust.</line>
 <line speaker="Kay">Heh heh, you bet! So, what now, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">Well... I'd like to ask you for a favor.</line>
 <line speaker="Kay">Yes?</line>
 <line speaker="Edgeworth">That gadget... Mr. Thief, is it? That thing you call your secret weapon.</line>
 <line speaker="Kay">Oh, you mean "Little Thief"! Heh, you're coming to rely on it, aren't you?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I-I don't need a crutch like that! I'm only asking because I need it for the investigation! From the information Detective Gumshoe gathered, and the ambassador's testimony... ...I'd like you to please re-create this room as it was during the third floor fire.</line>
 <line speaker="Kay">You got it! Alright, here we go! Dark skies of evening, when no other bird dares take wing, one alone remains all-seeing! Now, witness the true power of a real, modern-day Robin Hood!</line>
 <line speaker="Edgeworth">It seems there are other things besides what the ambassador mentioned that have changed. It's possible that we might find the escape route the person Kay saw used as well.</line>
@@ -2836,7 +2836,7 @@
 <line speaker="Gumshoe">I didn't personally... ...and the other staff members told me they never got a good look at the person, either, sir.</line>
 <line speaker="Edgeworth">Hmm... I wonder if you could tell me a bit more about what you discovered, Detective?</line>
 <line speaker="Gumshoe">The second fire broke out around the time the Yatagarasu was spotted in Allebahst. That's also when a suspicious person was spotted in Babahl, which caused some panic.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So no one was able to get a good look at this "Yatagarasu" that entered Babahl?</line>
 <line speaker="Gumshoe">Yeah. All they saw was a mysterious person wearing a long coat. But that's not enough to make a positive ID, you know?</line>
 <line speaker="Edgeworth">Still, it was enough to make the people who received the calling card panic even more.</line>
@@ -2846,7 +2846,7 @@
 <line speaker="Edgeworth"><thought>So the Yatagarasu appeared, caused mass confusion, killed Mr. Coachen, then disappeared.</thought></line>
 <line speaker="Edgeworth">By the way, Detective, why did you not chase after the Yatagarasu?</line>
 <line speaker="Gumshoe">I-I did! But, well... this embassy is huge, sir! I got separated from the other staff members I was with, and was lost for a while there...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You didn't even memorize the layout of the building you were to guard, Detective!?</line>
 <line speaker="Gumshoe">Eeeeek! I'll be sure to do that from now on, siiiiir! But you know, it was thanks to me being lost that I was able to come to Kay's rescue!</line>
 <line speaker="Edgeworth">Oh? Is that a fact?</line>
@@ -2902,8 +2902,8 @@
 <line speaker="Edgeworth">Hmm... Well, whatever it is that person burned, it made a rather sizable fire.</line>
 <line speaker="Kay">And since the fire's green... well, we've seen something that burns green, right!? It's a bit tinier than these flames, but you get what I mean.</line>
 <line speaker="Edgeworth">Yes, and I do believe that what you are thinking is exactly why these flames are green. Which fire-related piece of evidence burns the same color as these green flames?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The source of the green in these flames is related to this!</line>
 <line speaker="Kay">Oh, really? Well, I don't think they're related at all.</line>
 <line speaker="Edgeworth">O-Oh... .........Sorry. It really isn't related, after all...</line>
@@ -2918,8 +2918,8 @@
 <line speaker="Edgeworth">Yes, precisely... as we found out earlier in our investigation.</line>
 <line speaker="Gumshoe">Um, what? I don't get it. Can you fill me in, sir!?</line>
 <line speaker="Edgeworth">Fine, I suppose. I'll explain it in a way that even you can understand. This is the thing made from whitcrystal oil that Ambassador Palaeno was mistaken about!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Kay, this piece of evidence...</line>
 <line speaker="Kay">...Is not needed anymore, right? Good, then I'll go throw it out for you!</line>
 <line speaker="Edgeworth">N-No, wait!</line>
@@ -2932,8 +2932,8 @@
 <line speaker="Edgeworth">Yes. However... we know that Mr. Coachen was smuggling the ink in massive quantities. Now, what do you suppose he made using all that ink? I believe what he made with that ink is the answer to what gave birth to the green flames.</line>
 <line speaker="Kay">Oh, yeah! I'm beginning to really feel the energy coming from you, Mr. Edgeworth!</line>
 <line speaker="Edgeworth"><thought>Heh... It would appear that I've finally found it, the smuggling ring's real goal!</thought> Made of Babahlese ink, this is the source of the green flames!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">In order for the green flames to arise, this piece of evidence was needed!</line>
 <line speaker="Kay">Ha ha! And how did the arsonist use that, exactly? Oh, I know! Why don't we try lighting on fire and seeing what happens? I'm sort of an expert in pyrotechnics, so you just leave it to me!</line>
 <line speaker="Edgeworth">H-Hold on there! <thought>She was really all set to light it on fire...! It's a good thing this piece is related to the case, or it'd have gone up in smoke... I need to think carefully about this one more time. The real source of the green flames... It must be this!</thought></line>
@@ -2968,7 +2968,7 @@
 <line speaker="Kay">It looks like just another fireplace, though, doesn't it? So, how you do turn it again?</line>
 <line speaker="Edgeworth">In Allebahst, I had to push where the X was on the far wall of the fireplace.</line>
 <line speaker="Gumshoe">Oh! I see an X back there, sir! Let's see what happens when I push it...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gumshoe">Aaaaah! You scared me, sir!</line>
 <line speaker="Edgeworth">There is something about this fireplace that lies in contradiction to the facts.</line>
 <line speaker="Kay">Huh? But we found an X where you thought there'd be one, right?</line>
@@ -2976,7 +2976,7 @@
 <line speaker="Edgeworth"><thought>I won't rest until I've inspected every suspicious-looking nook and cranny.</thought></line>
 <line speaker="Edgeworth">If we push this X mark, the fireplace wall should turn.</line>
 <line speaker="Gumshoe">A revolving fireplace wall! That's neat, sir!? We should hurry up and...!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Wait, Detective! There is something we need to examine about this first. Besides which, there is also something I'd like to test.</line>
 <line speaker="Gumshoe">Like what, sir?</line>
 <line speaker="Edgeworth">I'll tell you later, Detective. For now, let's continue with the investigation.</line>
@@ -3028,7 +3028,7 @@
 <line speaker="Kay">It's looking more and more like Ms. Shih-na is the killer, isn't it?</line>
 <line speaker="Edgeworth">Let's not jump to conclusions yet. We need to go through what we know so far. She came running straight into this room from the next one, and instantly accused you. Furthermore, she claimed that it could only have been you that killed Mr. Coachen. I don't have any proof yet, however, I KNOW she is hiding something from us!</line>
 <line speaker="Kay">OK, then! Why don't we go ask Ms. Shih-na herself!?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">No, not yet. There's something that needs to be done first. ...Detective Gumshoe!</line>
 <line speaker="Gumshoe">Sir! Is it my turn to do something, Mr. Edgeworth!?</line>
 <line speaker="Edgeworth">Yes. I have a two-part special assignment for you. First, I need you to run a handwriting analysis on DeMasque II's note.</line>
@@ -3044,7 +3044,7 @@
 <line speaker="Palaeno">Th-There really IS a secret passageway through there... I had no idea...!</line>
 <line speaker="Edgeworth">Hmm... It would appear that the ash really was pushed into the other room. Furthermore, the Babahlese ink you spilled, Ambassador, is there on the back wall.</line>
 <line speaker="Gumshoe">OK, here I go, sir!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Detective, I'd like you to go through there under the same conditions as the killer.</line>
 <line speaker="Gumshoe">Huh? But there's all that ash and stuff...</line>
 <line speaker="Edgeworth">And your point is? Now, we're short on time, so if you could please hurry on through.</line>
@@ -3093,7 +3093,7 @@
 <line speaker="Shih-na">.........Yes.</line>
 <line speaker="Franziska">I don't like to admit it, but there's not much else for us to do but to go home as well.</line>
 <line speaker="Edgeworth">Agent Lang! A moment, if you</line>
-<line speaker="Gumshoe">You, Wolf-man and the secretary lady! <cutIn>Hold it!</cutIn> <cutIn>Objection!</cutIn> Pal!</line>
+<line speaker="Gumshoe">You, Wolf-man and the secretary lady! <cutIn type="holdIt">Hold it!</cutIn> <cutIn type="objection">Objection!</cutIn> Pal!</line>
 <line speaker="Edgeworth">Detective Gumshoe...! Have you got the results of the handwriting analysis already?</line>
 <line speaker="Gumshoe">Yup, and that note... was definitely written by Mr. Coachen, sir!</line>
 <line speaker="Edgeworth">Hmm, just as I thought... Good work, Detective.</line>
@@ -3125,12 +3125,12 @@
 <line speaker="Kay">By the time I had turned on the lights, the Yatagarasu had disappeared.</line>
 <line speaker="Edgeworth">When Kay entered the room, the person she was chasing was already gone. Why do you suppose that was, Agent Lang?</line>
 <line speaker="Lang">...What do you mean, "Why do you suppose?" Isn't it obvious!? The person slipped out through the door behind the girl under the cover of darkness.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Sorry, but I know for a fact that the person didn't escape through that door!</line>
 <line speaker="Lang">Oh? And how do you know that with such certainly!?</line>
 <line speaker="Edgeworth">Hmph... That's easy. If the Yatagarasu had left through that door, they would have run right into this person!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the person the suspicious person would've ran into!</line>
 <line speaker="Lang">...Huh? Hey, Mr. Prosecutor... Are you sure you're not losing it?</line>
 <line speaker="Edgeworth">I haven't lost anything, and certainly not my mind.</line>
@@ -3144,7 +3144,7 @@
 <line speaker="Edgeworth">You see? Therefore, the Yatagarasu could not have escaped through the door as</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">It just means that the creep slipped out before Shih-na made it out into the hallway!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph. I doubt that, as there was another person in that hallway. A certain detective. Detective Gumshoe, where were you exactly at that time?</line>
 <line speaker="Gumshoe">M-Me, sir? Well, when I heard Kay's scream... ...I ran towards Mr. Coachen's office from the opposite direction of Agent Shih-na, sir!</line>
 <line speaker="Edgeworth">So, Agent Lang, can YOU explain how someone could've eluded both of them!? Even you must concede that under these circumstances, the door was not a viable route!</line>
@@ -3168,8 +3168,8 @@
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">You can say whatever you'd like in whatever language you want... ...but there's only one language I really understand: the language of evidence!</line>
 <line speaker="Edgeworth">Very well, then. I present to you, proof that the person Kay saw is not the same as the one in this photo!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence proves that the shadow in the photo is not the person Kay saw!</line>
 <line speaker="Lang">...Oh, is that right? What do you think, little miss?</line>
 <line speaker="Kay">Huh!? Well, umm... Gummy, what do you think?</line>
@@ -3186,7 +3186,7 @@
 <line speaker="Lang">Hah! As I thought.</line>
 <line speaker="Edgeworth">However, the Yatagarasu's escape route? Now, THAT I can answer.</line>
 <line speaker="Lang">You can? Well, then, Mr. Prosecutor, go on! Enlighten me!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Even if I explain it, you'll try to find some flaw with what I have to say. You were busy heading up the Allebahstian investigation, correct? In that case, I doubt you'd have much knowledge about the Babahlese side of the case... ...so wouldn't it be best if the lead on that side, Agent Shih-na, explained in my stead?</line>
 <line speaker="Lang">.........Argh! Shih-na is my subordinate...! If I don't stick up for her, how can I look her in the eyes and call myself her boss...!?</line>
 <line speaker="Shih-na">.........Lang, it's alright. I can take care of him.</line>
@@ -3220,7 +3220,7 @@
 <line speaker="Edgeworth">Then let's put that to the test, and see if she is really worthy of your trust.</line>
 <line speaker="Shih-na">Heh heh... This promises to be interesting.</line>
 <line speaker="Shih-na">During the first Babahlese fire, I assisted in putting out the fire.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you helped with the fire extinguishing effort?</line>
 <line speaker="Shih-na">I was in charge of the police on the Babahlese side, so I helped them with their work.</line>
 <line speaker="Edgeworth">Police doing the job of firemen... You really know how to work people.</line>
@@ -3233,7 +3233,7 @@
 <line speaker="Lang">Shih-na's more than just a capable secretary, you know. Shih-na, tell him what other things you're good at.</line>
 <line speaker="Shih-na">...Alright.</line>
 <line speaker="Shih-na">During the second fire, I was searching for the Yatagarasu that had appeared in Babahl.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">By "the second fire", you mean the one that consumed the third floor of Babahl, correct?</line>
 <line speaker="Shih-na">Yes. That was when the suspicious person was spotted in Babahl.</line>
 <line speaker="Kay">Then, you WERE after the same person in the long coat that I was after!</line>
@@ -3245,7 +3245,7 @@
 <line speaker="Edgeworth">And you did that alone...?</line>
 <line speaker="Shih-na">Yes...</line>
 <line speaker="Shih-na">While I was searching, I heard a scream coming from the next room over.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you were in the room next to Mr. Coachen's office.</line>
 <line speaker="Shih-na">I already told you I was earlier. As I was examining the neighboring room... ...I heard that girl's shrill scream. Upon hearing her, I immediately ran towards Mr. Coachen's office.</line>
 <line speaker="Edgeworth">Wherein, you proceeded to arrest her, as I recall.</line>
@@ -3258,7 +3258,7 @@
 <line speaker="Edgeworth">But what I do take issue with is the fact that you didn't see the Yatagarasu, Agent Shih-na.</line>
 <line speaker="Shih-na">Hmph... The prosecutors of this country are all so strange.</line>
 <line speaker="Shih-na">Although I was in the next room, I was unable to catch a glimpse of the Yatagarasu.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You were unable to catch even a glimpse, despite being in the next room? Is that true?</line>
 <line speaker="Shih-na">...I really hate to repeat myself.</line>
 <line speaker="Edgeworth">Hmph......... I'm sorry for inconveniencing you... ...however, I simply wish to make sure that you are not mis-remembering something. We wouldn't want you to be accused of lying later on, would we?</line>
@@ -3271,9 +3271,9 @@
 <line speaker="Shih-na">Lang... I'm alright. And as for you, I think you should be focusing your doubts on that girl rather than me.</line>
 <line speaker="Kay">!</line>
 <line speaker="Edgeworth">...And why is that?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Shih-na">To be honest, I'm actually very skeptical that the girl's "Yatagarasu" even exists.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you throwing Kay's words into doubt again?</line>
 <line speaker="Shih-na">Well, she does claim to be the Yatagarasu, right? And she did try to chase down the Yatagarasu, despite being just an average children.</line>
 <line speaker="Edgeworth">Hmph. Actually, she came here with the goal of capturing the fake Yatagarasu.</line>
@@ -3329,8 +3329,8 @@
 <line speaker="Edgeworth">I know. And that is why I won't hold anything back either as I answer your question.</line>
 <line speaker="Shih-na">My question...?</line>
 <line speaker="Edgeworth">Here is your proof that the revolving fireplace wall in Babahl was used recently!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">My honest answer is this!</line>
 <line speaker="Shih-na">Ahah! Ahaha! Ahaha! Ahahahahahahahahahahahahaha!</line>
 <line speaker="Franziska">What was THAT for!?</line>
@@ -3345,7 +3345,7 @@
 <line speaker="Shih-na">...Oh?</line>
 <line speaker="Edgeworth">The ashes of what they burned were left in the fireplace, so they should've been there. However, when we went to investigate the room, the ashes weren't there.</line>
 <line speaker="Shih-na">Why is that a problem? Maybe someone cleaned them up?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph......... Unfortunately for you, Ambassador Palaeno said that he forgot to. And so the question remains: Why were the ashes missing? ...The answer is simple. When the Yatagarasu went through the fireplace wall... ...the ashes were pushed into the next room by the wall as well! The movement of the ashes that were in Mr. Coachen's office is my proof!</line>
 <line speaker="Shih-na">Ahah! Ahaha! Ahaha! Ahahahahahahahahahahahahaha!</line>
 <line speaker="Edgeworth">.........And just what is so funny!?</line>
@@ -3377,7 +3377,7 @@
 <line speaker="Edgeworth"><thought>I'm truly sorry, Agent Lang, but I simply can't allow her to escape me again.</thought> Very well then, Agent Shih-na. Shall we begin?</line>
 <line speaker="Shih-na">Phwwh... I'm ready whenever you are.</line>
 <line speaker="Shih-na">In my eyes, all you've proved is that the rotating fireplace wall was used...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">.........It sounds to me like you're saying my explanation is not good enough.</line>
 <line speaker="Gumshoe">But I was able to go through the revolving door myself! So that should be proof enough, even for you, pal!</line>
 <line speaker="Shih-na">Hah... It looks like you don't quite understand. But by your looks, I can guess that you're not all that learned.</line>
@@ -3385,29 +3385,29 @@
 <line speaker="Edgeworth"><thought>Sadly, I can't say I disagree with her on that one.</thought></line>
 <line speaker="Shih-na">But you know what I mean, right? You may have proven that the fireplace was used...</line>
 <line speaker="Shih-na">...but you can't really call that proof that the Yatagarasu used the fireplace, now can you?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you want proof that the Yatagarasu was the one who used the fireplace?</line>
 <line speaker="Shih-na">That's right. Well? Do you have any?</line>
 <line speaker="Edgeworth">Arngh!</line>
 <line speaker="Kay">Can you prove that it WASN'T the Yatagarasu who used the fireplace?</line>
 <line speaker="Shih-na">I don't need to prove anything to you.</line>
-<line speaker="Kay">O...<cutIn>Objection!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Kay">O...<cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Kay, if you could please not steal my line...</line>
 <line speaker="Kay">S-Sorry... But I just couldn't hold it anymore!</line>
 <line speaker="Edgeworth">Well, don't fret and leave her to me. All you have to do is sit back and watch.</line>
 <line speaker="Shih-na">Ahah! You may seem to have some wiggle room, but without any evidence, it's meaningless.</line>
 <line speaker="Shih-na">So then, who was it that used the rotating wall? Show me your answer with real evidence.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It's possible that the Yatagarasu left fingerprints inside the fireplace!</line>
 <line speaker="Shih-na">Sorry, but I had the forensics team check that already. All they found were prints belonging to Ambassador Palaeno and Mr. Coachen.</line>
 <line speaker="Edgeworth">Curses! <thought>I should've known better than to think the Yatagarasu would have been so careless. But there must be some sort of evidence that we still have yet to found!</thought></line>
 <line speaker="Shih-na">Ahah... I take it you have no further objections?</line>
 <line speaker="Shih-na">Remember, we've already finished our very thorough investigation...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So Interpol has finished examining the entire Babahlese Embassy?</line>
 <line speaker="Shih-na">Yes. The investigators who weren't allowed into Allebahst were incredibly helpful. They all put in great efforts to search for any sign of the Yatagarasu.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">And yet, despite all that effort... ...it appears that they failed to notice the lack of ash in the office fireplace. Furthermore, you were the one who inspected the room next to Mr. Coachen's, correct?</line>
 <line speaker="Shih-na">I didn't notice the ash there in the fireplace of that room, and for that, I am sorry.</line>
 <line speaker="Lang">You don't need to apologize, Shih-na. As your boss, your mistakes are my mistakes... ...so allow me to apologize for you. .........I'm sorry.</line>
@@ -3421,7 +3421,7 @@
 <line speaker="Lang">Anyway, Shih-na. You didn't find anything in Mr. Coachen's office, right?</line>
 <line speaker="Shih-na">That's right. We finished our investigation...</line>
 <line speaker="Shih-na">...and we found not a single suspicious thing in Mr. Coachen's office.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you really didn't find anything?</line>
 <line speaker="Shih-na">Yes, as I said, not one suspicious thing.</line>
 <line speaker="Edgeworth">...!</line>
@@ -3435,7 +3435,7 @@
 <line speaker="Kay">Mr. Edgeworth... I think she's mad at you.</line>
 <line speaker="Edgeworth">...Perhaps. <thought>But our definitions of reality are a tad different.</thought></line>
 <line speaker="Shih-na">...Are the two of you done chatting?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You didn't find anything suspicious at all? I highly doubt that.</line>
 <line speaker="Shih-na">But I didn't. You can even ask the other men.</line>
 <line speaker="Edgeworth">Hmph. I don't need to, for I found what you should have a while ago.</line>
@@ -3449,12 +3449,12 @@
 <line speaker="Shih-na">Ahh, that's what I thought. But unfortunately for you, a re-creation made by a machine is hardly concrete proof. Among the ashes you found in the room, did you happen to find any counterfeit bills?</line>
 <line speaker="Edgeworth">.........No.</line>
 <line speaker="Shih-na">You see? So there was nothing in that office; nothing you can call "evidence", anyway!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Speaking of things that you Interpol agents have missed, I did find one more.</line>
 <line speaker="Shih-na">Your pompous attitude is unnecessary. All I require is the evidence!</line>
 <line speaker="Edgeworth">Very well. <thought>I'll show her the hidden piece of evidence that her and her fellow Interpol agents missed!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is what you and your agents missed.</line>
 <line speaker="Lang">Hey now, Mr. Prosecutor. Are you trying to smear the good name of Interpol?</line>
 <line speaker="Edgeworth">Of course not.</line>
@@ -3472,7 +3472,7 @@
 <line speaker="Franziska">You found that... at the scene of Mr. Coachen's murder!?</line>
 <line speaker="Shih-na">.........</line>
 <line speaker="Edgeworth">So I think you'll agree now... ...that I cannot trust you when you say that Interpol has thoroughly checked every room!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph. While you say that you and your agents have finished your thorough investigation... ...are you absolutely certain that you didn't overlook anything?</line>
 <line speaker="Shih-na">Well! Aren't we full of ourselves, standing there insulting Interpol agents!?</line>
 <line speaker="Lang">You'd better not be insinuating that my men are incompetent, Mr. Prosecutor!</line>
@@ -3495,7 +3495,7 @@
 <line speaker="Shih-na">Ahh, that's what I thought. But unfortunately for you, a re-creation made by a machine is hardly concrete proof. Among the ashes you found in the room, did you happen to find any counterfeit bills?</line>
 <line speaker="Edgeworth">.........No.</line>
 <line speaker="Shih-na">You see? So there was nothing in that office; nothing you can call "evidence", anyway!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I'm sorry, but I seem to have given you the wrong impression.</line>
 <line speaker="Shih-na">How so?</line>
 <line speaker="Edgeworth">I don't recall saying that I was presenting evidence of any sort. But rather, I was pointing out that your investigation was incomplete.</line>
@@ -3506,8 +3506,8 @@
 <line speaker="Edgeworth">And that this throws doubt on the purity of your investigation into the Yatagarasu!</line>
 <line speaker="Shih-na">...! You still suspect me, I see. Alright then, I ask that you point out what part of my investigation is incomplete.</line>
 <line speaker="Edgeworth"><thought>The other Interpol agents worked under the command of Agent Shih-na. And is it not possible that the reason the person Kay was chasing chose the third floor... ...was because that person knew there would be no other agents on that floor? Furthermore, we've come to see that Agent Shih-na... ...was only pretending to be investigating the Yatagarasu, to the point of arresting Kay. In that case, there is one location that no one has yet to inspect!</thought> Your team's investigation was incomplete because they failed to inspect this location!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">OK! I'll go check it out right now, sir! Be right back!</line>
 <line speaker="Shih-na">We already went over that area with a fine-toothed comb!</line>
 <line speaker="Lang">And I've heard their extensively detail report about that area as well.</line>
@@ -3543,10 +3543,10 @@
 <line speaker="Shih-na">Phwwwh... Unfortunately for you, those aren't "suspicious items" of any sort. They all belong to me. They were getting in the way, so I stored them in that room.</line>
 <line speaker="Gumshoe">Aww...!</line>
 <line speaker="Shih-na">Thank you for bringing them to me. It saves me a trip. May I have them back now?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">These items that the detective brought back are incredibly significant. I request that we be allowed to examine them.</line>
 <line speaker="Shih-na">They're my personal belongings, so you have no right to touch them without my permission.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I wish to examine them for the sake of the investigation. But if you wish to deny us access to them... Agent Lang, let's hear your opinion on this.</line>
 <line speaker="Lang">I say, let them look at your stuff, Shih-na.</line>
 <line speaker="Shih-na">Lang!</line>
@@ -3588,8 +3588,8 @@
 <line speaker="Edgeworth">All that remains... ...is for us to show what the dark substance on the coat hem is.</line>
 <line speaker="Shih-na">Oh? And you think you can do that?</line>
 <line speaker="Edgeworth">Of course I can. This is the dark substance that sullied the hem of this coat!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is what caused the hem of the coat to turn black!</line>
 <line speaker="Shih-na">I have no idea what you're trying to prove with that. But if you want, why don't we try and see if we can dirty your clothes with that?</line>
 <line speaker="Edgeworth">Wh-What!? Sully my clothes!? Preposterous. ...Detective Gumshoe!</line>
@@ -3645,15 +3645,15 @@
 <line speaker="Franziska">That manner of speaking, and that attitude...! You haven't changed a bit in seven years!</line>
 <line speaker="Gumshoe">You're the defense attorney that killed Mr. Faraday, and then tried to frame me for it!</line>
 <line speaker="Shih-na">Oh really, and you have proof? You insist that I am this "Calisto Yew" woman, but you can't prove it! If you have no proof, then I'm afraid you won't be able to lay a single finger on me.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The raven is a very unique bird, one that flies by the darkness of night. However! The light of dawn has arrived, and it will reveal your true, ugly form to the world!</line>
 <line speaker="Shih-na">Enough poetry! I want to see some evidence!</line>
 <line speaker="Franziska">Do you really have something that can prove that she is Calisto Yew?</line>
 <line speaker="Edgeworth">I do. It's something that the 2nd Yatagarasu has preserved for us these last seven years!</line>
 <line speaker="Kay">Do me the honor, Mr. Edgeworth!</line>
 <line speaker="Edgeworth">I will, Kay. For we have finally come to the end. We'll prove her to be Calisto Yew with this, and clip this Yatagarasu's wings for good!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Shih-na">......... Don't waste my time with garbage. Now go throw it out in the trash can in the hallway!</line>
 <line speaker="Lang">Haaa ha ha ha ha ha ha ha ha! I thought you said you weren't the joking type, yet here you are telling jokes! But I'm not laughing!</line>
 <line speaker="Edgeworth">Arngh!</line>
@@ -3742,8 +3742,8 @@
 <line speaker="Edgeworth">This is a great find, Detective.</line>
 <line speaker="Gumshoe">Huh? It is, sir?</line>
 <line speaker="Edgeworth">Let's try pairing up this blade with this handle.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Now then, let's try combining the blade with this piece of evidence.</line>
 <line speaker="Gumshoe">.........Umm, I don't think you can combine that with the blade, sir.</line>
 <line speaker="Edgeworth">How dare you speak out of turn!?</line>
@@ -3757,7 +3757,7 @@
 <line speaker="Edgeworth">I believe this makes it perfectly clear who did it, Calisto Yew! For the only time the handles could've been switched is just after Mr. Coachen's murder.</line>
 <line speaker="Yew">Ahah...!</line>
 <line speaker="Edgeworth">Which means that you must be Mr. Coachen's killer! You killed Mr. Coachen with the Allebahstian knife... ...switched the handles, and then took the original blade of the Babahlese knife with you. Later, you allowed yourself to be spotted by Kay near the open-air stage. You used the fireplace to lose her, and then you went back to accuse her of the murder. Does that about sum it up?</line>
-<line speaker="Yew"><cutIn>Objection!</cutIn></line>
+<line speaker="Yew"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Yew">Ahah... You craft an engaging tale, Edgeworth, but there are two problems with it.</line>
 <line speaker="Edgeworth">Problems? In what respect?</line>
 <line speaker="Yew">Why do you think my real reason was in allowing her to chase after me?</line>
@@ -3882,7 +3882,7 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right...</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Even you can't talk your way out of the contradiction this piece of evidence points out!</line>
 <line speaker="Shih-na">...I guess not.</line>
 <line speaker="Edgeworth">Hmph... I knew it...</line>
@@ -3890,28 +3890,28 @@
 <line speaker="Edgeworth">B-But it's--!</line>
 <line speaker="Shih-na">I don't like to waste time delving into subjects that don't warrant a response.</line>
 <line speaker="Edgeworth">Arngh! <thought>It would appear that I was mistaken...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence of shows us the contradiction in your testimony.</line>
 <line speaker="Shih-na">............................................................</line>
 <line speaker="Edgeworth">By your silence, I assume you agree with my conclusion.</line>
 <line speaker="Shih-na">No, I just don't have a worthy response. In any case, I have some documents I need to attend to... ............................................................</line>
 <line speaker="Edgeworth">Arngh! <thought>I guess she feels that she has no need to counter my argument...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There piece of evidence proved that there is a glaring flaw in your logic!</line>
 <line speaker="Shih-na">...That piece of evidence and my testimony? Actually... ...it proves the absence of a flaw in my logic, and the presence of one in yours.</line>
 <line speaker="Edgeworth">Nnrgh... <thought>I-I was mistaken?</thought></line>
 <line speaker="Shih-na">I'll just continue with my testimony now.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Larry... there is a major contradiction in that statement just now!</line>
 <line speaker="Larry">Really? Hey, Franzy! What do you think?</line>
 <line speaker="Franziska">I don't want to agree with you on anything, but in this case, there is no contradiction.</line>
 <line speaker="Larry">See, Edgey! Even Franzy says there's no problem!</line>
 <line speaker="Edgeworth">Arngh! <thought>I know I'm off when they're agreeing with each other... Although it seemed as though I had him, it appears that I was the one who was had. At this rate, I will never grab a hold of truth! I must carefully listen to his testimony once more.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence shows the fatal flaw in your testimony!</line>
 <line speaker="Larry">Umm... I don't really get it. So, yeah. Can I continue with what I was saying?</line>
 <line speaker="Edgeworth">S-Sure... <thought>I guess I was wrong...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Larry, prepare to be buried down under by this piece of evidence.</line>
 <line speaker="Larry">.........You know, Edgey, you're actually a really good guy at heart. I can't believe you'd do such a great thing for Roxanna and I!</line>
 <line speaker="Edgeworth">.........What are you going on about!?</line>
@@ -3919,17 +3919,17 @@
 <line speaker="Edgeworth">I said nothing of the sort! If you had been listening carefully, you would've noticed I said, "buried".</line>
 <line speaker="Franziska">Wait, what? Aren't they the same word? You say, "buried", I say, "berried". Tomeito, tomahto.</line>
 <line speaker="Edgeworth">Arrrrrnngh! <thought>He is seriously trying my patience. I don't suppose I can fool even Larry with this piece of evidence. Which means that my only option is to present a more definitive piece of evidence!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, about this piece of evidence...</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Lang Zi says: "Confidence is like a soul, and words without confidence are but empty shells." You shouldn't waste your breath on words you have no confidence in, Mr. Prosecutor. Although, it's just as bad to say something in full confidence and be wrong!</line>
 <line speaker="Edgeworth">Arghn!</line>
 <line speaker="Edgeworth"><thought>I don't need to be overflowing with self-confidence; I just need to think rationally. After all, I only need to be confident in the facts!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, if you could take a look at this piece of evidence... ...you'd see that there is a very big flaw in your logic.</line>
 <line speaker="Lang">Flaw? Are you sure it's not your eyes that are flawed? Talk to me again when you can see straight!</line>
 <line speaker="Edgeworth"><thought>Gnnrk! Maybe this wasn't the piece I was looking for after all!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement just now stands in contradiction to this piece of evidence!</line>
 <line speaker="Lang">That thing has nothing to do with what I was saying. Now, put it away! And your logic is so badly in need of repair that you might as well throw it out, too! This is the real deal here. Your courtroom mannerisms are worthless at a crime scene!</line>
 <line speaker="Edgeworth">Gnnrk...! You dare to insult the courts!?</line>

@@ -534,8 +534,8 @@
 <line speaker="Phoenix">Of course I have proof.</line>
 <line speaker="Maya">No fair, Nick! It was when I went to the bathroom, wasn't it!? That's when you made contact with Gourdy!</line>
 <line speaker="Lotta">Enough jabbering already, let's see your proof!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lotta">... Y'all trying to make a fool out of me? That don't prove diddly-squat!</line>
 <line speaker="Maya">Hmph. We almost had her duped, too.</line>
 <line speaker="Phoenix"><thought>We need to do something soon or I won't get that information off of her!</thought></line>
@@ -549,8 +549,8 @@
 <line speaker="Maya">That won't work in court either, Nick...</line>
 <line speaker="Phoenix"><thought>Great, now they're both mad at me.</thought></line>
 <line speaker="Phoenix">Of course I have proof. No lawyer worth his badge would make a claim without proof to back it up. Here's the proof that Gourdy doesn't exist...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lotta">... Hah! All that fancy talk about lawyers and proof had me going for a second there! Y'all better take a good hard look at that badge of yours and consider a career change!</line>
 <line speaker="Phoenix"><thought>Great, the "investigative photographer" is giving me career advice...</thought></line>
 <line speaker="Maya">Larry's air tank...?</line>

@@ -133,7 +133,6 @@
 <line speaker="Ryunosuke">Sorry?</line>
 <line speaker="Stronghart">Does the item warrant twenty-four seconds of my time, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">...Let's leave it for now.</line>
-<line speaker="After clearing all Converse options">Stronghart:</line>
 <line speaker="Ryunosuke"><thought>Last time he mentioned the twenty-three hours, he said there was plenty of time...</thought></line>
 <line speaker="Stronghart">And one more thing...Mr Naruhodo... There is something I should like to ask you.</line>
 <line speaker="Ryunosuke">Oh! Um...what's that?</line>
@@ -240,7 +239,6 @@
 <line speaker="Gregson">Look, if van Zieks could get the dirt to stick on everyone, he'd be a miracle-worker. But that's not how it goes. He doesn't work miracles; he works magic...black magic. I'd have a good, long think about that, if I were you.</line>
 <line speaker="Ryunosuke"><thought>...Are we really supposed to believe that?</thought> </line>
 <line speaker="Gregson">.........</line>
-<line speaker="After clearing all Converse options with Tobias Gregson">Gregson:</line>
 <line speaker="Susato">It was Briar Road, you said, didn't you? Where the incident took place.</line>
 <line speaker="Gregson">That's correct, ma'am. And if you head over to the holding cells you can meet the criminal himself.</line>
 <line speaker="Ryunosuke">You've branded him a criminal already?</line>
@@ -369,7 +367,6 @@
 <line speaker="Ryunosuke">Oh... No, sorry, that wasn't why I was showing it to you.</line>
 <line speaker="Soseki">......... THEN WHY ELSE WOULD YOU SHOW ME THAT?!</line>
 <line speaker="Ryunosuke"><thought>...Oops. In hindsight, that probably wasn't the best idea.</thought></line>
-<line speaker="After clearing all Converse options">Soseki:</line>
 <line speaker="Ryunosuke">...Oh, you can just call me Naruhodo. And when we're speaking English, a simple 'Mister' is more than enough.</line>
 <line speaker="Soseki">Oh. Yes. Um... Alright. Yes... They've, they've really got to me. This country is poisoning my mind! ......... But please, I beg you to defend me in court tomorrow. You can tell them what really happened. You'll do it...won't you?</line>
 <line speaker="Ryunosuke">Well, erm...</line>
@@ -602,7 +599,6 @@
 <line speaker="Ryunosuke">Oh?</line>
 <line speaker="Gregson">Well, the case could hardly be simpler, could it? I don't need a map to work out what happened. You can throw it away when you're done with it.</line>
 <line speaker="Ryunosuke"><thought>Ugh... Cold...</thought></line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Susato">Mr Naruhodo, can I make a suggestion?</line>
 <line speaker="Ryunosuke">Oh! Yes, what is it?</line>
 <line speaker="Susato">Well, it seems to me... ...that we MUST speak with him about this!</line>
@@ -899,7 +895,6 @@
 <line speaker="Ryunosuke">Well... No, I suppose it wouldn't.</line>
 <line speaker="Iris">Tell me, tell me! I want to hear everything!</line>
 <line speaker="Ryunosuke"><thought>This hasn't gone according to plan...</thought></line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Iris">Oh, you're most welcome! I've had so much fun!</line>
 <line speaker="Ryunosuke">...Do you happen to know where Mr Sholmes is at the moment? As you guessed, we'd like to ask him some questions about this case as well.</line>
 <line speaker="Iris">Ah well... ...I expect Hurley is still investigating the scene.</line>
@@ -1286,7 +1281,6 @@
 <line speaker="Ryunosuke">Oh, sorry.</line>
 <line speaker="Sholmes">......... Cloudy changing to fair, perhaps...</line>
 <line speaker="Ryunosuke"><thought>You were in the throes of deducing the weather...?</thought></line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Ryunosuke">Thank you, Mr Sholmes.</line>
 <line speaker="Sholmes">Ah yes, Mr Naruhodo... ...was it not your intention to become a practitioner of law?</line>
 <line speaker="Ryunosuke">...! <thought>You remembered that, did you?</thought></line>
@@ -1894,7 +1888,6 @@
 <line speaker="Ryunosuke">Oh no... Sorry, I just wanted to show you.</line>
 <line speaker="Soseki">......... The Complete Cruelty of Kith and Kin!</line>
 <line speaker="Ryunosuke"><thought>...Oops.</thought></line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Susato">Already?!</line>
 <line speaker="Sholmes">Visiting hours are over. The guard will be here shortly to escort us out. There is a restaurant near here that serves excellent trout. Would you care to join me?</line>
 <line speaker="Soseki">...!</line>

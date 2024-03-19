@@ -1071,11 +1071,11 @@
 <line speaker="Phoenix">Even so, that was a tough puzzle... I was wondering if we'd ever actually solve it for a second there.</line>
 <line speaker="Maya">Yeah, but we so have what it takes, Nick! I could see us going pro at this whole puzzle-solving thing. Just like the professor! If we get stuck on a case, we could always consider changing jobs!</line>
 <line speaker="Phoenix">I'll think about it...</line>
-<line speaker="Cecil &amp; Petal <thought>Petal</thought>">Hey, thanks for what you did there.</line>
+<line speaker="Petal">Hey, thanks for what you did there.</line>
 <line speaker="Maya">No problem. You guys stick together now, you hear?</line>
-<line speaker="Cecil &amp; Petal <thought>Cecil</thought>">Right! I'll hold Petal's hand extra tight, just to be sure she doesn't go running off somewhere.</line>
-<line speaker="Cecil &amp; Petal <thought>Petal</thought>">Hey, you were the one who went missing!</line>
-<line speaker="Cecil &amp; Petal <thought>Cecil</thought>">...! Waaaaah! Boo-hoo! She hit meeeeee!</line>
+<line speaker="Cecil">Right! I'll hold Petal's hand extra tight, just to be sure she doesn't go running off somewhere.</line>
+<line speaker="Petal">Hey, you were the one who went missing!</line>
+<line speaker="Cecil">...! Waaaaah! Boo-hoo! She hit meeeeee!</line>
 <line speaker="Phoenix">...You two should try and stop arguing.</line>
 <line speaker="Phoenix">At least the windows on the second floor are wide open.</line>
 <line speaker="Phoenix">Yeah... I used to draw water from this water fountain back in the olden days when I was a baker.</line>
@@ -1812,7 +1812,6 @@
 <line speaker="Phoenix">I guess that's the kind of stuff you're into, being a spirit medium.</line>
 <line speaker="Phoenix">A curiously shaped implement. No idea what it was used for.</line>
 <line speaker="Maya">This could be a device for turning bread into gold!</line>
-<line speaker="After examining Jean Greyerl, spilled powder, and painting">Phoenix:</line>
 <line speaker="Maya">But we didn't find any leads on the Great Witch...</line>
 <line speaker="Phoenix">Oh, uh...Mr Greyerl?</line>
 <line speaker="Greyerl">Yes? What is it?</line>
@@ -1844,7 +1843,6 @@
 <line speaker="Phoenix">Well, well, well...if this isn't a well. Looks like it's still in use, too. I'm guessing you need quite a bit of clean water for alchemy. <thought>Come to think of it...I haven't noticed any plumbing here in Labyrinthia.</thought></line>
 <line speaker="Phoenix">This well must have been built here specifically to provide water for alchemical research.</line>
 <line speaker="Phoenix">The poor potted plants are starting to wither. I'm going to get some water for them...</line>
-<line speaker="After examining desk on left/box of things, golden goat, and well">Phoenix:</line>
 <line speaker="Layton">This is the alchemist's house! We have to hurry!</line>
 <line speaker="Luke">Pro-professor! Wait...wait for me!</line>
 <line speaker="Layton">Miss Fey!</line>

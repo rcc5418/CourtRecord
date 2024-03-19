@@ -401,7 +401,6 @@
 <line speaker="Desirée">Grrr, I don't like this man one bit. He's had it in for my Ronnie from the very beginning. It's his fault that Ronnie is under suspicion of committing murder.</line>
 <line speaker="Phoenix">Plus, he lobbed a coffee grenade at me!</line>
 <line speaker="Maya">You looked pretty silly wearing that mug on your head like a birthday hat... Oh, I know! We can get him back tomorrow by returning fire with a milk grenade!</line>
-<line speaker="After clearing "KB Security" Talk option at Mask☆DeMasque's Hideout">October 13</line>
 <line speaker="Phoenix">So I guess this is where it all went down, huh...?</line>
 <line speaker="Maya">The walls in here look thick... just you'd expect in a CEO's office.</line>
 <line speaker="Phoenix"><thought>What has that got to do with anything...?</thought></line>
@@ -716,7 +715,7 @@
 <line speaker="Maya">Oh, is that right...?</line>
 <line speaker="Butz">Oh! Heh heh, naturally I've got time for YOU though, Maya!</line>
 <line speaker="Phoenix"><thought>We're gonna have to squeeze this guy if we want to get more info out of him, huh?</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">On the night of the crime, were you working hard like you were supposed to?</line>
 <line speaker="Butz">What? Huh? Of-Of-Of Of course I was! Why wouldn't I have been?</line>
 <line speaker="Phoenix">But didn't you sneak out of work just yesterday to go see Ms. DeLite?</line>
@@ -726,12 +725,12 @@
 <line speaker="Phoenix"><thought>A dollar, wow! Now that's confidence!</thought></line>
 <line speaker="Butz">What's with that drenched in the rain puppy look on your face!? Do you have evidence that I left my position or are you just pulling my chain!?</line>
 <line speaker="Phoenix"><thought>The evidence that Larry was not manning his station when the murder happened is...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is the key card to the CEO's office, right?</line>
 <line speaker="Butz">Y-Yeah, that's right.</line>
 <line speaker="Phoenix">This key card was found inside a wallet.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Butz">Whew... I was scared for a minute...</line>
 <line speaker="Phoenix"><thought>Hmmm... Larry seems pretty relieved...</thought></line>
 <line speaker="Butz">But I tell you I'm not relieved! I'll even bet you 70 cents!</line>
@@ -753,8 +752,8 @@
 <line speaker="Phoenix">...What do you mean by that?</line>
 <line speaker="Butz">If the murderer had snuck in before 10:00 PM... ...then it wasn't my fault! It was the fault of the guy whose shift was before mine!</line>
 <line speaker="Phoenix"><thought>Why do I have the feeling that he still doesn't get the seriousness of this...?</thought> Listen up, Larry. We know beyond a shadow of a doubt that... the killer "snuck" into the CEO's office after 10:00 PM, during your shift!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Butz">Whew... Boy, you really had me scared!</line>
 <line speaker="Phoenix"><thought>I've never seen anyone look so relieved in my whole life...</thought></line>
 <line speaker="Butz">What's with that little lamb that can't get to sleep look on your face?</line>
@@ -901,7 +900,6 @@
 <line speaker="Butz">I'm really sorry, Nick! I swear I want to change my ways. But the thing is... I just don't have any interest in men.</line>
 <line speaker="Phoenix"><thought>This guy really needs to get his mind out of the gutter...</thought></line>
 <line speaker="Maya">Larry's your stereotypical guy, alright.</line>
-<line speaker="After clearing "Kurain Village" Talk option at Wright &amp; Co. Law Offices, clearing "Sacred Urn" Talk option at Basement Warehouse, clearing "Love at first sight?" Talk option at Mask☆DeMasque's Hideout, clearing all Talk options and examining binder and button at CEO's Office, and clearing "Emergency buzzer" Talk option at Security Guard's Office">October 13</line>
 <line speaker="Ron">Ah! M-Mr. Wright!</line>
 <line speaker="Maya">Mr. DeLite... Did they finish their interrogation?</line>
 <line speaker="Ron">Yes, but...! P-Please don't leave me alone anymoooooore!</line>
@@ -1084,7 +1082,6 @@
 <line speaker="Ron">Hmm... I don't really think I can help you with that. Err, no, that's not it... It's just that the thing is I don't really know if I can say one way or the other</line>
 <line speaker="Maya">I didn't really catch that.</line>
 <line speaker="Phoenix">Don't worry, you didn't miss anything.</line>
-<line speaker="After clearing Talk options">Phoenix:</line>
 <line speaker="Ron">Y-Yes...? B-But please don't hurt me...</line>
 <line speaker="Phoenix">Mr. Kane Bullard... Do you swear that it wasn't you who killed him?</line>
 <line speaker="Ron">Y-Yes, of course! I could never...! I-I'm not lying! All I did was hide his body in the safe! But then I was afraid they'd discover what I did. So I turned myself in yesterday!</line>
@@ -1160,15 +1157,15 @@
 <line speaker="Maya">... That has to be the most pathetic acting I have ever seen in my life.</line>
 <line speaker="Pearl">I'm beginning to get very frustrated.</line>
 <line speaker="Phoenix"><thought>Uh oh. I'd better do something to calm them down, and fast!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Ms. Andrews, do you know anything about the Sacred Urn?</line>
 <line speaker="Andrews">D-Do I know "anything"!? I'm in charge of the entire Treasure Exhibit!</line>
 <line speaker="Phoenix">The urn that was submitted before the court today... ...It's obviously not the same urn as before!</line>
 <line speaker="Andrews">W-Well, that's... That's um... ...True! Maybe it isn't the same! It could be... It could be a fake!</line>
 <line speaker="Phoenix">...A fake?</line>
 <line speaker="Andrews">You're the one who said it wasn't the same! So that's the most obvious explanation! Do you have any evidence the urn that was submitted at the trial was genuine?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Ms. Andrews?</line>
 <line speaker="Andrews">She, look! It was a fake after all!</line>
 <line speaker="Phoenix">Huh?</line>
@@ -1183,8 +1180,8 @@
 <line speaker="Andrews">R-Recently!? Are you saying that this urn was broken recently!?</line>
 <line speaker="Phoenix">Yes. That's exactly what I'm saying.</line>
 <line speaker="Andrews">Why do you think it was broken recently? How do you know?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Andrews">... So, Mr. Wright?</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Andrews">Why do you think it was broken recently again?</line>
@@ -1205,7 +1202,7 @@
 <line speaker="Andrews">Y-Yes, that's it! It must have been one of the people at the photo shoot! They probably dropped it! I'm sure that's what happened!</line>
 <line speaker="Phoenix"><thought>Hmm... It looks like I still haven't broken the entire Psyche-Lock...</thought></line>
 <line speaker="Andrews">Do you have any proof the urn was broken here at Lordly Tailor?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Ms. Andrews?</line>
 <line speaker="Andrews">Umm... What is this supposed to mean?</line>
 <line speaker="Phoenix">This urn has these pretty little pink paint splotches on it.</line>
@@ -1216,8 +1213,8 @@
 <line speaker="Andrews">Y-Yes...</line>
 <line speaker="Phoenix">The rest of story is obvious. "This box was dropped right here in Lordly Tailor's basement warehouse." ...If I can prove that, it means that the urn was broken here, too.</line>
 <line speaker="Andrews">So can you prove that? Can you prove that box was dropped here in the basement warehouse?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Ms. Andrews!?</line>
 <line speaker="Andrews">Um... Actually, I think I should be the one asking the questions.</line>
 <line speaker="Phoenix">Huh...?</line>
@@ -1229,7 +1226,7 @@
 <line speaker="Phoenix">I think you already know where I'm going to this, don't you?</line>
 <line speaker="Andrews">Y-Yes... More or less...</line>
 <line speaker="Phoenix">There's pink paint splattered on the floor and walls of this basement warehouse. But there's an odd shape imprinted into a part of the paint satin, am I right?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Ms. Andrews?</line>
 <line speaker="Andrews">Umm... What is this supposed to mean?</line>
 <line speaker="Phoenix">There is pink paint all over this urn.</line>
@@ -1245,8 +1242,8 @@
 <line speaker="Phoenix"><thought>Liar!</thought></line>
 <line speaker="Andrews">An-Anyway...! The paint on the urn and the paint on the floor... There's no proof that it's the same paint!</line>
 <line speaker="Phoenix"><thought>Come on! This is getting ridiculous!</thought> The proof linking the paint on the urn to the paint on the floor is...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Ms. Andrews!?</line>
 <line speaker="Andrews">Um... Actually, I think I should be the one asking the questions.</line>
 <line speaker="Phoenix">Huh...?</line>
@@ -1261,7 +1258,7 @@
 <line speaker="Phoenix">I think you already know where I'm going with this, don't you?</line>
 <line speaker="Andrews">Y-Yes... More or less...</line>
 <line speaker="Phoenix">The paint on the floor has an odd shape imprinted in it, doesn't it?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Ms. Andrews?</line>
 <line speaker="Andrews">I knew I was right about you, Mr. Wright...</line>
 <line speaker="Phoenix">Excuse me?</line>

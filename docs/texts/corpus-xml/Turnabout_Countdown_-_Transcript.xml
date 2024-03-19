@@ -1,6 +1,6 @@
 
-<line>Turnabout Countdown</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Countdown</title>
 <line speaker="Phoenix">These are dark times, where the law has been reduced to rubble. And it's up to us to restore it to its former glory. "Yeah, I know what you mean. It looks like your target finally decided to make a move. Don't you worry, I got a trusty new partner onboard."</line>
 <line speaker="Girl">Done!</line>
 <line speaker="Robot necklace">Ready to go?</line>
@@ -159,7 +159,7 @@
 <line speaker="Payne">If you can't produce an answer, we could always go straight to the ruling, if you prefer.</line>
 <line speaker="Athena"><thought>Ack, no! I have to say something -- fast! Oh, no! I can't get my voice to work! Why now, of all times...?!</thought></line>
 <line speaker="Payne">As you can see, there is no room for debate.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Judge">Why, it's you...</line>
 <line speaker="Phoenix">Sorry it took me so long to get here, Athena. Apollo explained the whole thing to me over the phone. He asked me to come help you out in his place.</line>
 <line speaker="Athena">...Thanks for coming. I hate to admit it, but I was having a real rough time on my own.</line>

@@ -214,7 +214,6 @@
 <line speaker="Phoenix">The Main Gate's on the other side of that stone wall. The difference in elevation is almost 10 feet. That's how steep this hillside is! And that's also the height the body fell from, according to the autopsy. Is it possible that Ms. Deauxnim was pushed from the top of the wall...?</line>
 <line speaker="Phoenix">That building up there is the Main Hall. It was where we were staying. It sits kind of funny because it was built on a very steep slope. If you enter from the Main Gate side, these rooms above me are on the ground floor. Apparently, Ms. Deauxnim was staying in the corner room. I guess that's where she was pushed from that night...</line>
 <line speaker="Phoenix">They get quite a bit of snow up here on Eagle Mountain. Around here, skis aren't just for fun. They're tools for getting around. But the sled... Now that's gotta be for Bikini's own personal entertainment!</line>
-<line speaker="Main Hall, after clearing all Talk options at Hazakura Temple - Main Gate, clearing "Inner Temple" and "Pearl" Talk options at Hazakura Temple - Main Hall, and visiting Hazakura Temple - Courtyard">???:</line>
 <line speaker="Bikini">Wh-What was that jarring, inconsiderately loud yell...?</line>
 <line speaker="Gumshoe">So this is where you've been! Keeping nice and warm, I see!</line>
 <line speaker="Phoenix">Detective! H-Have you finished repair--</line>
@@ -285,7 +284,6 @@
 <line speaker="Phoenix">No! No one does that! For starters, it stinks! <thought>This must be the gravy that we had with the roast on the night of the incident. But why would anyone do this? Why this scroll?</thought></line>
 <line speaker="Phoenix"><thought>This scroll shows a picture of Misty Fey, Master of the Kurain Channeling Technique. But why would anyone cover it in gravy?</thought></line>
 <line speaker="Phoenix"><thought>Artists? Um, yeah...</thought></line>
-<line speaker="After examining sacred cavern entrance and hanging scroll">???:</line>
 <line speaker="Phoenix">P-Prosecutor Godot! I didn't know you were here.</line>
 <line speaker="Phoenix">How come you didn't show up at the trial today?</line>
 <line speaker="Godot">Ha...! I could ask you the exact same question.</line>
@@ -361,7 +359,6 @@
 <line speaker="Phoenix">Um, Godot... Would you mind taking a look at this?</line>
 <line speaker="Godot">Ha...! My eyes have a date with the horizon. They're flirting with the gulls. I don't have any intention of aiding a defense attorney like you, Trite.</line>
 <line speaker="Phoenix"><thought>Look who's talking!</thought></line>
-<line speaker="After clearing all Talk options">Godot:</line>
 <line speaker="Phoenix">Wait, Godot! How sure about Maya are you?</line>
 <line speaker="Godot">... There's no doubt in my mind. She's in the Sacred Cavern somewhere. It's the only place she could be.</line>
 <line speaker="Phoenix">...</line>
@@ -539,14 +536,13 @@
 <line speaker="Gumshoe">Yeah... Well... It's pretty chilly today, huh? My brain doesn't work properly in the cold.</line>
 <line speaker="Gumshoe">Oh, no. My brain doesn't work properly in the heat. I'm kinda weak in the head.</line>
 <line speaker="Phoenix"><thought>There are some things you shouldn't advertise, Gumshoe. Especially in front of her...</thought></line>
-<line speaker="After examining charm and clearing "True crime scene" Talk option at Inner Temple - Garden">February 9</line>
 <line speaker="Iris">Mr. Wright!</line>
 <line speaker="Phoenix">Iris! I'm really glad to see you!</line>
 <line speaker="Edgeworth">Godot managed to mobilize the police by claiming a state of emergency.</line>
 <line speaker="Phoenix">Never mind him! We've gotta hurry and unlock the Sacred Cavern...</line>
 <line speaker="Iris">I'm sorry, Mr. Wright! It's my fault someone so important to you is locked in there... Mr. Edgeworth. Can we finish our conversation later?</line>
 <line speaker="Edgeworth">...Alright. Let's hurry to the Inner Temple then. ...I'll see you later, Wright.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Wait, Edgeworth! I'm coming with you guys!</line>
 <line speaker="Edgeworth">... Sorry, Wright. I can't allow you to come with us.</line>
 <line speaker="Phoenix">What!?</line>
@@ -582,14 +578,14 @@
 <line speaker="Phoenix">Um, Sister Bikini. Would you mind taking a look at this?</line>
 <line speaker="Bikini">Aaaaah! What are you doing with that!? Give it back at once!</line>
 <line speaker="Phoenix">I can't! This is evidence. <thought>This really must be one very important item...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Sister Bikini. The truth is becoming increasingly clear to me. I'm convinced that Ms. Elise Deauxnim had a special significance to this temple. As to why she had a special significance, I believe it has to do with her true identity.</line>
 <line speaker="Bikini">What on Earth are you talking about? She... She was... M-Mystic Elise was an author. Just an author... of picture books.</line>
 <line speaker="Phoenix">To be honest... I had my suspicions almost immediately after I met her.</line>
 <line speaker="Bikini">S-Suspicions?</line>
 <line speaker="Phoenix">Yes. But I didn't have any evidence to support my theory, though. But now I do. This piece of evidence proves Ms. Deauxnim's true identity!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Sister Bikini!? What do you have to say to that?</line>
 <line speaker="Bikini">Of course! I don't know why it didn't hit me before. Your heart. It's impure! It's riddled with wickedness and fallacies.</line>
 <line speaker="Phoenix">Huh?</line>
@@ -603,8 +599,8 @@
 <line speaker="Phoenix">It's a "talisman", is it? Interesting...</line>
 <line speaker="Bikini">Oops!</line>
 <line speaker="Phoenix">This thing speaks volumes about who Ms. Deauxnim really was. This talisman and one other item unequivocally prove Ms. Deauxnim's true identity!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well!?</line>
 <line speaker="Bikini">You really ought to think about buying one of the charms we sell here, Mr. Wright.</line>
 <line speaker="Phoenix">Huh?</line>
@@ -931,7 +927,6 @@
 <line speaker="Phoenix">Um, Pearls...?</line>
 <line speaker="Pearl">...</line>
 <line speaker="Phoenix"><thought>...It's no good. She's in no condition to look at anything for me right now.</thought></line>
-<line speaker="After clearing "The night of the crime" Talk option at Heavenly Hall">February 9</line>
 <line speaker="Bikini">Well!? What's the damage!? How is the Sacred Cavern!?</line>
 <line speaker="Phoenix">It looks like it survived. But we have a bigger problem now.</line>
 <line speaker="Phoenix"><thought>I told Sister Bikini all about it... About the five locks that were stopping us from getting inside the Sacred Cavern.</thought></line>
@@ -1023,7 +1018,6 @@
 <line speaker="Phoenix"><thought>It's unbelievable! If Iris has a twin sister... Could it be...?</thought> Um, could you tell me one more thing, Sister Bikini? What was the name of Iris's sister?</line>
 <line speaker="Bikini">............ I'm sorry, Mr. Wright. I just can't remember. All I can recall is that her father was a jeweler.</line>
 <line speaker="Phoenix"><thought>Well, that's a clue, I guess. Hmm... A jeweler...</thought></line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Bikini">Yes, that's right... No doubt it was all because of Mystic Morgan's anger towards the main family...</line>
 <line speaker="Phoenix">Anger? What do you mean?</line>
 <line speaker="Bikini">Her twin daughters were taken from her by her jeweler husband. But even that couldn't destroy her dream that a child of hers would one day lead the clan.</line>
@@ -1277,8 +1271,7 @@
 <line speaker="Phoenix">No, no, no! I'm sure someone just wiped it off after the murder!</line>
 <line speaker="Gumshoe">... Yeah, of course! This thing's definitely the murder weapon! Great job, pal!</line>
 <line speaker="Phoenix"><thought>It's about the same length as the Shichishito, too. This must be the murder weapon!</thought></line>
-<line speaker="After using metal detector on staff and clearing "Murder weapon" Talk option">Gumshoe:</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Wait up, Detective!</line>
 <line speaker="Gumshoe">Huh? What is it, pal? I'm a pretty busy guy right now, you know.</line>
 <line speaker="Phoenix">You're going to get that staff analyzed, right? Would you mind holding off for just a while?</line>
@@ -1341,7 +1334,6 @@
 <line speaker="Phoenix">E-Executed?</line>
 <line speaker="Edgeworth">I'm sure that's a bit of a shock for you, Wright. And for more reasons than one. But do you understand now? She can't possibly be connected with this case. She's dead, and once someone is dead, there is no way to revive them.</line>
 <line speaker="Phoenix">... <thought>There's no way to revive the dead...? Hmm... I wonder...</thought></line>
-<line speaker="After clearing "Dahlia's death" Talk option">Phoenix:</line>
 <line speaker="Edgeworth">And what is that?</line>
 <line speaker="Phoenix">It's about Iris and Dahlia Hawthorne's mother.</line>
 <line speaker="Edgeworth">What's their mother got to do with any of this?</line>
@@ -1354,14 +1346,14 @@
 <line speaker="Phoenix">...Edgeworth...</line>
 <line speaker="Edgeworth">Go to the Police Records Room. It's all in there. All you have to do is check the DL-6 Incident case file and you'll know!</line>
 <line speaker="Phoenix"><thought>Of course... How could I forget... Edgeworth was the victim in that case.</thought> Edgeworth... You'll understand someday... And then, you'll see that the Kurain Channeling Technique is real...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I think it's time you told the truth about what you were doing on that night.</line>
 <line speaker="Iris">...</line>
 <line speaker="Phoenix">You said you were in your room at Hazakura Temple the entire time. Do you still claim that to be the truth?</line>
 <line speaker="Iris">Yes... That's where I was.</line>
 <line speaker="Phoenix">Iris... I believe you're innocent. That's why I want to believe what you're telling me, too. But I can't. Because this person saw you somewhere else on the night of the murder!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Iris!? I trust you, so you need to trust me.</line>
 <line speaker="Iris">But, Mr. Wright... I can't.</line>
 <line speaker="Phoenix">Why not?</line>
@@ -1379,8 +1371,8 @@
 <line speaker="Phoenix">... I'm sorry, Iris, but lying just doesn't suit you.</line>
 <line speaker="Iris">Huh?</line>
 <line speaker="Phoenix">Now, you say you left the Main Hall at 9:40 PM, but what you say doesn't add up with this!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Iris">I'm sorry, Mr. Wright... But mistakes just don't suit you.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Iris">I had hoped you would get at least this much correct. I hate seeing you mess up and getting all disappointed.</line>
@@ -1422,8 +1414,8 @@
 <line speaker="Iris">B-But that's crazy! How could that be!? There's only one of me! It's impossible!</line>
 <line speaker="Phoenix">Impossible? I wonder... The way you're trembling certainly seems to suggest otherwise.</line>
 <line speaker="Iris">*gulp* You're seriously trying to suggest there's more than one of me? Then show me the evidence! Show me something that proves there is more than one of me!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Iris">... Err, Mr. Wright... When you said there was "another me"... ...I was kind of expecting someone who looked like me. You know?</line>
 <line speaker="Phoenix">I... I guess so...</line>
 <line speaker="Iris">In that case, are you saying that I look like this person?</line>
@@ -1475,7 +1467,6 @@
 <line speaker="Iris">Yes. The woman my father took as his next wife already had a daughter... Valerie. I... I had no place in his new family, you see.</line>
 <line speaker="Phoenix">Oh...</line>
 <line speaker="Iris">And I haven't seen my mother once since then. Having the Master's seat stolen from her, and being rejected by her own family... I've heard she's been very battered, spiritually and emotionally.</line>
-<line speaker="After clearing "Revenge" Talk option">Phoenix:</line>
 <line speaker="Phoenix">...That's what it looks like. Iris... There's just one more thing I want you to tell me.</line>
 <line speaker="Iris">What is it...?</line>
 <line speaker="Phoenix">During the incident in which your sister, Dahlia Hawthorne, poisoned a lawyer... ...she began relations with a certain college student in order to hide the evidence. That college student... Have you heard anything about him...?</line>
@@ -1484,18 +1475,17 @@
 <line speaker="Iris">You're welcome...</line>
 <line speaker="Iris">Leave these locks to me. I'll open them for you, I promise.</line>
 <line speaker="Phoenix">Thank you. <thought>I suppose I'd better continue my investigation. There's still one giant secret left to unlock... Pearls's Psyche-Lock...</thought></line>
-<line speaker="After clearing all Talk options at Hazakura Temple - Main Gate, clearing "The letter" and "Murder weapon" Talk options at Hazakura Temple - Courtyard, and clearing "Revenge" Talk option at Hazakura Temple - Training Hall">February 9</line>
 <line speaker="Phoenix"><thought>Look at that! They really did make a fire, right in front of the shack...</thought></line>
 <line speaker="Pearl">Oh! Mr. Nick!</line>
 <line speaker="Butz">Hah! You're too late, Nick! If you came here for one of our potatoes, we've already polished them all off!</line>
 <line speaker="Phoenix"><thought>I think I've pretty much got all the evidence I need. Now I just need to find out what Pearls is hiding.</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">After dinner on the night of the murder... ...you were supposed to be in Elise Deauxnim's room, reading a book together, correct?</line>
 <line speaker="Pearl">Yes! I was so happy when she invited me! But... I didn't go in the end.</line>
 <line speaker="Phoenix">You didn't go...?</line>
 <line speaker="Pearl">... No. There was somewhere else I had to go instead. I was so worried, I... I had to go. I didn't know what to do with myself. I was so nervous.</line>
 <line speaker="Phoenix"><thought>So Pearls never went to Ms. Deauxnim's room... Because she was too worried about something or someone else...</thought> ...Pearls. On the night of the murder, you went to this place, didn't you...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">You went here, didn't you Pearls?</line>
 <line speaker="Pearl">...</line>
 <line speaker="Phoenix"><thought>Looks like she's still not going to open up to me.</thought> This is where you went because you were so worried, right? Then the next question is, "Who or what were you so worried about?" Now, I'm going to take a guess, and you can tell me if I'm right or wrong, OK?</line>
@@ -1503,8 +1493,8 @@
 <line speaker="Phoenix">If I'm right, will you tell me the whole truth?</line>
 <line speaker="Pearl">... O-OK...</line>
 <line speaker="Phoenix">You went to this place for one very simple reason, and that is this:</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well Pearls? This is what you were worrying about, right?</line>
 <line speaker="Pearl">... There's something I'm worrying about right now, actually.</line>
 <line speaker="Phoenix">What's that?</line>
@@ -1533,8 +1523,8 @@
 <line speaker="Phoenix"><thought>She was trying to hear the bell...?</thought> Tell me, Pearls... Why were you so worried about hearing that bell?</line>
 <line speaker="Pearl">Huh!? Oh! I...</line>
 <line speaker="Phoenix">I think I know why. The reason you were so worried about that bell was because of this:</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Pearl">... You know, Mr. Nick, I think you should take a break now.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Pearl">Even your hair's starting to look a bit tired. The spikes aren't looking so sharp.</line>
@@ -1552,8 +1542,8 @@
 <line speaker="Phoenix">Who was it, Pearls? Whose spirit were you supposed to be channeling?</line>
 <line speaker="Pearl">Nngh...</line>
 <line speaker="Phoenix"><thought>Taking into account the author of the note, and their purpose for writing it... ...whose spirit would Pearls have been trying to channel? Don't over-think it, Phoenix! It's pretty obvious who Pearls was supposed to channel...</thought> The person you were trying to channel that night, Pearls, was...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Pearls? Am I right?</line>
 <line speaker="Pearl">I... I can't channel anyone anymore.</line>
 <line speaker="Pearl">A spirit medium who can't channel spirits... is like a painter who can't paint.</line>
@@ -1569,8 +1559,8 @@
 <line speaker="Phoenix">Whoever it was asked you to channel the spirit of someone you'd never heard of... You must have quite a lot of respect for them.</line>
 <line speaker="Pearl">...</line>
 <line speaker="Phoenix">After all, you followed their instructions without question. So here's my next question. Who wrote this set of instructions for you to follow...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is the person who wrote the instructions, isn't it Pearls? You must have had a lot of faith in them to follow their instructions to a tee!</line>
 <line speaker="Pearl">... I... I had a lot of faith... in you, Mr. Nick.</line>
 <line speaker="Phoenix">Oh! Thanks!</line>
@@ -1597,8 +1587,8 @@
 <line speaker="Phoenix">It couldn't have been an adult... No adult would've made a simple mistake like that.</line>
 <line speaker="Pearl">A... simple mistake? What do you mean by that?</line>
 <line speaker="Phoenix">I'm sure you thought you were carefully following the instructions you'd been given. But you misunderstood some of the words, and this is the evidence that proves it!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This shows the mistake you made!</line>
 <line speaker="Pearl">... Umm... I guess you know what I'm about to say, huh? I don't think it's me who made a mistake, Mr. Nick. It's you.</line>
 <line speaker="Phoenix"><thought>But the person who read these instructions must have been a child. That's why they misunderstood the meaning of that word... It's the only explanation for how such a simple mistake could've been made!</thought> OK, Pearls. I'll go over it again. The person who read these instructions...</line>
@@ -1671,7 +1661,6 @@
 <line speaker="Pearl">There's something else that was strange about my mother's letter... The seal on it was broken, as if someone had already opened it once before.</line>
 <line speaker="Butz">...That sure is pretty strange.</line>
 <line speaker="Phoenix"><thought>Someone had opened it already?</thought></line>
-<line speaker="After clearing "The night of the crime" and "Morgan's letter" Talk options">Phoenix:</line>
 <line speaker="Pearl">You're very welcome! My mother is watching over us! So I'm sure Mystic Maya will be alright!</line>
 <line speaker="Phoenix">... <thought>Look at that innocent smile on her face. What am I supposed to say to her?</thought></line>
 <line speaker="???">Ha...!</line>

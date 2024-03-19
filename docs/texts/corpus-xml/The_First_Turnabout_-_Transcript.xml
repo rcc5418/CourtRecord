@@ -121,7 +121,7 @@
 <line speaker="Butz">Er... Yeah! Yeah! I was there! I went!</line>
 <line speaker="Judge">Order! Well, Mr. Butz?</line>
 <line speaker="Butz">Dude, chill! She wasn't home, man... So, like, I didn't see her.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Your Honor, the defendant is lying.</line>
 <line speaker="Judge">Lying?</line>
 <line speaker="Payne">The prosecution would like to call a witness who can prove Mr. Butz is lying.</line>
@@ -160,58 +160,58 @@
 <line speaker="Phoenix">Um... okay.</line>
 <line speaker="Mia">Touch the Court Record button and point out contradictions in the testimony!</line>
 <line speaker="Sahwit">I was going door-to-door, selling subscriptions when I saw a man fleeing an apartment.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Isn't a man leaving an apartment a common sight? I find it odd you would take notice of him...</line>
 <line speaker="Sahwit">Er... heh. I don't know. He just seemed strange to me, that's all. Like he was mad, and yet frightened at the same time. Just like... a criminal fleeing the scene of a crime!</line>
 <line speaker="Phoenix">The defense requests that the witness refrain from conjecture!</line>
 <line speaker="Payne">Of course. What the witness means is that the man he saw looked suspicious. So, what happened next?</line>
 <line speaker="Sahwit">I thought he must be in a hurry because he left the door half-open behind him.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Half-open... you say?</line>
 <line speaker="Sahwit">Yes, yes, the door was open halfway. Yes. I watched for a moment, but no one came to close the door. "That's odd, in a big city like this," I thought...</line>
 <line speaker="Payne">I see. And what happened next?</line>
 <line speaker="Sahwit">Thinking it strange, I looked inside the apartment.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What gave you the idea to do that?</line>
 <line speaker="Sahwit">Well, the door was half-open, you see. Isn't it only human to want to... peek? We climb mountains because they are there! It's the same thing.</line>
 <line speaker="Payne">Truer words have never been spoken! Anyone would look inside!</line>
 <line speaker="Phoenix"><thought>Hmm... why did Payne cut him off so quickly?</thought></line>
 <line speaker="Payne">So you looked into the apartment. What happened then?</line>
 <line speaker="Sahwit">Then I saw her lying there... A woman... not moving... dead!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure she was dead?</line>
 <line speaker="Sahwit">W-Well, no, I guess I wasn't. But, she wasn't moving at all, and there was blood everywhere.</line>
 <line speaker="Phoenix"><thought>I guess that would look fatal to anyone...</thought> Very well, what happened next?</line>
 <line speaker="Sahwit">I quailed in fright and found myself unable to go inside.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, you didn't touch ANYTHING in the apartment?</line>
 <line speaker="Sahwit">Um, yes. I mean no! Nothing.</line>
 <line speaker="Phoenix">Okay. What happened next?</line>
 <line speaker="Sahwit">I thought to call the police immediately!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You "thought" to call the police? Does that mean you didn't actually call them!?</line>
 <line speaker="Payne">Please, please... Listen to the rest of the testimony. You thought to call the police... What happened next?</line>
 <line speaker="Sahwit">However, the phone in her apartment wasn't working.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The phone in her apartment wasn't working?</line>
 <line speaker="Sahwit">Yes. I mean, no, no it wasn't. Right.</line>
 <line speaker="Phoenix">But you said you didn't go into the apartment... or did you!?</line>
 <line speaker="Sahwit">Oh, oh, that? I can explain that! There was a cordless phone on a shelf in the entranceway. I reached inside and tried using that to call...</line>
 <line speaker="Payne">And the phone wasn't working, correct? What happened next?</line>
 <line speaker="Sahwit">I went to a nearby park and found a public phone.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why use a public phone?</line>
 <line speaker="Sahwit">Well, you see, I don't have a cell phone. And, being the middle of the afternoon, there was no answer at the nearby apartments.</line>
 <line speaker="Phoenix">Ah, right... what time did you call again?</line>
 <line speaker="Sahwit">I remember the time exactly: It was 1:00 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">1:00 PM! Are you certain?</line>
 <line speaker="Sahwit">Yes. Absolutely.</line>
 <line speaker="Phoenix"><thought>Hmm... He seems really confident.</thought></line>
 <line speaker="Mia">1:00 PM? Wright. Doesn't that seem strange to you? Present some evidence to contradict him!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sahwit">The man who ran was, without a doubt, the defendant sitting right over there.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely, 100% positive?</line>
 <line speaker="Sahwit">Yes, it was him. No mistake about it.</line>
 <line speaker="Payne">The witness says he's certain!</line>
@@ -220,7 +220,7 @@
 <line speaker="Sahwit">Yes. It was 1:00 PM, for certain.</line>
 <line speaker="Phoenix">Frankly, I find that hard to believe! Your statement directly contradicts the autopsy report. The autopsy notes the time of death at sometime after 4PM. There was nobody to... er... no "body" to find at 1:00 PM! How do you explain this three-hour gap?</line>
 <line speaker="Sahwit">!!! Oh, that! Oh, er...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">This is trivial! The witness merely forgot the time!</line>
 <line speaker="Judge">After his testimony, I find that hard to believe. Mr. Sahwit... Why were you so certain that you found the body at 1:00 PM?</line>
 <line speaker="Sahwit">I.. er... well, I... Gee, that's a really good question!</line>
@@ -232,44 +232,44 @@
 <line speaker="Mia">Wright! You know what to do!</line>
 <line speaker="Phoenix">I've got this one.</line>
 <line speaker="Sahwit">You see, when I found the body, I heard the time.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You said "heard"... Not "saw"?</line>
 <line speaker="Sahwit">Yes, heard. All I saw was the body lying there... I didn't think to look at anything else, least of all my watch.</line>
 <line speaker="Phoenix">Hmm... Isn't that a little strange? So you're saying you "heard" something. But if you were so shocked by the body, you wouldn't hear anything at all!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">The witness did say he actually heard the time. It's ludicrous to suggest he "wouldn't hear anything"!</line>
 <line speaker="Judge">Hmm... I have to agree with the prosecution. Witness, continue your testimony.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sahwit">There was a voice saying the time... It was probably coming from the television.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure it was a television and not... a radio?</line>
 <line speaker="Sahwit">Well, no, I guess it might have been a radio.</line>
 <line speaker="Payne">Incidentally, there was no radio on the premises. There was only one large television.</line>
 <line speaker="Mia">Wright! I can't put my finger on it, but something about this seems fishy. Something about "hearing" the television...</line>
 <line speaker="Payne">The witness has testified. He heard the time.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sahwit">Oh, but it was three hours off, wasn't it?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How do you explain the gap!</line>
 <line speaker="Judge">Well, witness? Can you explain this?</line>
 <line speaker="Sahwit">I guess the victim must have been watching a video of a taped program!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A.. video?</line>
 <line speaker="Sahwit">Yes, that would explain why the time was wrong!</line>
 <line speaker="Phoenix">True, true...</line>
 <line speaker="Mia">Wright! I think the problem lies someplace else...</line>
 <line speaker="Judge">We're agreed that you heard the time at the scene, then.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sahwit">That's why I thought it was 1:00 PM!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure the voice you heard said it was 1:00 PM?</line>
 <line speaker="Sahwit">Yes, I can practically hear it now. It was quite clear.</line>
 <line speaker="Judge">Mr. Payne, has the prosecution verified this testimony?</line>
 <line speaker="Payne">My apologies, Your Honor. I, too, have only just learned that the witness "heard" the time.</line>
 <line speaker="Sahwit">Oh, I'm really sorry. I only remembered it just now.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sahwit">Terribly sorry about the misunderstanding...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Well, you just watch it! <thought>Hmm... Not much point pressing him on that one, was there?</thought></line>
 <line speaker="Mia">Notice anything suspicious?</line>
 <line speaker="Phoenix">Hold it right there! The prosecution has said there was a blackout at the time of the discovery! And this record proves it!</line>
@@ -285,27 +285,27 @@
 <line speaker="Judge">You saw a clock? I guess that would explain it. The defense may cross-examine the witness.</line>
 <line speaker="Phoenix">Gladly.</line>
 <line speaker="Sahwit">Actually, I didn't "hear" the time... I "saw" it!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">That strikes me as a very suspicious mistake.</line>
 <line speaker="Sahwit">Yes, I can see how you'd be a little doubtful... I'm really sorry. I only just remembered that table clock!</line>
 <line speaker="Judge">A "table clock"?</line>
 <line speaker="Sahwit">There was a table clock in the apartment, wasn't there!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A "table clock"? Was there a clock at the scene?</line>
 <line speaker="Judge">This is the first I've heard of it!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sahwit">Yeah, the murder weapon! The killer used it to hit the victim!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The... murder weapon?</line>
 <line speaker="Sahwit">Yes, the table clock that was used as a weapon! That's what I just said. Did you doze off in the middle of my testimony or something?</line>
 <line speaker="Phoenix"><thought>Something's fishy here...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Sahwit">That must have been what I saw.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why didn't you tell us that in the first place?</line>
 <line speaker="Sahwit">I guess it just slipped my mind! I'm not really sure how it happened myself...</line>
 <line speaker="Payne">The witness says he saw the table clock. End of story.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Now, find the contradiction!</line>
 <line speaker="Phoenix">Wait just a moment! The murder weapon wasn't a clock. It was this statue! Now how is this supposed to be a clock?</line>
 <line speaker="Sahwit">Whaa!? Y-you with your "objections," and your "evidence"... Just who do you think you are!?</line>
@@ -335,7 +335,7 @@
 <line speaker="Phoenix">I'll do better than that! I can prove you were the one who killed her! You struck her with the clock, and the shock of the blow triggered the clock's voice! That was the sound you heard!</line>
 <line speaker="Judge">Order in the court! Intriguing. Please continue, Mr. Wright.</line>
 <line speaker="Phoenix">Yes, Your Honor. Mr. Sahwit. The sound must have left quite an impression on you. Understandable, since the murder weapon spoke just as you hit the victim! That voice was burned into your mind. That's why you were so certain about the time!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">W-w-what's the meaning of this? This is all baseless conjecture!</line>
 <line speaker="Phoenix">Baseless...? Just look at the witness's face!</line>
 <line speaker="Sahwit">Ngh... grrrah!</line>
@@ -395,8 +395,8 @@
 <line speaker="Phoenix"><thought>This is it... all or nothing!</thought> Yes, Your Honor. I believe I have the evidence that can prove my claim!</line>
 <line speaker="Sahwit">Hah hah! I'd like to see THAT!</line>
 <line speaker="Judge">Let's see this evidence that proves why the clock was running slow!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Um, excuse me. This proves your claim... how? I can't see what that evidence has to do with the clock.</line>
 <line speaker="Phoenix"><thought>D'oh! That wasn't it!</thought> One more chance... Give me just one more chance!</line>
 <line speaker="Judge">Alright, Mr. Wright, but time is not on your side. Be quick about it.</line>
@@ -441,7 +441,7 @@
 <line speaker="Butz">Nah, you don't gotta sympathize with me, 'sokay.</line>
 <line speaker="Mia">Oh, I'm not just sympathizing, really. Isn't that right, Wright? Don't you have something to show your friend? Something that proves how she felt about him?</line>
 <line speaker="Phoenix">H-huh? Oh, yeah, right! <thought>What the heck is she talking about?</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Check this out, Larry. Proof Positive you weren't just some chump to her.</line>
 <line speaker="Butz">Huh...? What about that clock?</line>
 <line speaker="Phoenix">This is the clock YOU made for her, Larry! And she took it with her when she traveled.</line>
@@ -451,7 +451,7 @@
 <line speaker="Phoenix">Well, make of it what you will.</line>
 <line speaker="Butz">... Hey, Nick. I'm glad I asked you to be my lawyer. Really, I am. Thanks.</line>
 <line speaker="Phoenix"><thought>Hope that made him feel a little better...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here you go, Larry. Proof.</line>
 <line speaker="Butz">... Eh... heh heh? It's okay, Nick. Don't worry about me. I'll forget about her soon enough. Look, I'm gonna head home. Thanks a ton, eh?</line>
 <line speaker="Phoenix"><thought>Guess that wasn't the right thing to show him...</thought></line>
@@ -464,25 +464,25 @@
 <line speaker="Phoenix">Er, yeah. Part, at least.</line>
 <line speaker="Mia">You'll have to tell me more about it sometime! Maybe... over drinks?</line>
 <line speaker="Phoenix">And so, my first trial came to a close. Larry slapped me on the back and said, "Gee, Nick, it's good to have friends!" But I'm pretty sure he's not going to pay us. Unless you count the clock he gave Mia. ... I didn't know it then... but that clock was soon going to be at the center of another incident. And my promise to tell the chief about me and Larry... would be one promise that I wouldn't be able to keep.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory.</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow?</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh. I must be on the wrong track?</thought></line>

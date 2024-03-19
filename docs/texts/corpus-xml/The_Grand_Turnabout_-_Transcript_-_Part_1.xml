@@ -49,7 +49,7 @@
 <line speaker="Kay">Please calm down! You're scaring her!</line>
 <line speaker="Edgeworth"><thought>He does seem to have lost his composure...</thought></line>
 <line speaker="Lang">Tch. Calm down!? How am I supposed to calm down? Do you know who's been murdered!? Di-Jun Huang... the president of Zheng Fa!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Agent Lang. This isn't like you.</line>
 <line speaker="Lang">!</line>
 <line speaker="Edgeworth">When we first met, you had an army of subordinates under your command... ...and you boasted of having the highest arrest rate in Interpol. And what now? Did you forget the fundamentals of investigation along with all of your men?</line>
@@ -417,7 +417,7 @@
 <line speaker="Edgeworth"><thought>I see. In that case... I wonder what caused the fire?</thought></line>
 <line speaker="Kay">I could probably carry a light stand of this size on my shoulder.</line>
 <line speaker="Edgeworth">Kay. Don't tell me you're planning to steal this.</line>
-<line speaker="Kay">Of course not! But if I carried this around with me... ...I could shine a spotlight on you whenever you shout ><cutIn>Objection!</cutIn>Edgeworth:</line>
+<line speaker="Kay">Of course not! But if I carried this around with me... ...I could shine a spotlight on you whenever you shout ><cutIn type="objection">Objection!</cutIn>Edgeworth:</line>
 <line speaker="Penny">Ah, that's a first-generation Moozilla plushie! ...So you knew about it?</line>
 <line speaker="Edgeworth">No. I only happened to see the doll. I didn't know anything about the films.</line>
 <line speaker="Kay">I think this is much cuter than the head on the roof. It's a little dirty though.</line>
@@ -546,23 +546,23 @@
 <line speaker="Lang">Exactly... Courtney, you mean? It's gotta be her!</line>
 <line speaker="Edgeworth"><thought>Agent Lang's reasoning is certainly sound... However, he has overlooked one major thing...! ...and that's where I must strike!</thought></line>
 <line speaker="Lang">Listen up. That woman met with the president on top of the Grand Tower.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How can you be so sure that the two actually met?</line>
 <line speaker="Lang">Hmph. Attacking right off the bat... Your fighter's instinct, it's not bad. Trying to keep me in check from the opening move. Impressive.</line>
 <line speaker="Edgeworth"><thought>No, that wasn't exactly my intention...</thought></line>
 <line speaker="Lang">Still, Mr. Prosecutor, I've only just begun. So why don't you pipe down and listen up?</line>
 <line speaker="Lang">Two nights ago, she pushed the president off the roof, and he fell onto this film lot.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Two nights ago...? Are you certain?</line>
 <line speaker="Lang">Hmph! If you doubt me, then take a look for yourself! This picture was taken by the security camera on the roof of the Grand Tower... This was undoubtedly taken the night before last!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">All this picture shows is that they went to the rooftop together. There's no indication of what transpired afterwards.</line>
 <line speaker="Lang">The security cameras were only installed in front of the elevator. There's nothing to show what happened on the viewing platform, but... ...I'm certain of it! That was when the crime took place!</line>
 <line speaker="Edgeworth"><thought>Hmm. If the president really was murdered two nights ago... ...it would mean that the body has been here ever since.</thought></line>
 <line speaker="Lang">What's wrong, Mr. Prosecutor? Something on your mind? But, it's not over yet. I'm just getting started.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">At the time, there was no one else on the rooftop, aside from those two.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Someone could have been hiding on the viewing platform!</line>
 <line speaker="Kay">That's right! There was even a cotton candy stall up there!</line>
 <line speaker="Lang">Not so fast!!</line>
@@ -570,7 +570,7 @@
 <line speaker="Kay">E... Even the sugar...? That's just too cruel!</line>
 <line speaker="Lang">However, it was all for naught. The president still met his end...</line>
 <line speaker="Lang">There's no room for doubt! That woman murdered the president!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you really think there is no room for doubt?</line>
 <line speaker="Lang">Heh! Of course I do! The time, the place... Everything points to that woman committing the crime!</line>
 <line speaker="Edgeworth">I see. The time and the place, everything... huh? <thought>The time following the president's death and where his body was found... It seems I have reached the heart of the matter.</thought></line>
@@ -597,12 +597,12 @@
 <line speaker="Lang">Is that so? Think about it this way... Two nights ago, Courtney pushed the president off the roof and killed him. Afterwards, she snuck into the film lot to hide the body.</line>
 <line speaker="Edgeworth">In here?</line>
 <line speaker="Lang">Wouldn't it be easy to hide a body in costume or behind all this equipment? Then, all she had to do last night was retrieve the body. Once we search this area, we'll know where she hid the body.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Unfortunately, there is no need for a search.</line>
 <line speaker="Lang">What'd you say!?</line>
 <line speaker="Edgeworth">This piece of evidence proves that Judge Courtney could not have hidden the body!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">Mr. Prosecutor. That's the evidence you were talking about?</line>
 <line speaker="Edgeworth">Indeed. If you look at this piece of evidence, you'll see that Judge Courtney could not have...</line>
 <line speaker="Lang">Not so fast!!</line>
@@ -627,13 +627,13 @@
 <line speaker="Kay">That's right. I... I still need more training to be able to pull that off.</line>
 <line speaker="Edgeworth"><thought>Are you saying you're going to train yourself to fly?</thought></line>
 <line speaker="Lang">A photo was recorded 10-20 minutes after the president went up to the roof with that woman.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"10-20 minutes"... That's rather vague.</line>
 <line speaker="Lang">The problem here isn't when it happened. At least, not right now. What's important is what that woman did after that.</line>
 <line speaker="Edgeworth">...What Judge Courtney did? Could you tell me about it in more detail?</line>
 <line speaker="Lang">Hmph. That's what I was going to do.</line>
 <line speaker="Lang">That woman, she came back down on the elevator alone.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you certain she was alone in the elevator?</line>
 <line speaker="Lang">Yeah, I'm sure. It'd been 10-20 minutes after they went up to the roof... The security camera by the elevator only recorded that woman. She was definitely alone. I saw it with my own two eyes!</line>
 <line speaker="Edgeworth"><thought>Hmm... Judge Courtney returned alone on the elevator. This point seems to be accurate.</thought></line>
@@ -643,7 +643,7 @@
 <line speaker="Edgeworth">...Returning to the topic at hand... Agent Lang, could the president have used the elevator after Judge Courtney?</line>
 <line speaker="Lang">Yeah. I thought of that too. However...</line>
 <line speaker="Lang">After that, there was no sign of the president getting on the elevator at all!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Just to be sure... the camera didn't have any blind spots or malfunctions, right?</line>
 <line speaker="Lang">You think I'd make a mistake like that? Are you mocking my investigation?</line>
 <line speaker="Edgeworth">No. It is simply my nature to question everything.</line>
@@ -651,15 +651,15 @@
 <line speaker="Edgeworth">Understood. While I reserve judgment on your logic, I shall trust in your investigation.</line>
 <line speaker="Lang">Oh, is that how it is? Do what you want. ...It won't change a thing.</line>
 <line speaker="Lang">There's no other way for the president to get down without using the elevator, is there?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And if there were, in fact, some other way besides the elevator...?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">From the roof of a 50-story building? Hah! That's ridiculous. Without the elevator, there's no way to go down, let alone get off the viewing platform. You'll need something better than that to break my logic!</line>
 <line speaker="Edgeworth"><thought>A way to get off the rooftop viewing platform, without using the elevator...</thought></line>
 <line speaker="Lang">How about it, Mr. Prosecutor? Do you understand now? There is no reason for the president to be lying sprawled out on the pavement here...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">Besides getting pushed off the roof by that woman, that is!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang. It's still too early to make that conclusion.</line>
 <line speaker="Lang">Hmph. No matter how much you struggle, there's no escape from my fangs.</line>
 <line speaker="Edgeworth">I wonder about that. Perhaps there is a hidden route... ...that allows us to escape from the locked room and your fangs simultaneously.</line>
@@ -846,21 +846,21 @@
 <line speaker="Courtney">The defense's proposal is overruled.</line>
 <line speaker="Ray">Eh? Courtney-pie...?</line>
 <line speaker="Roland">I know, right? It'd be troubling for me if this trial were to be delayed any further. I just want everyone to know that I'm innocent. As soon as possible.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Innocent!? I've had more than enough of your foolish...</line>
 <line speaker="Roland">And, besides. You don't have any evidence, right? I recall a certain saying... "In court, evidence is everything." Wasn't it? Since there's no evidence, that would make me innocent. Isn't that right, Your Honor?</line>
 <line speaker="Courtney">.......... That is correct.</line>
 <line speaker="Franziska">Eh!</line>
 <line speaker="Ray">What!?</line>
 <line speaker="Courtney">The prosecution has not produced sufficient evidence to prove the defendant guilty. As such, I hereby find the defendant, Patricia Roland...</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">Hold your horses, Courtney-pie! You can't just declare her innocent all of a sudden!</line>
 <line speaker="Courtney">Is something the matter? For the defense to object to a "not guilty" verdict...</line>
 <line speaker="Ray">Well, I mean... Even you must know that the warden over there is guilty, right? You were there with us when we found the murder weapon!</line>
 <line speaker="Courtney">........ Mr. Shields. A judge must remain impartial when handing down a verdict. That is why I cannot allow myself to get caught up in my own personal feelings... The person who was present when the murder weapon was discovered... ...and the judge sitting before you now, are two completely different people.</line>
 <line speaker="Ray">...You're kidding, right?</line>
 <line speaker="Courtney">I can only hand down a verdict based upon the evidence that was presented.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">There is evidence! It's just... Well, it's not here right now, but... A few minutes, that's all I need! I'll find the evidence and return to court, without fail! The prosecution requests a brief recess, Your Honor!</line>
 <line speaker="Courtney">........</line>
 <line speaker="Ray">Th-The defense would also like a recess, Your Honor. Courtney-pie. Please...</line>
@@ -933,7 +933,7 @@
 <line speaker="Franziska">The next time I see that foolish fool of a prosecutor, I'll whip some backbone into him!</line>
 <line speaker="Edgeworth"><thought>I don't mind if you whip some backbone into him... but stop whipping innocent bystanders!</thought></line>
 <line speaker="Franziska">Is that supposed to be a replacement for your prosecutor's badge? It certainly suits you, Miles Edgeworth!</line>
-<line speaker="Kay"><cutIn>Hold it!</cutIn> This badge suits me way more than it does Mr. Edgeworth!</line>
+<line speaker="Kay"><cutIn type="holdIt">Hold it!</cutIn> This badge suits me way more than it does Mr. Edgeworth!</line>
 <line speaker="Edgeworth"><thought>When did this become a competition?</thought></line>
 <line speaker="Franziska">Kay Faraday. Have you had any more problems with your memory since your recovery?</line>
 <line speaker="Kay">Nope! I remember everything perfectly now! Including... ...how I secretly wanted to steal a closer look at your whipping technique!</line>
@@ -1024,8 +1024,8 @@
 <line speaker="Edgeworth">Alright. That would be helpful. Now then, where should we begin?</line>
 <line speaker="Kay">I think we should go find that person, and hear what they have to say!</line>
 <line speaker="Edgeworth">Who should we talk to in order to learn where the evidence went?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">Huh!? That person knows where the evidence is?</line>
 <line speaker="Edgeworth">Yes. I believe they should.</line>
 <line speaker="Kay">Hmm... I don't think they have any connection with it.</line>
@@ -1681,7 +1681,7 @@
 <line speaker="Debeste">U... Uwaaaaaaahh! Please stop it already! Just leave me alone already! I... can't trust anyone anymore...!</line>
 <line speaker="Edgeworth"><thought>Curses... If I make any pointless remarks, his mind will break.</thought> Even so, he's someone that cries easily. Whether he's feeling down or he's losing his temper... ...he'll be crying either way, so I won't be able to tell the difference. I should try reading the emotion in what he's saying.</line>
 <line speaker="Edgeworth">.....</line>
-<line speaker="Debeste">Wh-What's wrong? Normally, you'd be shouting "<cutIn>Objection!</cutIn>" right about now!</line>
+<line speaker="Debeste">Wh-What's wrong? Normally, you'd be shouting "<cutIn type="objection">Objection!</cutIn>" right about now!</line>
 <line speaker="Edgeworth">Do you understand? You have been cornered!</line>
 <line speaker="Debeste">U... Uwaaaaaaahh! Please stop it already! Just leave me alone already! I... can't trust anyone anymore...!</line>
 <line speaker="Edgeworth"><thought>Curses... If I make any pointless remarks, his mind will break.</thought> Even so, he's someone that cries easily. Whether he's feeling down or he's losing his temper... ...he'll be crying either way, so I won't be able to tell the difference. I should try reading the emotion in what he's saying.</line>
@@ -1988,7 +1988,7 @@
 <line speaker="Kay">Hmm... I wonder if that's going to be enough...</line>
 <line speaker="Edgeworth">It can't be helped. Since he ran away, there's nothing more we can do.</line>
 <line speaker="Ray">Eerm. I guess I'll just say it again. If there's no murder weapon, you can't prove the defendant is guilty.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Just because we don't have the murder weapon, doesn't mean the defendant is innocent! It seems you wish to taste the sting of my whip.</line>
 <line speaker="Ray">Gyaaah!</line>
 <line speaker="Roland">Mr. Attorney. This trial... How much longer will it take? Because it feels like it hasn't gone anywhere at all for a good while now!</line>
@@ -2224,8 +2224,8 @@
 <line speaker="Edgeworth">Judge Courtney!</line>
 <line speaker="Courtney">Hush. Please, have a seat.</line>
 <line speaker="Edgeworth"><thought>The only evidence I had with me at the time was...!</thought> Where was the bug planted...?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The kidnapper probably planted a bug inside this.</line>
 <line speaker="Kay">Hmm. It'd be kinda hard to put a bug into something like that...</line>
 <line speaker="Edgeworth">Ngh! <thought>It seems that wasn't it...</thought></line>
@@ -2306,8 +2306,8 @@
 <line speaker="Edgeworth">...No, the garbage truck should have been real.</line>
 <line speaker="Kay">Eh! Why's that?</line>
 <line speaker="Edgeworth">That will be made clear if you simply take a look at the garbage pickup area. This shows that the garbage truck John was kidnapped in was real...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">Mmmmm! There's something important there?</line>
 <line speaker="Edgeworth">This spot alone is evidence enough that the garbage truck was a real one. Wouldn't you agree?</line>
 <line speaker="Kay">No I don't!</line>
@@ -2635,10 +2635,10 @@
 <line speaker="Franziska">Witness! Face forward! We're not done talking yet!</line>
 <line speaker="Blaise">Like I said, y'see. Why exactly would I have needed to help that person out, Your Honor?</line>
 <line speaker="Blaise">Y'know, it's a crying shame. Having a beautiful woman declared guilty. Honestly, it brings tears to my eyes. But y'see, there's no reason for me to go out of my way to hide evidence just to save her.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">However, we still have the testimony of your son, Prosecutor Debeste! He testified that he handed the evidence over to you!</line>
 <line speaker="Blaise">Hmm. Well, I haven't the slightest clue what he was talking about. I simply can't imagine why Sebastian would have said something like that, y'know.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">What if there is evidence that shows your connection with Warden Roland?</line>
 <line speaker="Blaise">Hm? And just what do you think you're doing, "Former" Prosecutor Edgeworth? I was under the impression that you were no longer in any position to stand in court?</line>
 <line speaker="Franziska">Miles Edgeworth! How dare you barge into my prosecutor's bench...</line>
@@ -2647,18 +2647,18 @@
 <line speaker="Edgeworth">Judge Courtney! I've brought vital evidence related to this case. Your Honor, please allow me to testify!</line>
 <line speaker="Courtney">........</line>
 <line speaker="Blaise">Hah hah hah! She'd never allow it!</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">Courtney-pie. Uncle Ray also asks that he be allowed to testify. There are no objections from the prosecution either, right?</line>
 <line speaker="Franziska">.......... Understood. The prosecution also has no objections.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">There's no way you can allow something like this, y'know. Such high-handed methods... ...surely are enough to warrant being held in contempt of court. Wouldn't y'say, Courtney?</line>
 <line speaker="Courtney">........</line>
 <line speaker="Edgeworth"><thought>Ngh! As long as John is still in danger... ...Judge Courtney cannot rule against the warden. I must convey to her somehow that the search for her son is progressing!</thought> Judge Courtney. I ask that you have faith in me and my assistant.</line>
 <line speaker="Franziska">Now that you mention it, where exactly is she...?</line>
 <line speaker="Edgeworth">She is currently out searching for the most important piece of evidence.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">It's a waste of time. There's no such evidence. Are you stalling for time? How disgraceful.</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">Most important piece of evidence, huh? ...Courtney-pie. I don't really know what that evidence is, but I think we should have faith in her. After all, even if she may not look like it, she's still the Great Thief Yatagarasu!</line>
 <line speaker="Edgeworth"><thought>Somehow... it seems that Mr. Shields understands.</thought> Judge Courtney! We've already determined the general location of that evidence. It's only a matter of time before she steals the evidence back.</line>
 <line speaker="Courtney">! ......I understand. Then I shall give you special permission to testify.</line>
@@ -2666,10 +2666,10 @@
 <line speaker="Blaise">This is ridiculous!</line>
 <line speaker="Courtney">This vital evidence that you have found... Please present it to the court!</line>
 <line speaker="Edgeworth">Blaise Debeste and Patricia Roland are somehow connected. Allow me to present the evidence that proves it! <thought>Which piece of evidence shows the relationship between Patricia Roland and Blaise Debeste?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Blaise Debeste! This shows that you and Patricia Roland are...</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">It's sad, Miles. Truly sad, y'know. For you to accuse me of being a criminal by presenting evidence like that. If you're gonna present evidence, you should present something more meaningful, y'know.</line>
 <line speaker="Edgeworth">Nghhhoooh! <thought>So it wasn't this piece of evidence... A piece of evidence that connects Patricia Roland and Blaise Debeste... Do I have anything like that?</thought></line>
 <line speaker="Blaise">What's wrong, Edgeworth? Just as I thought, you can't prove a thing, can you? And y'know why? Because Patricia Roland and I aren't connected at all.</line>
@@ -2680,7 +2680,7 @@
 <line speaker="Ray">! So that means, that was the interrogation where...</line>
 <line speaker="Edgeworth">That's right... Patricia Roland murdered Knightley in the aftermath of the interrogation. And that very interrogation has been recorded in this written report!</line>
 <line speaker="Courtney">That... definitely sounds like vital evidence!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Miles Edgeworth. Just now, you referred to that document as a "written report". Now, just who in the world was that report written for?</line>
 <line speaker="Edgeworth">I thought you might ask that, Franziska. And that's precisely what is most important about this report...! We found this document inside the safe in the storeroom on the 51st floor of the Grand Tower.</line>
 <line speaker="Franziska">The 51st floor... The storeroom for the black market auction!</line>
@@ -2701,7 +2701,7 @@
 <line speaker="Blaise">What a horrible thing to say. I'm not distorting the truth or anything like that, y'know. If a not guilty verdict is handed down, then that becomes the truth. That's all it is, y'see.</line>
 <line speaker="Edgeworth"><thought>It's useless. There's nothing we can do useless the missing evidence turns up...</thought></line>
 <line speaker="Blaise">Now then, Courtney. Why don't you deliver a Not Guilty verdict and let's get this over with? After all, that evidence... isn't gonna show up any time soon, y'know.</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Courtney">Wh-Who raised an objection just now?</line>
 <line speaker="Debeste">...P-Pops...</line>
 <line speaker="Blaise">.....Sebastian.</line>
@@ -2715,13 +2715,13 @@
 <line speaker="Blaise">Sebastian. You still don't get it, y'know. This court has no place for sniveling child such as yourself!</line>
 <line speaker="Debeste">.....Pops.....! I...... I...! I-I've come to present new evidence, Your Honor! So, so... please! Let me take my place back at the prosecutor's bench!</line>
 <line speaker="Edgeworth"><thought>Sebastian...! I didn't think he would come back...</thought></line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Hah hah hah hah! What's all this now, Sebastian? You don't seem at all like your normal self!</line>
 <line speaker="Debeste">........Uugh. Pops...</line>
 <line speaker="Blaise">Hm? Come now! What's the matter? You want Daddy to play with you? Is that it? Well then, why don't we just head on back home.</line>
 <line speaker="Debeste">R-Return to the witness stand.</line>
 <line speaker="Blaise">What's wrong? You're shaking like a leaf.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor! The prosecutor officially in charge of this case has just arrived with new evidence. The trial is still in session. In light of this, shouldn't we continue with the proceedings?</line>
 <line speaker="Courtney">........</line>
 <line speaker="Ray">Naturally, the defense has no objections, Your Honor. I'm sure the defense attorney originally in charge would say the same.</line>
@@ -2784,7 +2784,7 @@
 <line speaker="Blaise">Ha ha ha ha ha ha ha! Well done, Sebastian! You never betray my expectations, y'know! You searched so desperately through the garbage and that's all you have to show for it?</line>
 <line speaker="Debeste">Urk...!</line>
 <line speaker="Blaise">Awww, what a tear-jerker! I'm tearing up already!</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">It's a bit too early for tears, don't you think? We haven't examined the evidence properly yet.</line>
 <line speaker="Blaise">...I think it's just a pointless waste of time, y'know.</line>
 <line speaker="Ray">I'm counting on you. Sebastian, Miles. Show him that the truth can be exposed in court and take him down!</line>
@@ -2800,7 +2800,7 @@
 <line speaker="Debeste">Mr. Edgeworth! Are you really giving up!?</line>
 <line speaker="Blaise">Calm as always, Edgeworth. Quite unlike Sebastian here!</line>
 <line speaker="Courtney">...Well then, is the prosecution finished with its argument?</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Justine, not yet! We're not through yet! There's still something we haven't examined!</line>
 <line speaker="Blaise">You're still not giving up? Struggling in vain's not cute at all, y'know.</line>
 <line speaker="Edgeworth"><thought>It seems Sebastian hasn't given up yet either. I was just thinking the exact same thing. The last item remaining... Is it trash, or is it evidence...? If we don't examine it, we'll never find out... The item I'm thinking of is...</thought></line>
@@ -2836,7 +2836,7 @@
 <line speaker="Blaise">Now, get that stinking face of yours out of my sight.</line>
 <line speaker="Debeste">Stinking...</line>
 <line speaker="Blaise">Y'know, now that I think about it, that stench might just suit you perfectly. Just keep it away from my nose, or my eyes will start watering.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Wrong... You're wrong, Pops.</line>
 <line speaker="Blaise">...Sebastian? What are you talking about?</line>
 <line speaker="Debeste">...You're the one who stinks, Pops. It's you, not me!</line>
@@ -2853,8 +2853,8 @@
 <line speaker="Debeste">........</line>
 <line speaker="Edgeworth">Exposing crimes and bringing criminals to justice. Even if the criminal is your own father... ...that is your duty, as a prosecutor. Didn't I promise you? That if you have the courage to stand up... I will show you the way. And if you cannot do it alone, then we shall do it together...</line>
 <line speaker="Debeste">...Thank you, Mr. Edgeworth. Allow me to present the evidence that connects this hand print with my father!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Debeste">Doesn't this piece of evidence kind of resemble the hand print on the newspaper?</line>
 <line speaker="Blaise">.......</line>
 <line speaker="Edgeworth">Hmph. It seems he has nothing to say.</line>
@@ -2869,14 +2869,14 @@
 <line speaker="Edgeworth">Blaise Debeste! It was in your garage!</line>
 <line speaker="Blaise">!</line>
 <line speaker="Edgeworth">And wouldn't you say these fingerprints have a rather peculiar shape? The five letters that spell out D-E-A-T-H. It's exactly the same as your own gloves.</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Ha ha ha! You can buy gloves like that from anywhere! It doesn't prove a thing!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Is that really the case?</line>
 <line speaker="Debeste">That's not the only thing that these two pieces of evidence have in common!</line>
 <line speaker="Edgeworth"><thought>The fingerprints on the newspaper that was used to wrap up the bell... ...and Blaise's mechanic's gloves...</thought> This is the unmistakable similarity they both share!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the unmistakable similarity that these two pieces of evidence share!</line>
 <line speaker="Blaise">Hmm... I'm not quite sure where this unmistakable similarity is, y'know.</line>
 <line speaker="Edgeworth">Hmph... Even if you don't understand, I do.</line>
@@ -2892,13 +2892,13 @@
 <line speaker="Blaise">Gaaaaaaaarrgh! Edgewooorth! Sebastiaaaan! You lowly prosecutors! Do you have any idea who I am!?</line>
 <line speaker="Debeste">Pops... you can't run away anymore. It's been proven in court that you concealed the evidence. And that you tried to cover for the defendant...</line>
 <line speaker="Blaise">Y-You're saying that I'm... Guilty? That I'll be sent to prison...? Me, Blaise Debeste? A couple of snot-nosed punks are gonna make me disappear!? There must be some mistake!</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Be a man and admit your crimes!</line>
-<line speaker="Blaise"><cutIn>Objection!</cutIn></line>
+<line speaker="Blaise"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Blaise">Do you really think you can survive if I'm not around?</line>
 <line speaker="Debeste">I..... I'll be fine now. I thought I wanted to be the best prosecutor, so I could get your approval, Pops. But, when I was kidnapped by your men... and stuck in that dark room, I started thinking. "I am... truly powerless." I despaired, and averted my eyes from the truth. But... ...at that moment, Mr. Edgeworth stepped in and showed me the way. And now, I am no longer just a child chasing after his father's approval! I've become capable... I can find evidence on my own now!</line>
 <line speaker="Blaise">Wha... My men kidnapped you? Why were you...!?</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Pops, I'll show you the truth you never knew... through this trial.</line>
 <line speaker="Blaise">Sebastiaaan! How dare you speak to me like that...! You should've just stayed as an idiot son!</line>
 <line speaker="Debeste">You may have hated me to the very end, Pops... ...but I... I've always looked up to you. Thank you for everything up until now. .....And goodbye.</line>
@@ -2937,7 +2937,7 @@
 <line speaker="John">..........</line>
 <line speaker="Courtney">John!</line>
 <line speaker="Lang">Ms. Courtney! You're coming along too! As a suspect in the murder of the president of Zheng Fa, Di-Jun Huang!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang! What evidence do you...!?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Settle down, Mr. Prosecutor. The investigation has only just begun. We're going to inspect the crime scene with the suspects in attendance.</line>
@@ -2951,7 +2951,7 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right... I need to reconsider the information.</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information. I need to think this over one more time.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, that statement contradicts this piece of evidence!</line>
 <line speaker="Lang">Mr. Prosecutor, are you playing games with me?</line>
 <line speaker="Edgeworth">The evidence says it all.</line>
@@ -2960,7 +2960,7 @@
 <line speaker="Edgeworth">Nnghhoooh! <thought>So that wasn't it...</thought></line>
 <line speaker="Kay">Even if you defang him, he's still a wolf! As expected, he's tough.</line>
 <line speaker="Edgeworth">Yes. He's a worthy opponent indeed.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang. Please take a look at this piece of evidence.</line>
 <line speaker="Lang">Hah! Just what are you trying to say with that evidence!?</line>
 <line speaker="Edgeworth">If you don't even know after looking at it, you certainly have fallen to a new low.</line>
@@ -2968,7 +2968,7 @@
 <line speaker="Edgeworth">Urgh! <thought>So it wasn't this piece of evidence...</thought></line>
 <line speaker="Kay">What are you doing!? You realize who you're up against, right!? If you're not careful, you're gonna get bitten!</line>
 <line speaker="Edgeworth">Indeed. I'd better be wary of those fangs.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, it seems there is a clear contradiction in your statement.</line>
 <line speaker="Lang">Lang Zi says: "Always question words without evidence!" Hah! But it seems I don't even need to question the words that you're saying. It's clearly a pathetic bluff!</line>
 <line speaker="Edgeworth">Argh! <thought>So that was wrong?</thought></line>

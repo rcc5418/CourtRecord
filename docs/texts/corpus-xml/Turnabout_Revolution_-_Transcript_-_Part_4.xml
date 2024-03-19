@@ -1,6 +1,6 @@
 
-<line>Turnabout Revolution</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Revolution</title>
 <line speaker="Athena">It's complete chaos outside.</line>
 <line speaker="Phoenix">Let's just say the Defiant Dragons supporters demonstrating for Dhurke's freedom... ...have taken a very special interest in the outcome of today's trial.</line>
 <line speaker="Apollo">They look about ready to string us up if we lose...</line>
@@ -1233,7 +1233,6 @@
 <line speaker="Phoenix">Maya seems really confused. But you can't blame her for not knowing what happened.</line>
 <line speaker="Apollo">True... After all, first she was kidnapped, and now she's wrapped up in a murder case.</line>
 <line speaker="Phoenix">We'll have to fill her in as she gives her testimony.</line>
-<line speaker="After pressing all statements">Ga'ran:</line>
 <line speaker="Maya">...You should listen to her, Apollo. I don't even know why you suspected me in the first place. I mean, you don't have any evidence of me channeling Minister Inga, do you?</line>
 <line speaker="Apollo">Oh, umm... <thought>Evidence, huh?</thought></line>
 <line speaker="Maya">There's no point in even thinking about it, really. I don't use anything special to channel spirits, so there wouldn't be anything left behind.</line>
@@ -1539,7 +1538,7 @@
 <line speaker="Apollo">...There could be a secret passage beneath that stone coffin. I've seen something like that before at a magic show back home. </line>
 <line speaker="Amara">Oh? Then let us shut you in the sarcophagus and see what happens. Nahyuta, would you do the honors? Go ahead and throw away the key as well. Then we can witness his valiant escape through this supposed secret passage.</line>
 <line speaker="Nahyuta">That sounds wonderfully entertaining. I shall start making the preparations at once.</line>
-<line speaker="Apollo">[[File:SoJ <cutIn>Hold it!</cutIn>.png|260px]]</line>
+<line speaker="Apollo">[[File:SoJ <cutIn type="holdIt">Hold it!</cutIn>.png|260px]]</line>
 <line speaker="Apollo">...You know what? I think I might have made a mistake there. </line>
 <line speaker="Judge">Don't even think about trying to escape from your mistake, defense. Now then, I will ask the defense again...</line>
 <line speaker="Apollo">Queen Amara must've clung to the ceiling. Yes, she was hanging off of it like one of Datz's dried geckos!</line>
@@ -1591,7 +1590,7 @@
 <line speaker="Apollo">...There could be a secret passage beneath that stone coffin. I've seen something like that before at a magic show back home. </line>
 <line speaker="Amara">Oh? Then let us shut you in the sarcophagus and see what happens. Nahyuta, would you do the honors? Go ahead and throw away the key as well. Then we can witness his valiant escape through this supposed secret passage.</line>
 <line speaker="Nahyuta">That sounds wonderfully entertaining. I shall start making the preparations at once.</line>
-<line speaker="Apollo">[[File:SoJ <cutIn>Hold it!</cutIn>.png|260px]]</line>
+<line speaker="Apollo">[[File:SoJ <cutIn type="holdIt">Hold it!</cutIn>.png|260px]]</line>
 <line speaker="Apollo">...You know what? I think I might have made a mistake there. </line>
 <line speaker="Judge">Don't even think about trying to escape from your mistake, defense. Now then, I will ask the defense again...</line>
 <line speaker="Apollo">Queen Amara must've clung to the ceiling. Yes, she was hanging off of it like one of Datz's dried geckos!</line>
@@ -1658,7 +1657,7 @@
 <line speaker="Apollo">...There could be a secret passage beneath that stone coffin. I've seen something like that before at a magic show back home. </line>
 <line speaker="Amara">Oh? Then let us shut you in the sarcophagus and see what happens. Nahyuta, would you do the honors? Go ahead and throw away the key as well. Then we can witness his valiant escape through this supposed secret passage.</line>
 <line speaker="Nahyuta">That sounds wonderfully entertaining. I shall start making the preparations at once.</line>
-<line speaker="Apollo">[[File:SoJ <cutIn>Hold it!</cutIn>.png|260px]]</line>
+<line speaker="Apollo">[[File:SoJ <cutIn type="holdIt">Hold it!</cutIn>.png|260px]]</line>
 <line speaker="Apollo">...You know what? I think I might have made a mistake there. </line>
 <line speaker="Judge">Don't even think about trying to escape from your mistake, defense. Now then, I will ask the defense again...</line>
 <line speaker="Apollo">Queen Amara must've clung to the ceiling. Yes, she was hanging off of it like one of Datz's dried geckos!</line>

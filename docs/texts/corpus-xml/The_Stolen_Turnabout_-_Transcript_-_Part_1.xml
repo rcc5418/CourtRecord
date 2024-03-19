@@ -136,7 +136,6 @@
 <line speaker="Phoenix">Um... So what about this?</line>
 <line speaker="Andrews">Sorry I can't be of more help, but I really don't have anything to say about that.</line>
 <line speaker="Andrews">I'm sorry, I don't know as many people as I used to. So there really isn't anything I can tell you about that person.</line>
-<line speaker="After clearing all Talk options and examining Ami's statue">Andrews:</line>
 <line speaker="Phoenix">There is a giant building just outside the window. It's the Gatewater Hotel, a high-class, luxury hotel. The chain is getting so rich that they brought a whole chunk of the next town over... ...and started building a huge theme park. It's going to be called "Gatewater Land". ...And to think that two years ago, it was just a little hotel for businessmen.</line>
 <line speaker="Phoenix">An old movie poster. Apparently, this was the first movie that made Mia cry when she saw it, a long time ago. Maya watched it recently, and said she cried all night, too! ...Which, I guess, is why it's back up on the wall. I'll have to check it out one of these days.</line>
 <line speaker="Phoenix">Charley. A quite decorative plant. When she was alive, Mia really loved it. She even went so far as to make it our mascot. It must be nice to be a plant, being able to just sit in the sun and photosynthesize...</line>
@@ -288,7 +287,6 @@
 <line speaker="Maya">Somehow I don't think sleep would really fix the problem.</line>
 <line speaker="Phoenix">Hey, keep it down. He might have really good hearing for all you know, and might get mad if he heard.</line>
 <line speaker="Gumshoe">Ummm... I can hear everything you are saying, pal.</line>
-<line speaker="After clearing "What happened" Talk options at Lordly Tailor, Main Exhibition Hall">October 12</line>
 <line speaker="Phoenix"><thought>Huh? What the heck does THAT mean...?</thought></line>
 <line speaker="Phoenix"><thought>"Game"? Why does the phrase "one short of a baker's dozen" come to mind with this guy?</thought></line>
 <line speaker="Atmey">Tsk! Sir Lawyer! Please refrain from such crude behavior.</line>
@@ -392,7 +390,6 @@
 <line speaker="Atmey">A "piddling evidence hog", you say? In that case, I'd simply be wasting my breath!</line>
 <line speaker="Maya">Yeah, I guess you're right.</line>
 <line speaker="Phoenix">Thanks, Maya. Why couldn't you have said I was a "rival", and not a "piddling evidence hog"?</line>
-<line speaker="After clearing all Talk options and presenting DeMasque's Calling Card">Atmey:</line>
 <line speaker="Phoenix">...Well, I'm not sure would say that exact--</line>
 <line speaker="Maya">That's right! We're going to find the Sacred Urn no matter what we have to do!</line>
 <line speaker="Atmey">...Excellent. I will trust you. I permit you to take a look around while I investigate elsewhere. If, perchance, you should discover something of value, return then to my office... To my office of Earthly Delights, the "Atmey Detective Agency"!</line>
@@ -473,7 +470,6 @@
 <line speaker="Phoenix">Y-Yeah, I think you're right.</line>
 <line speaker="Maya">Great job, Pearly! I wouldn't expect anything less from my Ace Cousin!</line>
 <line speaker="Phoenix"><thought>So the statue was moved on the night of the crime...</thought></line>
-<line speaker="After clearing "Sacred Urn" and "Last year's incident" Talk options at Wright &amp; Co. Law Offices, and examining computer, Shichishito and Ami's statue at Lordly Tailor, Main Exhibition Hall">Phone:</line>
 <line speaker="Maya">Oh, Nick! Your cell phone's ringing!</line>
 <line speaker="Phone">...*beep*...</line>
 <line speaker="Phoenix">Hello, Phoenix Wright here.</line>
@@ -611,7 +607,6 @@
 <line speaker="Ron">Hmm... I don't really think I can help you with that. Err, no, that's not it... Well... The thing is... I don't really know if I can say one way or the other</line>
 <line speaker="Maya">I didn't really catch that.</line>
 <line speaker="Phoenix">Don't worry, you didn't miss anything.</line>
-<line speaker="After clearing "Dessie" Talk option at Detention Center, Visitor's Room">October 12</line>
 <line speaker="Phoenix">... Wow, check this place out!</line>
 <line speaker="Maya">No doubt about it, this is Mask☆DeMasque's hideout alright.</line>
 <line speaker="???">Who is it? Is that you, Ronnie? Huh? Who are you people?</line>
@@ -762,7 +757,6 @@
 <line speaker="Maya">Now she's starting to sound a bit greedy... Don't you think, Nick?</line>
 <line speaker="Phoenix">Excuse me, but would you take a look at this...?</line>
 <line speaker="Desirée">Oh, I'm sorry... I haven't the faintest idea. I guess I just don't get out enough.</line>
-<line speaker="After clearing all Talk options">Desirée:</line>
 <line speaker="Phoenix">What is it?</line>
 <line speaker="Desirée">I know I may seem like a "bad girl" on the outside... But the one thing I won't stand for is illegal activity.</line>
 <line speaker="Maya">I had the feeling you didn't! You're tough... But I can tell you've got a good heart.</line>
@@ -782,7 +776,6 @@
 <line speaker="Phoenix"><thought>He's clutching onto that letter so hard, the ink is going to be squeezed out...</thought></line>
 <line speaker="Maya">He looks so happy...</line>
 <line speaker="Pearl">You should write a letter to Mystic Maya too, Mr. Nick!</line>
-<line speaker="After clearing all Talk options and presenting Desirée's Letter">Ron:</line>
 <line speaker="Phoenix">Yes?</line>
 <line speaker="Ron">In the letter that Dessie wrote, she said... "Ask this guy to be your lawyer!"</line>
 <line speaker="Maya">Huh...?</line>
@@ -920,7 +913,6 @@
 <line speaker="Phoenix">...E-Electric? So young and already so lazy. Whatever happened to good old exercise?</line>
 <line speaker="Phoenix">What do you think about this?</line>
 <line speaker="Maya">Hmmm... It seems like it has something to do with this case... But I'm not really sure...</line>
-<line speaker="After clearing all Talk options">Maya:</line>
 <line speaker="Phoenix">Yeah, I know... But... First I want to talk to Pearls...</line>
 <line speaker="Pearl">...Umm, Mr. Nick?</line>
 <line speaker="Phoenix">Yeah...?</line>
@@ -1007,7 +999,6 @@
 <line speaker="Phoenix">Well, if someone moved it, it was probably the criminal.</line>
 <line speaker="Maya">Maybe he didn't like being watched by Mystic Ami while he stole the urn.</line>
 <line speaker="Phoenix">...Hey! Cut it out! You're giving me the creeps with that kind of talk!</line>
-<line speaker="After clearing all Talk options at Wright &amp; Co. Law Offices and clearing "The security" Talk option at Lordly Tailor, Main Exhibition Hall">October 12</line>
 <line speaker="Maya">Hello?</line>
 <line speaker="???">...Well, well. How lovely it is to see you again, my dear.</line>
 <line speaker="Atmey">Welcome to my abode! Relax! and soak up the atmosphere...</line>
@@ -1080,12 +1071,12 @@
 <line speaker="Phoenix">Ummm...</line>
 <line speaker="Atmey">In this case, I'm afraid my perspicacity has been left wanting.</line>
 <line speaker="Phoenix"><thought>I think he's trying to say that he doesn't have any information...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Detective Atmey, you were standing guard at the scene of the crime... There's no way you didn't see Mask☆DeMasque commit the crime.</line>
 <line speaker="Atmey">Well now, I can hardly see why you're so positive about that. Yes, indeed I was guarding the warehouse. That much is true. But I can tell you for certain that not a single person passed through that door.</line>
 <line speaker="Phoenix"><thought>I'm not sure why... But this Atmey guy is lying through his teeth. ...I know. I'll show him some proof!</thought> Detective Atmey, I have here proof that someone went through that door last night!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Atmey">How very interesting that you would present such a thing to me, Luke Atmey, Ace Detective. Unfortunately... It is meaningless. You need to go home, take a long, cold shower and get a good night's rest, Sir Lawyer.</line>
 <line speaker="Phoenix"><thought>I guess that's a miss...</thought></line>
 <line speaker="Atmey">Well then...? Is there something else I can do for you?</line>
@@ -1097,8 +1088,8 @@
 <line speaker="Phoenix">Maybe it was your monocle that malfunctioned.</line>
 <line speaker="Atmey">Wh-What!? Are you saying that I didn't do my duty properly?</line>
 <line speaker="Atmey">...I'm afraid that making a guess is not enough. Time to put your money where your mouth is. Show me your evidence!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Atmey">...May I give you a piece of good advice, Sir Lawyer?</line>
 <line speaker="Phoenix">Wh-What is it?</line>
 <line speaker="Atmey">...A guess is not the same as a theory. Not scientifically, anyway. You need to go home, take a long, cold shower and get a good night's rest, Sir Lawyer.</line>
@@ -1118,7 +1109,6 @@
 <line speaker="Atmey">No, the coward must have wormed his way in through somewhere besides the door... Perhaps the air ducts or the sewer pipes... Then my arch-nemesis struck me on the head from behind with this gruesome item here!</line>
 <line speaker="Maya">Ouch. He should have his poor head examined.</line>
 <line speaker="Phoenix">You can say that again. How could he have underestimated the thief that badly?</line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Maya">Huh? What? That Atmey is the greatest Ace Detective in the world?</line>
 <line speaker="Phoenix">No, that he never actually saw the thief.</line>
 <line speaker="Maya">Oh... that's right! So the thief may not even be Mask☆DeMasque...</line>
@@ -1280,7 +1270,6 @@
 <line speaker="Phoenix">Larry, what about this person...?</line>
 <line speaker="Butz">Beats me.</line>
 <line speaker="Phoenix"><thought>What the...? All of a sudden, he's got nothing to say...?</thought></line>
-<line speaker="After clearing "Wallet" and "KB Security" Talk options, and presenting Key Card">Phone:</line>
 <line speaker="Maya">Oh, Nick! Your phone!</line>
 <line speaker="Phone">...*beep*...</line>
 <line speaker="Pearl">H-Hello? Is this the Wright residence?</line>
@@ -1356,7 +1345,6 @@
 <line speaker="Maya">Huh...?</line>
 <line speaker="Atmey">You and I are already fated to fight each other... And the only true weapon for warriors in a court of law is information! Surely you don't expect me to sharpen your sword for you!</line>
 <line speaker="Maya">...Creep.</line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Atmey">Hee hee hee hee hee... Sir Lawyer... The stage has been set and all the pieces are finally in place. All that remains now... is for the dance to begin!</line>
 <line speaker="Phoenix"><thought>A new prosecutor, an Ace Detective and a thief... This will be one tough trial.</thought></line>
 <line speaker="Phoenix">No clues here.</line>

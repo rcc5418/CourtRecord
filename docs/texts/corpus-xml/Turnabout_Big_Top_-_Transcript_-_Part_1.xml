@@ -707,7 +707,7 @@
 <line speaker="Phoenix">Look at all the stars on this poster... This must have been the poster they used to promote their public appearances.</line>
 <line speaker="Maya">Posters are the way to go aren't they?</line>
 <line speaker="Phoenix">What do you mean?</line>
-<line speaker="Maya">We should make posters to promote our law firm. "Spine tingling legal action! Mind numbing legalese! You will say 'wow'!" Or perhaps, "<cutIn>Hold it!</cutIn> Don't miss out on a stunning life or death courtroom thrill ride!"</line>
+<line speaker="Maya">We should make posters to promote our law firm. "Spine tingling legal action! Mind numbing legalese! You will say 'wow'!" Or perhaps, "<cutIn type="holdIt">Hold it!</cutIn> Don't miss out on a stunning life or death courtroom thrill ride!"</line>
 <line speaker="Phoenix">With those taglines, our law firm would sink faster than the Titanic...</line>
 <line speaker="Maya">You may not know this, but they call this a "tailcoat".</line>
 <line speaker="Phoenix">And they call this "the face of someone who already knew that..." Hmm...</line>
@@ -1068,15 +1068,15 @@
 <line speaker="Maya">Awww... Don't you think that's sweet of him, Nick?</line>
 <line speaker="Max">I'm gonna get back with my sweetie pie! Then I'm gonna turn that dumb puppet into a toy glider!</line>
 <line speaker="Maya">...I guess you two haven't worked out your differences yet.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Last night, you met with the Ringmaster, correct? To negotiate your salary, and such?</line>
 <line speaker="Max">Exactly... We reached an agreement about the salary from my 6 month old contract.</line>
 <line speaker="Phoenix">That's the truth? The whole truth?</line>
 <line speaker="Max">What do you mean!?</line>
 <line speaker="Phoenix">You just went to his office to negotiate your new salary?</line>
 <line speaker="Max">I hate lies and I hate liars even more! What are you insinuating!? Do you have any proof that I did something other than negotiate my fee last night?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Max">Geebus...</line>
 <line speaker="Phoenix">What's the matter?</line>
 <line speaker="Max">Sweetie, you must have some wax build up in your ears. You haven't listened to me at all!</line>
@@ -1097,7 +1097,7 @@
 <line speaker="Phoenix"><thought>The Ringmaster called him... I wonder if there was some sort of problem?</thought> Um... Max? Perhaps you could share with me what you two spoke about?</line>
 <line speaker="Max">Well... Not if I don't have to...</line>
 <line speaker="Phoenix">Isn't this why the Ringmaster called you into his room that night?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Isn't this why you were called to the Ringmaster's room that night?</line>
 <line speaker="Max">Wh-Where did you get that!?</line>
 <line speaker="Phoenix">The cafeteria... But you already knew that didn't you?</line>
@@ -1106,13 +1106,13 @@
 <line speaker="Phoenix"><thought>He's still hiding something else.</thought> Max.</line>
 <line speaker="Max">What is it my sweetie?</line>
 <line speaker="Phoenix">It didn't fall and break on the floor. You used this bottle to...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Max">B-Ben...</line>
 <line speaker="Phoenix">You nailed him over the head with this bottle, didn't you?</line>
 <line speaker="Max">...!</line>
 <line speaker="Phoenix">And that's why you got called to the Ringmaster's room that night.</line>
 <line speaker="Max">F-F-F-FAAAABBBUUULLOUS! You might as well be a magician!!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Max">Will you give up on this... Please... Sweetie...</line>
 <line speaker="Phoenix">...Huh?</line>
 <line speaker="Max">If you don't shape up, I'm gonna beat you over the head with that bottle!</line>
@@ -1120,24 +1120,24 @@
 <line speaker="Max">I already told you! It fell to the floor and broke.</line>
 <line speaker="Phoenix"><thought>He won't tell me the truth!</thought> ... Max.</line>
 <line speaker="Max">What is it my sweetie?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Max">B-B-Ben... H-He...</line>
 <line speaker="Phoenix">You had a run-in with Ben?</line>
 <line speaker="Max">I didn't do anything to Ben. I-I didn't get in a fight with him!</line>
 <line speaker="Phoenix">Ah-ha! So you're admitting that you did have a fight with someone!?</line>
 <line speaker="Max">Wh-Why are you looking at me all funny!? No one said anything like that!! Do you have any proof that we got into a knockdown drag out brawl?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This proves it.</line>
 <line speaker="Max">Whe-where did you get that?</line>
 <line speaker="Phoenix">Isn't it obvious that I found it in the cafeteria, Max? You busted Ben over the head with this bottle, did you not?</line>
 <line speaker="Max">...!</line>
 <line speaker="Phoenix">That's how the bottle broke. And that's why you were called to the Ringmaster's room.</line>
 <line speaker="Max">F-F-F-FAAAABBBUUULOUSSS! ABSOLUTELY F-F-F-FAAAABBBUUULOUSSS!!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Max">You just don't quit! You know Ben, don't you? What reason in the world would I have for getting into a fight with him? I've hardly ever said a word to him.</line>
 <line speaker="Phoenix">Well... It fits in with the chain of events.</line>
 <line speaker="Max">You are so belligerent... If that's the case, how about you show me some proof.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Max">Don't look at me like that! This isn't easy for me you know!</line>
 <line speaker="Phoenix">How 'bout it Max?</line>
 <line speaker="Max">How 'bout what? What do you expect me to do with this? Lemme guess... You're showing me that so I can make it disappear for you... Right?</line>

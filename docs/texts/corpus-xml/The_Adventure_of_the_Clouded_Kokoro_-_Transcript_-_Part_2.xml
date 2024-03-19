@@ -129,7 +129,7 @@
 <line speaker="Judge">Hm, it seems this cross-examination could prove to be pivotal, Counsel. Proceed, please.</line>
 <line speaker="Ryunosuke">Yes, My Lord! <thought>Nothing for it... I have to use this cross-examination to turn the tables here. It's our only chance!</thought></line>
 <line speaker="Gregson">As I said, it was five o'clock in the afternoon when the incident occurred. And there was an unusually light fog.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">A light fog, you say?</line>
 <line speaker="Gregson">Well, light for London. You could see the opposite side of the street for once. Not much farther, though.</line>
 <line speaker="Ryunosuke">...That's light, is it?</line>
@@ -144,7 +144,7 @@
 <line speaker="Van Zieks">However, on the day that concerns us, the fog was somewhat lighter than usual. A fact no doubt lamented by the accused.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Gregson">Visibility was reasonably good, and there was no one else about but the victim and the accused.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">How are you able to state that with any certainly?</line>
 <line speaker="Van Zieks">Quite simply, my learned friend. Because that is what the witnesses to this crime have told us.</line>
 <line speaker="Ryunosuke"><thought>Ah yes, Inspector Gregson mentioned the witnesses yesterday, didn't he?</thought></line>
@@ -160,7 +160,7 @@
 <line speaker="Ryunosuke"><thought>Which means we really need to hear those witness statements. If I could just get through the fog of this cross-examination, maybe we'll be able to...</thought></line>
 <line speaker="Van Zieks">It seems the counsel for the defence is...taking stock. Continue with your testimony, Inspector.</line>
 <line speaker="Gregson">Out of the blue, the victim was stabbed from behind and subsequently collapsed on the pavement.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">'From behind', you say...?</line>
 <line speaker="Gregson">That's right. As you can see from this print.</line>
 <line speaker="Judge">...Yes, quite so, Inspector. The handle of the weapon is clearly protruding from the victim's back. And you say this poor woman - Miss Green - remains in a critical condition? Comatose, no less?</line>
@@ -171,7 +171,7 @@
 <line speaker="Van Zieks">...Your force of tone is seriously undermined by those disturbingly wide eyes, I'm afraid.</line>
 <line speaker="Ryunosuke">Ugh...</line>
 <line speaker="Gregson">The accused ran off, scatterin' his belongings all over the floor.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Mr Natsume's belongings? Um...</line>
 <line speaker="Gregson">I think you'll find it's all there in the photographic print of the crime scene.</line>
 <line speaker="Judge">Yes, the three books on the floor.</line>
@@ -183,7 +183,7 @@
 <line speaker="Judge">You mean to say that the defendant was holding his belongings as he thrust the knife into the woman's back?</line>
 <line speaker="Gregson">That must be what happened, My Lord, yes.</line>
 <line speaker="Gregson">Those bein' a number of old books he'd just bought. He was on his way home from a bookshop, it seems.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The defendant apparently visits a secondhand bookshop on a daily basis.</line>
 <line speaker="Gregson">Yes, so I understand. A shop full of old English literature.</line>
 <line speaker="Van Zieks">I commend the accused on the lofty subject matter of his scholarly attention.</line>
@@ -222,7 +222,7 @@
 <line speaker="Susato">What just happened, Mr Naruhodo, was that you allowed yourself to be sidetracked. I would strongly advise you to look carefully through the Court Record at this stage.</line>
 <line speaker="Ryunosuke"><thought>Yes, miss. At once, miss. Sorry I made a mistake, miss.</thought></line>
 <line speaker="Gregson">He was on his way home from Bourbon Books, a secondhand bookshop he apparently patronises.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Hm, so the shop is called Bourbon Books, is it?</line>
 <line speaker="Gregson">That's right. That's the closest secondhand bookshop to the accused's lodgings. And to get from there back to his room... ...he would have gone right past the very spot where the incident took place.</line>
 <line speaker="Ryunosuke">If...if I could just confirm one point... Can we be sure that the defendant really did visit Bourbon Books on the day in question?</line>
@@ -239,9 +239,9 @@
 <line speaker="Ryunosuke">......... <thought>So... ...it's just as I thought, then.</thought></line>
 <line speaker="Susato">Is something the matter?</line>
 <line speaker="Van Zieks">Inspector, you may continue with your testimony.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gregson">It was just a matter of workin' out who the books belonged to, and we found the bloke to arrest him.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You asked for the help of the famous detective, Herlock Sholmes, to locate the defendant, I believe.</line>
 <line speaker="Gregson">......... Stuff and nonsense.</line>
 <line speaker="Ryunosuke">Sorry?</line>
@@ -272,10 +272,10 @@
 <line speaker="Gregson">Eh? What?</line>
 <line speaker="Judge">Inspector! Do you know of this other bookshop?</line>
 <line speaker="Gregson">Y-Yes sir! Yore Books is another secondhand bookshop not far from Bourbon Books. It's just that... Well, it's such a small place, I, I didn't think the accused would have known about it.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But in fact that IS the bookshop which the defendant visited on the day in question. And this receipt proves it!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">I disagree! I, I mean...after all, um...</line>
 <line speaker="Susato">I have the street map here, if that might be of help?</line>
 <line speaker="Ryunosuke">Oh, um... Yes! Thank you! Have a look at this, please... If the defendant had been returning from Bourbon Books... ...then yes, he would almost certainly have passed the place where Miss Green was attacked. However! If we take into account the fact that he was actually at another bookshop - Yore Books... ...it may very well turn out that he wouldn't have passed that location at all!</line>
@@ -310,7 +310,7 @@
 <line speaker="Ryunosuke">Yes, I realise that. But sometimes the best way to fight is to do nothing, you know.</line>
 <line speaker="Susato">.........</line>
 <line speaker="Ryunosuke">...You're right! What am I talking about? Doing nothing won't get us anywhere! <thought>It wasn't sitting right with me anyway...</thought> </line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The assertion just made by the prosecution...is fundamentally flawed!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">Wah!</line>
@@ -323,7 +323,7 @@
 <line speaker="Van Zieks">On a cold winter's night, why would any man choose to take a longer route home?</line>
 <line speaker="Ryunosuke">Well, um...erm...</line>
 <line speaker="Van Zieks">The answer is extremely simple: He wouldn't. In other words... ...the accused took the obvious route back to his lodgings, and is the obvious perpetrator of this crime!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But...but...BUT! Ah-ha, yes! I've got it! Obviously, we must ask the man himself! Ask Mr Natsume which route he took home!</line>
 <line speaker="Van Zieks">I have already informed the court of the accused's response to such questioning. He claims he has 'no recollection'.</line>
 <line speaker="Ryunosuke">Haah...</line>
@@ -331,7 +331,7 @@
 <line speaker="Ryunosuke">......... I don't... I DON'T BELIEVE THIIIS!!!</line>
 <line speaker="Van Zieks">...I thank you, my learned friend. And suggest that we do not waste any more of the court's time by wandering aimlessly around this subject. Pray, what say you insightful jurors?</line>
 <line speaker="Ryunosuke">But, but even if that is the case, the defence still-</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 1">I agree with Lord van Zieks! Wholeheartedly, and in every way!</line>
 <line speaker="Ryunosuke">What?! <thought>I don't believe it! Does, does this mean...?</thought></line>
 <line speaker="Juror No. 1">We members of the jury...are completely convinced now!</line>
@@ -371,7 +371,7 @@
 <line speaker="Judge">You have the floor, Counsel. Begin your summation examination.</line>
 <line speaker="Ryunosuke">Yes, My Lord. <thought>I just need to keep this trial going somehow. Whatever it takes... Come on, Ryunosuke, you can do it!</thought></line>
 <line speaker="Juror No. 1">For pity's sake, that little Nipponese oddity already admitted it himself, didn't he?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Um, excuse me, but... ...aren't you...?</line>
 <line speaker="Juror No. 1">Yes, that's right. I was in the witness stand myself just two days ago.</line>
 <line speaker="Ryunosuke">Yes, I had a feeling I knew your face. ...Or the side of it, anyway. If I remember correctly, you're a banker, aren't you?</line>
@@ -385,7 +385,7 @@
 <line speaker="Ryunosuke">Haah... Thank goodness... <thought>Alright, maaaybe I might struggle to change this man's mind, given our awkward history...</thought></line>
 <line speaker="Susato">Oh dear, I wonder what's become of Mr Furst now...</line>
 <line speaker="Juror No. 2">If he said that a woman in green collapsed before his eyes, why it can only have been the victim!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You're right that at the time of the incident... ...the defendant admits to having seen someone wearing a green overcoat walking ahead of him.</line>
 <line speaker="Juror No. 2">Well quite! That's precisely my point. Clearly that 'someone wearing green' was the victim. And clearly that funny little Nipponese man with the disturbing moustache is the culprit!</line>
 <line speaker="Ryunosuke">But let us not forget, madam! The defendant vehemently denies attacking the woman!</line>
@@ -399,7 +399,7 @@
 <line speaker="Judge">Your argument is compelling in its simplicity, I must admit.</line>
 <line speaker="Juror No. 2">Oh my! You are too kind, My Lord!</line>
 <line speaker="Ryunosuke"><thought>That went well...for her.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly show a flaw in the jurors' reasoning!</line>
 <line speaker="Judge">A flaw? What are you talking about, Counsel?</line>
 <line speaker="Ryunosuke">Well, juror number two? Juror number six?</line>
@@ -410,7 +410,7 @@
 <line speaker="Juror No. 2">But the man says he has no recollection of his return journey.</line>
 <line speaker="Ryunosuke">That's correct. But what he does remember is seeing someone appear in front of him on the way. Someone in a green overcoat, who suddenly collapsed on the pavement before his eyes.</line>
 <line speaker="Juror No. 2">Yes, we are well aware of all this! The poor young woman who was stabbed, obviously.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Can we really be sure of that, madam?</line>
 <line speaker="Juror No. 2">My! Whatever do you mean?</line>
 <line speaker="Ryunosuke">I'm sure you heard juror number six's account of what happened to him that day? That same afternoon, there was somebody else apart from the victim... ...who was wearing a green overcoat and who fell over on the icy streets in the neighbourhood.</line>
@@ -430,7 +430,7 @@
 <line speaker="Juror No. 5">You idiot, old man! If you hadn't been so daft as to be roaming about there, we'd have boxed this off hours ago!</line>
 <line speaker="Juror No. 4">And really! What were you thinking, wearing such a befuddling coat?!</line>
 <line speaker="Juror No. 6">What did you say to me?! Is it a crime for the elderly to walk the streets these days, hm? Is it a crime to slip over on the ice? Is it a crime to keep up with the latest styles and wear a beautiful, green overcoat, is it?!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 2">My Lord, I do hope it won't cause any inconvenience, but...</line>
 <line speaker="Judge">You'd like to change your leaning, I presume?</line>
 <line speaker="Juror No. 2">I do declare that I would. I should like to call for a verdict of not guilty.</line>
@@ -445,7 +445,7 @@
 <line speaker="Van Zieks">.........</line>
 <line speaker="Judge">Thank you, Counsel. On with the summation examination, please!</line>
 <line speaker="Ryunosuke">Yes, My Lord.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly show a flaw in the jurors' reasoning!</line>
 <line speaker="Judge">A flaw? What are you talking about, Counsel?</line>
 <line speaker="Ryunosuke">Well, juror number two? Juror number six?</line>
@@ -456,7 +456,7 @@
 <line speaker="Juror No. 2">But the man says he has no recollection of his return journey.</line>
 <line speaker="Ryunosuke">That's correct. But what he does remember is seeing someone appear in front of him on the way. Someone in a green overcoat, who suddenly collapsed on the pavement before his eyes.</line>
 <line speaker="Juror No. 2">Yes, we are well aware of all this! The poor young woman who was stabbed, obviously.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Can we really be sure of that, madam?</line>
 <line speaker="Juror No. 2">My! Whatever do you mean?</line>
 <line speaker="Ryunosuke">I'm sure you heard juror number six's account of what happened to him that day? That same afternoon, there was somebody else apart from the victim... ...who was wearing a green overcoat and who fell over on the icy streets in the neighbourhood.</line>
@@ -476,7 +476,7 @@
 <line speaker="Juror No. 5">You idiot, old man! If you hadn't been so daft as to be roaming about there, we'd have boxed this off hours ago!</line>
 <line speaker="Juror No. 4">And really! What were you thinking, wearing such a befuddling coat?!</line>
 <line speaker="Juror No. 6">What did you say to me?! Is it a crime for the elderly to walk the streets these days, hm? Is it a crime to slip over on the ice? Is it a crime to keep up with the latest styles and wear a beautiful, green overcoat, is it?!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 2">My Lord, I do hope it won't cause any inconvenience, but...</line>
 <line speaker="Judge">You'd like to change your leaning, I presume?</line>
 <line speaker="Juror No. 2">I do declare that I would. I should like to call for a verdict of not guilty.</line>
@@ -486,7 +486,7 @@
 <line speaker="Juror No. 6">Is it a crime to change your mind, is it? Well?!</line>
 <line speaker="Juror No. 2">Why it could have been that old man in the green that the defendant saw. I have to call not guilty. It's only right.</line>
 <line speaker="Juror No. 3">The man wouldn't have gone around the houses on his way back from the bookshop. Not in winter!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But you can't deny that there are other routes Mr Natsume could have taken back from Yore Books.</line>
 <line speaker="Juror No. 3">Oh yes. Like you drew on the map, you mean? What was it? Calabash Road or something?</line>
 <line speaker="Ryunosuke">Precisely.</line>
@@ -503,7 +503,7 @@
 <line speaker="Juror No. 3">I have given it a lot of thought, you know. I didn't just make up my mind on a whim that he did it. I mean, if there was some logical reason why he might have gone the Calabash Road way, it'd be different. I'd be happy to reconsider my position in that case. Honest, I would.</line>
 <line speaker="Ryunosuke"><thought>Hm, a reason why Soseki-san might have taken the longer way home...</thought></line>
 <line speaker="Susato">Yes, a good reason... I don't imagine you'll be able to sway this young man's opinion without one.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements are clearly at odds with one another!</line>
 <line speaker="Judge">At odds, Counsel? Explain yourself!</line>
 <line speaker="Juror No. 3">Please! Don't point! It wasn't me, I swear!</line>
@@ -528,7 +528,7 @@
 <line speaker="Van Zieks">.........</line>
 <line speaker="Judge">Thank you, Counsel. On with the summation examination, please!</line>
 <line speaker="Ryunosuke">Yes, My Lord.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements are clearly at odds with one another!</line>
 <line speaker="Judge">At odds, Counsel? Explain yourself!</line>
 <line speaker="Juror No. 3">Please! Don't point! It wasn't me, I swear!</line>
@@ -548,7 +548,7 @@
 <line speaker="Juror No. 5">Eh? Who, me? Hm, well, alright then... If there's a hole in the prosecution's argument, it should be filled in, that's what I say.</line>
 <line speaker="Juror No. 3">I have to say not guilty at this point...so I can see where this trial goes from here.</line>
 <line speaker="Juror No. 4">So the poor woman was attacked from behind, was she? How dreadful!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Juror No. 4">Whatever is the matter, young man?</line>
 <line speaker="Ryunosuke">You're the wife of Mr Garrideb, aren't you? The landlord who rents Mr Natsume his room.</line>
@@ -564,7 +564,7 @@
 <line speaker="Susato">Oh dear, poor Mr Natsume. How could people say such things about him? He's just a harmless bookworm, nothing more.</line>
 <line speaker="Ryunosuke">...Well, you just called him a worm, so... <thought>Anyway, I'd better be careful about inviting this 'maid' to speak. She's said enough damning things already.</thought></line>
 <line speaker="Juror No. 5">I really don't care! Can't we just wrap this up now? I've got work to be doing!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">A man's life is on the line here, sir! This will take as long as it takes!</line>
 <line speaker="Juror No. 5">Don't get clever with me now, son! My life's on the line, too. And so is my family's.</line>
 <line speaker="Ryunosuke">Ah.</line>
@@ -582,7 +582,7 @@
 <line speaker="Ryunosuke">Please, sir, it's important!</line>
 <line speaker="Juror No. 5">Tsk, fine, I'll do it then.</line>
 <line speaker="Juror No. 5">On the day it happened, I was digging up Meerschaum Street from dawn till dusk!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So, if I understand correctly, you're a day labourer and you were doing road maintenance that day?</line>
 <line speaker="Juror No. 5">That's right. Like I said, you get a lot of burst gas and water pipes underground in the middle of winter. It's the only time of year fellows like me can actually make a few bob. And I'm missing out today!</line>
 <line speaker="Ryunosuke">And...when you say from dawn till dusk...?</line>
@@ -593,7 +593,7 @@
 <line speaker="Juror No. 5">Well, we started in the morning and we can't have finished before gone six, I'd say. The snow had stopped coming down, but it was long past dark for sure.</line>
 <line speaker="Susato">That means the road work was still going on when Miss Green was attacked at around five o'clock.</line>
 <line speaker="Ryunosuke"><thought>Road works on Meerschaum Street, huh...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements are clearly at odds with one another!</line>
 <line speaker="Judge">At odds, Counsel? Explain yourself!</line>
 <line speaker="Juror No. 3">Please! Don't point! It wasn't me, I swear!</line>
@@ -618,7 +618,7 @@
 <line speaker="Van Zieks">.........</line>
 <line speaker="Judge">Thank you, Counsel. On with the summation examination, please!</line>
 <line speaker="Ryunosuke">Yes, My Lord.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements are clearly at odds with one another!</line>
 <line speaker="Judge">At odds, Counsel? Explain yourself!</line>
 <line speaker="Juror No. 3">Please! Don't point! It wasn't me, I swear!</line>
@@ -638,9 +638,9 @@
 <line speaker="Juror No. 5">Eh? Who, me? Hm, well, alright then... If there's a hole in the prosecution's argument, it should be filled in, that's what I say.</line>
 <line speaker="Juror No. 5">Whether it's digging up roads or digging up the truth, you've got to see it through to the end, haven't you?</line>
 <line speaker="Juror No. 6">Hm, Yore Books, yes... Nice shop, that. But Bourbon Books? ...Hmph, no, not worth a visit.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 6">Hm? Sorry? 'Fold it,' you say? Fold what?</line>
-<line speaker="Ryunosuke">...Um, no no, what I said was '<cutIn>Hold it!</cutIn>' What I wanted to ask was, do you visit Yore Books often?</line>
+<line speaker="Ryunosuke">...Um, no no, what I said was '<cutIn type="holdIt">Hold it!</cutIn>' What I wanted to ask was, do you visit Yore Books often?</line>
 <line speaker="Juror No. 6">I like the old books they have in there, yes. I enjoy reading them over a nice cup of old tea. That's my daily routine, you see. Same thing every day. Including the day you're all talking about.</line>
 <line speaker="Ryunosuke">And at what time did you visit Yore Books on the day in question?</line>
 <line speaker="Juror No. 6">Well, I was picking out books in there all afternoon, and it would have been just before five that I left. That's my daily routine, you see. Same thing every day. Including the day you're all talking about.</line>
@@ -654,7 +654,7 @@
 <line speaker="Juror No. 6">Hm? Sorry? 'Extremely sick'? No no, I'm quite alright now.</line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Juror No. 6">I slipped over that evening myself, on Calabash Road. I knocked myself clean out, you know!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And that was at around five o'clock, you say? The same time as the victim was attacked.</line>
 <line speaker="Juror No. 6">I don't know anything about the girl who was stabbed. But my dinner's on the table at the same time every day.</line>
 <line speaker="Ryunosuke">And for the record, could you please identify the precise location of your fall?</line>
@@ -668,7 +668,7 @@
 <line speaker="Ryunosuke">True. It sounds like it was very nearly another hospital admission...or worse. Ah yes, one more thing... Were you wearing that same green overcoat on the day in question?</line>
 <line speaker="Juror No. 6">Absolutely. It's the only coat I have. It took until this morning to dry out properly. Good job too, or I'd have had nothing to wear here. So count your blessings, I say! Ho ho ho!</line>
 <line speaker="Ryunosuke"><thought>Hm, I suppose we should... This gentleman certainly had a close shave there.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly show a flaw in the jurors' reasoning!</line>
 <line speaker="Judge">A flaw? What are you talking about, Counsel?</line>
 <line speaker="Ryunosuke">Well, juror number two? Juror number six?</line>
@@ -679,7 +679,7 @@
 <line speaker="Juror No. 2">But the man says he has no recollection of his return journey.</line>
 <line speaker="Ryunosuke">That's correct. But what he does remember is seeing someone appear in front of him on the way. Someone in a green overcoat, who suddenly collapsed on the pavement before his eyes.</line>
 <line speaker="Juror No. 2">Yes, we are well aware of all this! The poor young woman who was stabbed, obviously.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Can we really be sure of that, madam?</line>
 <line speaker="Juror No. 2">My! Whatever do you mean?</line>
 <line speaker="Ryunosuke">I'm sure you heard juror number six's account of what happened to him that day? That same afternoon, there was somebody else apart from the victim... ...who was wearing a green overcoat and who fell over on the icy streets in the neighbourhood.</line>
@@ -699,7 +699,7 @@
 <line speaker="Juror No. 5">You idiot, old man! If you hadn't been so daft as to be roaming about there, we'd have boxed this off hours ago!</line>
 <line speaker="Juror No. 4">And really! What were you thinking, wearing such a befuddling coat?!</line>
 <line speaker="Juror No. 6">What did you say to me?! Is it a crime for the elderly to walk the streets these days, hm? Is it a crime to slip over on the ice? Is it a crime to keep up with the latest styles and wear a beautiful, green overcoat, is it?!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 2">My Lord, I do hope it won't cause any inconvenience, but...</line>
 <line speaker="Judge">You'd like to change your leaning, I presume?</line>
 <line speaker="Juror No. 2">I do declare that I would. I should like to call for a verdict of not guilty.</line>
@@ -714,7 +714,7 @@
 <line speaker="Van Zieks">.........</line>
 <line speaker="Judge">Thank you, Counsel. On with the summation examination, please!</line>
 <line speaker="Ryunosuke">Yes, My Lord.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly show a flaw in the jurors' reasoning!</line>
 <line speaker="Judge">A flaw? What are you talking about, Counsel?</line>
 <line speaker="Ryunosuke">Well, juror number two? Juror number six?</line>
@@ -725,7 +725,7 @@
 <line speaker="Juror No. 2">But the man says he has no recollection of his return journey.</line>
 <line speaker="Ryunosuke">That's correct. But what he does remember is seeing someone appear in front of him on the way. Someone in a green overcoat, who suddenly collapsed on the pavement before his eyes.</line>
 <line speaker="Juror No. 2">Yes, we are well aware of all this! The poor young woman who was stabbed, obviously.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Can we really be sure of that, madam?</line>
 <line speaker="Juror No. 2">My! Whatever do you mean?</line>
 <line speaker="Ryunosuke">I'm sure you heard juror number six's account of what happened to him that day? That same afternoon, there was somebody else apart from the victim... ...who was wearing a green overcoat and who fell over on the icy streets in the neighbourhood.</line>
@@ -745,7 +745,7 @@
 <line speaker="Juror No. 5">You idiot, old man! If you hadn't been so daft as to be roaming about there, we'd have boxed this off hours ago!</line>
 <line speaker="Juror No. 4">And really! What were you thinking, wearing such a befuddling coat?!</line>
 <line speaker="Juror No. 6">What did you say to me?! Is it a crime for the elderly to walk the streets these days, hm? Is it a crime to slip over on the ice? Is it a crime to keep up with the latest styles and wear a beautiful, green overcoat, is it?!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 2">My Lord, I do hope it won't cause any inconvenience, but...</line>
 <line speaker="Judge">You'd like to change your leaning, I presume?</line>
 <line speaker="Juror No. 2">I do declare that I would. I should like to call for a verdict of not guilty.</line>
@@ -771,7 +771,7 @@
 <line speaker="Van Zieks">I mistakenly credited these jurors with intelligence by describing them as 'insightful'. Yet we have just witnessed them falling for a cheap trick performed by an Eastern 'entertainer'.</line>
 <line speaker="Juror No. 5">Eh?</line>
 <line speaker="Juror No. 2">Whatever do you mean?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">I haven't tricked anyone! Everything I've said is the truth!</line>
 <line speaker="Van Zieks">Indeed... Stalwart juror number five was undoubtedly repairing the road, as he claims. I believe you said it was 'a good two yards' of the pavement which you had excavated, sir?</line>
 <line speaker="Juror No. 5">That's right. Took me the whole day and they paid me a measly tuppence for it!</line>
@@ -854,7 +854,7 @@
 <line speaker="Judge">Enough preamble. Counsel for the Defence, commence the cross-examination, please.</line>
 <line speaker="Ryunosuke">Y-Yes, My Lord!</line>
 <line speaker="Patricia">It was our wedding anniversary, and Roly was taking me out for a meal. There was no time to change after work.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">No time to change after work, you say? Are you also a member of the police, Mrs Beate?</line>
 <line speaker="Patricia">Oh no, sadly not. It's a job for strapping young men only. Women, children and the elderly can't even apply.</line>
 <line speaker="Ryunosuke">Well...I think you can probably see why children and the elderly can't do the job, can't you?</line>
@@ -884,7 +884,7 @@
 <line speaker="Patricia">Oh, thank you, My Lord. That would settle things nicely. Wouldn't it, darling?</line>
 <line speaker="Roly">.........</line>
 <line speaker="Patricia">Anyway, two silhouettes appeared out of the fog on the pavement in front of us.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Two 'silhouettes'?</line>
 <line speaker="Patricia">That's right. They were coming towards us, walking up Briar Road in the opposite direction. There was a rather plump figure followed by a scrawny, thin-looking man.</line>
 <line speaker="Susato">That does sound exactly like the victim as pictured in this print. And like Mr Natsume.</line>
@@ -899,7 +899,7 @@
 <line speaker="Ryunosuke">Well...that didn't stop Mr Natsume, did it? He fled the scene all too convincingly.</line>
 <line speaker="Judge">Thank you. I believe we have a reasonably clear idea of the situation just before the incident now. What happened in the crucial moments that followed?</line>
 <line speaker="Patricia">All of a sudden, one of them just collapsed on the floor. Then the other scattered something before running off!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Hm, 'scattered something'...? What do you mean by that?</line>
 <line speaker="Patricia">Oh well, I couldn't quite make out what it was at the time. But then when we got closer, we realised what it was. ...Didn't we, darling?</line>
 <line speaker="Roly">Hm? Wha...? ...Ah yes, that's right. It was some old books.</line>
@@ -907,7 +907,7 @@
 <line speaker="Roly">Yes, SAH! The culprit had dropped a number of them, all around where the victim lay on the pavement.</line>
 <line speaker="Judge">Indeed, as clearly pictured in this photographic print.</line>
 <line speaker="Patricia">That rotten Japanese man did that when he did the deed!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Let's not forget that it remains to be established that the defendant was indeed the attacker!</line>
 <line speaker="Roly">But we saw him! It was the man in the dock without question, sah. The moustache, the hunched back, the cat-like eyes, the taut mouth, the snub nose...everything!</line>
 <line speaker="Ryunosuke"><thought>...Any more insults you want to throw in?</thought></line>
@@ -916,7 +916,7 @@
 <line speaker="Van Zieks">May I remind the court that this unambiguous testimony comes from a policeman and his wife. Now please...continue.</line>
 <line speaker="Roly">Yeeeeees SAH!</line>
 <line speaker="Patricia">We ran straight over of course, and then went for help at a nearby police box.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Was it your husband who went to fetch help?</line>
 <line speaker="Patricia">No no, I went. I may not be a police officer myself, but I am the proud wife of one, after all! ...Isn't that right, my darling?</line>
 <line speaker="Roly">Hm? Wha...? Ah, yes. That's right. I asked Mrs Beate to go. I was off duty by that point. But a bobby's never truly off duty, of course, so I felt obliged to stay and guard the scene.</line>
@@ -941,7 +941,7 @@
 <line speaker="Patricia">Oh, thank you, My Lord. That would settle things nicely. Wouldn't it, darling?</line>
 <line speaker="Roly">.........</line>
 <line speaker="Patricia">It was definitely that Japanese man in the dock. Roly and I both saw him as clear as day!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But surely you wouldn't have been able to see his face by the light of the gas streetlamps, would you?</line>
 <line speaker="Patricia">We absolutely could! Us Londoners have exceptional eyesight, I'll have you know!</line>
 <line speaker="Ryunosuke">...Right.</line>
@@ -965,7 +965,7 @@
 <line speaker="Patricia">Oh, thank you, My Lord. That would settle things nicely. Wouldn't it, darling?</line>
 <line speaker="Roly">.........</line>
 <line speaker="Patricia">I could even tell you the names of the four books he dropped at the scene.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Yes, we know that there were books dropped at the scene of the crime, as you say.</line>
 <line speaker="Van Zieks">Those purchased by the accused at the nearby secondhand bookshop on the day in question.</line>
 <line speaker="Patricia">After I'd been to the police box for help, I... Well, I decided to have a good look over the area for good measure. I am a proud policeman's wife, after all! I did it for Roly!</line>
@@ -981,7 +981,7 @@
 <line speaker="Roly">Anyone who upsets my Patricia will have me to answer to! .........</line>
 <line speaker="Van Zieks">...Terrifying.</line>
 <line speaker="Ryunosuke"><thought>...Yes, she really is...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">So...you're saying that there were four books?</line>
 <line speaker="Patricia">That's right. I remember all of them. 'The Picture of Monsieur Somebody', 'Whatsit Yearnings', 'A Meal for Someone' and 'The Thingummy's Something'.</line>
 <line speaker="Ryunosuke">...I'm sorry, Mrs Beate... ...but there is a fundamental flaw in that statement of yours.</line>
@@ -995,7 +995,7 @@
 <line speaker="Ryunosuke">Oh really? Have a good look at this photographic print of the scene of the crime. As you can clearly see from this evidence as well, there are only three books!</line>
 <line speaker="Patricia">But...I just don't believe it! I saw them there! I swear it! I saw them!</line>
 <line speaker="Ryunosuke">No madam, I'm afraid your powers of observation cannot be relied upon.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">So...you're saying that there were four books?</line>
 <line speaker="Patricia">That's right. I remember all of them. 'The Picture of Monsieur Somebody', 'Whatsit Yearnings', 'A Meal for Someone' and 'The Thingummy's Something'.</line>
 <line speaker="Ryunosuke">...I'm sorry, Mrs Beate... ...but there is a fundamental flaw in that statement of yours.</line>
@@ -1054,7 +1054,7 @@
 <line speaker="Van Zieks">It's quite simple. Let me explain with a toast. To the policeman's wife, and her entirely accurate testimony. ...In every respect.</line>
 <line speaker="Patricia">Oh!</line>
 <line speaker="Van Zieks">You see, the matter is not up for debate. At the scene on Briar Road, a total of four books were most definitely found.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But, but what about the photographic print? It only shows three books!</line>
 <line speaker="Van Zieks">Quite right. Only three can be seen...in that print.</line>
 <line speaker="Ryunosuke">That print? You, you mean to say...?</line>
@@ -1107,7 +1107,7 @@
 <line speaker="Van Zieks">You have heard all of the witnesses and seen all of the evidence. This trial has run its course!</line>
 <line speaker="Susato">Mr Naruhodo! I'm afraid we are in a terribly precarious position!</line>
 <line speaker="Ryunosuke">I know! But... ...if I fight back in the wrong way now, I could very well just make matters worse! <thought>Think, Ryunosuke, think! What do you do now?</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">I'm, I'm not done yet!</line>
 <line speaker="Ryunosuke">......... <thought>I should just keep quiet now and see what happens.</thought></line>
 <line speaker="Judge">Well, it appears the defence has no objection at this juncture. In which case...</line>
@@ -1115,7 +1115,7 @@
 <line speaker="Ryunosuke">Yes, I realise that. Which is why I decided to let the sweat drip from my trembling brow in silence.</line>
 <line speaker="Susato">.........</line>
 <line speaker="Ryunosuke">...You're so right! Sorry! If I don't say anything now, it'll all be over! <thought>And it won't end well for us. I can't let that happen!</thought></line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">No! Wait! The, the defence-</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">Agh! <thought>...Isn't your derisive finger-pointing punishment enough?</thought></line>
@@ -1221,7 +1221,7 @@
 <line speaker="Ryunosuke">...Things would be so much easier if you would just drop the pretence. Alright then, how about a simple question for you? Have you ever seen this book in Mr Garrideb's house?</line>
 <line speaker="Juror No. 4">I, I would never presume to know all of the books he keeps, sir!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">This is not mere conjecture. The defence happens to know... ...that on the day in question... ...at almost exactly the same time as the victim was stabbed on the pavement below... ...another 'incident' was taking place in the room on the top floor of Mr and Mrs Garrideb's house.</line>
 <line speaker="Judge">Good Lord! What sort of incident, Counsel?</line>
 <line speaker="Ryunosuke">...A fire, My Lord.</line>
@@ -1304,7 +1304,7 @@
 <line speaker="Ryunosuke">There must be a way to link the two. Yes, that's what we have to find... <thought>...using every technique I've learnt in my short career so far! Whatever it takes!</thought></line>
 <line speaker="Susato">Don't forget to keep an eye on Mrs Garrideb and how she reacts...even to the things other people say!</line>
 <line speaker="Juror No. 1">The accused left behind evidence at the scene, didn't he? Those three books of his.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But as we now know, there were four books, not three!</line>
 <line speaker="Juror No. 1">Well? What difference does it make?</line>
 <line speaker="Ryunosuke">There's every possibility that the fourth book...in fact belongs to the defendant's landlord!</line>
@@ -1318,7 +1318,7 @@
 <line speaker="Juror No. 1">So it couldn't have been the landlord who did it. Which only leaves the Nipponese fellow. Honestly, I can't see what all this palaver's about. It's a done deal, isn't it?</line>
 <line speaker="Ryunosuke"><thought>...I suppose it is, since I've nothing witty left to say.</thought></line>
 <line speaker="Juror No. 2">If there was some novel alternative explanation about how the victim was stabbed, I might reconsider...</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So...you might be willing to change your decision, you mean?!</line>
 <line speaker="Juror No. 2">Oh my! Such delight on your face! But I'm afraid I shan't be swayed by emotion. Despite what you may think of me, I am a very modern, metropolitan and rational woman.</line>
 <line speaker="Ryunosuke">...That's great.</line>
@@ -1330,9 +1330,9 @@
 <line speaker="Ryunosuke"><thought>I'd be happy to do that, too...if only I could.</thought></line>
 <line speaker="Susato">Let's do our very best not to disappoint the modern and metropolitan young lady!</line>
 <line speaker="Ryunosuke">...Right. <thought>I'm glad you omitted 'rational' there.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Juror No. 3">Even if the woman was throwing books, it can't be related to this crime if the window was closed, can it?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But what about the possibility that the window was open?</line>
 <line speaker="Juror No. 3">What about it? I mean, there's just no way it could have been.</line>
 <line speaker="Ryunosuke">How can you be so sure?</line>
@@ -1342,7 +1342,7 @@
 <line speaker="Ryunosuke">Then what's the point in even having windows? Huh?!</line>
 <line speaker="Judge">Counsel! You will kindly refrain from childish bickering!</line>
 <line speaker="Ryunosuke">Oh, um...sorry... <thought>Somehow, I need to show there's an undeniable possibility that the window was open... ...because this young man isn't going to budge otherwise.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">These two jurors' statements clearly contradict one another!</line>
 <line speaker="Judge">They do? How exactly, Counsel?</line>
 <line speaker="Juror No. 3">Don't point at me again! I told you, it wasn't me!</line>
@@ -1376,7 +1376,7 @@
 <line speaker="Juror No. 3">Yes! Of course! I, I think I need to reconsider my statement.</line>
 <line speaker="Ryunosuke">Yes! Please do. <thought>That's a step in the right direction...I think.</thought></line>
 <line speaker="Juror No. 3">The window could have been open when the woman was throwing books. I mean, it's definitely a possibility.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">At the point when the victim was attacked on Briar Road... ...we know there was a small house fire in the Garrideb household on the opposite side of the street.</line>
 <line speaker="Juror No. 3">Well yes, it certainly seems that way. And on account of the smoke, I imagine they would have had the windows wide open in spite of the cold.</line>
 <line speaker="Ryunosuke">'Scuse me!</line>
@@ -1404,7 +1404,7 @@
 <line speaker="Juror No. 3">So I don't really see how I can change my decision, really.</line>
 <line speaker="Ryunosuke">Oh...I see... <thought>...That wasn't enough? What is it going to take to persuade these people?</thought></line>
 <line speaker="Juror No. 4">Dearie me, it was only a little book! Hardly life-threatening, even with a direct hit!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But the 'little book' was on fire at the time, was it not?</line>
 <line speaker="Juror No. 4">...With flames of love, I'll have you know.</line>
 <line speaker="Ryunosuke">...There's really no such thing as a 'loving' incendiary bomb.</line>
@@ -1414,7 +1414,7 @@
 <line speaker="Ryunosuke">......... <thought>Right, well, we'll see about that. But what about juror number five? He doesn't seem to be turning a hair at Mrs Garrideb's relentless onslaughts...</thought></line>
 <line speaker="Susato">It's almost as though he's used to it. What a gentle soul he is!</line>
 <line speaker="Juror No. 4">Now you mention it, yes, the window was open at the time. I'd clean forgotten, but it's true.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The fourth book found at the scene of the crime shows very obvious signs of fire damage. And the title of the book...is 'The Lion's Pride'. The same title, in fact, as the book that Mr Garrideb told us he had been reading.</line>
 <line speaker="Juror No. 4">......... Well, I really couldn't say.</line>
 <line speaker="Ryunosuke">On the day in question, did you or did you not throw at your husband... ...the copy of 'The Lion's Pride' that he had been reading?</line>
@@ -1453,7 +1453,7 @@
 <line speaker="Susato">...I'm disheartened to think you might believe me capable of such behaviour. Anyway... I have a feeling I might have noticed someone reacting a little strangely to Mrs Garrideb's remarks just now.</line>
 <line speaker="Ryunosuke"><thought>Ah, perhaps I missed something while I was... preoccupied...</thought></line>
 <line speaker="Juror No. 5">Look, I just want to get this over with. If I don't bring home some pay tonight, I'll be in a tidy bit of trouble.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You just want to 'get this over with'? How can you sit there and say something like that? A man's future is at stake here!</line>
 <line speaker="Juror No. 5">Well him and me both then, like I said before!</line>
 <line speaker="Ryunosuke">What?</line>
@@ -1468,7 +1468,7 @@
 <line speaker="Susato">I wonder if Mr Beate will ever be dragged into the Thames by his scarf...</line>
 <line speaker="Ryunosuke">...Don't even go there, Miss Susato. <thought>There must be some way to jog his memory about this.</thought></line>
 <line speaker="Juror No. 5">A woman in a rage will hurl almost anything at you. The kitchen knife really brought that home to me.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Your wife really threw a kitchen knife at you?</line>
 <line speaker="Juror No. 5">That's right. She was chopping meat with it. ...Had a tidy edge on it, believe me. Still...it's all memories, isn't it? It started with that smile  she threw me when we were courting. And since then, the list of things she's thrown at me has grown along with our relationship. There was a cup, then a glass...then a pot...a kettle...a chair...a wardrobe...a cooker...a bathtub...</line>
 <line speaker="Ryunosuke">...Your wife must be even beefier than you.</line>
@@ -1478,9 +1478,9 @@
 <line speaker="Ryunosuke">......... That's...a very interesting theory.</line>
 <line speaker="Susato">What a terrible thought.</line>
 <line speaker="Ryunosuke"><thought>On the face of it... ...this juror's statement just sounds like a really extreme anecdote. But I think it might turn out to be an extremely powerful weapon. A weapon I might be able to use to make the jurors accept an alternative explanation here.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Juror No. 6">Come to think of it, we had a fire at home a while ago. It gave me the sneezes.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Does...that have anything to do with your decision about the defendant's culpability in this case?</line>
 <line speaker="Juror No. 6">Sorry? What's that? You'll have to speak up, lad.</line>
 <line speaker="Ryunosuke">......... Could you tell us more about that fire?</line>
@@ -1495,14 +1495,14 @@
 <line speaker="Juror No. 6">The biting winter air rushed over me like the devil dancing on my grave, it did! I caught a terrible cold from it. It put me in hospital for a while. ...I won't forget that birthday in a hurry!</line>
 <line speaker="Ryunosuke">...I knew it was devil-worship all along. <thought>But something about this old man's story is playing on my mind for some reason...</thought></line>
 <line speaker="Juror No. 6">Winter house fires are dire. You have to open windows to clear the smoke. That's when the chill gets you, see.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">...Um, did you change your statement from before?</line>
 <line speaker="Juror No. 6">Well, yes. It was one of my most memorable birthdays, you see. I couldn't let it go unremembered.</line>
 <line speaker="Ryunosuke"><thought>...I'm sure the defendant will be delighted that you're using his trial to explore your past.</thought> And how is that memory related to this case exactly?</line>
 <line speaker="Juror No. 6">Hm? Sorry? What's that? You'll have to speak up, I'm afraid!</line>
 <line speaker="Ryunosuke">...Never mind. <thought>He's as deaf as a post...when he wants to be. ...But actually, this old man's anecdote... ...might just provide the alternative explanation I need to make my point to some of the other jurors.</thought></line>
 <line speaker="Juror No. 6">We used unlit candles on my birthday this year. It's safer that way.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">These two jurors' statements clearly contradict one another!</line>
 <line speaker="Judge">They do? How exactly, Counsel?</line>
 <line speaker="Juror No. 3">Don't point at me again! I told you, it wasn't me!</line>
@@ -1658,7 +1658,7 @@
 <line speaker="Judge">Counsel, if you could drag yourself upright again...the court awaits your cross-examination.</line>
 <line speaker="Ryunosuke">...My Lord. <thought>Oh good. Another desperate situation...</thought></line>
 <line speaker="Roly">This case has nothing to do with Mr and Mrs Garrideb. Believe me, a London bobby is good for his word!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">How can you say that for certain?</line>
 <line speaker="Roly">...A very good question, sah. And the answer...is this! It has the noble founding principles of the force written on it as a reminder to all us policemen of our sworn duty.</line>
 <line speaker="Susato">He showed us that before, didn't he?</line>
@@ -1687,7 +1687,7 @@
 <line speaker="Patricia">I heard that! That Japanese man thinks a policeman's wife's word counts for nothing, does he? Well watch out, sir! I might let you get away with something like that, but my Roly won't!</line>
 <line speaker="Ryunosuke">...Duly noted, Mrs Beate. Please, I humbly ask you to continue...</line>
 <line speaker="Susato">What could she possibly be about to say, I wonder...?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">How can you say that for certain?</line>
 <line speaker="Roly">...A very good question, sah. And the answer...is this! It has the noble founding principles of the force written on it as a reminder to all us policemen of our sworn duty.</line>
 <line speaker="Susato">He showed us that before, didn't he?</line>
@@ -1700,7 +1700,7 @@
 <line speaker="Ryunosuke">...Yes, well... So, could you answer the question? <thought>That was a waste of time, then.</thought></line>
 <line speaker="Roly">Absolutely, sah! I will answer it to the fullest of my abilities, sah! There's a surprising reason why Mr and Mrs Garrideb's domestic dispute can't be related to this case.</line>
 <line speaker="Roly">You see - SAH! - the windows on the top floor of the Garrideb house are top-hinged casements.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">By which you mean they don't open fully...is that correct?</line>
 <line speaker="Roly">Yes, sah! They're just there to allow a bit of air through the house, you see. So they're restricted as to how much they open.</line>
 <line speaker="Van Zieks">And therefore anything thrown out of the window from inside the room... ...would simply strike the pane and fall to the street directly below. For clarity, allow me to mark the map. Here...is the location where objects would have fallen.</line>
@@ -1771,7 +1771,7 @@
 <line speaker="Ryunosuke">I see. Well...thank you.</line>
 <line speaker="Patricia">Oh, is it my turn now?</line>
 <line speaker="Patricia">Obviously, if anything had been thrown out of the window, we would have seen it.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But according to my notes here, the sun had gone down already and it was dark.</line>
 <line speaker="Patricia">Oh, but Roly and I were strolling along, gazing at the night sky and looking for our lucky star!</line>
 <line speaker="Ryunosuke">...Sorry?</line>
@@ -1785,7 +1785,7 @@
 <line speaker="Ryunosuke"><thought>Hm... It certainly seems like they're telling the truth...</thought></line>
 <line speaker="Patricia">And then we saw the poor woman fall to the ground, so we ran straight over to help her.</line>
 <line speaker="Patricia">I did leave the scene to go and fetch help, but my trusty Roly was there to make sure nothing was disturbed.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Yes, you said that you went to a nearby police box to fetch another officer. Is that right?</line>
 <line speaker="Patricia">That's right, yes. If it had been on Roly's beat, I would have known exactly where I was going, of course.</line>
 <line speaker="Roly">Don't feel bad, my love. You can't be expected to know the location of every police box on every beat.</line>
@@ -1795,7 +1795,7 @@
 <line speaker="Patricia">So, I suppose I was gone for about fifteen minutes. But like I said, my Roly was at the scene the whole time, making sure nothing was disturbed!</line>
 <line speaker="Roly">I was off duty at the time, of course, but...a true bobby is never really off duty, SAH!</line>
 <line speaker="Patricia">I know what I saw. My eyes never let me down! ...My sense of direction is a little off sometimes, though.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Mrs Beate, nobody is questioning what you've told us.</line>
 <line speaker="Patricia">I saw it, I did! That evening, I saw it clearly! That little Eastern man with the whiskers and the funny curved back, slinking away from the scene!</line>
 <line speaker="Ryunosuke">Haah...</line>
@@ -1827,7 +1827,7 @@
 <line speaker="Judge">That would most certainly not do, madam. Anyway...continue with your testimony, please, Constable.</line>
 <line speaker="Roly">Yes, SAH!</line>
 <line speaker="Patricia">What happened was, I dropped my bouquet and ended up losing my way for a while.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You mean you dropped the bouquet at the scene of the crime?</line>
 <line speaker="Patricia">Yes, that's right. Oh, I was so upset. When we ran over and saw it was a woman with a knife in her back... ...I was so shocked, I dropped the bouquet Roly gave me. It was in a dark spot where the streetlights weren't casting any light, so I didn't notice at first.</line>
 <line speaker="Ryunosuke">And then you went to the police box to report it to the policeman whose beat it was on?</line>
@@ -1851,7 +1851,7 @@
 <line speaker="Patricia">Oh.</line>
 <line speaker="Patricia">But...it's a symbol of our love... I want it back after the trial! Do you hear me? I want it back!</line>
 <line speaker="Judge">Good grief! Rest, rest assured that I shall do my very best not to forget, Mrs Beate.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You mean you dropped the bouquet at the scene of the crime?</line>
 <line speaker="Patricia">Yes, that's right. Oh, I was so upset. When we ran over and saw it was a woman with a knife in her back... ...I was so shocked, I dropped the bouquet Roly gave me. It was in a dark spot where the streetlights weren't casting any light, so I didn't notice at first.</line>
 <line speaker="Ryunosuke">And then you went to the police box to report it to the policeman whose beat it was on?</line>
@@ -1877,7 +1877,7 @@
 <line speaker="Susato">Oh! No no. I was just thinking that if you wrapped a stone-baked sweet potato in English newspaper... ...it might look like some sort of fancy cake.</line>
 <line speaker="Ryunosuke"><thought>Ah, Susato-san, you do love your cakes...</thought></line>
 <line speaker="Roly">I didn't take my eye off the crime scene for one moment, sah! Nothing strange to report on that front, sah!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">'Nothing to report'...?</line>
 <line speaker="Roly">That's correct, sah. I had my eyes wide open the entire time. Never looked away for a second. No one else approached the scene, and nothing was removed from it. I can swear to that on the Yard's honour, SAH!</line>
 <line speaker="Ryunosuke">Really? That...seems a little strange.</line>
@@ -1899,7 +1899,7 @@
 <line speaker="Patricia">I heard that! That Japanese man thinks a policeman's wife's word counts for nothing, does he? Well watch out, sir! I might let you get away with something like that, but my Roly won't!</line>
 <line speaker="Ryunosuke">...Duly noted, Mrs Beate. Please, I humbly ask you to continue...</line>
 <line speaker="Susato">What could she possibly be about to say, I wonder...?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Susato">I'm so sorry, Mr Naruhodo. I had no right to speak out.</line>
 <line speaker="Ryunosuke">Wh-What do you mean?</line>
 <line speaker="Susato">I requested the cross-examination of Mrs Garrideb without consulting you. ...Even if the judge did deny me.</line>
@@ -1922,7 +1922,7 @@
 <line speaker="Van Zieks"> </line>
 <line speaker="Van Zieks">Yes, on the opposite side of Briar Road to where the victim was attacked. But considering the size of that meagre 'bouquet' - if a single, sorry bloom can be so described... ...no doubt it was blown in the wind across the street, back into the gutter where it belongs.</line>
 <line speaker="Patricia">Meagre...?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn> </line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn> </line>
 <line speaker="Ryunosuke">But if that were the case... ...why did Constable Beate not testify to the fact?</line>
 <line speaker="Van Zieks">...!</line>
 <line speaker="Susato">'No one else approached the scene, and nothing was removed from it.' Constable Beate swore to that on Scotland Yard's honour.</line>
@@ -1955,7 +1955,7 @@
 <line speaker="Patricia">What nonsense! Why would my Roly do something like that? There's no one straighter than my husband! No bobby works more tirelessly for the people of London!</line>
 <line speaker="Ryunosuke">Mrs Beate... ...you said in your testimony that your husband asked you to go to a nearby police box to fetch the officer on duty. The fifteen minutes that you were absent from the scene is the only opportunity anyone had to tamper with it.</line>
 <line speaker="Patricia">You're making it up! It's all nonsense! It's all lies! What about that Japanese man with the whiskers? I bet it was him! He did it!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">If that was true, Constable Beate would have seen him do it!</line>
 <line speaker="Patricia">Oh...</line>
 <line speaker="Susato">And forgive me for pointing it out, but when you dropped your bouquet, Mrs Beate... ...it was after the defendant had fled the scene.</line>
@@ -2120,7 +2120,7 @@
 <line speaker="Roly">Uh...um... SAAAH!</line>
 <line speaker="Judge">Well, quite a startling revelation, I must say. Whoever thought of a third party transplanting the entire scene of a crime like that!</line>
 <line speaker="Van Zieks">Indeed, My Lord. Nevertheless, there are some immutable facts here. Principally... ...that the accused, Mr Soseki Natsume, is the only person who could possibly have committed this crime.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">No! I disagree. Now that we know the true scene of the incident...there is someone else. Another person who could be responsible for the knife in the victim's back!</line>
 <line speaker="Susato">Forgive me for being presumptuous... ...but I believe the prosecution is probably well aware of this possibility already.</line>
 <line speaker="Judge">Lord van Zieks! Is this true?</line>
@@ -2139,7 +2139,7 @@
 <line speaker="Ryunosuke">My assistant made the same request earlier. In order to finally reveal the truth about this case... ...it's imperative that we cross-examine juror number four...Mrs Joan Garrideb!</line>
 <line speaker="Juror No. 4">Me? Me?! Oh dearie me!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But the situation is very different now! Mrs Garrideb, answer me this...</line>
 <line speaker="Juror No. 4">What do you want now, you little toad?!</line>
 <line speaker="Ryunosuke">At the time of the incident, you were engaged in a violent argument with your husband, Mr John Garrideb. In the course of the argument, a minor house fire was ignited... ...and to clear the smoke from the room, your husband opened a window that looks out over Briar Road.</line>
@@ -2209,7 +2209,7 @@
 <line speaker="Ryunosuke">Yes...I'm afraid so.</line>
 <line speaker="Judge">Very well, Counsel. Begin your cross-examination!</line>
 <line speaker="Garrideb">Yes, on the day you're referring to, the wife and I did have a bit of a skirmish. Can't recall the reason now.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The reason...is what you told us yesterday, I believe.</line>
 <line speaker="Susato">Yes, that's right. If I remember correctly... ...it all started because of a note that was tucked into the pages of a book belonging to Mr Garrideb.</line>
 <line speaker="Ryunosuke">A rather passionate note, in fact. But Mrs Garrideb found the note, discovering her husband's little secret.</line>
@@ -2221,7 +2221,7 @@
 <line speaker="Ryunosuke"><thought>...These waters run veeery deep.</thought></line>
 <line speaker="Judge">And what transpired next, after these multiple blows to the face?</line>
 <line speaker="Garrideb">Knocked a candlestick over and set fire to the carpet! Soon had it out, though, and got the window open.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And the fire also spread to some items of furniture, didn't it?</line>
 <line speaker="Garrideb">The bookcase...my armchair... Anything of mine, really. Just so happens there was some bathwater around that evening, so I sloshed that about to put it out.</line>
 <line speaker="Judge">...A most precarious situation you put yourself in.</line>
@@ -2233,7 +2233,7 @@
 <line speaker="Susato">I believe he uses all of his income to buy books.</line>
 <line speaker="Garrideb">Well anyway, the point is, I was able to douse the fire with water, fortunately enough.</line>
 <line speaker="Joan">Meanwhile...I was picking up whatever I could find to throw at him.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">...Even though the room was on fire?</line>
 <line speaker="Joan">As far as I was concerned at the time... ...it was more important to extinguish my anger than the flames. When a woman wants to throw, she must throw!</line>
 <line speaker="Susato">That is most certainly not true of a Susato Takedown, Mr Naruhodo!</line>
@@ -2305,7 +2305,7 @@
 <line speaker="Susato">It's extraordinary, isn't it? And fills me with a sense of awe. It's surely proof that miracles really can happen.</line>
 <line speaker="Ryunosuke"><thought>Yes, a more miraculous proof I couldn't ask for...</thought></line>
 <line speaker="Garrideb">Plenty of knives around our place. Can't say I'd notice if one or two went missing, I'm afraid.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Sorry? ...Would you care to elaborate?</line>
 <line speaker="Garrideb">Nothing to say, really. Rather partial to a spot of carving, you see. Pipes and whatnot. Fishing tackle. You know the sort of thing.</line>
 <line speaker="Joan">It's a passion we both share. I like to carve little wooden trinkets, too. And then there's my leatherwork.</line>
@@ -2318,7 +2318,7 @@
 <line speaker="Van Zieks">Go on with your testimony, witnesses.</line>
 <line speaker="Garrideb">Sir!</line>
 <line speaker="Garrideb">If that bally thing in the victim's back really was one of ours, you'll have a job proving it, I think.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you have no intention of admitting it was your knife... unless we can produce proof?</line>
 <line speaker="Garrideb">.........</line>
 <line speaker="Ryunosuke">Even though there is no other credible possibility if Mr Natsume is innocent?!</line>
@@ -2332,7 +2332,7 @@
 <line speaker="Judge">Yes, I believe we are rapidly approaching an era of scientific methods of investigation.</line>
 <line speaker="Susato">But for now...we shall have to find an alternative method of proving our assertion. That this knife found in the victim's back was originally in Mr and Mrs Garrideb's house.</line>
 <line speaker="Ryunosuke">Ugh... If only I could transplant this whole incident to several years in the future...</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke"><thought>...That's the extent of their testimony, is it?</thought></line>
 <line speaker="Susato">What do you think, Mr Naruhodo?</line>
 <line speaker="Ryunosuke">Well...I think we've heard all this before, to be honest. I can't say I'm particularly confident that we'll be able to prove anything new from this testimony.</line>
@@ -2372,7 +2372,7 @@
 <line speaker="Van Zieks">A common issue with the inferior blades sold at unsavoury street markets. Criminals who use them regularly leave the tips lodged in their victims' bones.</line>
 <line speaker="Judge">And what of this particular knife?</line>
 <line speaker="Van Zieks">No doubt its tip has suffered a similar fate, now languishing somewhere near the spine of the victim.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">No! That's not the case.</line>
 <line speaker="Van Zieks">...!</line>
 <line speaker="Ryunosuke">The tip of this particular knife's blade... ...is the very fragment of metal we discovered in the chamber of Mr Garrideb's pipe!</line>
@@ -2423,7 +2423,7 @@
 <line speaker="Susato">You mustn't worry, Mr Naruhodo. You were just caught off guard, that's all. And your mind went blank. But if the path you were on is indeed correct, then a way will present itself. The key to this is in the Court Record, I'm sure. All the information you need is there!</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Van Zieks">It seems you have nothing to say, my Nipponese friend. Well, your silence speaks volumes. A tacit acceptance that your theory...is fatally flawed.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke"><thought>This inconsistency doesn't mean I was on the wrong track... It means that I need to sharpen my mind and dig deeper for the truth! It's a test!</thought> Yes! If the knife fell on the victim from above, there's no way that it could have hit her in the middle of her back... ...under normal circumstances, that is.</line>
 <line speaker="Van Zieks">What are you implying?</line>
 <line speaker="Judge">Counsel?</line>
@@ -2637,34 +2637,34 @@
 <line speaker="Ryunosuke">Shadows? What do you mean?</line>
 <line speaker="Sholmes">Well, I believe you're well aware of the murkiness that lies behind London's facade already. So once again, Mr Naruhodo... ...welcome to London!</line>
 <line speaker="Ryunosuke">I can't find anything out of place.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The witness's last statement is clearly at odds with this piece of evidence!</line>
 <line speaker="Judge">I'm sorry, Counsel, but I fail to see the connection.</line>
 <line speaker="Ryunosuke">Oh!</line>
 <line speaker="Judge">And for heaven's sake, would you kindly desist from that wide-eyed panic-stricken look you are wont to wear!</line>
 <line speaker="Ryunosuke"><thought>...But it's the only panic-stricken look I know...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Let's just consider the implications of that statement for a moment, shall we?</line>
 <line speaker="Judge">What implications, Counsel? Nothing strikes me about it.</line>
 <line speaker="Ryunosuke">Ah...um...exactly! There's nothing striking about it!</line>
 <line speaker="Judge">Hm, what does strike me is your propensity for the inane, however.</line>
 <line speaker="Ryunosuke"><thought>Ugh... I need to clear my head and come at this again from a different angle.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">That reveals a damning inconsistency, that last statement!</line>
 <line speaker="Judge">Damning, you say? As I look at you, Counsel, I see your trembling hand, your pallid expression and your perspiring brow.</line>
 <line speaker="Ryunosuke">Huh?</line>
 <line speaker="Judge">It seems to me THAT is the damning inconsistency here. With the misplaced confidence of your assertion!</line>
 <line speaker="Ryunosuke"><thought>Ugh... He has a damning tongue...</thought></line>
 <line speaker="Judge">...You invite it, sir.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">There's clearly something odd about that last statement made by the witness!</line>
 <line speaker="Judge">There is clearly something odd here indeed. Your behaviour, Counsel!</line>
 <line speaker="Ryunosuke">Oh! Haha! Please, d-don't mind me...</line>
 <line speaker="Judge">That would be significantly easier if you would lower your hand.</line>
 <line speaker="Ryunosuke"><thought>I won't lower my hand until I prove my client's innocence! ...As long as it's quite quick.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly contradict each other!</line>
-<line speaker="Juror No. 1"><cutIn>Hold it!</cutIn></line>
+<line speaker="Juror No. 1"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 1">I'm sorry, but as foreman of the jury, I have to object. That's complete nonsense!</line>
 <line speaker="Ryunosuke">What?</line>
 <line speaker="Juror No. 1">I'm a banker, don't forget. An educated man! And there's no contradiction as far as I can see.</line>

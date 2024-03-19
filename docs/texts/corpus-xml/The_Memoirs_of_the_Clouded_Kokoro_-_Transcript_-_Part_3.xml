@@ -217,7 +217,6 @@
 <line speaker="Sholmes">If you will produce such dull items with such a dull countenance, you must expect a dull response. At the very least, you could do something about your face, my dear fellow. I crave visual stimulation!</line>
 <line speaker="Ryunosuke">Um...something like this?</line>
 <line speaker="Sholmes">Ah ha ha ha ha hah! Indeed, that is quite the stimulation I desired!</line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Iris">That's the spirit, Runo! See you later!</line>
 <line speaker="Sholmes">Yes, until later.</line>
 <line speaker="Ryunosuke">No no, Mr Sholmes! We were thinking you'd come with us.</line>
@@ -305,7 +304,6 @@
 <line speaker="Susato">...I think that's something only a great detective would do, Mr Sholmes.</line>
 <line speaker="Sholmes">Well, this is quite a puzzle. Handprints all over the floor...</line>
 <line speaker="Ryunosuke"><thought>Yes, there's no obvious explanation...</thought></line>
-<line speaker="After spraying chemical around painting and floor to right of table">Ryunosuke:</line>
 <line speaker="Susato">We did. But there are...two places in particular that are of interest, I would say.</line>
 <line speaker="Ryunosuke">The handprints on the floor there...and on the wall by the picture, you mean?</line>
 <line speaker="Susato">Yes! And I think the floor warrants closer investigation! I won't be a moment... ......... Ah!</line>
@@ -389,7 +387,6 @@
 <line speaker="Sholmes">What?! Shamspeare! Give us a clue, man!</line>
 <line speaker="Susato">You didn't even have the chance to utter a word, Mr Naruhodo. But anyway, at least we've found out what's inside the box.</line>
 <line speaker="Ryunosuke">Yes, thin air. It's empty, rather like how I Feel inside. <thought>Is there nothing more to this box, then? I wonder...</thought></line>
-<line speaker="After clearing all options">Miaow...</line>
 <line speaker="Susato">Oh look! It's that lovely little kitty cat! What was its name...?</line>
 <line speaker="Ryunosuke">It's Mr Natsume's, isn't it? I don't think we ever asked him, actually. Why don't we call it, um...Wagahai? You know, like Mr Natsume refers to himself in Japanese. <thought>I wonder how he got in here? Clever cat...</thought></line>
 <line speaker="Susato">Oh, wonderful! Well then, Wagahai...here's something delicious I bought for you from the cats' meat man!</line>
@@ -400,7 +397,6 @@
 <line speaker="Ryunosuke">That was a cheeky little miaow, Wagahai.</line>
 <line speaker="Susato">Oh, but he's so adorable! I could sit and watch him forever!</line>
 <line speaker="Ryunosuke">I think...he may not appreciate that after a while. And we have an investigation to get back to.</line>
-<line speaker="After clearing Converse options in Naruhodo's Legal Consultancy and clearing all options in Mr Natsume's Lodgings, Ground Floor">22nd February</line>
 <line speaker="Susato">Oh! Mr Natsume is back!</line>
 <line speaker="Ryunosuke">So he is. ...Mr Natsume! Hello!</line>
 <line speaker="Soseki">I...am a cat.</line>
@@ -468,7 +464,6 @@
 <line speaker="Susato">What?!</line>
 <line speaker="Soseki">He's already taken one young man's life. And now... ...he's trying to take the life of another! A miserable, moustached, much-maligned Japanese man!</line>
 <line speaker="Ryunosuke">Mr Natsume, if you know something, please... You must tell us! Tell us everything you can about this 'evil spirit'!</line>
-<line speaker="After clearing "Capital offender, Selden" and "The convict's curse" Converse options in Local Prison, Cell 9">22nd February</line>
 <line speaker="Ryunosuke">Ah, you're here now, Mr Garrideb.</line>
 <line speaker="Garrideb">Right bally business it is for me, you know. Getting out and about.</line>
 <line speaker="Ryunosuke">Were you at the Old Bailey, by any chance?</line>
@@ -556,7 +551,6 @@
 <line speaker="Sholmes">Ah, the young gentleman who died in the room in mysterious circumstances. Just what Mr Moustache was waiting for, one might say...</line>
 <line speaker="Garrideb">...Yes, young Duncan lived in the room at the top of the first flight of stairs before that Japanese chap.</line>
 <line speaker="Ryunosuke">Would you mind telling us a little more about him?</line>
-<line speaker="After clearing all Converse options">Garrideb:</line>
 <line speaker="Ryunosuke">Yes?</line>
 <line speaker="Garrideb">About young Duncan. The night before the poor chap perished... ...he'd been writing a letter. A letter of affection to a young lady.</line>
 <line speaker="Susato">A love letter, you mean?!</line>
@@ -576,7 +570,6 @@
 <line speaker="Ryunosuke">O... Olive Green?! <thought>The woman who was plunged into a coma after a knife plunged into her back outside this house five days ago! The victim of the last case Soseki-san was in court for, who regained consciousness only yesterday! Is it just chance that her name has come up now? Could it possibly be a mere coincidence?</thought></line>
 <line speaker="Susato">Mr Naruhodo, whatever can this mean?</line>
 <line speaker="Sholmes">...Reading personal correspondence can have its merits, you see, Miss Susato. Ah ha ha ha hah!</line>
-<line speaker="After clearing all Converse options in Local Prison, Cell 9 and Mr and Mrs Garrideb's Room">22nd February</line>
 <line speaker="Susato">Mr Naruhodo, I've just finished speaking with the doctor. It seems Miss Green is well enough to be discharged at last.</line>
 <line speaker="Ryunosuke">This is good news. But hopefully, just before she leaves-</line>
 <line speaker="Susato">Ah!</line>
@@ -646,7 +639,6 @@
 <line speaker="Ryunosuke"><thought>Honey, maybe... Or treacle... Or syrup... Or all three mixed together, even...</thought></line>
 <line speaker="Susato">Mr Naruhodo... ...you've been having a lot of very mean thoughts during this exchange. I'm disappointed in you.</line>
 <line speaker="Ryunosuke">...Sorry.</line>
-<line speaker="After clearing Converse option and presenting Hidden Photograph">Green:</line>
 <line speaker="Ryunosuke">Oh, I'm so sorry! We didn't mean to hold you up. Of course, we'll be on our way-</line>
 <line speaker="???">Mr Naruhodo!</line>
 <line speaker="Sholmes">Surely you were not about to leave? That's quite out of the question!</line>
@@ -713,7 +705,6 @@
 <line speaker="Susato">Goodness...</line>
 <line speaker="Ryunosuke">So that's what you were doing on Briar Road that day.</line>
 <line speaker="Green">......... I'm sorry I didn't say anything before.</line>
-<line speaker="After clearing all Converse options">Green:</line>
 <line speaker="Ryunosuke">...Yes, I'm very sorry to have had to drag up such painful memories for you.</line>
 <line speaker="Green">No, it's fine.</line>
 <line speaker="Susato">Miss Green... ...please, promise us you won't try to...do anything like that again.</line>

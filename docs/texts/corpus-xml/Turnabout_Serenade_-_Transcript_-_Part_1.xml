@@ -184,7 +184,6 @@
 <line speaker="Klavier">I wrote those lyrics, you know. Though it was Lamiroir who gave them life.</line>
 <line speaker="Trucy">Wow... That's beautiful!</line>
 <line speaker="Apollo"><thought>Grr. Maybe I should try to write some lyrics someday.</thought></line>
-<line speaker="After clearing all Talk options">Klavier:</line>
 <line speaker="Trucy">Oh! There's more?</line>
 <line speaker="Klavier">Yes! Lamiroir's part is done. Now it's time for us to drop our groove again, ja? Hope you're ready to catch it.</line>
 <line speaker="Trucy">Woo hoo! Ready, Apollo?</line>
@@ -628,7 +627,6 @@
 <line speaker="Apollo">A guitar case key... <thought>I'll bet I know who this belongs to.</thought></line>
 <line speaker="Trucy">...... Thanks for taking the fun out of my danger pin.</line>
 <line speaker="Apollo"><thought>Aw, you're driving a danger pin through my heart here.</thought></line>
-<line speaker="After examining brooch, revolver, and LeTouse's right hand, and clearing all Talk options">Ema:</line>
 <line speaker="Apollo">I guess you're right.</line>
 <line speaker="Ema">I know how you're feeling. It is hard to know when to stop. But anything more involved has to wait until the squad gets here.</line>
 <line speaker="Trucy">Argh... I suppose...</line>
@@ -808,8 +806,8 @@
 <line speaker="Klavier">First, a quick review: use the sliders to adjust volumes. Press the section of the song you wish to hear on the bottom bar.</line>
 <line speaker="Apollo"><thought>Sliders and the bar, got it.</thought></line>
 <line speaker="Klavier">Once you've found the guilty part, press the corresponding number! Time to rock!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">This part sounds a little off.</line>
 <line speaker="Klavier">Let's see............... ...Herr Forehead.</line>
 <line speaker="Apollo">Yes?</line>
@@ -870,8 +868,8 @@
 <line speaker="Klavier">No, no, give Herr Forehead a chance. Let's see your evidence of the connection, shall we?</line>
 <line speaker="Apollo">E-Evidence!? <thought>Ack! I'd better think of something pronto!</thought></line>
 <line speaker="Trucy">C'mon c'mon c'mon! Let's see it! What's the connection between all of Mr. Gavin's troubles?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The connection... is this! Right?</line>
 <line speaker="Trucy">Um, I would say you were close, but really, you're kinda far. Remote, even.</line>
 <line speaker="Apollo"><thought>Oops. Try not to anger the Trucy, Apollo. No sudden motions... Just find that evidence slowly.</thought></line>
@@ -928,7 +926,6 @@
 <line speaker="Klavier">Herr Forehead, save your wild accusations for the court. I do so enjoy the penalties.</line>
 <line speaker="Klavier">Sorry, but I'm not in the mood to talk about that right now. Even I can only take so much in one day.</line>
 <line speaker="Apollo"><thought>Funny, I always thought of Prosecutor Gavin as one of those cool, stoic types. The sort that never complains. How wrong I was!</thought></line>
-<line speaker="After clearing "The missed cue" and "The song's prediction" Talk options">Daryan:</line>
 <line speaker="Klavier">Seems a bit more than just a coincidence to me.</line>
 <line speaker="Daryan">I have to agree. The key ring, the guitar, and the murder...</line>
 <line speaker="Apollo">The key ring might have been dropped by accident.</line>
@@ -1054,7 +1051,6 @@
 <line speaker="Lamiroir">Well... he was only with me for three months. I'm afraid there is much I do not know about him. And now, I shall never know. No one will even tell me why he has died.</line>
 <line speaker="Apollo">I-I'm sorry... Prosecutor Gavin said we weren't to talk to anyone...</line>
 <line speaker="Lamiroir">Mr. LeTouse... was a talented man. The "Siren of the Ballad"... That phrase was his idea, you know. I am happy for him that it has become so well known.</line>
-<line speaker="After clearing "Lamiroir" and "Mr. LeTouse" Talk options">Apollo:</line>
 <line speaker="Trucy">Huh? Apollo?</line>
 <line speaker="Apollo">You are "the Siren", right Lamiroir?</line>
 <line speaker="Lamiroir">That is the meaning of my name in Borginese, yes. It was the name my producer gave me. But why do you ask?</line>
@@ -1091,7 +1087,6 @@
 <line speaker="Apollo">Would you mind taking a look at this, Lamiroir?</line>
 <line speaker="Lamiroir">...... I'm sorry, I'm not sure what to say. I wish I could help you.</line>
 <line speaker="Apollo">Ah, don't worry about it. <thought>Certainly one of the most pleasant refusals I've had.</thought></line>
-<line speaker="After clearing "The "Siren"" Talk option">Apollo:</line>
 <line speaker="Lamiroir">Might I ask, are you with the police?</line>
 <line speaker="Apollo">Eh! Uh, well, no. I'm a defense attorney.</line>
 <line speaker="Lamiroir">An attorney? Yet there have been no arrests, yes?</line>
@@ -1102,7 +1097,6 @@
 <line speaker="Apollo">Ack... <thought>Why...? If she witnessed the crime, why won't she tell us...?</thought></line>
 <line speaker="Lamiroir">I believe we are through here.</line>
 <line speaker="Apollo">...I believe so.</line>
-<line speaker="After examining postcard, clearing "The "Siren"" Talk option, and presenting Brooch in Gavinners Dressing Room">July 8, 12:22 AM</line>
 <line speaker="Apollo">Whoa! Who's there now!?</line>
 <line speaker="Ema">Ah, it's you. ...Where were you!?</line>
 <line speaker="Apollo">Ack! Ema! ...Is something wrong? <thought>She's looks grumpier than usual.</thought></line>

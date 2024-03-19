@@ -67,12 +67,12 @@
 <line speaker="Judge">Please, no intimidation tricks this time around. Is that understood?</line>
 <line speaker="Phoenix">I already told you! That wasn't me!</line>
 <line speaker="Gumshoe">When the incident took place, the victim was alone at his table, sir.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Can I stop you for just a minute?</line>
 <line speaker="Gumshoe">Huh? What is it? Did I say something that contradicts the evidence?</line>
 <line speaker="Phoenix"><thought>He'd so desperate for that to be true, he's practically crying!</thought> Your testimony just now doesn't match the testimony given by Ms. Byrde. She claims that there was another man at the victim's table.</line>
 <line speaker="Gumshoe">Yeah, that's what she said. And I--</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">What killer wouldn't say that when faced with a homicide conviction?</line>
 <line speaker="Phoenix">Hey!</line>
 <line speaker="Godot">Sadly, her testimony isn't supported by the owner or the other customer. Isn't that right, Detective Gumshoe?</line>
@@ -93,7 +93,7 @@
 <line speaker="Phoenix">Urk!</line>
 <line speaker="Judge">It certainly seems to show the victim's table extremely clearly.</line>
 <line speaker="Gumshoe">We understand that the guy, Glen Elg, was listening to the radio at the time.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">He was listening to his radio, you say?</line>
 <line speaker="Gumshoe">Yeah. He had a portable radio in his chest pocket.</line>
 <line speaker="Maya">Maggey told us that too, didn't she? Something about how "one of them had some sort of earpiece".</line>
@@ -107,13 +107,13 @@
 <line speaker="Maya">This isn't going very well, is it...?</line>
 <line speaker="Judge">Hmm... Detective. Could you perhaps tell us about the poison and how it was used?</line>
 <line speaker="Gumshoe">Traces of poison were found in his coffee cup.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, traces of the poison were found in the coffee cup and nowhere else?</line>
 <line speaker="Gumshoe">Not sure I get you, pal.</line>
 <line speaker="Phoenix">Was the poison a liquid? Or was it a powder?</line>
 <line speaker="Gumshoe">If I had to put it in layman's terms, I'd say it was a powdery substance.</line>
 <line speaker="Phoenix">So the poison could've been in anything that was on the table. Sugar, salt, pepper...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! Do you put salt and pepper in your coffee, Trite?</line>
 <line speaker="Gumshoe">The victim took his coffee black, with no sugar.</line>
 <line speaker="Phoenix">Nngh...</line>
@@ -126,7 +126,7 @@
 <line speaker="Gumshoe">Huh!? What do you mean?</line>
 <line speaker="Phoenix">According to this file, "the poison was found in the victim's coffee cup." But what proof is there that the victim ever drank any of it!?</line>
 <line speaker="Gumshoe">Oh, hey! You're right! That's what I was think--</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">In case you were wondering, that last objection was for the detective there.</line>
 <line speaker="Gumshoe">Huh? For me?</line>
 <line speaker="Godot">"Oh, hey! You're right!"? You may be fooling the court, but I'm not falling for it. If you have the time to waste, you have the time to present that piece of evidence.</line>
@@ -143,7 +143,7 @@
 <line speaker="Gumshoe">For the record, the only prints on the cup were the victim's and the defendant's.</line>
 <line speaker="Gumshoe">Upon further investigation of this cup... we found a certain chemical substance...</line>
 <line speaker="Gumshoe">And what we found was potassium cyanide. That stuff really packs a punch!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix"><thought>Potassium cyanide? I've heard of that chemical before...</thought> Exactly how strong is this poison, Detective Gumshoe?</line>
 <line speaker="Gumshoe">It's... Well... That stuff's lethal! Eat too much, and you're history.</line>
 <line speaker="Maya">How much is too much?</line>
@@ -153,10 +153,10 @@
 <line speaker="Phoenix"><thought>Earwax, huh? Sounds like something Gumshoe's got an abundance of...</thought></line>
 <line speaker="Judge">Hmm... Such a small quantity of poison could have been concealed anywhere.</line>
 <line speaker="Gumshoe">And, um... it looks like Ms. Byrde might've had, well... some kind of a motive.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Some kind of a motive"?</line>
 <line speaker="Gumshoe">Yeah. But if you ask me, it's been blown way out of proportion.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">You know what my golden rule is, Detective? Chuck out a bad cup of coffee. You can always get another.</line>
 <line speaker="Gumshoe">Huh? I don't get it.</line>
 <line speaker="Godot">I'm saying, we can always get another witness on the stand, if we have to chuck you out.</line>
@@ -188,7 +188,6 @@
 <line speaker="Phoenix">To be honest, I don't know.</line>
 <line speaker="Maya">But Gumshoe told us out in the lobby. He said we'd be forming a united front, right? How will we win the case if he doesn't throw us a line?</line>
 <line speaker="Phoenix"><thought>I don't have a whole lot of options right now... The best I can do is gather the facts together, I guess.</thought></line>
-<line speaker="After fully pressing first, third and fifth statements">Judge:</line>
 <line speaker="Godot">I like an old man who knows the score.</line>
 <line speaker="Judge">There is also the matter of the half a million dollar lottery ticket. That alone provides a very credible motive. I mean, for that sum of money even I might be tempted to bend the rules!</line>
 <line speaker="Godot">I don't like an old man who is weak to the siren call of money.</line>
@@ -234,7 +233,7 @@
 <line speaker="Phoenix">...!</line>
 <line speaker="Godot">Don't court on any more cross-examinations after this one! So, let the fun begin!</line>
 <line speaker="Gumshoe">The crime was reported at 2:25 PM by a kind of scary old man, sir.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Scary old man", Detective Gumshoe?</line>
 <line speaker="Gumshoe">There's an old man who's a regular at the restaurant where the incident happened.</line>
 <line speaker="Phoenix"><thought>Ah, we're obviously talking about the same old man...</thought></line>
@@ -244,7 +243,7 @@
 <line speaker="Phoenix"><thought>I guess not even the mighty Godot can avoid being attacked by that guy...</thought></line>
 <line speaker="Godot">The old man was only other customer in the place at the time. He took his time finding a pay phone apparently, so he was late reporting the crime.</line>
 <line speaker="Gumshoe">Poor Maggey had passed out from the shock. It must've been real tough for her.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How long was the defendant unconscious for?</line>
 <line speaker="Gumshoe">The officers got to the crime scene at around 2:40. Maggey was still out cold in the kitchen at that time. It took another 10 minutes or so before she came to. I woulda liked to have been on the scene myself.</line>
 <line speaker="Phoenix"><thought>I bet you would've liked to have carried out the search, too...</thought></line>
@@ -253,7 +252,7 @@
 <line speaker="Godot">Save the romantics for your own time, Detective. All we need to know about is the investigation.</line>
 <line speaker="Gumshoe">Oops! I guess I'm pretty red right now, aren't I?</line>
 <line speaker="Gumshoe">The victim didn't have any identification on him.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">He didn't have any? Are you saying that it was stolen, then?</line>
 <line speaker="Gumshoe">No, I don't think so. The victim didn't have a driver's license or even a credit card on him, pal. All he had was 58 cents in his wallet.</line>
 <line speaker="Phoenix">Fifty-eight cents...?</line>
@@ -262,7 +261,7 @@
 <line speaker="Godot">Or some kind of outlaw... Why not give him a bit of an edge?</line>
 <line speaker="Phoenix"><thought>I think I'm on to something here...</thought></line>
 <line speaker="Gumshoe">But we figured out who he was pretty quick, and then the investigation went smoothly.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Wait a sec!</line>
 <line speaker="Gumshoe">Huh? D-Did I say something dumb again!?</line>
 <line speaker="Phoenix">Let me paraphrase what you just testified to this court. "The victim didn't have any form of ID on him." That's basically what you said, yes?</line>
@@ -296,19 +295,19 @@
 <line speaker="Maya">Looks like we're off course again, Nick.</line>
 <line speaker="Judge">Witness. Please continue with your testimony. Explain for the court the events following the preliminary investigation.</line>
 <line speaker="Gumshoe">When Maggey was searched, we found the lottery ticket and the bottle of poison.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">But the defendant had been passed out for a while, correct? In that case... Isn't it possible someone planted the evidence in Maggey's pocket!?</line>
 <line speaker="Gumshoe">Hey! Y-Yeah! You've nailed it, pal!</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Gumshoe">It happens to me all the time! We had a department party the other day, and when I got home... ...I was wearing the boss's shoes!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Keep up this crazy testimony, Detective, and those shoes will end up down your throat!</line>
 <line speaker="Gumshoe">Sorry...</line>
 <line speaker="Godot">So, Trite. "Someone planted the evidence in Maggey's pocket"...? That's a pretty bold statement. Care to back it up with some evidence?</line>
 <line speaker="Phoenix">Um... Well... <thought>I'd love to, if I had any...</thought></line>
 <line speaker="Judge">It appears you have no evidence to support your theory, Mr. Wright. Continue with your testimony, witness.</line>
 <line speaker="Gumshoe">And that was it. There was nothing else missing from the crime scene.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So the half a million dollar lottery ticket and the bottle of poison were accounted for.</line>
 <line speaker="Gumshoe">Yeah.</line>
 <line speaker="Phoenix">Interesting... It's true that those two items are accounted for... ..but wasn't there another lottery ticket that was stolen that day?</line>
@@ -316,7 +315,7 @@
 <line speaker="Phoenix"><thought>And they're just going to let him get away with it...?</thought></line>
 <line speaker="Judge">It was just one dollar, Detective.</line>
 <line speaker="Maya">I guess no one cares when it's that little... Unless it's Gumshoe.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">If I don't find a hole in this testimony, the judge is going to hand down his verdict!</line>
 <line speaker="Maya">Gumshoe isn't giving us anything to work with... And we can't find any contradictions if he doesn't give us something!</line>
 <line speaker="Phoenix">Yeah, that's true... But Maggey and Gumshoe are like dumb and dumber. Our only hope is that they were so dumb, they missed something obvious.</line>
@@ -357,18 +356,18 @@
 <line speaker="Phoenix">Uh... Umm...!</line>
 <line speaker="Maya">Nick! Don't let him to do this! You've got to stand your ground!</line>
 <line speaker="Judge">Now then...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Wait, Your Honor! Actually, this prescription... is absolutely pivotal to the case!</line>
 <line speaker="Judge">Mr. Wright! Did you not just say the exact opposite only moments ago!?</line>
 <line speaker="Phoenix"><thought>Gotta lose a few battles in order to win the war, I suppose.</thought></line>
 <line speaker="Phoenix">Only moments ago, Mr. Godot made the following statement. "It seems Mr. Elg correctly applied some of his medication while he was at Trés Bien." If that's the case, then why was the medication not found at the scene of the crime!?</line>
 <line speaker="Godot">...!</line>
 <line speaker="Judge">But the medication in question was for topical use inside the ear canal!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">That doesn't change the fact that it could not be found at the crime scene! However insignificant it may seem, it's a lawyer's duty to pursue the truth!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">You know as well as I do that the medication is irrelevant. It hardly seems likely that a prescription drug would contain potassium cyanide.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">It hardly seems likely that the coffee the waitress served would contain it, either! But it did! The possibility is undeniable!</line>
 <line speaker="Godot">Aaargh!</line>
 <line speaker="Judge">That's enough. Mr. Godot. Is the detective the only witness the prosecution wishes to call?</line>
@@ -428,7 +427,7 @@
 <line speaker="Judge">Well, um... I think it's time to begin the cross-examination, Mr. Wright.</line>
 <line speaker="Phoenix">Y-Yes, Your Honor.</line>
 <line speaker="Kudo">The young man was reading the sports paper.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you saw the victim, then? You saw Mr. Glen Elg?</line>
 <line speaker="Kudo">I wanted to know if Gusten Brawn retained his championship or not.</line>
 <line speaker="Phoenix"><thought>So he was looking at the sports paper the victim was reading, huh...</thought> And at the location in question... ...there are partitions between tables on the same side of the restaurant, right?</line>
@@ -437,7 +436,7 @@
 <line speaker="Kudo">Kah! I go to that place to drink javaccino! I don't go to sit! I don't remember what table I was sitting at!</line>
 <line speaker="Phoenix"><thought>You mean you go there to eye the waitress!</thought></line>
 <line speaker="Kudo">The serving girl brought him a javaccino... But she put something in it!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Kudo. That is a very grave accusation. Are you sure about what you saw?</line>
 <line speaker="Kudo">Victor Kudo never makes mistakes! I dot every t and cross every i!</line>
 <line speaker="Phoenix">I see...</line>
@@ -450,7 +449,7 @@
 <line speaker="Judge">Hmm... I agree. will you enlighten us, please?</line>
 <line speaker="Kudo">Sure, sure.</line>
 <line speaker="Kudo">There's no question about it! She very conspicuously put some white powder in there.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">D-Did she really put that into the coffee?</line>
 <line speaker="Kudo">You doubt me, boy!? She too some out of a small, brown bottle and sprinkled it in.</line>
 <line speaker="Phoenix">Couldn't she have been adding sugar?</line>
@@ -462,7 +461,7 @@
 <line speaker="Godot">So what did the accused put into the coffee? I think it's clear, don't you?</line>
 <line speaker="Phoenix">Argh...</line>
 <line speaker="Kudo">The man took one sip of it, looked like he was in terrible pain, and then collapsed.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">He took just one sip?</line>
 <line speaker="Kudo">You young'uns! You waste everything! Those javaccinos cost 8 dollars! In the good old days, we would have drank every last drop, eaten the cup, and then died!</line>
 <line speaker="Phoenix"><thought>Congratulations. You have earned the title of Battiest Man To Grace A Courtroom.</thought></line>
@@ -471,12 +470,12 @@
 <line speaker="Godot">Oh, yes. I know that feeling.</line>
 <line speaker="Judge">And the waitress? I presume she is...?</line>
 <line speaker="Kudo">That's the serving girl, right there in the defendant's chair. I remember her well!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You said, "I remember her well" in reference to the waitress... Did she have any particular features that you can identify her by?</line>
 <line speaker="Kudo">Particular features!? It's a disgrace, that's what it is!</line>
 <line speaker="Phoenix">Sorry?</line>
 <line speaker="Kudo">You can see all the way up to her... her... You know! She's practically naked in that uniform!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">So the particular feature you recognize about the waitress is... her outfit!? But anyone could wear just such an [sic] uniform! Even me!</line>
 <line speaker="Judge">Mr. Wright! Please spare the court of any further mental anguish from that image.</line>
 <line speaker="Maya">Don't get all excited, Nick! You've gotta keep yourself together!</line>
@@ -489,10 +488,10 @@
 <line speaker="Kudo">Sure, sure.</line>
 <line speaker="Add statement">"There was a ribbon in her hair, and her apron's straps were loose."</line>
 <line speaker="Kudo">There was a ribbon in her hair, and her apron's straps were loose.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You do seem to remember several details about her appearance. But what about the most crucial detail of all... her face?</line>
 <line speaker="Kudo">Kah! As if I wouldn't remember that!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">The witness noticed the straps on the accused's apron. He'd unlikely to make a mistake about her face.</line>
 <line speaker="Kudo">That's right! I can even tell you the color of the ribbon in her hair. It was red!</line>
 <line speaker="Godot">So you see, there's nothing wrong with the witness's eyesight.</line>
@@ -503,7 +502,7 @@
 <line speaker="Kudo">Wh-What?</line>
 <line speaker="Phoenix">The ribbon in her hair, the straps on her apron. What's the fascination?</line>
 <line speaker="Kudo">F-Fascination?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">People have all kinds of fetishes, Trite. We don't need to embarrass the witness.</line>
 <line speaker="Kudo">Listen, you young upstarts! I haven't got some sick strap fetish!</line>
 <line speaker="Judge">Hmm... Is there any relevance to the witness's unusual love of straps, Mr. Wright?</line>
@@ -514,7 +513,7 @@
 <line speaker="Phoenix">The identifying "features" you described are all things you would see from the back.</line>
 <line speaker="Kudo">So what?</line>
 <line speaker="Phoenix">Is it possible that... ...you never saw the waitress from the front at all!?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! He's got you there, gramps!</line>
 <line speaker="Phoenix">People normally talk about facial features when they're asked to describe someone. But this witness's testimony is nothing but straps and ribbons!</line>
 <line speaker="Kudo">Th-This is harassment! I tell you I'm not obsessed with straps or ribbons! I'm just telling you what I saw!</line>
@@ -523,13 +522,13 @@
 <line speaker="Maya">The old man's testimony is getting longer and longer!</line>
 <line speaker="Phoenix">And if I can't find a hole in it soon, it'll get even longer, I bet.</line>
 <line speaker="Kudo">There wasn't anything that caught my interest about her when I saw her from the front.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You didn't find anything to be distinct, but you did clearly see the witness's face, yes?</line>
 <line speaker="Kudo">No question about it! I didn't come this far to back down now! Victor Kudo never backs down!</line>
 <line speaker="Phoenix"><thought>That's not the answer I was looking for, but OK...</thought></line>
 <line speaker="Maya">This has turned into a matter of pride for Old Seedy now, I guess... I wonder if he really did see Maggey's face or not...</line>
 <line speaker="Phoenix"><thought>Like I thought, we need some concrete proof of this. Proof that the old guy didn't see the waitress clearly from the front.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Do you think Old Seedy really saw Maggey do it?</line>
 <line speaker="Phoenix">Well, he probably had his eye on the waitress the whole time. That's why he was there.</line>
 <line speaker="Maya">But he was there for the cute outfits, right? Not the waitress...</line>
@@ -569,7 +568,7 @@
 <line speaker="Maya">Just trip him up, you mean? Isn't that kind of cruel?</line>
 <line speaker="Phoenix"><thought>I suppose... But it's what I do best.</thought></line>
 <line speaker="Kudo">He was another of those pesky young types, wearing a broken pair of spectacles.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Spectacles?</line>
 <line speaker="Kudo">Dark glasses to you! One of the lenses was green, but the other was broken. Newfangled rubbish! That's why I remember him so well.</line>
 <line speaker="Phoenix"><thought>He did have some kind of lens over his left eye... But I wouldn't have called it a pair of glasses.</thought></line>
@@ -577,7 +576,7 @@
 <line speaker="Maya">Ah! We better come up with something sharp, and quick!</line>
 <line speaker="Phoenix"><thought>Guess I'll wait and see if I should challenge him about the "spectacles"...</thought></line>
 <line speaker="Kudo">He had a newspaper in his right hand, and the noisy brat kept rustling its pages!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The newspaper was a sports paper, was it?</line>
 <line speaker="Kudo">That young hooligan! I nearly asked him, "Can't you even read without fidgeting, hmm!?" How was I supposed to be able to read the back page with all that rustling going on!? I needed to find out if Gusten Brawn retained his championship title!</line>
 <line speaker="Phoenix"><thought>It was his paper, not yours! If you wanted to know so bad, why didn't you buy your own!?</thought></line>
@@ -585,7 +584,7 @@
 <line speaker="Phoenix">Ow! Ooow!</line>
 <line speaker="Maya">Gusten Brawn got beaten yesterday, by the way. Anyway...</line>
 <line speaker="Kudo">The young man was listening to the wireless. I remember that well.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The wireless?</line>
 <line speaker="Kudo">The decadent young rascal! In my day, it was one or the other! Read the paper, or listen to the wireless!</line>
 <line speaker="Phoenix"><thought>...Oh boy.</thought></line>
@@ -594,14 +593,14 @@
 <line speaker="Kudo">What are looking at me like that for, hmm!? How dare you feel sorry for me!</line>
 <line speaker="Phoenix">Ow! Oooow!</line>
 <line speaker="Kudo">Then the serving girl in question brought over the javaccino.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean the waitress, who you only saw from behind, right?</line>
 <line speaker="Kudo">You're one of those, are you? You never let anything go, isn't that right?</line>
 <line speaker="Phoenix">...Maybe.</line>
 <line speaker="Kudo">What does it matter if I saw her from the front or from behind!? My eyes don't lie!</line>
 <line speaker="Phoenix">Ow! Oooow! <thought>I better not push it until I've got some hard evidence.</thought></line>
 <line speaker="Kudo">The little fidget picked up the cup with his free hand and took a sip.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"His free hand"?</line>
 <line speaker="Kudo">Yes.</line>
 <line speaker="Phoenix">Which hand was that?</line>
@@ -609,7 +608,7 @@
 <line speaker="Phoenix">Ow! Oooow!</line>
 <line speaker="Godot">Ha...! Perhaps the great Mr. Trite has three hands!</line>
 <line speaker="Phoenix"><thought>Yeesh! I was only asking! No need to gang up on me and treat me like a freak!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>The whole point of this cross-examination is to establish just one thing... That this old guy's memory has more holes than a slice of Swiss.</thought></line>
 <line speaker="Maya">I guess we just need to find a contradiction in his testimony somewhere, huh?</line>
 <line speaker="Phoenix"><thought>Anything will do. Even the smallest detail. We just need one mistake, and he's ours!</thought></line>
@@ -647,27 +646,27 @@
 <line speaker="Phoenix"><thought>It's true... He doesn't seem to be lying.</thought></line>
 <line speaker="Kudo">And those are the facts, in good old black and white!</line>
 <line speaker="Kudo">The boy was wearing the earpiece on the same side as the green lens of his specs.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So the victim was wearing an HMD.</line>
 <line speaker="Kudo">HDTV, CD, DVD... What does it matter!?</line>
 <line speaker="Phoenix"><thought>It was none of them actually, but anyway...</thought> And you're sure that he was wearing the earpiece on the same side?</line>
 <line speaker="Kudo">No question! I could only see that side of his head from where I was sitting.</line>
 <line speaker="Phoenix"><thought>Yeah. That's pretty obvious if you look at the floor plans. From the opposite table, he'd only have a view of the side of the victim's head.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kudo">He kept fiddling with it all the time.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">It seems you kept an eye on Mr. Glen Elg.</line>
 <line speaker="Kudo">He was getting on my nerves! Rustling that newspaper and fiddling with his earpiece all the time! And then he went and made all that fuss dying from one sip of javaccino! I wanted to say to him, "Calm down, you young brat!" Just looking at him made me suddenly speed up my seed eating! I could've chocked!</line>
 <line speaker="Phoenix"><thought>So I take it the victim was a walking ball of nervous energy...</thought></line>
 <line speaker="Kudo">He was fiddling with it just before he picked up the cup, too.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The earpiece you mentioned... Which hand did the victim touch it with?</line>
 <line speaker="Kudo">... You're one of those people! One of those people who uses his left hand to get things out of his right pocket. Or fastens his left cuff with his right hand? And when the tour guide says, "On your right side, you'll see the famous blah-blah"... ...you're the only one who deliberately looks left! Well? Aren't you?</line>
 <line speaker="Phoenix">N-No! I didn't mean...</line>
 <line speaker="Kudo">Obviously he used the hand on the same side of his body that the earpiece was in!</line>
 <line speaker="Phoenix">Ow! Oooow! Ow! <thought>So, if he had the HMD on his left side, then it was his left hand, I guess...</thought></line>
 <line speaker="Kudo">And then he used the same hand to pick up the cup. His left hand!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You seem very sure of yourself, Mr. Kudo.</line>
 <line speaker="Kudo">That's because I know what I saw, no matter what tricks you try to play on me!</line>
 <line speaker="Phoenix"><thought>It looks like he really did see the guy picking the cup up with his left hand. This is a dead end!</thought></line>
@@ -694,11 +693,11 @@
 <line speaker="Judge">This is the victim's coffee cup in which the potassium cyanide was found. The mark on the rim clearly shows that the victim picked it up with his right hand!</line>
 <line speaker="Kudo">I'll never back down! I know I'm right! The lad drank his javaccino with his left hand!</line>
 <line speaker="Godot">Let me put you out of your misery... Clearly, the victim used both hands. He took a sip with the cup held in his right hand, and then switched to his left... That's what the old man saw!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Impossible! The witness has already testified on numerous occasions... ...that the victim died immediately after taking just one sip of the coffee.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Which hand the victim used to pick up his cup is irrelevant, Your Honor. The facts still stand! With one hand or the other, Mr. Elg drank the poisoned coffee... ...Like this!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Sadly, Mr. Godot, that doesn't wash! The point of this testimony was to establish whether the witness's memory was credible. And the results are clear! The testimony given by this witness is useless!</line>
 <line speaker="Godot">Puuuurgh!</line>
 <line speaker="Judge">I believe it is time to conclude today's proceedings. I am satisfied that the witness is not deceiving the court. But to be frank, his testimony is a farce!</line>
@@ -731,13 +730,13 @@
 <line speaker="Kudo">You're a birdbrain, that's why that's all you can think of!</line>
 <line speaker="Judge">Very well... Mr. Wright. Your final cross-examination, please.</line>
 <line speaker="Kudo">First of all, I want to stress that this might be nothing. I'm not too sure of myself.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Um... The court generally prefers if witnesses are sure of themselves, Mr. Kudo.</line>
 <line speaker="Kudo">Noisy brat! I'm warning you, I'm more savage than a macho man right now! You won't beat me with this testimony! This is the final battle!</line>
 <line speaker="Phoenix">Ow! Oooow! <thought>He's chucking those seeds harder than ever! I better be careful...</thought></line>
 <line speaker="Maya">Come on, Nick! Nail him!</line>
 <line speaker="Kudo">The young boy slumped over the table as soon as he took one sip of his javaccino...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The court has already heard that testimony, Mr. Kudo...</line>
 <line speaker="Kudo">I know that! I was just setting the mood. How else am I supposed to build up the suspense, hmm!?</line>
 <line speaker="Phoenix">The suspense?</line>
@@ -745,24 +744,24 @@
 <line speaker="Judge">No, no! Please continue, Mr. Kudo. As quickly as possible!</line>
 <line speaker="Kudo">Alright. Now where was I...? ...Ah yes. The young boy slumped over the table, and...</line>
 <line speaker="Kudo">Well, the clumsy idiot upset the vase. He knocked it right over.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A vase, you say?</line>
 <line speaker="Kudo">Yes. There are vases on all the tables in that place. They're accidents waiting to happen! They're practically begging to be knocked over!</line>
 <line speaker="Phoenix"><thought>Well, he's right about there being vases. I do remember seeing them, too... There was a vase on the table when I ate munch there.</thought> And you saw the moment when the victim actually knocked over the vase?</line>
 <line speaker="Kudo">Well... it's hard to say... It's a bit unclear... How do you really define...</line>
 <line speaker="Phoenix">OK, I get it.</line>
 <line speaker="Kudo">I heard it break! And the sight of it is burned into my memory as clear as day!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kudo">It broke, and the strip of cloth covering the table got completely soaked!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Soaked in water, you mean?</line>
 <line speaker="Kudo">Yes. It splashed me on the knee as well.</line>
 <line speaker="Phoenix">You said you were sitting at a table across the room from the victim, correct? And yet, the water still managed to splash onto you?</line>
 <line speaker="Kudo">... It was cold! I clearly remember it splashing me!</line>
 <line speaker="Phoenix"><thought>Could the water really make it all the way across to the other side of the room...?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kudo">Well!? How about that? Turned things upside-down, hmm?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean, the vase on the victim's table falling upside-down and breaking?</line>
 <line speaker="Kudo">The vase turned upside-down, and my testimony's turning this case upside-down... It's a joke! I just wanted everyone to hear it! What do you think, Captain!?</line>
 <line speaker="Godot">...I'm impressed. By your ability to waste time.</line>
@@ -815,25 +814,25 @@
 <line speaker="Phoenix"><thought>"I'm sorry"? This isn't a piece of testimony! More like a five year old's apology...</thought></line>
 <line speaker="Maya">What the heck are we supposed to do with 3 copies...?</line>
 <line speaker="Judge">That is all. This court is adjourned!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

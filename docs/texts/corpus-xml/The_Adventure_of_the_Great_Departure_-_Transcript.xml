@@ -109,7 +109,7 @@
 <line speaker="Kazuma">......... Yes. I knew that's how you'd feel. Which is exactly why I decided not to tell you. Tsk! Professor Mikotoba shouldn't have stuck his nose in.</line>
 <line speaker="Judge">Very well. The court hereby recognises the defendant's desire to advocate for himself in today's trial.</line>
 <line speaker="Auchi">Well, well... Does the accused admit defeat already? Renouncing his own counsel! Really!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Make no mistake, Counsel... This merely shows that the defendant's innocence is so apparent, he's confident he can speak for himself. Isn't that so, Naruhodo-san?</line>
 <line speaker="Ryunosuke">Hm? ...Oh! Yes, exactly! <thought>Exactly what I WASN'T thinking! I'm not confident at all. In fact, my mind's a complete blank...</thought></line>
 <line speaker="Kazuma">I realize you're in charge now, but still... Try not to look so bewildered.</line>
@@ -133,7 +133,7 @@
 <line speaker="Kazuma">This is the list of evidence you've collected. Now try switching to 'People' instead with [R / RB / E]. You'll find details about the victim in here. When you're done, just press [B / Z] to go back. So remember, everything to do with the current case can be found in the Court Record. Now, you'd better not keep His Excellency waiting any longer. Go on. Find the victim in the 'People' section of the Court Record, then press [X / Y / R] to 'Present'. Try it now.</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Oh? Then why is that pompous-looking boy with the billowing headband still there standing next to you?!</line>
 <line speaker="Ryunosuke">Oops!</line>
 <line speaker="Kazuma">'Oops!' doesn't do that justice. Not content with having killed Dr Wilson, now you're claiming my murder as well?</line>
@@ -221,7 +221,7 @@
 <line speaker="Ryunosuke"><thought>That fits in with my memory of it, too. There was hardly anyone else in the place.</thought></line>
 <line speaker="Hosonaga">Ahem! ...Ahem! It was when I was in the kitchen, putting away crockery and cutlery... A gunshot rang out, so I hurried out to the dining area to see what had happened. I found the victim - an English gentleman - slumped in his chair. And standing immediately beside him, gun in hand, was the accused university student.</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">I believe I asked you to refrain from petty interjections. The court wishes to listen to the witness's report of what he saw, you amateur!</line>
 <line speaker="Ryunosuke">But...</line>
 <line speaker="Judge">The next time you interrupt at an inappropriate time, you will be penalised, Defendant Naruhodo.</line>
@@ -244,7 +244,7 @@
 <line speaker="Ryunosuke">...Alright, you've scared me. I won't forget that piece of advice in a hurry! <thought>And there IS something I want to say. I'm just going to shut my eyes and say it!</thought></line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Just a moment, please! Dr Wilson wasn't alone that day! I'm sure of it. There was a lady sitting with him at the same table!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Dear me, dear me. What are we going to do with you? With your blatant disregard for court proceedings, I'm beginning to wonder if you're not a fraud. Could it be that the accused - this mere student - is not a real lawyer after all?</line>
 <line speaker="Ryunosuke">But...I'm sure of what I saw!</line>
 <line speaker="Kazuma">Hosonaga-san, is there any chance you're mistaken? Perhaps your memory of events is hazy?</line>
@@ -326,7 +326,7 @@
 <line speaker="Auchi">Dear me, dear me. Let me guess? 'The hachimaki headband boy next door told me to do it.' How pathetic.</line>
 <line speaker="Ryunosuke">Huh? <thought>How did he know?</thought></line>
 <line speaker="Auchi">The prosecution objects! This is a clear waste of time. The defendant obviously has no experience. How can he possibly carry out a cross-examination?</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">The defence is asserting its RIGHT to a cross-examination! Whether or not you think he's capable of it is irrelevant.</line>
 <line speaker="Auchi">*Gulp!*</line>
 <line speaker="Ryunosuke"><thought>Kazuma is so commanding!</thought></line>
@@ -530,7 +530,7 @@
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Auchi">Please! Enough of these outbursts already!</line>
 <line speaker="Ryunosuke">But there was a woman! There was a young woman at his table! You must have seen her! Everyone there must have seen her!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">If you call yourself a lawyer, then you will respect the rules of the court and speak accordingly! We are not here to listen to your fantasies!</line>
 <line speaker="Ryunosuke">Ugh...</line>
 <line speaker="Auchi">It is evident beyond all reasonable doubt that the victim was alone at the time of the incident. The prosecution has photographic evidence of this fact. </line>
@@ -580,7 +580,7 @@
 <line speaker="Korekuta">Anyway, the fact remains... Myself, I did see you. With pistol in hand, standing over the foreigner.</line>
 <line speaker="Nosa">Furthermore! A visual search of the premises at the time confirmed that we were the only personnel present.</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">As you have been at pains to point out time and again. I feel I'm growing a callus in my ear! And yet, no one else appears to have caught even a glimpse of this woman!</line>
 <line speaker="Ryunosuke">Argh... <thought>If only there'd been more people dining there at the time! Then someone else would have noticed her.</thought></line>
 <line speaker="Kazuma">Unfortunately, it was already past 2 p.m. when it happened. The quiet time between lunch and dinner in any restaurant.</line>
@@ -609,7 +609,7 @@
 <line speaker="Auchi">On what grounds?</line>
 <line speaker="Ryunosuke">Erm...</line>
 <line speaker="Auchi">The court has already heard conclusive witness testimony. Additional evidence would be extraneous. Not to mention that the victim's movements prior to his arrival at the restaurant are of no concern. </line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Whether or not they are of concern is up to us to decide! We have a right to explore all possible avenues.</line>
 <line speaker="Auchi">I, I beg your pardon?</line>
 <line speaker="Kazuma">You have no authority to refuse a perfectly valid request for the submission of evidence.</line>
@@ -620,7 +620,7 @@
 <line speaker="Ryunosuke">Right, I hear you!</line>
 <line speaker="Auchi">Hmph! You can conspire to prolong this trial as much as you like. But it's the day after the festival already for you! Or perhaps you'd forgotten...that these witness testimonies leave no room for doubt! Feel free to reiterate for the accused, Korekuta-san.</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">As you have been at pains to point out time and again. I feel I'm growing a callus in my ear! And yet, no one else appears to have caught even a glimpse of this woman!</line>
 <line speaker="Ryunosuke">Argh... <thought>If only there'd been more people dining there at the time! Then someone else would have noticed her.</thought></line>
 <line speaker="Kazuma">Unfortunately, it was already past 2 p.m. when it happened. The quiet time between lunch and dinner in any restaurant.</line>
@@ -740,7 +740,7 @@
 <line speaker="Ryunosuke">......... Alright. ...And thanks for the advice. Korekuta-san, this is a medical report card belonging to the victim.</line>
 <line speaker="Korekuta">Ah, I see... And...I don't see. What of it, boy?</line>
 <line speaker="Ryunosuke">Comparing what is written on this report card with your witness statement... ...something clearly doesn't add up!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Dear me, dear me. Have you forgotten my words so soon, you amateur?</line>
 <line speaker="Ryunosuke">Sorry, what...?</line>
 <line speaker="Auchi">You are not to interrupt court proceedings with your amateurish drivel!</line>
@@ -773,11 +773,11 @@
 <line speaker="Nosa">Grrr...</line>
 <line speaker="Ryunosuke">Because the victim, as we now know... ...had just had one of his teeth extracted, and was still experiencing the effects of the anaesthetic! </line>
 <line speaker="Kazuma">Expertly done...partner!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">What... What is this nonsense? You little upstart!</line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Auchi">These are baseless accusations! Just, just look at this photographic evidence! You can clearly see the plate of food at the victim's table!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Use your head. That's the very discrepancy we're talking about. Or can't you follow the logic?</line>
 <line speaker="Auchi">How, how dare you?!</line>
 <line speaker="Kazuma">I think it's fair to say that the 'tables' in this restaurant case...have turned. Wouldn't you agree, Ryunosuke?</line>
@@ -797,7 +797,7 @@
 <line speaker="Ryunosuke"> </line>
 <line speaker="Ryunosuke">I, I think it may have been me!</line>
 <line speaker="Judge">WHAT?!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">It's not enough that you took the man's life, but you took his meal as well?! That's a bee sting on a crying face! Hmph, some people seem to think they can do whatever they like.</line>
 <line speaker="Kazuma">And some people seem to think they can say whatever they like... Ryunosuke. </line>
 <line speaker="Ryunosuke">Sorry, you're right! Of course I didn't eat it!</line>
@@ -813,7 +813,7 @@
 <line speaker="Judge">It would seem you may need to reconsider your answer, Counsel.</line>
 <line speaker="Ryunosuke">Of, of course, Your Excellency! Erm...</line>
 <line speaker="Ryunosuke">Obviously! It can only have been someone else who was sitting at the professor's table!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">You will not let this go, will you? There was no such person!</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Kazuma">When the incident occurred, we know that the victim couldn't have been eating anything. Yet we have evidence of a half-eaten steak on his table! Therefore! The only logical conclusion is that there was somebody else there eating it.</line>
@@ -830,7 +830,7 @@
 <line speaker="Nosa">Perjury...?</line>
 <line speaker="Kazuma">And, since this is a murder trial... ...you will also be deemed complicit in the killing.</line>
 <line speaker="Korekuta">Complicit...in m-murder...? N-N-N-NOOOOOOOOO! </line>
-<line speaker="Nosa"><cutIn>Hold it!</cutIn></line>
+<line speaker="Nosa"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Nosa">N-N-N-Negative! There, there was no mention of this at the tactical meeting! I was just following orders!</line>
 <line speaker="Korekuta">That's right! As the man says! 'Just say you never saw the gentlewoman!' That's what...they, erm...told...us... .........Oh. </line>
 <line speaker="Ryunosuke"><thought>What?!</thought> What did you just say, Korekuta-san?</line>
@@ -841,7 +841,7 @@
 <line speaker="Nosa">Grrr...</line>
 <line speaker="Kazuma">When you say 'gentlewoman', do you mean... ...you saw the victim with a lady from overseas?</line>
 <line speaker="Ryunosuke">What?!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">What, what is the meaning of all this? These witnesses...gave false statements? Is this true, you pair?!</line>
 <line speaker="Korekuta">.........</line>
 <line speaker="Nosa">Just one... Just one simple slip of the tongue!!!</line>
@@ -880,7 +880,7 @@
 <line speaker="Ryunosuke"><thought>Actually, now that I think about it... ...there might be some pieces of evidence I haven't thoroughly examined yet.</thought></line>
 <line speaker="Ryunosuke">Well, surely that would be...Satoru Hosonaga-san!</line>
 <line speaker="Judge">Hosonaga-san? The waiter who took the stand earlier?</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Poppycock! What possible reason would the waiter have to make these witnesses give false testimony? Not to mention the fact that even a head waiter could not possibly have that level of influence!</line>
 <line speaker="Kazuma">For once, I would agree with you. If, that is, the man truly were a waiter.</line>
 <line speaker="Auchi">Wha...? If he truly were..?</line>
@@ -909,7 +909,7 @@
 <line speaker="Kazuma">Was it in fact the waiter who gave you your orders? Was it he who told you not to mention that you'd seen this foreign gentlewoman at the scene?</line>
 <line speaker="Nosa">Erm, well...</line>
 <line speaker="Korekuta">.........</line>
-<line speaker="Hosonaga"><cutIn>Hold it!</cutIn></line>
+<line speaker="Hosonaga"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">In-Inspector Hosonaga...!</line>
 <line speaker="Hosonaga">I was worried something like this may happen. The moment you asked me to submit my sketch as evidence, I realised it was a possibility.</line>
 <line speaker="Judge">The court will take this plan and add it to the Court Record as evidence.</line>
@@ -963,7 +963,7 @@
 <line speaker="Judge">......... Very well. My thoughts on the matter are as follows... Thus far, the case presented to the court has been underpinned by a particularly critical premise. Namely, that the victim was dining alone.</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Judge">However, as we have now discovered that this premise is false... ...it would be a desecration of our justice system to ignore the truth and give a ruling at this point.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">But, but, Your Excellency! That would mean missing the noon deadline of a ruling in order to send the telegraphic report to Great Britain! Our own government will surely be very displeased by such actions.</line>
 <line speaker="Judge">Calm yourself, Counsel. I will not allow the government of our country or any other to influence the proceedings of my courtroom. </line>
 <line speaker="Auchi">Ugh!</line>
@@ -1101,7 +1101,7 @@
 <line speaker="Hosonaga">'I don't carry a gun myself, so obviously I couldn't have been the culprit.'</line>
 <line speaker="Judge">Hmph. This is a condemning testimony indeed.</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Quiet, you filthy wretch! Look at you, you black-hearted blackguard! And look at this snow-white angel! I'm sure even a dark-minded scoundrel like you can imagine whose words the court is going to believe!</line>
 <line speaker="Ryunosuke">Ugh...</line>
 <line speaker="Kazuma">You're still making the same mistakes, Ryunosuke. You mustn't blurt out when you're goaded like that. That's a lesson you need to learn.</line>
@@ -1120,7 +1120,7 @@
 <line speaker="Ryunosuke">Oh! Yes, Your Excellency!</line>
 <line speaker="Hosonaga">'I had arranged to meet for a slightly late luncheon with Dr Wilson that day.'</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">You don't keep up with the latest fashions from Britain, do you? Late luncheons are en vogue. Isn't that right?</line>
 <line speaker="Brett">No.</line>
 <line speaker="Auchi">Ugh...</line>
@@ -1201,7 +1201,7 @@
 <line speaker="Ryunosuke">Well, I wasn't expecting to be attacked by my own side.</line>
 <line speaker="Auchi">Nevertheless, Defendant, you can't deny... ...that when the shot rang out in the restaurant, you had a gun in your hand!</line>
 <line speaker="Ryunosuke">Well, yes, that's...that's true, but...! But all I did was pick up the gun I saw on the floor next to the professor as I was leaving the restaurant! In fact... Yes! There was someone much closer to the victim than me at that time. The highly suspicious lady in the stand!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">That will do, you dirty rotten scoundrel!</line>
 <line speaker="Ryunosuke">Dirty?</line>
 <line speaker="Auchi">Your baseless accusations could very well cause an international incident...boy!</line>
@@ -1252,9 +1252,9 @@
 <line speaker="Judge">Ah...</line>
 <line speaker="Hosonaga">...!</line>
 <line speaker="Judge">You're quite right, Counsel. There's only one glass pictured here!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Are we supposed to be impressed by this nit-picking over minutiae? What possible difference does the presence or absence of a glass make on the case?</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Minutiae, you say? Could it be that the detective here removed a glass from the table to conceal the lady's presence?</line>
 <line speaker="Hosonaga">Of course not! I would never do something so reckless.</line>
 <line speaker="Ryunosuke">But there should have been two glasses on the table! Or are you going to try to tell me you can clink with only one?!</line>
@@ -1358,10 +1358,10 @@
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Kazuma">...Ryunosuke?!</line>
 <line speaker="Ryunosuke">I, I don't think you can rule on this case yet!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This amateurishness is getting tedious! When His Excellency deems that the trial is over, he gives his ruling. That is the most basic protocol of the courtroom!</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This is blatant straw-clutching! Look at this photographic print! All it shows is the handbag the gentlewoman was carrying on the day in question. There can be no 'problem' with this evidence!</line>
 <line speaker="Ryunosuke">......... </line>
 <line speaker="Kazuma">You'd better know what you're doing, Ryunosuke.</line>
@@ -1376,21 +1376,21 @@
 <line speaker="Judge">So, take another look at the photographic print Inspector Hosonaga submitted before. You will identify for the court where in this print we see the 'significant detail' to which you have alluded!</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">What's significant is your inability to positively identify anything wrong with this picture at all!</line>
 <line speaker="Ryunosuke">Eek!</line>
 <line speaker="Judge">I concur. And praise the prosecution for his quick-wittedness. </line>
 <line speaker="Kazuma">I know it's the handbag that stands out in this picture. But you need to look further. Examine everything. Otherwise you might miss an important clue. Always try to see the whole, and don't be blinkered by individual details. I know you can do it.</line>
 <line speaker="Ryunosuke"><thought>If I could do it, then I wouldn't have pointed out the wrong part of the picture just now...</thought></line>
 <line speaker="Judge">Well, unfortunately, I must do as I promised.</line>
-<line speaker="Kazuma"><cutIn>Hold it!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Kazuma">Wait, Your Excellency! The court should give consideration to the fact that this man is an amateur! One more chance, please.</line>
 <line speaker="Judge">Hmmm... Well, I suppose he is just a callow student lawyer with little sense of protocol in these matters.</line>
 <line speaker="Ryunosuke"><thought>I'm starting to feel insulted here...</thought></line>
 <line speaker="Ryunosuke">Look at this, here... There's a very unusual mark on the victim's wrist.</line>
 <line speaker="Judge">That is true. It looks almost...like a burn of some description.</line>
 <line speaker="Brett">...!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Dear me! I was pondering what new piffle you would come out with. A burn, you say? On the victim's wrist? Clearly that has nothing whatsoever to do with the magnificent lady's handbag!</line>
 <line speaker="Hosonaga">Yes, that is a burn mark, you're right.</line>
 <line speaker="Ryunosuke">...!</line>
@@ -1418,7 +1418,7 @@
 <line speaker="Judge">So then, the defence will now present its evidence to the court. The evidence that demonstrates an inextricable connection between the victim's burn and this trial!</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Then explain to the court in five words or less what the nature of that connection is!</line>
 <line speaker="Ryunosuke">......... Erm, well, it's obviously, um...</line>
 <line speaker="Auchi">Thank you. Five highly illuminating words.</line>
@@ -1436,7 +1436,7 @@
 <line speaker="Brett">.........</line>
 <line speaker="Ryunosuke">You see, it's very clearly visible in this other photograph. How did the victim come to have that unusually shaped burn on his wrist? The reason is recorded here forevermore!</line>
 <line speaker="Hosonaga">What? How?</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">You can't fool me with your little bluffs, boy! If that's your game, then let's see how it plays out! Show the court exactly what you mean! What is it in this photograph that explains the reason for the victim's burn?</line>
 <line speaker="Ryunosuke">Leads to:</line>
 <line speaker="Ryunosuke">Judge:</line>
@@ -1459,10 +1459,10 @@
 <line speaker="Kazuma">Ryunosuke! You genius!</line>
 <line speaker="Hosonaga">You're spot on...</line>
 <line speaker="Ryunosuke">Which means... ...the victim must have suffered this burn while he was present at the restaurant!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">But... But even if that is the case... ...we can't know if it happened on the day in question or not. It could've been the day before! Or the day before that! It most likely happened at some other, unrelated time!</line>
 <line speaker="Ryunosuke">Well...um... Hm...</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Sadly, Prosecutor Auchi, the chances of that are extremely slim.</line>
 <line speaker="Ryunosuke">Thanks...</line>
 <line speaker="Auchi">Why?</line>
@@ -1509,7 +1509,7 @@
 <line speaker="Ryunosuke">Knowing what we know now, it's the only possible explanation. When the beef steak was brought to Dr Wilson's table that day... ...the professor...was already dead!</line>
 <line speaker="Auchi">That's... That's... ...madneeessssss!</line>
 <line speaker="Auchi">That's right! That's absolutely right, Your Excellency. This, this is just another ridiculous ploy by the rookie student! But clearly, he has no grasp of the facts!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">No, Prosecutor Auchi, it's you who has no grasp of the facts.</line>
 <line speaker="Auchi">I beg your pardon?!</line>
 <line speaker="Kazuma">As soon as it became apparent that the victim had suffered that burn while at the restaurant... ...this whole case was turned upside-down. Or have you not grasped that yet?</line>
@@ -1586,7 +1586,7 @@
 <line speaker="Ryunosuke">But it doesn't make any sense! The burn must have happened straight away, when the plate was first brought to the table by the waiter.</line>
 <line speaker="Kazuma">Yes, that's true. If it had cooled even slightly, it wouldn't have been able to make a burn like that.</line>
 <line speaker="Ryunosuke">And if the victim burnt his wrist on the hot plate as soon as it was brought out from the kitchen... ...then he must already have been dead at that point!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">And yet! The fact is that the victim was killed by a gunshot to the chest! Until you're able to show the court evidence to disprove that, this is a complete waste of time!</line>
 <line speaker="Judge">I concur. Prosecutor Auchi is right.</line>
 <line speaker="Ryunosuke"><thought>Argh!</thought></line>
@@ -1634,7 +1634,7 @@
 <line speaker="Ryunosuke">......... I'm so sorry. I, I didn't mean to shock you. <thought>He really was lost in his thoughts! Deeply!</thought></line>
 <line speaker="Kazuma">It looked like you were thinking something just now, Inspector. Perhaps having heard what the lady next to you had to say...?</line>
 <line speaker="Ryunosuke">If there's something you'd like to say, please... share it with the court!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">What is the meaning of this? It's the delightful Englishwoman who's testifying at the moment. If you can't find fault with her testimony, then the cross-examination should be over. Immediately! </line>
 <line speaker="Ryunosuke">Oh...is, is that how it works?</line>
 <line speaker="Kazuma">Absolutely not.</line>
@@ -1718,9 +1718,9 @@
 <line speaker="Judge">Order! Order! Order!</line>
 <line speaker="Ryunosuke">And on that day, who was sitting at the same table as the professor and able to slip the poison into his drink? There's only person [sic] who could possibly have done it! Jezaille Brett! It was you! </line>
 <line speaker="Brett">.........</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This is outrageous! To suggest such a thing without a scrap of evidence! You little rookie imbecile! Have you even considered the delicate situation our country finds itself in now?! Have you forgotten that we have only just signed an accord of friendship with the British Empire?! Have you even the vaguest inkling that your rash accusations could jeopardise the entire treaty?!</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">This is not a political arena. This is a trial to determine one individual's guilt with respect to one crime.</line>
 <line speaker="Auchi">Wha...?</line>
 <line speaker="Kazuma">The fact that this woman is British makes no difference. We are here to determine the truth!</line>
@@ -1755,7 +1755,7 @@
 <line speaker="Ryunosuke">...Kazuma?</line>
 <line speaker="Kazuma">......... I'm sorry, Ryunosuke. I have nothing more.</line>
 <line speaker="Brett">Well, if you'll excuse me now, I really must be leaving...</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="???">Please, wait!</line>
 <line speaker="Ryunosuke">...! <thought>Isn't that...?</thought></line>
 <line speaker="Judge">What is the meaning of this?</line>
@@ -1812,7 +1812,7 @@
 <line speaker="Auchi">What?!</line>
 <line speaker="Judge">Poison?! Where are you going with this, Counsel?</line>
 <line speaker="Kazuma">A toxin known as curare, Your Excellency. Even the slightest amount of this deadly poison entering the body leads to instant death.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">What, what complete and utter nonsense! Cu-curare, you say? I've never even heard of it!</line>
 <line speaker="Kazuma">You wouldn't have done.</line>
 <line speaker="Auchi">What do you mean?</line>
@@ -1825,7 +1825,7 @@
 <line speaker="Auchi">To, to lace their arrows...?</line>
 <line speaker="Kazuma">The report states that it is produced from the extract of a tree that grows deep in the Amazonian jungle. And it was first brought back to Europe at the turn of the century by explorers. It claims that animals shot by arrows laced with curare suffer instant death. Doesn't that about sum it up, Miss Brett? </line>
 <line speaker="Brett">.........</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Trumpery! These aspersions are utter trumpery! To start with! If the victim had been administered some of this so-called deadly poison... ...he would have been squirming and writhing in pain and the other diners would have surely noticed!</line>
 <line speaker="Judge">Hm, that's true. What do you say to that, Inspector?</line>
 <line speaker="Hosonaga">Obviously I would have noticed a disturbance like that.</line>
@@ -1844,7 +1844,7 @@
 <line speaker="Auchi">That's...hideous... </line>
 <line speaker="Kazuma">To the observer, it would look almost like the victim was slipping peacefully into an endless sleep. But for the victim himself, his final moments would be a living hell. That is the true nature of this deadly curare poison.</line>
 <line speaker="Judge">And you're suggesting that this bottle, Counsel... ...actually contains this terrifying poison? </line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This, this... This is all very convenient, isn't it? A hitherto unknown poison for which there is no means of testing? What a happy tale for the defence!</line>
 <line speaker="Brett">Ahem. If I may... </line>
 <line speaker="Auchi">All these 'facts'... You think you're so clever! But you must be taught some manner-</line>
@@ -1856,7 +1856,7 @@
 <line speaker="Kazuma">Well, Miss Brett, the feeling is mutual. </line>
 <line speaker="Brett">Whatever do you mean? </line>
 <line speaker="Kazuma">Capitalising on the unfortunate circumstances of an innocent man to frame him for a heinous crime? That really is a loathsome act. Wouldn't you agree?</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Enough of this! I, for one, refuse to accept it! The idea of some poison that doesn't even exist in the great Empire of Japan is...is...breaking the rules!</line>
 <line speaker="Brett">...Hah hah hah... </line>
 <line speaker="Ryunosuke">What's so funny?!</line>
@@ -1896,7 +1896,7 @@
 <line speaker="Ryunosuke">Ugh... <thought>This whole trial is poisoned...</thought></line>
 <line speaker="Ryunosuke">The culprit did put curare poison into Dr Wilson's carbonated water! I... The defence refuses to change its position! </line>
 <line speaker="Kazuma">You're serious? </line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Fool! Are you blind? There is no possible way that bottle could contain poison! I mean, we just saw- </line>
 <line speaker="Ryunosuke">Miss Brett drinking the water from it? </line>
 <line speaker="Brett">That's right. Which rather complicates your argument, I think. </line>
@@ -1916,7 +1916,7 @@
 <line speaker="Ryunosuke">Alright, I'll do my best to find an answer that fits the facts... </line>
 <line speaker="Judge">If the defence - sorry, the wretched accused - truly intends to assert this claim... </line>
 <line speaker="Ryunosuke">The answer to this riddle...is right here in Miss Brett's own research report!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn> </line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn> </line>
 <line speaker="Auchi">That's not a valid explanation! </line>
 <line speaker="Ryunosuke">No?</line>
 <line speaker="Auchi">After all... ...we don't speak English! That report is utter gibberish! This impudent young scoundrel is trying to ridicule the court, Your Excellency!</line>
@@ -1925,7 +1925,7 @@
 <line speaker="Ryunosuke">It's written right here in the synopsis! ...I think. </line>
 <line speaker="Auchi">Oh really? Go on... </line>
 <line speaker="Ryunosuke">Well...it's a synopsis, so... So it's bound to contain lots of vague statements that I really hope are going to help me out here!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">You'll have to do better than that! I shudder to think how we'll fare in the twentieth century if we're led by the likes of you!</line>
 <line speaker="Ryunosuke"><thought>Yes, yes...</thought></line>
 <line speaker="Kazuma">Ryunosuke... </line>
@@ -1936,7 +1936,7 @@
 <line speaker="Ryunosuke">It's written right here under 'Practical Applications'! ...I think. </line>
 <line speaker="Auchi">Oh really? Go on... </line>
 <line speaker="Ryunosuke">Well...think about it! You want to know how the poison can be drunk without it taking effect. That's a practical application of, um...the poison's use as a drink...maybe?</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">You'll have to do better than that! I shudder to think how we'll fare in the twentieth century if we're led by the likes of you!</line>
 <line speaker="Ryunosuke"><thought>Yes, yes...</thought></line>
 <line speaker="Kazuma">Ryunosuke... </line>
@@ -1964,7 +1964,7 @@
 <line speaker="Brett">......... You...meddling...little... ...rapSCALLIOOON!</line>
 <line speaker="Kazuma">Well, Ryunosuke, it turns out... ...you're an even better lawyer than I thought you'd be.</line>
 <line speaker="Ryunosuke">Really? <thought>Me...? A lawyer...?</thought></line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">All, all this poison talk is fascinating, I'm sure... But I fail to see how it possibly-</line>
 <line speaker="Brett">Brett:</line>
 <line speaker="Ryunosuke">What are you trying to say?</line>
@@ -1983,7 +1983,7 @@
 <line speaker="Auchi">Yes! This curare poison is completely irrelevant to the case on trial!</line>
 <line speaker="Brett">That's right. Surely even a little cockroach like you could understand something as simple as that!</line>
 <line speaker="Ryunosuke">......... <thought>What is this, welling up inside me...? I've never felt like this before. It's a sort of conviction to break down all the discrepancies... It's so intense. Almost rage-like... And more than anything else, it's an animalistic desire... to take down my prey!</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">I don't think so, Miss Jezaille Brett!</line>
 <line speaker="Brett">How... How dare you use that tone with me?!</line>
 <line speaker="Ryunosuke">You know very well that there is no fatal flaw here. You know exactly why, even though both you and the victim swallowed the same poison... ...you are alive, but Dr Wilson is dead!</line>
@@ -2023,7 +2023,7 @@
 <line speaker="Brett">And let us not forget... ...we still have some very compelling evidence left intact. Isn't that right, Counsel for the Prosecution?</line>
 <line speaker="Auchi">Oh, of course, of course! You're referring to this photographic print, I presume, dear lady?</line>
 <line speaker="Brett">That's right. And really, looking at this photograph, it's as clear as day, isn't it? The poor professor was sitting with his back to me. So of course the only person who could have shot him from the front...is the little schoolboy.</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">No! You killed the victim that day. Using curare. And then, in order to frame Ryunosuke Naruhodo for the crime... ...you waited until he picked up the pistol you'd arranged for him to find on the floor... ...before you shot the professor's dead body in the chest with your own hidden gun! Then, in the confusion that followed, all you had to do was turn the dead professor and his chair around. You see? You had every opportunity to commit this crime!</line>
 <line speaker="Brett">Heh...heh...heh... What a wonderful imagination you have, young man.</line>
 <line speaker="Kazuma">...!</line>
@@ -2063,7 +2063,7 @@
 <line speaker="Ryunosuke"><thought>Ugh, he's still miles away. Probably thinking about that bottle being smashed...</thought> As you've said a number of times now, you strive for perfection in your investigations, don't you?</line>
 <line speaker="Hosonaga">Absolutely!</line>
 <line speaker="Ryunosuke">I wonder, therefore, if perhaps you took anything else from the scene of the crime. Like, for instance, the plate of steak that you took to the victim's table that day? </line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">Wait a minute! Where are you going with th-</line>
 <line speaker="Brett">Brett:</line>
 <line speaker="Ryunosuke">It's just a memory that's been troubling me.</line>
@@ -2077,9 +2077,9 @@
 <line speaker="Auchi">Ah!</line>
 <line speaker="Kazuma">Hm, yes... For blood to have made it onto the plate, it implies the plate was between the victim and the shooter. Which means the shooter must have been sitting opposite the professor, as you were... ...Jezaille Brett!</line>
 <line speaker="Brett">I beg your pardon?!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This...this is beyond ridiculous! Fabricated nonsense! Is the court seriously expected to believe something the accused has apparently just 'remembered' seeing?</line>
-<line speaker="Hosonaga"><cutIn>Hold it!</cutIn></line>
+<line speaker="Hosonaga"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Hosonaga">This... This could be the moment that my entire career in the police force has been leading to.</line>
 <line speaker="Ryunosuke">Inspector! You mean...?</line>
 <line speaker="Hosonaga">Yes! I took the plate! In the interests of preserving evidence from the scene of the crime! I took it, meat and all! And I don't CARE if they call me a crime scene thief because of it!</line>
@@ -2129,9 +2129,9 @@
 <line speaker="Kazuma">Opportunities are always there for the taking. But only for those with the determination to grab them. Let's have another good look at that steak. If you want to give up, it had better wait until after that!</line>
 <line speaker="Ryunosuke"><thought>Hm, maybe I should examine the evidence in more detail...</thought></line>
 <line speaker="Judge">Well, a deafening silence from the defence. I will take that as your final answer on the matter.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn> </line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn> </line>
 <line speaker="Ryunosuke">Your Excellency, please, wait! This plate of beef is hiding another clue! Another clue that will reveal the shocking truth!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">The only thing that's shocking here, is your unhealthy fascination with beef steak!</line>
 <line speaker="Brett">Your Excellency... I think I've made myself clear, haven't I? I will not be able to turn a blind eye to any more unnecessary procrastination in this trial.</line>
 <line speaker="Judge">I'm sorry, Miss Brett, but we must ensure a thorough examination of the evidence. I will not give a ruling until I'm completely satisfied that all reasonable doubt has been dispelled.</line>
@@ -2149,14 +2149,14 @@
 <line speaker="Brett">.........</line>
 <line speaker="Ryunosuke">Tell me, why is there an old coin seemingly hidden underneath the meat?</line>
 <line speaker="Brett">Brett:</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">I fail to see how this is relevant! A coin under the meat? That could simply have been a careless mistake by the chef in a moment of distraction.</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">Don't be absurd! We're supposed to believe that this happened by accident in the kitchen? A rare Hoei koban just happens to be hidden underneath that piece of steak? If this turns out to be irrelevant to the case... I'll rip up my ticket to Great Britain right now!</line>
 <line speaker="Ryunosuke"><thought>He's right. It can't be a coincidence.</thought> Your Excellency!</line>
 <line speaker="Judge">Yes, Counsel?</line>
 <line speaker="Ryunosuke">A rare Hoei koban just happens to be hidden underneath that piece of steak? If this turns out to be irrelevant to the case... I'll give up my lawyer job right now!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">By all means, don't let us stop you! No one invited you, anyway!</line>
 <line speaker="Brett">Brett:</line>
 <line speaker="Ryunosuke"><thought>Even though I'M the one on trial here...?</thought> The point is! It's essential that we ask the owner of this coin if he can explain what it's doing under that steak!</line>
@@ -2179,7 +2179,7 @@
 <line speaker="Ryunosuke">'Too busy on the floor'? Sorry, what were you doing?</line>
 <line speaker="Korekuta">Hunting for treasure. Indeed! The Hoei-era koban! My prized coin!</line>
 <line speaker="Judge">Then this Hoei-era koban... Do, do you mean to tell me...?</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">No no no! Please, why would Korekuta-san's koban... ...be sandwiched between the victim's beef steak and its plate? It makes no sense!</line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
 <line speaker="Judge">Officer! Bring both witnesses that testified earlier back in here. Without a moment's delay!</line>
@@ -2265,12 +2265,12 @@
 <line speaker="Kazuma">If that's the case, don't just stand there thinking! Make your voice heard!</line>
 <line speaker="Ryunosuke">Sorry?</line>
 <line speaker="Kazuma">You can think later. But if you don't call out now, it'll be too late. The trial will be over!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Wait! Miss Brett!</line>
 <line speaker="Brett">What is it now?</line>
 <line speaker="Ryunosuke">I'm afraid...just one last time... There's something I'd like to ask you. I'd like you to explain the contradiction in your parting words from just a few moments ago.</line>
 <line speaker="Brett">What are you talking about? What contradiction?</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">What new student nonsense is this?</line>
 <line speaker="Kazuma">Well? What parting words are you talking about, Ryunosuke?</line>
 <line speaker="Brett">Hiding a coin under a lump of meat? The sheer nonsense of such an idea astounds me. And as for picking up your steak and biting into it without using a knife and fork... It's beyond nonsense. It's pure madness!</line>
@@ -2304,7 +2304,7 @@
 <line speaker="Brett">......... ...Ah!</line>
 <line speaker="Kazuma">It looks like Miss Brett has realised something.</line>
 <line speaker="Ryunosuke">So! If the witness, as she claims, wouldn't contemplate eating anything without using a knife and fork... ...there shouldn't be teeth marks in the steak at all!</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">But... What is your actual point? Perhaps the delightful Miss Brett was ravenously hungry and couldn't help her-</line>
 <line speaker="Brett">Brett:</line>
 <line speaker="Auchi">Oh, um... Whatever you say, dear lady!</line>
@@ -2326,9 +2326,9 @@
 <line speaker="Ryunosuke">Actually, the evidence I'm talking about hasn't been brought before the court yet.</line>
 <line speaker="Auchi">Hasn't been...? What?!</line>
 <line speaker="Ryunosuke">But just because it hasn't been shown yet, doesn't mean that the evidence does not exist.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">This is absurd! The trial has run several hours already! And you say there's evidence yet to be brought forward? There can't be! I don't believe you have it!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">I don't! But there is someone who does have it! Someone in this very courtroom!</line>
 <line speaker="Brett">...!</line>
 <line speaker="Ryunosuke">And if that person is willing to submit the piece of evidence I'm referring to... ...it will solve every remaining mystery about this case!</line>
@@ -2353,9 +2353,9 @@
 <line speaker="Ryunosuke">Sergeant Nosa, could you please confirm something for me? Was the steak that you put the coin under... in fact, your own steak?</line>
 <line speaker="Nosa">Teeen-shun! Affirmative, of course! I might be a soldier in the Imperial Nippon Army, but still... ...I'm not brave enough to ask a foreign gentlelady if she'd mind me manhandling her meal to hide something in it!</line>
 <line speaker="Ryunosuke">In other words, the steak that the detective submitted as evidence earlier... ...was in fact Sergeant Nosa's meal.</line>
-<line speaker="Auchi"><cutIn>Objection!</cutIn></line>
+<line speaker="Auchi"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Auchi">But...that makes no sense! That plate was taken from the victim's table.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Yet the gentlewoman doesn't take bites out of her steak, nor did she have any opportunity to steal the coin.</line>
 <line speaker="Brett">Of course I didn't steal it! To even suggest such a thing would be...an affront to the entire British Empire!</line>
 <line speaker="Judge">Well then...how do you explain this paradox?</line>
@@ -2383,7 +2383,7 @@
 <line speaker="Hosonaga">That's correct.</line>
 <line speaker="Ryunosuke">Then please present it to the court now. The plate that was actually on the victim's table at the precise moment he was shot!</line>
 <line speaker="Brett">Brett:</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">No! You're not wriggling your way out of it this time, lady!</line>
 <line speaker="Brett">I, I beg your pardon...?</line>
 <line speaker="Kazuma">Surely you're not that forgetful. Surely you remember the reason why this steak pan promises to prove such a problem for you...no?</line>

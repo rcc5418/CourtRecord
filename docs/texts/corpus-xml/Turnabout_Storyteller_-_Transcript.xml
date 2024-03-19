@@ -1,6 +1,5 @@
-
-<line>Turnabout Storyteller</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Storyteller</title>
 <line speaker="???">Sh-Shisho's dead...? No... D-Do you think... HE did it?</line>
 <line speaker="???">Oh, no! I-If he did... then wh-what do we do?!</line>
 <line speaker="???">Hey, pull yourself together!</line>
@@ -190,7 +189,6 @@
 <line speaker="Blackquill">No, just Uendo's woeful scream.</line>
 <line speaker="Athena">I-I see...</line>
 <line speaker="Athena"><thought>Simon has no reason to lie, but I also don't have much to go on. I'd better ask all the questions I can.</thought></line>
-<line speaker="After pressing all statements">Judge:</line>
 <line speaker="Nahyuta">Thank you, Prosecutor Blackquill. And now, please allow me to summairze your testimony. While Prosecutor Blackquill and Geiru were in the hallway waiting for Master Toneido... the accused came along and entered the dressing room with some items in tow. He was heard shouting for a time inside the dressing room. About ten minutes later, he came back out of the room, seeming rather angry. A short time after the accused had come and gone, Uendo Toneido went into the room. A few minutes later, after having discovered the victim's body, Uendo gave a scream... and came running out into the hallway from within. Prosecutor Blackquill and Geiru then ran into the room and saw the body for themselves. From the circumstances, it is quite clear that the accused murdered the victim.</line>
 <line speaker="Judge">Hmm... This is crucial testimony indeed.</line>
 <line speaker="Nahyuta">Defense. An eyewitness has given conclusive testimony. Why not let it all go now, and allow the victim his last rites?</line>

@@ -33,14 +33,14 @@
 <line speaker="Judge">Hmm... The time of Mr. Hammer's death was 2:30 PM. And according to your testimony, you were in a meeting at that time. Mr. Wright, you may begin your cross-examination.</line>
 <line speaker="Phoenix">Yes, Your Honor.</line>
 <line speaker="Manella">I was at the studios from around 9:00 that morning.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Is that when you always come in to work?</line>
 <line speaker="Manella">Oh, oh no. I come in all sort of hours. It's the "industry" way.</line>
 <line speaker="Phoenix"><thought>Yeah, I know all about the freaks in your "industry"...</thought></line>
 <line speaker="Manella">Still, FWIW, I was pretty busy all that day.&#160;:(</line>
 <line speaker="Edgeworth">Tell us more about that.</line>
 <line speaker="Manella">During the morning, I was doing... umm... an action scene run-through.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">In the Employee Area?</line>
 <line speaker="Manella">That's right. It was a fight scene between the Steel Samurai and the Evil Magistrate.</line>
 <line speaker="Phoenix">Was anyone else at the run-through?</line>
@@ -48,20 +48,20 @@
 <line speaker="Phoenix"><thought>She certainly has the lungs for it...</thought> Anyone else?</line>
 <line speaker="Manella">Nope, just us four.</line>
 <line speaker="Manella">It took a lot more time than I thought it would.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why did it go on so long?</line>
 <line speaker="Manella">Um, I'm pretty sure j00've already heard about this... But WP twisted his ankle during the run-through, see...</line>
 <line speaker="Phoenix"><thought>Oh, right, thus the limp.</thought></line>
 <line speaker="Manella">Which of course led to me missing my lunch. ROFS!</line>
 <line speaker="Phoenix"><thought>ROFS? Rolling on the Floor... Starving?</thought></line>
 <line speaker="Manella">I hear that everyone else ate lunch in the Employee Area...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What exactly did they have for lunch?</line>
 <line speaker="Manella">T-bone steak! The assistant cooked some up.</line>
 <line speaker="Phoenix"><thought>Come to think of it, there was a plate with some bones on it in the Employee Area.</thought></line>
 <line speaker="Edgeworth">"Everyone else" meaning that the witness did not eat with them.</line>
 <line speaker="Manella">But I had a meeting in the Studio Two trailer, so I ended up skipping lunch.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, in the end, you didn't get to eat?</line>
 <line speaker="Manella">Yeah. No steak, at least! Can j00 believe it?</line>
 <line speaker="Phoenix">That must have been tough.</line>
@@ -83,12 +83,12 @@
 <line speaker="Manella">We took one break during that meeting. I, er, wolfed it down then. *drool*</line>
 <line speaker="Phoenix"><thought>A mental image I will carry with me to my grave... Wait a second...! If they took a break in that meeting, that contradicts his testimony! I'll press on that one a bit more...</thought></line>
 <line speaker="Manella">We were in the meeting until around 4:00...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What were you discussing?</line>
 <line speaker="Manella">The Steel Samurai story, and our budget. Get this! The sponsors turn to me and say, "Mr. Manella. Those scripts of yours are not appropriate for children." Can j00 believe it!?</line>
 <line speaker="Phoenix"><thought>Actually, I kind of can.</thought> So, nobody left the table during the whole meeting?</line>
 <line speaker="Manella">During the meeting, well, I'm pretty sure no one left their chairs.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You didn't take a single break?</line>
 <line speaker="Manella">Er... well... Y-yeah! Not a one! *sweats*</line>
 <line speaker="Phoenix"><thought>Hmm... what's he sweating so much about, I wonder? If only I had an idea...</thought></line>
@@ -112,13 +112,13 @@
 <line speaker="Manella">Yeah, FWIW, we took a break... ROFL!</line>
 <line speaker="Judge">Hmm... I don't think it would even be enough time for that, but that's just me. Very well. You may begin the cross-examination.</line>
 <line speaker="Manella">Yeah, FWIW, we took a break... ROFL!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What time exactly did you take this break?</line>
 <line speaker="Manella">Hmm... I'd say it was from around 2:30 or so untl 2:45.</line>
 <line speaker="Phoenix"><thought>2:30!!! That's the time of death! So he could have gone to Studio One, killed Hammer, and come back... I guess it's possible, time-wise...</thought></line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Manella">But it was only 15 minutes! 15! That's only 13 in Base 12!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What were you doing for those 15 minutes?</line>
 <line speaker="Manella">Eating my t-bone steak! What else!?</line>
 <line speaker="Phoenix">There were two plates on the trailer table...?</line>
@@ -126,11 +126,11 @@
 <line speaker="Phoenix"><thought>Dee Vasquez... the producer.</thought></line>
 <line speaker="Edgeworth">To eat a t-bone steak in 15 minutes... that's quite a feat.</line>
 <line speaker="Manella">Not enough time for someone to, say, commit murder in Studio One! LOL!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why is that?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Manella">That's only just enough time to eat a t-bone steak, if you ask me! *steams*</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I have to say, you look like a guy who gets through his meals pretty fast.</line>
 <line speaker="Manella">Well, I was facing a cold, slightly chewy t-bone steak... Even I have to take my time eating that kind of food. LOL</line>
 <line speaker="Mia">Well, Phoenix?</line>
@@ -212,43 +212,43 @@
 <line speaker="Cody">...</line>
 <line speaker="Phoenix"><thought>This kid is tougher than most adults we see in here, honestly...</thought></line>
 <line speaker="Cody">I wanted to see a Steel Samurai rehearsal, just once.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You really like the Steel Samurai, huh?</line>
 <line speaker="Cody">Course I do! I've taped every show! And I go to all the live performances!</line>
 <line speaker="Phoenix">That's impressive. Have you been to the amusement park?</line>
 <line speaker="Cody">Course! Duh! My Dad always takes me!</line>
 <line speaker="Phoenix"><thought>Poor, poor Dad...</thought></line>
 <line speaker="Cody">I found a map on the Internet, and went to the studios that day.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was that day the first time you'd been to the studio?</line>
 <line speaker="Cody">Uh, actually I've been a couple of times. I never manage to get there on a rehearsal day! And that security lady's always yelling...</line>
 <line speaker="Edgeworth">Right, right. Please continue.</line>
 <line speaker="Cody">Chill, pops! I'm getting to it! How am I supposed to talk with you cuttin' me off all the time? Geez!</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Cody">I went through the woods, off the path, so that old lady wouldn't catch me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Off the path"...?</line>
 <line speaker="Cody">Yeah, you know how the studios are in a valley there? If you go off the path a little, there's woods. That's where I was!</line>
 <line speaker="Phoenix">I see.</line>
 <line speaker="Cody">Anyhow...</line>
 <line speaker="Cody">I was going for the studio.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did nothing unusual happen on your way to the studio?</line>
 <line speaker="Cody">"Unusual"?</line>
 <line speaker="Phoenix">Did you see this monkey by any chance?</line>
 <line speaker="Cody">Oh, you mean Mr. Monkey? Yeah I saw him, but his head wasn't busted!</line>
 <line speaker="Edgeworth">So you went straight to the studio?</line>
 <line speaker="Cody">I got kinda lost on the way, though. For about 30 minutes.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You got lost in the woods?</line>
 <line speaker="Cody">Yeah. I couldn't figure out which way I was walking. Man, was I relieved when I saw the blue studio doors. But guess what happened next!</line>
 <line speaker="Cody">When I came out by the studio, there was the Steel Samurai!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The Steel Samurai?</line>
 <line speaker="Cody">Yeah, he was standing by the studio gate. It looked like he was thinking about something before going in. Then he opened up the gate and went inside.</line>
 <line speaker="Phoenix">I see. What then?</line>
 <line speaker="Cody">It totally rocked! Right before my eyes, out came the bad guy!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What sort of "bad guy" was it?</line>
 <line speaker="Cody">A guy. A person. Kinda tall. Skinny.</line>
 <line speaker="Phoenix">Are you sure it was a guy?</line>
@@ -256,16 +256,16 @@
 <line speaker="Phoenix"><thought>Huh, he's being awfully vague...</thought></line>
 <line speaker="Mia">...</line>
 <line speaker="Cody">Of course, the Steel Samurai took him down! Pow!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What happened to the bad guy?</line>
 <line speaker="Cody">Huh? Well... Well, he kinda didn't move. Not a bit. Like he was dead. I-I guess he's a real pro! What a great actor!</line>
 <line speaker="Phoenix">Y-yes, I suppose he was.</line>
 <line speaker="Cody">If I had my camera with me, that woulda been the time for a shot, I tell you.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"If" you had your camera? You mean, you weren't carrying your camera then?</line>
 <line speaker="Cody">N-no, I wasn't. I-it's not like I have it all the time!</line>
 <line speaker="Phoenix"><thought>Really...?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>I guess seeing the killing freaked him out and he went home...</thought></line>
 <line speaker="Mia">Phoenix. Remember, he's a child. Use gentle words... but be firm.</line>
 <line speaker="Phoenix"><thought>Easy for you to say...</thought></line>
@@ -279,7 +279,7 @@
 <line speaker="Judge">I see.</line>
 <line speaker="Phoenix">Anyway, Cody... I can't believe you wouldn't bring your camera on a trip to the studios! You did bring it, didn't you?</line>
 <line speaker="Cody">Umm...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Wright! How cruel you are, to terrorize a poor child so!</line>
 <line speaker="Phoenix">I don't care if he's a child or a prosecuting attorney! No one should lie in court!</line>
 <line speaker="Edgeworth">What do you mean "or a prosecuting attorney"!?</line>
@@ -291,13 +291,13 @@
 <line speaker="Cody">Y-yeah, I had my camera with me.</line>
 <line speaker="Judge">Hmm... Ah? Is that all? Well, that was brief. Mr. Wright, your cross-examination.</line>
 <line speaker="Cody">Y-yeah, I had my camera with me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, why didn't you use it?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">He's getting to that! Relax and listen.</line>
 <line speaker="Cody">Umm... I didn't use it 'cause I was too busy watching the real thing!</line>
 <line speaker="Cody">But I was glued to the action! I couldn't take my eyes off it!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you were watching the Steel Samurai. Did you watch the whole fight?</line>
 <line speaker="Cody">Y-yeah, of course!</line>
 <line speaker="Phoenix">You didn't turn away, not even once?</line>
@@ -305,7 +305,7 @@
 <line speaker="Phoenix">Okay, then tell us exactly what happened.</line>
 <line speaker="Cody">Y-yeah! I'm getting to that!</line>
 <line speaker="Cody">The Steel Samurai, he goes for the bad guy... wham!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So the bad guy attacked him first?</line>
 <line speaker="Cody">Yeah!</line>
 <line speaker="Phoenix">What sort of person was this "bad guy"?</line>
@@ -314,7 +314,7 @@
 <line speaker="Cody">... I kinda don't remember. I was too busy watching the Steel Samurai!</line>
 <line speaker="Edgeworth">I see. And what happened next?</line>
 <line speaker="Cody">Then... then the bad guy stopped moving!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why?</line>
 <line speaker="Cody">Huh? Whaddya mean, "why"?</line>
 <line speaker="Phoenix">Why wasn't the bad guy moving?</line>
@@ -326,7 +326,7 @@
 <line speaker="Phoenix"><thought>How should I play this?</thought></line>
 <line speaker="Phoenix"><thought>Yeah... If I press too hard now, the judge might keep me from continuing. I'll sit back and see how the rest of this goes.</thought></line>
 <line speaker="Cody">He's so strong! The Steel Samurai rules!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What did you do after the bad guy fell, Cody?</line>
 <line speaker="Cody">... Um, actually... The fight was so... so intense that I got kinda scared. So I went straight home.</line>
 <line speaker="Phoenix"><thought>Something isn't adding up here...</thought></line>
@@ -337,9 +337,9 @@
 <line speaker="Phoenix">Something's bothering me. Before you said that you "couldn't take your eyes off" the action.</line>
 <line speaker="Cody">Y-yeah? So what?</line>
 <line speaker="Phoenix">Yet you missed the most important part!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">What is the meaning of this? The witness has stated what he saw quite clearly...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You know as well as I do that he's being vague! Tell me, what kind of murderer uses a "Samurai Slap"!?</line>
 <line speaker="Edgeworth">M-mmph!</line>
 <line speaker="Phoenix">My point is this: Cody, you may have seen some of the Steel Samurai's fight... But you missed the most important part: the killing blow!</line>
@@ -348,7 +348,7 @@
 <line speaker="Mia">Phoenix! I believe you're on the right track with this! Think: why didn't Cody see the climax of the fight? I know you! You can figure this out!</line>
 <line speaker="Judge">Mr. Wright, your answer! We have ascertained that this young boy is a great fan of the Steel Samurai... Why wouldn't he watch the climax of the fight?</line>
 <line speaker="Phoenix">Because he couldn't watch it! How could he calmly watch a murder taking place at his age!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Just a moment, please... One thing has become quite clear in this boy's testimony. He did not believe he was witnessing a murder! He was watching the Steel Samurai fight, like on TV. The more real the fight, the more he would have watched!</line>
 <line speaker="Phoenix">Umm... huh.</line>
 <line speaker="Judge">I have to agree with Mr. Edgeworth. Well, Mr. Wright. Do you have another explanation?</line>
@@ -363,8 +363,8 @@
 <line speaker="Phoenix">Your Honor, I have evidence.</line>
 <line speaker="Judge">"Evidence"...?</line>
 <line speaker="Phoenix">Yes, Your Honor. Why did Cody look away from the fight?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here's my proof!</line>
 <line speaker="Judge">Proof?</line>
 <line speaker="Phoenix">Um, uh... Can I... do that again? <thought>This doesn't prove anything...!</thought></line>
@@ -393,7 +393,7 @@
 <line speaker="Judge">Hmm... Anything strange in that testimony, Mr. Wright?</line>
 <line speaker="Phoenix">I'm not sure... But I'd like to proceed with the cross-examination anyway.</line>
 <line speaker="Cody">Yeah, you're right, pops.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Pops"...?</line>
 <line speaker="Cody">Yeah, I called you "pops," you spiky-haired geezer!</line>
 <line speaker="Phoenix">G-geezer...?</line>
@@ -403,22 +403,22 @@
 <line speaker="Phoenix">Okay, off with the kid gloves! Testify, witness, testify!</line>
 <line speaker="Cody">Yipes!</line>
 <line speaker="Cody">The Steel Samurai had just escaped from the clutches of the villain.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you did see the beginning of the fight?</line>
 <line speaker="Cody">Yeah.</line>
 <line speaker="Phoenix">Did you notice anything unusual?</line>
 <line speaker="Cody">Umm... well... uh... I guess the Steel Samurai was moving a little strange...</line>
 <line speaker="Phoenix"><thought>Moving... strangely?</thought></line>
 <line speaker="Cody">So I held up my camera to take a picture!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why couldn't you take a picture?</line>
 <line speaker="Cody">My new camera has too many buttons. I couldn't figure it out. I tried to take a picture, I really tried.</line>
 <line speaker="Cody">But the lens wouldn't open in time, so I missed it.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">When the lens opened, what did you see?</line>
 <line speaker="Cody">Uh... well, a person on the ground. And the Steel Samurai!</line>
 <line speaker="Cody">Th-that's all that happened. Yup.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">That's all?</line>
 <line speaker="Cody">Y-yeah! I told you, I didn't take a picture!</line>
 <line speaker="Phoenix"><thought>Hmm... I would have, once I got that lens open... Did he really not take a picture? Not even one?</thought></line>
@@ -434,13 +434,13 @@
 <line speaker="Change statement">"Th-that's all that happened. Yup." to "I took a few shots, but it was too late, so I erased 'em."</line>
 <line speaker="Phoenix"><thought>He looks ready to burst into tears... I'd better lay off him for now.</thought></line>
 <line speaker="Cody">I took a few shots, but it was too late, so I erased 'em.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You "erased" them?</line>
 <line speaker="Cody">Y-yeah!</line>
 <line speaker="Phoenix">Why would you erase a picture of your beloved Steel Samurai, victorious?</line>
 <line speaker="Cody">Well... y'know. W-why would I want to keep a picture like that?</line>
 <line speaker="Phoenix"><thought>Hmm... he's becoming less and less cooperative. I better find a clear contradiction soon... or some solid evidence.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>How can I pick holes in such a short testimony?</thought></line>
 <line speaker="Mia">There has to be something. Dig up the dirt, Phoenix! Find out what this kid's all about!</line>
 <line speaker="Phoenix">Cody!</line>
@@ -503,7 +503,7 @@
 <line speaker="Phoenix">There was no victim in this case!</line>
 <line speaker="Judge">Wh-wh-what!? Has the defense taken leave of its senses!?</line>
 <line speaker="Phoenix">Of course, Jack Hammer died. But the Steel Samurai fell too! It was a draw!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">... Sorry. I was too shocked to say anything for a bit there. Listen, Wright! Only one person died in this incident, and that is Jack Hammer! Yet now you claim there "was no victim"? Are you insane?</line>
 <line speaker="Phoenix"><thought>Uh oh, he's pulling out all the stops now.</thought> ... I'm sorry. It was I who was wrong.</line>
 <line speaker="Edgeworth">Okay, Wright! First you're right, now you're wrong!? Which is it!?</line>
@@ -542,15 +542,15 @@
 <line speaker="Judge">C-certainly. I don't see why not.</line>
 <line speaker="Mia">Phoenix! Show him! There's a glaring, decisive inconsistency with the facts as we know them in that photo!</line>
 <line speaker="Phoenix"><thought>Find the inconsistency in the photo!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It's right here!</line>
 <line speaker="Judge">The Steel Samurai...?</line>
 <line speaker="Phoenix">Yes, that's about the only thing in this picture that could be inconsistent. The Steel Samurai is inconsistent with... something.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Wright! This is no time for daydreaming and pointless pontification! Think about your client, and us, who are forced to listen to your rambling!</line>
 <line speaker="Judge">Mr. Wright, please rethink your position.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I think it's here.</line>
 <line speaker="Judge">You seem to be lacking even more confidence than usual.</line>
 <line speaker="Phoenix">I suppose that's because I'm not confident about it at all.</line>
@@ -566,8 +566,8 @@
 <line speaker="Edgeworth">B-but... Th-that's impossible!</line>
 <line speaker="Judge">Hmm? Eh? What's this all about? Please explain so that I might be shocked along with the rest of the court.</line>
 <line speaker="Phoenix">I'll use the studio guidemap. The body was found here, in Studio One. However, what do we see in this photo taken at the time of the murder? It does NOT say "1" on that gate in the photo. Your Honor! Here is the true scene of the crime! <thought>Show the judge where the murder took place!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It was here!</line>
 <line speaker="Judge">What does that have to do with the number on the gate in the photograph...?</line>
 <line speaker="Phoenix">Umm... well... Sorry, Your Honor, I guess I hadn't thought it that far through yet.</line>
@@ -592,7 +592,7 @@
 <line speaker="Phoenix">S-stabbing away, Your Honor.</line>
 <line speaker="Judge">O-order! Order!</line>
 <line speaker="Phoenix">The defense makes the following claims: The scene of the crime was Studio Two! The person that the security guard, Ms. Oldbag saw was the victim, Mr. Jack Hammer! Mr. Hammer, for some reason, stole a Steel Samurai costume. Then he went to Studio Two!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This is madness! Jack Hammer is the victim! The victim! Why would he steal a Steel Samurai costume!? Are you suggesting he did so to cover up the details of his own murder!?</line>
 <line speaker="Phoenix">W-well, no, of course not...</line>
 <line speaker="Judge">Hmm...</line>
@@ -607,8 +607,8 @@
 <line speaker="Judge">Yes, Mr. Wright?</line>
 <line speaker="Phoenix">Actually... I do have proof.</line>
 <line speaker="Phoenix">Here's my proof that Jack Hammer stole the costume!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix"><thought>Wait, no, that can't be right... I've got to have some proof that will knock their socks off...</thought></line>
 <line speaker="Judge">Mr. Wright! We don't have all the time in the world, here.</line>
 <line speaker="Phoenix">Y-yes, Your Honor!</line>
@@ -621,7 +621,7 @@
 <line speaker="Phoenix">Your Honor, I have an idea.</line>
 <line speaker="Judge">An... idea? Continue.</line>
 <line speaker="Phoenix">Run a test of Powers's blood. You should find traces of the sleeping pills.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This much time after the day of the murder!? Even if there were traces it still proves nothing! No blood test could tell that Hammer was the one who drugged him, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>He's right. Darn. That didn't work. Time to try another idea.</thought></line>
 <line speaker="Judge">An idea, Mr. Wright? And that would be?</line>
@@ -652,25 +652,25 @@
 <line speaker="Will">Are you sure?</line>
 <line speaker="Phoenix"><thought>I wasn't kidding...</thought> Now, Mr. Powers. We have to go make our final investigation. But I promise you, we'll find the true killer by tomorrow's trial!</line>
 <line speaker="Will">R-right! Thanks! *sniff*</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow?</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track?</thought></line>

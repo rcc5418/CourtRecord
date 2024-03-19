@@ -1,6 +1,6 @@
 
-<line>The Cosmic Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Cosmic Turnabout</title>
 <line speaker="Apollo">The courtroom bombing incident -- a terrible attack launched by the will of a madman. That incident perfectly symbolized the state of the legal world in this dark age of the law. Mr. Wright brought it to a resolution... of sorts. Ted Tonate was discovered to be the one responsible for the bombing. ............If only it were that simple. Somehow, I can't help but think... ...that there's a darker influence at work -- one that's lurking in the shadows, waiting... That's why I want to review the trial that was taking place when the bombing occurred. After all, I've got more than a few personal stakes in it...</line>
 <line speaker="Operator">One hour remaining until launch. Please begin your final equipment check.</line>
 <line speaker="Astronaut">Check complete! Everything's all okay! We're ready here whenever you are!</line>
@@ -195,7 +195,6 @@
 <line speaker="Athena">Hmm... It's like he's trying to give us as little information as possible.</line>
 <line speaker="Apollo">Maybe Prosecutor Blackquill's got his tongue...</line>
 <line speaker="Athena">Well, don't let that hold you back. Keep pressing until we get what we need!</line>
-<line speaker="After pressing all statements">Judge:</line>
 <line speaker="Apollo"><thought>What little I could get out of him only hurt my case.</thought></line>
 <line speaker="Blackquill">Hmph. Justice-dono, foolish is the warrior who rushes headlong into battle. Preparation is an essential element of battle, so I advise you to take a gander at this.</line>
 <line speaker="Apollo">What is it...?</line>

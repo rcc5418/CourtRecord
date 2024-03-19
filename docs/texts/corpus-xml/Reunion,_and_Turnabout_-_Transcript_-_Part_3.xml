@@ -371,7 +371,7 @@
 <line speaker="Pearl">Oh, that's right. She also wanted me to tell you, "Goin' on a trip to find myself, so don't ya bother findin' me!"</line>
 <line speaker="Phoenix">O-Oh... Well, thanks.</line>
 <line speaker="Pearl">You're welcome.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Pearl. You have to tell me what you were doing when the murder happened, OK?</line>
 <line speaker="Pearl">Um... But what if I can't just tell you what happened...?</line>
 <line speaker="Phoenix">Then I'll guess what happened. How does that sound?</line>
@@ -379,8 +379,8 @@
 <line speaker="Phoenix">You'll tell me if I guess something right, won't you?</line>
 <line speaker="Pearl">...Y-Yes...</line>
 <line speaker="Phoenix">Now, when the murder was taking place, you were here, right?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I'm pretty smart, Pearls. I know you were right here.</line>
 <line speaker="Pearl">No, I wasn't...</line>
 <line speaker="Phoenix">Huh? I'm wrong?</line>
@@ -393,8 +393,8 @@
 <line speaker="Phoenix">Man, oh man... Alright, what next...? OK, I think I know what you were doing there.</line>
 <line speaker="Pearl">D-Do you really know that much?</line>
 <line speaker="Phoenix">Well, I am a lawyer, you know. Now, what was it Pearls was doing in the Winding Way?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Pearl">...</line>
 <line speaker="Phoenix">So?</line>
 <line speaker="Pearl">I feel just a little better.</line>
@@ -410,8 +410,8 @@
 <line speaker="Phoenix">Something happened, huh? ...Something really bad...</line>
 <line speaker="Pearl">*gulp!* Wh-What do you mean, "something"!? N-N-Nothing happened...!</line>
 <line speaker="Phoenix">This is it. While you were playing with your ball, this happened!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Pearl">...</line>
 <line speaker="Phoenix">Were you so surprised that you were shocked into silence?</line>
 <line speaker="Pearl">...Yes, at how wrong you are, even though you were so sure of yourself...</line>
@@ -433,8 +433,8 @@
 <line speaker="Pearl">I-I-It's so old... So it's not that weird... to have a few cracks...</line>
 <line speaker="Phoenix"><thought>Her voice is shaking...</thought></line>
 <line speaker="Pearl">H-How can you tell that urn has been broken!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Pearl">...I'm sorry. I don't want to be mean, but...</line>
 <line speaker="Phoenix"><thought>*sigh* I figured...</thought></line>
 <line speaker="Pearl">Um, do you want to try again?</line>
@@ -775,7 +775,7 @@
 <line speaker="Ini">Hey! Like, I haven't seen you in a while...</line>
 <line speaker="Phoenix">Yeah. <thought>I think I have enough to finally unlock her secret...</thought></line>
 <line speaker="Ini">...Like, what's with that scary look on your face...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Please tell me about the traffic accident.</line>
 <line speaker="Ini">Huh? Like, whose accident?</line>
 <line speaker="Phoenix">Your sister's accident, naturally!</line>
@@ -783,8 +783,8 @@
 <line speaker="Phoenix">Hmm...</line>
 <line speaker="Phoenix"><thought>Interesting... Ini just asked, "Whose accident?"... Which means... She must know something about another person's accident...</thought> Alright, let's change the topic, then. How about you tell me about a certain other person's accident?</line>
 <line speaker="Ini">Huh? Another person's accident...? Like, you got someone in mind?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ini">Oh wow. So, like, that person had a car accident too?</line>
 <line speaker="Phoenix">You can't tell me you don't know.</line>
 <line speaker="Ini">Like, how would I know if that person, like, had an accident?</line>
@@ -795,8 +795,8 @@
 <line speaker="Ini">M... Me!?</line>
 <line speaker="Phoenix">Yes.</line>
 <line speaker="Ini">So, wow, like, how strange. I have, like, no idea what you're talking about. Can you, like, prove I was in, like, an accident?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here is your proof.</line>
 <line speaker="Ini">...Like, this is so totally bringing me down.</line>
 <line speaker="Phoenix">H-Huh?</line>
@@ -816,8 +816,8 @@
 <line speaker="Ini">Like, totally, wow... What a scary coincidence! I'm totally getting, like, goosebumps.</line>
 <line speaker="Phoenix"><thought>Y-You think I'm going to let you get away with that!?</thought></line>
 <line speaker="Ini">So, like, now what? Like, do you have something that totally says I was hospitalized?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ini">Um, like, you shouldn't throw, like, truffling things around, you know?</line>
 <line speaker="Phoenix">...Truffling? <thought>Um, "trifling", maybe?</thought></line>
 <line speaker="Ini">So, like, let's use our brains, OK?</line>
@@ -834,8 +834,8 @@
 <line speaker="Phoenix">That woman who died -- who do you suppose they mean?</line>
 <line speaker="Ini">...</line>
 <line speaker="Phoenix">Do you suppose the woman who died in that accident could be...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Do you suppose it could be this person...?</line>
 <line speaker="Ini">... Like, no way.</line>
 <line speaker="Phoenix">...Huh?</line>
@@ -900,12 +900,12 @@
 <line speaker="Phoenix">Mia, I want to help Maya any way I can. And to do that, I need to know who the real murderer is...</line>
 <line speaker="Mia">I know. Now, show me your ability as a lawyer.</line>
 <line speaker="Phoenix"><thought>This is it... The real murderer that Mia's been hesitant to name all this time!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Phoenix... You think I'm hiding information about someone from you... Isn't that right?</line>
 <line speaker="Phoenix">Yes.</line>
 <line speaker="Mia">Alright, then. Tell me who you think I'm protecting.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Um, I think you're trying to protect this person...?</line>
 <line speaker="Mia">Phoenix. Don't let me down like this.</line>
 <line speaker="Phoenix">I... I'm sorry.</line>
@@ -916,7 +916,7 @@
 <line speaker="Mia">Well done, but... While the murder was being committed, my aunt was outside with everyone else. Which means she already has an alibi.</line>
 <line speaker="Phoenix">That's true...</line>
 <line speaker="Mia">Show me some evidence that would cast suspicion onto my aunt.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">My evidence is this black key.</line>
 <line speaker="Mia">...</line>
 <line speaker="Phoenix">At the beginning of the channeling, Maya had possession of this key. And yet, somehow, it magically ended up in the incinerator in the center garden.</line>
@@ -931,8 +931,8 @@
 <line speaker="Mia">Someone could have found the key somewhere and dumped it into the incinerator.</line>
 <line speaker="Phoenix">But that's...</line>
 <line speaker="Mia">That prosecutor would use something this small to shred your case. Do you have something other than just the key to cast suspicion on Morgan?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Phoenix, we don't have any time left.</line>
 <line speaker="Phoenix"><thought>I haven't even said anything yet...</thought></line>
 <line speaker="Mia">You can't pin my aunt as the murderer with one piece of evidence alone.</line>
@@ -947,7 +947,7 @@
 <line speaker="Mia">Changed her clothes? But why...?</line>
 <line speaker="Phoenix">I don't know why. But... There is only one person who could've done that.</line>
 <line speaker="Mia">The one person who was taking care of Maya... My aunt.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The proof is this piece of cloth.</line>
 <line speaker="Mia">...</line>
 <line speaker="Phoenix">I found it in the incinerator near the Winding Way. It's the same material as Maya's costume... Except for the splotch of blood.</line>
@@ -964,8 +964,8 @@
 <line speaker="Mia">You have no proof that this piece of cloth is actually from Maya's costume.</line>
 <line speaker="Phoenix">But... this blood...</line>
 <line speaker="Mia">And do you know whose blood that is at this point in time? You don't, do you? Do you have any proof that piece of cloth is from Maya's costume?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Phoenix, we don't have any time left.</line>
 <line speaker="Phoenix"><thought>I haven't even said anything yet...</thought></line>
 <line speaker="Mia">You can't pin my aunt as the murderer with one piece of evidence alone.</line>
@@ -979,7 +979,7 @@
 <line speaker="Phoenix">Someone changed her into a different set of clothes. And then, burned the costume she was wearing in the incinerator. There is only one person who could've done that.</line>
 <line speaker="Mia">The one person who was taking care of Maya... My aunt.</line>
 <line speaker="Phoenix">Exactly!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Um, I think this...?</line>
 <line speaker="Mia">No. You're wrong. Try again.</line>
 <line speaker="Phoenix">You're really unforgiving today, Mia...</line>
@@ -995,8 +995,8 @@
 <line speaker="Mia">Here's my final question. You don't have to present solid proof of this for me. But I want to know. If my aunt is the culprit, then how did she commit the murder?</line>
 <line speaker="Phoenix">How she did it, huh...?</line>
 <line speaker="Mia">I want to hear your thoughts. In order for my aunt to murder Dr. Grey, who or what did she need...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">... <thought>No idea... Just throwing things out now...</thought></line>
 <line speaker="Mia">...And you were so close too, Phoenix.</line>
 <line speaker="Phoenix">Yeah...</line>

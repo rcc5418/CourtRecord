@@ -1,6 +1,6 @@
 
-<line>Turnabout Revolution</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Revolution</title>
 <line speaker="Defiant Dragons Henchman Actor">Heeheeheehahaha!</line>
 <line speaker="Rayfa Actress">Aaah! Why me?!</line>
 <line speaker="Dhurke Actor">Mwahahahaha! It's time for a revolution!</line>
@@ -150,7 +150,6 @@
 <line speaker="Apollo"><thought>I wonder if I could channel spirits if I had such power.</thought></line>
 <line speaker="Dhurke">Brings back memories... He was a fine young man. So cheerful and fun to be around. His big, booming singing voice would captivate everyone in the tavern. But looks-wise, he was like a grownup version of you.</line>
 <line speaker="Apollo">Um, that still doesn't give me a sense of what my real father was like.</line>
-<line speaker="After clearing all Talk options">Dhurke:</line>
 <line speaker="Apollo">Not right now.</line>
 <line speaker="Dhurke">Ah, I almost forgot. I brought you a present. Eat up, son!</line>
 <line speaker="Apollo">...Sushi?</line>
@@ -1159,7 +1158,6 @@
 <line speaker="Apollo">This thing is covered with pictures. And, hey! Each section also rotates!</line>
 <line speaker="Dhurke">Take a look at this, son. See the picture of a dragon battling a tiger? And this green and purple one... ...is of a Khura'inese butterfly and a mitamah.</line>
 <line speaker="Apollo">...I wonder if they're clues for figuring out how to open this box.</line>
-<line speaker="After examining button and pictures">Dhurke:</line>
 <line speaker="Apollo">Let's see... There's the dragon and tiger fight, a Khura'inese butterfly with a mitamah...</line>
 <line speaker="Dhurke">...And a number of pictures, too.</line>
 <line speaker="Apollo">Dhurke, I was thinking... Maybe we should check the evidence we've collected so far. I think we have something that just might help us open it.</line>

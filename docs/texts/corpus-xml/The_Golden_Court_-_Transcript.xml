@@ -424,7 +424,7 @@
 <line speaker="Birdly">............ That's pretty much what I expressed in my song.</line>
 <line speaker="Phoenix">I knew all that already.</line>
 <line speaker="Birdly">Even a peerless bard such as myself may not always be completely up to date with all the latest information. Isn't that so, Cracker? You understand, don't you, my peerless feathery partner?</line>
-<line speaker="Cracker">...<cutIn>Hold it!</cutIn> <cutIn>Hold it!</cutIn> ...<cutIn>Hold it!</cutIn> <cutIn>Hold it!</cutIn></line>
+<line speaker="Cracker">...<cutIn type="holdIt">Hold it!</cutIn> <cutIn type="holdIt">Hold it!</cutIn> ...<cutIn type="holdIt">Hold it!</cutIn> <cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Espella">What an adorable bird! He's imitating you this time, Mr Wright!</line>
 <line speaker="Phoenix"><thought>I'm being parroted by a parrot...</thought></line>
 <line speaker="Barnham">We capture all witches. Without exception. This one may have been at large longer than others...but she will not escape us.</line>
@@ -1501,7 +1501,7 @@
 <line speaker="Judge">Knights of the Court, squabbling with a witness is most unseemly. What I would like to know now is this: who was the lady that made the request of Emeer?</line>
 <line speaker="Emeer">Uhm... Oh, yeah. That was, actually, Miss...</line>
 <line speaker="???">Siiiiiiiirrr!</line>
-<line speaker="???* <thought>Lettie Mailer</thought>">I think, uhm...he's absolutely certainly talking about me!</line>
+<line speaker="???">I think, uhm...he's absolutely certainly talking about me!</line>
 <line speaker="Judge">Oh...and you are...?</line>
 <line speaker="Mailer">Oh, I'm Lettie. Hang on a minute, I'll get down there post-haste!</line>
 <line speaker="Judge">But...Miss Lettie, who are you, precisely?</line>

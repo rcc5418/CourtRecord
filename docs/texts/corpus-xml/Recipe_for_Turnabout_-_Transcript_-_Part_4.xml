@@ -73,7 +73,7 @@
 <line speaker="Phoenix"><thought>What the heck!? It's way too early in the morning for this to be happening to me!</thought></line>
 <line speaker="Judge">Now then, Mr. Wright. You may begin your cross-examination.</line>
 <line speaker="Armstrong">When it all 'appened, z'ere were just two customers in my restaurant.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And who were the two customers, exactly?</line>
 <line speaker="Armstrong">Mais, of course. La young man who died... ...and la other, not-so-young, man.</line>
 <line speaker="Judge">Hmm... You are referring to yesterday's witness, I presume?</line>
@@ -81,7 +81,7 @@
 <line speaker="Maya">We need some hard evidence first before we can bring him up, don't we...?</line>
 <line speaker="Phoenix">I guess I'll just have to try a different approach for the time being.</line>
 <line speaker="Armstrong">I remember I was experimenting w'iz some new art deco z'at day.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You were experimenting with art deco? How come I never heard about that before today?</line>
 <line speaker="Armstrong">You are not familiar w'iz z'e language of interior design, monsieur?</line>
 <line speaker="Phoenix">Please stay on topic! Now, why didn't you tell the court about this before!?</line>
@@ -91,7 +91,7 @@
 <line speaker="Judge">Ah, yes. Of course. That "deco".</line>
 <line speaker="Armstrong">I was trying to achieve a more "la effeminate" look for my restaurant. I was planning z'e most bold remodeling of la decor.</line>
 <line speaker="Armstrong">Like 'aving a large mirror between la tables, for example.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How big of a mirror are we talking about here?</line>
 <line speaker="Armstrong">Bof! Something about 4 meters wide and, err... Oui. About 2 meters 'igh.</line>
 <line speaker="Phoenix"><thought>Let's see... If 1 meter is about 1 yard... Holy glass in a frame, that's huge!</thought></line>
@@ -103,7 +103,7 @@
 <line speaker="Godot">...</line>
 <line speaker="Phoenix">If you really had such a large mirror in the restaurant, someone would have noticed it! But there's nothing about a mirror in Mr. Kudo or Maggey Byrde's testimonies!</line>
 <line speaker="Armstrong">B-But...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">You didn't ask, Trite. You have only yourself to blame for such sloppy work.</line>
 <line speaker="Phoenix">What!?</line>
 <line speaker="Godot">A mirror was delivered to Trés Bien the day before the incident.</line>
@@ -113,9 +113,9 @@
 <line speaker="Godot">Ha...! If you want to doubt someone, Trite, look in the mirror. I'm sure the person looking back at you will be dubious enough!</line>
 <line speaker="Judge">Hmm... So the witness yesterday had seen the victim reflected in a mirror...</line>
 <line speaker="Armstrong">Oui! Per'aps z'at is what la old man was looking at.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Normally, I'd expect people to know the difference between a reflection and a real object.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">"Normally"? How does normality come into this? That's lame, Trite. Even for you.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Godot">Are you trying to say that if something isn't normal, it isn't possible? Is that it? Where does that leave the porcu-headed lawyer and the topknot chick over there... and the ungodly cool guy with the mask over here? Well, Trite!?</line>
@@ -124,7 +124,7 @@
 <line speaker="Judge">Mr. Godot is correct. A lack of normality is no basis for discounting an argument.</line>
 <line speaker="Armstrong">Bien! Logic 'as won la day!</line>
 <line speaker="Armstrong">La cup, la earpiece, and la glasses... 'E would 'ave seen everyz'ing in reverse, non?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Everything? He would have seen everything in reverse?</line>
 <line speaker="Armstrong">Oui.</line>
 <line speaker="Maya">Hey, Nick... We should take a sec and think about what Old Seedy said in his testimony...</line>
@@ -135,7 +135,7 @@
 <line speaker="Maya">If he saw everything he described reflected in a mirror... ...then everything he said he saw on the "left" was actually on the "right", huh.</line>
 <line speaker="Phoenix"><thought>And that clears up all the problems with his testimony, I guess... Or does it...?</thought></line>
 <line speaker="Godot">Ha...!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>It's kinda hard to believe everything's the fault of a mirror, but...</thought></line>
 <line speaker="Maya">Do you think Old Seedy saw everything through a reflection...?</line>
 <line speaker="Phoenix">If he did, it would explain all the contradictions in his testimony.</line>
@@ -147,7 +147,7 @@
 <line speaker="Armstrong">Exactement! You see, monsieur. Now z'at you think about it, it is not so 'ard, non?</line>
 <line speaker="Phoenix">Unfortunately, that's where we run into a monumental contradiction with the facts! If Mr. Kudo really did see everything in a mirror... ...why is it that the HMD is now on the wrong side of his head!?</line>
 <line speaker="Judge">Order! Order! ...Mr. Wright is correct! If the witness genuinely observed the victim reflected in a mirror... ...then we would expect the victim's eyepiece to have been over his right eye.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">...How bitter. Trite, you should have a taste of this bitterness. It'll calm you down in no time.</line>
 <line speaker="Phoenix">A-Are we talking about your coffee... or something completely different...?</line>
 <line speaker="Godot">You don't understand the way the witness thinks.</line>
@@ -172,11 +172,11 @@
 <line speaker="Armstrong">Volontiers! Of course!</line>
 <line speaker="Judge">Very well. Mr. Wright. Your cross-examination, if you please.</line>
 <line speaker="Armstrong">La mirror, it was in z'e middle of la restaurant, dividing z'e two 'alves.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, run this by me again. The mirror was here, correct?</line>
 <line speaker="Armstrong">Oui.</line>
 <line speaker="Phoenix">Oui? Really!? Because I know if I were you, I wouldn't have put a mirror there! It would be in the way!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Look who's talking, Trite.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Godot">You're obstructing my view, among other things.</line>
@@ -184,7 +184,7 @@
 <line speaker="Godot">Trés Bien's "charm" is that it gives you the impression that you're the only customer. Temporarily placing a mirror in that spot would hardly be "in the way". Unlike you... Trite.</line>
 <line speaker="Armstrong">I tell you, monsieur. la mirror was z'ere, in z'e middle of la restaurant.</line>
 <line speaker="Armstrong">Z'ere is only one seat from which you could 'ave seen an image of la victim.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And where would that be!?</line>
 <line speaker="Armstrong">Oh lá lá! Look 'ow you lean towards me! I always attract z'e younger boys! Maybe I should keep you in suspense a little longer!</line>
 <line speaker="Judge">Mr. Armstrong! Tell the court what you know at once!</line>
@@ -194,36 +194,36 @@
 <line speaker="Maya">I bet she has mocha-cream skin and cappuccino perfume.</line>
 <line speaker="Armstrong">Bien. I will tell you... Z'ere was only one seat from which you could 'ave seen...</line>
 <line speaker="Armstrong">Z'at was la seat at z'e table next to la victim's. Z'at was where la old man was sitting.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So why can you only see the victim from that particular seat?</line>
 <line speaker="Armstrong">Mais, monsieur. It is obvious, non? If you look at la plans you will understand. La victim would 'ave been reflected in la mirror like so. If you were sitting at la table next to 'im, you would see everything, non?</line>
 <line speaker="Maya">So that's the seat Old Seedy was sitting in on that day... ...when the poisoning happened.</line>
 <line speaker="Phoenix"><thought>The old man was sitting at the table next to the victim? Why does that seem kinda odd...?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! Mr. Kudo's words yesterday strongly contradict Mr. Armstrong's testimony!</line>
 <line speaker="Judge">This is... the letter of apology that was written by Mr. Kudo, is it not?</line>
 <line speaker="Phoenix">I realize it looks useless, Your Honor, but this is still testimony.</line>
 <line speaker="Godot">Ha...! I guess useless people are only really good at identifying useless things.</line>
 <line speaker="Judge">What relevance does this scrap of paper have to the trial, Mr. Wright?</line>
 <line speaker="Phoenix">Mr. Kudo's testimony is actually very relevant to the question at hand, Your Honor! Because it very clearly contradicts with this piece of evidence!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This piece of evidence contradicts with testimony we have heard, Your Honor!</line>
 <line speaker="Judge">The crime photo...?</line>
 <line speaker="Phoenix">Yes. This photo clearly shows something that theoretically should not exist!</line>
 <line speaker="Judge">What on Earth do you mean by that, Mr. Wright!?</line>
 <line speaker="Godot">"Should not exist"? Ha... Sounds like you're describing yourself, Trite.</line>
 <line speaker="Judge">Now then, if the defense would please clarify its statement. What is the something that "should not exist" in this photo?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is what should not be in the picture!</line>
 <line speaker="Judge">I'm sorry? I'm afraid you've lost me.</line>
 <line speaker="Phoenix">Um...</line>
 <line speaker="Godot">Ha...! I suppose it's up to me to clarify the defense's claim. The something that "shouldn't exist" is clearly...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">W-Wait, wait, wait! I've change my mind, Your Honor! <thought>The last thing I need right now is a scalding hot coffee shower...</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Your Honor?</line>
 <line speaker="Judge">Well... ...I'm not sure the contradiction... ...is as clear as you would have us believe, Mr. Wright.</line>
 <line speaker="Phoenix">...Oh.</line>
@@ -231,19 +231,19 @@
 <line speaker="Phoenix">Try again...? <thought>You mean I was wrong?</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This piece of evidence contradicts with testimony we have heard, Your Honor!</line>
 <line speaker="Judge">The crime photo...?</line>
 <line speaker="Phoenix">Yes. This photo clearly shows something that theoretically should not exist!</line>
 <line speaker="Judge">What on Earth do you mean by that, Mr. Wright!?</line>
 <line speaker="Godot">"Should not exist"? Ha... Sounds like you're describing yourself, Trite.</line>
 <line speaker="Judge">Now then, if the defense would please clarify its statement. What is the something that "should not exist" in this photo?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I think it's pretty obvious that this is what should not be in the picture!</line>
 <line speaker="Judge">The vase!? What possible connection does that have with this witness's testimony?</line>
 <line speaker="Phoenix">Your Honor... I'm telling you that there should have been no vase on this table. Because it very clearly contradicts with this piece of evidence!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Your Honor?</line>
 <line speaker="Judge">Well... ...I'm not sure the contradiction... ...is as clear as you would have us believe, Mr. Wright.</line>
 <line speaker="Phoenix">...Oh.</line>
@@ -251,17 +251,17 @@
 <line speaker="Phoenix">Try again...? <thought>You mean I was wrong?</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is what should not be in the picture!</line>
 <line speaker="Judge">I'm sorry? I'm afraid you've lost me.</line>
 <line speaker="Phoenix">Um...</line>
 <line speaker="Godot">Ha...! I suppose it's up to me to clarify the defense's claim. The something that "shouldn't exist" is clearly...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">W-Wait, wait, wait! I've change my mind, Your Honor! <thought>The last thing I need right now is a scalding hot coffee shower...</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
 <line speaker="Armstrong">After la terrible incident occurred, I move la mirror so it was not in z'e way.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you move the mirror while Mr. Kudo was off calling the police?</line>
 <line speaker="Armstrong">Oui. Exactement. I carried it out of la restaurant z'en.</line>
 <line speaker="Phoenix">You moved a huge mirror like that all by yourself?</line>
@@ -272,7 +272,7 @@
 <line speaker="Judge">Well, given the witness's physique, I suppose it is possible. Did you move anything else from the crime scene, Mr. Armstrong?</line>
 <line speaker="Armstrong">I look like z'e obliging type, non?</line>
 <line speaker="Armstrong">But naturally, I did not touch anything else!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure about that?</line>
 <line speaker="Armstrong">I touched nothing except la mirror!</line>
 <line speaker="Phoenix">...</line>
@@ -282,31 +282,31 @@
 <line speaker="Armstrong">Oh, I 'ave just z'e thing for z'at! An oil with golden myrrh and frankenstaince...</line>
 <line speaker="Godot">Add a few drops to your coffee, and voila! Enjoy.</line>
 <line speaker="Phoenix"><thought>Focus, Phoenix. Breathe... I need to ignore those two and just find some evidence.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! Mr. Kudo's words yesterday strongly contradict Mr. Armstrong's testimony!</line>
 <line speaker="Judge">This is... the letter of apology that was written by Mr. Kudo, is it not?</line>
 <line speaker="Phoenix">I realize it looks useless, Your Honor, but this is still testimony.</line>
 <line speaker="Godot">Ha...! I guess useless people are only really good at identifying useless things.</line>
 <line speaker="Judge">What relevance does this scrap of paper have to the trial, Mr. Wright?</line>
 <line speaker="Phoenix">Mr. Kudo's testimony is actually very relevant to the question at hand, Your Honor! Because it very clearly contradicts with this piece of evidence!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This piece of evidence contradicts with testimony we have heard, Your Honor!</line>
 <line speaker="Judge">The crime photo...?</line>
 <line speaker="Phoenix">Yes. This photo clearly shows something that theoretically should not exist!</line>
 <line speaker="Judge">What on Earth do you mean by that, Mr. Wright!?</line>
 <line speaker="Godot">"Should not exist"? Ha... Sounds like you're describing yourself, Trite.</line>
 <line speaker="Judge">Now then, if the defense would please clarify its statement. What is the something that "should not exist" in this photo?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is what should not be in the picture!</line>
 <line speaker="Judge">I'm sorry? I'm afraid you've lost me.</line>
 <line speaker="Phoenix">Um...</line>
 <line speaker="Godot">Ha...! I suppose it's up to me to clarify the defense's claim. The something that "shouldn't exist" is clearly...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">W-Wait, wait, wait! I've change my mind, Your Honor! <thought>The last thing I need right now is a scalding hot coffee shower...</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Your Honor?</line>
 <line speaker="Judge">Well... ...I'm not sure the contradiction... ...is as clear as you would have us believe, Mr. Wright.</line>
 <line speaker="Phoenix">...Oh.</line>
@@ -314,19 +314,19 @@
 <line speaker="Phoenix">Try again...? <thought>You mean I was wrong?</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This piece of evidence contradicts with testimony we have heard, Your Honor!</line>
 <line speaker="Judge">The crime photo...?</line>
 <line speaker="Phoenix">Yes. This photo clearly shows something that theoretically should not exist!</line>
 <line speaker="Judge">What on Earth do you mean by that, Mr. Wright!?</line>
 <line speaker="Godot">"Should not exist"? Ha... Sounds like you're describing yourself, Trite.</line>
 <line speaker="Judge">Now then, if the defense would please clarify its statement. What is the something that "should not exist" in this photo?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I think it's pretty obvious that this is what should not be in the picture!</line>
 <line speaker="Judge">The vase!? What possible connection does that have with this witness's testimony?</line>
 <line speaker="Phoenix">Your Honor... I'm telling you that there should have been no vase on this table. Because it very clearly contradicts with this piece of evidence!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Your Honor?</line>
 <line speaker="Judge">Well... ...I'm not sure the contradiction... ...is as clear as you would have us believe, Mr. Wright.</line>
 <line speaker="Phoenix">...Oh.</line>
@@ -334,27 +334,27 @@
 <line speaker="Phoenix">Try again...? <thought>You mean I was wrong?</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is what should not be in the picture!</line>
 <line speaker="Judge">I'm sorry? I'm afraid you've lost me.</line>
 <line speaker="Phoenix">Um...</line>
 <line speaker="Godot">Ha...! I suppose it's up to me to clarify the defense's claim. The something that "shouldn't exist" is clearly...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">W-Wait, wait, wait! I've change my mind, Your Honor! <thought>The last thing I need right now is a scalding hot coffee shower...</thought></line>
 <line speaker="Judge">Very well. Gather your thoughts, Mr. Wright. In the meantime, the witness will repeat his testimony for the court.</line>
 <line speaker="Armstrong">Oui. I would be delighted!</line>
 <line speaker="Maya">It is pretty strange, though, isn't it? I mean, nobody mentioned anything about a really large mirror. You'd think someone would've, but Maggey didn't, and neither did Old Seedy.</line>
 <line speaker="Phoenix">Then the only logical explanation is... ...that there was no mirror inside Trés Bien that day. <thought>Now I've just got to prove it... Somehow...</thought></line>
 <line speaker="Phoenix">There is one thing that was clearly demonstrated by yesterday's testimony. Mr. Kudo broke the vase that was on the table where he was sitting. And yet! As the court can see, there is an unbroken vase on the table next to the victim! Why? Because Mr. Kudo was not, in fact, sitting at the table next to the victim at all!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Don't be an idiot, Trite! That's impossible! That seat's the only one he could've seen the victim's reflection from!</line>
 <line speaker="Phoenix">Exactly!</line>
 <line speaker="Godot">...!</line>
 <line speaker="Phoenix">There is only one conclusion we can draw from this contradiction. There was no mirror in Trés Bien that day! Your testimony, Mr. Armstrong, is an elaborate lie!</line>
 <line speaker="Armstrong">Mon dieeeeeeeu!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Don't try to confuse the court, Trite! Obviously, the witness cleaned up the vase... ...while the police were taking their time getting to the crime scene!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Unfortunately, Mr. Godot, that doesn't quite work for me. Mr. Armstrong already testified to the contrary. In his own words... "I did not touch anything else" except the mirror!</line>
 <line speaker="Godot">Ur... urgh! ... Gaaaaaaaaargh!</line>
 <line speaker="Judge">Well, witness? What do you have to say for yourself?</line>
@@ -380,7 +380,7 @@
 <line speaker="Phoenix">I believe we're looking at this the wrong way. It was actually the doctor's mistake.</line>
 <line speaker="Judge">What?</line>
 <line speaker="Phoenix">Yes. The doctor got the wrong ear!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Well, I believe we saw an autopsy report yesterday. One that stated the victim's left eardrum was ruptured, and had medicine in it!</line>
 <line speaker="Judge">I'm beginning to wonder if it's not your eardrum that's ruptured, Mr. Wright.</line>
 <line speaker="Maya">This is no time to be playing with people's perceptions, Nick!</line>
@@ -397,17 +397,17 @@
 <line speaker="Judge">WHAT DID YOU SAY!?</line>
 <line speaker="Godot">Trite... Are you saying what Mr. Kudo saw was a set-up?</line>
 <line speaker="Phoenix">Yes. Someone pretended to be Glen Elg and acted out the whole coffee poisoning. All for the express purpose of creating a "witness" out of one Mr. Victor Kudo!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Get real, Trite! Why would anyone want to do that?</line>
 <line speaker="Phoenix">Isn't it obvious? The thing Mr. Kudo was most insistent about in his testimony was...</line>
 <line speaker="Kudo">The serving girl brought him a javaccino... But she put something in it! That's the serving girl, right there in the defendant's chair. I remember her well!</line>
 <line speaker="Judge">I-It's so hard to believe, but...</line>
 <line speaker="Phoenix">There was one, and only one reason to show Mr. Kudo this fake poisoning! To show Maggey Byrde in the act of poisoning the coffee!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Are you insinuating that the waitress in the old man's story was a fake as well? It's true that there were no customers in the restaurant at the time, but... ...it's also true that the chef was there! He would have noticed what was happening.</line>
 <line speaker="Judge">Th-That's right! Well, witness? If your restaurant really was the scene of such theatrics... ...you would have known about it, correct!?</line>
 <line speaker="Armstrong">Oh lá lá... Z'is is most difficult for me...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">No, it's quite simple. All you have to do is testify. You are under oath, after all. Was there, in fact, a phony at Trés Bien that day!? The defense demands that Mr. Armstrong tell the whole truth about what happened.</line>
 <line speaker="Judge">The defense's request for additional testimony is accepted. You will accurately explain, in detail, the events in the restaurant that day!</line>
 <line speaker="Armstrong">Ou... Oui.</line>
@@ -419,11 +419,11 @@
 <line speaker="Judge">For now, we will hear your cross-examination, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Hmm.. He took that perjury charge a bit too well. But I'm guessing he'll be more serious trouble after this cross-examination!</thought></line>
 <line speaker="Armstrong">La victim, Monsieur Elg, 'e came to my restaurant alone.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was he alone at his table as well?</line>
 <line speaker="Armstrong">Mais, oui. I saw 'im from la kitchen.</line>
 <line speaker="Phoenix">Yet the defendant, Ms. Byrde, remembers it differently. She swears there was another man at the victim's table.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! Unfortunately for you, Trite... ...yesterday's witness also testified that the victim was alone.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Godot">You know, seeing you squirm like that reminds me... ...of a certain coffee's bitter-sweet bite.</line>
@@ -431,7 +431,7 @@
 <line speaker="Maya">It's not coffee, it's love! It's love that's bitter-sweet.</line>
 <line speaker="Phoenix"><thought>Hearing Maya say that makes her seem wise all of a sudden...</thought></line>
 <line speaker="Armstrong">I remember la old man arrived not long after 'im.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">By old man, you mean Victor Kudo, correct?</line>
 <line speaker="Armstrong">Oui. 'E comes often for my special coffee.</line>
 <line speaker="Godot">I drank your coffee once, Mr. Armstrong. It's special, I'll give you that. It's worth a sip just for the experience.</line>
@@ -461,24 +461,24 @@
 <line speaker="Phoenix"><thought>I'm glad at least one person is in a good mood...</thought></line>
 <line speaker="Maya">H-He's even humming a song to himself...!</line>
 <line speaker="Armstrong">I remember la old man arrived not long after 'im, just after 2 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely sure about the time?</line>
 <line speaker="Armstrong">When I think really 'ard, 1 am sure it was just after 2. Oui. It is la time I stop serving la lunch menu.</line>
 <line speaker="Judge">Quite right. I always break for lunch when the restaurants are serving their specials. I've been known to wind up a case early just to make it on time! Hah hah!</line>
 <line speaker="Phoenix"><thought>I guess you should never get between a hungry judge and his lunch...</thought></line>
 <line speaker="Judge">Oh, would you look at that! It's almost lunchtime already.</line>
 <line speaker="Phoenix">Witness! Get on with your testimony, please!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Armstrong">Z'ere were no other customers.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So your only customers were Mr. Kudo and the victim?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">How many times do you need to ask the same thing, Trite? You'd never catch me drinking the same blend twice!</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Godot">You're trying to establish the presence of a "phony victim" in the restaurant. But you're wasting your time. You can't grind bird seed to make coffee, if you catch my drift...</line>
 <line speaker="Phoenix"><thought>But there's a hole in this testimony somewhere! I'm sure of it!</thought></line>
 <line speaker="Armstrong">When 'e got word 'e won la lottery, Mon. Elg became very excited.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you see him?</line>
 <line speaker="Armstrong">Non, I was in ze kitchen. But I 'eard 'im. I remember 'im shouting, "Yes! 'Alf a million bucks!"</line>
 <line speaker="Godot">Presumably the defendant heard that too, then, correct?</line>
@@ -487,7 +487,7 @@
 <line speaker="Armstrong">La old man chocked on some bird seed z'at got stuck in 'is throat.</line>
 <line speaker="Judge">Hmm... It seems we now have yet another incident on our hands.</line>
 <line speaker="Armstrong">It was approximately 5 minutes later z'at la poisoning incident occurred.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And what were you doing at that point? Without any customers, you must have had time to kill.</line>
 <line speaker="Armstrong">I am multi-talented woman, monsieur!</line>
 <line speaker="Phoenix">Sorry? What do you mean?</line>
@@ -495,16 +495,16 @@
 <line speaker="Judge">C-C-Claurice...?</line>
 <line speaker="Armstrong">Oui. I was writing a poem. An angry tale of a chef in 'alf a million dollars of debt... ...cooking for a man who won 'alf a million dollars on la lottery! It is called, "Pourquoi". It means, "Why". Per'aps I could recite it for la court?</line>
 <line speaker="Phoenix">Please don't...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Armstrong">Non, z'ere was no time for a phony to do la acting.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean you contacted the police as soon as the incident occurred?</line>
 <line speaker="Armstrong">I asked la old man to call from la pay phone.</line>
 <line speaker="Godot">By your own argument, Trite... ...the purpose of this "phony victim's" performance was so the old man would see it. In other words... ...once the incident occurred, this opportunity would completely disappear.</line>
 <line speaker="Judge">Indeed.</line>
 <line speaker="Armstrong">Bien. It seems la shadow of doubt 'as been lifted, n'est-ce pas?</line>
 <line speaker="Phoenix">...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">I guess Mr. Armstrong is connected to this case, huh?</line>
 <line speaker="Phoenix">Absolutely. Someone was impersonating Mr. Elg, and I refuse to believe he was oblivious. He was there the whole time, after all.</line>
 <line speaker="Maya">But if you're right, wouldn't Maggey have noticed, too?</line>
@@ -527,7 +527,7 @@
 <line speaker="Armstrong">Nooooooooon!</line>
 <line speaker="Phoenix">This "victim" we've been told about has done nothing but the impossible! Listening to the radio with a ruptured eardrum, catching a show that was already over... There is only one conclusion you can draw from these facts! This "victim" was an imposter, acting out the poisoning 30 minutes after the real murder! Yes, there were two Glen Elgs in Trés Bien that day. The real Glen Elg, now dead, having been poisoned by the real killer... ...and the phony Glen Elg, acting out the events for Mr. Kudo's witness!</line>
 <line speaker="Judge">I-It certainly seems that way... I mean, if that wasn't the case, how could you explain the time discrepancy?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Quite a performance, Trite. You were almost on a roll.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Godot">But sadly, you lack the rock hard foundation of rhythm to build your song!</line>
@@ -535,7 +535,7 @@
 <line speaker="Godot">Let's recap. According to your "imaginative" theory, it's now just after 2 PM... The phony Elg is performing a play for the benefit of Mr. Kudo. How do you explain then, where the real Glen Elg is!?</line>
 <line speaker="Phoenix">I don't believe I have to spell this out for court! However! At that time, the real Glen Elg was already dead!</line>
 <line speaker="Judge">That's certainly the obvious conclusion.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Thank you, Trite. That's exactly what I was hoping you would say.</line>
 <line speaker="Phoenix">Wh-What!?</line>
 <line speaker="Godot">Now, I presume you can prove this theory of yours...? Can you explain where the missing corpse went to!?</line>
@@ -552,7 +552,7 @@
 <line speaker="Phoenix">Clearly, there's no place to hide a body inside Trés Bien. Therefore, the killer must have hauled the body outside!</line>
 <line speaker="Judge">Hmm... I see.</line>
 <line speaker="Godot">Nice supposition. But the real question is, "Can you back it up?" Where's the evidence that proves the body was hidden in that location!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Godot">Too bad... I don't think you'll ever grasp the real heart of Rock'n'Roll.</line>
 <line speaker="Phoenix">What are you talking about?</line>
 <line speaker="Judge">He means that your evidence is irrelevant, Mr. Wright!</line>
@@ -567,12 +567,12 @@
 <line speaker="Phoenix">It'd would [sic] have been too dangerous to take the body outside. Obviously, the body must have been hidden somewhere inside Trés Bien.</line>
 <line speaker="Judge">Hmm... Interesting... But where could a body have been hidden inside a restaurant? Perhaps you would care to show the court on these plans, Mr. Wright?</line>
 <line speaker="Phoenix">Yes, Your Honor. The exact location where the body was concealed inside Trés Bien is...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The body was hidden here!</line>
 <line speaker="Judge">Hmm... I see.</line>
 <line speaker="Godot">Nice supposition. But the real question is, "Can you back it up?" Where's the evidence that proves the body was hidden in that location!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Godot">Too bad... I don't think you'll ever grasp the real heart of Rock'n'Roll.</line>
 <line speaker="Phoenix">What are you talking about?</line>
 <line speaker="Judge">He means that your evidence is irrelevant, Mr. Wright!</line>
@@ -625,48 +625,48 @@
 <line speaker="Judge">You may cross-examine the witness now, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>There's just one more thing I need to do. I gotta break this guy, and get him to tell us the name of the real killer.</thought></line>
 <line speaker="Armstrong">It is true, I 'id la body in la kitchen.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you carry the body by yourself?</line>
 <line speaker="Armstrong">Oui. I carried 'im. And I carried Maggey, too.</line>
 <line speaker="Phoenix">Maggey, too!?</line>
 <line speaker="Armstrong">When she saw la victim collapse, she fainted. I could not leave 'er z'ere.</line>
 <line speaker="Judge">But why did you hide the bodies?</line>
 <line speaker="Armstrong">A man forced me to do it. I 'ad no choice.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What man? Who was he?</line>
 <line speaker="Armstrong">Non! Non, I cannot say! I fear for my life!</line>
 <line speaker="Phoenix"><thought>He's really scared...</thought></line>
 <line speaker="Maya">You'll just have to put the words in his mouth, Nick.</line>
 <line speaker="Phoenix">Yeah, you're right. If he won't tell me, I'll tell him.</line>
 <line speaker="Judge">But why would you go along with this man?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You have a half a million dollar debt, don't you?</line>
 <line speaker="Judge">H-Half a million dollars!? Is this true, Mr. Armstrong?</line>
 <line speaker="Armstrong">Oui! Je suis désolé! I was weak, and I borrowed la money!</line>
 <line speaker="Phoenix">This is Mr. Armstrong's Achilles heel. And that's why you couldn't refuse anything asked of you by this man!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">I can tell today has worn you out. You have my permission to go home, Mr. Wright.</line>
 <line speaker="Phoenix">E-Excuse me?</line>
 <line speaker="Armstrong">Oui. You are tired. Z'is oil is a mild blend of myrtle and lavender...</line>
 <line speaker="Godot">Don't worry, Trite. We've got this covered.</line>
 <line speaker="Phoenix"><thought>Covered!? Like I'm going to leave it to you to finish!</thought> Anyway, the point I am trying to make is that Mr. Armstrong has this one, fatal weakness.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Let's end this dance of Ring Around the Rosie, Mr. Armstrong. This is the man that you've been referring to!</line>
 <line speaker="Armstrong">Aaaah!</line>
 <line speaker="Judge">Who is that!? I feel like I've seen him somewhere before...</line>
 <line speaker="Phoenix"><thought>Oh, I don't know... Maybe a month ago in this very courtroom?</thought> This man is Furio Tigre. He's the manager of a loan office called "Tender Lender".</line>
 <line speaker="Armstrong">...</line>
 <line speaker="Phoenix">There's no point trying to hide the truth anymore, Mr. Armstrong. I know you couldn't go against Mr. Tigre. At least, not while he had this on you!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">I can tell today has worn you out. You have my permission to go home, Mr. Wright.</line>
 <line speaker="Phoenix">E-Excuse me?</line>
 <line speaker="Armstrong">Oui. You are tired. Z'is oil is a mild blend of myrtle and lavender...</line>
 <line speaker="Godot">Don't worry, Trite. We've got this covered.</line>
 <line speaker="Phoenix"><thought>Covered!? Like I'm going to leave it to you to finish!</thought> Mr. Armstrong! No more games!</line>
 <line speaker="Armstrong">I 'ad to go along w'iz 'im because... Z'ere was a reason why I could not refuse.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And what reason would that be, Mr. Armstrong?</line>
 <line speaker="Armstrong">You know, monsieur...</line>
 <line speaker="Phoenix">Yes?</line>
@@ -674,34 +674,34 @@
 <line speaker="Phoenix"><thought>A "maiden"!? You're a bit old to get away with that!</thought></line>
 <line speaker="Maya">And a bit too male!</line>
 <line speaker="Phoenix">I can't finish the cross-examination without establishing his reason. So I'll just have to prove it... with evidence!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You have a half a million dollar debt, don't you?</line>
 <line speaker="Judge">H-Half a million dollars!? Is this true, Mr. Armstrong?</line>
 <line speaker="Armstrong">Oui! Je suis désolé! I was weak, and I borrowed la money!</line>
 <line speaker="Phoenix">This is Mr. Armstrong's Achilles heel. And that's why you couldn't refuse anything asked of you by this man!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">I can tell today has worn you out. You have my permission to go home, Mr. Wright.</line>
 <line speaker="Phoenix">E-Excuse me?</line>
 <line speaker="Armstrong">Oui. You are tired. Z'is oil is a mild blend of myrtle and lavender...</line>
 <line speaker="Godot">Don't worry, Trite. We've got this covered.</line>
 <line speaker="Phoenix"><thought>Covered!? Like I'm going to leave it to you to finish!</thought> Anyway, the point I am trying to make is that Mr. Armstrong has this one, fatal weakness.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Let's end this dance of Ring Around the Rosie, Mr. Armstrong. This is the man that you've been referring to!</line>
 <line speaker="Armstrong">Aaaah!</line>
 <line speaker="Judge">Who is that!? I feel like I've seen him somewhere before...</line>
 <line speaker="Phoenix"><thought>Oh, I don't know... Maybe a month ago in this very courtroom?</thought> This man is Furio Tigre. He's the manager of a loan office called "Tender Lender".</line>
 <line speaker="Armstrong">...</line>
 <line speaker="Phoenix">There's no point trying to hide the truth anymore, Mr. Armstrong. I know you couldn't go against Mr. Tigre. At least, not while he had this on you!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">I can tell today has worn you out. You have my permission to go home, Mr. Wright.</line>
 <line speaker="Phoenix">E-Excuse me?</line>
 <line speaker="Armstrong">Oui. You are tired. Z'is oil is a mild blend of myrtle and lavender...</line>
 <line speaker="Godot">Don't worry, Trite. We've got this covered.</line>
 <line speaker="Phoenix"><thought>Covered!? Like I'm going to leave it to you to finish!</thought> Mr. Armstrong! No more games!</line>
 <line speaker="Armstrong">But I did not kill 'im! I swear it! You must believe me!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, you are claiming that all you did was hide the bodies? Is that correct?</line>
 <line speaker="Armstrong">Oui! Z'at's right!</line>
 <line speaker="Judge">If we are to believe you, Mr. Armstrong, you must tell the court everything! You must make clear the identity of the man who ordered you to do this.</line>
@@ -747,12 +747,12 @@
 <line speaker="Phoenix"><thought>True. Without some kind of trump card to pull out of the bag, we're really stuck...</thought> You said you could get some fingerprint analysis done in an hour?</line>
 <line speaker="Gumshoe">You bet!</line>
 <line speaker="Phoenix">In that case, would you mind checking the prints on this for me?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">If you're going back to the station anyway, could you find out whose prints are on this?</line>
 <line speaker="Gumshoe">Oh, hey. That's that small bottle I gave back to you this morning, right?</line>
 <line speaker="Phoenix">Yeah. I think it's time we solved the last mystery of who the prints on it belongs to.</line>
 <line speaker="Gumshoe">Sure thing, pal! Actually, that's been gnawing at me, too!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">What are you doing, Nick!? If Detective Gumshoe's going to check some prints for us, shouldn't he be checking this?</line>
 <line speaker="Gumshoe">That's that small bottle I gave back to you this morning, right?</line>
 <line speaker="Phoenix">The victim's ear medication that we found in the kitchen?</line>
@@ -818,7 +818,7 @@
 <line speaker="Maya">You can do it, Nick!</line>
 <line speaker="Phoenix">Come out from under there already, would you, Maya?</line>
 <line speaker="Tigre">I don't know nothin' about no murder.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I don't buy that you haven't even heard of the incident that occurred at Trés Bien!</line>
 <line speaker="Tigre">Heh heh. Youse got a big mouth, Wright! Youse tryin' to say I was on some mob hit? Is dat what you' tryin' to say? Where's your proof, then!?</line>
 <line speaker="Phoenix">Um... E-Evidence, yes... Well...</line>
@@ -829,7 +829,7 @@
 <line speaker="Phoenix">Mr. Tigre!</line>
 <line speaker="Tigre">Whad'youse want!?</line>
 <line speaker="Phoenix">Err... If you wouldn't mind going into a bit more detail...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">This is a dead end, Trite, and you know it. Remember the rules!</line>
 <line speaker="Judge">Pressing the witness without evidence to back up your attack is prohibited. As I said earlier, the court will impose a penalty for such behavior!</line>
 <line speaker="Phoenix"><thought>Ouch. The pain...</thought></line>
@@ -838,7 +838,7 @@
 <line speaker="Tigre">My time ain't free, you' hear? Youse betta remember dat! If I miss that bus, someone's gonna pay!</line>
 <line speaker="Phoenix">Nngh...</line>
 <line speaker="Tigre">I was tied up with business in December last year. Spent all'a my time in my office.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure about that? We're talking about one month ago, you know.</line>
 <line speaker="Tigre">You' see these teeth!? That's how sharp my secretary is.</line>
 <line speaker="Phoenix">Sharp...? <thought>Is he talking about Viola Cadaverini?</thought></line>
@@ -849,9 +849,9 @@
 <line speaker="Phoenix">Mr. Tigre!</line>
 <line speaker="Tigre">Whad'youse want!?</line>
 <line speaker="Phoenix">Err... If you wouldn't mind going into a bit more detail...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">This is a dead end, Trite, and you know it. Remember the rules!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">No! It's essential that we establish the witness's alibi accurately.</line>
 <line speaker="Judge">...I agree.</line>
 <line speaker="Phoenix">The victim was killed on December 3rd. Were you in the office that day, too?</line>
@@ -865,7 +865,7 @@
 <line speaker="Tigre">My time ain't free, you' hear? Youse betta remember dat! If I miss that bus, someone's gonna pay!</line>
 <line speaker="Phoenix">Nngh...</line>
 <line speaker="Tigre">The day youse talkin' about, I was in de office, too. I never saw that kid before.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You didn't know Mr. Glen Elg? Really?</line>
 <line speaker="Tigre">I don't mess with the guppies when there are bigger fish to fry. Whaddya say, boss!?</line>
 <line speaker="Judge">Hmm? Who? Me!?</line>
@@ -876,9 +876,9 @@
 <line speaker="Phoenix">Yeah. And if I want to sell this case, I need to copy.</line>
 <line speaker="Maya">How about you hit him with a fat piece of evidence, boss?</line>
 <line speaker="Phoenix"><thought>I wish it was that easy...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Tigre">I got whales lined up to borrow cash from Tender Lender every single day.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So I take it you get a lot of customers at your black market loan office?</line>
 <line speaker="Tigre">It's tough for de little guys these days. Small businesses are feelin' the pinch. Bosses of companies like that wanna get in good with me. I'm deir best friend.</line>
 <line speaker="Judge">I see. That's very admirable of you, witness.</line>
@@ -891,7 +891,7 @@
 <line speaker="Phoenix">Mr. Tigre!</line>
 <line speaker="Tigre">Whad'youse want!?</line>
 <line speaker="Phoenix">Err... If you wouldn't mind going into a bit more detail...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">This is a dead end, Trite, and you know it. Remember the rules!</line>
 <line speaker="Judge">Pressing the witness without evidence to back up your attack is prohibited. As I said earlier, the court will impose a penalty for such behavior!</line>
 <line speaker="Phoenix"><thought>Ouch. The pain...</thought></line>
@@ -900,7 +900,7 @@
 <line speaker="Tigre">My time ain't free, you' hear? Youse betta remember dat! If I miss that bus, someone's gonna pay!</line>
 <line speaker="Phoenix">Nngh...</line>
 <line speaker="Tigre">Youse wanna check my alibi, just ask Violetta.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">By "Violetta", you're talking about the Cadaverini family's...?</line>
 <line speaker="Tigre">Yeah. You' don't wanna cross them, or youse gonna wind up sleepin' with de fishes. Once the Godfather finds out youse been draggin' Violetta through the mud... ...he'll... do you... in...</line>
 <line speaker="Phoenix">... Sorry, I... I couldn't quite put it all together towards the end there...</line>
@@ -909,7 +909,7 @@
 <line speaker="Phoenix">Mr. Tigre!</line>
 <line speaker="Tigre">Whad'youse want!?</line>
 <line speaker="Phoenix">Err... If you wouldn't mind going into a bit more detail...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">This is a dead end, Trite, and you know it. Remember the rules!</line>
 <line speaker="Judge">Pressing the witness without evidence to back up your attack is prohibited. As I said earlier, the court will impose a penalty for such behavior!</line>
 <line speaker="Phoenix"><thought>Ouch. The pain...</thought></line>
@@ -949,24 +949,24 @@
 <line speaker="Tigre">Didn't I tell you I got a big deal goin' down today? I ain't gonna make my bus now. I'm gonna have to take the express train. That bill's goin' straight to you... Wright!</line>
 <line speaker="Phoenix">Grr...</line>
 <line speaker="Tigre">I ain't no liar. I never met Glen Elg.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And yet, your name was written on the victim's calendar!</line>
 <line speaker="Tigre">Get that horse calendar outta my face! I'm The Tiger, not a lame horse, you' porcupine! Tigers like me eat horses like that for breakfast!</line>
 <line speaker="Judge">No, no, no! Witnesses aren't permitted to eat evidence. Not that they ever would! ... Well, there's was [sic] a case once, where a young lad ate--</line>
 <line speaker="Phoenix">A-Anyway! If you had never met the victim before, how do explain this note he left?</line>
 <line speaker="Tigre">There was some lame guy with that name, though. Wanted to borrow cash from me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">That's very strange. According to the manager of the firm where the victim worked... ...December 3rd was the date he had to repay his loan. He wasn't due to discuss borrowing money, but repaying what he owed...</line>
 <line speaker="Tigre">Oh. Yeah. Maybe youse right. Whatever it was, it was goin' down at the beginnin' of December.</line>
 <line speaker="Phoenix">So you did meet Mr. Elg, then!?</line>
 <line speaker="Tigre">Hey, Wright. Youse might wanna cool your jets a sec.</line>
 <line speaker="Tigre">I set up a meetin' with the guy... at my office, Tender Lender.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So your meeting wasn't supposed to be at Trés Bien, then?</line>
 <line speaker="Tigre">Why would I wanna go to a dump like dat? If I wanna talk with my clients, I got an office decked out for the job. I got the best punching bag youse ever saw in there.</line>
 <line speaker="Phoenix"><thought>Not exactly a professional office you've got there, you know...</thought> So you were in your office on the day in question?</line>
 <line speaker="Tigre">I waited around for him, but he ain't ever showed.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">He didn't show up?</line>
 <line speaker="Godot">Ha...! What do you think, Trite? Let's see. How does a dead man get from a French restaurant to a loan shark's office?</line>
 <line speaker="Phoenix">And you yourself didn't go to Trés Bien?</line>
@@ -976,11 +976,11 @@
 <line speaker="Phoenix">No, no! No need! I'm good, thanks!</line>
 <line speaker="Tigre">Listen up! I ain't got nothin' more to say, except this.</line>
 <line speaker="Tigre">I ain't never been to that Trés Bien joint, youse hear?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Never? Not even once?</line>
 <line speaker="Tigre">Not even once. I was in my office the day that went down. I didn't put poison in no kid's coffee. Capice?</line>
 <line speaker="Judge">Hmm...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Do you think he really didn't meet Glen Elg?</line>
 <line speaker="Phoenix">Not likely. Because I'm convinced this guy's behind the whole thing.</line>
 <line speaker="Maya">So you mean... that whole testimony he just gave was a lie?</line>
@@ -1002,7 +1002,7 @@
 <line speaker="Tigre">I was supposed to meet wid the kid at the restaurant that afternoon.</line>
 <line speaker="Judge">I see... You didn't actually meet with him in the end, then. Well, Mr. Wright. Your cross-examination, please.</line>
 <line speaker="Phoenix">Yes, Your Honor.</line>
-<line speaker="Tigre"><cutIn>Hold it!</cutIn> If I wait around here any longer, I ain't even gonna make the normal express. No more stupid questions.</line>
+<line speaker="Tigre"><cutIn type="holdIt">Hold it!</cutIn> If I wait around here any longer, I ain't even gonna make the normal express. No more stupid questions.</line>
 <line speaker="Godot">Ha...! No problem. Any time Trite presses you on something irrelevant, I'll see he pays a penalty.</line>
 <line speaker="Judge">M-Mr. Godot! That's my job!</line>
 <line speaker="Godot">Your job is to slam that little hammer of yours and call a guilty verdict. So do it!</line>
@@ -1010,20 +1010,20 @@
 <line speaker="Tigre">The special express ain't cheap, Wright! Just so youse know since youse payin'!</line>
 <line speaker="Phoenix"><thought>Oh, man. Doesn't the rule of law mean anything around here!?</thought></line>
 <line speaker="Tigre">I was supposed to meet wid the kid at the restaurant that afternoon.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So the meeting wasn't due to take place at Tender Lender at all then?</line>
 <line speaker="Tigre">The kid was makin' a fuss about comin' into de office. It's always that way when I wanna talk about repayments. Even though I got the best punching bag you' ever seen if there are any "issues".</line>
 <line speaker="Phoenix"><thought>Maybe it's because of the punching bag that people are scared to come?</thought> So that's why you decided to meet at Trés Bien?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Ha...! You're going over old ground again, Trite.</line>
 <line speaker="Phoenix">S-Sorry.</line>
 <line speaker="Godot">You just earned yourself a penalty. Now suck it down!</line>
 <line speaker="Judge">You will suck down the penalty, Mr. Wright. And you will like it!</line>
 <line speaker="Phoenix"><thought>Thank you, sir, may I have another!</thought></line>
 <line speaker="Tigre">When I opened the door to the joint, I saw one ugly scene.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">An "ugly scene"? What do you mean?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">The witness has already told us, Trite. Which makes that question... irrelevant!</line>
 <line speaker="Phoenix">B-But...!</line>
 <line speaker="Godot">I limit myself to 17 cups of coffee during a trial. That's the rule. You better limit the number of times you take a penalty, Trite. Or your guts will look like the inside of a chimney! Ashen!</line>
@@ -1031,9 +1031,9 @@
 <line speaker="Phoenix"><thought>I guess I shouldn't have pressed him on that.</thought></line>
 <line speaker="Tigre">Guess I'm gonna make that special express after all.</line>
 <line speaker="Judge">So, to recap... This "ugly scene" you saw was...?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Tigre">The guy was laid out over the table, stiff as concrete.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean you saw Glen Elg's dead body?</line>
 <line speaker="Tigre">I guess I did. But I only saw him from behind. He was wearin' some raggy bit of cloth he called a hat.</line>
 <line speaker="Phoenix">And what time was this?</line>
@@ -1044,16 +1044,16 @@
 <line speaker="Tigre">Huh? Whad'youse think!? Square watches!</line>
 <line speaker="Phoenix"><thought>Is this guy for real!?</thought></line>
 <line speaker="Tigre">Look, all I need to know was that somethin' bad was goin' down in that place.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Tigre">I figured if the place wasn't hot already, it was gonna be, so I split.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you didn't actually set foot inside the restaurant, then?</line>
 <line speaker="Tigre">The Tiger is a busy cat. I don't hang around for no one. I ain't got time to be caught up in no murder investigation.</line>
 <line speaker="Phoenix">So, when exactly did you pick up the matches?</line>
 <line speaker="Godot">There are matches just inside the front door. Our detective friend wound up in trouble with the chef after taking 5 books home.</line>
 <line speaker="Phoenix"><thought>Poor Gumshoe... It's almost enough to make a man cry...</thought></line>
 <line speaker="Tigre">I heard the cop's sirens on my way out, and I went straight back to my office.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You went straight back? Did a bout of guilt suddenly hit you for what you did?</line>
 <line speaker="Tigre">What're youse trying to say!? You' tryin' to tell me youse ain't never been guilty of nothin'?</line>
 <line speaker="Phoenix">Um...</line>
@@ -1078,17 +1078,17 @@
 <line speaker="Phoenix">Now look at the plans again! The truth is painfully obvious! From the entrance, the field of vision of any customer walking in... ...ends here!</line>
 <line speaker="Tigre">...</line>
 <line speaker="Phoenix">So, from the entrance of Trés Bien, you couldn't have seen the victim's seat. But you did see the victim that day... because you met with him!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Wrong! Have you forgotten the old man's testimony yesterday? The victim was alone at his table.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But the defense just proved that point to be moot! The "victim" witnessed by Mr. Kudo was not Glen Elg, but a fake!</line>
 <line speaker="Godot">What!?</line>
 <line speaker="Phoenix">In order to have Mr. Kudo falsely testify... ...the real killer posed as the victim he had just killed and acted out a charade!</line>
 <line speaker="Judge">That will do! This trial has gone on long enough without the obvious question being answered. Who exactly was this "real killer" who impersonated the victim?</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Judge">You say the killer murdered Glen Elg... ...and then impersonated his victim in a performance for Victor Kudo? In that case, Mr. Wright, reveal the identity of this "criminal" to the court!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Obviously, it's the person you least expect! Um... What's the matter, Your Honor?</line>
 <line speaker="Judge">Oh, nothing! I just dropped my pen again. Don't mind me. Carry on with the proceedings as normal.</line>
 <line speaker="Maya">Better think again while he's down there, Nick.</line>
@@ -1106,7 +1106,7 @@
 <line speaker="Kudo">The serving girl brought him a javaccino... But she put something in it! There's no question about it! She very conspicuously put some white powder in there!</line>
 <line speaker="Godot">Was the victim he saw the real victim or not? That doesn't matter. The fact remains, he saw the accused put the poison into the coffee!</line>
 <line speaker="Judge">...! Yes, it was the waitress who poisoned the coffee--</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">V-Very impressive, Mr. Godot. ...Waiting for my absence to launch your attack!</line>
 <line speaker="Godot">Ha...! Found your pen at last, Trite?</line>
 <line speaker="Phoenix">It was in my pocket. *ahem* But anyway... Mr. Kudo witnessed two people that day. He saw the victim, the "supposed" Mr. Glen Elg, and the "waitress"... from behind.</line>
@@ -1115,8 +1115,8 @@
 <line speaker="Judge">What!? You mean, the waitress was an imposter as well!?</line>
 <line speaker="Phoenix">The defendant, Ms. Byrde, fell unconscious immediately after the incident. And someone used her fainting to hatch an elaborate plan to pin the murder on her!</line>
 <line speaker="Judge">Who on earth was it!? Who was this "waitress" that Mr. Kudo witnessed?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Obviously, it's the person you least expect! Um... What's the matter, Your Honor?</line>
 <line speaker="Judge">Oh, nothing! I just dropped my pen again. Don't mind me. Carry on with the proceedings as normal.</line>
 <line speaker="Maya">Better think again while he's down there, Nick.</line>
@@ -1158,7 +1158,7 @@
 <line speaker="Tigre">Yeah. He was one lucky kid! He got that half a million just in time. So I ain't have no reason to kill the kid. And if I ain't got no motive, you ain't got no case!</line>
 <line speaker="Phoenix"><thought>His motive? Hmm... He has to have one, but what is it?</thought></line>
 <line speaker="Tigre">Yeah, I loaned Elg cash. About 100,000 dollars.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did he have any way of paying the loan back?</line>
 <line speaker="Tigre">The fool was a gambler. He said he couldn't give it up 'til he landed a big win. So I agreed to help him.</line>
 <line speaker="Judge">Help him? You?</line>
@@ -1169,7 +1169,7 @@
 <line speaker="Maya">Nick, would anyone really ever loan money to someone they thought was unreliable? Like, for example, if it were you, I'd only loan you five bucks, max.</line>
 <line speaker="Phoenix"><thought>Thanks a lot, Maya.</thought></line>
 <line speaker="Tigre">That day, we was due to have a little chat. The kid had hit his payback date, see?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So how much were you expecting him to pay you back on that day?</line>
 <line speaker="Tigre">What d'youse think!? The whole package! $100,000, including interest.</line>
 <line speaker="Maya">That's a real heavyweight punch!</line>
@@ -1181,7 +1181,7 @@
 <line speaker="Maya">Sounds like Mr. Elg was in a real sticky spot.</line>
 <line speaker="Phoenix"><thought>Yeah, at 50 dollars a month, he'd never pay that huge loan off!</thought></line>
 <line speaker="Tigre">So anyway, he tells me he's got no way to pay up.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How much did he have left on his debt?</line>
 <line speaker="Tigre">You want it in round figures? About 100,000 bucks.</line>
 <line speaker="Phoenix"><thought>That's the whole amount!</thought></line>
@@ -1190,7 +1190,7 @@
 <line speaker="Judge">He certainly seems to have been a brave man, this Mr. Elg.</line>
 <line speaker="Tigre">That guy was smooth, I tell youse. Real smooth! "You'll have your money in less than 5 minutes!" That's what he says to me. The guy then calls me the "Tender Tiger". He was skatin' on thin ice with me!</line>
 <line speaker="Tigre">I'm about to flatten the guy, when he starts screamin'.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was that because he...?</line>
 <line speaker="Tigre">The guy won the lottery. Was his last chance at a big win.</line>
 <line speaker="Judge">And you confirm that this is the ticket in question?</line>
@@ -1199,7 +1199,7 @@
 <line speaker="Phoenix"><thought>And the whole scene was acted out again 30 minutes later. All so that Mr. Kudo would see it!</thought></line>
 <line speaker="Tigre">I can still see the kid's face now. I ain't never gonna forget it.</line>
 <line speaker="Tigre">"Yesss! I won! Half a million bucks!" He got lucky, you' know. Real lucky.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was there anyone else in the restaurant at the time?</line>
 <line speaker="Tigre">I don't remember.</line>
 <line speaker="Phoenix"><thought>If there was no one there, I'll wear that ridiculous tiger shirt for a month! Mr. Armstrong, Maggey and if I'm right, Viola Cadaverini, were all there at that time.</thought></line>
@@ -1211,15 +1211,15 @@
 <line speaker="Maya">Don't be tempted, Nick! You haven't got the will-power for it!</line>
 <line speaker="Tigre">All I know is, the kid took a shot and he got lucky in the end.</line>
 <line speaker="Tigre">If that waitress hadn't done what she done, everythin' woulda been over.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The waitress. You mean...?</line>
 <line speaker="Tigre">The girl with the glasses in the defendant's chair! Who else could I mean!? If she hadn't got in the way, things woulda been, bada-bing, bada-boom, over and done with!</line>
 <line speaker="Phoenix"><thought>Maybe I should push a little on this...</thought></line>
 <line speaker="Phoenix">What exactly are you implying the defendant did?</line>
 <line speaker="Tigre">How about you go ask four-eyes about that half a million dollar ticket! She wanted it so bad... ...she poisoned Elg's coffee.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">A likely theory! Your word hasn't held water lately, Mr. Tigre.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Let's not forget this witness was actually at the scene, Trite.</line>
 <line speaker="Tigre">The law don't exactly agree with some of the deals I send down. I couldn't be there when de cops showed up, so I split.</line>
 <line speaker="Judge">I-I see...</line>
@@ -1231,7 +1231,7 @@
 <line speaker="Judge">Hmm... As far as I can tell from the witness's testimony... ...other than recouping his loan, Mr. Tigre had no motive for killing the victim. Witness! You will amend your testimony to reflect what you just said.</line>
 <line speaker="Phoenix"><thought>The Tiger's motive, huh...</thought></line>
 <line speaker="Tigre">Thanks to what she did, my business with that kid was over!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix"><thought>The Tiger's trying to pin the crime on Maggey. If I ask him about what he saw, it's only going to damage our case.</thought> What do you mean things would have been over and done with?</line>
 <line speaker="Tigre">Are youse all there or what!? I'm talkin' about the cash! I was there to get my 100,000 bucks back. That's all. I'm a business man. It was all comin' together before that waitress got in the way.</line>
 <line speaker="Judge">Hmm... As far as I can tell from the witness's testimony... ...other than recouping his loan, Mr. Tigre had no motive for killing the victim. Well, Mr. Wright? Are you happy with the testimony, or would you like it amended?</line>
@@ -1240,16 +1240,16 @@
 <line speaker="Phoenix"><thought>I'm not going to get anywhere with the testimony as it stands...</thought> Your Honor, the defense would like the testimony amended.</line>
 <line speaker="Judge">Very well. Witness! You will amend your testimony to reflect your recent statements, please.</line>
 <line speaker="Tigre">I was after the $100,000. I didn't have no other reason to kill the guy!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you saying you had no other motives that day?</line>
 <line speaker="Tigre">Yeah, so what?</line>
 <line speaker="Godot">Then why didn't you take the lottery ticket when you left?</line>
 <line speaker="Tigre">Why d'youse think!? Because of four-eyes over there!</line>
 <line speaker="Phoenix"><thought>Because of Maggey!?</thought></line>
 <line speaker="Tigre">How about you go ask four-eyes about that half a million dollar ticket! She wanted it so bad... ...she poisoned Elg's coffee.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">A likely theory! Your word hasn't held water lately, Mr. Tigre.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Let's not forget this witness was actually at the scene, Trite.</line>
 <line speaker="Tigre">The law don't exactly agree with some of the deals I send down. I couldn't be there when de cops showed up, so I split.</line>
 <line speaker="Judge">I-I see...</line>
@@ -1259,11 +1259,11 @@
 <line speaker="Judge">Very well. Continue with your cross-examination, then.</line>
 <line speaker="Phoenix"><thought>I'm not going to get anywhere with the testimony as it stands...</thought> Your Honor, the defense would like the testimony amended.</line>
 <line speaker="Judge">Very well. Witness! You will amend your testimony to reflect your recent statements, please.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">So you just intended to get back the 100,000 dollars Mr. Elg owed you, correct?</line>
 <line speaker="Tigre">I loaned the guy the cash, so that's my right.</line>
 <line speaker="Phoenix">Unfortunately for Mr. Elg... I don't believe the 100,000 dollars is what you were after.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">What are you getting at, Trite? What else would a moneylender be after other than money!?</line>
 <line speaker="Phoenix">Oh, the moneylender was after money. But money in a totally different league. The kind of money that a single disc like this would fetch!</line>
 <line speaker="Tigre">...!</line>
@@ -1278,14 +1278,14 @@
 <line speaker="Judge">What!?</line>
 <line speaker="Phoenix">Glen Elg was a programmer. A highly skilled programmer. That skill was the collateral Mr. Elg put up in order to borrow the money.</line>
 <line speaker="Tigre">...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">You're trying to suggest the witness's motive was to get hold of that program?</line>
 <line speaker="Phoenix">Exactly.</line>
 <line speaker="Godot">The witness may be poor fashion sense, but he is by no means an idiot, Trite. A man like him could get his hands on one million dollars without resorting to murder.</line>
 <line speaker="Phoenix">Of course he could... Provided that he had time. But what if he had needed the money right then? When the pressure's on, the luxury of choice tends to disappear.</line>
 <line speaker="Judge">It seems you have a logical conclusion for this theory, Mr. Wright. Would you care to share it with us? Why did Mr. Tigre need money to the tune of one million dollars?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">What is the meaning of this, Mr. Wright!?</line>
 <line speaker="Godot">It's evidence... that Trite has no idea what he's doing.</line>
 <line speaker="Phoenix">What!? What do you mean?</line>
@@ -1308,7 +1308,7 @@
 <line speaker="Phoenix">Bruto Cadaverini, Mob boss in charge of all underworld activities in the city, and... ...doting grandfather to his precious "Violetta", also known as Viola Cadaverini.</line>
 <line speaker="Godot">Bwooooar!</line>
 <line speaker="Phoenix">Your life was in danger unless you paid "compensation" to the boss, correct? It makes sense! You were desperate to acquire the one million dollars Cadaverini demanded of you! So desperate, in fact, that you decided to sacrifice Glen Elg's life to pay your debt!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">So you just intended to get back the 100,000 dollars Mr. Elg owed you, correct?</line>
 <line speaker="Tigre">I loaned the guy the cash, so that's my right.</line>
 <line speaker="Phoenix">Unfortunately for Mr. Elg... ...100,000 dollars wasn't enough to cover it, wasn't it?</line>
@@ -1328,10 +1328,10 @@
 <line speaker="Phoenix">Your life was in danger unless you paid "compensation" to the boss, correct? It makes sense! You were desperate to acquire the one million dollars Cadaverini demanded of you! So desperate, in fact, that you decided to sacrifice Glen Elg's life to pay your debt!</line>
 <line speaker="Judge">Order! Order! Order! What do you say to that, witness?</line>
 <line speaker="Tigre">...Grrr... urgh...</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">It's a nice little fairy tale, Trite. But even if the witness did need a million dollars... ...that doesn't tie him to Mr. Elg's murder. Mr. Elg only owed him 100,000 dollars, and had no hope of repaying it anyway!</line>
 <line speaker="Tigre">Yeah. That guy wasn't worth my spit!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I don't think so. In fact, the opposite is true.</line>
 <line speaker="Godot">The opposite?</line>
 <line speaker="Phoenix">Lending money with no hope of ever seeing repayment would normally be bad for business. But in this case, the very fact that Glen Elg had no way to repay the money is crucial.</line>
@@ -1341,8 +1341,8 @@
 <line speaker="Maya">Outside the box?</line>
 <line speaker="Phoenix">It's very straightforward. Mr. Tigre wasn't after the 100,000 dollars at all.</line>
 <line speaker="Judge">It seems you have a logical conclusion for this theory, Mr. Wright. Would you care to share it with us? What exactly was Mr. Tigre "after"?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">What is the meaning of this, Mr. Wright!?</line>
 <line speaker="Godot">It's evidence... that Trite has no idea what he's doing.</line>
 <line speaker="Phoenix">What!? What do you mean?</line>
@@ -1365,9 +1365,9 @@
 <line speaker="Phoenix">Exactly! At the eleventh hour, Mr. Elg won half a million dollars on the lottery! Which left Mr. Tigre with no way of getting his hands on the all-important CD. At least, no legitimate way. So he resorted to illegitimate means.</line>
 <line speaker="Godot">That's crazy!</line>
 <line speaker="Phoenix">He murdered Glen Elg, and then made his next move... To frame Maggey Byrde for the crime! Mr. Tigre posed as Glen Elg... ...while Viola Cadaverini played the role of Ms. Byrde. And then they re-enacted the whole thing, in order to establish a witness. The witness being the one we all heard testify yesterday, Mr. Victor Kudo.</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Like I said, Trite, that's crazy. No one could pull off a stunt like that. For starters, there's no way the chef could've been kept out of it.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But Mr. Armstrong knew all about it. Have you forgotten already, Mr. Godot? Mr. Armstrong owed the witness money, too. Half a million dollars, in fact. He had no choice but to go along with Mr. Tigre's plan!</line>
 <line speaker="Tigre">...</line>
 <line speaker="Judge">Order! Order! Silence, or I will clear the courtroom!</line>
@@ -1379,8 +1379,8 @@
 <line speaker="Phoenix">Despite your appearance, you are very careful. That's why you took one more precaution. One more trick to make sure Ms. Byrde had no way out!</line>
 <line speaker="Judge">What!? Another one, Mr. Wright!?</line>
 <line speaker="Godot">Interesting. Why don't you fill us all in, Trite? What was this trick you say Mr. Tigre performed to frame the accused?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Godot">And? What's the relevance of that, Trite?</line>
 <line speaker="Phoenix">Um... It's, uh... just a little intro...</line>
 <line speaker="Godot">An intro into what?</line>
@@ -1395,15 +1395,15 @@
 <line speaker="Tigre">...!</line>
 <line speaker="Judge">No doubt it was you... Standing in here, this very court, a mere month ago. The Phoenix Wright who put up the most disreputable, shabby defense I had ever seen!</line>
 <line speaker="Tigre">Grrr... Grrraaaaaaaaargh!</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">Can you prove that, gramps? Prove the "attorney" who represented the accused here a month ago was this man. Are you prepared to take the stand and testify that it was him!?</line>
 <line speaker="Judge">...*gulp* H-Hmm...</line>
 <line speaker="Tigre">H-Hey... F-Forget about it, yeah?</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Tigre">I wouldn't do somethin' like that. Not me. You... You made a mistake, right? It was someone else, huh?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Have you no pride, sir!?</line>
-<line speaker="Godot"><cutIn>Objection!</cutIn></line>
+<line speaker="Godot"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Godot">This isn't a matter of pride. In case you didn't know, Trite, here in court, we deal with people's lives!</line>
 <line speaker="Phoenix">Nrrrgh...</line>
 <line speaker="Judge">... Mr. Godot is right.</line>
@@ -1421,7 +1421,7 @@
 <line speaker="Godot">Ha...! Looks like I won't be needing a refill.</line>
 <line speaker="Phoenix"><thought>If I just had one more piece of evidence... One more piece of evidence and maybe I could get Maggey off the hook!</thought></line>
 <line speaker="Judge">This witness's cross-examination is over. You are free to go, Mr. Tigre!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gumshoe">Waaaaaaaait!</line>
 <line speaker="Judge">D-Detective!</line>
 <line speaker="Phoenix">Detective Gumshoe!</line>
@@ -1463,8 +1463,8 @@
 <line speaker="Judge">No doubt, given the nature of the evidence, it will speak for itself. Nevertheless, you will talk us through it, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Well I know I can't prove anything new with this evidence. I'm really backed into a corner here. But maybe if he thinks he's got me beat... ...he'll let his guard down a bit!</thought></line>
 <line speaker="Judge">Don't keep us waiting any longer, Mr. Wright. Present this final, decisive piece of evidence to the court!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...Quite frankly, Mr. Wright, I'm disappointed. I was wondering what evidence you could possibly produce that would sway me...</line>
 <line speaker="Tigre">I see the idiot's point. That's decisive! Real decisive! It's decisive in sayin' that I ain't guilty!</line>
 <line speaker="Maya">Come on, Nick! Don't let Gumshoe down!</line>
@@ -1553,7 +1553,7 @@
 <line speaker="Phoenix">He didn't have any choice, Maggey. He's a detective. He has to report the facts.</line>
 <line speaker="Byrde">He doubted me, that's why! He thought I might have done it!</line>
 <line speaker="Phoenix"><thought>I've got to prove her that Gumshoe really cares about her. I know. I'll give her a little present to celebrate her freedom...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here you are. A present to celebrate your freedom!</line>
 <line speaker="Byrde">Th-That's...!</line>
 <line speaker="Phoenix">A present from Detective Gumshoe, made with a ton of love.</line>
@@ -1564,7 +1564,7 @@
 <line speaker="Byrde">Um, is it OK if I eat this now?</line>
 <line speaker="Maya">So? How is it, Maggey?</line>
 <line speaker="Byrde">It's... It's really good!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Byrde">...? Um... What's this?</line>
 <line speaker="Phoenix">Huh!? Uh, I thought it'd be a good present. You know, to celebrate your freedom.</line>
 <line speaker="Byrde">... Oh. Well, I don't really get it, but... Thanks! I'll treasure it always!</line>
@@ -1574,25 +1574,25 @@
 <line speaker="Byrde">Of course! No one can be that unlucky forever! I'll do my best to have some good news to report to you next time we meet, sir!</line>
 <line speaker="Phoenix">Good. We'll look forward to it.</line>
 <line speaker="Byrde">Goodbye. I won't forget how you helped me.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

@@ -33,7 +33,6 @@
 <line speaker="Tuggit">The parade was totally different this time! Inquisitor Darklaw was nowhere to be seen, and Inquisitor Barnham looked so agitated... And not only that, but they said this is going to be the LAST Story! What's to become of us all from here on...?</line>
 <line speaker="Tuggit">Oh, what will become of us now?!</line>
 <line speaker="Luke">Professor, look! That's the Storyteller's carriage! So he's here.</line>
-<line speaker="After examining Cecil/Petal and Tuggit">Maya:</line>
 <line speaker="Luke">Ah! Look over there! It's the Storyteller!</line>
 <line speaker="Storyteller">...And now...the time is upon us... The time of release from the curses of witchcraft and the Story. The legendary Bezella will appear before us, and the Story of the longest night will begin. Prepare yourselves for the dramatic climax!</line>
 <line speaker="Storyteller">There is no reason for sorrow. My Stories are no more than a peek at the caprice and irony of unfolding fate. We are all being carried along on the vast and irresistible sea of chance. I am no more than one person in the sea of people who are here tonight. ...No more...and no less.</line>
@@ -84,7 +83,7 @@
 <line speaker="Patty">Maya! Phoenix!</line>
 <line speaker="Vigilante">Who let this woman up here? Remove her immediately!</line>
 <line speaker="Vigilante">...Sir!</line>
-<line speaker="Patty">Don't you lay a hand on me! <cutIn>Take that!</cutIn></line>
+<line speaker="Patty">Don't you lay a hand on me! <cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Vigilante">*cough* *cough* What is that...*splutter*...white powder?!</line>
 <line speaker="Patty">That's my very finest white flour! Be thankful of that, you whippersnapper.</line>
 <line speaker="Vigilante">Why you...you impudent...bread-brained baker!</line>
@@ -410,7 +409,6 @@
 <line speaker="Phoenix">Maya... I hate to think what you have stashed away in that spirit medium's outfit.</line>
 <line speaker="Maya">It's called being decisive, Nick! C'mon! We're doing this for Espella, remember?!</line>
 <line speaker="Phoenix"><thought>Well, yeah...I hadn't exactly forgotten.</thought></line>
-<line speaker="After examining sparkling object on ground then panels on left pillar, robe, and rectangular object leaning on right pillar">???:</line>
 <line speaker="Vigilante">The preparations of this evening's special outside courtroom have now been completed! Summon the High Inquisitor! ...It is time we prepared for the trial! Each and every citizen shall no doubt wish to bear witness to this evening's trial. Overcrowding is to be anticipated. All officers to their stations! Let's help this final court session find a proud place within Labyrinthia's history!</line>
 <line speaker="Maya">Nick!</line>
 <line speaker="Phoenix">Looks like we're out of time, Maya. I guess that's the end of this investigation.</line>

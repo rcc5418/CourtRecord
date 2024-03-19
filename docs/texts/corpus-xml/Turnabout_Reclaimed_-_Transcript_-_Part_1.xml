@@ -1,6 +1,6 @@
 
-<line>Turnabout Reclaimed</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Reclaimed</title>
 <line speaker="Phoenix">My name is Phoenix Wright... ...head of the Wright Anything Agency, and a lawyer. Although, I was doing something else entirely for a while there. As for why I decided to formally get back into lawyering... ...let's just say there's unfinished business to take care of. Anyway, I thought I'd reminisce about my first case back on the job. And what a case it was! It happened only a few months after Athena joined our office...</line>
 <line speaker="Whale">*Fweet!*</line>
 <line speaker="Female pirate">Cap'n Orla! Ye made it just in time!</line>
@@ -361,7 +361,6 @@
 <line speaker="Apollo">Evidence...? Does this mean you want me at the defense's bench in court?!</line>
 <line speaker="Phoenix">No. I just wanted to see what you think.</line>
 <line speaker="Apollo">Oh. Darn... In that case, I don't think you want to hear what I think.</line>
-<line speaker="Aqua Tunnel <thought>before examining crime scene</thought>">Talk</line>
 <line speaker="Athena">We have to find some evidence that shows the culprit wasn't Orla! </line>
 <line speaker="Phoenix">You're really fired up for this, aren't you?</line>
 <line speaker="Athena">Well, I'm getting pretty good at investigating, thanks to that last case. So I want to show you how much I've learned! Vamos a hacer esto! Let's check out the scene!</line>
@@ -717,8 +716,6 @@
 <line speaker="Phoenix">The staff corridor, huh...? Something about that doesn't sit well with me...</line>
 <line speaker="Athena">Well, if it bothers you, why don't you just ask her about it?</line>
 <line speaker="Phoenix">Yeah, good idea. Let's go catch up with her.</line>
-<line speaker="Aqua Tunnel <thought>before talking to Pearl Fey and Sasha Buckler</thought>">Talk</line>
-<line speaker="Athena">Checking out the scene is important, but we can't forget to question people, too! We need to get some insight on how people are feeling.</line>
 <line speaker="Phoenix">But we should give the scene another look, too, though. We might've missed something.</line>
 <line speaker="Athena">Of course! That's one of the basic rules of investigating! "The lawyer always returns to the scene of the investigation."</line>
 <line speaker="Phoenix">Wasn't that "The criminal always returns to the scene of the crime"?</line>
@@ -1006,7 +1003,6 @@
 <line speaker="Athena">Plus, Ms. DePlume said Orla bit the victim... This trial sure isn't going to be easy... ...but I love a challenge!</line>
 <line speaker="Phoenix">Ha ha ha. Then we ought to be just fine. Guess I should go over that Swashbuckler Spectacular you were watching this morning. </line>
 <line speaker="Athena">Yeah! We can have a formal viewing back at the office!</line>
-<line speaker="Orca Pool <thought>before presenting evidence to Norma DePlume</thought>">Examine</line>
 <line speaker="Phoenix"><thought>I guess I've seen enough of the inside the pool... [sic] but maybe just one more look.</thought></line>
 <line speaker="Phoenix">Nothing particularly interesting here.</line>
 <line speaker="Phoenix"><thought>I think I have enough evidence, but maybe I should do a bit more thinking first...</thought></line>

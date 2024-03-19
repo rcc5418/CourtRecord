@@ -172,7 +172,6 @@
 <line speaker="Apollo">...!</line>
 <line speaker="Phoenix">Just do what you can. And don't worry. I know what I'm doing.</line>
 <line speaker="Apollo">A... Alright.</line>
-<line speaker="After clearing "The trial simulation" Talk option">Phoenix:</line>
 <line speaker="Apollo">But you just said I couldn't talk to anyone involved...</line>
 <line speaker="Phoenix">...Oh, you can talk to your client. If... you can get her to talk.</line>
 <line speaker="Trucy">Well, time's a wasting!</line>
@@ -221,7 +220,6 @@
 <line speaker="Apollo">Um, does it ring any bells?</line>
 <line speaker="???">......</line>
 <line speaker="Apollo"><thought>Does anything I say ring anything?</thought></line>
-<line speaker="After clearing all Talk options">Apollo:</line>
 <line speaker="Trucy">You did good, Apollo!</line>
 <line speaker="???">......</line>
 <line speaker="Trucy">L-Look! She's doing her nails!</line>
@@ -520,7 +518,6 @@
 <line speaker="Trucy">Should I try to get it open and then stick it back shut?</line>
 <line speaker="Apollo">Let's not tamper with the evidence, shall we? I've got a better idea...</line>
 <line speaker="Trucy">...Ema! Let's ask her!</line>
-<line speaker="After clearing "Forensic science" Talk option, presenting Coffee Mug, and examining Coffee Mug">Apollo:</line>
 <line speaker="Ema">...I was afraid you were going to ask about that. See, this solution is used to test for atroquinine.</line>
 <line speaker="Trucy">Atro... huh?</line>
 <line speaker="Ema">Atroquinine! The deadly poison found in the autopsy!</line>
@@ -781,7 +778,6 @@
 <line speaker="Trucy">What happened to the big magic...?</line>
 <line speaker="Valant">Ah ha ha ha ha ha! Is it not more miraculous for it to stay ripped?</line>
 <line speaker="Apollo"><thought>He must have really not liked that journalist...</thought></line>
-<line speaker="After clearing all Talk options and presenting Gramarye Envelope">Valant:</line>
 <line speaker="Trucy">Thanks, Uncle Valant!</line>
 <line speaker="Valant">Three days from now... make ready for a miracle!</line>
 <line speaker="Apollo">What do you think that journalist was after? And why did Valant react like that to this envelope?</line>
@@ -850,7 +846,6 @@
 <line speaker="Apollo">I don't think so!</line>
 <line speaker="Brushel">Look, buddy, I write brilliant columns about one thing: ...and that's food. Try to understand.</line>
 <line speaker="Apollo"><thought>What could he possibly be writing? He didn't listen to a word I said!</thought></line>
-<line speaker="After clearing all Talk options">Brushel:</line>
 <line speaker="Apollo">Right. Guess we'll leave then.</line>
 <line speaker="Brushel">Ah, but since you're here... ...might as well tell you a tidbit of news I saw. Just for the heck of it.</line>
 <line speaker="Trucy">Sure, tell us! ...Just for the heck of it.</line>

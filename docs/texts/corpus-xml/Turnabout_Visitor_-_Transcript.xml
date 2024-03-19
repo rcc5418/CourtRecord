@@ -201,7 +201,6 @@
 <line speaker="Edgeworth">*sigh* You were doing so well until that last bit.</line>
 <line speaker="Gumshoe">I'm just a lowly detective, so... ...I'm not sure what I should do with that other than to arrest it!</line>
 <line speaker="Edgeworth"><thought>Is that the only talent you have...? Oh, wait...</thought></line>
-<line speaker="After examining body, files, and barrel of gun">Edgeworth:</line>
 <line speaker="???">Jim! Why, oh why!? How could this have happened to a guy like you!?</line>
 <line speaker="Edgeworth">......... Are you alright?</line>
 <line speaker="???">Don't touch me! Leave me alone! Just let me be!</line>
@@ -457,7 +456,7 @@
 <line speaker="Portsman">I can hear Jim's voice, and he's calling for his killer's arrest!</line>
 <line speaker="Edgeworth">Hmph. Are you sure you're not mishearing his words, Mr. Portsman? <thought>There is no way Detective Gumshoe is the culprit here... I will find the flaw in this man's logic... ...and expose it with credible evidence!</thought></line>
 <line speaker="Portsman">Detective Gumshoe. You stole Jim's gun from him and shot him dead.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You know, there's something I've been meaning to ask...</line>
 <line speaker="Portsman">Hm? What is it?</line>
 <line speaker="Edgeworth">Why do you call the victim "Jim"... ...when clearly, his name is "Buddy Faith"...?</line>
@@ -466,7 +465,7 @@
 <line speaker="Portsman">Well, "Jacques and Buddy" just sounds... off somehow. Besides, he was the third of a bunch of guys I decided to nickname "Jim".</line>
 <line speaker="Edgeworth"><thought>Hmph. He talks about the victim like he was his pet.</thought></line>
 <line speaker="Portsman">Further, you messed up the files to make it look like you had committed theft instead.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you really think it was necessary to dishevel my shelves twice to do that?</line>
 <line speaker="Portsman">That's true... Ok, then maybe his real intent WAS theft.</line>
 <line speaker="Gumshoe">Hey! Are you accusing me of stealing something from Mr. Edgeworth!?</line>
@@ -474,11 +473,11 @@
 <line speaker="Gumshoe">I'll have you know that I eat three square meals every day, pal! ...OK, so all three of them happen to be instant noodles, but...</line>
 <line speaker="Portsman">Poor thing. What an evil prosecutor you were paired up with. And what a motive, no?</line>
 <line speaker="Portsman">That's when you moved Jim's body that was sitting in front of the bookshelf!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And why would Detective Gumshoe do such a thing?</line>
 <line speaker="Portsman">Because the body was getting in his way. He had to mess up your bookshelf somehow, right? Anyway...</line>
 <line speaker="Portsman">But thanks to that, you didn't notice the bloody letters his body was hiding.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why do you think that the killer didn't notice the bloody letters?</line>
 <line speaker="Portsman">The body was covering it quite well, wouldn't you say? That's how he missed it. But judging by what I've seen, it doesn't take much for your detective to miss something.</line>
 <line speaker="Gumshoe">Who do you think you are!? You know nothing about me, pal!</line>
@@ -487,9 +486,9 @@
 <line speaker="Gumshoe">Wh-Why don't you say something, sir!? ...*gasp!* N-Not you, too, Mr. Edgeworth!</line>
 <line speaker="Edgeworth"><thought>Despite his lack of attention to detail, I don't believe the detective to be the culprit. Nobody could've overlooked the bloody letters, and I can prove it... With evidence.</thought></line>
 <line speaker="Portsman">I couldn't ask for a better set-up... ...for the game-finishing spike!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">And it will be by his final words that you will be brought to justice.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you saying that those letters were intended for you?</line>
 <line speaker="Portsman">Yup. Jim was an outstanding detective. I would expect no less from my former partner.</line>
 <line speaker="Edgeworth"><thought>It looks like Mr. Portsman still doesn't understand... He has yet to figure out the true meaning behind the bloody letters.</thought></line>
@@ -506,7 +505,7 @@
 <line speaker="Edgeworth">What's "impossible", Mr. Portsman?</line>
 <line speaker="Portsman">Um, uh, nothing...</line>
 <line speaker="Edgeworth">The files on that shelf are all about a certain case. When the killer went to take the file after murdering your partner... ...I highly doubt they could've missed the bloody letters written on the spines.</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">It's possible that they could have taken the file before committing the murder!</line>
 <line speaker="Edgeworth">I think it's pretty obvious that the file was stolen after it was written on. The missing letters in the detective's name where the file should be is proof.</line>
 <line speaker="Gumshoe">Yeah! I mean, the "s" is gone, and there's only half an "h"!</line>
@@ -558,7 +557,7 @@
 <line speaker="Portsman">That was then, this is now. The flow of a good match always changes during a rally. It's all about your reflexes and reaction time, especially for an athlete like me!</line>
 <line speaker="Edgeworth"><thought>I wonder if there was anyone else other than Ms. Byrde who could've used the master key? It seems that the only way to get Mr. Portsman to give me more details is to Press him.</thought></line>
 <line speaker="Portsman">It's pretty obvious that Ms. Byrde snuck into your room using the master key.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you sure Ms. Byrde is the only member of security who could've used the master key?</line>
 <line speaker="Portsman">There's only one person on staff at this time of night. And tonight, she's it. Isn't that right, Ms. Byrde?</line>
 <line speaker="Byrde">That's, um... true... But... But I wasn't able to use the master key at the time of the crime, sir!</line>
@@ -576,7 +575,7 @@
 <line speaker="Edgeworth">Mr. Portsman, I believe this to be an important piece of testimony. Don't you?</line>
 <line speaker="Portsman">*sigh* I can't believe that someone like you would be taken in by such words.</line>
 <line speaker="Byrde">I'm not lying, sir!</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">If that's the case, then I'd like to know... why you have the master key now?</line>
 <line speaker="Byrde">I... I don't quite know. It just reappeared all of a sudden, sir.</line>
 <line speaker="Portsman">Hah, a likely story. And where is your proof that the key was stolen to begin with? I bet you just forgot where you put it and then "found" it again.</line>
@@ -588,7 +587,7 @@
 <line speaker="Portsman">Her motive? Didn't we already establish that it was theft? I mean, the culprit clearly went through the bookshelves and at least tried the safe.</line>
 <line speaker="Edgeworth">It is as Mr. Portsman says, Detective. <thought>I can't ignore the fact that all the evidence points towards a motive of theft. But I'm done taking blows. It's time to counterattack with a few facts of my own.</thought></line>
 <line speaker="Edgeworth"><thought>Hmm, maybe I should pay more attention to what Mr. Portsman is saying for now.</thought></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you sure Ms. Byrde is the only member of security who could've used the master key?</line>
 <line speaker="Portsman">There's only one person on staff at this time of night. And tonight, she's it. Isn't that right, Ms. Byrde?</line>
 <line speaker="Byrde">That's, um... true... But... But I wasn't able to use the master key at the time of the crime, sir!</line>
@@ -596,21 +595,21 @@
 <line speaker="Byrde">I discovered that the master key was missing at around 1 AM, sir!</line>
 <line speaker="Edgeworth">What do you mean by "missing"?</line>
 <line speaker="Byrde">As in "it wasn't anywhere in the security booth", sir! The killer must've stolen it!</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">Hah, a likely story. And where is your proof that the key was stolen to begin with? I bet you just forgot where you put it and then "found" it again.</line>
 <line speaker="Gumshoe">What do you know, pal!? Besides, Maggey doesn't have any reason to want to sneak into Mr. Edgeworth's office!</line>
 <line speaker="Portsman">You mean her motive? Didn't we already establish that it was theft? I mean, the culprit clearly went through the bookshelves and at least tried the safe.</line>
 <line speaker="Edgeworth">It is as Mr. Portsman says, Detective. <thought>I can't ignore the fact that all the evidence points towards a motive of theft. But I'm done taking blows. It's time to counterattack with a few facts of my own.</thought></line>
 <line speaker="Portsman">Her intent? From the messed-up shelves to the wiped-down safe, I'd say thievery.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I concur that the culprit's motive appears to have been thievery, however...</line>
 <line speaker="Portsman">Glad to hear that the great Miles Edgeworth is in agreement with little ol' me.</line>
 <line speaker="Edgeworth">However, with regard to the investigation of the bookshelves and safe...</line>
 <line speaker="Portsman">Hey! Good thinking, asking for my opinion on the matter!</line>
 <line speaker="Edgeworth">.........Would it be too much for you to allow me to complete a full sentence?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">I mean, if Detective Gumshoe isn't the one who opened the door...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I thought we had established Detective Gumshoe's innocence pretty thoroughly.</line>
 <line speaker="Portsman">It was just a theory, one hypothesis among the many possibilities. I mean, I had my doubts about Ms. Byrde from the very beginning.</line>
 <line speaker="Edgeworth">If that's the case, then why didn't you mention her first?</line>
@@ -618,13 +617,13 @@
 <line speaker="Edgeworth">I don't think you're catching my drift...</line>
 <line speaker="Portsman">Ah, but we are in agreement that the detective isn't the killer, right? If so, then I hope you'll understand when I say... ...that since she is the only one who could've open [sic] your office door...</line>
 <line speaker="Portsman">...then that leaves only Ms. Byrde as our prime suspect.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Don't you think it's a bit early to be jumping to conclusions?</line>
 <line speaker="Portsman">Are you saying there's another way to open the door other than with the master key? Oh, I get it. Perhaps you had a spare made for someone else?</line>
 <line speaker="Edgeworth">I'll have you know, I have never made a spare, so what are you insinuating?</line>
 <line speaker="Portsman">Nothing. Guess I should've known better than to suggest that someone like you would.</line>
 <line speaker="Portsman">On top of which, she knows our good detective, doesn't she?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Is there anyone in this district who hasn't at least heard of Detective Gumshoe?</line>
 <line speaker="Portsman">Good point. He's practically a celebrity among us prosecutors.</line>
 <line speaker="Gumshoe">Really!? I never knew I was so talked about, sir!</line>
@@ -633,7 +632,7 @@
 <line speaker="Edgeworth">......... O-Of course not. T-That's hogwash!</line>
 <line speaker="Gumshoe">Phew... Don't scare me like that! I almost had a heart attack there...</line>
 <line speaker="Portsman">Making it all that more probable that she was the one who faked the dying message.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">By "dying message", you mean the bloody letters that spell out "Gumshoe"...?</line>
 <line speaker="Portsman">I figured that whoever wrote his name must have wanted to frame him. And just the act of choosing his name is proof enough that the two knew each other well.</line>
 <line speaker="Gumshoe">Mr. Edgeworth! What are you waiting for! Hurry up and present some evidence!</line>
@@ -868,13 +867,13 @@
 <line speaker="Edgeworth">So only two people's prints were found on this, huh? That's pretty decisive...</line>
 <line speaker="Gumshoe">Huh? I'm lost, sir.</line>
 <line speaker="Edgeworth">Thinking logically, a certain other person's prints should be on this knob as well. <thought>Now then, whose prints should also be on this doorknob?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">............</line>
 <line speaker="Byrde">............</line>
 <line speaker="Gumshoe">Um, we already found Mr. Portsman's and Mr. Faith's prints, sir...</line>
 <line speaker="Edgeworth">...Urngk! I-Is that so... W-Well, there should be one other person who left their mark on this.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">And why would my prints be on this knob, sir?</line>
 <line speaker="Byrde">Are you saying that Mr. Gumshoe has broken into Mr. Portsman's office before!?</line>
 <line speaker="Gumshoe">Wh-What!? I've never even been inside that office! What are you saying, sir!?</line>
@@ -958,7 +957,6 @@
 <line speaker="Edgeworth">...Interesting.</line>
 <line speaker="Gumshoe">You should see me dribbling, faking, and weaving like a pro with my trusty coat on, sir! They call me the "Green Supernova"!</line>
 <line speaker="Edgeworth"><thought>He wears that tattered rag of a jacket even on his days off?</thought></line>
-<line speaker="After examining file under sofa, doorknob of left office door, lower part of basketball hoop, and slip of paper under right office door">Investigation Complete</line>
 <line speaker="Edgeworth">Poking around in this hallway has actually paid off quite handsomely.</line>
 <line speaker="Gumshoe">Huh...? H-How so, sir!?</line>
 <line speaker="Edgeworth">In a variety of different ways... I think it's time we had a little chat... ...with the real culprit of this case.</line>
@@ -988,11 +986,11 @@
 <line speaker="Portsman">Boy you're stubborn. I suppose you're basing your accusations on something?</line>
 <line speaker="Edgeworth"><thought>I'll show you what I'm basing my accusation on... with evidence.</thought></line>
 <line speaker="Portsman">I have no idea what sort of hair-brained idea you have in mind, but...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">My accusation is a hair-brained idea, is it?</line>
 <line speaker="Portsman">You tell me. I'd say it is. After all...</line>
 <line speaker="Portsman">...there's a mountain of evidence that points away from me being the culprit.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Oh? And what, pray tell, kind of evidence are we talking about here?</line>
 <line speaker="Portsman">Jim was my partner, so you can't say I had a motive for killing him!</line>
 <line speaker="Edgeworth">And...? That's it? That's not even an anthill, let alone a mountain.</line>
@@ -1000,24 +998,24 @@
 <line speaker="Edgeworth">...Might I recommend that you review what the word "evidence" means.</line>
 <line speaker="Portsman">It doesn't change the fact that the evidence doesn't point to me as the killer.</line>
 <line speaker="Portsman">Besides, how, may I ask, do you propose I unlocked your door and got in here?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Unfortunately, I believe I have already shown how earlier.</line>
 <line speaker="Portsman">Your speculations mean nothing, as I still insist that I could not gain access to your room.</line>
 <line speaker="Edgeworth"><thought>What should I do now? Should I raise an objection?</thought></line>
 <line speaker="Edgeworth">You claim to have had no way to open my door, however, is that really the honest truth?</line>
 <line speaker="Portsman">Ha ha! Alright, I'll humor you. Go ahead, shoot!</line>
 <line speaker="Edgeworth">Very well, then. I propose that you used this to open my door!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Portsman">............? And how do you propose I used this object to open your door?</line>
 <line speaker="Edgeworth">You... That is...</line>
 <line speaker="Portsman">It's OK. I know when someone's just grasping at straws.</line>
 <line speaker="Edgeworth">...Gnnnrk! <thought>What was it that Mr. Portsman used to gain entry into my office? I'd better take another look in my Organizer...</thought></line>
 <line speaker="Edgeworth"><thought>I need to gather a bit more information.</thought></line>
 <line speaker="Portsman">What's wrong? Don't tell me all you wanted to do was find fault with my flawless logic?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">Look, I feel bad doing this to you, but I've got work to do, so we're done here.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmph, I don't think so.</line>
 <line speaker="Portsman">Oh? And why's that?</line>
 <line speaker="Edgeworth">Because there is a flaw in your reasoning.</line>
@@ -1025,21 +1023,21 @@
 <line speaker="Portsman">So? Where's your proof? The saying, "Evidence is everything" isn't limited to just the courtroom, you know.</line>
 <line speaker="Edgeworth">Hmph. You need not remind me. I'll show you all the evidence you want in time.</line>
 <line speaker="Edgeworth">I believe you were able to open my office door. With the master key, no less.</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">Wait, wait, wait. Hold on for a sec. I never laid a finger on that key, as you already know.</line>
 <line speaker="Edgeworth">Precisely. You were able to open my door without lifting a single finger. Well, maybe you did, but only to direct.</line>
 <line speaker="Portsman">.........!</line>
 <line speaker="Edgeworth">That's right. You used your finger to direct this person to open my door with the key!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">You asked this person to open the door for you!</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">...Let me ask this in return! How and why would I have the master key in my possession? Huh?</line>
 <line speaker="Edgeworth"><thought>Aaargh! That was careless! Stay calm and think about it one more time. The answer is nearby, I just know it!</thought></line>
 <line speaker="Portsman">So, what were you saying?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">You asked this person to open the door for you!</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">...Let me ask this in return! How and why would that person have the master key? Huh?</line>
 <line speaker="Edgeworth"><thought>Aaargh! That was careless! Stay calm and think about it one more time. The answer is nearby, I just know it!</thought></line>
 <line speaker="Portsman">So, what were you saying?</line>
@@ -1056,8 +1054,8 @@
 <line speaker="Edgeworth">By switching the number plates on our doors, for example.</line>
 <line speaker="Byrde">That's right! They do slide out pretty easily!</line>
 <line speaker="Edgeworth">Furthermore, you then used one other thing to give a very strong impression... ...that the door she was opening was yours and not, in fact, mine. <thought>What was it that Mr. Portsman used to make Ms. Byrde think that it was his room?</thought> </line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Portsman">............? What's wrong, Mr. Edgeworth?</line>
 <line speaker="Byrde">Even I wouldn't get tricked by something like that, sir.</line>
 <line speaker="Edgeworth">I-I suppose not...</line>
@@ -1075,16 +1073,16 @@
 <line speaker="Byrde">My jacket's not dirty, I'll have you know! I just washed it yesterday!</line>
 <line speaker="Edgeworth">Please calm down, for I intend to show who is the one truly covered in slime here.</line>
 <line speaker="Portsman">Now you're just spouting nonsense.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Nonsense, you say?</line>
 <line speaker="Portsman">Yes. Because I'm telling the truth here.</line>
 <line speaker="Portsman">I had the girl open my office door.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Using the master key, of course...</line>
 <line speaker="Portsman">Sure. You have a problem with that? That IS what the master key is for, right?</line>
 <line speaker="Edgeworth"><thought>Perhaps we should place it in an elaborate labyrinth of some sort for people like you.</thought></line>
 <line speaker="Portsman">After that, I was in my room the entire time.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And what were you doing in your office?</line>
 <line speaker="Portsman">I was doing my usual training regiment.</line>
 <line speaker="Edgeworth">Training regiment? Were you going through your law books from start to finish?</line>
@@ -1092,15 +1090,15 @@
 <line speaker="Gumshoe">Wow, you must be the buffest prosecutor we have!</line>
 <line speaker="Edgeworth">...With the weakest legal muscles, it would seem.</line>
 <line speaker="Portsman">I was doing my usual workout so...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">You don't have a single reason to suspect me!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I think I've given you quite a few reasons, actually.</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">B-But none of those would stand up on their own!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Then what about all the evidence!?</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">It's all circumstantial! No judge would convict on such flimsy evidence!</line>
 <line speaker="Edgeworth"><thought>He seems to be trembling a little... One more little push... All I have to do is find the flaw in his testimony!</thought></line>
 <line speaker="Edgeworth">That, was a lie.</line>
@@ -1112,12 +1110,12 @@
 <line speaker="Edgeworth">You were not in your room when the victim came to call on you. So then, where were you and what were you doing?</line>
 <line speaker="Portsman">Aaaaaaaaah!</line>
 <line speaker="Edgeworth">Shall I explain it in full detail for you? You were busy snooping around in my room, the very room you had Ms. Byrde open for you!</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">Th-That's just nonsense! You have no evidence that I made the girl open your door for me!</line>
 <line speaker="Edgeworth">Oh, but I do. I have very decisive evidence!</line>
 <line speaker="Portsman">N-No way!!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Portsman">I think you need to take a good look at this piece of evidence!</line>
 <line speaker="Portsman">You know... Nope, I've got nothing. Getting sleepy, are we? I guess it is getting kind of late.</line>
 <line speaker="Edgeworth">Argh! I'll have you know I'm wide awake! And I'll prove it to you!</line>
@@ -1161,33 +1159,32 @@
 <line speaker="Portsman">You see?</line>
 <line speaker="Edgeworth">............ <thought>All of the evidence points to him being the culprit. So there must be a contradictory point in his alibi somewhere!</thought></line>
 <line speaker="Portsman">If memory serves, you came back to this office at around 2 AM, correct?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You are correct; it was around 2 AM...</line>
 <line speaker="Portsman">Are you sure? It's really important to me that you're spot on with the time.</line>
 <line speaker="Edgeworth">I remember checking my watch then, and make no mistake, it was 2.</line>
 <line speaker="Portsman">Ooh! Giving testimony like a pro! OK, so you came back to your office at 2...</line>
 <line speaker="Portsman">And it was then that you had that unfortunate confrontation at gunpoint with the culprit.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It is as you say, however...</line>
 <line speaker="Portsman">Yes, however, you are the only one who claims to have bumped into the culprit. So tell me, did you see the person's face? Was it me who you saw?</line>
 <line speaker="Edgeworth">...It was pitch black, so I couldn't actually see.</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">Oh, come now. I'm sure you saw something! Try a little harder why don't you?</line>
 <line speaker="Edgeworth"><thought>I'm beginning to feel like I'M the one being interrogated here...</thought></line>
 <line speaker="Portsman">Oh well, it doesn't matter if you remember or not. It only matters that you ran into the culprit.</line>
 <line speaker="Portsman">But at exactly that time, I was down in Criminal Affairs!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you paid the Criminal Affairs Department a visit...</line>
 <line speaker="Portsman">Yup! Right after I left the Prosecutors' Building, I headed straight for the precinct.</line>
 <line speaker="Portsman">Ask around. I'm sure the other detectives will corroborate my story. It's the perfect alibi!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmm, well, we did go and ask around to confirm your testimony.</line>
 <line speaker="Portsman">And it was just as I said, right?</line>
 <line speaker="Gumshoe">...Yes, sir. A number of detectives said that they saw you at around that time.</line>
 <line speaker="Portsman">See! I have the perfect alibi! That's the ace I had up my sleeve.</line>
 <line speaker="Edgeworth"><thought>Argh...!</thought></line>
 <line speaker="Edgeworth"><thought>Portsman's alibi may seem perfect at first glance... ...but I know there's a hole in it somewhere. All I need to do is "Press" him a little and see what comes of it.</thought></line>
-<line speaker="After pressing all statements">Edgeworth:</line>
 <line speaker="Portsman">What's wrong? Why the sudden sullen look on your face?</line>
 <line speaker="Gumshoe">Can't you say anything back, Mr. Edgeworth!?</line>
 <line speaker="Portsman">Heh, I think we've reached the end of the line and it's time to get off this crazy train. You there!</line>
@@ -1202,7 +1199,7 @@
 <line speaker="Edgeworth">If, indeed, there were two culprits... ...then that resolves the contradiction behind our murder weapon. Despite the fact that there are two bullets here in this room... ...the murder weapon only shows signs of being fired once. Leaving the possibility that the other bullet was fired from the other visitor's gun. Furthermore...</line>
 <line speaker="Edgeworth">Supposing that there was yet another visitor tonight... ...that would also resolve the issue of why my shelves were upended twice. We know that the shelves were disturbed once before and once after the murder... ...so it shouldn't be much of a stretch to think that it was the work of two different people. Once by the person who stole the victim's gun and then killed him with it... ...and once again after the murder by our second culprit... ...who was the owner of the second gun.</line>
 <line speaker="Edgeworth">If we suppose that the second culprit's gun was the one that was pointed at my back...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Portsman. It seems that I need to amend my assumptions regarding this case.</line>
 <line speaker="Portsman">Great! So you've finally come to your senses.</line>
 <line speaker="Byrde">Mr. Edgeworth!</line>
@@ -1214,7 +1211,7 @@
 <line speaker="Edgeworth">Not at all. It simply means that the killer was someone else. And it means that in actuality, two culprits stole into my office tonight!</line>
 <line speaker="Gumshoe">Wh-What do you mean TWO!?</line>
 <line speaker="Edgeworth">It explains both why my shelves were disturbed twice and how there were two guns. Mr. Portsman tricked Ms. Byrde and gained entry into my office.</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">Now you're just leading the argument. You still don't have any actual proof, you know!</line>
 <line speaker="Edgeworth">If you could please go along with my hypothetical scenario for now, Mr. Portsman. In the end, if you really are innocent, you should have nothing to worry about.</line>
 <line speaker="Portsman">Grr...!</line>
@@ -1239,7 +1236,7 @@
 <line speaker="Edgeworth">Correct. Only, just as the thief was about to leave with the file, I appeared. The thief then threatened me with their own gun, and made their escape. The second bullet was fired during that brief encounter.</line>
 <line speaker="Gumshoe">So the shelves getting messed up twice and the two bullets... It was all because two different people were doing those things at two different times!</line>
 <line speaker="Edgeworth">Precisely. So now do you see, Mr. Portsman? The person I met was just a thief, and was not, in fact, Mr. Faith's killer! Your alibi for the time frame in which I ran into the other person is now irrelevant... ...because we now know that the murder took place during the first culprit's visit!</line>
-<line speaker="Portsman"><cutIn>Objection!</cutIn></line>
+<line speaker="Portsman"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">Ha, ha, ha, ha, ha.</line>
 <line speaker="Gumshoe">What's so funny, pal!?</line>
 <line speaker="Portsman">Absolutely splendid! Your scenario explains everything!</line>
@@ -1259,7 +1256,7 @@
 <line speaker="Portsman">............</line>
 <line speaker="Edgeworth"><thought>I know he's lying. I know he was here, at the scene of the crime. I just have to find a way to prove it.</thought></line>
 <line speaker="Portsman">That thief you ran into should be your real suspect, wouldn't you say?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Actually, no, I wouldn't.</line>
 <line speaker="Portsman">Wh-Why not?</line>
 <line speaker="Edgeworth">That's elementary. The dying message, of course. Mr. Faith's killer very clearly left those letters on the spines of those files... And it was after they were on there that the thief stole one of them.</line>
@@ -1267,34 +1264,34 @@
 <line speaker="Edgeworth">And that's how we also know the letters themselves were a set-up, and not from Mr. Faith. If the thief was the killer, do you think they would try to undermine themselves?</line>
 <line speaker="Portsman">Aaaah! Err, maybe the killer just didn't think of that either? Yes, that must be it! Maybe, just maybe...</line>
 <line speaker="Portsman">We should be out there looking for that thief right now. They might still be nearby.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Once escaped, I highly doubt a thief would linger nearby.</line>
 <line speaker="Portsman">Well, you never know. Maybe they didn't get what they were really after.</line>
 <line speaker="Edgeworth">Oh? You talk like you know quite a bit about this thief.</line>
 <line speaker="Portsman">Ah, it's nothing like that! I have no idea about anything. After all...</line>
 <line speaker="Portsman">I hate to repeat myself, but as I've already said, I was training in my room.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">But according to Mr. Faith's note...</line>
 <line speaker="Portsman">Hold on, I thought we already cleared that up. Didn't we say that Jim left that note for me in the early evening? If you have proof that he left it at a different time, say, just before he was murdered...</line>
 <line speaker="Edgeworth">...I don't have any, no.</line>
 <line speaker="Portsman">You see! So I insist again that I was in my office the entire time...</line>
 <line speaker="Portsman">And when Jim came to deliver some evidence to me, I was down at Criminal Affairs.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why didn't you go there with Ji... Mr. Faith?</line>
 <line speaker="Portsman">Ah, that's because he said he was tired and was going to take a quick nap. You know those sofas in the hallway? He likes to sleep on those. It's one of his habits.</line>
 <line speaker="Edgeworth">And what of the evidence he brought?</line>
 <line speaker="Portsman">They were related to yesterday's case. Just two items: a gun and a pendant.</line>
 <line speaker="Edgeworth"><thought>...Interesting. This piece of testimony seems too crucial to let slip through the cracks.</thought></line>
 <line speaker="Portsman">He brought me two items, a gun and a pendant, that are related to yesterday's case.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">A gun and a pendant...?</line>
 <line speaker="Portsman">Yes, this gun, which was the murder weapon... ...and this pendant, which belonged to the victim.</line>
 <line speaker="Edgeworth">And why were you taking them to Criminal Affairs?</line>
 <line speaker="Portsman">There was something in a past case file I wanted to compare these two to. But all this has nothing to do with this case right now. Anyway, I believe you'll find the long paper trail I left to be to your satisfaction.</line>
 <line speaker="Edgeworth"><thought>Hmm, this is all matching up with what Detective Gumshoe found out...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Portsman">So I can't be expected to know what happened around here after I left.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I can't expect you to know, can I?</line>
 <line speaker="Portsman">Nope. But I guess you can expect me to take a guess based on logical deductions.</line>
 <line speaker="Edgeworth">Oh? Then let's see you deduce.</line>
@@ -1359,8 +1356,8 @@
 <line speaker="Edgeworth">With Mr. Portsman not willing to divulge anything, it certainly lends credence to that rumor. ...It would seem that we haven't heard the last of this.</line>
 <line speaker="Gumshoe">Huh!? Then Mr. Portsman isn't the bad guy!?</line>
 <line speaker="Edgeworth">I didn't say that. But rather, that there are still many more mysteries for us to solve. For example, we still haven't figured out the significance to this piece of evidence...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">Um, sir... I don't think there's any mystery left to that piece...</line>
 <line speaker="Edgeworth">You... might be right there...</line>
 <line speaker="Gumshoe">I think you've solved the case already, Mr. Edgeworth. The only thing left that we still don't know about is maybe this.</line>
@@ -1397,20 +1394,20 @@
 <line speaker="Edgeworth">...!</line>
 <line speaker="Portsman">Sorry, but I'm going to have to ask you to get out of my crime scene, Mr. Edgeworth. ...No offense or anything, but you're cramping my game.</line>
 <line speaker="Edgeworth">Thus the truth was lost for all eternity.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I must object to your line of logic!</line>
 <line speaker="Portsman">And which part do you have an objection to?</line>
 <line speaker="Edgeworth">...It's... Yes, well...</line>
 <line speaker="Gumshoe">Stay cool, Mr. Edgeworth! You're no good when you're all flustered.</line>
 <line speaker="Portsman">The detective's right, for a change!</line>
 <line speaker="Edgeworth"><thought>H-How did it come to this!? Calm down, Miles. Listen carefully and think everything through a bit more rationally.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">It would behoove you to take a good look at this.</line>
 <line speaker="Portsman">I see it, but I fail to see how it has anything to do with me.</line>
 <line speaker="Edgeworth">I-Is that so...?</line>
 <line speaker="Portsman">You're not at the top of your game today, are you, Mr. Genius Prosecutor?</line>
 <line speaker="Edgeworth"><thought>I can't allow him to set the pace here. I must remain calm. Only by doing so can I find the fatal flaw in his reasoning!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Portsman. There is a large flaw in your logic...</line>
 <line speaker="Portsman">Really? I think it holds up rather well, actually. What do you think is wrong with it?</line>
 <line speaker="Edgeworth">Ack! Um, nothing. Let's move on.</line>

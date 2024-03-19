@@ -1,6 +1,6 @@
 
-<line>The Foreign Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Foreign Turnabout</title>
 <line speaker="Phoenix">On the western edge of the Far East lies a peaceful country of spirit mediums and mystery -- the kingdom of Khura'in. But now, the flames of revolution are threatening to consume it whole. But things like "revolt" and "revolution" were the furthest things from my mind when I first arrived in this land.</line>
 <line speaker="???">This blight on my soul... I'll have the child take the blame...</line>
 <line speaker="Phoenix"><thought>Whew! I'm finally here. So this is the Kingdom of Khura'in, huh? What a long trip. I wonder how many hours I was in the air. But just look at this place! Get a load of this street! It really feels like I'm in another world here! And that gorgeous temple! I read that's the center of town. Wow! An ox right in the middle of the street! I have to get a picture of that!</thought></line>
@@ -42,7 +42,7 @@
 <line speaker="Ahlbi">The Holy Mother was a great spirit medium who could commune with our ancestors' souls. And spirit mediums become queen to this day, direct descendants of the Holy Mother.</line>
 <line speaker="Phoenix"><thought>A spirit medium rules the entire country, huh. Talk about power and influence...</thought></line>
 <line speaker="Ahlbi">The main thing you'll want to see when you come to Tehm'pul Temple is... ...the Dance of Devotion rite! The Dance of Devotion takes place twice, one in the morning and once in the afternoon. This dance, along with the Song of Ceremony, is performed in offering to the Holy Mother! The Dance of Devotion has the power to summon forth souls from the Twilight Realm! In Khura'inism, we believe the soul is carried by the sacred Khura'inese butterfly! Its wings form a loop that wraps around the soul to transport it--</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn> Slow down! I can't remember all of that at once.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn> Slow down! I can't remember all of that at once.</line>
 <line speaker="Ahlbi">Oh! I'm sorry! I guess I got a little overexcited.</line>
 <line speaker="Phoenix">Anyway, the main thing I got from all that is that you really, really love your country.</line>
 <line speaker="Ahlbi">Heh heh. Well, that's sure true!</line>
@@ -661,7 +661,7 @@
 <line speaker="Ahlbi">No, they were the great stairs that connect the hallway.</line>
 <line speaker="Phoenix"><thought>Makes sense. The vision wasn't clear enough to show us what was at the top of those stairs...</thought></line>
 <line speaker="Ahlbi">All of a sudden, Mr. Rohl drew his gun and threatened me with it. I quickly put my hands up. Mr. Rohl... He acted so scary... For some reason, he had his scarf over his mouth. I couldn't read his expression at all. Just then, the power went out. So I took that chance to hightail it out of there! I ran for my life! Even now, when I try to think back on it... ...all I can remember are the gun and the piercing look in Mr. Rohl's eyes... That must've been when I dropped the notice scroll.</line>
-<line speaker="Phoenix* <thought>inner monologue incorrectly displayed as Ahlbi in-game</thought>"><thought>Which means someone else brought it to the treasure room, along with Mr. Rohl's body.</thought> Did Mr. Rohl say anything to you when you ran into him on on the stairs?</line>
+<line speaker="Phoenix *incorrectly identified as Ahlbi in-game"><thought>Which means someone else brought it to the treasure room, along with Mr. Rohl's body.</thought> Did Mr. Rohl say anything to you when you ran into him on on the stairs?</line>
 <line speaker="Ahlbi">Nngh...</line>
 <line speaker="Phoenix"><thought>What is it, Ahlbi...?</thought></line>
 <line speaker="Ahlbi">I have no idea why, but... ...he asked me a strange question. "Did you steal it?" he said.</line>
@@ -771,7 +771,7 @@
 <line speaker="Payne">The breakers are in the first floor hallway, in front of the storeroom.</line>
 <line speaker="Andistan'dhin">On the way, I got a whiff of something funky -- blood, man. Really harsher my mellow. I knew something wasn't kosher, so I swung by the treasure room to see what's what. And it was like, whoa, man! There was poor Mr. Rohl, dead as a doornail!</line>
 <line speaker="Payne">In the interval between the end of the Dance of Devotion and the blackout... ...the only ones who went to the scene of the crime were the victim and the accused. So you see, Mr. Andistan'dhin's unassailable account is what led to the accused's arrest.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn> Isn't it possible that the murder took place before the end of the Dance of Devotion?</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn> Isn't it possible that the murder took place before the end of the Dance of Devotion?</line>
 <line speaker="Payne">Heh heh heh. I'm afraid that's not possible. The victim was in the performance hall until the very end of the dance.</line>
 <line speaker="Phoenix">He was?</line>
 <line speaker="Payne">Would you like some proof? How's this -- a photo, taken by a tourist, of the morning Dance of Devotion.</line>
@@ -999,7 +999,6 @@
 <line speaker="Andistan'dhin">Hey, nice, prosecutor! I'm picking up what you're throwing down!</line>
 <line speaker="Phoenix"><thought>Someone stop their jam session... Please...</thought></line>
 <line speaker="Phoenix"><thought>I only understood about half of what this guy's saying... I suppose I should press his statements, but I'm not really looking forward to it...</thought></line>
-<line speaker="After pressing first and sixth statements">Judge:</line>
 <line speaker="Phoenix"><thought>That's not good...</thought></line>
 <line speaker="Andistan'dhin">Heh heh heh!</line>
 <line speaker="Phoenix"><thought>What's so funny, Pees'lubn Andistan'dhin?</thought> Nevertheless, the possibility is still there! You can't deny the witness could have killed the victim under cover of darkness!</line>

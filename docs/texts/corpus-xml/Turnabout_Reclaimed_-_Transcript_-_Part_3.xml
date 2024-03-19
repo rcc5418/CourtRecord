@@ -1,6 +1,6 @@
 
-<line>Turnabout Reclaimed</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Reclaimed</title>
 <line speaker="Athena">*siiiiiiiiiiiiiiiigh*</line>
 <line speaker="Trucy">That was a big sigh, Athena.</line>
 <line speaker="Apollo">Did you... lose the case?</line>
@@ -34,7 +34,7 @@
 <line speaker="Fulbright">Go right ahead!</line>
 <line speaker="Athena">Ms. Buckler is one-hundred-percent innocent, so why did you arrest her?!</line>
 <line speaker="Fulbright">I understand your desire to believe in her. But the fact remains that she's suspicious! Right now, there are investigators on the scene, so you can come in as you please... ...but ordinarily, a security card is required to enter this orca pool room. The victim and Sasha Buckler were the only ones who possessed this card. And yesterday, the day of the incident, there's proof the suspect's card was used.</line>
-<line speaker="Athena">O-<cutIn>Objection!</cutIn> Somebody else could have used Ms. Buckler's card!</line>
+<line speaker="Athena">O-<cutIn type="objection">Objection!</cutIn> Somebody else could have used Ms. Buckler's card!</line>
 <line speaker="Fulbright">Oh, my! I guess that would be one possible explanation...</line>
 <line speaker="Athena">Hee hee! Didn't I sound just like a lawyer right there?</line>
 <line speaker="Phoenix">...Yeah. <thought>We'd kinda be in trouble if you didn't...</thought></line>
@@ -117,7 +117,6 @@
 <line speaker="Trucy">There are unlimited possibilities when it comes to my Magic Panties trick!</line>
 <line speaker="Trucy">Ooh! Did you buy that for me to do a magic trick with?!</line>
 <line speaker="Phoenix">Sorry, but this is evidence. I'll have Apollo buy you something instead.</line>
-<line speaker="Aqua Tunnel or Pub O' Danger <thought>before talking to Fulbright</thought>">Talk</line>
 <line speaker="Athena">I can't believe it! Just when we prove Orla innocent, Sasha gets arrested! I'll never forgive that Prosecutor Blackquill and Detective Fulbright! This stress on my heart is just too much!</line>
 <line speaker="Phoenix"><thought>Poor Athena. She's really upset...</thought> We'd better do some more investigating if we want to save Sasha. Let's check the orca pool room again and question everybody involved.</line>
 <line speaker="Athena">Gee, Mr. Wright! You sure know how to stay calm in a crisis! I can top that! LOOK HOW CALM I CAN BE!</line>
@@ -667,7 +666,6 @@
 <line speaker="Rimes">Sasha put so much effort into makin' this sign for the new show... No wonder she was mad about what happened...</line>
 <line speaker="Phoenix">(Huh? I wonder what he's talking about? I'd better ask...</line>
 <line speaker="Phoenix"><thought>Nothing special here.</thought></line>
-<line speaker="After examining everything">Phoenix:</line>
 <line speaker="Phoenix"><thought>We already checked this out, but another round wouldn't hurt.</thought></line>
 <line speaker="Rimes">With this flyer, you can get a penguin sleep mask the next time you come in.</line>
 <line speaker="Phoenix">Oh, yeah? That would be nice, especially if it's free.</line>
@@ -788,7 +786,6 @@
 <line speaker="Apollo">Oh, you're back! How is the investigation going?</line>
 <line speaker="Phoenix">It's going pretty well, but there are still things we need answers to.</line>
 <line speaker="Apollo">Let me know if there's anything I can do to help!</line>
-<line speaker="After presenting Mysterious Capsule to Apollo Justice">Athena:</line>
 <line speaker="Phoenix">It has been quite a while. Let's stop by the detention center and see. We have something to deliver to her, too, don't forget.</line>
 <line speaker="Athena">They ought to be done with Sasha by now, too.</line>
 <line speaker="Phoenix">True. Let's stop by the detention center and let her know we can take on her defense.</line>
@@ -1132,7 +1129,6 @@
 <line speaker="Pearl">I thought I'd stay overnight here and be with Orla and Rifle. I'll be ready for a telecast during the trial tomorrow! Good luck to both of you! </line>
 <line speaker="Athena">Thanks, Pearly!! That way, when we prove Sasha's innocent she can see Orla right away!</line>
 <line speaker="Phoenix"><thought>I'd love to see Sasha and Orla back together again, both free and clear! But before that can happen, I have to prove Sasha's innocence!</thought></line>
-<line speaker="Wright Anything Agency <thought>before clearing all talk options at Shipshape Aquarium - Pub O' Danger</thought>">Present</line>
 <line speaker="Trucy">That looks like an old charm. Is it yours?</line>
 <line speaker="Phoenix">No, it's evidence. But I have a charm of my own, actually.</line>
 <line speaker="Trucy">You do? Better keep it safe, then.</line>

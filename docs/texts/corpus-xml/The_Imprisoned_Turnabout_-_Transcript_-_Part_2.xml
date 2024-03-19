@@ -1,6 +1,6 @@
 
-<line>The Imprisoned Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Imprisoned Turnabout</title>
 <line speaker="Simon">........</line>
 <line speaker="Edgeworth">Why did you not mention that beforehand?</line>
 <line speaker="Simon">No! ...But I did! Um... What didn't I mention?</line>
@@ -532,7 +532,7 @@
 <line speaker="Missile">Woof! Woof! Woof! Woof!</line>
 <line speaker="Gumshoe">Hey! Missile! Come back here!</line>
 <line speaker="Kay">I'm going too!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gumshoe">I'll stop them, sir! Uuugh... It's too tight for me, siiiir!</line>
 <line speaker="Edgeworth">D-Detective... ........ It can't be helped. I'll have to wait for her to contact me.</line>
 <line speaker="Edgeworth">.......... Hello! Kay! Are you alright?</line>
@@ -593,7 +593,7 @@
 <line speaker="Dogen">Keh heh heh. You mean to say you require my humble services.</line>
 <line speaker="Edgeworth">As I promised, I've returned to prove that you are the culprit.</line>
 <line speaker="Dogen">Hm-Hmmm. Interesting... Do tell.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Before that... You should first listen to our reasoning!</line>
 <line speaker="Courtney">We can say with confidence that Simon Keyes is the culprit. Only Simon Keyes could have moved Mr. Knightley into the prison. And we can show proof of this fact. But first... I'd like to hear your resolve, Prosecutor Edgeworth. If our reasoning is correct... Will you submit it to us? Your prosecutor's badge...</line>
 <line speaker="Gumshoe">Eep...! Y-You'll deprive him of his badge? I-Is that a threat, pal!?</line>
@@ -621,14 +621,14 @@
 <line speaker="Courtney">That cage was transported temporarily to the workroom. Originally, Mr. Knightley was to remain hidden until the end of the Animal Show... He would then be carried out along with the cage. I presume that was the plan. However, midway through the plan, he was betrayed by Simon Keyes and murdered...</line>
 <line speaker="Edgeworth"><thought>Judge Courtney's reasoning does appear to make sense... However, there must be a hole somewhere. I must not overlook anything!</thought></line>
 <line speaker="Courtney">I presume you know of the incident Mr. Knightley caused the day before yesterday?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney, about this incident...</line>
 <line speaker="Courtney">You do not know of it? That would be unbecoming of you, "Ace Attorney" Miles Edgeworth.</line>
 <line speaker="Edgeworth">Hmph. Naturally, I know of it. However, you said...</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">In that case, this is a waste of time. I shall continue. Mr. Knightley...</line>
 <line speaker="Courtney">He attacked a guard and stole his keys...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you have proof Knightley stole the keys?</line>
 <line speaker="Courtney">It is the only explanation as to why Mr. Knightley would have attacked the guard. We will know for certain the moment the guard regains consciousness.</line>
 <line speaker="Edgeworth"><thought>Is that really true...? Should I ask Judge Courtney for more information...?</thought></line>
@@ -637,19 +637,19 @@
 <line speaker="Edgeworth">There is one point in your reasoning that is odd. If Knightley did indeed steal the key... I'd expect he'd try to escape immediately. Was it really necessary for him to wait for Mr. Keyes to help him escape?</line>
 <line speaker="Courtney">He simply chose the method with the highest probability of success. After stealing the key, he concealed it on his personage... ...as he waited for the opportune moment. That is what I believe.</line>
 <line speaker="Edgeworth"><thought>He concealed the key...?</thought> Judge Courtney. Such an oversight is unlike you. Knightley could not have concealed the key. And I can prove it. <thought>Knightley did not hide the key. And the proof is...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Judge Courtney, could you take a look at this piece of evidence?</line>
 <line speaker="Courtney">I'm afraid I cannot accept that piece of evidence. I do not believe it has any relation to my testimony.</line>
 <line speaker="Edgeworth">Nnghoooh! <thought>As I expected, she's nothing like Mr. Debeste. However, I won't back down so easily!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Judge Courtney. Don't you have a problem with that statement just now?</line>
 <line speaker="Courtney">Should I have a problem with it?</line>
 <line speaker="Edgeworth">Hmph... Exactly. Because there's no problem at all!</line>
 <line speaker="Courtney">In that case, you should have refrained from speaking in the first place.</line>
 <line speaker="Edgeworth">Nnghhooh! <thought>I don't think that left a good impression...</thought></line>
 <line speaker="Courtney">Afterwards, Simon Keyes stopped by his cell with an animal cage from the show.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, Mr. Keyes' actions were intended to help Knightley escape from prison?</line>
 <line speaker="Courtney">Yes. He stopped by the detention center's holding cells with the cage. This is Simon Keyes' own testimony. It can't be denied.</line>
 <line speaker="Edgeworth"><thought>His visit to Knightley's cell ended up drawing suspicion, as one would imagine.</thought></line>
@@ -658,7 +658,7 @@
 <line speaker="Edgeworth">Ugh...!</line>
 <line speaker="Courtney">I see you understand. Simon Keyes carried the cage to the detention center.</line>
 <line speaker="Courtney">During this time, Mr. Knightley was able to use the stolen key to exit his cell.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you have proof Knightley stole the keys?</line>
 <line speaker="Courtney">It is the only explanation as to why Mr. Knightley would have attacked the guard. We will know for certain the moment the guard regains consciousness.</line>
 <line speaker="Edgeworth"><thought>Is that really true...? Should I ask Judge Courtney for more information...?</thought></line>
@@ -667,19 +667,19 @@
 <line speaker="Edgeworth">There is one point in your reasoning that is odd. If Knightley did indeed steal the key... I'd expect he'd try to escape immediately. Was it really necessary for him to wait for Mr. Keyes to help him escape?</line>
 <line speaker="Courtney">He simply chose the method with the highest probability of success. After stealing the key, he concealed it on his personage... ...as he waited for the opportune moment. That is what I believe.</line>
 <line speaker="Edgeworth"><thought>He concealed the key...?</thought> Judge Courtney. Such an oversight is unlike you. Knightley could not have concealed the key. And I can prove it. <thought>Knightley did not hide the key. And the proof is...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Judge Courtney, could you take a look at this piece of evidence?</line>
 <line speaker="Courtney">I'm afraid I cannot accept that piece of evidence. I do not believe it has any relation to my testimony.</line>
 <line speaker="Edgeworth">Nnghoooh! <thought>As I expected, she's nothing like Mr. Debeste. However, I won't back down so easily!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Judge Courtney. Don't you have a problem with that statement just now?</line>
 <line speaker="Courtney">Should I have a problem with it?</line>
 <line speaker="Edgeworth">Hmph... Exactly. Because there's no problem at all!</line>
 <line speaker="Courtney">In that case, you should have refrained from speaking in the first place.</line>
 <line speaker="Edgeworth">Nnghhooh! <thought>I don't think that left a good impression...</thought></line>
 <line speaker="Courtney">He then hid in the cage while it was moved to the prison workroom.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why would he have needed to do such a thing!?</line>
 <line speaker="Courtney">In order to escape. How else would you explain his actions?</line>
 <line speaker="Edgeworth">Hmm... That is...</line>
@@ -696,7 +696,7 @@
 <line speaker="Courtney">That was all Sebastian's idea, after all.</line>
 <line speaker="Edgeworth"><thought>So, those two don't always agree on their reasoning...</thought></line>
 <line speaker="Courtney">In other words, once we put all the pieces together... Mr. Knightley concealed the key he stole from the guard inside the chessboard. When Simon Keyes arrived, Mr. Knightley used the key to slip out of his cell. He entered the animal cage, and was transported to the workroom. All thanks to his accomplice, Simon Keyes. Mr. Knightley had planned to be carried outside after the show had ended. However, he was betrayed by his accomplice and murdered during the circus performance.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Keyes performed in the show. He would've had no opportunity to murder him during the circus performance!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">No opportunity... Is that so? A story plays itself out on the stage. And such was the case with the Animal Show.</line>
@@ -707,14 +707,14 @@
 <line speaker="Courtney">After being blown away, the suspect disappeared from the stage. The suspect was absent from the stage for about 15 minutes.</line>
 <line speaker="Edgeworth">Are you saying the crime was committed during that time?</line>
 <line speaker="Courtney">Even in such a short period of time, it would still be possible to carry out the murder. Don't you think so?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">So, he committed the crime in 15 minutes and then returned to the stage... That may have been possible, if the crime scene had been the prison... Judge Courtney. The actual crime took place in the detention center.</line>
 <line speaker="Courtney">I'm afraid I cannot accept that camera footage alone as evidence...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">As for evidence... I have it.</line>
 <line speaker="Courtney">Well then, please show us your evidence. Where is the evidence that shows the scene of the crime was the detention center?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Courtney">What... is this?</line>
 <line speaker="Edgeworth">Hmph... This is the evidence that proves the scene of the crime was the detention center.</line>
 <line speaker="Courtney">I do not understand.</line>
@@ -729,13 +729,13 @@
 <line speaker="Courtney">This is... the floor? Oh, Goddess of Law! I am unable to comprehend your mysterious ways.</line>
 <line speaker="Edgeworth">This is what we discovered. The area here... was tested positive for Mr. Knightley's blood!</line>
 <line speaker="Courtney">This blood test... Can it really be trusted? To begin with... how were you able to conduct a scientific investigation...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph. I happen to have a subordinate. I can't vouch for his competence, but he is a man that I trust.</line>
 <line speaker="Courtney">That detective...? This concerns me. I cannot think why one would disturb the order of law. The Prosecutorial Investigation Committee's influence goes as far as the Police Department. Ha ha ha ha.</line>
 <line speaker="Kay">G-Gummy's in trouble!</line>
 <line speaker="Edgeworth"><thought>Forgive me, Detective! I'm afraid something bad may come of this...!</thought></line>
 <line speaker="Courtney">I will accept the fact that blood was found at the detention center as evidence... However...</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Wa ha ha ha ha! How ridiculous! This is unthinkable of you! You Third-Rate Prosecutor!</line>
 <line speaker="Edgeworth">Mr. Debeste... You're here? <thought>I'd completely forgotten about him.</thought></line>
 <line speaker="Debeste">There's a giant contradiction in your statement! According to the security tape, a dog killed Knightley in his cell. Then, after he left the cell, the blood on the floor was wiped away...</line>
@@ -751,7 +751,7 @@
 <line speaker="Kay">Stop! Stop! Stop! I don't want to hear any more!</line>
 <line speaker="Courtney">I see... I understand. Prosecutor Edgeworth. It appears... you've gathered a good hand.</line>
 <line speaker="Edgeworth">I'm glad you understand...</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">My argument isn't over yet!</line>
 <line speaker="Courtney">Objection overruled.</line>
 <line speaker="Ray">Hey now, that's a little harsh.</line>
@@ -760,10 +760,10 @@
 <line speaker="Edgeworth">Do you finally realize? The murder occurred in the detention center. Therefore that assassin's pet dog...</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">My opinion has not changed. Unless I can understand how the dog was able to enter and leave the crime scene... ...I'm afraid I cannot accept your logic, Prosecutor Edgeworth.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I've been waiting for you to say that. Now, let me show you. This evidence shows the route the dog used to go between the detention center and prison!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Courtney">...And what, pray tell, is that?</line>
 <line speaker="Edgeworth">This is the piece of evidence that shows the route the dog took!</line>
 <line speaker="Courtney">Surely, you don't think I can accept such faulty evidence...</line>
@@ -780,7 +780,7 @@
 <line speaker="Edgeworth">Dogen. You must have known of this. Since you used this tunnel to commit murder!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">In the name of the Goddess of Law... I hereby reject Prosecutor Edgeworth's claim!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Wh-What do you mean!?</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Evidence is everything. That remains true here, just as in the courtroom. Isn't that right? I have evidence here... Horace Knightley's autopsy report.</line>
@@ -790,7 +790,7 @@
 <line speaker="Courtney">This was delivered straight from the police a short while ago. It's not complete yet. More of a preliminary report. Here... The very word of the Goddess of Law is written. "Cause of Death: Stab wound to the neck, died instantly. Murder Weapon: Sharp metal object." The victim was stabbed multiple times in the same spot with a sharp object. Although they were unable to determine the actual shape of the murder weapon... ...they have clear proof that it was a sharp metal object. So, do you still stand by your claim? That a dog used a sharp object to kill the victim!?</line>
 <line speaker="Edgeworth">This can't beeeeeeeeeeeeeeeee!</line>
 <line speaker="Courtney">...That is all. The court is adjourned!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But, wait! The tunnel contains the dog's footprints!</line>
 <line speaker="Dogen">Perhaps it may have been one of Anubis' walking courses? I can never tell what Anubis gets up to outside my cell.</line>
 <line speaker="Edgeworth"><thought>Something feels unnatural about all this, but... I have no evidence!</thought></line>
@@ -819,7 +819,7 @@
 <line speaker="Ray">Well then, Miles. Now's the time to put those skills to the test. Think beyond your limits. If the murder weapon was a sharp object, does that really negate your reasoning...?</line>
 <line speaker="Edgeworth"><thought>...The murder weapon was a sharp object...? ...That's it! There were five chisels placed inside this special cell. Dogen is a "former assassin", it's quite possible he could kill someone with just a chisel. In that case, the weapon that killed Horace Knightley was...!</thought></line>
 <line speaker="Courtney">Is that all? Well then, I suppose you'll be giving up...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Evidence is everything... Didn't you say? The murder weapon was a sharp metal object. However... Such a weapon has yet to be found.</line>
 <line speaker="Debeste">Wh-Wh-What! So what are you trying to say!</line>
 <line speaker="Edgeworth">Hmph. The only decisive evidence... is the actual murder weapon itself. And that was in plain sight this whole time. The real murder weapon is... ...Dogen's chisel!</line>
@@ -847,12 +847,12 @@
 <line speaker="Kay">And use the murder weapon!</line>
 <line speaker="Edgeworth">Indeed. The killer is... Sirhan Dogen! It can only be you!</line>
 <line speaker="Dogen">......Keh heh heh.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">I bet your teacher used to write on your report card. "Needs to pay more attention on what others say."</line>
 <line speaker="Edgeworth"><thought>I would think that describes you more.</thought></line>
 <line speaker="Debeste">We examined that room. Every crook and granny. Right, Justine?</line>
 <line speaker="Courtney">We examined all four of Mr. Dogen's chisels... ...and found no traces of blood.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmph. Thank you, Judge Courtney. Thanks to you, I am now certain.</line>
 <line speaker="Courtney">Thanks to me...? Whatever do you mean?</line>
 <line speaker="Edgeworth">When I came here earlier, I saw five chisels.</line>
@@ -863,8 +863,8 @@
 <line speaker="Edgeworth"><thought>...Not free to leave? In that case, he mustn't have been free to hide the deadly chisel either.</thought> Hmph... Dogen, you just dug your own grave.</line>
 <line speaker="Courtney">It seems you know something. Would you care to show it?</line>
 <line speaker="Edgeworth"><thought>Dogen couldn't leave, so the place he hid the chisel is...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">It must be here in the prison.</line>
 <line speaker="Ray">Because of the security gate, that's probably the case...</line>
 <line speaker="Kay">You're supposed to point out where in the prison it's hidden!</line>
@@ -873,9 +873,9 @@
 <line speaker="Dogen">Keh heh heh heh. So, what does that leave?</line>
 <line speaker="Edgeworth">Above all else... Special metal tools are allowed in this cell. Even if one chisel were to appear here, no one would suspect a thing. You'd be a fool not to take advantage of that!</line>
 <line speaker="Ray">I see. Of course, it's always safest if you do something yourself.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">But, I examined everything! I didn't find any hiding places in his cell!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I am certain that the murder weapon is here. The reason you haven't found it is because it was cleverly hidden.</line>
 <line speaker="Dogen">Keh heh. You say I hid it? Where, exactly?</line>
 <line speaker="Edgeworth"><thought>Think... Where could he have hidden it? I have to remember everything up to this point! There must be some clue...</thought></line>
@@ -883,10 +883,10 @@
 <line speaker="Kay">L-L-L-Let's get going, Mr. Edgeworth!</line>
 <line speaker="Edgeworth"><thought>Come to think of it... That dog hasn't barked at me once today. Previously, when I came to the special cell, it barked on Dogen's command. Th-That's it! That's what's been out of place! There's just one place he could have hidden the murder weapon!</thought></line>
 <line speaker="Dogen">Giving up already? Keh heh heh. How dull, how dull.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I will... present evidence. This piece of evidence shows where you concealed the murder weapon!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Dogen">Keh heh heh. And what is that?</line>
 <line speaker="Edgeworth">This is where you hid the murder weapon!</line>
 <line speaker="Ray">Miles. Wouldn't you think that's impossible...</line>
@@ -936,38 +936,38 @@
 <line speaker="Dogen">I may kill strangers in my line of work, but I never make it personal.</line>
 <line speaker="Edgeworth"><thought>Is there evidence that shows a connection between Knightley and Dogen... I should thoroughly review the evidence once more.</thought></line>
 <line speaker="Dogen">First of all, I would like you to explain my motive.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You cannot kill without a motive. ...Hardly what I'd expect an assassin to say.</line>
 <line speaker="Dogen">Keh heh heh. I don't spill blood needlessly. It may be required for my job, but not in my personal affairs. They're a little different. Isn't that right, Anubis?</line>
 <line speaker="Dogen">I do not know anyone by the name of Knightley. We share no connection.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You didn't know Knightley? It's not like you to say something like that.</line>
 <line speaker="Dogen">You overestimate me considerably. Did you have such a hard time arresting me in the past?</line>
 <line speaker="Edgeworth">...We've already looked into it. You are the prison's Supplier. Naturally, you would have known about the other prisoners.</line>
 <line speaker="Dogen">Keh heh heh. Hearing one thing and knowing ten is just an ideal. It's true, I do hear things. However, that doesn't mean that I know everything. I've never heard of anyone named Knightley.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Dogen">So, I wouldn't think some motive for murder would just appear out of nowhere.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You are an assassin. You do not require a motive to kill.</line>
 <line speaker="Dogen">Hey, Anubis. What do you think of this man? Is he an idiot, a fool... or possibly even a genius?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You can drop the act. Answer the question.</line>
 <line speaker="Dogen">But first, consider this. Who am I? Before your eyes, you see the man you arrested yourself... The assassin Sirhan Dogen. For those I have needlessly killed, I chant a prayer.</line>
 <line speaker="Dogen">Or are you insinuating my Anubis had a motive?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The dog probably did not have a motive. However, it has been trained to kill.</line>
 <line speaker="Dogen">Anubis, how could this man say such a thing? You poor thing. There there. There there.</line>
 <line speaker="Edgeworth">The dog isn't you. He could have mistaken his target!</line>
 <line speaker="Dogen">In that case, wouldn't police dogs be equally untrustworthy? If you still mean to suspect Anubis... Then you'll have to show me this "evidence" you're so fond of.</line>
 <line speaker="Edgeworth">Ngh...! <thought>I don't have that kind of evidence!</thought></line>
 <line speaker="Dogen">Keh heh heh. He only bares his fangs at others on my command.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Then, perhaps you ordered him to kill Knightley!</line>
 <line speaker="Dogen">Keh heh. Aren't we impatient? Haven't you forgotten the first thing I said? I don't know anyone called Knightley. Although you still insist I do, I'm afraid there's no evidence. Don't you think so too, Anubis? Good boy. Good boy.</line>
 <line speaker="Edgeworth"><thought>Did the dog kill him, or did Dogen... If Dogen did not have the motive to kill, then he could not have murdered Knightley. First, I should show proof of some connection between Dogen and Knightley.</thought></line>
 <line speaker="Edgeworth">You've lost your touch, Sirhan Dogen. If you had your dog clean up after you, you should have disposed of this too. This is a record of a correspondence chess game found in the victim's cell. This record, and the chessboard in your cell... Both clearly depict the same game.</line>
 <line speaker="Dogen">Wh-What...!</line>
-<line speaker="Edgeworth">I've heard that the number of possible chess positions is around 10¹²�.</line>
+<line speaker="Edgeworth">I've heard that the number of possible chess positions is around 10¹².</line>
 <line speaker="Kay">10 x 10, 120 times. 100, 1000... Umm... I-Is that even a real number!?</line>
 <line speaker="Edgeworth">Indeed. There's absolutely no way these two could have coincided by chance.</line>
 <line speaker="Dogen">........</line>
@@ -984,7 +984,7 @@
 <line speaker="Sahwit">It was a truly hellish scene... That dog! That dog killed him!</line>
 <line speaker="Edgeworth">I see... So that means Sahwit witnessed the moment the murder weapon was pulled out.</line>
 <line speaker="Dogen">Oh, yes. That prisoner's testimony. It surprised me when I first heard it. It's not often that Anubis makes a blunder like that. Right, boy? Now, I believe that explains my actions. I did not kill him. All I did was remove the murder weapon. Now, will that be all? Anubis is getting tired.</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">Whoa there. Just a moment. Mr. Dogen.</line>
 <line speaker="Edgeworth">Mr. Shields...!</line>
 <line speaker="Ray">Isn't there one thing you haven't explained? Why would you need to pull out the murder weapon in the first place?</line>
@@ -1003,7 +1003,7 @@
 <line speaker="Dogen">When Anubis brought the body here, I heard a familiar sound. I thought my knife must have been embedded in the body. So imagine my confusion when I found out that it was merely a chisel with my bell attached.</line>
 <line speaker="Edgeworth">Indeed, your knife is nothing like this chisel.</line>
 <line speaker="Dogen">Either way, those bells are my trademark. Moreover, I'm the only one in this prison who uses chisels. With all this, I knew I would be falsely suspected. So, I removed the murder weapon and hid it.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you're claiming that you only moved the body!?</line>
 <line speaker="Dogen">Didn't I tell you? That chisel isn't mine. If you think I'm lying... Go ahead and check for my fingerprints.</line>
 <line speaker="Courtney">Sebastian!</line>
@@ -1039,8 +1039,8 @@
 <line speaker="Edgeworth">...... Currently, I am a defense attorney's assistant; no, an assistant at my father's firm... I have made a commitment to this case. Therefore... ...If I don't save my client, I cannot say I've achieved it. ...I will abide by this. To save Simon Keyes...! No matter how many times my logic fails, I will always find another possibility.</line>
 <line speaker="Kay">OK! You're finally back! Well then, let's search for that other possibility! To start with... Do you think there was a way Mr. Knightley could've brought the chisel into the prison?</line>
 <line speaker="Edgeworth"><thought>The method Knightley used to bring the chisel into the prison was...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This was how Knightley brought the chisel inside!</line>
 <line speaker="Courtney">And could you explain how this allowed him to do so?</line>
 <line speaker="Edgeworth">Hmph... Don't you understand?</line>
@@ -1115,8 +1115,8 @@
 <line speaker="Edgeworth">Have you received a report of any guard being attacked by an animal?</line>
 <line speaker="Gumshoe">No, not that I've heard, sir...</line>
 <line speaker="Edgeworth">Hm. Then it was someone else wearing a guard's uniform... I see. I have evidence that shows what this cap is. It is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The cap in this video is clearly this!</line>
 <line speaker="Kay">Eh? That doesn't look like it at all...</line>
 <line speaker="Edgeworth">.......Ngh! ...I'll try thinking it over again. The person in this video is wearing a guard's uniform. But they're not a guard. In that case, why would they choose to appear this way...?</line>
@@ -1131,8 +1131,8 @@
 <line speaker="Edgeworth">That line of logic no longer holds. Remember the tunnel under his bed!? It's possible whoever used this tunnel is the one in this video!</line>
 <line speaker="Courtney">It seems it is time to answer that question. Just who is the person in this video...?</line>
 <line speaker="Edgeworth">The person in this video is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">Whaah! The person in this video is really them!?</line>
 <line speaker="Edgeworth">It's the only possibility...</line>
 <line speaker="Courtney">Overruled!</line>
@@ -1144,8 +1144,8 @@
 <line speaker="Edgeworth">The person wearing the guard's uniform is... ...the escaped prisoner, Jay Elbird. The probability is extremely high. His pet is a polar bear cub.</line>
 <line speaker="Kay">But, but! The bear here is black!</line>
 <line speaker="Edgeworth">We have evidence that can explain this matter. The reason the polar bear became black is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Courtney">That is what turned the polar bear black?</line>
 <line speaker="Ray">Uncle Ray can't understand why that would turn it black either.</line>
 <line speaker="Courtney">Would you care to provide an explanation?</line>
@@ -1167,7 +1167,7 @@
 <line speaker="Edgeworth">Was this polar bear... Yes.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Prosecutor Edgeworth. There is a huge contradiction in your argument. The security camera footage...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney. You are quite right. Sahwit used the mud packs during the Animal Show. Knowing this, a new contradiction in the video comes to light.</line>
 <line speaker="Kay">A new contradiction?</line>
 <line speaker="Edgeworth">Kay. Do you know when this footage was taken?</line>
@@ -1175,8 +1175,8 @@
 <line speaker="Edgeworth">In that case, you should notice something strange about this video.</line>
 <line speaker="Kay">Huh!? What's strange about it?</line>
 <line speaker="Edgeworth">The strange thing that contradicts the time this video was taken is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">That's the contradiction?</line>
 <line speaker="Ray">So where, specifically, is the contradiction?</line>
 <line speaker="Edgeworth">Specifically, around here...</line>
@@ -1216,7 +1216,7 @@
 <line speaker="Dogen">Keh heh heh. No need to lose your temper. There's always next time.</line>
 <line speaker="Edgeworth"><thought>On the day of the incident, it's possible that Elbird met Knightley while he was alive. I'll have to listen to his testimony carefully.</thought></line>
 <line speaker="Elbird">So it was you guys? You were the ones who found my secret tunnel!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You...</line>
 <line speaker="Elbird">Shuddup! What's with that "Hold it", punk!</line>
 <line speaker="Edgeworth">You say you dug...</line>
@@ -1224,7 +1224,7 @@
 <line speaker="Edgeworth"><thought>I can't get a word in edgewise.</thought></line>
 <line speaker="Elbird">You can't just go around discovering people's holes!</line>
 <line speaker="Elbird">It took me ages to dig that!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you dug that hole alone?</line>
 <line speaker="Elbird">You're damn right I did!</line>
 <line speaker="Edgeworth">Could a tunnel like that really be dug by one person?</line>
@@ -1235,7 +1235,7 @@
 <line speaker="Kay">Ah, no! I was just joking!</line>
 <line speaker="Elbird">Well, I wasn't! Damn, why'd it come to this!</line>
 <line speaker="Elbird">The day the body was found was the day I had planned to escape. I was in disguise.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Did you obtain the guard's uniform from the Supplier too?</line>
 <line speaker="Elbird">Yeah... That's right. Seems he got it by threatening a guard. That guy went and stole it from someone's locker.</line>
 <line speaker="Edgeworth">So, when you went through the tunnel, you were already dressed like a guard?</line>
@@ -1243,15 +1243,15 @@
 <line speaker="Edgeworth">...That must be the moment the security camera captured. I see. Could you add that to your testimony?</line>
 <line speaker="Add statement">"Once I got out of the hole and changed clothes, getting out the cell doors was simple."</line>
 <line speaker="Elbird">Once I got out of the hole and changed clothes, getting out the cell doors was simple.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Getting out the cell door was "simple", you say...?</line>
 <line speaker="Elbird">Yeah. Compared to going through the tunnel, it was very simple.</line>
 <line speaker="Edgeworth">You inhabit a prison. Yet, you seem to know the layout of the detention center quite well.</line>
 <line speaker="Elbird">! Wh-What's so wrong about that? Sure, I've been to the detention center too.</line>
 <line speaker="Edgeworth"><thought>In that case, he should have known about it from the start. When Knightley was in his cell, the door would've been locked! Which means there was one piece of evidence Elbird needed to escape.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Elbird">Then, Rocky followed after me.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">When did you first realize he was following you?</line>
 <line speaker="Elbird">When I got out of the tunnel. Just when I thought I pulled it off ...Damn!</line>
 <line speaker="Edgeworth">Didn't you notice anything when you entered the tunnel?</line>
@@ -1259,7 +1259,7 @@
 <line speaker="Kay">Such harsh words... Poor Rocky...</line>
 <line speaker="Elbird">I-I can't help it! Today was his fault too! Just like yesterday, always clinging onto me!</line>
 <line speaker="Elbird">But he was all covered in mud. I panicked and returned to my cell.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You didn't consider just making a run for it?</line>
 <line speaker="Elbird">I would have if I could! But the mud would've given me away. And it's not like I'd get another chance like this. So, I had to proceed with caution.</line>
 <line speaker="Edgeworth"><thought>In the end, he was exposed by his own bear.</thought></line>
@@ -1268,7 +1268,7 @@
 <line speaker="Elbird">Yeah. That's right. You got a problem with that? Huh?</line>
 <line speaker="Edgeworth">Even though you managed to arrive at Knightley's cell, opening the door wasn't so simple. How did you intend to unlock the cell door? Jay Elbird! You... had the key to Knightley's cell!</line>
 <line speaker="Elbird">...! I ain't got... nothing like that. Th-That's it! It was open! It was already unlocked when I got there!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Indeed, the cell was vacant after Knightley's death. Which is why... ...at the time we conducted out investigation, it was unlocked. Your successful escape attempt occurred after Knightley's death. So the door would've been open. However, you had tried to escape once before then!</line>
 <line speaker="Kay">The plan was foiled thanks to Rocky; the video shows it!</line>
 <line speaker="Edgeworth">Yes. That was during the Animal Show. Before Knightley's death was known! And the cell door was locked! Because no one knew he was dead! Without the key to Knightley's cell, your escape would have been impossible!</line>
@@ -1276,13 +1276,13 @@
 <line speaker="Courtney">That means... It can't be...!</line>
 <line speaker="Edgeworth">It's exactly what you think. In the case of the stolen key, the culprit is... ...Jay Elbird! You were the one who attacked the guard, weren't you? The guard... and Knightley too! In order to steal the cell key!</line>
 <line speaker="Elbird">I-It wasn't me! I don't know any Knightley!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">After stealing the key, you returned to your cell, as a precautionary measure. Then, you waited for a time when the prison would be mostly vacant. That was just before Knightley's death became known. In other words, during the Animal Show! But in the end, the plan was foiled thanks to Rocky...</line>
 <line speaker="Elbird">Don't screw with me! If you don't have evidence, I'll still win by decision! Besides, it was that Knightley guy who attacked the guard, right?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I think not. Regarding the theft of the keys, Knightley was the victim! This proves Knightley was the victim who was attacked in his cell...!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Debeste">Does this really prove it?</line>
 <line speaker="Edgeworth">Of course.</line>
 <line speaker="Debeste">If you say so, then I get the feeling he was definitely the victim.</line>
@@ -1298,7 +1298,7 @@
 <line speaker="Edgeworth">So, you were trying to buy more time for your escape attempt. But I'm afraid to say your plan still ended in failure. Now then... Hand over the keys to Knightley's cell!</line>
 <line speaker="Elbird">Guh... Gwoooh! Urgh! Gwaaaarrgh! D... a... mn iiiiiiiiiiiiiiiiiiiit! No way... How could an amateur like you knock me out! Here. I got the keys right here.</line>
 <line speaker="Courtney">Overruled!</line>
-<line speaker="Courtney"><cutIn>Hold it!</cutIn> If you have that key, then that means...!</line>
+<line speaker="Courtney"><cutIn type="holdIt">Hold it!</cutIn> If you have that key, then that means...!</line>
 <line speaker="Edgeworth">That's right, Judge Courtney. You reasoned that Knightley stole the key and used it to leave his cell... From there, he entered Mr. Keyes' cage and was moved to the workroom. However... The very foundation of that hypothesis has collapsed!</line>
 <line speaker="Courtney">Aaaaaaaaaah!</line>
 <line speaker="Debeste">HOOOOOOOOOOOOW!</line>
@@ -1326,8 +1326,8 @@
 <line speaker="Edgeworth">A nice scent?</line>
 <line speaker="Elbird">I don't know what it was, but it smelled sweet, like candy...</line>
 <line speaker="Edgeworth">This scent... I believe we've come across it before. <thought>We know this scent from...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Is it, by chance, this scent? Here, have a sniff.</line>
 <line speaker="Elbird">*sniff* *sniff*... Nope, it wasn't this smell.</line>
 <line speaker="Edgeworth">What!? <thought>I must have been mistaken... When we found the tunnel, we followed some kind of scent... That must be the answer!</thought></line>
@@ -1340,7 +1340,7 @@
 <line speaker="Elbird">Don't tell me even you suspect me too?</line>
 <line speaker="Edgeworth">Judge Courtney, it seems you and I have come to the same conclusion.</line>
 <line speaker="Courtney">...Not at all. Our thoughts on this matter are still quite different. Mr. Elbird was certainly an accomplice, but an accomplice to Horace Knightley.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...What do you mean?</line>
 <line speaker="Courtney">Mr. Elbird did not move the body. He simply lent the victim his keys.</line>
 <line speaker="Kay">Wha!</line>
@@ -1352,7 +1352,7 @@
 <line speaker="Ray">I see. So, in other words, we're back where we started.</line>
 <line speaker="Courtney">Mr. Elbird opened the cell door, and Mr. Knightley entered Mr. Keyes' cage. And then, he was moved into the prison.</line>
 <line speaker="Debeste">Of course! And then he was killed in the prison workroom!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Weren't you listening? The scent on the body shows it must have been moved through the tunnel! Knightley was moved from the detention center through the tunnel...</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">...Please wait until someone is finished before speaking. I do not claim that he wasn't moved through the tunnel.</line>
@@ -1367,7 +1367,7 @@
 <line speaker="Courtney">I see you understand. Who then, dropped the body drown the well?</line>
 <line speaker="Edgeworth"><thought>Judge Courtney... She's a tough opponent. Her flexible way of thinking enables her to adapt and come up with her own deductions...</thought></line>
 <line speaker="Courtney">Mr. Knightley was not carried to the workroom but to the courtyard... And Mr. Keyes was off stage for 15 minutes. This was when he dropped Mr. Knightley down the well. It's as simple as that.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney, your reasoning is sound, I'll admit that. However, let's say the body was dropped down the well... That didn't have to be done during the show, it could have happened at a different time!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Unfortunately for you, Prosecutor Edgeworth, that is not possible.</line>
@@ -1769,8 +1769,8 @@
 <line speaker="Edgeworth"><thought>Where did the missing rope disappear to...?</thought> It's possible that we hold the piece of evidence that shows where the rope went.</line>
 <line speaker="Kay">Eh?</line>
 <line speaker="Edgeworth"><thought>Which piece of evidence shows where the missing rope went?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">Does that show where the missing rope went, sir?</line>
 <line speaker="Edgeworth">Yes.</line>
 <line speaker="Kay">So, where's the missing rope!</line>
@@ -1787,8 +1787,8 @@
 <line speaker="Edgeworth">This rope was attached to the weight! However, the weight was not one of these metal weights. These weights were hidden in the grass and replaced with something else.</line>
 <line speaker="Kay">If they were replaced, then what was used as the weight?</line>
 <line speaker="Edgeworth">What was tied to the rope we found in the workroom... If we can recall that, then the answer should be clear! The weight that was dropped in place of the weights that Mr. Keyes had prepared was...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This was the weight that was used in the device!</line>
 <line speaker="Kay">Sorry to interrupt while you're brimming with confidence, Mr. Edgeworth...</line>
 <line speaker="Edgeworth">...Hm?</line>
@@ -1802,8 +1802,8 @@
 <line speaker="Edgeworth">Yes. The killer was the one who hid those weights.</line>
 <line speaker="Ray">But, Miles. Wasn't Knightley-boy stabbed in the neck with the murder weapon? If he was suspended in the well, wouldn't there be blood at the bottom of the well?</line>
 <line speaker="Edgeworth">The killer was also aware of that. That's why they used this item. <thought>Which item did the killer use in order to leave no traces of blood behind?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ray">Umm, Uncle Ray doesn't quite follow. If he used that, how would it prevent the blood from falling?</line>
 <line speaker="Edgeworth">Don't you get it, Mr. Shields? If it were used like this...</line>
 <line speaker="Ray">Miles. That's not possible.</line>
@@ -1835,8 +1835,8 @@
 <line speaker="Edgeworth">I don't think anyone would confuse the breaker room with the break room. It was definitely to operate the circuit breakers...</line>
 <line speaker="Kay">Umm. So someone came here to shut off the power to something?</line>
 <line speaker="Edgeworth"><thought>Was there anything... that had its power shut off? What could have had its power shut off by the breaker...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Hmm. If this had been powered off, it would have caused a huge problem.</line>
 <line speaker="Kay">A huge problem? Umm. I don't see any problems...</line>
 <line speaker="Edgeworth">Cast aside your preconceptions. Try thinking with an open mind. In doing so, you will see an answer that exceeds your wildest imagination!</line>
@@ -1863,7 +1863,7 @@
 <line speaker="Edgeworth"><thought>You just say whatever you like, don't you...</thought></line>
 <line speaker="Courtney">Let us begin our examination of the courtyard, Sebastian.</line>
 <line speaker="Debeste">Alright! I'll call the men over.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That will be unnecessary.</line>
 <line speaker="Debeste">What!?</line>
 <line speaker="Edgeworth">We have already finished the investigation of the courtyard. You've been bested.</line>
@@ -1873,7 +1873,7 @@
 <line speaker="Edgeworth">I have had enough of such coercion. Can't you think of some other way to threaten me that does not involve my badge?</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">...Despite my repeated warnings, you show no signs of reflection... It seems I must remind you once more. The Prosecutorial Investigation Committee can't leave someone such as yourself unchecked.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Neither the fate of my badge nor the actions of the Committee will impede my progress. Proving Mr. Keyes' innocence... That is all that concerns me.</line>
 <line speaker="Courtney">Your words are like those of a defense attorney. If you are willing to go that far, then I will show no leniency. In the name of the Goddess of Law, I shall turn your words against you. And at that moment... You will forfeit the title of "Prosecutor". You shall regret this...</line>
 <line speaker="Courtney">I shared my reasoning with you the day before.</line>
@@ -1888,7 +1888,7 @@
 <line speaker="Courtney">You seem quite confident. ...Can you present evidence to support your claim?</line>
 <line speaker="Edgeworth">Of course I can, and I will.</line>
 <line speaker="Courtney">I shared my reasoning with you the day before.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you continue to believe Mr. Keyes is the murderer?</line>
 <line speaker="Courtney">Just as you continue to speak as if he is not. Do you have any decisive evidence? Do you know the identity of the true criminal?</line>
 <line speaker="Edgeworth">You do realize you need proper evidence, too.</line>
@@ -1896,7 +1896,7 @@
 <line speaker="Edgeworth"><thought>So what would you call gray?</thought></line>
 <line speaker="Courtney">If you wish to disprove my words, then present your evidence at once!</line>
 <line speaker="Courtney">Since Mr. Elbird did not see the body when he passed through the tunnel...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Couldn't it be possible that Elbird just failed to notice the body?</line>
 <line speaker="Courtney">Ms. Assistant's Assistant, did you also enter the hole?</line>
 <line speaker="Kay">Huh? How'd you know?</line>
@@ -1906,7 +1906,7 @@
 <line speaker="Kay">W-Well, the thing is... Um... Yeah, I think I would've noticed something like that.</line>
 <line speaker="Courtney">Do you understand now? Mr. Elbird did not see the body.</line>
 <line speaker="Courtney">It could only have been dropped down the well during the show.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The body was dropped down the well during the show? I'd like to hear your reasoning for this.</line>
 <line speaker="Courtney">The day before the show, Mr. Elbird lent the key to Mr. Knightley.</line>
 <line speaker="Edgeworth"><thought>The key to Knightley's cell, huh...</thought></line>
@@ -1916,7 +1916,7 @@
 <line speaker="Edgeworth">Which is why you believe the body was dropped during the show.</line>
 <line speaker="Courtney">Yes. And there is only one person who could have carried out this act.</line>
 <line speaker="Courtney">The only one who could have performed such an act is the suspect.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">There is no one else who could have committed the murder?</line>
 <line speaker="Courtney">I heard that Ms. Berry was present on stage at all times. A great number of the prisoners were also watching the show. Even the prisoners who did not see it have sufficient alibis.</line>
 <line speaker="Edgeworth">How about the guards?</line>
@@ -1925,7 +1925,7 @@
 <line speaker="Courtney">During the show, none of the guards left their posts. That much is certain. They all testified as such.</line>
 <line speaker="Edgeworth"><thought>Ugh... She's left no room for oversight...</thought></line>
 <line speaker="Courtney">Do you finally admit that only Simon Keyes could have been the criminal?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney has not thoroughly examined the courtyard like we have.</line>
 <line speaker="Ray">So there's a bit of a gap in her argument, right?</line>
 <line speaker="Edgeworth"><thought>I should review the evidence we obtained in the courtyard.</thought></line>
@@ -1934,15 +1934,15 @@
 <line speaker="Edgeworth">Are you aware of the stunt in which Mr. Keyes is blown away by the elephant during the show?</line>
 <line speaker="Courtney">I have heard of it. It would have been right before he exits the stage.</line>
 <line speaker="Edgeworth">He tied one end of a length of rope to himself, and the other end to a set of weights... He was able to perform the stunt by dropping these weights down the well.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">Wouldn't he have spent the whole play suspended up in the air?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That's why he had a stopper attached to the weighted end. The stopper was removed by pulling another rope. Around the well, we found evidence that the weights were switched with the victim's body. This was done by the real killer in order to shift suspicion away from them!</line>
 <line speaker="Courtney">........</line>
 <line speaker="Edgeworth">Judging from the time of death, the murder was carried out in the early morning of the show. The true criminal had until the time the show started to set up the device.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">But didn't Simon Keyes made that thing? And since he was also the one who used it, he is "the best" suspect... Don't you agree?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">If Mr. Keyes were the murderer, he would not have needed to do that! Ms. Berry!</line>
 <line speaker="Regina">Yes?</line>
 <line speaker="Edgeworth">Was there anyone else who knew of the device he set up?</line>
@@ -1961,32 +1961,32 @@
 <line speaker="Courtney">If that is possible... Then it is also possible that he was assisting in the escape. Am I wrong?</line>
 <line speaker="Edgeworth"><thought>Hmm... I suppose I must refute her theory with evidence.</thought></line>
 <line speaker="Courtney">If the body came from the courtyard...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You seem to believe that Knightley was killed in the courtyard... So, can you say when he was brought here?</line>
 <line speaker="Courtney">On the day of the show between midnight and 8 AM. I am positive it could only have been during that time.</line>
 <line speaker="Edgeworth"><thought>So after rehearsal had ended and before the show began.</thought></line>
 <line speaker="Courtney">The most pressing issue is...</line>
 <line speaker="Courtney">How was Mr. Knightley brought here from the detention center?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you certain there were no other routes?</line>
 <line speaker="Courtney">A trial date had not yet been determined for Mr. Knightley. Since he was not a prisoner, he could not have easily entered the prison. He would have stood out too much.</line>
 <line speaker="Edgeworth">Meaning no one testified seeing him there.</line>
 <line speaker="Courtney">Well done! May you be blessed by the Goddess of Law! As I said, Mr. Knightley was taken into the prison through a less conspicuous manner.</line>
 <line speaker="Courtney">Only Simon Keyes could have provided such an opportunity.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you certain that he was the only person who had the opportunity?</line>
 <line speaker="Courtney">Have you forgotten? This is a prison. Due to the constant supervision, it would be impossible to do anything unusual.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Then, wouldn't it be the same for Mr. Keyes?</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">The warden has shown favor to the Berry Big Circus. Simon Keyes is a circus member. Ms. Berry's apprentice, no less. ...It could only have been him. He was able to move about freely within the facility.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">It seems that you forgot to mention that.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">The word "forget" does not exist in my dictionary.</line>
 <line speaker="Edgeworth">Then, it would be prudent for you to add this to your argument. Mr. Keyes may have been the only person who could move around freely in the prison... But on the day of the murder, there was a gap in time missing from the surveillance records. During that time, anyone could have done as they pleased! <thought>Do I have proof of this gap in the surveillance records?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Here is the evidence!</line>
 <line speaker="Courtney">...What do you think, Sebastian?</line>
 <line speaker="Debeste">Hmm, lemme think here... Since all humans have two legs... Anyone could have walked around the place!</line>
@@ -1995,9 +1995,9 @@
 <line speaker="Edgeworth"><thought>E-Even Debeste pointed out my mistake...!</thought></line>
 <line speaker="Debeste">Wa ha ha! Seems you learn quickly, Hedgeworth!</line>
 <line speaker="Edgeworth"><thought>Who are you calling "Hedgeworth"!? Her claim is based on the prison's surveillance system. I just need to present evidence that will make it seem less reliable...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Courtney">Because of this fact, I find it most difficult to suspect any other party of the crime.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">No other suspects...? Are you serious?</line>
 <line speaker="Courtney">If I had to say... Ms. Berry also seems suspicious.</line>
 <line speaker="Edgeworth">Wha...!</line>
@@ -2014,8 +2014,8 @@
 <line speaker="Edgeworth">The timestamp on the security camera is off by three hours. This means there was a three hour gap in time. During that time, anyone could have done it!</line>
 <line speaker="Courtney">If that were the case, then the murderer would have created the gap in time intentionally. It would not have been a simple camera failure. Are you saying that is possible?</line>
 <line speaker="Edgeworth">It's possible, if you had access to this!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Courtney">So with that, they could have created the gap in time?</line>
 <line speaker="Edgeworth">Yes. With this, it would be possible...</line>
 <line speaker="Courtney">Overruled!</line>
@@ -2032,15 +2032,15 @@
 <line speaker="Courtney">Hmhmm. So, can you explain how the murderer obtained the key to the breaker room?</line>
 <line speaker="Ray">Oh yeah, that's right. It was locked, wasn't it? The warden hangs onto the key, right?</line>
 <line speaker="Courtney">The breaker room has great importance even in a prison. There is no one who would be able to obtain the key so easily.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Well, I can think of someone.</line>
 <line speaker="Courtney">Wh-What did you say...!</line>
 <line speaker="Edgeworth">This person... the murderer, was able to get the key. They didn't even need to steal it.</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">There can't be anyone like that! Besides, the breaker to the electrified fence is in that room, too!</line>
 <line speaker="Edgeworth"><thought>Only one person could have done this. I didn't want to believe it myself, but I trust that my logic is sound!</thought> The person who used the key to enter the breaker room is...!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Debeste">What? That person had the key?</line>
 <line speaker="Edgeworth">Yes, it could only have been them.</line>
 <line speaker="Courtney">Overruled!</line>
@@ -2059,10 +2059,10 @@
 <line speaker="Courtney">The warden is... the murderer? Mr. Edgeworth, are you serious about your statement?</line>
 <line speaker="Roland">Oh ho ho, how amusing. The very thought of a warden committing a murder. It sounds like something out of a mystery novel!</line>
 <line speaker="Courtney">Precisely. Your reasoning is in contempt!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Nothing of the sort. I did not want to believe it myself, but... Based on the evidence, I have no choice but to believe it. This evidence proves that Warden Roland is the murderer...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This proves you are the murderer.</line>
 <line speaker="Roland">Treating me like a criminal just because of that is so cruel! That doesn't even have anything to do with me!</line>
 <line speaker="Edgeworth">Nnghoooh! <thought>That wasn't it. Missile's reaction to Warden Roland earlier... What was the cause of it...? I need to let that guide me to the answer!</thought></line>
@@ -2087,7 +2087,7 @@
 <line speaker="Edgeworth"><thought>She wants us to check the records? She does seem confident. For now, all we can do is listen to her and try to draw out more information.</thought></line>
 <line speaker="Roland">I do hope you understand, Mr. Edgeworth.</line>
 <line speaker="Roland">I heard all about the case from Justine-darling here.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">From Judge Courtney? Are you two... close?</line>
 <line speaker="Roland">As close as fish and water. Are you jealous?</line>
 <line speaker="Edgeworth">J... J-Jealous...?</line>
@@ -2096,17 +2096,17 @@
 <line speaker="Courtney">Hmhmm. The truth is the truth. I believe it should be told as such.</line>
 <line speaker="Edgeworth"><thought>F-For some reason... Those two seem kind of... Scary...!</thought></line>
 <line speaker="Roland">Had I committed the murder, it would've taken place inside the holding cell.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The murder occurred inside the cell? How can you be so certain about that?</line>
 <line speaker="Roland">Well, everywhere else would be under surveillance, right? And the victim's blood was found there too.</line>
 <line speaker="Edgeworth"><thought>That blood was actually from when he was struck by Elbird, but... ...I don't think it's necessary to inform her of this fact.</thought> That doesn't mean it's proven, you do know that?</line>
 <line speaker="Roland">But I see no contradictions in assuming the crime scene was at the detention center.</line>
 <line speaker="Roland">But I couldn't have moved the body. I never went into the prison.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You never went into the prison? Do you have proof of this?</line>
 <line speaker="Roland">My, my. Can't you wait for me to finish?</line>
 <line speaker="Roland">I was caught up in my work. Up until the show, I was stuck in my office.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You were in your office the whole time...? Nothing strange happened?</line>
 <line speaker="Roland">Nope, nothing at all.</line>
 <line speaker="Edgeworth">Were you looking for something?</line>
@@ -2116,12 +2116,12 @@
 <line speaker="Edgeworth"><thought>Hmm... I guess it will be hard to attack with the key to the breaker room.</thought></line>
 <line speaker="Roland">On the day of the incident, I was working in my office, and searching for lost items. In other words, I couldn't have gone to the prison, even if I had wanted to.</line>
 <line speaker="Roland">Check up on it if you like. You'll find there's no record of me entering the prison.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You did not enter the prison from the entrance. But, what if there was another route?</line>
 <line speaker="Roland">Oh my, are you suggesting something like a secret passage? I don't know if anything like that exists.</line>
 <line speaker="Edgeworth">It is my firm belief you did possess an alternate route. That route was neither the entrance nor a secret passage... The route you used was from here...!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">You moved through here to enter the prison!</line>
 <line speaker="Roland">Oh my. Now how would I have got to the prison from there? Mr. Edgeworth, you yourself said that I used neither the entrance nor a secret passage.</line>
 <line speaker="Edgeworth">Urgh! <thought>This wasn't the right route... To get to the prison from the warden's office without using the entrance or tunnel... The only way possible is by going through that place!</thought></line>
@@ -2145,10 +2145,10 @@
 <line speaker="Ray">Now, Uncle Ray never said, "don't think", you know... It's just not good to be so stubborn about it. That's all.</line>
 <line speaker="Edgeworth"><thought>But, no matter how you think about it, Warden Roland couldn't have done this alone. Hm...?</thought></line>
 <line speaker="Courtney">Prosecutor Edgeworth, if you have failed to come up with a new poss...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">.........</line>
 <line speaker="Courtney">I am not amused. Interrupting my judgement only to be silent.</line>
-<line speaker="Edgeworth">(...Without thinking, I just blurted out ><cutIn>Objection!</cutIn> My reasoning... is not over yet.</line>
+<line speaker="Edgeworth">(...Without thinking, I just blurted out ><cutIn type="objection">Objection!</cutIn> My reasoning... is not over yet.</line>
 <line speaker="Courtney">So, how did she use the breaker without leaving the detention center?</line>
 <line speaker="Edgeworth">It's perfectly possible. With this method...! <thought>What made it possible to turn off the breaker...!</thought></line>
 <line speaker="Edgeworth">Her position as the warden made it possible!</line>
@@ -2179,10 +2179,10 @@
 <line speaker="Edgeworth">But, it's still possible that a person did it.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Excluding the inmates and the guards, just what kind of person would you say it was?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">We can't exclude the inmates and guards just yet! There was only one person. One whose movement was not restricted. This evidence shows that there was someone in the prison who could move around freely!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This evidence points to the existence of that person.</line>
 <line speaker="Courtney">Well then, I'd like you to explain just who this points to.</line>
 <line speaker="Edgeworth">.........</line>
@@ -2204,7 +2204,7 @@
 <line speaker="Edgeworth">I'd hazard a guess that this was because he was a special case. Just like Sirhan Dogen in the special cell...</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">The prosecutor's statement is mere conjecture!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph. You could find out by simply asking Sahwit himself. It is my firm belief that Mr. Sahwit and Warden Roland were partners in crime! Due to their collaboration, another route surfaces. The real route by which Knightley's body was moved to the prison! There were two obstacles that needed to be dealt with. The security camera in front of Knightley's cell. And, the electric fence in the courtyard. Both these problems could have been solved with a single stroke. By having Sahwit switch off the breakers in the breaker room!</line>
 <line speaker="Roland">Mr. Edgeworth. Could you wait one moment?</line>
 <line speaker="Edgeworth">Do you still intend to deny it, Warden Roland?</line>
@@ -2276,7 +2276,7 @@
 <line speaker="Ray">It's not nice of you to adjourn things just like that, Courtney-pie.</line>
 <line speaker="Edgeworth">Mr. Shields...!</line>
 <line speaker="Courtney">Are you objecting to the court adjourning?</line>
-<line speaker="Ray">He he he. Of course not. I ain't got no ><cutIn>Objection!</cutIn>Kay:</line>
+<line speaker="Ray">He he he. Of course not. I ain't got no ><cutIn type="objection">Objection!</cutIn>Kay:</line>
 <line speaker="Ray">Woah there. Calm down Kay. Who wants some chocolate?</line>
 <line speaker="Courtney">...Is this a joke?</line>
 <line speaker="Ray">He he he, you'll have to excuse me. I just have one tiny request to make. As Simon Keyes' attorney.</line>
@@ -2318,19 +2318,19 @@
 <line speaker="Courtney">Warden Roland...! How considerate! I'm sure Mr. Knightley in Heaven is overflowing with gratitude!</line>
 <line speaker="Edgeworth"><thought>Is gratitude really what Knightley feels?</thought></line>
 <line speaker="Roland">I believe that the culprit in this case could only have been Dogen.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You seem very confident of that. How can you be so sure?</line>
 <line speaker="Roland">The children of this home are all good little boys and girls. Believe in yourself, believe in your friends, and believe in me and the guards... There is no way any of these hard-working children could have committed a murder.</line>
 <line speaker="Edgeworth">Quite an emotional reason. <thought>Makes sense, coming from someone like her.</thought></line>
 <line speaker="Roland">Only Dogen would be capable of something like that.</line>
 <line speaker="Roland">I have no idea what transpired between Dogen and the victim.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Knightley was being held in the detention center, and Dogen was in the prison. They couldn't make any contact. Don't you think that would've prevented trouble?</line>
 <line speaker="Roland">The prison is quite confined, right? There were many ways for them to meet.</line>
 <line speaker="Edgeworth">Knightley was murdered days before he would have been sentenced to prison. Surely there weren't "many ways" a meeting could have occurred?</line>
 <line speaker="Roland">Even without a direct meeting, Dogen can still cause trouble. Mark my words.</line>
 <line speaker="Roland">It simply could have been that Dogen was displeased with him.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What could Knightley have done in the detention center to "displease" him?</line>
 <line speaker="Roland">That was just an example. You don't have to take it so seriously. Didn't I already say that I have no idea what transpired between them? Nevertheless.. You certainly are a serious one, Edgeworth-dear.</line>
 <line speaker="Edgeworth"><thought>Wh-What's this? That... piercing gaze...?</thought></line>
@@ -2339,7 +2339,7 @@
 <line speaker="Kay">M-Mr. Edgeworth, stay focused! It's just a flesh wound!</line>
 <line speaker="Edgeworth">R... Right. <thought>Is this some form of psychological warfare...?</thought></line>
 <line speaker="Roland">In any case, he was the one who stabbed the victim to death.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I'd like to hear your thoughts about the circumstances surrounding the murder.</line>
 <line speaker="Roland">Well, I suppose it was a simple "job". During his booking, I learned that the victim had some kind of injury to his neck. He couldn't turn his neck to the right... I remember him saying something like that.</line>
 <line speaker="Edgeworth"><thought>Booking... that's the process one undergoes before being locked up in the detention center.</thought> It sounds like you don't really know a lot about Knightley.</line>
@@ -2350,21 +2350,21 @@
 <line speaker="Roland">I'm just kidding. I'll continue.</line>
 <line speaker="Add statements">"Perhaps he used the chisel hidden in the chessboard?" and "I'm sure it would have been a simple "job"."</line>
 <line speaker="Roland">Perhaps he used the chisel hidden in the chessboard?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The chessboard...?</line>
 <line speaker="Roland">The thing that the victim brought with him. It seemed like he really enjoyed playing chess. How could I have guessed that chisel would be hidden inside it?</line>
 <line speaker="Edgeworth"><thought>The chisel in the chessboard... That fact is only known by a select few people! This was the answer we arrived at from our reasoning, after all. So then, why does she know about this...?</thought></line>
 <line speaker="Roland">In Dogen's hands, even a chisel is enough to be used as a lethal weapon.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Roland">I'm sure it would have been a simple "job".</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You certainly seem to hold strong feelings towards Dogen.</line>
 <line speaker="Roland">Th-That's... just natural. Remember my interrogations? That man, no matter how much evidence we find, he's still as slippery as a snake...!</line>
 <line speaker="Ray">You've got a lotta guts!</line>
 <line speaker="Roland">That smug look he has on his face when he returns to his cell! Aaaaaargh! Just thinking about it makes my stomach churn!</line>
 <line speaker="Edgeworth"><thought>I can sort of understand how you feel.</thought>x</line>
 <line speaker="Roland">He probably had a dog dispose of the body. This is the truth of the case.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you mean to say the dog threw the body into the well?</line>
 <line speaker="Roland">Dogen has more than one dog, not just that black one, you know. Didn't I tell you? He has henchmen outside these walls as well.</line>
 <line speaker="Edgeworth">You mean his henchmen outside of the prison aided him in this crime!?</line>
@@ -2381,10 +2381,10 @@
 <line speaker="Kay">Fight on! Mr. Edgeworth!</line>
 <line speaker="Edgeworth">...You said you didn't really know much about Knightley. If that's the case, how did you know about the chisel inside the chessboard?</line>
 <line speaker="Roland">Oh... O-Of course. The entrance check...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Enough with the poor excuses! The entrance check? The chessboard wasn't something Knightley brought with him. It was brought to him later by Mr. Keyes. He didn't even have it when he arrived here!</line>
 <line speaker="Roland">Th-That's...! M-My mistake. I meant the parcel check...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Even if we assume that, there are still many suspicious points! Why wasn't such a chisel immediately confiscated!</line>
 <line speaker="Roland">A-Aiiaaah!</line>
 <line speaker="Edgeworth">Judge Courtney. Did you tell anyone about the trick to this chessboard?</line>
@@ -2407,11 +2407,11 @@
 <line speaker="Edgeworth"><thought>She's piling lies on top of lies, not realizing that it only tightens the noose around her neck.</thought></line>
 <line speaker="Courtney">You speak with the new prisoners, you say?</line>
 <line speaker="Roland">That's right! I'm glad you understand.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your testimony is not solid evidence. It requires more than just "understanding"!</line>
 <line speaker="Courtney">Well then, Prosecutor Edgeworth, you may begin your cross-examination.</line>
 <line speaker="Roland">I wouldn't go so far as to call it an interrogation.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You're certain you interrogated him the day before the show?</line>
 <line speaker="Roland">Yes. Around 3 AM on the 27th.</line>
 <line speaker="Edgeworth"><thought>3 at night. That matches the time of death on Knightley's autopsy report...</thought> You summoned him that late at night and he wasn't asleep?</line>
@@ -2426,7 +2426,7 @@
 <line speaker="Roland">...Uh hu hu. Of course.</line>
 <line speaker="Add statement">"Around 3 AM the day before the show, the victim was brought into my office."</line>
 <line speaker="Roland">Around 3 AM the day before the show, the victim was brought into my office.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And where is your office located exactly?</line>
 <line speaker="Roland">You know that sign in the detention center hallway?</line>
 <line speaker="Kay">You mean the one that says "No Entry"?</line>
@@ -2436,21 +2436,21 @@
 <line speaker="Edgeworth">Indeed, you must have been able to use it. If you used that route...</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">For now, that is merely a possibility. There is no decisive evidence to support it.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But there is no other way the body could have been moved!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Surely you haven't forgotten my theory that Simon Keyes dropped the body in the well?</line>
 <line speaker="Debeste">That's right! That's right! What she said!</line>
 <line speaker="Edgeworth">Ngh... <thought>Pursuing this point further would be hazardous.</thought></line>
 <line speaker="Roland">I always make sure to talk to all the new arrivals.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What did you talk about?</line>
 <line speaker="Roland">What indeed... It was just trifling conversation. What kind of animals he liked, what his hobbies were, that sort of thing.</line>
 <line speaker="Edgeworth">Hobbies... I assume he mentioned chess?</line>
 <line speaker="Roland">Oh yes. That's all Knightley would ever talk about. Now that I think about it, the note he had in his room... It probably had something to do with chess too.</line>
 <line speaker="Edgeworth"><thought>So Warden Roland saw Knightley's note...?</thought></line>
 <line speaker="Roland">Mr. Knightley... Yes, we had a little chat.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And what was Knightley like during the interrogation?</line>
 <line speaker="Roland">He was very honest.</line>
 <line speaker="Kay">M-Mr. Kn-Knightley was...</line>
@@ -2458,17 +2458,17 @@
 <line speaker="Roland">He also talked about a croissant and some kind of promo...</line>
 <line speaker="Edgeworth"><thought>En passant and chess piece promotions, I presume. Looks like he was his usual chess-loving self.</thought></line>
 <line speaker="Roland">After our talk, he went right back to his cell, I assure you.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If he really returned to his cell, there is no way he would be a corpse now!</line>
 <line speaker="Roland">I know you're suggesting that I killed him during the interrogation, but... ...I couldn't possibly have had a motive to kill Knightley, could I? Dogen was the only one I hated. And he had no connection with the victim.</line>
 <line speaker="Edgeworth"><thought>She only hated Dogen...</thought> Please add that statement to your testimony!</line>
 <line speaker="Add statement">"Dogen was the one I hated. And he had no connection with the victim."</line>
 <line speaker="Roland">Dogen was the one I hated. And he had no connection with the victim.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The only one you hated was Dogen... Am I correct?</line>
 <line speaker="Roland">Yes. Threatening me... And doing whatever he wants in this prison! That man... I will never forgive him! I will do whatever it takes to corner him! And his black dog too! They aren't fit to live in my home!</line>
 <line speaker="Edgeworth"><thought>She's brimming with hostility, even towards Dogen's dog... At first glance, it would seem she has no motive for killing Knightley... However, her hostility extends to anyone connected to Dogen. If I consider that, the answer will naturally follow!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">She chats with the criminals...? The warden sure is easygoing, sir.</line>
 <line speaker="Edgeworth">Easygoing? She killed one of the criminals, you know.</line>
 <line speaker="Ray">Since the guy was handcuffed, it would have been a pretty one-sided affair.</line>
@@ -2477,7 +2477,7 @@
 <line speaker="Courtney">It looks like a record of a chess game. Is there something wrong with it?</line>
 <line speaker="Edgeworth">This was discovered in the victim's cell. It was Knightley's memo. Warden Roland, you also discovered this note in the very same place! And not just in Knightley's cell... But in Dogen's too, correct?</line>
 <line speaker="Roland">Wh-What are you...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Don't say that you don't know about the chessboard in the special cell.</line>
 <line speaker="Roland">.........</line>
 <line speaker="Edgeworth">After all, you would have kept an eye on Dogen's actions, down to the smallest details. No... To be more precise, it wasn't Dogen that you needed to keep an eye on.</line>
@@ -2524,7 +2524,7 @@
 <line speaker="Kay">Does that mean it's hopeless!?</line>
 <line speaker="Edgeworth"><thought>The true killer is Warden Roland. If it's not her, then nothing that's happened fits. But the chisel isn't the murder weapon. Are there any other sharp objects here...?</thought></line>
 <line speaker="Courtney">There are still many mysteries remaining in this case. However, we do not have the evidence to solve them at this present time. We have no choice... But to continue this battle in the courtroom.</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">That would just give the killer a chance to destroy evidence!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">Are you mocking the court?</line>
@@ -2545,7 +2545,7 @@
 <line speaker="Courtney">I will announce my verdict.</line>
 <line speaker="Edgeworth"><thought>That's it! I have to turn my logic around! My logic isn't misplaced, it's been misled!</thought></line>
 <line speaker="Courtney">This court finds the defendant, Simon Keyes...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Isn't it a little early to hand down a verdict?</line>
 <line speaker="Roland">I actually think it's rather late. Don't you agree, Justine-darling?</line>
 <line speaker="Courtney">.....Enlighten us.</line>
@@ -2553,7 +2553,7 @@
 <line speaker="Edgeworth">Try to remember! The eyewitness account about his dog, and his absence from the Animal Show... When I first heard that information, my suspicion immediately fell on Dogen.</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">I'm amazed you take such pride in retelling your previous failings...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">But, was that not the killer's aim? What if we assumed that was their intention from the start? Of course! The chisel served the same purpose!</line>
 <line speaker="Courtney">!</line>
 <line speaker="Edgeworth">Knightley's body was stabbed in the same spot with multiple sharp objects. This shows that, he was stabbed with the chisel after the real murder weapon was removed. By soaking the chisel in Knightley's blood... ...the killer wanted to misled us into thinking the chisel was the murder weapon! Why? That's because...! Why did the killer want us to think the chisel was the murder weapon?</line>
@@ -2574,7 +2574,7 @@
 <line speaker="Courtney">...Very well. Go ahead.</line>
 <line speaker="Edgeworth">...Warden Roland. You made use of this chisel's image.</line>
 <line speaker="Roland">Chisel's... image? What are you trying to say?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Mr. Debeste. When you see this chisel, what does it suggest to you?</line>
 <line speaker="Debeste">Eh? Something like... "Dogen is the killer", right?</line>
 <line speaker="Edgeworth">...Now do you understand? That was the warden's aim.</line>
@@ -2583,12 +2583,12 @@
 <line speaker="Courtney">I understand your logic. It is true the warden did not think kindly of Dogen. But... you understand, don't you? This alone does not prove she is the killer.</line>
 <line speaker="Edgeworth"><thought>As I thought... It's not enough! The remaining chance... ...is for me to find the real murder weapon!</thought></line>
 <line speaker="Courtney">If you have no more evidence, I believe this conversation is over.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I could prove it, if I found the real murder weapon!</line>
-<line speaker="Debeste"><cutIn>Objection!</cutIn></line>
+<line speaker="Debeste"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Debeste">It doesn't matter what you say! We did a clean sweep of this place!</line>
 <line speaker="Courtney">It is as Sebastian says. In the end, we could not find any weapons. In other words, such proof is impossible.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">No. The murder weapon must still be somewhere in the prison. ...As long as this exists.</line>
 <line speaker="Debeste">The security gate!</line>
 <line speaker="Edgeworth">Hmph. ...You remember its name after all.</line>
@@ -2603,8 +2603,8 @@
 <line speaker="Edgeworth">You had evidence transferred from the precinct...?</line>
 <line speaker="Roland">Yes. We borrowed all the evidence concerning Dogen. I've been interrogating him personally in my office. But...</line>
 <line speaker="Edgeworth"><thought>Th-That's it! She could have used that! This shows another way a weapon could be brought into the prison!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">Professor Edgeworth! So that's how you bring metal objects into the prison!</line>
 <line speaker="Edgeworth">Indeed. With this, even something metal could be...</line>
 <line speaker="Courtney">Overruled!</line>
@@ -2629,12 +2629,12 @@
 <line speaker="Gumshoe">Who, sir! Who had that authority!?</line>
 <line speaker="Courtney">Why don't we ask the warden what she thinks?</line>
 <line speaker="Roland">Y-You can find bells anywhere! Anyone could have attached it, right?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph... I see. So you don't know. These bells are Dogen's trademark. There are only two in the world!</line>
 <line speaker="Roland">WHA........ WHAAAAAAAT!</line>
 <line speaker="Edgeworth">And so, attaching the bell would, naturally, make you the killer.</line>
 <line speaker="Roland">D-Do you have evidence that I have the knife? You don't, do you?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Of course. I understand. In that case, Mr. Debeste! I'd like to request an investigation. Immediately!</line>
 <line speaker="Debeste">Eh? Ah. But... if you find it, it'd be problematic for me...</line>
 <line speaker="Edgeworth">That doesn't matter now! It is necessary that we reveal the truth! You are a prosecutor, are you not?</line>
@@ -2646,12 +2646,12 @@
 <line speaker="Courtney">...The Goddess of Law does not smile upon those with no evidence. This will have to be continued in the Courtroom...</line>
 <line speaker="Edgeworth"><thought>Not good...! If we give the warden more time here... ...she'll definitely destroy the evidence. It seems like I have no choice but to raise an objection and stall for time...! B-But, I don't have anything definite. Is that... really acceptable? Is it really like me to do something this reckless... N-No... Not good! Now is not the time for hesitation! Right now, I'm not a prosecutor, but an attorney's assistant. I need to protect my client! I'm the only one who can save him now. In that case... ...even if it's a one-in-a-million chance, I have to take it! It's sink or swim. Should I raise an objection?</thought></line>
 <line speaker="Edgeworth"><thought>It almost feels like I've turned into a certain bluffing defense attorney. But, right now I can't come to a standstill here!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>No, I must not object now.</thought></line>
 <line speaker="Kay">It's not like you to let the killer get away when they are right before your eyes!</line>
 <line speaker="Edgeworth"><thought>That's right. I can't come to a standstill here!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Courtney">Prosecutor Edgeworth? What now?</line>
 <line speaker="Edgeworth">I just realized something...</line>
 <line speaker="Courtney">What would that be... Pray tell?</line>
@@ -2667,8 +2667,8 @@
 <line speaker="Edgeworth"><thought>Th-The same method...? No... It couldn't be, could it...!? But...! There aren't that many ways to hide things from an investigator's eyes!</thought></line>
 <line speaker="Courtney">Prosecutor Edgeworth! How long do you intend to keep us waiting?</line>
 <line speaker="Edgeworth"><thought>It's possible... B-But... I'm taking a big gamble here.</thought> The place where the real murder weapon is hidden is... here!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">Was the murder weapon really hidden in there!?</line>
 <line speaker="Courtney">That's not enough information, please show us in more detail.</line>
 <line speaker="Edgeworth">Umm. Around here...</line>
@@ -2678,8 +2678,8 @@
 <line speaker="Courtney">Here, in the courtyard?</line>
 <line speaker="Edgeworth">Indeed.</line>
 <line speaker="Courtney">That's not enough information, please show us in more detail. Where is the real murder weapon hidden?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">That's right! The murder weapon is hidden here!</line>
 <line speaker="Gumshoe">I don't think you could hide something here, sir...</line>
 <line speaker="Edgeworth">Mmph! <thought>Even Gumshoe rebutted...</thought></line>
@@ -2759,8 +2759,8 @@
 <line speaker="Kay">Simon... That's not true.</line>
 <line speaker="Simon">Y-You're lying! Because if I had known, I could have stopped him! I would've told him he had no need to be angry with anyone!</line>
 <line speaker="Edgeworth">Mr. Keyes, I don't think he disliked you either. <thought>Let's show him proof that Knightley trusted him.</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Simon">What is... this?</line>
 <line speaker="Edgeworth">It's proof of Knightley's trust in you.</line>
 <line speaker="Simon">But I don't really get it...</line>
@@ -2814,23 +2814,23 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right... I need to reconsider the information.</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information. I need to think this over one more time.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney, could you take a look at this piece of evidence?</line>
 <line speaker="Courtney">I'm afraid I cannot accept that piece of evidence. I do not believe it has any relation to my testimony.</line>
 <line speaker="Edgeworth">Nnghoooh! <thought>As I expected, she's nothing like Mr. Debeste. However, I won't back down so easily!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney. Don't you have a problem with that statement just now?</line>
 <line speaker="Courtney">Should I have a problem with it?</line>
 <line speaker="Edgeworth">Hmph... Exactly. Because there's no problem at all!</line>
 <line speaker="Courtney">In that case, you should have refrained from speaking in the first place.</line>
 <line speaker="Edgeworth">Nnghhooh! <thought>I don't think that left a good impression...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Judge Courtney. There is a contradiction in your testimony!</line>
 <line speaker="Courtney">I cannot authorize this statement.</line>
 <line speaker="Edgeworth">Hmph... And why not?</line>
 <line speaker="Courtney">Because it's obvious you're bluffing.</line>
 <line speaker="Edgeworth">Nguuuoooh! <thought>Is that the impression I give off? ...Next time for sure, I will present evidence that will silence her for good!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Dogen, what do you think of this piece of evidence?</line>
 <line speaker="Dogen">You can ask me all you like, but I have no answers for you. Right, Anubis? Right, boy?</line>
 <line speaker="Edgeworth">Does this mean you do not wish to answer?</line>
@@ -2838,34 +2838,34 @@
 <line speaker="Edgeworth">Nnghoooh!</line>
 <line speaker="Ray">Mr. Assassin's been talking to his dog all this time. Well, I guess he's much more fun to talk to than Miles here!</line>
 <line speaker="Edgeworth">Hmph... <thought>So I'm beneath a dog...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Dogen, there is a contradiction in your testimony!</line>
 <line speaker="Dogen">A contradiction, you say... Anubis, what do you think? Mm-hmm. I see. Anubis says there is no contradiction.</line>
 <line speaker="Edgeworth">Argh! <thought>Are you saying that even a dog could see that!? In that case, I'll make him "nod" with evidence!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Elbird. I'd like you to take a look at this piece of evidence.</line>
 <line speaker="Kay">It looks like Mr. Elbird's busy chasing a fly! He's not listening at all!</line>
 <line speaker="Edgeworth">Mmph... <thought>He doesn't feel like listening...</thought> In that case, I'll make him pay attention with a straight punch!</line>
 <line speaker="Kay">Yeah, let's settle this!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Elbird. Your testimony contradicts this piece of evidence!</line>
 <line speaker="Elbird">Your fists are pathetic! You think you can break my guard with that jab!</line>
 <line speaker="Edgeworth">Nggh! That was supposed to be a hard straight punch...</line>
 <line speaker="Kay">Looks like he dodged it cleanly!</line>
 <line speaker="Edgeworth">I won't miss next time!</line>
 <line speaker="Kay">Let's go for the T.K.O.!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Warden Roland, would you have a look at this piece of evidence?</line>
 <line speaker="Roland">What's this, Mr. Edgeworth? You want my attention so badly?</line>
 <line speaker="Edgeworth">No, I didn't mean...</line>
 <line speaker="Roland">I'll give you as many hugs as you like!</line>
 <line speaker="Ray">Run, Miles! Run!</line>
 <line speaker="Edgeworth">O... K. <thought>It seems that I'm in danger... I should withdraw for now.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Warden Roland. That statement you just made is contradictory.</line>
 <line speaker="Roland">Oh? Is there something strange about it?</line>
 <line speaker="Edgeworth">Yes, this evidence... Nnghooh! <thought>Her glare is terrifying. I'll have to think things over a little more before jumping to conclusions.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Warden Roland, what do you think of this piece of evidence?</line>
 <line speaker="Roland">What do I think... Well, what do you think? Ah, yes, yes, is that it? I think so too!</line>
 <line speaker="Edgeworth">What do you think?</line>

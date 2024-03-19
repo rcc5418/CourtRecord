@@ -1,6 +1,5 @@
-
-<line>Turnabout Time Traveler</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Time Traveler</title>
 <line speaker="Ellen">Good morning, Mr. Wright.</line>
 <line speaker="Phoenix">Good morning, Ellen. I see you're still wearing your wedding gown.</line>
 <line speaker="Ellen">And I will continue to wear it until our marriage is saved! ......... Oh! S-Sorin!</line>
@@ -375,7 +374,7 @@
 <line speaker="Phoenix"><thought>I would, if there were any testimony to cross-examine...</thought></line>
 <line speaker="Larry">Nick, you big, fat, stinkin' jerk!</line>
 <line speaker="Phoenix">Phoenix:</line>
-<line speaker="Larry">Don't think I don't know about your tricks! If I say something careless, you're gonna shove some evidence at me with a loud... ..."<cutIn>Objection!</cutIn>" and a super smug look on your face!</line>
+<line speaker="Larry">Don't think I don't know about your tricks! If I say something careless, you're gonna shove some evidence at me with a loud... ..."<cutIn type="objection">Objection!</cutIn>" and a super smug look on your face!</line>
 <line speaker="Phoenix">Y-Yeah, well... that IS my job...</line>
 <line speaker="Larry">And if I get found guilty, how are you gonna take responsibility for what you've done?!</line>
 <line speaker="Phoenix">Why should I take responsibility for just doing my job?</line>

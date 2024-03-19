@@ -167,7 +167,6 @@
 <line speaker="Bikini">Yes, yes, that's right. Iris will be back this evening.</line>
 <line speaker="Bikini">Why don't you go have a look at the Main Hall for now? Wa ha. Wa ha ha ha ha.</line>
 <line speaker="Phoenix"><thought>So she's in the Inner Temple, huh...</thought></line>
-<line speaker="After clearing all Talk options at Hazakura Temple - Main Gate">February 7</line>
 <line speaker="Maya">Th-Th-The Main Hall... I th-think it's even c-c-c-colder in here! Achoo!</line>
 <line speaker="Pearl">Ah! Mr. Nick! Do you smell that? It smells like meat and gravy!</line>
 <line speaker="Maya">Yeah, you're right! I guess it's pot roast for tonight! Yum!</line>
@@ -223,7 +222,6 @@
 <line speaker="Pearl">You may be Mystic Maya's special someone, but I won't let you do this to Ms. Elise!</line>
 <line speaker="Phoenix"><thought>A suspect? Why would I suspect her of anything? It's not like anything's happened.</thought></line>
 <line speaker="Maya">Isn't it cute, Nick? Pearly's getting all overprotective of her new friend.</line>
-<line speaker="After clearing all Talk options">Elise:</line>
 <line speaker="Pearl">Wow! You mean you're cooking dinner tonight?</line>
 <line speaker="Elise">That's right. Would you like to help too, Pearl?</line>
 <line speaker="Pearl">Yes, yes! I want to help with whatever I can!</line>
@@ -343,7 +341,6 @@
 <line speaker="Phoenix">It's a hanging wall scroll showing Maya's mother, Misty Fey. It's not that old. That crest at the top is the official mark of the Master. I wonder if this temple has some sort of connection to </line>
 <line speaker="Maya">I think it does, actually. Supposedly, it was founded by a branch family member of the Kurain School.</line>
 <line speaker="Phoenix"><thought>I'll have to ask Bikini in more detail when I get the chance... About Maya... And the Fey family in general.</thought></line>
-<line speaker="After examining hanging scroll at Inner Temple - Training Hall">February 7</line>
 <line speaker="Maya">Whew, we managed to make it across Dusty Bridge.</line>
 <line speaker="Phoenix">...</line>
 <line speaker="Maya">Nick, you look green. Are you feeling alright?</line>
@@ -422,7 +419,6 @@
 <line speaker="Phoenix"><thought>This guy will never change.</thought></line>
 <line speaker="Butz">Hey, I know I may not look like it, but I'm an artist. I refuse to look at anything that doesn't have a radiant or beautiful motif.</line>
 <line speaker="Phoenix"><thought>Picky, picky, aren't you...?</thought></line>
-<line speaker="After clearing all Talk options and presenting Iris profile">Pearl:</line>
 <line speaker="Maya">Hey! Pearly!</line>
 <line speaker="Pearl">Dinner preparations are complete! Please come quickly to the Main Hall!</line>
 <line speaker="Maya">Alright! I can't wait to dig in, Pearly!</line>
@@ -491,7 +487,6 @@
 <line speaker="Iris">Talking with dead people... Who does it help anyway? ...I hate it.</line>
 <line speaker="Phoenix">R-Really? <thought>So then why stay in a place like this...?</thought></line>
 <line speaker="Phoenix"><thought>Instead of showing her things, I really need to just listen to her story! This girl... Just who is she?</thought></line>
-<line speaker="After clearing all Talk options">Iris:</line>
 <line speaker="Phoenix">Is something wrong?</line>
 <line speaker="Iris">I-I didn't realize it was so late. I have to go and ring the bell for lights out...</line>
 <line speaker="Phoenix"><thought>I guess it's almost 10:00 now, huh?</thought></line>
@@ -706,7 +701,6 @@
 <line speaker="Iris">...No, Mr. Edgeworth. Whomever it was... ...it couldn't have been me.</line>
 <line speaker="Edgeworth"><thought>What is that supposed to mean?</thought></line>
 <line speaker="Iris">I'm sorry... I don't leave the temple grounds very often... So I don't know very much about the outside world.</line>
-<line speaker="After clearing all Talk options">Edgeworth:</line>
 <line speaker="Iris">Thank you very much for listening to my story.</line>
 <line speaker="Edgeworth">...I visited Wright at the hospital before coming here. He asked me to take care of you...</line>
 <line speaker="Iris">...M-Me?</line>
@@ -861,7 +855,7 @@
 <line speaker="Edgeworth">...I knew it was a mistake to race back to this country.</line>
 <line speaker="Butz">Wh-What do you mean...?</line>
 <line speaker="Edgeworth">Wright is going to be fine, and the case itself isn't anything unusual... And I find myself taking a request to defend a woman accused of murder!</line>
-<line speaker="Gumshoe">...H-Hey! Wait a sec! <cutIn>Hold it!</cutIn> <cutIn>Objection!</cutIn> What's going on here, Mr. Edgeworth!?</line>
+<line speaker="Gumshoe">...H-Hey! Wait a sec! <cutIn type="holdIt">Hold it!</cutIn> <cutIn type="objection">Objection!</cutIn> What's going on here, Mr. Edgeworth!?</line>
 <line speaker="Edgeworth">Um, it's hard to explain, but one thing led to another and...</line>
 <line speaker="Butz">What kind of lame excuse is that!? And you call yourself a defense attorney!?</line>
 <line speaker="Gumshoe">Prosecutor Edgeworth is a prosecutor, and that's why he's Prosecutor Edgeworth! "Prosecutor Edgeworth, Defense Attorney" just sounds plain old weird, pal! ...Right, Prosecutor Edgeworth!?</line>
@@ -1134,7 +1128,6 @@
 <line speaker="Edgeworth">I don't care how you feel about her personally... ...just tell me what you know about her and how she's related to the case.</line>
 <line speaker="Butz">... Don't you think you're expecting a little too much of me? I'm just a 25 year old jobless bum trying to be an apprentice artist! Ha ha ha ha!</line>
 <line speaker="Edgeworth"><thought>...I'm actually starting to feel jealous of this guy. ...Just a little.</thought></line>
-<line speaker="After clearing all Talk options with Larry Butz at Hazakura Temple  - Main Gate">February 8</line>
 <line speaker="Edgeworth">...Hmm. I don't see Larry anywhere.</line>
 <line speaker="Gumshoe">Maybe we scared the poor kid away!</line>
 <line speaker="Edgeworth"><thought>His heart was shut tight with a Psycholock. I guess I'll have to look for him now... What a thorn in my side.</thought></line>
@@ -1249,7 +1242,6 @@
 <line speaker="Gumshoe">No doubt about it. Ah...! Y-You mean that maybe whoever killed Ms. Deauxnim also...!?</line>
 <line speaker="Edgeworth">D-Don't jump to any crazy conclusions!</line>
 <line speaker="Gumshoe">Oooooouuuch! ...You sure have one mean punch, Mr. Edgeworth! It's down-right fierce!</line>
-<line speaker="After clearing all Talk options and examining staff and Ami Fey statue at Hazakura Temple - Courtyard, clearing all Talk options and examining left corner near the altar at Hazakura Temple - Main Hall, and clearing all Talk options at Hazakura Temple - Main Gate">February 8</line>
 <line speaker="Iris">Ah... Mr. Edgeworth...</line>
 <line speaker="Edgeworth">...I came back because I need to ask you a few more questions, if you don't mind.</line>
 <line speaker="Iris">But I... I've already told you everything that I...</line>
@@ -1284,7 +1276,7 @@
 <line speaker="Edgeworth">...Oh?</line>
 <line speaker="Iris">She even said she was going to have the leftovers for dinner the next night... And then she took the leftover potatoes and the whole pot of gravy with her to her room.</line>
 <line speaker="Edgeworth"><thought>That's quite an appetite for such a little girl...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Since I have been handed this case, it is my duty to dig up all the answers. Understand?</line>
 <line speaker="Iris">Y-Yes, sir...</line>
 <line speaker="Edgeworth">The smallest flame can sometimes bathe a case in a whole new light... In my years in court, I've seen it happen over and over again. That's why I'm committed to searching until I have those answers. Now then, is it really true that you didn't go to the Inner Temple last night...?</line>
@@ -1294,8 +1286,8 @@
 <line speaker="Edgeworth">If that's the case... ...then the obvious question is, "What were you so afraid of?"</line>
 <line speaker="Iris">...</line>
 <line speaker="Edgeworth">Iris... I wonder. Is this what frightened you so much that you couldn't even leave your own room!?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Perhaps THIS is what you were afraid of! ...Well!?</line>
 <line speaker="Iris">I-I'm sorry, but... you're wrong...</line>
 <line speaker="Edgeworth">Huh...? Why is your voice trembling like that?</line>
@@ -1321,8 +1313,8 @@
 <line speaker="Edgeworth">No, you may not have anything to hide under normal circumstances. However! Last night was different.</line>
 <line speaker="Iris">...!</line>
 <line speaker="Edgeworth">Unfortunately, I don't know the exact nature of your secret yet. However...! Whatever it is... ...there is one person you didn't want your secret told to!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Well, Iris?</line>
 <line speaker="Iris">...Mr. Edgeworth. Is it just possible that maybe... ...you yourself have a deep, dark secret in your heart?</line>
 <line speaker="Edgeworth">...! Why do you say that...!?</line>
@@ -1343,7 +1335,6 @@
 <line speaker="Edgeworth">So is this the secret that you locked away in your heart?</line>
 <line speaker="Iris">...Yes.</line>
 <line speaker="Edgeworth"><thought>It looks as though I may have to visit this "Heavenly Hall" now. Maybe I'll find some sign of our mystery blackmailer.</thought></line>
-<line speaker="After clearing "Frightened?" Talk option">Edgeworth:</line>
 <line speaker="Iris">Yes. That's exactly right.</line>
 <line speaker="Edgeworth">The trial starts tomorrow... I promise you, I will win. I'm going to win so that you and Phoenix Wright can see each other again.</line>
 <line speaker="Iris">...!</line>
@@ -1361,7 +1352,7 @@
 <line speaker="Gumshoe">Hey! You! About what you just said... I got an objection!</line>
 <line speaker="Butz">Wh-Wh-Wh-What the...!? Ed-Edgey! You dirty rat!</line>
 <line speaker="Edgeworth">*glare* <thought>Gumshoe... You oaf...!</thought></line>
-<line speaker="Gumshoe">I-I'm sorry, sir! Before I knew it, I was shouting out, "<cutIn>Objection!</cutIn>". And in a loud, commanding voice, too! I even pointed with my pointer finger!</line>
+<line speaker="Gumshoe">I-I'm sorry, sir! Before I knew it, I was shouting out, "<cutIn type="objection">Objection!</cutIn>". And in a loud, commanding voice, too! I even pointed with my pointer finger!</line>
 <line speaker="Edgeworth">...You've watched too many trials.</line>
 <line speaker="Gumshoe">I'm sorry!</line>
 <line speaker="Edgeworth">OK, Larry, the jig is up. What have you got to say for yourself?</line>
@@ -1449,7 +1440,7 @@
 <line speaker="Edgeworth">...!</line>
 <line speaker="Gumshoe">...Wow, I guess he's right for a change, sir.</line>
 <line speaker="Edgeworth"><thought>Now I feel like I'm the bad guy in all of this...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Alright, now you're going to tell me what you really saw last night...</line>
 <line speaker="Butz">Whoa. You're really upset, aren't you, Edgey? OK, I'll talk!</line>
 <line speaker="Edgeworth">...Huh? <thought>That was a bit too easy...</thought></line>
@@ -1465,8 +1456,8 @@
 <line speaker="Edgeworth">As usual, you're as transparent as an empty jelly jar. The problem, I suspect, lies there...</line>
 <line speaker="Butz">Th-Th-Th-Th-There? Wh-Wh-Wh-Wh-Whaddya mean th-th-there?</line>
 <line speaker="Edgeworth">It's impossible for you to have seen lightning strike Dusky Bridge from your room!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Look at this, Larry!</line>
 <line speaker="Butz">... Hey, forget about that. Try drinking your hot water. If you don't drink it fast it's going to get cold.</line>
 <line speaker="Edgeworth">Oh, sorry... <thought>It's cold alright... The water... And my evidence.</thought></line>
@@ -1484,8 +1475,8 @@
 <line speaker="Edgeworth">... <thought>It looks like it won't be that easy after all...</thought> ...You leave me no choice. I'll have to move on to the next step. You weren't in your room at the temple. So then... Where were you?</line>
 <line speaker="Butz">Y-Y-You don't know that I wasn't in my room!</line>
 <line speaker="Edgeworth"><thought>So where was Larry, and why was he there...? If I've read the situation up to this point correctly, the answer is fairly obvious.</thought> ...Very well then. Let's test my theory. The place you witnessed lightning striking Dusky Bridge from was... here!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is where you were! Well, what do you think, Larry!?</line>
 <line speaker="Butz">Oh... Not much I guess.</line>
 <line speaker="Edgeworth">... I'm sorry, but what kind of answer is that?</line>
@@ -1504,8 +1495,8 @@
 <line speaker="Edgeworth">I think you mean "affaire de coeur". Could it be you were... waiting for someone?</line>
 <line speaker="Butz">Ooooh nooo! Y-You really are one scary guy, you know...</line>
 <line speaker="Edgeworth">I believe that last night, you were waiting for this person to come meet you!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn> </line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>> </line>
 <line speaker="Edgeworth">...Well, Larry!? Was it THIS person...?</line>
 <line speaker="Butz">...You know what? You should save your finger pointing for the courtroom.</line>
 <line speaker="Edgeworth">Tsk...!</line>
@@ -1520,8 +1511,8 @@
 <line speaker="Edgeworth">No doubt because of my chilly glare.</line>
 <line speaker="Butz">So you think I got the hots for Sister Iris, huh...? D-Do you have some kind of evidence!? You got something that proves I was waiting for her!? Or are you just guessing?</line>
 <line speaker="Edgeworth"><thought>This is where I draw the line and end this ridiculous little game...</thought> Here's the evidence that you were waiting for Iris...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">... I-Is it just me?</line>
 <line speaker="Edgeworth">Now, I'm the one that suddenly feels cold...</line>
 <line speaker="Butz">Maybe it's because of my cold laugh?</line>
@@ -1559,7 +1550,6 @@
 <line speaker="Butz">What's wrong, Edgey? Why are you so quiet all of a sudden?</line>
 <line speaker="Edgeworth">That's it? That's all those huge locks were about? I-I don't understand why you were so defensive...</line>
 <line speaker="Butz">Well, I dunno either... I guess the thing is... ...you shouldn't expect too much from a guy like me. ...Hey, come on. Don't let it get you down!</line>
-<line speaker="After breaking Psyche-Locks and clearing "The night of the crime" Talk option">Gumshoe:</line>
 <line speaker="Edgeworth">What do you mean, Detective?</line>
 <line speaker="Gumshoe">Don't forget what this guy said just a minute ago!</line>
 <line speaker="Butz">If you really wanna know, last night... ...I saw something incredible.</line>

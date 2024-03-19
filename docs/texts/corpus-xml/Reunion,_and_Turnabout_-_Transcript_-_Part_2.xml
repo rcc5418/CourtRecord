@@ -21,12 +21,12 @@
 <line speaker="Maya">Um... I'm really scared... What if Von Karma tries to do something to me? At least I know Mr. Edgeworth would be nicer to me than Von Karma!</line>
 <line speaker="Pearl">Mr. Eh-ji-werth? Who is that?</line>
 <line speaker="Maya">Um, he's Nick's rival... Well, he's also a friend.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">I still remember him as if I had just seen him only yesterday.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Every trial was a scorching fierce battle until the very end.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">It was always back and forth with them. But when you're rivals for life...</line>
 <line speaker="Phoenix">Maya! Please don't mention that name ever again...</line>
 <line speaker="Maya">Huh...? But why, Nick?</line>
@@ -70,7 +70,7 @@
 <line speaker="Gumshoe">This is the victim's autopsy report, sir.</line>
 <line speaker="Judge">The court accepts it into evidence. Mr. Wright, you may question the witness.</line>
 <line speaker="Gumshoe">The direct cause of death was a pistol shot to the forehead, sir.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The murder weapon, Detective Gumshoe. Whose pistol was  it?</line>
 <line speaker="Gumshoe">It was the victim's.</line>
 <line speaker="Phoenix">The victim?  Now, why would he have...</line>
@@ -79,7 +79,7 @@
 <line speaker="Judge">Hmm. So the defendant's fingerprints were left on the murder weapon...</line>
 <line speaker="Phoenix"><thought>Hmm... I walked right into her hands there.</thought></line>
 <line speaker="Gumshoe">The shot was fired from point-blank range.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Point blank, huh? So about how far away was it?</line>
 <line speaker="Gumshoe">It was anywhere between 12 to 20 inches away.</line>
 <line speaker="Phoenix">And how do you know he was shot at point blank?</line>
@@ -88,7 +88,7 @@
 <line speaker="Gumshoe">Gunpowder exploding is what makes a bullet fire, and that gets real hot, pal. And there were definitely some gunpowder burns left on the victim's forehead!</line>
 <line speaker="Phoenix"><thought>Wow... Never knew that... Live and learn, I guess...</thought></line>
 <line speaker="Gumshoe">But before the victim was shot, sir, he was stabbed in the chest.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Stabbed... And what was he stabbed with?</line>
 <line speaker="Gumshoe">A fruit knife.</line>
 <line speaker="Judge">I see. And whose knife was it?</line>
@@ -96,12 +96,12 @@
 <line speaker="Judge">Hmm... All over it, huh?</line>
 <line speaker="Phoenix"><thought>Urk. This does not look good...</thought></line>
 <line speaker="Gumshoe">The wound was very severe, but not enough to cause instantaneous death.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How severe was the wound?</line>
 <line speaker="Gumshoe">If it had been half an inch more to the right, it would've hit the victim's heart. After a stab like that, it's impossible to fight back, let alone stand.</line>
 <line speaker="Phoenix"><thought>This testimony makes Maya look like she had stabbed him with the intent to kill...</thought></line>
 <line speaker="Gumshoe">The murderer used the pistol to finish the victim off after the stabbing.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure he was stabbed first, then shot?</line>
 <line speaker="Gumshoe">Yup. Sure as sure can be. One look at the wounds and you'd come to the same conclusion too, pal.</line>
 <line speaker="Phoenix"><thought>Grr... What a pain...</thought></line>
@@ -138,19 +138,19 @@
 <line speaker="Phoenix"><thought>Maya's fingerprints on both murder weapons and blood splatters on her clothes... Could this situation get any worse??</thought></line>
 <line speaker="Phoenix"><thought>Please stop calling me by my full name. It's disturbing.</thought></line>
 <line speaker="Gumshoe">Sorry, pal but there's an even more incriminating piece of evidence.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why didn't you say so in your testimony earlier!?</line>
 <line speaker="Gumshoe">Uh... You're kinda scary today, you know, pal?</line>
 <line speaker="Judge">Come now, Mr. Wright... There is no need for that kind of attitude in my court...</line>
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">A-Alright. Just, please stop glaring at me like that...</line>
 <line speaker="Gumshoe">This is the costume the defendant was wearing at the time of the crime.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Maya's... costume?</line>
 <line speaker="Gumshoe">Yeah. She was wearing this when we arrested her.</line>
 <line speaker="Phoenix"><thought>Maya... She's wearing her channeling costume today too... Is she not allowed to wear anything else...?</thought></line>
 <line speaker="Gumshoe">As you can see, it's covered in blood.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">This blood on the costume...</line>
 <line speaker="Gumshoe">Lab results show that it is the victim's blood.</line>
 <line speaker="Judge">Hmm... So there is blood from the victim on the defendant's clothes.</line>
@@ -168,7 +168,7 @@
 <line speaker="Gumshoe">What are you talking about, pal!?</line>
 <line speaker="Judge">Wh-Where is this problem you are talking about!?</line>
 <line speaker="Phoenix"><thought>I've come this far... There's no turning back now!</thought> The problem I have with this piece of evidence is here!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I ask the court to please take a look at the sleeve of this costume.</line>
 <line speaker="Judge">The sleeve? ...! There is a tiny hole here...</line>
 <line speaker="Gumshoe">..A... A hole...? But that wasn't in the report.</line>
@@ -179,27 +179,27 @@
 <line speaker="Judge">Order! Order! Order!! This is a very grave matter. It's best we correct the Court Record first before anything else.</line>
 <line speaker="Gumshoe">Sorry about that. I guess we messed up, sir.</line>
 <line speaker="Phoenix">...! <thought>I-Is she actually... smiling!? What else is she hiding!?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">H-How can you say something like that!? This is a huge oversight!</line>
 <line speaker="Judge">While I agree it is a mistake on the part of the police, what Prosecutor von Karma has said is true. The evidence still stands. If you do not find a more definitive problem with the evidence, then...</line>
 <line speaker="Phoenix">No way!!</line>
 <line speaker="Judge">Detective Gumshoe, please continue with your testimony.</line>
 <line speaker="Gumshoe">Y-Yes, sir.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The problem is obviously the blood splatter here!</line>
 <line speaker="Judge">B-But... We've determined that the blood splatter is from the victim. Where is the problem in that?</line>
 <line speaker="Gumshoe">Yeah, where, pal?</line>
 <line speaker="Phoenix">Yeah... I wonder about that too...</line>
 <line speaker="Judge">That last antic of yours just pushed me over the top, Mr. Wright. I am declaring that this cross-examination period is over...</line>
 <line speaker="Phoenix">P-Please wait, Your Honor! <thought>Ack! I'd better not mess up again...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">There is a problem... somewhere around... here!</line>
 <line speaker="Judge">Wh-What does he mean, Ms. von Karma?</line>
 <line speaker="Judge">Well said. You certainly do take after your father!</line>
 <line speaker="Phoenix"><thought>I've just been made to look like a fool again... Alright... Focus, Phoenix!</thought></line>
 <line speaker="Phoenix"><thought>If I pursue this and I turn up nothing, it could be disastrous...</thought> You're right, Your Honor. There is absolutely nothing more to this.</line>
 <line speaker="Judge">Good. Well, Detective, please continue with your testimony.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Alright. I'll give you that the blood spatter is from the victim, but... what is this hole in the sleeve?</line>
 <line speaker="Gumshoe">Um... Sorry, pal. We must've thought it was just a tear in the seam...</line>
 <line speaker="Phoenix">Missing the hole is not what I'm asking you about. I'm talking about the hole itself! The smell of gunpowder  clearly gives away that... it is a bullet hole!</line>
@@ -207,12 +207,12 @@
 <line speaker="Phoenix"><thought>...Grr... I know there's something more to that costume.</thought></line>
 <line speaker="Gumshoe">... Yes, sir.</line>
 <line speaker="Gumshoe">The defendant attacked and killed a person who, without a doubt, was not fighting back.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">He wasn't "fighting back"? How do you know if he was or wasn't!?</line>
 <line speaker="Gumshoe">We could find no evidence that the victim put up any sort of struggle, pal.</line>
 <line speaker="Judge">Hmm... So did the murderer have a fight with the victim, or not? Depending on this, the circumstances around this murder change drastically.</line>
 <line speaker="Phoenix"><thought>Ugh... We're in real trouble now... If only I had something to prove that the victim did fight back...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>That Von Karma! She thinks she can decide the verdict with this testimony alone! I have to somehow find a critical contradiction and then I'll have her!</thought></line>
 <line speaker="Phoenix">Detective Dick Gumshoe!</line>
 <line speaker="Gumshoe">Y-Yes? Heh, having you call me by my full name is kind of a weird feeling...</line>
@@ -243,7 +243,7 @@
 <line speaker="Phoenix"><thought>Just by listening, it does make sense... However, I won't give up that easily!</thought></line>
 <line speaker="Judge">P-Please refrain from glaring at me like that... Now then, your cross-examination, please.</line>
 <line speaker="Gumshoe">During the channeling, the defendant saw her chance to stab the victim in the chest.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">There is quite a difference in height between Dr. Grey and the defendant. Add in body strength, and it seems unlikely the defendant could have stabbed the victim!</line>
 <line speaker="Gumshoe">Now that you mention it... Yeah, I guess...</line>
 <line speaker="Phoenix">...?</line>
@@ -252,27 +252,27 @@
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">Um, n-never mind. Let's continue with the testimony...</line>
 <line speaker="Gumshoe">Of course, the victim used the last of his strength to fight back, sir.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So he was stabbed, but the stab wound didn't kill him.</line>
 <line speaker="Gumshoe">But if you think about the blood loss, it was pretty bad.</line>
 <line speaker="Phoenix">How bad would you say it was?</line>
 <line speaker="Gumshoe">Actually, I went to give blood the other day. And afterward, I felt a little lightheaded and dizzy. ...I guess the damage was maybe... about 10 times the dizziness...? Ack!</line>
 <line speaker="Gumshoe">S-Sorry!</line>
 <line speaker="Gumshoe">While the two were fighting, the victim took out his gun.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Where in the world did that pistol come from?</line>
 <line speaker="Gumshoe">It looks like the victim, Dr. Grey had specifically bought it for that day.</line>
 <line speaker="Phoenix">But a handgun...?</line>
 <line speaker="Gumshoe">He got it off the black market about 2 days before the murder.</line>
 <line speaker="Phoenix"><thought>Why did Dr. Grey bring a gun...? Was he taking precautions against something...?</thought></line>
 <line speaker="Gumshoe">The victim took a shot, but because they were too close, he missed.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, you're saying that the bullet hole in this costume was made then?</line>
 <line speaker="Gumshoe">Sorry, pal, but that's what I'd think. The two of them were already fighting when a shot was fired.</line>
 <line speaker="Phoenix"><thought>Maya... I'm really glad you weren't hurt...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">The defendant then picked up on the opening and took the victim's gun and ended it...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Maya has never fired a gun before in her life!</line>
 <line speaker="Gumshoe">The victim had already taken off the safety. With the safety off, even an amateur like you can fire it by pulling the trigger.</line>
 <line speaker="Phoenix"><thought>Even me...? I wonder...?</thought></line>
@@ -290,7 +290,7 @@
 <line speaker="Phoenix">It means that when the shot was fired, they were standing apart from each other.</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Phoenix">Then I implore you to disprove my line of thinking.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">As if that was even possible. According to testimony, the wound from the stabbing was very severe. The victim would not have had the strength to push the defendant very far after that!</line>
 <line speaker="Judge">Hmm... That does make an awful lot of sense. What do you think, Mr. Wright?</line>
 <line speaker="Phoenix"><thought>I must be careful. I can't afford to make a mistake here! Concentrate and think!</thought></line>
@@ -298,7 +298,7 @@
 <line speaker="Judge">Hmm... It does look that way.</line>
 <line speaker="Phoenix"><thought>...Oh boy... If I don't do something soon, it'll be curtains for Maya...</thought></line>
 <line speaker="Judge">Well then, I think we can...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Your Honor! Please... Wait!</line>
 <line speaker="Judge">Who was that? Mr. Wright? Please refrain from making unnecessary outbursts!</line>
 <line speaker="Phoenix"><thought>I don't care how, but I must find something to go on in Von Karma's explanation!</thought></line>
@@ -306,8 +306,8 @@
 <line speaker="Gumshoe">Fatal...?</line>
 <line speaker="Judge">Flaw...!? Yeow!</line>
 <line speaker="Phoenix"><thought>There has to be a snag in her explanation somewhere! "She put some distance between them before rushing to make the final blow. And when she was about to strike, the doctor took his shot." There must be a piece of evidence that contradicts this line of thinking!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Take a look at this!</line>
 <line speaker="Gumshoe">Why are you showing this to me, pal?</line>
 <line speaker="Phoenix">Prosecutor von Karma's explanation and this piece of evidence...</line>
@@ -325,8 +325,8 @@
 <line speaker="Phoenix"><thought>Are these two really that clueless...?</thought> The bullet went through the defendant's sleeve first, then the folding screen. It passed through at a height of approximately 8 inches off the ground... Which means! When the shot was fired, Maya... I mean, the defendant, was not getting ready to strike, but was actually squatting low to the ground!</line>
 <line speaker="Judge">Order! Order! Th-This changes everything!</line>
 <line speaker="Phoenix">Please look at this diagram of the crime scene. The victim, Dr. Grey was here when he fired the shot. And the bullet hit this folding screen. It hit at this location, about 8 inches off the ground. At this time, the defendant was in this area.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here!</line>
 <line speaker="Judge">Behind the folding screen...?</line>
 <line speaker="Phoenix">Ack!</line>
@@ -334,7 +334,7 @@
 <line speaker="Phoenix">... Yeah, I guess so...</line>
 <line speaker="Judge">Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Boy, did I just screw up royally... What's done is done. For now, I should focus on where Maya was at the time of the crime.</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Somewhere around here!</line>
 <line speaker="Judge">...?</line>
 <line speaker="Phoenix"><thought>Uh oh. The judge's face is scrunched like he just smelled some serious bad breath...</thought> Uhh... Um... That is, I mean...</line>
@@ -394,14 +394,14 @@
 <line speaker="Judge">Hmm... It would certainly seem that only the defendant and the victim were in that room.</line>
 <line speaker="Phoenix"><thought>I will clear all doubt about Maya through this cross-examination... Just watch me!</thought></line>
 <line speaker="Lotta">Only the Doc and the defendant went into the Channelin' Chamber.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was it really only those two that went in!?</line>
 <line speaker="Phoenix">Urk.</line>
 <line speaker="Phoenix">...Yes. Dr. Grey and Maya were the only two who went into the room...</line>
 <line speaker="Judge">H-Hold on! We can't have the defense testifying against its own client!</line>
 <line speaker="Lotta">Anyway, folks, only the two of 'em went into the Channeling Chamber, ya hear?</line>
 <line speaker="Lotta">We were waitin' outside the door and then, "bang!" we hear this gunshot!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was it really a gunshot!?</line>
 <line speaker="Phoenix">Urk.</line>
 <line speaker="Phoenix">...Yes. I think it was something that sounded like a gunshot...</line>
@@ -409,14 +409,14 @@
 <line speaker="Phoenix"><thought>...And the world becomes just a little crueler...</thought></line>
 <line speaker="Lotta">I heard a gunshot a long time ago, so I know. And I tell ya that was a gunshot I heard. Now, this -- this is where the story heats up!</line>
 <line speaker="Lotta">Mr. Lawyer there broke the door down, and we rushed into the room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, let me get this straight! This "Mr. Lawyer there" broke the door down!?</line>
 <line speaker="Phoenix">Um... Yes, Ms. von Karma... I broke the door down. Sorry. <thought>Why does this feel like an inquisition?</thought></line>
 <line speaker="Lotta">No need for apologizin'! That was great! You're a real man!</line>
 <line speaker="Judge">Oh, really? That's something I would've liked to see.</line>
 <line speaker="Phoenix"><thought>The judge is smiling rather openly. I'll take that as a  good sign...</thought></line>
 <line speaker="Lotta">Inside was the dead victim, and the defendant, wavin' a pistol around.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure it was the defendant, Maya Fey!?</line>
 <line speaker="Lotta">Sure, I'm sure!</line>
 <line speaker="Phoenix"><thought>Lotta seems awful confident in her testimony...</thought></line>
@@ -439,7 +439,7 @@
 <line speaker="Phoenix"><thought>Rats! And I'm trapped like one... Again!</thought></line>
 <line speaker="Phoenix"><thought>Even I can see that any normal person would know who that was. It's no good. I shouldn't push my luck on this...</thought></line>
 <line speaker="Lotta">I swear, other than those two, there was no one else in the room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely certain of that!?</line>
 <line speaker="Lotta">Sure am! But that old witch chased us out of the room, so...</line>
 <line speaker="Phoenix"><thought>"Old witch"? Does she mean Morgan Fey?</thought></line>
@@ -474,7 +474,7 @@
 <line speaker="Lotta">Y-Y-Yeah! That's just plain fool's talk!</line>
 <line speaker="Phoenix"><thought>Thanks guys. Your show of support was just great...</thought></line>
 <line speaker="Judge">...Now, then, Mr. Wright. Please show the court some proof. Prove to this court that the person in this photo is not Maya Fey!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here is your proof!</line>
 <line speaker="Phoenix">Is there a problem?</line>
 <line speaker="Judge">Mr. Wright. I'm sorry, but I don't follow your logic.</line>
@@ -503,7 +503,7 @@
 <line speaker="Phoenix">Mia...?</line>
 <line speaker="Mia">Question Lotta one more time, Phoenix. I don't know if she's doing it subconsciously or on purpose, but... she's not testifying truthfully.</line>
 <line speaker="Judge">Now then, this court would like to end the cross-examination period.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Please wait, Your Honor! The defense would like to request that the witness testify one more time.</line>
 <line speaker="Judge">Overruled. I'm afraid you're too late, Mr. Wright. The cross-examination has already ended. Furthermore, any unrelated ques-</line>
 <line speaker="Judge">B-But... I mean... I have some place I must go after this... Mmph! A-Al-Alright! I'll allow it! Ms. Hart! Hurry and give us another testimony!</line>
@@ -516,27 +516,27 @@
 <line speaker="Judge">Nothing sounds different from before...</line>
 <line speaker="Phoenix"><thought>Some parts of her testimony were very vague. I should press her on those sections!</thought></line>
 <line speaker="Lotta">When we broke into that room, all I could focus on was Maya.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, what did she look like?</line>
 <line speaker="Lotta">Ya know, she looked almost like a different person.</line>
 <line speaker="Judge">A... A different person?</line>
 <line speaker="Judge">Yes, that is true... Well, then, Ms. Hart. Did you happen to see anything else?</line>
 <line speaker="Lotta">I was... uh, kinda scared of the dead body, so I didn't take a good look at it.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Then perhaps that body was not Dr. Grey's at all!</line>
 <line speaker="Lotta">Eh!? W-Well... I reckon that's possible...</line>
 <line speaker="Phoenix">Well, what if it was that of Maya Fey after the channeling? Or maybe -- Oww!</line>
 <line speaker="Phoenix"><thought>Urk... Sorry, Maya...</thought></line>
 <line speaker="Lotta">Are y'all done here? Can I continue?</line>
 <line speaker="Lotta">I'm really bad when it comes to blood and ghosts and stuff.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And even knowing that, you still persist in being a paranormal photographer?</line>
 <line speaker="Lotta">That's why I'm getting out of this here business. This gal's gonna get the dirt on the stars and be a tabloid photographer from now on!</line>
 <line speaker="Phoenix"><thought>She goes through jobs faster than a baby through diapers.</thought> Wah!</line>
 <line speaker="Judge">Well? Would it, Mr. Wright?</line>
 <line speaker="Phoenix"><thought>Nice, tag-teamed in stereo. Guess I should be grateful it's not in 5.1...</thought></line>
 <line speaker="Lotta">But I still managed to point my camera at Maya and take a shot!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">There must be something we can use in her testimony just now. We must find it! At all costs...</line>
 <line speaker="Phoenix">Two, right?</line>
 <line speaker="Lotta">T-Two what?</line>
@@ -603,8 +603,8 @@
 <line speaker="Judge">Oh! The fire has returned to your eyes, I see.</line>
 <line speaker="Phoenix">This picture... Within this picture lies a critical contradiction to all the testimony up until now.</line>
 <line speaker="Judge">A contradiction!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Please direct your attention here!</line>
 <line speaker="Judge">...T-To her... face?</line>
 <line speaker="Phoenix">With your own two eyes, you can clearly see that this face does not belong to Maya Fey!</line>
@@ -614,7 +614,7 @@
 <line speaker="Mia">Phoenix! You have to think before you speak! You can't just blurt out any old thing.</line>
 <line speaker="Maya">...Nick! You're supposed to be helping me!</line>
 <line speaker="Phoenix"><thought>*cringe* Even Maya's mad at me now... I have to focus!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The contradiction lies... Here!</line>
 <line speaker="Judge">...You don't sound very sure of yourself, Mr. Wright.</line>
 <line speaker="Phoenix">Excuse me, but can you really tell me how much confidence I have in this!?</line>
@@ -675,7 +675,7 @@
 <line speaker="Judge">Mr. Wright. Let's hear what you've come up with.</line>
 <line speaker="Phoenix">I think what happened before we forced our way into the Channeling Chamber is...</line>
 <line speaker="Phoenix">Your Honor! I would like to present some evidence! I have proof that there was someone else in the room before the murder took place!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Please take a good look at this!</line>
 <line speaker="Judge">...Okay...</line>
 <line speaker="Phoenix">Thank you.</line>
@@ -687,7 +687,7 @@
 <line speaker="Phoenix"><thought>I think the way I'm going about this is all wrong... I have to start over and try to think about things in a different manner...</thought></line>
 <line speaker="Phoenix">Maya had left the Channeling Chamber at some point! And the defense can prove this!</line>
 <line speaker="Judge">Anyway, let's see some evidence. Prove that from the murder until the time of arrest, the defendant had left the room.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The evidence you're looking for is... this?</line>
 <line speaker="Judge">...</line>
 <line speaker="Lotta">Why the heck is there a "?" at the end there for!?</line>
@@ -729,25 +729,25 @@
 <line speaker="Phoenix">Sure. Alright, Pearls. You ready to go buy some tickets?</line>
 <line speaker="Pearl">Huh? A tik-ket?</line>
 <line speaker="Phoenix"><thought>Poor thing... So sheltered.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection denied.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection denied. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

@@ -92,16 +92,16 @@
 <line speaker="Franziska">If it was a crew member, any one of them could've shown Agent Hicks to the cargo hold.</line>
 <line speaker="Edgeworth"><thought>I know what she's trying to say, but I'm not certain it's as simple as that.</thought></line>
 <line speaker="Franziska">If it was a crew member, any one of them could've shown Agent Hicks to the cargo hold.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That might be true, but then, it could be anyone, including Ms. Meele or even the captain.</line>
 <line speaker="Franziska">Don't be a fool! A plane without a pilot in the cockpit is like... ...a horse without a rider, crop in hand! Much like Scruffy over there!</line>
 <line speaker="Gumshoe">H-Heeeeeeeeeigh!</line>
 <line speaker="Edgeworth"><thought>I can't disagree with her on that. Detective Gumshoe does always need a guiding hand.</thought> Very well, then what about the other flight attendant, Ms. Meele?</line>
 <line speaker="Franziska">Hah, I thought you might ask about her.</line>
 <line speaker="Franziska">But the point to keep in mind is the keycard that allows the elevator to come down here.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">But it's highly likely that the keycard was stolen from Ms. Teneiro!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">"It's highly likely"...? Is that "possibility" the best you can come up with? And you call yourself a disciple of my father!</line>
 <line speaker="Edgeworth">Nnnrgh! Yes, well... While I don't have any evidence, I...</line>
 <line speaker="Franziska">Be quiet! You're a disgrace! There's more evidence pointing to Ms. Rhoda Teneiro, you know! It's not just the keycard that gives her away!</line>
@@ -110,9 +110,9 @@
 <line speaker="Edgeworth">............</line>
 <line speaker="Adds statement">"Further, there is the matter of the key to the display case that held the murderous bank."</line>
 <line speaker="Franziska">Further, there is the matter of the key to the display case that held the murderous bank.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Franziska">The only person with such high-level access is Ms. Rhoda Teneiro!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why would such important things, like the keycard, be entrusted to only one person?</line>
 <line speaker="Franziska">According to Cammy Meele, Rhoda Teneiro is in charge of most of the "important stuff".</line>
 <line speaker="Edgeworth">Then what exactly is Ms. Meele in charge of?</line>
@@ -120,15 +120,15 @@
 <line speaker="Edgeworth">Gah! I understand how you feel, but whipping me just now was uncalled for!</line>
 <line speaker="Franziska">In the end, the only one who could've let Agent Hicks into the hold was Rhoda Teneiro.</line>
 <line speaker="Franziska">I'd say that's a pretty decisive piece of information, wouldn't you?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Decisive...? Do you really think it's that strong?</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">There is no room for doubt! All of the other evidence points to her as well!</line>
 <line speaker="Edgeworth">Hmm.........</line>
 <line speaker="Franziska">No snappy comeback? That's as it should be.</line>
 <line speaker="Edgeworth"><thought>Tch... There's not a single flaw in Franziska's reasoning. However, there must be something I can work with that I can draw out of her.</thought></line>
 <line speaker="Edgeworth">But that is a fake...</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Stop right there, Miles Edgeworth! You don't have any proof that this is just a red herring! If you must keep on insisting that it's a fake... ...then what is the real murder weapon and where did it go?</line>
 <line speaker="Edgeworth">.........</line>
 <line speaker="Franziska">Speechless, I see. That's not a surprise. After all, you know that we've searched the entire cargo hold and came up empty-handed!</line>
@@ -188,17 +188,17 @@
 <line speaker="Gumshoe">...You two aren't listening at all, are you...?</line>
 <line speaker="Franziska">Come on then, show me this "real murder weapon" you speak of!</line>
 <line speaker="Edgeworth">This is the real murder weapon!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">As we have thought all along, the real murder weapon is probably this piggy bank.</line>
 <line speaker="Franziska">How easily you flip-flop on your own opinions. Perhaps you should flip-flop with Scruffy there and trade jobs. I'm sure he'd like that.</line>
 <line speaker="Edgeworth">......You must be joking! <thought>I can't believe I showed her the fake murder weapon!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The real weapon is... this suitcase.</line>
 <line speaker="Franziska">When you say it with such confidence, I suppose you must have some evidence...?</line>
 <line speaker="Edgeworth">Of course. Agent Hicks was placed into this suitcase alive. And it was while he was in here that he was beaten in the head and ba...aaackngh!</line>
 <line speaker="Franziska">I wonder if you would die if I whipped you from head to toe right now?</line>
 <line speaker="Edgeworth"><thought>What are you thinking, woman!? Of course I would!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I have concluded... that this is the real weapon, I suppose.</line>
 <line speaker="Franziska">Wh-What is that supposed to mean, you fool!?</line>
 <line speaker="Edgeworth">That... was practice just now for when I would show you the real murder weapon.</line>
@@ -248,8 +248,8 @@
 <line speaker="Edgeworth">Ah, but there was.</line>
 <line speaker="Franziska">What...?</line>
 <line speaker="Edgeworth"><thought>What can I use to show her that it's possible the box was not always where it is now?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Doesn't this show sufficient probability to you?</line>
 <line speaker="Franziska">Wh-Why are you asking me!? I was the one asking you!</line>
 <line speaker="Gumshoe">I think there's some possibility in that, siiiiiiiiiiiir!</line>
@@ -458,8 +458,8 @@
 <line speaker="Edgeworth">The culprit cleaned the blood up well.</line>
 <line speaker="Franziska">And how do you think the killer did that?</line>
 <line speaker="Edgeworth">How did the killer clean up all the blood?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I would suppose that... perhaps the culprit used this... to clean up the blood.</line>
 <line speaker="Franziska">There is no need for you to waste your breath if you're just going to waste my time. After all, I hate to waste my energy on wasteful whipping.</line>
 <line speaker="Edgeworth"><thought>If it's that wasteful, then I'd rather that you didn't whip me at all! For the killer to clean up the blood, they would've needed something to soak it up.</thought></line>
@@ -503,13 +503,13 @@
 <line speaker="Meele">Ah! ...............zzz.</line>
 <line speaker="Edgeworth"><thought>*sigh* She fell asleep again. It looks like the only way I'm going to be able to wake her up is by pressing her...</thought></line>
 <line speaker="Meele">.....................Mnngh. Oh, um... yeah...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Ms. Meele! Wake up!</line>
 <line speaker="Meele">*yawn* I'm awake, I'm awake. ..................zzz.</line>
 <line speaker="Franziska">Miles Edgeworth! I demand that you do something about this flight attendant this instant!</line>
 <line speaker="Edgeworth"><thought>Why ask me to wake her when you can finally put that whip to an appropiate use?</thought></line>
 <line speaker="Meele">From 3 to 4, I was, um... in the flight attendant's room all by my lonesome self.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If I remember correctly, food was being served in First Class and the Lounge... ...between the hours of 3 and 4 AM.</line>
 <line speaker="Meele">Yeah, but that kind of stuff's run by Ms. Rhoda.</line>
 <line speaker="Edgeworth">Then what were you doing in the attendants' room at that time?</line>
@@ -517,7 +517,7 @@
 <line speaker="Edgeworth">You mean you were neglecting your duties!</line>
 <line speaker="Meele">No way! Sleeping's part of our job, too, you know.</line>
 <line speaker="Meele">.....................Mnngh. Oh, um... yeah...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Ms. Meele! How many times do I have to repeat myself!? Wake up!</line>
 <line speaker="Meele">*yawn* I'm awake, I'm awake. ..................zzz.</line>
 <line speaker="Franziska">......!</line>
@@ -527,7 +527,7 @@
 <line speaker="Meele">Really? Heh, sorry 'bout that.</line>
 <line speaker="Edgeworth">You can make amends for that by continuing with your testimony.</line>
 <line speaker="Meele">And from 5 to 6, I was, um... in the flight attendant's room all by my lonesome self.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you were alone the entire time, were you?</line>
 <line speaker="Meele">Yeah, no one else even popped their head in to say, "Hi!"</line>
 <line speaker="Edgeworth"><thought>Oh? Well, I think a contradiction just popped in to say, "Hi!" What should I do? Should I raise an objection?</thought></line>
@@ -536,15 +536,15 @@
 <line speaker="Edgeworth">Ms. Meele! There is a clear contradiction embedded in your testimony!</line>
 <line speaker="Meele">Huh? What are you talking about?</line>
 <line speaker="Edgeworth">It's not possible that you were alone in the attendants' room the whole time from 5 to 6 AM!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Now take a look at this eye-opening piece of evidence!</line>
 <line speaker="Meele">...............zzz.</line>
 <line speaker="Edgeworth">Ms. Meele! I need you to wake up and take a look at this!</line>
 <line speaker="Franziska">Enough of your foolishness! Now hurry up and show us the real evidence!</line>
 <line speaker="Edgeworth"><thought>Arngh! I guess this wasn't as eye-opening as I thought...</thought></line>
 <line speaker="Meele">..................Mnngh. Oh! Did you say something?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Finally awake, are we?</line>
 <line speaker="Meele">What do you mean? I've been awake this whole time...</line>
 <line speaker="Gumshoe">Aww, it's alright if you were sleeping, pal!</line>
@@ -580,12 +580,12 @@
 <line speaker="Teneiro">I have absolutely no interest in people who can't appreciate my sense of design!</line>
 <line speaker="Edgeworth">.................. <thought>Now's not the time for this sort of talk!</thought></line>
 <line speaker="Meele">Look, I know you're suspecting me 'cause I'm one of the crew.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">No, it's not the only reason I have for suspecting you. Your statements regarding Mr. Hicks also turned out to be a bunch of lies.</line>
 <line speaker="Meele">Ah, but say I wasn't an attendant. You wouldn't suspect me then, would you?</line>
 <line speaker="Edgeworth">Hmm, yes... I suppose that's true enough.</line>
 <line speaker="Meele">But you'd think then maybe you should suspect Ms. Rhoda, too.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">She is already being detained for further questioning, or have you already forgotten?</line>
 <line speaker="Meele">Oh, Yeah, guess I just forgot.</line>
 <line speaker="Teneiro">Cammy... Don't tell me you suspect me, too...</line>
@@ -593,7 +593,7 @@
 <line speaker="Teneiro">I can't believe you would think that! I mean, me! A killer...!?</line>
 <line speaker="Edgeworth">Ms. Meele, what did you mean just now by "no one else who could've done it"?</line>
 <line speaker="Meele">She's the one in charge of the elevator keycard and the shop, you know.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And what are you in charge of, Ms. Meele?</line>
 <line speaker="Meele">Um... I take care of the attendants' room.</line>
 <line speaker="Edgeworth">That doesn't count!</line>
@@ -607,23 +607,23 @@
 <line speaker="Edgeworth"><thought>Hmm... Very interesting...</thought></line>
 <line speaker="Adds statement">"All I'm in charge of are the attendants' room and some Borginian stuff."</line>
 <line speaker="Meele">If you ask me, that makes her super-suspicious.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Actually, your on-the-job behavior makes you "super-suspicious" in my eyes.</line>
 <line speaker="Meele">Huh? But why?</line>
 <line speaker="Edgeworth">While Ms. Teneiro is busy with the passengers and all of her other duties... ...you have a lot of free time on your hands. Thus providing you with ample time to commit the crime!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Miles Edgeworth! I demand that you cease and desist in this line of conjectural questioning. I won't allow you to bluff your way through this like a certain defense lawyer!</line>
 <line speaker="Edgeworth">Nngh... But I do not honestly believe Ms. Meele does any actual work aboard this flight.</line>
 <line speaker="Meele">Oh, that's not true, Mr. Edgeworth. Although... Well...</line>
 <line speaker="Meele">All I'm in charge of are the attendants' room and some Borginian stuff.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So what exactly do you do as the one in charge of "some Borginian stuff"?</line>
 <line speaker="Meele">Um, I do stuff like translate things from and into Borginian.</line>
 <line speaker="Teneiro">Cammy is the only member of the crew who understands Borginian, Mr. Edgeworth.</line>
 <line speaker="Edgeworth">Ms. Meele, I take it then that it is your job to process all the Borginian paperwork?</line>
 <line speaker="Meele">Yeah. See, I toootally pull my weight around here.</line>
 <line speaker="Edgeworth">So it would appear. <thought>Perhaps I should ask her for a few more details about her work. And...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Meele, it's very unladylike to push suspicion onto someone else.</line>
 <line speaker="Meele">That's not what I'm doing at all! I'm just saying that Ms. Rhoda is very sus...</line>
 <line speaker="Edgeworth">There you go, pushing everything onto her again!</line>
@@ -647,7 +647,7 @@
 <line speaker="Meele">I neglected to check if the cargo had been loaded onto the plane properly. So, sorry about that.</line>
 <line speaker="Edgeworth">Hmm... <thought>It seems that she's finally woken up. This is going to be one tough fight...</thought></line>
 <line speaker="Meele">Suppose... And this is just a supposition... Even if I was involved in the smuggling... ...you can't throw the charge of murder on me just like that.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">If you were involved in the smuggling, you would have a strong motive to kill! Agent Hicks was in the middle of an investigation regarding a smuggling ring. And just when he was about to close in, he's killed by a member of that ring...</line>
 <line speaker="Meele">Well, did you ever stop to think that maybe Rhoda is the smuggling ring member? After all, unlike me, Rhoda has access to many things on this plane for "work" purposes.</line>
 <line speaker="Edgeworth">Hmph. So perhaps there is some element of a set-up at play in this case.</line>
@@ -655,8 +655,8 @@
 <line speaker="Edgeworth">Don't worry, I wasn't talking about you. I meant the killer. First, it was myself, and now it's Ms. Teneiro who is under the microscope. Seems to me that our killer is going to great lengths to pin this crime on anyone they can.</line>
 <line speaker="Meele">You have no proof that Rhoda is being set-up, or that she isn't.</line>
 <line speaker="Edgeworth">Actually, I believe that she was indeed the intended target from the very beginning. I believe that the plan was to push all of the blame for the crime onto her. And this evidence will prove my suspicions! This proves that the killer was out to frame Ms. Teneiro from the very beginning!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence will answer all of our questions.</line>
 <line speaker="Meele">Are you sleep-presenting or something, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">No, as you can plainly see, I am wide awake.</line>
@@ -684,8 +684,8 @@
 <line speaker="Edgeworth">...?</line>
 <line speaker="Meele">Are you done already? I was about to fall asleep again. Anyway, let's be honest here. You don't have anything on me other than a whole lot of circumstantial evidence!</line>
 <line speaker="Edgeworth">...Nnnghk! <thought>I can see the outline of how the murder occurred, but I have no definitive evidence... And isn't there a piece of evidence that's still unaccounted for...? Something that I still can't quite fit into the big picture?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence will answer all of our questions.</line>
 <line speaker="Meele">Are you sleep-presenting or something, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">No, as you can plainly see, I am wide awake.</line>
@@ -751,14 +751,14 @@
 <line speaker="Franziska">Rhoda Teneiro!</line>
 <line speaker="Teneiro">I don't know anything about the phone! It wasn't me! It wasn't me...</line>
 <line speaker="Meele">Ms. von Karma, is it? I suggest you arrest Ms. Rhoda Teneiro right away.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Wait! I have a theory! This is related to the incident with the keycard! When the killer went to steal the keycard... ...they conveniently stashed the cell phone in Ms. Teneiro's locker at the same time!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">This is related to the keycard alright. In the same way that we have zero proof that the killer did just that.</line>
 <line speaker="Edgeworth">Nnngh!</line>
 <line speaker="Franziska">The only voice that sings the truth is evidence. That is the one bird we cannot ignore.</line>
 <line speaker="Edgeworth"><thought>What should I do? Franziska's right. I can't offer baseless conjectures at this point! Alright then, why did the culprit take the cell phone from Agent Hicks? It must have something very incriminating on or in it!</thought></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Franziska">What now, Miles Edgeworth!?</line>
 <line speaker="Edgeworth">It's not over yet! We have yet to figure out why the killer took the phone!</line>
 <line speaker="Franziska">What!?</line>
@@ -781,7 +781,7 @@
 <line speaker="Meele">Even a super-prosecutor can't repair a broken phone.</line>
 <line speaker="Edgeworth"><thought>Gnnrgk! I'll find a way, don't you worry about that!</thought></line>
 <line speaker="Meele">*yaaaaaaaaaaaaaaaaaaaaawn* May I go back to sleep now?</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">The LCD screens on the inside and outside are broken, that's for sure. But that's also reason enough to believe that the killer wasn't able to erase the data.</line>
 <line speaker="Meele">What!?</line>
 <line speaker="Edgeworth">What do you mean by that, Franziska!?</line>
@@ -820,8 +820,8 @@
 <line speaker="Edgeworth">He left us with a piece of evidence after all. A striking piece that will point out who his killer is!</line>
 <line speaker="Meele">Hah! Maybe you shouldn't force your mistaken reading of a simple picture, Mr. Edgeworth.</line>
 <line speaker="Edgeworth">The Borginian cargo and this piece of evidence will point us straight to the killer!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Meele">Would you care to fill me in on what you are trying to prove with that?</line>
 <line speaker="Edgeworth">It's quite simple. It shows that I will be re-presenting my evidence!</line>
 <line speaker="Meele">I'm not laughing.</line>
@@ -831,12 +831,12 @@
 <line speaker="Meele">!</line>
 <line speaker="Edgeworth">That's right. The killer was someone who could read and understand Borginian. And the only crew member that fits that description is you, Ms. Cammy Meele!</line>
 <line speaker="Meele">Hah! That's pretty flimsy! The killer probably searched through all the boxes looking for something to use. When you're frantic, you don't care if the box is in English or Borginian!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Sorry, but I cannot agree with your assessment of the killer's indiscriminate nature.</line>
 <line speaker="Meele">What!?</line>
 <line speaker="Edgeworth">There was no need for the killer to tear through boxes at random at all. And if the killer supposedly could not comprehend Borginian... Well then... Logically, the killer would have opened this box first!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This proves that the killer knew how to read Borginian!</line>
 <line speaker="Meele">Where?</line>
 <line speaker="Edgeworth">You don't fool me! Don't pretend as though you don't see what I'm talking about.</line>
@@ -914,7 +914,7 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right...</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence perfectly exposes the flaw in your logic!</line>
 <line speaker="Franziska">Oh? Well then, why don't you show me how it does just that? Go on!</line>
 <line speaker="Gumshoe">Ooh! I bet it's this part, right? This conflicts with something, right, sir!?</line>
@@ -923,19 +923,19 @@
 <line speaker="Gumshoe">Ouch... I was just trying to follow your head, sir...</line>
 <line speaker="Franziska">That you would allow a subordinate to take over... You're a disgrace!</line>
 <line speaker="Edgeworth">Gnnnnnnnnrrrrk! <thought>I guess that wasn't it...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph. It would seem that your logic is not as perfect as you think it is.</line>
 <line speaker="Franziska">And what is that supposed to mean!?</line>
 <line speaker="Edgeworth">This piece of evidence should show you exactly what I mean.</line>
 <line speaker="Franziska">.........Oh, yes. It clearly shows what you're thinking. That you're attempting to buy yourself time!</line>
 <line speaker="Edgeworth">Gnnngh! <thought>I knew I shouldn't have tried to pull a fast one.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Franziska, I believe your testimony just now conflicts with this piece of evidence.</line>
 <line speaker="Franziska">And I believe that when you use the phrase "I believe", you are anything but certain. Which means that showing me that piece of evidence is just a way to waste time.</line>
 <line speaker="Edgeworth">Aaaaaaaaaah! <thought>She even managed to whip the evidence at the some time!</thought></line>
 <line speaker="Gumshoe">Owwww!! Why did you whip me, too, sir!?</line>
 <line speaker="Edgeworth"><thought>That's one more victim besides myself and the evidence...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hah, I've got you now. Your testimony contradicts this piece of evidence...!</line>
 <line speaker="Gumshoe">Ooh, really!? Can you explain it to me, sir?</line>
 <line speaker="Edgeworth">Certainly. It's quite... ......Gnnrnk!?</line>
@@ -943,13 +943,13 @@
 <line speaker="Edgeworth">I...I'm sorry, Franziska! Ms. Meele! Please wake up!</line>
 <line speaker="Cammy">*yaaawn* Good morning.</line>
 <line speaker="Edgeworth">Gnnnnnnnnrrrrk! <thought>I guess that wasn't it...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I believe your testimony contradicts this piece of evidence...</line>
 <line speaker="Cammy">Really? You think so? I don't really get these kinds of things so... you know.</line>
 <line speaker="Edgeworth">I see. Then in that case, I might be wrong...</line>
 <line speaker="Franziska">Your brain is about as awake as that flight attendant! Here, allow me help you wake up!</line>
 <line speaker="Edgeworth">Ooooooooongh! I didn't need a second lashing!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Meele. Your testimony stands on clear contradiction to this piece of evidence!</line>
 <line speaker="Cammy">............zzz.</line>
 <line speaker="Edgeworth">Wake up! This is a very critical point we're discussing here!</line>
@@ -959,7 +959,7 @@
 <line speaker="Edgeworth">Aaaaarrrrgnnnn! I-I guess that wasn't it...!</line>
 <line speaker="Franziska">That's as far as you go, Miles Edgeworth. I've known the truth now for quite some time, and I won't allow you to dawdle.</line>
 <line speaker="Edgeworth">What!? But we haven't completed the investigation yet!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">It's obvious that the culprit is Ms. Rhoda Teneiro! There's no one else it could've been!</line>
 <line speaker="Edgeworth">Nnngh! <thought>It can't end like this...!</thought></line>
 <line speaker="Edgeworth">Ms. Teneiro was kept in custody under the pretense of a "valuable witness". Thus the truth was lost for all eternity.</line>

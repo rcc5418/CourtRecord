@@ -260,7 +260,6 @@
 <line speaker="Phoenix">...Yeah, I get it.</line>
 <line speaker="Byrde">I know I used to be on the police force, sir. But I'm incarcerated, now. So I can't use my connections to help you. All I can tell you about now is info about ex-cons or the clientele of Trés Bien, sir...</line>
 <line speaker="Maya">Aww, don't let it get you down, Maggey!</line>
-<line speaker="After clearing all Talk options and presenting Magazine Clipping">Byrde:</line>
 <line speaker="Phoenix">Probably. The court ruled in the absence of a genuine defense attorney. So we should be able to get a retrial.</line>
 <line speaker="Byrde">Um... Mr. Wright...?</line>
 <line speaker="Phoenix">?</line>
@@ -347,7 +346,6 @@
 <line speaker="Maya">You're right!</line>
 <line speaker="Phoenix"><thought>So the victim left this behind on the day of the murder, huh...</thought></line>
 <line speaker="Maya">I think we better step up the investigation, don't you Nick?</line>
-<line speaker="After presenting Sports Paper at Detention Center">January 6</line>
 <line speaker="???">Oh lá lá! Bon-JOUR! Welcome to la Trés Bien!</line>
 <line speaker="Maya">Oh! Hel... lo... ...</line>
 <line speaker="Phoenix"><thought>What happened to Maya? She's frozen stiff...</thought></line>
@@ -481,7 +479,6 @@
 <line speaker="Armstrong">Félicitations! Mais... qu'est-ce que c'est?</line>
 <line speaker="Phoenix">Ack! Um... Je... Je no comprehend...</line>
 <line speaker="Maya">Nick! Don't just make something up!</line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Armstrong">... Z'at is a question you will 'ave to ask 'im yourselves.</line>
 <line speaker="Maya">Huh? "'Im"?</line>
 <line speaker="Armstrong">La old man spends all of 'is time dans la parc.</line>
@@ -566,7 +563,7 @@
 <line speaker="Maya">It's just, if you dislike it so much, why would you keep going there?</line>
 <line speaker="Old Man">...</line>
 <line speaker="Phoenix">Sir?</line>
-<line speaker="Old Man">There you are, you filthy pigeons! You want food? Ha-ha! <cutIn>Take that!</cutIn></line>
+<line speaker="Old Man">There you are, you filthy pigeons! You want food? Ha-ha! <cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">He must be hiding something, right?</line>
 <line speaker="Phoenix">If he is, I should be able to see a Psyche-Lock... Oh, wait... I don't exactly have the Magatama right now, huh...</line>
 <line speaker="Maya">Remember, Nick. That Magatama is only on loan. You better find it or else!</line>
@@ -626,9 +623,8 @@
 <line speaker="Phoenix">You're always complaining about the place, so why do you go there?</line>
 <line speaker="Old Man">...</line>
 <line speaker="Phoenix">Sir?</line>
-<line speaker="Old Man">There you are, you filthy pigeons! You want food? Ha-ha! <cutIn>Take that!</cutIn></line>
+<line speaker="Old Man">There you are, you filthy pigeons! You want food? Ha-ha! <cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix"><thought>Something's not right about this guy... But If he's hiding something, I should be able to see a Psyche-Lock.</thought> Oh, wait... <thought>I don't exactly have the Magatama right now, huh... I need to find it before I can get anywhere with this old man.</thought></line>
-<line speaker="After presenting Job Listings in  Trés Bien">January 6</line>
 <line speaker="Phoenix">Looks like they have Maggey in questioning. I guess I've asked her pretty much everything... I'll come back if there's anything else I need to ask her later.</line>
 <line speaker="Phoenix">This guard monitors the visitor's room. There's nothing for him to do right now, so he's catching some vertical z's.</line>
 <line speaker="Phoenix">Poor Maya. It looks like Mr. Armstrong's really taken a shine to her. I suppose I'll just have to let her work at the restaurant for a while. I'll go pick her up from Trés Bien once things have cooled off.</line>
@@ -756,7 +752,6 @@
 <line speaker="Phoenix">What do you make of this...?</line>
 <line speaker="Gumshoe">Sorry, pal. All I can think about is Maggey at the moment. ... ...... N-No! I didn't mean it like that! I meant...</line>
 <line speaker="Phoenix"><thought>You don't have to explain... Really...</thought></line>
-<line speaker="After clearing all Talk options and presenting Sports Paper at Police Station - Criminal Affairs Dept.">January 6Trés Bien</line>
 <line speaker="Phoenix">The scent of flours sure is strong. It's almost making me dizzy... Oh, um... Hello. <thought>Who was that just now? A customer? She had sort of a dark aura about her...</thought></line>
 <line speaker="???">Ah! Welcome! Bee avenue!</line>
 <line speaker="Phoenix"><thought>Wow. What a cute voice.</thought></line>
@@ -779,7 +774,6 @@
 <line speaker="Maya">What!? But you can't! Come on, Nick! It's not every day I get to be a waitress! I want to try carrying plates and working the cash register!</line>
 <line speaker="Phoenix">How about cleaning the toilets? That should keep you busy.</line>
 <line speaker="Maya">Yeah, right! Maybe later.</line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Maya">Oh! A fine choice, sir.</line>
 <line speaker="Phoenix">No. I, um...</line>
 <line speaker="Maya">KITCHEN! A LUNCH SPECIAL, PLEASE! WITH ALL THE EXTRAS: DRINK, SIDE SALAD, DESSERT, AND GIFT!</line>
@@ -852,7 +846,6 @@
 <line speaker="Maya">Mmm. That smells good. Something's bubbling away nicely in that pot. It must be the lobster and abalone fricassée with balsamic vinaigrette.</line>
 <line speaker="Phoenix">Isn't that what I just ate for lunch?</line>
 <line speaker="Maya">Maybe... What you ate is the only French dish I know the name of.</line>
-<line speaker="After examining oils at Trés Bien - Kitchen">January 6</line>
 <line speaker="Gumshoe">Hey, you're just in time!</line>
 <line speaker="Phoenix">What is it, Detective Gumshoe?</line>
 <line speaker="Gumshoe">The lab got back to me about that newspaper you gave me.</line>
@@ -902,7 +895,6 @@
 <line speaker="Phoenix"><thought>What was the "um" in there for!?</thought> Is there really that much money tied up in this case?</line>
 <line speaker="Gumshoe">I can't give you an answer on that, pal. Not without the case file in front of me. But I'll tell you this... That Armstrong guy would've done anything for cash. He was desperate, you know?</line>
 <line speaker="Phoenix">No, I don't. But I think I sort of get the picture.</line>
-<line speaker="After examining table at Trés Bien - Kitchen">January 6</line>
 <line speaker="Phoenix">Hmm, the old guy's not here anymore. <thought>Drat. And I still have some unanswered questions for him.</thought></line>
 <line speaker="Phoenix">A scooter, huh? Who'd leave it right in the middle of the park like this? The wheel guard and the light are busted... I guess it must have been in an accident. It's totally wrecked.</line>
 <line speaker="???">Gwoaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaar! Hey! Whad'youse think youse doin' wit my bike!?</line>
@@ -936,12 +928,12 @@
 <line speaker="Phoenix">It's just if you dislike it so much, why would you keep going there?</line>
 <line speaker="Old Man">...</line>
 <line speaker="Phoenix">Sir?</line>
-<line speaker="Old Man">There you are, you filthy pigeons! You want food? Ha-ha! <cutIn>Take that!</cutIn></line>
+<line speaker="Old Man">There you are, you filthy pigeons! You want food? Ha-ha! <cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix"><thought>I knew it... This old guy has got something to hide. But what could it be?</thought></line>
 <line speaker="Phoenix">Why are you a regular at a restaurant that you clearly hate, sir?</line>
 <line speaker="Old Man">Take that, pigeons! See how you like these seeds!</line>
 <line speaker="Phoenix"><thought>It's no good. I'm gonna have to break his Psyche-Lock. I just can't figure out what he would be hiding. I mean, I'm only asking him why he goes to a particular restaurant.</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It's time you told me the truth. Why are you a regular at a restaurant that you dislike so much?</line>
 <line speaker="Old Man">Isn't it obvious!? People only have one reason to go to restaurants. To eat!</line>
 <line speaker="Phoenix">To eat? Is that the whole truth?</line>
@@ -949,8 +941,8 @@
 <line speaker="Phoenix">I don't think you go to that restaurant for the food at all.</line>
 <line speaker="Old Man">You insolent brat! How dare you accuse me! What proof have you got!?</line>
 <line speaker="Phoenix">I can tell that not you nor anyone else in the world would go to that place for its food.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well?</line>
 <line speaker="Old Man">Take this!</line>
 <line speaker="Phoenix">Argh!</line>
@@ -969,8 +961,8 @@
 <line speaker="Phoenix">Unfortunately, that's a lie.</line>
 <line speaker="Old Man">What!?</line>
 <line speaker="Phoenix">You don't have money to burn. You're flat broke!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Old Man">Disrespectful youth!</line>
 <line speaker="Phoenix">Uh?</line>
 <line speaker="Old Man">Take this! The finest seeds money can buy! Ha-ha!</line>
@@ -993,8 +985,8 @@
 <line speaker="Phoenix">Newspapers?</line>
 <line speaker="Old Man">Exactly. They don't want me hanging around at home, so I go there.</line>
 <line speaker="Phoenix">I'm sorry, sir... But there are no free papers to read at Trés Bien!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well?</line>
 <line speaker="Old Man">You like seeds, do you, boy?</line>
 <line speaker="Phoenix">Sorry?</line>
@@ -1012,8 +1004,8 @@
 <line speaker="Phoenix">Tell me, why are you so determined to hide the truth?</line>
 <line speaker="Old Man">I-I'm not hiding anything!</line>
 <line speaker="Phoenix"><thought>I'm going to have to put this guy out of his misery.</thought> Listen... The real reason why you go so much to Trés Bien is...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well?</line>
 <line speaker="Old Man">Ah ha ha! You're wrong, you're wrong!</line>
 <line speaker="Phoenix">Uh-oh. He's gone silly.</line>
@@ -1134,7 +1126,6 @@
 <line speaker="Gumshoe">Gum, huh? This is gonna be a great year for this ol' Gumshoe then, right?</line>
 <line speaker="Maya">Look at that. He perked up in no time!</line>
 <line speaker="Phoenix">Maya... Don't mess with him like that.</line>
-<line speaker="After clearing "Armstrong's secret" Talk option at Police Station - Criminal Affairs Dept., and clearing "Armstrong's record" Talk option at Vitamin Square">January 6Trés Bien</line>
 <line speaker="Maya">I guess it's about time to wrap up today's investigation.</line>
 <line speaker="Phoenix">Had enough of being a waitress?</line>
 <line speaker="Maya">Yeah. Plus, no one came to the restaurant...</line>
@@ -1176,7 +1167,7 @@
 <line speaker="Phoenix">Was he here at the time of the incident?</line>
 <line speaker="Armstrong">Oui. 'E was 'ere. I am sure of it. When la incident 'appened, z'e old man was 'ere.</line>
 <line speaker="Maya">...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Armstrong">Wh-What is 'appening? I do not like zis 'orrible feeling.</line>
 <line speaker="Phoenix">I have to know the truth. What happened that day?</line>
 <line speaker="Armstrong">... Alors, alors! I will confess everything! Just don't 'urt me!</line>
@@ -1193,8 +1184,8 @@
 <line speaker="Phoenix">You've been trying to hide this information about the lottery ticket from me. And I want to know the reason why!</line>
 <line speaker="Armstrong">Non, monsieur! You doubt me? But I 'ave confessed to you everything I know!</line>
 <line speaker="Phoenix">Mr. Armstrong. The half a million dollar lottery ticket... I think I know who took it. I think the winning ticket was stolen by this person.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well? How about it?</line>
 <line speaker="Armstrong">Ça va?</line>
 <line speaker="Phoenix">Excuse me?</line>
@@ -1209,8 +1200,8 @@
 <line speaker="Phoenix"><thought>Wow! That is one piercing scream, even for a man like him...</thought></line>
 <line speaker="Armstrong">Mais pourquoi moi!? Why!? You 'ave no evidence! I am not Mask☆DeMasque! I'm not z'e kind of person who steals z'e property of others.</line>
 <line speaker="Phoenix">Sorry to disappoint you, Mr. Armstrong, but I have evidence to the contrary. I present to you, proof that you have stolen from others in the past!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Armstrong">Oui. Per'aps duck would be nice. A terrine, maybe?</line>
 <line speaker="Phoenix">Sorry?</line>
 <line speaker="Armstrong">I was just thinking about my lunch menu. Terrine de canard. What do you think?</line>
@@ -1224,8 +1215,8 @@
 <line speaker="Armstrong">Mon dieu! Le mensonge! You are z'e liar!</line>
 <line speaker="Phoenix">You deny it?</line>
 <line speaker="Armstrong">Do not make la false accusations, s'il vous plaît! So do you 'ave any proof? I want to see la incontestable proof that I 'ave ever stolen from one of my customers!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Armstrong">♪Im~bécile, im~bécile, U ar an im~bécile...♪</line>
 <line speaker="Phoenix">Wh-What are you singing?</line>
 <line speaker="Armstrong">Just one of my favorite chansons. It is called, "Imbécile". It is French. Come, monsieur. Sing together w'iz me. ♪Im~bécile, im~bécile, U ar an im~bécile...♪</line>
@@ -1241,8 +1232,8 @@
 <line speaker="Phoenix">Really now?</line>
 <line speaker="Armstrong">Oh, monsieur. What is it?</line>
 <line speaker="Phoenix">Isn't it true that you're in some pretty serious trouble? And that you are in desperate need of a large amount of cash?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Mr. Armstrong!?</line>
 <line speaker="Armstrong">Mais, monsieur. It is not I who is in trouble. Is it you, non?</line>
 <line speaker="Phoenix">Huh?</line>

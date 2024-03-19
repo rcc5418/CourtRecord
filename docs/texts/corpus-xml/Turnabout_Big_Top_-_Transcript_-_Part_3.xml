@@ -779,15 +779,15 @@
 <line speaker="Moe">I always told Russell "If that's what you think, then call him Lyin' the Lion!" I's a great name, don't you think? Imagine if he could talk... "Im Lyin'!" Aha! Aha!</line>
 <line speaker="Maya">Lyin'...</line>
 <line speaker="Moe">But that's when Russell said, "Don't lie to yourself. That name is awful."</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Moe, please tell us what happened six months ago. What in the world went on at this circus?</line>
 <line speaker="Moe">OK OK... There's no need to look so scary when you ask me. Hey! Look over there! Some juicy burgers! Let's eat instead!!</line>
 <line speaker="Phoenix">Unfortunately, I'm more of a grilled chicken sandwich man myself.</line>
 <line speaker="Moe">Uhhh...</line>
 <line speaker="Phoenix">Actually... I've kinda got an idea of what happened back then.</line>
 <line speaker="Phoenix">Moe, you said something about an accident? This wouldn't happen to be the cause of that accident, would it?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">What about this!?</line>
 <line speaker="Moe">Look tasty!!</line>
 <line speaker="Phoenix">W-What!?</line>
@@ -806,8 +806,8 @@
 <line speaker="Phoenix">You promised?</line>
 <line speaker="Moe">He's involved in this too.</line>
 <line speaker="Phoenix"><thought>He's "involved" huh? Moe must be talking about...</thought> Moe. Is this the person that you promised you wouldn't say anything?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Moe">Oooowoooahhhh!!</line>
 <line speaker="Phoenix">What's the matter?</line>
 <line speaker="Moe">There's a lot of spice on this Cajun burger!</line>
@@ -863,14 +863,14 @@
 <line speaker="Maya">Well, he did say, "I'll be back." Wait... or was that someone else?</line>
 <line speaker="Phoenix"><thought>We're back because Acro's hiding why his legs were injured! He was hurt in the accident six months ago! It would seem that he knows that we know...</thought></line>
 <line speaker="Acro">Well well... It seems you've got things you want to talk about, so fire away.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">I have to ask you, how were you injured?</line>
 <line speaker="Acro">I'm sorry, I thought we talked about this? It was an accident that happened during practice.</line>
 <line speaker="Phoenix">An accident during practice?</line>
 <line speaker="Acro">Yes. Unfortunately acrobats are prone to all sorts of injuries.</line>
 <line speaker="Phoenix"><thought>He's lying... If that were the real cause, he'd have no reason to keep it a secret.</thought> Acro, are you really telling me that a practice accident was the cause of your injury?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Alright Acro... Just tell me the truth.</line>
 <line speaker="Acro">Do you mind if I ask you a question first?</line>
 <line speaker="Phoenix">What do you want to know?</line>
@@ -888,8 +888,8 @@
 <line speaker="Phoenix">I'm not sure if "attack" is the best word to be using. You must have... battled the lion.</line>
 <line speaker="Acro">You seem to enjoy telling jokes... Why would I decide to battle a lion?</line>
 <line speaker="Phoenix">Because you had to fight it. You had to fight it to save someone.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">So how about it, Acro?</line>
 <line speaker="Acro">You mind if I ask one question first?</line>
 <line speaker="Phoenix">Go ahead. What do you want to know?</line>
@@ -910,8 +910,8 @@
 <line speaker="Phoenix"><thought>I still haven't broken Acro's Psyche-Lock... He must have an incredibly deep seeded secret...</thought> "It wasn't anyone's fault..." Do you care to explain more?</line>
 <line speaker="Acro">...</line>
 <line speaker="Phoenix">Acro, I know you are still hiding something from me... Maybe something you don't seem to like much is the reason you're being evasive.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">What about this, Acro?</line>
 <line speaker="Acro">Are you aware how strange you seem sometimes? You seem to think you know what will happen before you do... But you're wrong.</line>
 <line speaker="Phoenix">What?</line>
@@ -929,8 +929,8 @@
 <line speaker="Phoenix">But you still hate Regina! I've got proof of it!</line>
 <line speaker="Acro">What!? What are you talking about!?</line>
 <line speaker="Phoenix"><thought>Doh! Maybe I overdid it again... But if I can hand something over to Acro, maybe it'll...</thought> Here's proof that you had it out for Regina all along!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Acro">...</line>
 <line speaker="Phoenix">Acro?</line>
 <line speaker="Acro">You know, I think I hate you more than I ever hated her.</line>

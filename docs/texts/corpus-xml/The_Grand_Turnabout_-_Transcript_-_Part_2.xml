@@ -29,7 +29,7 @@
 <line speaker="Kay">Ms. Courtney! If you don't say anything, you'll be more suspicious!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Hah! She must have a reason to clam up! I think you're somehow involved in the president's assassination.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The president's body was only discovered today. That still leaves a blank of one whole day after Judge Courtney met with him unaccounted for!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Don't be so impatient. We're gonna fill in that blank right here, right now. The evening on that blank day in question is what's important... What happened here last night? So, why don't you tell us? John Marsh!</line>
@@ -68,7 +68,7 @@
 <line speaker="Kay">But John said, "there wasn't anything out of the ordinary", right?</line>
 <line speaker="Edgeworth"><thought>Is that really the truth?</thought></line>
 <line speaker="John">I wasn't feeling too great during yesterday's shoot, so I made a few bloopers.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">John. You said you didn't feel well. Could you tell me more concretely what was wrong?</line>
 <line speaker="John">That doesn't matter! I just wasn't feeling well, alright!?</line>
 <line speaker="Kay">You weren't feeling well... Maybe you drank too much milk?</line>
@@ -77,7 +77,7 @@
 <line speaker="Kay">When I was young, I was told that chewing milk makes it easier on your stomach, y'know?</line>
 <line speaker="John">Th-This conversation is over! Anyways, I made a few bloopers.</line>
 <line speaker="John">They're reshooting the scene today, so...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So they planned to reshoot the scene today. And you were practicing for that last night.</line>
 <line speaker="John">...My mistakes caused a lot of trouble for the people around me. I'm a pro, so practicing that much more is natural.</line>
 <line speaker="Edgeworth"><thought>Hmm... He certainly does have an admirable sense of responsibility.</thought></line>
@@ -87,7 +87,7 @@
 <line speaker="Edgeworth"><thought>If only he was a little more cooperative, I'd have no complaints.</thought></line>
 <line speaker="John">Hmph... Anyway, that's what happened.</line>
 <line speaker="John">Well, I decided to rehearse a little on my own. That's all.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">John. About your testimony just now...</line>
 <line speaker="Courtney">John Marsh! Don't I always tell you!? If you're going to practice by yourself, you have to let me know beforehand!</line>
 <line speaker="John">I-I-I know!</line>
@@ -97,24 +97,24 @@
 <line speaker="Kay">I bet putting in an honest effort like that will make someone even more talented. You'll go from a little thief to a Middle Thief, and then someday you'll become a Great Thief! I'll be doing my best, so you do your best too! OK, John?</line>
 <line speaker="Edgeworth">........Ahem. Now then, if I may? John. Do you often rehearse in that way? <thought>At last... At long last, I finally got to ask my question...!</thought></line>
 <line speaker="John">I do it all the time. There wasn't anything out of the ordinary.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">There are no mistakes in that testimony, correct?</line>
 <line speaker="John">O-Of course there's no mistakes! It was just a normal, peaceful night! Nothing out of the ordinary happened at all!</line>
 <line speaker="Kay">A... A peaceful night!? How can you say that when an incident like this has occurred!?</line>
 <line speaker="Edgeworth">Kay, he is still a child. Please don't get seriously angry.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There wasn't anything out of the ordinary? That's a lie, isn't it? A monster's head fell from the roof of that building. Surely you must have known about that?</line>
 <line speaker="John">...! I don't know anything about it.</line>
 <line speaker="Edgeworth">Is that true?</line>
 <line speaker="John">I told you, I just practiced a bit and then I went back. I don't know anything about Moozilla's head falling or anything like that! Or do you have evidence to show that I know something?</line>
 <line speaker="Edgeworth"><thought>...There certainly isn't any evidence of that. It's also possible that it fell after John had already gone back...</thought></line>
 <line speaker="John">If there's no evidence, then like I said, we're done talking!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">We're not done talking yet!</line>
 <line speaker="John">What now?</line>
 <line speaker="Edgeworth">The falling monster's head wasn't the only unusual thing that happened last night. And this is something you should be well aware of. What happened last night, aside from Moozilla's head falling?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">John. Take a look at this.</line>
 <line speaker="John">And what's that supposed to be?</line>
 <line speaker="Edgeworth">Don't you understand? This shows what happened last night.</line>
@@ -155,7 +155,7 @@
 <line speaker="Lotta">Yer right! The smell of a scoop stinks to high heaven!</line>
 <line speaker="John">...Shut up. We're done talking!</line>
 <line speaker="Lang">Not so fast!!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There wasn't anything out of the ordinary? That's a lie, isn't it? We have evidence right here.</line>
 <line speaker="John">Ah! Could that be...!?</line>
 <line speaker="Edgeworth">That's right. It's the video you recorded of your performance.</line>
@@ -185,12 +185,12 @@
 <line speaker="Nicole">He's suspicious, Chief! This kid's really suspicious!</line>
 <line speaker="Lotta">Yer right! The smell of a scoop stinks to high heaven!</line>
 <line speaker="John">...Shut up. We're done talking!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">We're not done here yet!</line>
 <line speaker="John">What now?</line>
 <line speaker="Edgeworth">The monster's footprints weren't the only unusual things that happened last night. Besides the monster's footprints, what other unusual thing happened last night?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This shows what happened here yesterday.</line>
 <line speaker="John">...And just what exactly does it show?</line>
 <line speaker="Edgeworth">You don't understand, do you? You are still a child, after all.</line>
@@ -231,7 +231,7 @@
 <line speaker="Courtney">I... I did no such thing!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Say what you want, but you're the only one who could've done it!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That should have already been proven impossible. The film lot was locked at the time! Judge Courtney could not have entered this place!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">...And what if there was an accomplice?</line>
@@ -255,7 +255,7 @@
 <line speaker="Edgeworth">It's true, Judge Courtney's actions are a mystery... ...however, we still don't know whether or not that ties in with a motive for murder.</line>
 <line speaker="Lang">Yeah, that's right. Their motive for murder can wait. For now, let's talk about the situation surrounding the crime. ...And the fact that these two are the only ones who could've done it!</line>
 <line speaker="Lang">When the president was pushed off the roof, John was waiting at the film lot.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang. Don't tell me you're saying John was an accomplice?</line>
 <line speaker="Kay">John still looks like a grade school kid, he's even got a kiddy backpack to boot! How could he be an accomplice...? There's just no way!</line>
 <line speaker="Penny">Like I said, John's already in middle school, and the backpack is a part of his costume...</line>
@@ -266,7 +266,7 @@
 <line speaker="Edgeworth">Hmph. Of course, that was never my intention. I shall present suitable evidence in due course.</line>
 <line speaker="Lang">Oh? I'm looking forward to it. My logic's just getting started.</line>
 <line speaker="Lang">If John was an accomplice, the problem with the locks would be resolved.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How would that... resolve the problem!?</line>
 <line speaker="Lang">I figured you'd ask that, Mr. Prosecutor. But y'know, it's actually quite simple. Listen up... First, that woman pushes the president off the roof.</line>
 <line speaker="Kay">Hmm... she pushes him off.</line>
@@ -277,12 +277,12 @@
 <line speaker="Edgeworth"><thought>Hmm... Regarding the lock, that certainly is a plausible explanation...</thought> Agent Lang. Thank you for your clear explanation. Please, continue with what you were saying before.</line>
 <line speaker="Lang">Hmph. If you're gonna give up, you better do it now.</line>
 <line speaker="Lang">The two of them then hid the president's body.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Supposing those two were accomplices... Why would they have needed to leave the body hanging there for an entire day!?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Why don't you give it a rest, and take a good hard look at reality. Thanks to their trickery, our investigation has been confused up until now. Doesn't that about answer your question!? ...Got it? Those two hid the body.</line>
 <line speaker="Lang">Inside that monster costume over there...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">In the video, we cannot see the inside of the costume. So can you really say for certain that the body was placed inside?</line>
 <line speaker="Lang">...Yeah, I'll give you that much. In that case, why don't we try examining it? The inside of that costume! There might be some traces left inside.</line>
 <line speaker="Edgeworth">Mr. Powers, may we examine the inside of the costume?</line>
@@ -295,12 +295,12 @@
 <line speaker="Lang">...Are you satisfied now?</line>
 <line speaker="Add statement">"There's dirt inside the costume. It must have gotten there when the body was hidden inside."</line>
 <line speaker="Lang">There's dirt inside the costume. It must have gotten there when the body was hidden inside.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, dirt got into the costume when the body was hidden inside. Wouldn't that mean... ...that the dirt was transferred from the body?</line>
 <line speaker="Lang">Hah! Isn't that obvious? How else would you say it got there?</line>
 <line speaker="Kay">...There's dirt stuck everywhere inside the costume. It looks particularly bad around the chest area.</line>
 <line speaker="Edgeworth"><thought>Dirt around the chest...? We cannot overlook this fact.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kay">Mr. Lang's logic does seem to make sense...</line>
 <line speaker="Edgeworth">Indeed, if those two were accomplices, the crime certainly would have been possible. So it would be useless to argue that point.</line>
 <line speaker="Kay">In that case, what should we do?</line>
@@ -318,8 +318,8 @@
 <line speaker="Edgeworth"><thought>Gray... fragments? There does seem to be something other than normal dirt mixed into it...</thought></line>
 <line speaker="Kay">Something must've gotten stuck to it, and lots of it I might add. Hmm...</line>
 <line speaker="Edgeworth"><thought>Something got stuck to it? This may merit a closer look. Where did we see dirt that looks like what's stuck on the inside of the costume...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is what you're thinking of, isn't it, Kay?</line>
 <line speaker="Kay">Oh! Mr. Edgeworth, you sure are sharp!</line>
 <line speaker="Edgeworth">Hmph... Naturally.</line>
@@ -368,12 +368,12 @@
 <line speaker="Kay">Ah! That's when John came to practice!</line>
 <line speaker="Edgeworth">Exactly. Blaise panicked, and had no choice but to hide himself in the Moozilla costume nearby.</line>
 <line speaker="Lang">Grr... To think you would deduce so much from just a pair of dirt-stained gloves... However! All of this is merely a possibility! There's still no proof that he was the one who was hiding inside that costume! For all we know, he might've left the scene once he finished digging!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">On the contrary. Such proof does exist, and can be seen... in the video. When this video was recorded, Blaise was definitely inside the film lot.</line>
 <line speaker="Lang">Whaaaaat!?</line>
 <line speaker="Edgeworth"><thought>Though I can't blame Agent Lang for not noticing... ...the difference between the current flim lot... ...and the one in John's video. Along with the state of Blaise's garage... ...it's all too clear that Blaise was still here!</thought> What proves that Blaise was still at the film lot when this video was recorded?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This proves that Blaise was still at the film lot!</line>
 <line speaker="Kay">Umm... How exactly does it prove that?</line>
 <line speaker="Lang">Yeah, I'd like a better explanation as well!</line>
@@ -403,7 +403,7 @@
 <line speaker="Kay">If we only knew just what the "monster" really was, I think those two would quiet down. Mr. Edgeworth, isn't there anything you can do?</line>
 <line speaker="Edgeworth"><thought>The monster's true identity...?</thought> We don't have much choice... Let's see what we can do.</line>
 <line speaker="Lotta">Isn't there somethin' y'all ain't tellin' us about the monster!? Nicole! Ask 'em! Ask 'em right now!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">....Please settle down. Regarding the true identity of that "monster", I already know what it is.</line>
 <line speaker="Lotta">Wha'd ya say!?</line>
 <line speaker="Edgeworth">That's right. The video John recorded provided the hint that I needed...</line>
@@ -411,8 +411,8 @@
 <line speaker="Edgeworth"><thought>Ms. Nichols saw Gourdy... ...when she went to check up on John's practice. At that times, she mistook "something" for Gourdy.</thought> The "monster" can be seen in this photograph.</line>
 <line speaker="Lotta">What!? Ain't that just some plain old souvenir photo!? Y'all don't really think ya can pull the wool over the eyes of a pro like me, do ya?</line>
 <line speaker="Edgeworth"><thought>What did Ms. Nichols really see, that she mistook for Gourdy?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The "Gourdy" that Ms. Nichols saw... was actually this!</line>
 <line speaker="Lotta">There ain't no foolin' a real pro! Yer sayin' this is Gourdy!? It don't look nothin' like it!</line>
 <line speaker="Edgeworth">Argh! <thought>I had my suspicions...</thought></line>
@@ -422,7 +422,7 @@
 <line speaker="Lotta">Wh-What!?</line>
 <line speaker="Edgeworth">The video John recorded was shot from fairly high up. A shot from this position would be impossible without a camera crane.</line>
 <line speaker="Nicole">But...! There ain't no way Ms. Nichols would mistake a camera crane for Gourdy!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I wonder about that. ...Ms. Nichols.</line>
 <line speaker="Penny">Y-Yes!</line>
 <line speaker="Edgeworth">Earlier, you said the prescription for your glasses didn't match your eyesight anymore, correct?</line>
@@ -434,8 +434,8 @@
 <line speaker="Edgeworth">That is certainly true. At least, in the case of this photo... However, last night it did have skin.</line>
 <line speaker="Lotta">Y'all just doin' whatever ya can to get in the way of our big scoop, ain't ya!?</line>
 <line speaker="Edgeworth"><thought>That was not my intention... ...but since I've come this far, it's time to put an end to your nonsense.</thought> Gourdy's skin is right before our very eyes. This is the "skin" of Gourdy that Ms. Nichols saw!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the true identity of Gourdy's skin!</line>
 <line speaker="Lotta">And just how could somethin' like that be taken for skin, ya heinous prosecutor!? Yer just spoutin' nonsense, tryin' to take our whole scoop for yerself! Yer pure evil! Yer a demon prosecutor!</line>
 <line speaker="Edgeworth">M... Mmph. <thought>That is decidedly not what I'm trying to do.</thought> On its own, the crane bears no resemblance to Gourdy at all.</line>
@@ -476,7 +476,7 @@
 <line speaker="Lang">That's right. You killed him, didn't you? John Marsh!</line>
 <line speaker="John">........</line>
 <line speaker="Lang">That pup is hiding something. He was at the scene where the body was discovered last night. He also saw the "footprints". And despite that, he still claims to know absolutely nothing about the incident? Isn't that a bit too convenient?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">These footprint-shaped holes have not been proven to be related to the case! Just because he saw the holes, doesn't necessarily mean that he's involved in the incident!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">You sure about that? Take a look at the pup's face.</line>
@@ -552,11 +552,11 @@
 <line speaker="Lang">You expect me to believe that!? The president wouldn't have just come to a place like this without a reason, you know!</line>
 <line speaker="Edgeworth"><thought>Indeed, the president's reason for coming here is still a huge mystery... Two nights ago, he met with Judge Courtney on the roof of the Grand Tower... ...and last night, he was here at the film lot. Did he meet with John...? I'll have to listen to John's testimony very carefully...!</thought></line>
 <line speaker="John">While I was setting up the equipment on the roof, I used the heater...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">John. You are still young. I know it can get a little cold in early spring, but you shouldn't have to resort to a heater...</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">It is precisely because he is young that he must make sure to take good care of himself!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">However, while it can get a bit chilly during this time of year, I wouldn't necessarily say...</line>
 <line speaker="John">Hold it, old man. Is this really the right time to be having this argument?</line>
 <line speaker="Edgeworth">G..... Gah! <thought>He's completely right.</thought></line>
@@ -564,14 +564,14 @@
 <line speaker="Edgeworth"><thought>Let's not forget that he got the better of you too, Your Honor...</thought></line>
 <line speaker="John">I-I know, Mom... So, umm... where was I?</line>
 <line speaker="John">After that, I went down to practice, but I forgot to turn it off.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You forgot to turn off the heater? You didn't check it before leaving the roof?</line>
 <line speaker="John">I meant to turn it off, but I was too focused on practicing, so... And come on, everyone forgets stuff like that sometimes!</line>
 <line speaker="Kay">Yeah, I gotcha! I forget small things like that all the time too! Like sometimes, I'll forget to turn off the AC or the lights in Mr. Edgeworth's office... ...or I'll jump off the ladder for his bookshelves, or leave prank calls on his answering machine. But forgetting to turn off the heater is really dangerous, so you've gotta be careful!</line>
 <line speaker="Edgeworth"><thought>Some of those things had nothing to do with forgetfulness...</thought> John. Please continue.</line>
 <line speaker="John">Looks like you've got it rough too, old man. Well, back to my story...</line>
 <line speaker="John">Then my mom called me, so I left the film lot.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It was late at night at the film lot... and not a single member of the film crew was around. So then, why did you have to leave the premises in order to answer the phone call?</line>
 <line speaker="John">I totally forgot about the phone call thing... so I kinda panicked. If I didn't answer it fast, I would have been busted for leaving the hotel without permission.</line>
 <line speaker="Edgeworth">In that case, why didn't you just answer it here?</line>
@@ -579,7 +579,7 @@
 <line speaker="Edgeworth"><thought>So he was embarrassed that the conversation with his mother would be recorded.</thought></line>
 <line speaker="John">Anyways, I stopped practicing for a bit and rushed out of the film lot.</line>
 <line speaker="John">When I came back to the lot, after the phone call was over...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">In that phone call, you lied and said you were at the hotel, correct?</line>
 <line speaker="Kay">Why didn't you tell your mom that you were rehearsing?</line>
 <line speaker="John">If I told her that, she would've called the hotel and made them send me a taxi or something.</line>
@@ -590,7 +590,7 @@
 <line speaker="Edgeworth">...Indeed. Now then, John. Please tell us about what happened after the phone call.</line>
 <line speaker="John">Huh? O-Oh yeah. Of course. When the call was finished and I came back here...</line>
 <line speaker="John">Moozilla's head that was on the roof had fallen...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Was there any indication that the head was about to fall?</line>
 <line speaker="John">...I-I don't know. I was focused on my rehearsal.</line>
 <line speaker="Edgeworth">So you forgot to turn off the heater, which led to a fire on the roof. I would think you should have at least heard something.</line>
@@ -600,7 +600,7 @@
 <line speaker="Edgeworth">And yet, you noticed your mother's incoming call?</line>
 <line speaker="John">I had my phone on vibrate, old man. That's how I noticed. Anyways, the head had fallen...</line>
 <line speaker="John">And right next to it was the president, lying dead on the ground...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What was the state of the body?</line>
 <line speaker="John">...I didn't get a good look. 'Cause it was dark. ........</line>
 <line speaker="Edgeworth"><thought>Hm? He's suddenly become as quiet as a mouse.</thought></line>
@@ -613,14 +613,14 @@
 <line speaker="John">But... But he...! He was already dead...</line>
 <line speaker="Edgeworth">Is that so? You seem quite certain that the president was already dead... Now, is there a reason for that, I wonder?</line>
 <line speaker="John">The guy was collapsed on the ground, and right next to him was the fallen monster's head. I'm not stupid. It wasn't hard to imagine what happened...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You can imagine whatever you want, but there was no way for you to know that he was dead! You actually checked to make sure the president was dead, didn't you?</line>
 <line speaker="John">Urk.....! Y-Yeah... that's right! I was scared... but I got up close to the body and checked to see if he was breathing.</line>
 <line speaker="Edgeworth"><thought>I thought as much... However, why would he hide that? There must be a reason...</thought> ...Please tell me the state of the body at that time.</line>
 <line speaker="John">A-At first, I didn't know he was dead... I would've realized sooner if there had been any blood... ...but there wasn't a single drop, and his clothes were completely spotless. Either way, he wasn't breathing. That's how I knew he was already dead...</line>
 <line speaker="Edgeworth">...Would you please append those statements to your testimony?</line>
 <line speaker="Add statements">"I didn't know right away that he was dead. There was no blood, and his clothes were spotless." and "But he wasn't breathing at all when I checked, so I knew he was already dead."</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, you knew immediately that it was the president?</line>
 <line speaker="John">Not right away. It was dark, so I had to get a bit closer. But... I knew his face because we worked together briefly, after all.</line>
 <line speaker="Kay">Y-You worked with the president!? Wow, John...! When did you do that!?</line>
@@ -628,7 +628,7 @@
 <line speaker="Kay">Ah! That's right! Of course... N-Now I remember!</line>
 <line speaker="Edgeworth">Good for you. So, John. You confirmed he was dead?</line>
 <line speaker="John">I didn't know right away that he was dead. There was no blood, and his clothes were spotless.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you were unable to tell if he was dead because of the lack of stains on his clothes... Are you certain of that?</line>
 <line speaker="John">Of course I am. You guys saw the body too, right? So what's the big ideal!?</line>
 <line speaker="Edgeworth">You said that the area was dark. And yet, you were still able to make that observation?</line>
@@ -637,9 +637,9 @@
 <line speaker="Kay">Are clean clothes that important to you, Mr. Edgeworth? Mine are freshly washed though!</line>
 <line speaker="Edgeworth">Next... could you tell me how you determined that the president was dead?</line>
 <line speaker="John">Well, there wasn't anything to let me know right away that he was dead, you see...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="John">But he wasn't breathing at all when I checked, so I knew he was already dead.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How did you check if he had stopped breathing?</line>
 <line speaker="John">They taught us how at school. You get right up close to the person's nose... ...and check to see if you can feel their breath. I never thought I'd have to do it for real, though...</line>
 <line speaker="Kay">That was really brave of you, to be able to do something like that. John, you sure are amazing for an elementary school kid.</line>
@@ -672,7 +672,7 @@
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Hey, hey! You're keeping way too many secrets! You won't tell us why you met with the president OR the reason you brought him flowers!?</line>
 <line speaker="Courtney">.....My apologies. However, I did give him the bouquet. That much is true.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But when the president's body was discovered, we didn't find any flowers.</line>
 <line speaker="Courtney">I... I honestly don't know how that could be...</line>
 <line speaker="Lang">Hah! Hey, Ms. Judge! All your answers have been too vague... You "can't say" this, and you "don't know" that! Do you accept flimsy testimony like that in your trials!?</line>
@@ -701,7 +701,7 @@
 <line speaker="Lang">Don't tell me you've forgotten already, Missy? This pup confessed that he caused the monster's head to fall last night.</line>
 <line speaker="Kay">Oooh... That's true, but...</line>
 <line speaker="Lang">He's currently the only suspect in the president's murder!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>Hmm. It is true that there are many reasons to suspect John...</thought> ...However! There is someone other than John who is far more suspicious!</line>
 <line speaker="Lang">What'd you say?</line>
 <line speaker="Edgeworth">John himself was kidnapped by that very person not too long ago.</line>
@@ -718,7 +718,7 @@
 <line speaker="Lang">Hah! It's not like you to be so vague, Mr. Prosecutor!</line>
 <line speaker="Edgeworth"><thought>...Indeed, I still don't have any evidence that ties the mastermind to this murder... Is there someone else? Is there anyone besides John who had the opportunity to murder the president...? That's it...!</thought></line>
 <line speaker="Lang">...As I thought. In the end, that pup is our only suspect.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Isn't there one more suspect, Agent Lang...?</line>
 <line speaker="Lang">What's this!?</line>
 <line speaker="Edgeworth">Didn't we prove it earlier? Last night, there was one more person here!</line>
@@ -739,17 +739,17 @@
 <line speaker="Edgeworth">Evidence... you say?</line>
 <line speaker="Lang">If you don't have any evidence, then there's no point in talking about it.</line>
 <line speaker="Edgeworth"><thought>Is there any evidence that connects this case with what happened 12 years ago?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This letter was sent to Jill Crane, who was murdered two days ago. Although the sender is currently unknown... Here, it is written as follows: "Please get revenge for 12 years ago".</line>
 <line speaker="Lang">What!? 12 years ago!?</line>
 <line speaker="Edgeworth">That's not all. Take a look at this as well. This is a report written by Patricia Roland to Blaise Debeste regarding Knightley. ...Please read this part here.</line>
 <line speaker="Lang">"That thing he laid to rest near the flowerbed 12 years ago"...?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is a report written by Patricia Roland to Blaise Debeste regarding Knightley. ...Please read this part here.</line>
 <line speaker="Lang">"That thing he laid to rest near the flowerbed 12 years ago"...?</line>
 <line speaker="Edgeworth">That's not all. Take a look at this as well. This letter was sent to Jill Crane, who was murdered two days ago. Although the sender is currently unknown... Here, it is written as follows: "Please get revenge for 12 years ago".</line>
 <line speaker="Lang">What!? 12 years ago!?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Agent Lang. Could you take a look at this?</line>
 <line speaker="Lang">Mr. Prosecutor, get that thing out of my face! Lang Zi says: "The sun sets fast in Zheng Fa..." We don't have time to waste looking at your useless junk!</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>So this doesn't show the connection...</thought></line>
@@ -858,8 +858,8 @@
 <line speaker="Edgeworth">The exposed areas of dirt match the areas where the flowerbeds were!</line>
 <line speaker="Kay">So Blaise dug holes in front of where each of the three flowerbeds used to be...</line>
 <line speaker="Edgeworth">Exactly. Now, why would he do such a thing? I believe we have a piece of evidence that tells us why. Why did Blaise dig holes in the ground near the flowerbeds?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the reason why Blaise dug holes in the ground near the flowerbeds!</line>
 <line speaker="Kay">Aha! ...So, what does this tell us?</line>
 <line speaker="Edgeworth">Hmph... Isn't it obvious?</line>
@@ -1320,8 +1320,8 @@
 <line speaker="Edgeworth">All the people involved in the case are gathered in the same place.</line>
 <line speaker="Kay">Did we make a mistake here or something?</line>
 <line speaker="Edgeworth"><thought>One piece of evidence this re-creation is based on is odd. If I had to choose which piece of evidence is fake... Which piece of evidence is likely to be fake...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Kay. Take a look at this evidence.</line>
 <line speaker="Kay">Don't tell me you're gonna say this piece of evidence is fake! No matter how you look at it, I don't think that's right.</line>
 <line speaker="Edgeworth">Argh! <thought>So I was wrong...</thought></line>
@@ -1340,8 +1340,8 @@
 <line speaker="Edgeworth">The photo isn't the only piece of evidence that indicates what Mr. Cameron witnessed...</line>
 <line speaker="Kay">Ah! The testimony he left on the answering machine!</line>
 <line speaker="Edgeworth">Precisely. We should listen to the recording one more time and confirm what was said. <thought>Where else could the president and his kidnapper have been?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">They were over there!? So, what's the basis for that claim?</line>
 <line speaker="Edgeworth">Hmph... Do I really need a basis for my claims?</line>
 <line speaker="Kay">In other words, you don't know, do you?</line>
@@ -1448,8 +1448,8 @@
 <line speaker="Edgeworth">Th-That's...! <thought>What's that doing here?</thought></line>
 <line speaker="Lang">Hm? Mr. Prosecutor. Do you recognize this?</line>
 <line speaker="Edgeworth">Yes... I know one piece of evidence that's related to it. Which piece of evidence is related to what the boy left behind?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">You're saying this thing's related to that piece of evidence?</line>
 <line speaker="Edgeworth">Indeed. There is no doubt in my mind.</line>
 <line speaker="Lang">Not so fast!!</line>
@@ -1552,13 +1552,13 @@
 <line speaker="Edgeworth">...That's true. However, the answer to that riddle must lie somewhere within... Once we get past the layers upon layers of deductions, we shall surely reach it.</line>
 <line speaker="Lang">Yeah... That's right. I'd like to hear your deductions as well.</line>
 <line speaker="Lang">There's no mistake that the president went to the orphanage.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang. I'd like to verify a few things that may have seemed obvious at first glance. Are we certain that the president actually went to the orphanage?</line>
 <line speaker="Lang">OK, I get it. You're saying you want proof?</line>
 <line speaker="Kay">Everyone's always demanding proof from Mr. Edgeworth, after all.</line>
 <line speaker="Edgeworth"><thought>You didn't have to tell him that...</thought></line>
 <line speaker="Lang">The stuffed toy is proof of that. He was planning to meet with Amy Marsh.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You mean this stuffed animal? The one with the recording device.</line>
 <line speaker="Lang">That's right. Inside that toy was a recording from John's birthday mother, Amy Marsh...</line>
 <line speaker="Edgeworth">Indeed. She said that she would meet with him at midnight.</line>
@@ -1567,7 +1567,7 @@
 <line speaker="Kay">........ The truth is becoming clear, like you're peeling off the skin of a wolf!</line>
 <line speaker="Lang">C-Can you stop making those foreboding analogies...? ...Ahem. Let's get back on track.</line>
 <line speaker="Lang">However, the president was kidnapped. And Cameron just happened to witness it.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I'd also like to verify the details of this point as much as possible. Mr. Cameron witnessed the president and his kidnapper near the orphanage.</line>
 <line speaker="Kay">And Mr. Cameron was standing by the snowman near the road.</line>
 <line speaker="Lang">Then, the murderer picked up a brick, snuck up on him from behind, and... WHAM!</line>
@@ -1576,7 +1576,7 @@
 <line speaker="Kay">...That was so intense. Half the details of this case just vanished from my brain. Mr. Edgeworth. Mr. Lang. Let's carefully verify all the facts of this case!</line>
 <line speaker="Lang">Yeesh... Well, if you're gonna listen, I'll talk as much as you want.</line>
 <line speaker="Lang">If Cameron hadn't been there, it probably would've just been a kidnapping with no murder.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If he hadn't been there, you say? That's an interesting theory. Care to explain in more detail?</line>
 <line speaker="Lang">It's simple. Cameron was killed because he saw the kidnapping. The kidnapping itself was a success. If he hadn't been there, no blood would've been spilled.</line>
 <line speaker="Edgeworth"><thought>Hmm... No blood would have been spilled?</thought></line>
@@ -1585,9 +1585,9 @@
 <line speaker="Kay">Oh, was that all? Of course, that's obvious. The president was kidnapped, but... ...once the ransom money was paid, he was returned safe and sound.</line>
 <line speaker="Edgeworth"><thought>Hmm... That sounds like an obvious point, however, something about it bothers me. I may need to re-evaluate the evidence once more.</thought></line>
 <line speaker="Lang">You done explaining things to your assistant? I still have one last thing to confirm.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">Afterwards, the body was moved to the flowerbeds and a fake photo was taken.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That's also an important point. I'd like to take another good clean look at the information.</line>
 <line speaker="Lang">Yeah, I'm with you there. Let's start with what Cameron saw before he was murdered. Cameron witnessed the president and the kidnapper in front of the orphanage.</line>
 <line speaker="Edgeworth">However, the culprit wanted to conceal the connection between the incident and the orphanage.</line>
@@ -1608,8 +1608,8 @@
 <line speaker="Edgeworth">I do... It's hard to believe, however, that is what the evidence indicates... On that night, 12 years ago, there were two murders.</line>
 <line speaker="Lang">Are you saying that the other murder was covered up!? Who... just who the heck could have been killed?</line>
 <line speaker="Edgeworth"><thought>A murder that was cleverly concealed. All traces of it were erased... And the incident itself was completely deleted from the case files. However, there's one thing... One piece of evidence that still remains intact after 12 years!</thought> This piece of evidence shows that something happened that night!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Agent Lang. This is the piece of evidence that shows what happened on that night!</line>
 <line speaker="Lang">Hey, Mr. Prosecutor. Is that really it? That piece of evidence doesn't tell me anything at all!</line>
 <line speaker="Edgeworth">...Argh! <thought>Looks like this wasn't it... There should be one more eyewitness who saw what happened on that night. I should show Agent Lang the evidence that proves that.</thought></line>
@@ -1621,8 +1621,8 @@
 <line speaker="Edgeworth">Everything is drawn in this picture.</line>
 <line speaker="Lang">The drawing my old man had!</line>
 <line speaker="Edgeworth">The person drawn on the right is most likely the president. The Moozilla doll is also drawn near him. And the person standing opposite him is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Isn't this the person standing opposite him?</line>
 <line speaker="Kay">Is it really that person? They don't look very similar...</line>
 <line speaker="Edgeworth">Given that it's a child's drawing, it can't be helped if they're not too similar.</line>
@@ -1668,8 +1668,8 @@
 <line speaker="Edgeworth">President Huang possessed immense power and authority in Zheng Fa. I'm sure there were those who envied his position and made attempts on his life. Yes. Just as he was attacked a few days ago at Gourd Lake.</line>
 <line speaker="Lang">It's true, there were those who sought Huang's life from time to time. But, I can't easily believe there were two presidents. At least, not without any evidence!</line>
 <line speaker="Edgeworth"><thought>Do I have evidence that proves there were two presidents?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">If you look at this evidence, you'll see that there were two presidents.</line>
 <line speaker="Lang">Hey, Mr. Prosecutor. Unfortunately, I have no idea what you're talking about! Lang Zi says: "Evidence doesn't speak!" Evidence with no meaning won't tell us anything!</line>
 <line speaker="Edgeworth">Argh! <thought>Looks like this wasn't it.</thought></line>
@@ -1688,8 +1688,8 @@
 <line speaker="Edgeworth">Most likely the one who died.</line>
 <line speaker="Lang">Who!? Who contracted Dogen to murder Huang?</line>
 <line speaker="Edgeworth"><thought>In order to learn that, first... ...we must have a look at the evidence that we proved was false earlier. And the piece of evidence... we know to be false is...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Agent Lang. Take a look at this.</line>
 <line speaker="Lang">What about it!?</line>
 <line speaker="Edgeworth">This is the evidence that shows who planned the assassination plot against President Huang!</line>
@@ -1703,11 +1703,11 @@
 <line speaker="Lang">In other words, the body double had the real president murdered and then took his place!</line>
 <line speaker="Edgeworth">Patricia Roland and Blaise must have cooperated in that plan.</line>
 <line speaker="Lang">Not so fast!!</line>
-<line speaker="Lang"><cutIn>Hold it!</cutIn> Huang's body was never found! Just where could it have disappeared to!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Lang"><cutIn type="holdIt">Hold it!</cutIn> Huang's body was never found! Just where could it have disappeared to!?</line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The answer to that is already quite apparent...! This is where the real president's body was!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">Hey, Mr. Prosecutor. Can you put the jokes aside? I can't believe that Mr. Huang's body was in that kind of place!</line>
 <line speaker="Edgeworth">Gah! <thought>I guess it wasn't there... This is the place that the real president was killed. Furthermore, what was the person responsible doing here? If I think about that, I'm sure to know the location of the president's body!</thought></line>
 <line speaker="Lang">Hey, Mr. Prosecutor. Where did the president's body disappear to? Maybe you really don't have an answer for that?</line>
@@ -1738,8 +1738,8 @@
 <line speaker="Edgeworth">Yes, that seems likely.</line>
 <line speaker="Kay">But, there wasn't anything at the crime scene that looked like the body double's footprints!</line>
 <line speaker="Edgeworth">Heh. I've already figured out how he accomplished that. There is a piece of evidence that would've made it possible. What did the body double use to move the body without leaving any footprints?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The double likely used this to move Mr. Cameron's body.</line>
 <line speaker="Kay">Whoa! He used that to move the body? How would that actually work?</line>
 <line speaker="Edgeworth">Hmm... he... er... used trick after trick and put in a lot of effort...</line>
@@ -1810,14 +1810,14 @@
 <line speaker="Edgeworth">So, the boy in the red raincoat is the mastermind behind this case?</line>
 <line speaker="Dogen">Exactly. Isn't that right, Anubis? Yes, boy. Yes it is.</line>
 <line speaker="Dogen">Certainly, it was I who killed President Huang.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You admitted that rather easily.</line>
 <line speaker="Dogen">These days, I have long grown tired of killing. ...Keh heh heh. But in those halcyon days, I devoted myself to the path of an executioner. If one cannot admit that much, what can he admit? Right, Anubis? Yes, yes, my boy.</line>
 <line speaker="Kay">I feel like he's saying something scary, but it's kind of hard to understand him!</line>
 <line speaker="Edgeworth">This fallen priest is saying he has no feelings about the president's death. <thought>Dogen, the assassin and escaped prisoner. He should be a despicable opponent, but... ...silencing him now would be imprudent. I must keep my composure and let him talk!</thought> I understand your point. ...You killed the president.</line>
 <line speaker="Dogen">That is correct. The aim of my blade never misses its mark.</line>
 <line speaker="Dogen">However, my life was also targeted on that day.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Your life was targeted? You, the assassin?</line>
 <line speaker="Kay">The hunter becomes the hunted. The Buddhist becomes the Buddha.</line>
 <line speaker="Edgeworth">Kay, you don't have to make up strange proverbs.</line>
@@ -1825,13 +1825,13 @@
 <line speaker="Kay">So, does that mean people you've tried to kill have fought back?</line>
 <line speaker="Dogen">That is a rare occurrence... However, this was different.</line>
 <line speaker="Dogen">The body double, Blaise, and Patricia all sought to seal my lips.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Sirhan Dogen. You are a master assassin. As such, could you not have evaded an attack from those three and fled the scene...?</line>
 <line speaker="Dogen">Keh heh heh. You greatly overestimate me. Without Anubis by my side, I would not even be able to walk about. If those three were to attack me all at once, I would not stand a chance.</line>
 <line speaker="Edgeworth">I see. So even an assassin will fall to superior numbers in a frontal assault.</line>
 <line speaker="Dogen">I suppose one could say that. I, Sirhan Dogen, would have suffered a shameful defeat.</line>
 <line speaker="Dogen">Had I not been reunited with the young acolyte back then, I would have been in danger.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Reunited...? So, when did you first meet with him?</line>
 <line speaker="Dogen">That would be 18 years ago, on the 24th of December.</line>
 <line speaker="Edgeworth"><thought>That is a rather long time ago...</thought></line>
@@ -1853,15 +1853,15 @@
 <line speaker="Dogen">There is no mistake.</line>
 <line speaker="Ray">C-Could that mean...!?</line>
 <line speaker="Edgeworth"><thought>I know... the significance behind that date.</thought> What shows the significance of the date when Dogen found the children?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence is connected to that date, isn't it?</line>
 <line speaker="Kay">Ummm... How exactly is it connected?</line>
 <line speaker="Dogen">I don't know what the good prosecutor brought out... ...but I can sense that there is no real connection behind it.</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>Dogen saw through it.</thought></line>
 <line speaker="Kay">Mr. Dogen found the children on December 24th! Let's try looking at the evidence again with that date in mind!</line>
 <line speaker="Dogen">But alas, even to this day, I do not know what has become of the young acolyte...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And now you're searching for the boy from all those years ago? Surely, you're not saying you want to thank him for saving you?</line>
 <line speaker="Dogen">Keh heh heh... Well, who knows. However, the young one did save my life. That is the truth. Even Anubis took a liking to him. He would do tricks for him, such as "shake" or "roll over".</line>
 <line speaker="Kay">I thought that the tricks Dogen taught his dog were a little bit different from the norm, though.</line>
@@ -1907,7 +1907,7 @@
 <line speaker="Edgeworth"><thought>So Dogen cut off the Moozilla doll's horn...</thought></line>
 <line speaker="Dogen">None but I heard his final words. Only myself and that child knew of the president's secret son.</line>
 <line speaker="Dogen">I continued my correspondence with the young acolyte even after entering prison.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">In other words, you contacted him from prison?</line>
 <line speaker="Dogen">Keh heh heh. That is correct. A post-office box was used.</line>
 <line speaker="Kay">A post-office box...?</line>
@@ -1921,8 +1921,8 @@
 <line speaker="Edgeworth">We certainly found the correspondence chess memo in Knightley's cell.</line>
 <line speaker="Ray">Does that mean... Knightley-boy was the kid from the IS-7 Incident?</line>
 <line speaker="Edgeworth"><thought>Could... that really be true? Is there any evidence connecting Knightley to the IS-7 Incident?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Mr. Shields. I'd like you to take a look at this piece of evidence.</line>
 <line speaker="Ray">What about it? Are you saying it's evidence that connects Knightley-boy to the IS-7 Incident? Uncle Ray doesn't think it has anything to do with the incident at all, though.</line>
 <line speaker="Edgeworth">M... Mmph. <thought>Perhaps I should think it over one more time?</thought></line>
@@ -1943,13 +1943,13 @@
 <line speaker="Ray">The police aren't fools. I'm sure they did a thorough check before handing over the seal.</line>
 <line speaker="Kay">If someone involved in the IS-7 Incident was his chess opponent...</line>
 <line speaker="Lang">Knightley, huh. Then that man must be the mastermind behind this case!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But, Knightley is dead! He cannot be involved in this incident.</line>
 <line speaker="Ray">How about that. The only one who could be the mastermind was himself a murder victim...?</line>
 <line speaker="Kay">But a dead guy can't be the culprit! So there's no way that's right!</line>
 <line speaker="Edgeworth"><thought>It certainly is strange... In that case, who is the culprit?</thought></line>
 <line speaker="Add statement">"Writing letters in braille can be a rather enjoyable pastime."</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That was your means of playing correspondence chess. You used chess notation for your moves.</line>
 <line speaker="Dogen">Keh heh heh... as expected, the good prosecutor has done a thorough investigation.</line>
 <line speaker="Kay">His chess opponent was Horace Knightley, right?</line>
@@ -1961,7 +1961,7 @@
 <line speaker="Edgeworth"><thought>It seems she's not much good with the assassin's dog.</thought></line>
 <line speaker="Dogen">Good boy, good boy, there's a good boy. ...So then. At any rate, my correspondence with the acolyte suddenly came to an abrupt halt.</line>
 <line speaker="Dogen">Recently, that has all come to an abrupt halt, however. It left me quite concerned.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It came to a halt? Now, of all times?</line>
 <line speaker="Dogen">Quite odd, is it not? Anubis told me again and again how odd it was.</line>
 <line speaker="Kay">That scary dog talked? Was he like, "Something's odd, woof!"?</line>
@@ -1972,11 +1972,11 @@
 <line speaker="Edgeworth"><thought>It seems she's not much good with the assassin's dog.</thought></line>
 <line speaker="Dogen">Good boy, good boy, there's a good boy. ...So then. At any rate, my correspondence with the acolyte suddenly came to an abrupt halt.</line>
 <line speaker="Dogen">Furthermore, those involved in the crime 12 years ago were all drawn into incidents one by one.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That certainly does seem too much for a mere coincidence. The body double of Di-Jun Huang, the president of Zheng Fa faked an assassination plot. Patricia Roland, the prison warden, murdered Horace Knightley. And Blaise Debeste, the Chairman of the P.I.C, murdered Jill Crane. <thought>Come to think of it, as I have been investigating these cases... ...I have felt the presence of some force behind the scenes.</thought></line>
 <line speaker="Dogen">Keh heh heh. Even within the prison, I could tell that this was no insignificant event.</line>
 <line speaker="Dogen">I grew more and more curious. And so I absconded briefly from the prison.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You absconded briefly from prison? I cannot forgive such a criminal act!</line>
 <line speaker="Kay">You stole your way out of prison? I cannot forgive such a thieving act!</line>
 <line speaker="Dogen">Keh heh heh... Relax. No one was hurt. I merely have connections that allow me to set foot outside.</line>
@@ -1989,7 +1989,7 @@
 <line speaker="Gumshoe">Yes, sir! I knew you'd say that, Mr. Edgeworth!</line>
 <line speaker="Lang">Dammit all... But I'm not taking my eye off you for a second!</line>
 <line speaker="Dogen">Writing letters in braille can be a rather enjoyable pastime.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Excuse me, but you wrote your letters in braille?</line>
 <line speaker="Dogen">Indeed. For I possess the tools necessary to write in braille.</line>
 <line speaker="Kay">Wow. So you need to use tools to write in braille. I never knew.</line>
@@ -1999,7 +1999,7 @@
 <line speaker="Kay">So then, how does your handmade dog piece move?</line>
 <line speaker="Edgeworth">Kay, that question can wait. So then... what did you do when the letters stopped coming?</line>
 <line speaker="Dogen">Keh heh heh... Within the prison, I grew increasingly concerned about the acolyte's whereabouts.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kay">OK, OK... Umm... But even so, I don't really get it. Who exactly is this "acolyte"?</line>
 <line speaker="Edgeworth">Indeed. Dogen himself has not yet made that clear. <thought>What's important is the thread connecting Dogen and this "acolyte": their correspondence. And not just the letters. We should pay attention to the means that was used as well.</thought></line>
 <line speaker="Edgeworth">I'm certain you said... You wrote your letters in braille.</line>
@@ -2029,8 +2029,8 @@
 <line speaker="Edgeworth">I've figured it out... ...The identity of the mastermind who's been controlling this case from the shadows!</line>
 <line speaker="Kay">Whaaaat!? Who in the world is it!?</line>
 <line speaker="Edgeworth">I don't want to believe it myself... but it is someone we know quite well. The mastermind is...!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">Whaaat!? That person is the mastermind!? But, according to what we've been saying, something seems kinda wrong...</line>
 <line speaker="Edgeworth">...Naturally. This person has no relation to the mastermind, after all.</line>
 <line speaker="Kay">Are they related or not!? Please take this more seriously!</line>
@@ -2081,7 +2081,7 @@
 <line speaker="Gumshoe">...G-G-G</line>
 <line speaker="Kay">Giant Monster!?</line>
 <line speaker="Lotta">A-Are ya admittin' it? You are, ain't ya!? Yer admittin' that the Mighty Moozilla is real!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">No... This is not Moozilla. This is the eye of a different monster. Please have a look at this.</line>
 <line speaker="Kay">It's a flyer for the Berry Big Circus...? Aah! Th-This is...!</line>
 <line speaker="Edgeworth">Precisely. There is a rather large balloon with the head of a lion pictured here. This balloon is the true identity of the Giant Monster! In addition, the sound Ms. Swift recorded, which she believes to be Moozilla spewing flames...</line>
@@ -2148,7 +2148,7 @@
 <line speaker="Kay">I-It wasn't a lie! We really did trust you...!</line>
 <line speaker="Simon">Kay, even you? You said we were like birds of a feather, and yet... I'm hurt, Kay. You've hurt me deeply...</line>
 <line speaker="Kay">I-I-I... oooooh... Hey, Mr. Edgeworth. Maybe Simon isn't a bad guy after all...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I see. So that's how you operate. I understand now, all too well. No matter who you face, you find an emotional weakness and exploit it. You guide each person towards the outcome you desire, without them even noticing it. That... is how you were able to mastermind the entire case!</line>
 <line speaker="Simon">........</line>
 <line speaker="Edgeworth">I may have fallen for your tricks before... but, not this time. Simon Keyes. I indict you!</line>
@@ -2167,7 +2167,7 @@
 <line speaker="Simon">Like I said, it's just a coincidence. I simply happened to pass by the Grand Tower when that photo was taken.</line>
 <line speaker="Edgeworth">I shall determine whether or not it was a coincidence after I hear your full story.</line>
 <line speaker="Simon">It's true. I practiced with the balloon two nights ago.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Was the balloon launched from this tent?</line>
 <line speaker="Simon">There's a nice, big park near the Sunshine Coliseum. I always launch the balloon there.</line>
 <line speaker="Edgeworth">I see. In that case, how do you transport the balloon to the park?</line>
@@ -2179,16 +2179,16 @@
 <line speaker="Edgeworth"><thought>Hmm. I cannot overlook that piece of testimony...!</thought></line>
 <line speaker="Add statement">"The last time I took the truck and the balloon out was two days ago."</line>
 <line speaker="Simon">The last time I took the truck and the balloon out was two days ago.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Allow me to confirm... You haven't driven the truck since then?</line>
 <line speaker="Simon">Do you really need to confirm that? I mean, I just said it five seconds ago.</line>
 <line speaker="Edgeworth">Answer the question. Or would it be inconvenient for you to do so?</line>
 <line speaker="Simon">Ha ha. That's a pretty weak provocation, coming from you, Mr. Edgeworth! What could be inconvenient about something I've already said? Fine, I get it... That truck has been parked behind the dressing rooms since two days ago. And the balloon and basket are still inside. Is there a problem?</line>
 <line speaker="Edgeworth">There's no problem. I simply wanted to express my thanks for that piece of testimony. <thought>So the truck was parked here for the past two days... Heh! That was exactly what I wanted to hear, Mr. Keyes!</thought></line>
 <line speaker="Simon">...May I continue? So then, regarding the balloon...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">That photo must have been taken when the balloon and I passed near the building.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You're saying it was simply a coincidence that you were photographed near the tower?</line>
 <line speaker="Simon">Ah, I get it. I know how you operate now, Mr. Edgeworth. You'll insist that a coincidence is impossible until you get your way. When you say it like that, everything will inevitably go your way! How scary!</line>
 <line speaker="Kay">Ugh! You're wrong! Mr. Edgeworth isn't like that...</line>
@@ -2198,14 +2198,14 @@
 <line speaker="Kay">Yep! So, Simon. Allow me, as the assistant, to ask you a question! When you passed by the Grand Tower at that precise moment, was it really just a coincidence?</line>
 <line speaker="Simon">...We could've just left things at that. But... ...for the sake of your assistant, I shall explain my reason for being there.</line>
 <line speaker="Simon">I often fly around that area for advertising purposes.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, in addition to advertising with the balloon, maintaining the balloon is also your job. Am I wrong?</line>
 <line speaker="Simon">You're a real stickler for the details, y'know. Yeah, that's right. Ask the boss if you want. ...Right, Boss?</line>
 <line speaker="Regina">Yup. Simon is in charge of cleaning and fixing and all that stuff with the balloon. I don't think anyone besides Simon has used the balloon for a while now.</line>
 <line speaker="Edgeworth"><thought>...Hmm. That confirms he was the one riding the balloon in the photo taken two days ago. However, if he is the mastermind, he must have used it today as well. Am I able to prove that?</thought></line>
 <line speaker="Simon">Looks like you're deep in thought... Is it really that hard to comprehend? Hot air balloons fly in the sky. And in other news, the sky is blue and the grass is green.</line>
 <line speaker="Simon">There's nothing unusual about that, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I wonder about that. You flew the balloon in the middle of the night, eerily close to a certain other incident... Would you say there's nothing strange about that, as well?</line>
 <line speaker="Simon">Mr. Edgeworth, isn't that like a really leading question? Won't you please stop being such a naughty prosecutor? It's kind of downer. It's a clown's job to put smiles on people's faces, after all.</line>
 <line speaker="Edgeworth"><thought>Hmm... He ducks and weaves around my questions skillfully. Very well. In that case, I will simply have to make use of a more direct attack!</thought></line>
@@ -2218,10 +2218,10 @@
 <line speaker="Ema">Mr. Edgeworth! I've finally found you! I've been searching for you ever since the incident yesterday! I dashed right over after Kay contacted me just a little while ago!</line>
 <line speaker="Lang">Prosecutor Edgeworth. The thing you were looking for. I've found it. It was placed in a blue truck at the dressing room parking lot.</line>
 <line speaker="Edgeworth">A blue truck... as I suspected. That truck is, without a doubt, the one I saw today.</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">There are a number of blue trucks out there, you know? Who's to say you're not mistaking it for a different one?</line>
 <line speaker="Kay">It's definitely that one! I got a good look at it!</line>
-<line speaker="Edgeworth?"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth?"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kay">Huh? Mr. Edgeworth, was that...?</line>
 <line speaker="Edgeworth">I-It wasn't me...!</line>
 <line speaker="Simon">"Kay. Words have no strength without evidence to back them up."</line>
@@ -2290,18 +2290,18 @@
 <line speaker="Simon">Ugh!</line>
 <line speaker="Lang">What were you doing when you were driving this truck around?</line>
 <line speaker="Simon">Just... taking it for a joyride?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Kay was abducted two nights ago. Your balloon was sighted not far from the scene. Today, there was another kidnapping, in which a garbage truck was used... ...and once again, your truck was seen nearby.</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">This all sounds like nothing more than a pure coincidence to me...</line>
 <line speaker="Edgeworth">So it was pure coincidence that you parked near two separate kidnappings? I doubt that. You were involved in both kidnappings, weren't you?</line>
 <line speaker="Simon">Isn't it a bit rash to automatically assume that the two kidnappings were connected?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">And what if I had evidence to prove that the two crimes were performed by the same culprit?</line>
 <line speaker="Simon">Oh! You're serious!? I can't wait to hear this!</line>
 <line speaker="Edgeworth">What did Kay and John's kidnappings have in common?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence shows that the same culprit was behind both kidnappings!</line>
 <line speaker="Simon">Oh? And just what part of that evidence shows that, exactly?</line>
 <line speaker="Edgeworth">Hmm. I'd say... around here?</line>
@@ -2313,17 +2313,17 @@
 <line speaker="Simon">What's wrong, Mr. Edgeworth? Run out of evidence?</line>
 <line speaker="Edgeworth">No. I have evidence, and I can prove that the culprit in both kidnappings was the same!</line>
 <line speaker="Edgeworth">Kay was knocked out with a powerful sleeping drug. And a bottle of sleeping drugs was found lying in the place where John was confined. The contents of the bottle were a match with the drugs used on Kay.</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">......So that's all you've got, huh? And here I was, getting my hopes up. So the same sleeping drugs were used. So what? You think that connects the two incidents? Surely, you must realize it yourself? That doesn't prove a thing.</line>
 <line speaker="Edgeworth">Ngh...! <thought>Th-There must be something... Evidence that proves he is connected to those cases...!</thought></line>
 <line speaker="Simon">The police, prosecutors, and even you, Mr. Edgeworth. In the end, you're all the same. You make up evidence as you see fit, just so you can send some poor soul to prison. Isn't there someone like that here? A poor soul who was wrongly accused in the past?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You're wrong! Wh... Who would do such a thing!?</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Then show me the evidence! If you're going to accuse me of a crime, it's only natural!</line>
 <line speaker="Edgeworth"><thought>Ngh......... It's no use. I can't seem to find any other threads linking him to the kidnappings...!</thought></line>
 <line speaker="Simon">Now then. Have you finally run out of ammo, Mr. Edgeworth? I still have preparations to make at the circus, so if you'll excuse me...</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">Now, now, you two... No need to get so heated. And Simon... You're looking good in that clown makeup!</line>
 <line speaker="Simon">H-Hey, what's your deal!? Don't just butt in like that...</line>
 <line speaker="Ray">Uncle Ray's not so good in such a stiff environment. I mean, why so serious, right? Hey, Kay! How about a little trick?</line>
@@ -2331,8 +2331,8 @@
 <line speaker="Simon">Wha... Wh-Why you! Enough already!</line>
 <line speaker="Ray">...Psst. Hey, Miles. I'm buying you some time to get all your ducks in a row. There's probably a better way to stall for time than this, but whatevs. Woo! Nice one, Kay!</line>
 <line speaker="Edgeworth"><thought>I'm not so sure about this method, either... ...but I have to find something that connects Simon to the case... And I need to find it now! Is there evidence not related to the kidnapping that's connected to the mastermind's identity? That's it...! The mastermind is the same person as the young acolyte Dogen was looking for. If I can just connect the young acolyte to Simon... Which piece of evidence could be connected with the mastermind's true identity...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I've found it...! This is the evidence that connects you to the case!</line>
 <line speaker="Simon">Really, now? That's interesting. Well then, show me how it's connected!</line>
 <line speaker="Edgeworth">Hmph... Leave it to me. If you hold it like this, and turn it this way...</line>
@@ -2343,24 +2343,24 @@
 <line speaker="Edgeworth">...the mastermind behind the case.</line>
 <line speaker="Edgeworth"><thought>That's it... The mastermind played a role in the correspondence chess... If I can prove that it was Simon, then...!</thought></line>
 <line speaker="Simon">That's enough. I can't stomach any more of your sorry excuse for a performance. If you have no more objections, then I ask that you let me get back to preparing for the show.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Thank you for the help, Mr. Shields. <thought>Though you may have taken it a little too far...</thought></line>
 <line speaker="Ray">You sure look happy. I take it you've found something?</line>
 <line speaker="Kay">"Look at me! I'm Zimon! Zimon ze Klown...! Ze funny, funny klown!"</line>
 <line speaker="Edgeworth">Kay, you can stop now. Now then... Mr. Keyes. Do you happen to like chess?</line>
 <line speaker="Simon">Hmph. That was rather out-of-the-blue. But since you asked, I can't say that I dislike chess.</line>
 <line speaker="Edgeworth">The mastermind played correspondence chess with Sirhan Dogen.</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">If I recall, it was Knightley who had been playing chess with Dogen, wasn't it? Are you saying that he was the mastermind?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There was no way Knightley could have been the mastermind. The reason being... ...the mastermind had continued to work behind the scenes even after Knightley's death. That being the case, who could have written this letter? I believe someone acted as the middleman between Dogen and Knightley.</line>
 <line speaker="Simon">So, you're saying that you think I'm the middleman? Ha ha ha! And just why would I have to go to all that trouble and do something like that?</line>
 <line speaker="Edgeworth">Most likely, to make it appear as if there was a connection between Knightley and Dogen. And, as a result... Knightley was killed by Patricia Roland.</line>
 <line speaker="Kay">N-No way! Are you saying it was all set up so that he would be killed by her!?</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">What are you saying!? There's no way I could manipulate a person that far! Look at me! It takes all I have just to get the animals to perform tricks!</line>
 <line speaker="Edgeworth"><thought>If only just a scrap of the letters he exchanged with Knightley still remained... ...it'd be decisive evidence!</thought> I'd like to investigate your room. There could be decisive...</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">If it's the letters you're looking for, you won't find any in there.</line>
 <line speaker="Edgeworth">What!?</line>
 <line speaker="Simon">I'm the type of guy who throws his letters away as soon as he's done reading them. Where's the point in living in the past?</line>
@@ -2404,7 +2404,7 @@
 <line speaker="Simon">Heh... So that was the name of Knightley's father. That lowlife scum of the earth killed my father. Just the thought of him makes me sick.</line>
 <line speaker="Edgeworth">So you knew who the culprit was all along?</line>
 <line speaker="Simon">Hah... Of course not. Had I known, I would've tipped off the police a long time ago. All I knew was that Knightley's father was trying to set up my own father. That's why I immediately knew that the one who died that day was my dad. Knightley had a hand in my father's murder, that traitor! He was the son of a killer! It's only natural that he ended up dead!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...It would appear that you are a victim of a very serious misunderstanding.</line>
 <line speaker="Simon">Misunderstanding...? Just what're you talking about?</line>
 <line speaker="Edgeworth">Isaac Dover... At the time, he was actively working as a sculptor in France... ...under the name Pierre Hoquet.</line>
@@ -2412,11 +2412,11 @@
 <line speaker="Edgeworth">Heh... It's only natural you don't remember. After all, he's not your real father.</line>
 <line speaker="Simon">...Huh? What, is that supposed to be a joke? I am not amused.</line>
 <line speaker="Edgeworth">Hmph... You won't be able to laugh at all, once I reveal the truth to you. This piece of evidence proves that you are not Isaac Dover's son!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Simon">What's that supposed to tell me?</line>
 <line speaker="Edgeworth">Can't you see? This shows that you and Dover aren't...</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Mr. Edgeworth. That doesn't prove anything. I honestly don't have a clue what you're trying to get at.</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>It seems I was wrong...</thought></line>
 <line speaker="Ray">Hang in there, Miles. Who was really Mr. Dover's son...? If you keep calm and think it through, the answer should come naturally.</line>
@@ -2454,12 +2454,12 @@
 <line speaker="Edgeworth">And I suppose you never thought to seek help from the police.</line>
 <line speaker="Simon">Nowaynoway! As long as Blaise was around, any evidence would be destroyed by him. Actually, didn't something like that almost happen today during Patricia's trial? I knew from the very beginning. That things would turn out like this.</line>
 <line speaker="Edgeworth"><thought>The evidence from Patricia Roland's trial... So he's saying that he expected the evidence would be destroyed...</thought> I see. So that's why you kidnapped John... ...to force a Guilty verdict, even in the absense of evidence!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Who's to say. But, in order to expose the crimes of 12 years ago, there was no other choice.</line>
 <line speaker="Edgeworth">That's according to you. However, Blaise also... ...attempted to kidnap John in order to manipulate the trial in his favor... Your methods are no different than those of the people you so despise!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">That's only if I were actually the kidnapper. But I would never do anything so evil. Nowaynowaynoway, I just simply couldn't! Besides, Mr. Edgeworth. I'm actually quite thankful to the real criminals... ...for giving me the opportunity to extract such sweet revenge! Ke he heh... Gyahahahahahaha!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...So you admit it. Your motive was revenge.</line>
 <line speaker="Simon">Yeah, I admit it. So what? Sure, I held a grudge against those creeps. But... it's not like I'm the one who actually killed them, ya know?</line>
 <line speaker="Edgeworth">.....!</line>
@@ -2467,7 +2467,7 @@
 <line speaker="Courtney">Do you mean to say the murder was nothing more than a result of that!?</line>
 <line speaker="Simon">Yep! Just like the case at Gourd Lake. It's way easier than trying to control wild animals. All I did was come up with the fake assassination plan for Knightley.</line>
 <line speaker="Edgeworth"><thought>So that was also a part of his plan...!</thought> If that's the case, then Rooke's murder was also your...</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Whoa! Don't try to pin that on me. Knightley killed him all on his own. Well, it ended up creating the perfect opportunity for me... It's funny how things work out!</line>
 <line speaker="Kay">How can you say such a thing...!?</line>
 <line speaker="Simon">It was the same for Patricia Roland. I made it look like there was a connection between Knightley and Dogen... ...by using the correspondence chess match and the chisel in the chessboard.</line>
@@ -2475,7 +2475,7 @@
 <line speaker="Simon">That's right! I thought it would bring Dogen to mind. Quite a thoughtful little gift, wouldn't you agree? And that was all it took to get Patricia to murder Knightley! Oh, the feeling that everyone around you is an enemy. Heh heh. I know it all too well. The tiniest spark can set off an explosion of fear, resulting in... horrific mutual destruction. All I did was watch the comedy of errors unfold from the audience. And you were my final pawn, Mr. Edgeworth.</line>
 <line speaker="Edgeworth">A pawn... Me...?</line>
 <line speaker="Simon">When you solved their cases, you brought both Blaise and Patricia to their run... ...and the weapon that delivered the coup de grâce was your own logic!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I didn't solve those cases for your sake!</line>
 <line speaker="Simon">Oh, I know. You never really cared about saving me. You just wanted to pretend to be a defense attorney, didn't you?</line>
 <line speaker="Edgeworth">What did you...!?</line>
@@ -2508,32 +2508,32 @@
 <line speaker="Simon">If you continue to bore with your drivel, I'll end the show right here. I'd like you to keep that in mind before you make any baseless objections!</line>
 <line speaker="Edgeworth"><thought>Ngh...! I cannot make any careless remarks...! Isn't there some way I can charge him with his crimes?</thought></line>
 <line speaker="Simon">Think about it. Can any one of my actions really be considered a crime?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You incited others to commit murder, and they did so. If proof of that was established, you would be charged as if you yourself committed the murders.</line>
 <line speaker="Kay">...Umm, I know I heard it just a while ago, but what's the technical term again?</line>
 <line speaker="Edgeworth">It's "instigating murder", Kay. Blaise, Patricia Roland, and Knightley... Their crimes are unforgivable, of course. However, the one who pulled the strings from behind the scenes, and drove them all to murder... ...was none other than you, Simon Keyes!</line>
 <line speaker="Simon">Aha, aha, gyahahahahah! Mr. Edgeworth, you really do speak your mind freely. But you know...</line>
 <line speaker="Simon">I instigated murder? There's not a single word about that in the letter, is there?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">There's not... a single word?</line>
 <line speaker="Simon">Oh, does that surprise you? You'd reach the same conclusion if you examined it.</line>
 <line speaker="Edgeworth"><thought>Hmm. Given his composure... I'd say he's not bluffing. Does this mean that every single word in his letters had been carefully calculated...!?</thought></line>
 <line speaker="Simon">Well, I guess you could say this is like teaching a monkey to climb a tree. Unless you can somehow prove that I caused those murders, you've got nothing on me. ...Ergo, you can't assume me of instigating murder. Heh heh heh... What a shame, Mr. Edgeworth.</line>
 <line speaker="Simon">If I had said the word "kill" even once, I guess it could be considered instigation.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I know you instigated the murder!</line>
 <line speaker="???">Hmm. Perhaps I should let you in on this, Mr. Edgeworth... Actually, I was the one who ordered Blaise Debeste to kill Jill Crane.</line>
 <line speaker="Edgeworth">What!?</line>
 <line speaker="Edgeworth">You told me yourself.</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">But you know, the funny thing is, it means absolutely nothing if you have no proof. I mean, there's no way I'd ever say something like that. Nowaynowaynoway!</line>
 <line speaker="Edgeworth"><thought>Ngh... that's certainly true. It means absolutely nothing if I can't prove it. If there was some evidence that could prove what he said over the phone...</thought></line>
 <line speaker="Simon">Well, maybe I did say it. But there's no way for you to prove it.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"Maybe you did say it"? Did you or didn't you!?</line>
 <line speaker="Simon">Gyahahahah! It doesn't really matter whether I did or didn't! That's not what's important. I'm sure you know full well, Mr. Edgeworth. There's no way to prove it. There's no way any proof could exist!</line>
 <line speaker="Edgeworth">Ngh...! <thought>Until I find some sort of proof, my arguments are meaningless. Should I press him to draw out more information, or review the evidence...? At any rate, I must find some way to break through his defense!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kay">Is Simon really innocent of instigating the murders?</line>
 <line speaker="Edgeworth">That's impossible. I'm certain that it was all part of his murder plot.</line>
 <line speaker="Kay">Yeah.</line>
@@ -2568,9 +2568,9 @@
 <line speaker="Lang">Certainly, remote controlled listening devices do exist. However...</line>
 <line speaker="Courtney">Are you saying you switched off the device so that your own voice would not be recorded?</line>
 <line speaker="Simon">Precisely!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Impossible! You couldn't have done that unless you knew you were being recorded...!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Isn't it obvious I knew? I guess you just don't get it. ...You could call it a hunch. I had a feeling I was being wiretapped. Ms. Swift... was it? I figured things out because you knew about the kidnapping.</line>
 <line speaker="Edgeworth"><thought>Don't tell me...</thought> You were listening in on that conversation!?</line>
 <line speaker="Simon">That's right! Though come to think of it... I'm surprised you didn't realize it until now! Some genius prosecutor you turned out to be, Mr. Edgeworth!</line>
@@ -2584,7 +2584,7 @@
 <line speaker="Ray">The bug was planted in your badge, right? Do you have any ideas?</line>
 <line speaker="Kay">How do you expect me to come up with an answer right off the top of my head!?</line>
 <line speaker="Franziska">You were the only one who came into contact with the culprit!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">How unsightly. You're all fussing over useless evidence. Let's move on to the next topic! Next!</line>
 <line speaker="Edgeworth"><thought>What's this...? He seems a bit eager to change the topic of conversation...?</thought></line>
 <line speaker="Franziska">You were the only one who came into contact with the culprit!</line>
@@ -2616,8 +2616,8 @@
 <line speaker="Edgeworth">Heh. It seems you were quick to deactivate the bug. However... you were a little too late. You can't run anymore. That gunshot ties you to the case!</line>
 <line speaker="Simon">Huh? What are you saying? There's no gun involved in this case, is there?</line>
 <line speaker="Edgeworth"><thought>No... there should be someone connected to the case who fired a gun. Let's strike with the evidence that points to that person!</thought> Which piece of evidence connects the gunshot to the case?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Simon">What's that supposed to tell me?</line>
 <line speaker="Edgeworth">Could you perhaps take a look at this piece of evidence?</line>
 <line speaker="Simon">Are you saying that this proves a gun is related to the case?</line>
@@ -2642,8 +2642,8 @@
 <line speaker="Lang">What we heard on the recording was not just a gunshot...</line>
 <line speaker="Lang">If you listen closely, you can hear the bullet hitting something!</line>
 <line speaker="Edgeworth"><thought>If the body double was aiming at Simon, then...</thought> The bullet may have struck which piece of evidence?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">Ehhh!? Did the bullet really hit that thing?</line>
 <line speaker="Simon">Gyahahahah! That surprised me too!</line>
 <line speaker="Lang">Mr. Prosecutor. It looks like he's totally clowning around with you. Well... I don't think that's the right evidence either.</line>
@@ -2696,32 +2696,32 @@
 <line speaker="Edgeworth">You mean, he was afraid of Judge Courtney because she knew about John's past?</line>
 <line speaker="Simon">Afraid... That's exactly right! That body double was a coward, after all. I even remember how his hands were trembling when he fired the gun at my balloon. Are we all clear now? I was only there by chance. Just a friendly witness who was passing by.</line>
 <line speaker="Simon">It happened when I was riding the balloon to the rooftop.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Around what time was that?</line>
 <line speaker="Simon">I think it was around 11 PM. It should coincidence with the time Ms. Courtney and company were on the roof, right?</line>
 <line speaker="Courtney">...Yes. It was indeed around that time.</line>
 <line speaker="Edgeworth"><thought>There doesn't seem to be any contradictions... However, the time frame is important.</thought></line>
 <line speaker="Simon">And it was at that moment...</line>
 <line speaker="Simon">I saw the body double and you, Ms. Courtney, on the roof. Talk about a surprise.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you saying this rooftop rendezvous was beyond your expectations?</line>
 <line speaker="Simon">There's no way I could've known about that beforehand. Well, once the dust settled, I could guess what would've happened though. The double had intended to kill Ms. Courtney. Hey, did you realize that?</line>
 <line speaker="Courtney">N-No. I did not... realize it.</line>
 <line speaker="Simon">It's because you were blabbing on and on about that kid.</line>
 <line speaker="Courtney">Th-That's...... I... Uugh...!</line>
 <line speaker="Simon">What kinda mother are you? If things had gone badly, your kid might've died because of you!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I'm your opponent, not her. Don't change the conversation! ...Judge Courtney. I'd like you to please leave this to me.</line>
 <line speaker="Courtney">My apologies, Prosecutor Edgeworth. Oh, Goddess of Law... ...please watch over this man and grant him aid!</line>
 <line speaker="Simon">Hahaha! You're making me laugh. This lady didn't even notice the balloon.</line>
 <line speaker="Simon">Only the double noticed me. He told Ms. Courtney to leave ahead of him.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">He had her leave ahead of him? Didn't you say the body double had planned to kill her?</line>
 <line speaker="Simon">Maybe he thought it would be bad if someone saw the scene of the murder? At the time, no one knew that the president was a fake, right? Once he got the info on John, he'd be able to kill both mother and son whenever he wanted. Thank goodness he's dead! Now you're both safe. You should be happy. Gyaha... hahahahahahah!</line>
 <line speaker="Edgeworth">Whatever emotions you have towards that man, please put them aside until it's all over. For now, please continue your story.</line>
 <line speaker="Simon">Keh heh heh... As you wish. And so, that cowardly body double... ...must have panicked when an eyewitness suddenly appeared from the skies.</line>
 <line speaker="Simon">He then pointed a gun at me and fired.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The bullet struck the balloon's basket cleanly...</line>
 <line speaker="Simon">I panicked and quickly tried to get away so he wouldn't shoot me down, but... ...talk about a close call.</line>
 <line speaker="Edgeworth">You say you tried to get away right then?</line>
@@ -2734,7 +2734,7 @@
 <line speaker="Edgeworth">Please add that statement to your testimony.</line>
 <line speaker="Simon">Sure, I don't mind...</line>
 <line speaker="Add statement">"After the double fired one shot, he entered the hatch to the 51st floor."</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Surely, you must have been surprised. So what did you do?</line>
 <line speaker="Simon">What else could I do in that situation? I tried to get away as quickly as I could. But, that body double... He's nothing but a coward hiding behind a steel gun.</line>
 <line speaker="Kay">...Inside his plane at Gourd Lake, he had tons of personal security goods as well.</line>
@@ -2743,13 +2743,13 @@
 <line speaker="Edgeworth">Sorry to disappoint, but I try not to become aggressive or defensive. Instead... I attack when I need to be forceful, and defend when a delicate touch is needed. Back to the matter at hand, could you testify about the body double's actions?</line>
 <line speaker="Simon">Hmph... don't be so cold, man.</line>
 <line speaker="Simon">After the double fired one shot, he entered the hatch to the 51st floor.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You mean the hatch that leads to the hidden storeroom for the black market auction?</line>
 <line speaker="Kay">Black market auction... Huh? I don't really want to remember, but... that was 2 days ago, right?</line>
 <line speaker="Edgeworth">Indeed. The black market auction was held on the 50th floor of the Grand Tower.</line>
 <line speaker="Kay">A lot of people must have been coming and going through the storeroom during the incident...</line>
 <line speaker="Edgeworth">Indeed. If the double truly did enter the storeroom as Simon said... ...it's strange that no one noticed him! <thought>The problem here is when this incident occurred... If we know the precise moment, then a certain piece of evidence may come in handy.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>Eyewitness testimony from the balloon...</thought></line>
 <line speaker="Kay">So that means, if Simon hadn't come...</line>
 <line speaker="Edgeworth">...Judge Courtney would probably have been in danger.</line>
@@ -2763,8 +2763,8 @@
 <line speaker="Nicole">You can't insult my Mentor like that!</line>
 <line speaker="Lang">Two nights ago, that lady was staking out the 51st floor. Given that, just how did that body double leave the roof?</line>
 <line speaker="Edgeworth">...Indeed. That is what we must now prove. <thought>If he did not use the elevator or the 51st floor to leave the roof... ...then only one route remains!</thought> How did the body double leave the roof without using the elevator or the 51st floor?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The body double used this to leave the roof!</line>
 <line speaker="Simon">........</line>
 <line speaker="Kay">........</line>
@@ -2781,37 +2781,37 @@
 <line speaker="Lang">He...?</line>
 <line speaker="Kay">...flew?</line>
 <line speaker="Edgeworth">Simon Keyes. He rode in your balloon!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Hey, hey! Stop joking around! Why would I have needed to give the body double a lift?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The elevator had a security camera. And the 51st floor was being watched by Ms. Hart. Your balloon was the only way the body double could have left the roof!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">......Heh heh heh heh. ...At the circus, we often perform dangerous stunts, in order to surprise the audience. You think you've got me cornered? Sorry, but... the show ends here.</line>
 <line speaker="Edgeworth">What...?</line>
 <line speaker="Simon">Hey, you. Lotta, was it? I'd like to ask you something... Are you saying you stood watch on the 51st floor the entire time, without any breaks?</line>
 <line speaker="Lotta">W-Well, reckon course! There ain't no mistake in my testimony...</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Really now? But didn't the sound of Mr. Edgeworth's assistant falling into the storeroom... ...cause you to faint?</line>
 <line speaker="Lotta">I didn't mention it before, but after that I might've dozed off a while. To be more precise... I fainted? Well, somethin' like that.</line>
 <line speaker="Edgeworth">S-So something did happen!</line>
 <line speaker="Edgeworth">Ms. Hart, I have determined the sound that made you faint. It was likely the sound of Kay falling onto the storeroom floor.</line>
 <line speaker="Lotta">Wh-What's yer point!? Nobody's perfect!</line>
 <line speaker="Simon">Heh heh heh. Look at her, Mr. Edgeworth. That's the kind of person you're relying on.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Kay fell into the storeroom after the body double had left the roof!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">In that case... heh heh heh. I have a theory on how things happened. After that cowardly double fired a shot at me... ...he went and hid in the shadows until Kay fell into the storeroom!</line>
 <line speaker="Edgeworth">What!</line>
 <line speaker="Kay">S-So what if he was hiding!?</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">"Good grief, you guys still haven't noticed?" What if the body double stayed hidden until Lotta had fainted... ...and then he went down to the 51st floor?</line>
 <line speaker="Edgeworth">Th... That can't be...!</line>
 <line speaker="Simon">"Heh... Precisely. The locked room mystery on the roof has been unlocked!"</line>
 <line speaker="Edgeworth">Gah... GWOOOOOOOH! <thought>He even said it in my voice!</thought></line>
 <line speaker="Simon">Gyaha, Gyaha! Gyahahahah! But wait, there's more... I told the hidden body double about John Marsh. That's why he attacked John the next day during practice, but got himself killed instead. In other words, the one who murdered the body double was none other than John!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">John had no motive to kill the body double!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">...He knew. He knew he was the real president's son.</line>
 <line speaker="Edgeworth">Hmph. And how would he have known that?</line>
 <line speaker="Simon">Because I told him so. ...In a letter.</line>
@@ -2832,9 +2832,9 @@
 <line speaker="Simon">......Heh heh heh. I thought so. Just admit it. In the end, aren't you all the same as Blaise and the body double? You ignore the prime suspect and come after me without any evidence! How easily it can be distorted to best suit your needs, this "law" you all believe in!</line>
 <line speaker="Courtney">Overruled!</line>
 <line speaker="Courtney">That... is by no means true!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Hmph! If you're not gonna arrest anyone, maybe I should have a talk with the policemen outside. If I tell them that John Marsh is the killer, they'll be forced to take action!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Simon Keyes. Your testimony isn't over yet!</line>
 <line speaker="Simon">Heh heh... Really? I figured you'd try to stop me, Mr. Edgeworth. You don't have any evidence, do you? Which means... there's no chance for you to win, right? But if you still plan to stop me, you should be prepared to take on this much risk!</line>
 <line speaker="Edgeworth">Wha...! <thought>Th-That much!?</thought></line>
@@ -2848,14 +2848,14 @@
 <line speaker="Simon">Mr. Edgeworth, are you ready yet? Hope you haven't forgotten about "this".</line>
 <line speaker="Edgeworth"><thought>Ngh... this is bad. I must break his testimony somehow...!</thought></line>
 <line speaker="Simon">Manipulating humans into fighting with each other. Sounds just like me, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you manipulated the body double and John to your will... You seem rather persistent about that, aren't you?</line>
 <line speaker="Simon">Very much so. I'm an animal tamer, after all. And isn't the greatest animal in the world... man? I just tell people the truth, in order to help them get revenge. They should all be thanking me! Gyaha... Gyahahaha!</line>
 <line speaker="Kay">M-Mr. Edgeworth. I'm kinda scared...</line>
 <line speaker="Edgeworth">Steel yourself, Kay. One who sows seeds of revenge as a jest... This is an opponent we must stop at all costs!</line>
 <line speaker="Simon">Keh heh heh... The sins of the past are scary. So, so scary. You'll never see your retribution coming.</line>
 <line speaker="Simon">I did the same thing to Knightley and Blaise.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you still intend to insist that you were not directly involved, to the very end?</line>
 <line speaker="Simon">Right! I never dirtied my own hands. I just like to watch... ...as they hate and kill each other, never realizing that they were being manipulated all along!</line>
 <line speaker="Lang">Tch! Spectating from afar... Just like you did 12 years ago!</line>
@@ -2866,40 +2866,40 @@
 <line speaker="Edgeworth">We don't know the conclusion your father arrived at. However, we are here now because we chased after his footsteps...!</line>
 <line speaker="Simon">Keh heh heh... Gyahahaha! Sorry to interrupt your little moment... ...but I don't believe that kind of idealism will solve anything. Besides...</line>
 <line speaker="Simon">At any rate, there's no way the body double could've gone for a ride in my balloon.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That's the only way the double could have gotten off the tower!</line>
 <line speaker="Simon">Hmm. Well, let's suppose that was the case. Even if I had carried the body double down... ...what's the problem with that?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">So you admit it! You did carry the body double!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Let's not make a fuss over absurd opinions, Mr. Edgeworth. That's just not like you. You think the body double held me at gunpoint and asked me to go on a sightseeing joyride? There's no way that could've happened... And you know that full well, don't you?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">It's possible you negotiated with him by using the information about John as a bribe!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">But he shot at me, remember? There's just nowanowaynoway we could negotiate!</line>
 <line speaker="Kay">In that case... what if you used sleeping drugs and transported him while he was knocked out?</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">"Then allow me to ask. Have they detected any traces of sleeping drugs from his body?"</line>
 <line speaker="Edgeworth"><thought>Ugh... I-It's no good. I can't find any openings...!</thought></line>
 <line speaker="Simon">Mr. Edgeworth. Isn't there something more interesting we should be talking about?</line>
 <line speaker="Simon">The double was crushed by the monster's head, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Allow me to propose a question. Was the double really crushed beneath the monster's head...?</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Haha! For a genius prosecutor, you sure are quick to withdraw your previous statements! Weren't you the one who deduced that he was crushed by the monster's head to begin with?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Indeed. I certainly came to that conclusion once before. However, that was... ...when we knew of nothing else that was capable to crushing him to death.</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">"Knew"? Why the past tense? It's not like there's anything else now, y'know. The body double was crushed to death by the monster's head. That is an unshakable fact.</line>
 <line speaker="Edgeworth"><thought>...Ngh! Is there... nothing else!? Some decisive evidence... that connects this man to the "crushed president"!</thought></line>
 <line speaker="Simon">How unsighty, Mr. Edgeworth. Why don't you stop this useless struggle? Besides, don't you already know who the culprit is? Remember?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">And who was it that caused the monster's head to fall?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Certainly, the one who caused the monster's head to fall was John, however...</line>
 <line speaker="Kay">Even John himself admits to that...</line>
 <line speaker="Simon">Well then, doesn't that settle everything? Good job guys, case closed! The one who killed the double was John Marsh! And since the police just happen to be here...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...N-No. Not yet! There's still room for further investigation!</line>
 <line speaker="Simon">Hahaha! Don't force yourself. Well then, tell me. What else is there to investigate? And if you can't, I want that kid arrested as soon as possible. You aren't going to overlook a crime, are you? Am I wrong?</line>
 <line speaker="Kay">M-Mr. Edgeworth... What'll we do? Is there really no hope left?</line>
@@ -2912,18 +2912,18 @@
 <line speaker="Simon">Ahah! Quit clowning around! This isn't like you at all! Oh, I get it! Since John is supposed to understand the heart of a monster.</line>
 <line speaker="Edgeworth">The one who understands the heart of monsters is you.</line>
 <line speaker="Simon">Not even I have monsters for friends, y'know?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph... Stop being so modest. Didn't you have one very important friend? A monster you control at will! Simon Keyes! You're the one who killed the body double!</line>
 <line speaker="Simon">...Th-That's...!</line>
 <line speaker="Lang">The Lion Balloon...?</line>
 <line speaker="Edgeworth">A monster made of cloth that expands when filled with hot air... It suits you quite well, wouldn't you agree?</line>
 <line speaker="Simon">Sorry, but... I have no idea what you're talking about.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You've been fixated on your claims that you manipulated John and the body double. Probably because it's an impossible fantasy of yours. ...After all, even an animal tamer cannot tame the dead. The body double had already been murdered while he was on the roof... ...and the murder weapon was the balloon you were in!</line>
 <line speaker="Simon">...Ngh!</line>
 <line speaker="Lang">I see. Although it floats in the air, that balloon still weighs several hundred pounds.</line>
 <line speaker="Edgeworth">When the double threatened you on the rooftop... ...you immediately came up with a plan to defend yourself. And that plan was to crush him with your balloon. Whether the body double wanted to get on, or that he was carrying a gun... None of that matters. Because what you carried in your balloon was the body double's corpse!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Hold on a second, Mr. Edgeworth. You're saying the double was killed on the rooftop two nights ago? Well, that simply doesn't match up with the time of death!</line>
 <line speaker="Edgeworth">What... did you say?</line>
 <line speaker="Simon">That's not like you at all, Mr. Edgeworth. Take a good look at the autopsy report. The time of death was around 11 PM last night!</line>
@@ -2946,7 +2946,7 @@
 <line speaker="Simon">............</line>
 <line speaker="Simon">I'm scared... I'm so scared. Ms. Roland keeps asking me about that day. Daddy, help me...! Why won't you come save me? Is it... because I broke my promise with you and didn't eat your sweets......?</line>
 <line speaker="Simon">I couldn't care less. My father left me all alone. Even if we share the same blood, that man is not my father!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I hate to say it, but... Like father, like son. You're the spitting image of him, Simon. The father you hated so much...</line>
 <line speaker="Simon">Huh? What are you talking about?</line>
 <line speaker="Edgeworth">It must have been fate... By sheer coincidence, you just happened to use the exact same method your father did... ...to throw off the victim's time of death!</line>
@@ -2954,8 +2954,8 @@
 <line speaker="Lang">A refrigerated warehouse?</line>
 <line speaker="Simon">You're saying that I threw off the time of death? H-How would I have done that?</line>
 <line speaker="Edgeworth">The answer lies in where you hid the body double's body! This was the place you used to hide the body!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is where you hid the body!</line>
 <line speaker="Simon">Oh? I hid the body in a place like that?</line>
 <line speaker="Edgeworth">It's useless to play dumb, Simon Keyes!</line>
@@ -2968,15 +2968,15 @@
 <line speaker="Edgeworth">Don't forget. John was confined in a refrigerated warehouse. That's right... you kept the body double's corpse in that very same warehouse! 18 years ago, your father hid a body in the same way!</line>
 <line speaker="Simon">W... What? My father... the one who abandoned me, did the same thing?</line>
 <line speaker="Edgeworth">Who would've gussed... that both father and son would use the same method.</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Stop it! Don't lump me in with that guy! My father... I'm nothing like him! There's not a single connection between us!</line>
-<line speaker="Ray"><cutIn>Objection!</cutIn></line>
+<line speaker="Ray"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ray">You may think so, but even now, your bond with Mr. Gustavia still remains. Didn't you say once before, "I don't like sweets"? That... may have come from the shock of losing your father, don't you think?</line>
 <line speaker="Simon">Ngh...! You guys have no idea what you're saying...!</line>
 <line speaker="Edgeworth">Even if you deny your father, aren't your thoughts and actions the same? Particularly, your belief of "sacrificing others to protect yourself". And finally... your crimes were brought to light, just as his were!</line>
 <line speaker="Simon">Uuh... UUuuungh........ Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa .....Just kidding. Ahahahaha! I don't know anything about that warehouse. I had nothing to do with the kidnapping, after all.</line>
 <line speaker="Edgeworth">In order to threaten Judge Courtney... it's clear that you partook in the kidnapping!</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">How scary. Those who get involved with you will be charged with all sorts of crimes. In the end, there's no evidence. For the instigation, and for the kidnapping. None at all. Or what? Are you gonna forge some evidence? Just like Blaise and the rest?</line>
 <line speaker="Edgeworth">Ngh! I-I'll do nothing of the sort! <thought>I-I can't let him provoke me...</thought></line>
 <line speaker="Simon">You always say, "I'll pursue the truth, no matter what," right? Hah! Don't you mean only the "truth" that's most convenient to you? After all, that's how the police pull the wool over the eyes of those without power! And that's why my revenge was necessary! Gayha, Gyahahaha! None of you can catch me! Not Patricia! Not Blaise! .....And not even you!</line>
@@ -3008,8 +3008,8 @@
 <line speaker="Edgeworth">The evidence..... it exists.</line>
 <line speaker="Simon">What'd you say!?</line>
 <line speaker="Edgeworth"><thought>If Mr. Keyes murdered the victim...</thought> Traces of the murder should still remain here!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Care to look at this piece of evidence? Traces of the murder still remain on it.</line>
 <line speaker="Simon">I honestly have no clue why you'd show me that. Mr. Edgeworth. You're a genius prosecutor, aren't you? Do you really think such a thing could be evidence?</line>
 <line speaker="Edgeworth">Uoooh! <thought>So he saw through me...?</thought></line>
@@ -3027,10 +3027,10 @@
 <line speaker="Lang">...I'll see it with my own eyes. The moment this past case is settled once and for all!</line>
 <line speaker="Courtney">Please... Prosecutor Edgeworth. Deliver the final blow to this unforgivable person!</line>
 <line speaker="Edgeworth">This is the final piece of evidence that proves your crimes! <thought>What traces were left on the balloon that crushed the victim?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Simon Keyes! This proves...</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Gyahahahaha! Mr. Edgeworth. Your final move is pathetic! Did you really think you could corner me with that? There's no way that was left on the balloon!</line>
 <line speaker="Edgeworth">Argh! <thought>So it wasn't this...?</thought></line>
 <line speaker="Lang">Mr. Prosecutor. This isn't like you!</line>
@@ -3045,7 +3045,7 @@
 <line speaker="Simon">What..... the heck are you talking about?</line>
 <line speaker="Edgeworth">Those flowers were crushed... Ergo, they must have come into contact with the murder weapon! Perhaps we'll find the very same pollen still stuck to the basket of your balloon?</line>
 <line speaker="Simon">Nowaynowaynoway! You guys examined the basket just a few moments ago. If there had been any yellow pollen stuck on there, wouldn't you have noticed it then?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Mr. Keyes. Evidence is not restricted to what you can see with the naked eye.</line>
 <line speaker="Simon">What...?</line>
 <line speaker="Edgeworth">Ema!</line>
@@ -3195,7 +3195,7 @@
 <line speaker="Edgeworth">Heh. It seems there is much each of us has yet to learn.</line>
 <line speaker="Courtney">Agreed. We are still but children before the world. Let us grow in our respective paths, until we meet again. I shall look forward to that reunion... May the blessings of the Goddess of Law be upon you as you follow your new path!</line>
 <line speaker="Edgeworth">Though I once lost my position as Prosecutor, I have now reclaimed it... ...so that I may tread a new path as a prosecutor. I shall surely reach the truth waiting at the end of this path. No matter how difficult the path may be... ...if any seek to stop me on my path, they shall receive no mercy. No matter who they may be, I will shout just one word.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Nicole">...Chief! What sorta scoop are ya aimin' for next?</line>
 <line speaker="Lotta">Hey... Ain't you a journalist? There ain't nothin' more important than information. You may be my apprentice, but yer still my business rival. I ain't gonna tell ya everythin'.</line>
 <line speaker="Nicole">Th-That's my Mentor alright... I reckon yer even more prepared than me. I understand! I'll get my information using my own two feet!</line>
@@ -3282,7 +3282,7 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right... I need to reconsider the information.</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information. I need to think this over one more time.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">John. Could you take a look at this piece of evidence?</line>
 <line speaker="John">...No.</line>
 <line speaker="Edgeworth">Hmph. Do you think your selfishness will pass by unchallenged?</line>
@@ -3290,7 +3290,7 @@
 <line speaker="Edgeworth">Argh! <thought>So this wasn't it...?</thought></line>
 <line speaker="Lang">Mr. Prosecutor. Doesn't it look like this pup's making fun of you?</line>
 <line speaker="Edgeworth">Hmph. In that case, I just need to present evidence that he can't make fun of.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">John. Your statement is clearly incorrect.</line>
 <line speaker="John">*glug, glug, glug, glug* ...Ahhh!</line>
 <line speaker="Edgeworth">Don't just drink milk! Haven't you been taught to drink milk and listen to others at the same time?</line>
@@ -3298,7 +3298,7 @@
 <line speaker="Edgeworth">Nnghhoooh! <thought>He wasn't even listening?</thought></line>
 <line speaker="Kay">Mr. Edgeworth. John's making a fool of you, isn't he?</line>
 <line speaker="Edgeworth">It seems it will be necessary to teach him the harshness of the real world. I must silence him with evidence so he can't make any more of these cheeky remarks.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">John. Your testimony contradicts this piece of evidence.</line>
 <line speaker="John">........</line>
 <line speaker="Edgeworth">It appears you have been humiliated beyond words.</line>
@@ -3307,7 +3307,7 @@
 <line speaker="Kay">Mr. Edgeworth. Why are you getting all riled up when your opponent is just a child!?</line>
 <line speaker="Edgeworth">I'm not getting riled up. However... for John, a bit of punishment is in order.</line>
 <line speaker="Kay">Mr. Edgeworth... Just don't go overboard, OK...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, that statement contradicts this piece of evidence!</line>
 <line speaker="Lang">Mr. Prosecutor, are you playing games with me?</line>
 <line speaker="Edgeworth">The evidence says it all.</line>
@@ -3316,7 +3316,7 @@
 <line speaker="Edgeworth">Nnghhoooh! <thought>So that wasn't it...</thought></line>
 <line speaker="Kay">Even if you defang him, he's still a wolf! As expected, he's tough.</line>
 <line speaker="Edgeworth">Yes. He's a worthy opponent indeed.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang. Please take a look at this piece of evidence.</line>
 <line speaker="Lang">Hah! Just what are you trying to say with that evidence!?</line>
 <line speaker="Edgeworth">If you don't even know after looking at it, you certainly have fallen to a new low.</line>
@@ -3324,33 +3324,33 @@
 <line speaker="Edgeworth">Urgh! <thought>So it wasn't this piece of evidence...</thought></line>
 <line speaker="Kay">What are you doing!? You realize who you're up against, right!? If you're not careful, you're gonna get bitten!</line>
 <line speaker="Edgeworth">Indeed. I'd better be wary of those fangs.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, it seems there is a clear contradiction in your statement.</line>
 <line speaker="Lang">Lang Zi says: "Always question words without evidence!" Hah! But it seems I don't even need to question the words that you're saying. It's clearly a pathetic bluff!</line>
 <line speaker="Edgeworth">Argh! <thought>So that was wrong?</thought></line>
 <line speaker="Kay">Mr. Edgeworth! A bluff won't be effective against Mr. Lang!</line>
 <line speaker="Edgeworth">Indeed. In that case, I'll have to face him head-on!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Dogen, what do you think of this piece of evidence?</line>
 <line speaker="Dogen">Ask as you will, I am still lacking in sight. However... ...if one would like to retract that, now would be the proper time to do so, wouldn't you think?</line>
 <line speaker="Edgeworth">M... Mmph. <thought>Is he trying to say I was wrong?</thought></line>
 <line speaker="Dogen">Although, if one were to retract it, perhaps one should not have brought it out to begin with. Right, Anubis? Right, boy?</line>
 <line speaker="Lang">That old man really doesn't miss a beat, does he?</line>
 <line speaker="Edgeworth"><thought>I was overwhelmed and put the evidence back into my Organizer... I should probably think things over a little more carefully.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Dogen! There is a clear contradiction in your testimony!</line>
 <line speaker="Dogen">There is no need to raise your voice. I can hear the good prosecutor perfectly well. Talking so loud only makes it harder to conceal your mistakes.</line>
 <line speaker="Edgeworth">...Argh! <thought>I guess that was his roundabout way of saying I was wrong!</thought></line>
 <line speaker="Gumshoe">You can't let an old man like that beat you, Mr. Edgeworth!</line>
 <line speaker="Edgeworth"><thought>My opponent is not an ordinary old man. However, I will prove that I can break his testimony without fail!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Dogen, there is a contradiction in your testimony!</line>
 <line speaker="Dogen">I can't see any problems, but... Anubis, what do you think? Heh... Anubis also says there is no contradiction.</line>
 <line speaker="Edgeworth">Nnghhoooh! <thought>Refuted by a dog!</thought></line>
 <line speaker="Kay">He can talk to the dog, just like John can talk with the Mighty Moozilla!</line>
 <line speaker="John">Hmph... Don't put me in the same class as gramps.</line>
 <line speaker="Edgeworth"><thought>Talking with dogs aside... I need to think things over one more time.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Keyes. Could you take a look at this piece of evidence?</line>
 <line speaker="Simon">Well... what about it, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">Don't you understand? The significance of this piece of evidence.</line>
@@ -3359,9 +3359,9 @@
 <line speaker="Kay">Mr. Edgeworth! Don't get caught up in your opponent's face!</line>
 <line speaker="Edgeworth">Indeed. It seems I was a bit too careless. Simon Keyes! You won't get the better of me!</line>
 <line speaker="Kay">Attaboy, Mr. Edgeworth! Steal the truth! For great justice!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Keyes. This piece of evidence...</line>
-<line speaker="Simon"><cutIn>Objection!</cutIn></line>
+<line speaker="Simon"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Simon">Mr. Edgeworth. Why don't you take that back?</line>
 <line speaker="Edgeworth">I haven't said anything yet!</line>
 <line speaker="Simon">You don't have to say anything. After all... ...the look on your face tells me you're about to make an idiotic stuff.</line>
@@ -3370,7 +3370,7 @@
 <line speaker="Edgeworth">I'll be fine, Mr. Shields. I won't give up here.</line>
 <line speaker="Ray">He he heh. I thought you'd say that. Uncle Ray believes in you. You're an Edgeworth, after all. I'm sure you'll reveal the whole truth for us!</line>
 <line speaker="Edgeworth">Indeed. I shall expose the truth, the whole truth, and nothing but the truth!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Simon Keyes! Your statement contradicts this evidence!</line>
 <line speaker="Simon">Really now? What do you think, Ms. Courtney?</line>
 <line speaker="Courtney">M-Me...? Prosecutor Edgeworth... I'm terribly sorry, but... ...I do not believe there is any correction.</line>

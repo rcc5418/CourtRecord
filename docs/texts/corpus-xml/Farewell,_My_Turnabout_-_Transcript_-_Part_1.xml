@@ -1278,13 +1278,13 @@
 <line speaker="Engarde">What do you think? Strong woman, right? And she takes good care of me...</line>
 <line speaker="Phoenix"><thought>...You're such a mama's boy...</thought></line>
 <line speaker="Engarde">...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Oldbag">Alright, I'll be honest with you for now.</line>
 <line speaker="Phoenix">Then, please! Tell us what you saw!</line>
 <line speaker="Oldbag">But, aww, what a waste. And here I have a perfectly good chance to have a little fun at you young'un's expense. Because I am a little devil, after all.</line>
 <line speaker="Phoenix"><thought>Um... Doesn't that imply you aren't a good person...?</thought> Alright, I'll give you what you want...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Oldbag">You're Engarde's lawyer, aren't you?</line>
 <line speaker="Phoenix">W-Well, yes... but...</line>
 <line speaker="Oldbag">Then forget it! There is no way I'm telling you!</line>
@@ -1351,7 +1351,7 @@
 <line speaker="Pearl">Oh, wow...</line>
 <line speaker="Chief">I'll get him assigned mascot of every police station, if it's the last thing I do!</line>
 <line speaker="Pearl">I hope you succeed in your mission, sir!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Lotta, will you please answer my questions? On the night of the murder, why were you loitering around the victim's room?</line>
 <line speaker="Lotta">I told ya, didn't I? For my scoop!</line>
 <line speaker="Phoenix">What I want to know about are the details of this "scoop".</line>
@@ -1359,8 +1359,8 @@
 <line speaker="Phoenix">Alright then. An unpleasant tabloid photographer looking for a scoop... I'm going to say that you were looking into a scandal.</line>
 <line speaker="Lotta">Grr!</line>
 <line speaker="Phoenix">Could it be that you, Lotta Hart, were looking for a break with a huge story? Perhaps an unfolding scandal between Juan Corrida and this person...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lotta">Who the heck is that...?</line>
 <line speaker="Phoenix">Um...</line>
 <line speaker="Lotta">You think us journalists are all a bunch of idiots...? Ya can't fool me! I'm a pro!</line>
@@ -1376,8 +1376,8 @@
 <line speaker="Lotta">Yeah, yeah. Ya gotta have that... that what's it... "newsauce"...?</line>
 <line speaker="Phoenix">...Um, you mean, "news source"...?</line>
 <line speaker="Lotta">That's it! So show me somethin' that shows that Juan guy had somethin' with Ms. Andrews!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lotta">You really think I'm some kind of idiot, don'tcha!?</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Lotta">Don't ya know pros don't go for a lead without proof it's somethin' worth going after?</line>
@@ -1599,7 +1599,7 @@
 <line speaker="Phoenix"><thought>What were those two talking about...?</thought></line>
 <line speaker="Pearl">Ms. Andrews... She seems a little dazed, doesn't she?</line>
 <line speaker="Andrews">...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Why was Juan Corrida murdered? If you ask me, I think you know the reason he was killed.</line>
 <line speaker="Andrews">Hmm...</line>
 <line speaker="Phoenix">Why are you hiding things? Don't you realize you're putting Mr. Engarde's life in danger by your actions?</line>
@@ -1607,8 +1607,8 @@
 <line speaker="Phoenix">You were not that close...?</line>
 <line speaker="Andrews">That's right. I've never been good at being intimate with another person.</line>
 <line speaker="Phoenix">You are not good at being intimate with another person? Somehow, I highly doubt that.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Andrews">I'm very bad at connecting with people. They're so depressing for the most part.</line>
 <line speaker="Phoenix">Um...</line>
 <line speaker="Andrews">But I especially dislike feeble-minded individuals.</line>
@@ -1625,8 +1625,8 @@
 <line speaker="Phoenix">I see... However... What if there was a need for you to get close to someone...?</line>
 <line speaker="Andrews">Me? Need to get close to Mr. Corrida? As if there was ever such a need.</line>
 <line speaker="Phoenix">Didn't you get close to Mr. Corrida for this person's sake...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Andrews">...Do you really still not understand?</line>
 <line speaker="Phoenix">Wh-What?</line>
 <line speaker="Andrews">It's not in my nature to enjoy doing things for others.</line>
@@ -1644,8 +1644,8 @@
 <line speaker="Phoenix">M-Ms. Andrews...?</line>
 <line speaker="Andrews">Th-There was no mystery surrounding her death. None. It would be pointless for me to force myself into a relationship for nothing!</line>
 <line speaker="Phoenix"><thought>Is that really true...? Was there really no mystery at all?</thought> I don't believe you were completely at ease with the way her suicide was resolved!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Andrews">Get a hold of yourself.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Andrews">If you want advice on doing yourself in, I suggest asking someone, like the police.</line>
@@ -1661,8 +1661,8 @@
 <line speaker="Phoenix"><thought>That's the impression you like to give, however...</thought> I don't think that's who you really are.</line>
 <line speaker="Andrews">What?</line>
 <line speaker="Phoenix">I have evidence that says otherwise. This is proof that Celeste Inpax was someone very special to you...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, how about it, Ms. Andrews?</line>
 <line speaker="Andrews">I'm sure even those among your lawyer colleagues find it hard to hate you.</line>
 <line speaker="Phoenix">...?</line>

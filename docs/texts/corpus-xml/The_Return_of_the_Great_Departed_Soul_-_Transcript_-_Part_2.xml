@@ -148,7 +148,7 @@
 <line speaker="Judge">Very well. Counsel for the Defence...proceed with the cross-examination, please.</line>
 <line speaker="Ryunosuke">Oh, yes, My Lord! <thought>I need to focus here... It's been a while!</thought></line>
 <line speaker="Gregson">The corpse that went crashin' through the Crystal Tower had a broken neck.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Are you suggesting that's because he fell from a considerable height?</line>
 <line speaker="Gregson">Exactly. Which highlights somethin' else about this whole rum business.</line>
 <line speaker="Ryunosuke">What's that?</line>
@@ -158,7 +158,7 @@
 <line speaker="Judge">So although the experiment ended in disaster, the so-called instantaneous kinesis did actually occur.</line>
 <line speaker="Van Zieks">...Remind us, Professor, what was the cause of the fatal disaster?</line>
 <line speaker="Harebrayne">I, I made a minor miscalculation in the angle of the beam projection, that's all! That was my mistake!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So the angle of projection is critical, is it? And you calculated it yourself? Personally?</line>
 <line speaker="Harebrayne">Absolutely! The calculation is far too complicated for anyone but me to carry out!</line>
 <line speaker="Gregson">Only, you got it wrong, didn't you?</line>
@@ -169,7 +169,7 @@
 <line speaker="Harebrayne">Ah. Crackling comets! The answer should have been three!</line>
 <line speaker="Ryunosuke"><thought>So much for safety first. The three must be for safety third...</thought></line>
 <line speaker="Gregson">But the post-mortem examination revealed another injury. A fatal wound.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Another fatal injury, you say? That doesn't make any sense!</line>
 <line speaker="Gregson">I didn't think I'd have to spell this out, but here we go... Just because there were two fatal wounds doesn't mean I'm sayin' the victim had two lives to lose, does it?</line>
 <line speaker="Ryunosuke">...Too right.</line>
@@ -180,7 +180,7 @@
 <line speaker="Van Zieks">The victim plummeted thirty feet into a glass tower. It would be reasonable to assume that as the cause of death.</line>
 <line speaker="Gregson">Right. That's what we all thought. But it was a red herring, wasn't it?</line>
 <line speaker="Gregson">There was a lesion in his chest where he'd clearly been stabbed by somethin' sharp right in the heart!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The defence knew nothing of this crucial information!</line>
 <line speaker="Van Zieks">The prosecution received this report from the Forensic Investigation Team only this morning. That was the first we knew of it as well. I can only apologise for the impossibility of informing the defence.</line>
 <line speaker="Ryunosuke"><thought>Sarcastic AND insincere? Thanks...</thought> So, what was the nature of this sharp object?</line>
@@ -199,7 +199,7 @@
 <line speaker="Harebrayne">Wha... WHAAAAAAAAAAAAAAAT?!</line>
 <line speaker="Judge">Ordaaar! Ordaaar! The court will enter this 'friend' of the defendant as evidence!</line>
 <line speaker="Ryunosuke"><thought>So one of Professor Harebrayne's tools is the murder weapon...? Great...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The defence knew nothing of this crucial information!</line>
 <line speaker="Van Zieks">The prosecution received this report from the Forensic Investigation Team only this morning. That was the first we knew of it as well. I can only apologise for the impossibility of informing the defence.</line>
 <line speaker="Ryunosuke"><thought>Sarcastic AND insincere? Thanks...</thought> So, what was the nature of this sharp object?</line>
@@ -219,7 +219,7 @@
 <line speaker="Ryunosuke">I've seen this unusually shaped handle before. It's the same screwdriver that was lodged in the grille on the floor of the kinesis machine. <thought>Which could be important information, so I should definitely make a note of it.</thought></line>
 <line speaker="Ryunosuke">There's no question considering the unusual shape of the handle... This is the screwdriver that was poking through the floor of the kinesis machine. It looks a little bit like a capital 'A'. <thought>For 'Andrew' I suppose...</thought></line>
 <line speaker="Gregson">So the victim was killed before he went anywhere. And this fella's the only one who could have done it!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What grounds do you have for saying that?</line>
 <line speaker="Gregson">Hah! D'you really need to ask? There were only two people on that public experimentation stage, in front of the whole crowd.</line>
 <line speaker="Van Zieks">The victim, Mr Odie Asman, and the accused, Professor Harebrayne. And we know for certain that before the experiment, the victim was alive.</line>
@@ -266,7 +266,7 @@
 <line speaker="Van Zieks">My learned friend's silence is your answer, Inspector.</line>
 <line speaker="Ryunosuke">Ugh... <thought>Can't a man have a moment to think?</thought></line>
 <line speaker="Gregson">The weapon the victim was stabbed with must have been left in his body whilst he was beamed through the air!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Why would you think that, Inspector?</line>
 <line speaker="Gregson">With any wound, it's only when you pull the weapon out that profuse bleedin' occurs. Whilst it's still lodged in the body, it acts as a stopper of sorts, for want of a better word.</line>
 <line speaker="Ryunosuke">I, I see...</line>
@@ -275,7 +275,7 @@
 <line speaker="Gregson">If you ask me, this bloke masked what he was doin' from view with his body before stabbin' Asman in the chest. Then he beamed the victim off the stage with his fancy device, the screwdriver still where he planted it.</line>
 <line speaker="Harebrayne">I, I would never do such a thing! Not to my precious tools! I would never use them for such dirty work! You only use tools for their intended purpose! That's common knowledge for any scientist!</line>
 <line speaker="Van Zieks">...The fact remains, the lack of blood at the scene can easily be explained. As the prosecution has demonstrated.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke"><thought>So that's all the testimony I have to work with... I had no idea the victim had been stabbed. That changes everything... Did van Zieks keep that to himself until now on purpose, to gain the advantage? Oh well...I suppose all I can do is press these witnesses for as much new information as possible.</thought></line>
 <line speaker="Ryunosuke">You say that while the weapon remains in the body, there's very little bleeding... Is that unequivocal?</line>
 <line speaker="Gregson">Look, there was no blood on the experimentation stage, even though that's where the fellow was stabbed. The only explanation for that is if the screwdriver was still in his body, stoppin' any heavy bleedin'.</line>
@@ -299,7 +299,7 @@
 <line speaker="Ryunosuke"><thought>This is a strange situation... Even though people are saying that this instantaneous kinesis is a scientific impossibility... ...we're still basing arguments on the assumption that it did actually take place. Alright. Time to tighten the screws here...</thought> My Lord! If the prosecution is unable to explain this inconsistency in its argument... ...we can only conclude that the testimony given in support cannot be relied upon!</line>
 <line speaker="Van Zieks">.........</line>
 <line speaker="Ryunosuke"><thought>Lord van Zieks is stumped!</thought></line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Judge">...Do you have something to say, witness?</line>
 <line speaker="Harebrayne">Yes...I knew it... It bears out... The equations hold... Mr Naruhodo! ...DON'T WORRY!</line>
 <line speaker="Ryunosuke">...About what?!</line>
@@ -331,7 +331,7 @@
 <line speaker="Van Zieks">Let's see how you cross-examine this testimony, my Nipponese friend.</line>
 <line speaker="Harebrayne">Yes, fire away, Mr Naruhodo!</line>
 <line speaker="Harebrayne">To be clear, I'm still at the stage of gathering data in my research.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And yet your retort to my argument wasn't lacking in confidence in any way.</line>
 <line speaker="Harebrayne">'No scientist can find the truth without first finding self-belief...' Those were the words of a certain scientist I hold in the very highest esteem!</line>
 <line speaker="Ryunosuke">But you realise that disproving my argument puts you in a very precarious position, don't you?</line>
@@ -342,7 +342,7 @@
 <line speaker="Van Zieks">You're wasting your breath, my learned friend. This scatterbrain even forgets my name at times.</line>
 <line speaker="Ryunosuke"><thought>...So Lord van Zieks really did have a friend once. But I didn't notice Hell freezing over...</thought></line>
 <line speaker="Harebrayne">My hypothesis states the kinesis cannot transport metal, though. Hence the metal weapon would have stayed put.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Your 'hypothesis' states it? So this isn't proven then?</line>
 <line speaker="Harebrayne">No, no, of course not. It's merely a hypothesis. But a good one! Based upon thousands of calculations! But it is widely known that metals can't be decomposed by electrolysis. ...Yes! Of course! So I AM right! My hypothesis is clearly correct!</line>
 <line speaker="Ryunosuke"><thought>What is it about incriminating himself that makes this man so happy...?</thought></line>
@@ -357,9 +357,9 @@
 <line speaker="Harebrayne">AH!</line>
 <line speaker="Judge">'Ah!' indeed, sir.</line>
 <line speaker="Ryunosuke"><thought>Someone beam me out of this nightmare...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Harebrayne">In other words, the point just raised by Mr Naruhodo isn't an inconsistency at all.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">...You seem to be pleased by that.</line>
 <line speaker="Harebrayne">Yes! Another example of my hypothesis holding true! But I sense some sarcasm, Mr Naruhodo. Are you not pleased?</line>
 <line speaker="Ryunosuke">No.</line>
@@ -367,9 +367,9 @@
 <line speaker="Ryunosuke">No, you're quite right.</line>
 <line speaker="Judge">Tell the court, did you have a close relationship with Mr Asman?</line>
 <line speaker="Harebrayne">Oh, well no, not really. I mean, I'd only met him two or three times. And we only ever discussed my hypothesis and the project...and the research grant, of course.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Harebrayne">Mr Asman was the patron of my research. Without him, my work wouldn't have been possible.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">How did you come to know Mr Asman in the first place?</line>
 <line speaker="Harebrayne">...A year ago now, a small provincial science journal published a little paper about my work.</line>
 <line speaker="Judge">That's a scientific journal? Good gracious, I should need new spectacles!</line>
@@ -379,7 +379,7 @@
 <line speaker="Ryunosuke">The machine that you brought to the Great Exhibition to demonstrate.</line>
 <line speaker="Harebrayne">We, we had to apply to the government for some sort of inspection to be allowed to exhibit, I think. I didn't understand all that side of things. Mr Asman took care of all of it. He was a wonderful man! Really, I owe him everything.</line>
 <line speaker="Harebrayne">Now I have a duty to protect the incredible machine that we built together!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">When you say that you built the machine together, does that mean that you were involved in its construction?</line>
 <line speaker="Harebrayne">Yes! ...W-Well, not exactly... I'm not good with the practical side of machines myself. So the physical construction was done by an engineer.</line>
 <line speaker="Van Zieks">Little remains of your creation now, though, following the explosion. Repair will no doubt be impossible.</line>
@@ -396,7 +396,7 @@
 <line speaker="Judge">Ordaaar! Ordaaar! Ordaaaaaar!!! Counsel, what is the implication of this?</line>
 <line speaker="Ryunosuke">If, on the day in question, the alleged instantaneous kinesis never actually took place... ...then it's entirely possible that the victim was killed somewhere other than on the stage. And in that case...someone other than the defendant could have been the culprit!</line>
 <line speaker="Harebrayne">But, but my hypothesis! My hypothesis is sound! I proved it that day! The experiment was a success! The experiment was proof of all my work!</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Juror No. 4">If I could say something here, in my capacity as a fellow of the Royal Society...</line>
 <line speaker="Judge">Yes, juror number four? Go ahead.</line>
 <line speaker="Juror No. 4">As a man of science, there's one thing I simply cannot abide... And that's a fraud who PRETENDS to be a fellow man of science!</line>
@@ -406,7 +406,7 @@
 <line speaker="Harebrayne">Nooo! Never! That machine is the essence of my entire hypothesis! It's protected by the Special Dispensation for Scientific Equipment Act!</line>
 <line speaker="Juror No. 6">What the devil is that blasted act all about, eh? Who made up such a daft rule?!</line>
 <line speaker="Ryunosuke"><thought>I don't like the way this seems to be going... What's the best way for me to help the professor?</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke"><thought>Maybe I should watch and wait for the time being...</thought></line>
 <line speaker="Juror No. 1">My feeling is that the machine requires a thorough examination.</line>
 <line speaker="Juror No. 2">But what about this 'special dispensation' that's been mentioned? Oh gosh...this is all too much.</line>
@@ -414,7 +414,7 @@
 <line speaker="Juror No. 6">Of course it was the murder weapon! Anyone can see that, as plain as day!</line>
 <line speaker="Juror No. 1">So we're all in agreement, are we? That the machine should be stripped?</line>
 <line speaker="Ryunosuke">...! <thought>If, if I don't do something, they'll...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Professor Harebrayne has yet to perfect his invention! That would seem to be the case, yes. But even so...</line>
 <line speaker="Van Zieks">Even so, what?</line>
 <line speaker="Ryunosuke">Going to such trouble and expense to create a fake machine to display in public... He would have absolutely no reason to do such a thing!</line>
@@ -507,7 +507,7 @@
 <line speaker="Judge">Yes, thank you, Counsel. The prosecution's views on the matter are quite clear. So, the defence's cross-examination now, please.</line>
 <line speaker="Ryunosuke">Y-Yes, My Lord!</line>
 <line speaker="Lune">It was an incidente terribile. I am only grateful that my balloons were not damaged.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">There were three balloons flying above the experimentation stage at the time, I understand?</line>
 <line speaker="Lune">Si, si. All three of them, my bellissimi bambini. They are very popular, signor. Some people will pay ten pounds for one ride.</line>
 <line speaker="Ryunosuke">Ten pounds?! That's more than my annual stipend!</line>
@@ -520,9 +520,9 @@
 <line speaker="Lune">Si! And the zone above public sperimentation stage is the most profitable! The other impresarios, they hate me!</line>
 <line speaker="Judge">Thank you, witness. I think the court has a clear picture of the arrangements for balloon rides at the exhibition. Perhaps we could hear more about what you actually witnessed of the incident?</line>
 <line speaker="Gina">Right! I can fill you in there, My Lord.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gina">There's this huge bang from the stage, and then the next second, another bang in the sky beside us.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you actually saw the accident happen from up in the air?</line>
 <line speaker="Gina">Yup! Innit amazin' wot a detective gets to do, eh? I'm tellin' ya, 'Oddo, bein' a lawyer's a mug's game. You should join the force an' we can go flyin' together!</line>
 <line speaker="Ryunosuke"><thought>You know me so well...</thought> Yes, well, anyway... Could you tell us exactly what you saw, do you think?</line>
@@ -554,7 +554,7 @@
 <line speaker="Gina">It's mind-blowin', innit?! But that's the twentieth century for ya, I reckon!</line>
 <line speaker="Ryunosuke"><thought>So the people who actually saw the demonstration with their own eyes... ...really believe they saw something miraculous taking place.</thought></line>
 <line speaker="Gotts">And from amid ze smoke...a cage appeared out of nowhere!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you're saying that you witnessed the actual moment that the instantaneous kinesis took place?</line>
 <line speaker="Gotts">During zis stay in London, I have seen many extraordinary sings. Ze Great Exhibition itself, zis instantaneous kinesis, big explosions, ze British courtrooms and strange creatures.</line>
 <line speaker="Ryunosuke">Sorry? Strange creatures?</line>
@@ -563,7 +563,7 @@
 <line speaker="Van Zieks">Did you also see the moment that the cage materialised, Mr Lune?</line>
 <line speaker="Lune">No no. I did not see the esplosione myself. However...</line>
 <line speaker="Gotts">It voz not ze sky zat exploded. It voz a green balloon zat woz next to ours at ze time.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">A green balloon, you say? Are you sure about that?</line>
 <line speaker="Gotts">Of course I am sure! I am a proud Bohemian prince! All zese questions are making me boring.</line>
 <line speaker="Ryunosuke">......... I think you mean 'bored'.</line>
@@ -580,7 +580,7 @@
 <line speaker="Van Zieks">Now that peaceful relations have been restored here in the courtroom, perhaps we could return to the testimony? Did you also see the moment that the cage materialised, Mr Lune?</line>
 <line speaker="Lune">No no. I did not see the esplosions myself. However...</line>
 <line speaker="Lune">The cage, it fell from the sky like a stone. And crashed into the Crystal Tower!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Did you see that actually happen?</line>
 <line speaker="Lune">Eh, no, in reality I did not. I saw after it hit the tower. There was a grande confusione around the stage. I ran to see what had happened. I was terrorised by the idea that one of my balloons had crashed!</line>
 <line speaker="Ryunosuke"><thought>I suppose they are his livelihood...</thought></line>
@@ -589,7 +589,7 @@
 <line speaker="Ryunosuke">Then tell us what you saw...Inspector Lestrade.</line>
 <line speaker="Gina">That's wot I like to 'ear!</line>
 <line speaker="Gina">I didn't get a good look inside the cage, but no one went near it after it crashed into the tower.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Was it you who gave the order to keep people away?</line>
 <line speaker="Gina">Eh? Use yer 'ead, 'Oddo! 'Ow could it 'ave been me? I was up in a balloon, weren't I?</line>
 <line speaker="Ryunosuke">...Right.</line>
@@ -611,7 +611,7 @@
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Judge">Causing the balloon to explode? Yes, eminently plausible.</line>
 <line speaker="Van Zieks">An unfortunate traffic accident, as it were. But it changes nothing about the pertinent facts.</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Lune">This, I cannot accept!</line>
 <line speaker="Ryunosuke">Why not, Mr Lune?</line>
 <line speaker="Lune">You are suggesting that I am a liar! That persons died in a balloon incidente!</line>
@@ -620,7 +620,7 @@
 <line speaker="Ryunosuke">You're saying it's impossible? Why?</line>
 <line speaker="Van Zieks">This court has more important matters to discuss than the number of balloons that were operating that day.</line>
 <line speaker="Lune">AIIIIIIEEE!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But we can't ignore the fact that nobody appears to have known anything about this other balloon until now! My Lord! The defence calls for further testimony from Mr Lune!</line>
 <line speaker="Judge">I concur. There is clearly more to the truth here than meets the eye. It's imperative that we clear up the issue of this phantom balloon, I feel. Witness, you will give supplementary testimony about the balloons you were operating at the exhibition.</line>
 <line speaker="Lune">Ah...grazie, My Lord!</line>
@@ -635,7 +635,7 @@
 <line speaker="Ryunosuke"><thought>The situation has clearly changed now. I have to get to the bottom of what happened here, no matter what it takes!</thought></line>
 <line speaker="Judge">Counsel, you may now cross-examine the witnesses.</line>
 <line speaker="Lune">As I said, Balthazar Lune is no liar! Every balloon I had in the sky landed safely!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You couldn't just...have forgotten one, maybe?</line>
 <line speaker="Lune">......... Signor... ...I might not notice if I was given one hundred lentils and one was missing. But! We are talking about three enormous balloons! Do you believe I could make a mistake about something so grande and expensive?!</line>
 <line speaker="Van Zieks">...I took the liberty of having Inspector Gregson check this gentleman's warehouse. I have the report here. It clearly says 'a total of three balloons.'</line>
@@ -644,7 +644,7 @@
 <line speaker="Gina">What? Me? I'll tell you wot I told the boss! East End kids like me can only count up to two! ...Obviously that ain't true, but the boss bought it an' said 'e'd 'ave to go 'imself in that case.</line>
 <line speaker="Ryunosuke">Haah...</line>
 <line speaker="Lune">All three of my balloons were carrying passengers. If they fell to the ground in an esplosione, what a catastrofe!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">It would be quite a catastrophe if they fell to the ground for any reason, I think. On that note, Mr Lune, tell me...what is it that keeps these balloons in the sky?</line>
 <line speaker="Lune">Are you an idiota?!</line>
 <line speaker="Ryunosuke">Sorry?</line>
@@ -658,9 +658,9 @@
 <line speaker="Van Zieks">Even a small spark of static electricity could cause the entire balloon to explode.</line>
 <line speaker="Lune">What is the matter with you, signor?! All that comes out of your mouth is esplosione, esplosione! I tell you, my balloons are perfectly safe! They have to be! Or I cannot eat! None of my balloons esploded that day! I am completely sure! But if you still say that is what happened, you must show me the proof!</line>
 <line speaker="Ryunosuke"><thought>Alright, so Mr Lune had three balloons in the air that day. If none of them were damaged, then what was the one that exploded?</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gina">But ya can't get away from the fact that a burnt-up bit o' cloth was found at the scene, can ya?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">I was surprised to find the piece of fabric still at the scene, actually. Didn't you search the area surrounding the stage for clues?</line>
 <line speaker="Gina">Nah...I'm not into pickin' stuff up off the ground, me. Always works out way better divin' into people's pockets instead.</line>
 <line speaker="Ryunosuke">...So much for the new career path...</line>
@@ -672,7 +672,7 @@
 <line speaker="Ryunosuke"><thought>I wouldn't put it past her!</thought></line>
 <line speaker="Gina">Come to think of it, there was talk of some scorchin' on the ground at a meetin' we 'ad about the investigation.</line>
 <line speaker="Gina">The coppers at the Yard reckoned it was prob'ly some debris thrown from the explosion on the stage.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">There was considerable damage to the stage and surrounding area, wasn't there?</line>
 <line speaker="Gina">Yeah. Some o' the coves wot were watchin' the experiment were caught in the blast an' injured. Good job the 'ole contraption didn't keel over, eh?</line>
 <line speaker="Ryunosuke">I, I hadn't even considered that!</line>
@@ -681,7 +681,7 @@
 <line speaker="Ryunosuke"><thought>The man's sole pleasure...</thought></line>
 <line speaker="Lune">None of this matters! That scrap of balloon envelope means nothing! Niente!</line>
 <line speaker="Lune">This stupido ragazzo is mistaken! My balloons have the red and blue zigzag stripes anyway!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You mean...the colour is wrong?</line>
 <line speaker="Lune">Si, signor! I do not have any green balloons in my warehouse!</line>
 <line speaker="Ryunosuke">And yet, a piece of green cloth was found at the scene... and it's unmistakably from a balloon.</line>
@@ -730,7 +730,7 @@
 <line speaker="Van Zieks">I've already verified Mr Lune's annual business reports, and he's had the same number of balloons for a year now.</line>
 <line speaker="Judge">Well, as thorough as ever, Lord van Zieks. Disarmingly so.</line>
 <line speaker="Ryunosuke"><thought>In that case... ...is the young boy just imagining things?</thought></line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But the prince took a photograph as proof.</line>
 <line speaker="Gotts">It's Prince Wilhelm Gottsreich Sigismond Ormstein.</line>
 <line speaker="Lune">...Your royal blood will not help you here, ragazzo. Si, it is a balloon! But there is nothing more you can see from this black-and-white photograph! Just look on my head! THAT is a Balthazar Lune balloon! The best in the business!</line>
@@ -753,10 +753,10 @@
 <line speaker="Judge">Hmmm... Its relevance does elude me, I must say.</line>
 <line speaker="Van Zieks">The court has seen sufficient evidence and heard ample testimony already. The prosecution calls for this trial to be concluded!</line>
 <line speaker="Ryunosuke"><thought>Really? Have we really got to the truth yet? No, I can't let this opportunity slip away. The jurors' minds are made up...and not in our favour! What else can this photograph tell us? Is there nothing more we can learn from it?</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke"><thought>I'm really not sure that there is, but if I say there isn't, it's all over. I'm just going to have to assume some other clue exists here somewhere, and stall for time. If only I could find something more... Anything at all that this picture can tell us!</thought></line>
 <line speaker="Van Zieks">Your face has turned a similar shade to the photograph, my learned friend. You've seen the writing on the wall.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Ladies and gentlemen of the jury, wait! Please don't give your decisions yet! The photograph from Master Gotts... ...may well be hiding one more vital clue!</line>
 <line speaker="Juror No. 1">What's that?!</line>
 <line speaker="Juror No. 3">A vital clue?!</line>
@@ -778,7 +778,7 @@
 <line speaker="Ryunosuke">We can reasonably assume that the pictured balloon was destroyed in the searing heat of the explosion.</line>
 <line speaker="Gotts">Ja! Zat's right! Ja! It voz not my fault!</line>
 <line speaker="Van Zieks">Evidently. Because the birdcage from the kinesis machine materialised in the sky where it had been flying. And the balloon, being filled with flammable hydrogen, instantly and explosively ignited.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">...No, that's not what happened.</line>
 <line speaker="Van Zieks">What?</line>
 <line speaker="Judge">It would appear that this photograph requires closer examination. Counsel for the Defence, you will highlight the location of this alleged 'clue' in the photograph for the court.</line>
@@ -802,7 +802,7 @@
 <line speaker="Juror No. 6">A bolt of fire, heading straight for the balloon...like an arrow!</line>
 <line speaker="Judge">Indeed. Even to my ageing eyes, it would appear to be a flame of some sort. My word! Are, are you suggesting this flame struck the hydrogen gas that filled the balloon?!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Actually, it's my opinion... ...that a particular piece of evidence found at the scene reveals how that is exactly what did happen.</line>
 <line speaker="Van Zieks">What evidence?!</line>
 <line speaker="Judge">If such evidence exists, Counsel, then for goodness' sake present it, man! Which evidence explains this mysterious streak of flame that appears to be headed directly for the balloon?</line>
@@ -856,7 +856,7 @@
 <line speaker="Ryunosuke">In short... ...he couldn't have been killed by the defendant, who was on stage in full view the entire time!</line>
 <line speaker="Van Zieks">AAAAAARGH!</line>
 <line speaker="Ryunosuke"><thought>This will be very hard for the prosecution to counter. Lord van Zieks can't credibly maintain that Professor Harebrayne is a suspect now!</thought></line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Harebrayne">Mr Naruhodo...I appreciate your efforts. Thank you.</line>
 <line speaker="Ryunosuke">P-Professor?!</line>
 <line speaker="Harebrayne">But you can stop now. Just keep your mouth shut, please.</line>
@@ -865,7 +865,7 @@
 <line speaker="Harebrayne">......... I, Albert Harebrayne, hereby confess... ...that it... That it was... That it was me who stabbed Mr Odie Asman! Yes! It was me! With my faithful friend and partner... Andrew the Screwdriver!</line>
 <line speaker="Ryunosuke">Wha......... WHAT ARE YOU DOIIIIIING?!</line>
 <line speaker="Judge">Ordaaar! Ordaaar! Ordaaaaaar!!! Defendant! Explain this sudden confession!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Professor Harebrayne! What are you talking about?!</line>
 <line speaker="Harebrayne">It's...it's what I've said all along! I must protect my hypothesis! And my precious machine!</line>
 <line speaker="Ryunosuke">...!</line>
@@ -975,19 +975,19 @@
 <line speaker="Susato">Oh, Iris, how wonderful! I can't wait!</line>
 <line speaker="Ryunosuke">Susato-san was back in London. It's hard to describe how happy that made me feel at the time. But despite my elation... ...our tale was about to take yet another extraordinary turn.</line>
 <line speaker="Ryunosuke">I can't find anything out of place.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Surely something about that last statement seems odd, doesn't it?</line>
 <line speaker="Judge">Would you care to mull over precisely what you find odd about it on your return journey to Japan?</line>
 <line speaker="Ryunosuke">...I wouldn't be back to give the court an answer for about four months, though.</line>
 <line speaker="Judge">Rest assured, we should be happy to carry proceedings forward in your absence, Counsel.</line>
 <line speaker="Ryunosuke"><thought>He sounds serious! I have to prove my worth before he really does send me back home!</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">That last statement would seem to be at odds somehow with the evidence!</line>
 <line speaker="Judge">It is your task, Counsel, to explain the 'somehows' to the court, not the other way around.</line>
 <line speaker="Ryunosuke">...It just seems to jar, though. Don't you think?</line>
 <line speaker="Judge">What I think, is that this whole exchange has been extremely jarring, yes.</line>
 <line speaker="Ryunosuke"><thought>Perhaps I need to reconsider this...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The defence would have to object to that last statement, My Lord!</line>
 <line speaker="Judge">And I would have to overrule your objection, Counsel.</line>
 <line speaker="Ryunosuke">The defence...would have to accept the penalty given.</line>

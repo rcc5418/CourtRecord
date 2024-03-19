@@ -1,6 +1,5 @@
-
-<line>Turnabout Time Traveler</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Time Traveler</title>
 <line speaker="Phoenix"><thought>So the one thing we found out yesterday is that Sorin was there at the crime scene. I only hope I can get some testimony from him that'll get to the heart of the matter...</thought></line>
 <line speaker="Ellen">Mr. Wright...</line>
 <line speaker="Phoenix">Good morning, Ellen. Look, I'm afraid you might not like the result of today's trial... Nevertheless...</line>
@@ -610,7 +609,7 @@
 <line speaker="Phoenix">...Mr. Sprocket wanted to forget all about this incident!</line>
 <line speaker="Judge">Are you claiming that Mr. Sprocket tore out the page himself?</line>
 <line speaker="Phoenix">That's right, Your Honor.</line>
-<line speaker="Judge">But you just said a moment ago that Mr. Sprocket wouldn't do that! To your inconsistent claims, I say, "<cutIn>Objection!</cutIn>"</line>
+<line speaker="Judge">But you just said a moment ago that Mr. Sprocket wouldn't do that! To your inconsistent claims, I say, "<cutIn type="objection">Objection!</cutIn>"</line>
 <line speaker="Phoenix"><thought>I didn't expect one of those from the judge... I can't have a contradiction between my own claims! I'd better be more careful...</thought></line>
 <line speaker="Phoenix">The page must've been torn out by accident.</line>
 <line speaker="Edgeworth">Edgeworth:</line>

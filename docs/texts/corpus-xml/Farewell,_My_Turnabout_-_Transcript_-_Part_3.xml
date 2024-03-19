@@ -1331,22 +1331,22 @@
 <line speaker="Engarde">You're working really late, you know. It's already past 10:00 PM, dude.</line>
 <line speaker="Phoenix">I think it's time you told me the truth.</line>
 <line speaker="Engarde">... Relax. Don't you know that "ignorance is bliss"? But if you really want to know, let's talk.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Now, let's hear what this "secret" of yours is. What if Mr. Corrida had been successful in his plan? What would he have disclosed...?</line>
 <line speaker="Engarde">I told you before, dude. I don't know! I don't know anything about Juan, OK? Look, Mr. Wright. I can keep on saying it until I'm blue in the face, but... I totally didn't pay Juan any attention the whole time that night! I mean, come on! I was in the middle of a nap!</line>
 <line speaker="Phoenix">Don't lie to me.</line>
 <line speaker="Engarde">Huh?</line>
 <line speaker="Phoenix">I know you paid close attention to Mr. Corrida, especially on that night!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Someone used this camera to secretly film Mr. Corrida's room the night of the murder.</line>
 <line speaker="Engarde">..."Secretly film"...? What?</line>
 <line speaker="Phoenix">And then sent the images the camera took with this transmitter.</line>
 <line speaker="Engarde">Wow... But dude, where was this camera you're talking about hidden?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The spy camera was hidden in this bear's eye!</line>
 <line speaker="Engarde">...</line>
 <line speaker="Phoenix">A bear that was supposed to be a present from a fan!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Engarde">Mr. Lawyer dude, I'm really tired...</line>
 <line speaker="Phoenix">I know...</line>
 <line speaker="Engarde">But dude, you look even more tired than me. Why don't we call it quits for today and get some sleep? How does that sound?</line>
@@ -1356,18 +1356,18 @@
 <line speaker="Phoenix">This bear was in Mr. Corrida's room on the night of the murder. A bear that was supposed to be a present from a fan!</line>
 <line speaker="Engarde">So? It's a present, dude. It actually looks kinda classy, if you know what I mean.</line>
 <line speaker="Phoenix">Yes, I hear it's quite expensive. Which is why it is very odd that this gadget was found inside this bear!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is a very small video camera. And it was hidden inside this bear's eye.</line>
 <line speaker="Engarde">...Maybe it's a really curious bear...?</line>
 <line speaker="Phoenix">Well, whatever this "bear" saw was sent somewhere using this transmitter. Which means... Someone, on the night of the murder, was secretly filming Mr. Corrida's room!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Engarde">Mr. Lawyer dude, I'm really tired...</line>
 <line speaker="Phoenix">I know...</line>
 <line speaker="Engarde">But dude, you look even more tired than me. Why don't we call it quits for today and get some sleep? How does that sound?</line>
 <line speaker="Phoenix">What made you say that all of a sudden?</line>
 <line speaker="Engarde">Well, you're here showing me stuff that doesn't make any sense.</line>
 <line speaker="Phoenix">Oh, oops. <thought>I guess I really must be tired...</thought> But I'm not giving up just yet.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Mr. Engarde?</line>
 <line speaker="Engarde">Hold on a sec. I'm gonna consult my friend, OK? ... ... He said I should snort while I give a good laugh.</line>
 <line speaker="Phoenix">Um...</line>
@@ -1377,8 +1377,8 @@
 <line speaker="Phoenix">Actually, I wouldn't say this bear was a present from a "fan".</line>
 <line speaker="Engarde">... Hmm... You sure, dude? Who else could it be from?</line>
 <line speaker="Phoenix">The person who gave this bear to Mr. Corrida was...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Mr. Engarde?</line>
 <line speaker="Engarde">Hold on a sec. I'm gonna ask my mom, OK? ... ... She says that I can't be friends with someone like you.</line>
 <line speaker="Phoenix">Um...</line>
@@ -1393,8 +1393,8 @@
 <line speaker="Phoenix">Looks like you're not ready to give up your secret yet.</line>
 <line speaker="Engarde">Well, do you have any proof you want to show me first?</line>
 <line speaker="Phoenix">Here is proof that it was you who put the camera inside the bear:</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, come on, Mr. Engarde!</line>
 <line speaker="Engarde">Hold on a sec. I'm gonna ask my grandma, OK? ... ... Did you know? It's bad to whistle at night, dude... Because snakes will come out if you do.</line>
 <line speaker="Phoenix">Um...</line>
@@ -1416,8 +1416,8 @@
 <line speaker="Phoenix">And what your "secret" is. Of course, it would be strictly confidential...</line>
 <line speaker="Engarde">So...? What are you going to do now?</line>
 <line speaker="Phoenix">I'm going to find out what I want to know... because I must. The reason you hid this camera in Mr. Corrida's room and filmed it in secret is...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Engarde">Adrian Andrews?</line>
 <line speaker="Phoenix">There is a rumor going around... That Ms. Andrews and Mr. Corrida were having secret meetings.</line>
 <line speaker="Engarde">...</line>
@@ -1432,13 +1432,13 @@
 <line speaker="Phoenix">I wish your reason for spying was something so innocent. But it wasn't. You didn't spy on Mr. Corrida because of Ms. Andrews... Then there's only one reason I can think of for you to do such a thing.</line>
 <line speaker="Engarde">...!</line>
 <line speaker="Phoenix">The real reason you set up that camera in Mr. Corrida's room was...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Engarde">...If I really wanted to set up a spy camera... I wouldn't have set it up in Juan's room. It would be in your office, dude.</line>
 <line speaker="Phoenix">Huh? My office...?</line>
 <line speaker="Engarde">Well, dude, you're always saying really absurd things, right? It'd be like getting the comedy channel for free!</line>
 <line speaker="Phoenix"><thought>Argh! I'm so close! I can feel it!</thought> I-If you're done laughing!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Engarde">... ...</line>
 <line speaker="Phoenix">Mr. Engarde?</line>
 <line speaker="Engarde">Dude, how about you take that bear home with you and talk to it? I'm sure Mr. Bear will talk with you about as much as I will, which is not at all.</line>
@@ -1691,14 +1691,14 @@
 <line speaker="Andrews">Psyche-Lock...?</line>
 <line speaker="Phoenix">I want to know, and you will tell me... ...your secret.</line>
 <line speaker="Andrews">Fine, go ahead. Try to break me, if you can.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Can you please tell me why you framed Mr. Engarde for the murder?</line>
 <line speaker="Andrews">I've already told you countless times. It's because I thought Matt was the killer.</line>
 <line speaker="Phoenix"><thought>No, that's not it! I know you have a personal reason to dislike Mr. Engarde.</thought> Ms. Andrews. You may think I didn't hear it, but I know you said something earlier. You said, "Revenge."</line>
 <line speaker="Andrews">So you are saying I was taking my revenge out on Matt, and that's why? Wh-What an absurd idea. I... I don't have anything I want to take revenge for.</line>
 <line speaker="Phoenix"><thought>Ms. Andrews... A woman who lives by being dependant on another person...</thought> <thought>There is something or someone in her past that would make her take revenge...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Andrews">Are you trying to help or hurt Matt with what you're doing...?</line>
 <line speaker="Phoenix">What? What am I doing?</line>
 <line speaker="Andrews">This random, haphazard throwing out of evidence you're so fond of doing.</line>
@@ -1712,8 +1712,8 @@
 <line speaker="Andrews">On top of that, the one who hid her suicide note was also Juan. What does all this have to do with Matt?</line>
 <line speaker="Phoenix">You're right. You haven't mentioned him... Yet. But for you to hate Mr. Engarde... It would mean that he must have had some relation to Ms. Inpax and her suicide.</line>
 <line speaker="Andrews">Can you explain to me this "relation" between Celeste and Matt!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Andrews">That's it?</line>
 <line speaker="Phoenix">Yes...</line>
 <line speaker="Andrews">And what sort of relation is this supposed to explain?</line>

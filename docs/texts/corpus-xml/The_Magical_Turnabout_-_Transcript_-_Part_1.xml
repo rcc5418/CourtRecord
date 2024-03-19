@@ -1,6 +1,6 @@
 
-<line>The Magical Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Magical Turnabout</title>
 <line speaker="Mr. Reus">Mwahahahaha! Behold my might!</line>
 <line speaker="Trucy">Ahhh! Shame on you, Mr. Reus!</line>
 <line speaker="Mr. Reus">No!</line>
@@ -87,7 +87,6 @@
 <line speaker="Trucy">Hey! Why'd you put it away? Fine. If that's the way you're going to be... Three, two, one... Ta-dah!</line>
 <line speaker="Apollo">Hey, don't make it...! Wait my badge is still here...</line>
 <line speaker="Athena">That was MY badge, Trucy!</line>
-<line speaker="After clearing all Talk options">Trucy:</line>
 <line speaker="Apollo">Huh? Where to?</line>
 <line speaker="Trucy">To practice my act, of course! The show's only a few days away!</line>
 <line speaker="Apollo">You're really pushing yourself. Didn't you practice until late last night, too?</line>
@@ -396,7 +395,6 @@
 <line speaker="Apollo">Forged evidence isn't going to help us in court.</line>
 <line speaker="Trucy">It'll be fine! With my magic, I'll make sure the audience can't see the strings attached!</line>
 <line speaker="Apollo"><thought>It's not the audience, but the discerning eyes of the law I'm worried about...</thought></line>
-<line speaker="After clearing all Talk options">Apollo:</line>
 <line speaker="Trucy">Yes! I'm counting on you! I don't want to have to cancel the show on its opening day!</line>
 <line speaker="Apollo">Right! <thought>She seems fine now.</thought></line>
 <line speaker="Athena">*sniffle* Truuucyyyy! Let's wiiiin this triaaaal togetherrrr! *sob*</line>
@@ -543,7 +541,6 @@
 <line speaker="Apollo">............</line>
 <line speaker="Ema">O-ho! Are you asking me to test that? .........Hey! Why are you putting it away?</line>
 <line speaker="Apollo"><thought>I can't... I just can't let her cover this in chemical reagents...</thought></line>
-<line speaker="After clearing all Talk options">Athena:</line>
 <line speaker="Apollo">...Look on the bright side, that's what.</line>
 <line speaker="Athena">Bright side? What bright side?</line>
 <line speaker="Apollo">Well, the good thing about there being proof is that it has to point to the real killer. If we can find out who that is... ...we can prove Trucy's innocence!</line>
@@ -571,7 +568,7 @@
 <line speaker="Athena">I can't believe you! You were just going to open a lady's bag without any consideration!</line>
 <line speaker="Apollo">I-I did so give it consideration! Bagloads of it! It's just, well... Okay, I'll admit I was a bit curious...</line>
 <line speaker="Athena">It only took seconds for your ethics and morals to crumble... ...giving way to a desire to satisfy your insatiable curiosity...</line>
-<line speaker="Apollo">O-<cutIn>Objection!</cutIn> You don't have to make it sound so obscene!</line>
+<line speaker="Apollo">O-<cutIn type="objection">Objection!</cutIn> You don't have to make it sound so obscene!</line>
 <line speaker="Apollo">Look at all of this stuff. They must belong to Mr. Reus.</line>
 <line speaker="Athena">Wow, look at the colors on that briefcase. Do you think he carries that around with him on his time off?</line>
 <line speaker="Apollo">Well, during his shows, he wears a mask to hide his identity. If he carried that briefcase around when he wasn't working, wouldn't it give him away?</line>
@@ -662,7 +659,6 @@
 <line speaker="Apollo">N- No, it doesn't!</line>
 <line speaker="Athena">A mysterious, locked notebook... I wonder if there's anything about me in there! Like that one time I ate her pudding... I wonder if she was mad at me for doing that.</line>
 <line speaker="Apollo">Don't worry. If there's one thing I know about Trucy, it's that... ...she's more mature than some people I know.</line>
-<line speaker="After examining Trucy's handbag then Mr. Reus's props, posters, and script">Athena:</line>
 <line speaker="Apollo">I know what you mean. Just don't go poking around in my things at the office!</line>
 <line speaker="Athena">Why? What do you have to hide?</line>
 <line speaker="Apollo"><thought>I don't think I like how her eyes lit up all of a sudden...</thought> Anyway, we'd better get this notebook to Trucy.</line>
@@ -1205,7 +1201,7 @@
 <line speaker="Apollo"><thought>He's right... It's all signed and everything.</thought></line>
 <line speaker="Apollo">A-Are you kidding me?! The Wright Anything Agency doesn't have that kind of money!</line>
 <line speaker="Apollo">F-Fishing on the high seas?! No, thanks! <thought>I can't even swim!</thought></line>
-<line speaker="Athena"><cutIn>Objection!</cutIn> What kind of ridiculous, lowdown, unfair, one-sided contract is this?!</line>
+<line speaker="Athena"><cutIn type="objection">Objection!</cutIn> What kind of ridiculous, lowdown, unfair, one-sided contract is this?!</line>
 <line speaker="Retinz">Hey, now! There's nothing ridiculous here! It's all perfectly legit! It's got her signature on it, see?</line>
 <line speaker="Athena">Urrrgh...</line>
 <line speaker="Apollo">Aaaaarghh...</line>

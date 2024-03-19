@@ -1,6 +1,6 @@
 
-<line>Turnabout for Tomorrow</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout for Tomorrow</title>
 <line speaker="Pearl">...I did a little research. I looked into those special Psyche-Locks you mentioned, Mr. Nick.</line>
 <line speaker="Phoenix">You did? That's great! I really appreciate it.</line>
 <line speaker="Pearl">A red Psyche-Lock protects a secret that a person is consciously trying to hide. If the person folds under questioning, the lock breaks and the truth comes out.</line>
@@ -957,7 +957,6 @@
 <line speaker="Phoenix"><thought>Apollo suspected his trusted co-worker of killing his friend. To dispel his doubts, he investigated on his own, but that only led to more doubts. Apollo must've been really struggling with this... Well, Apollo may have doubts, but...</thought> ...I'll say it again. Athena Cykes isn't the murderer.</line>
 <line speaker="Apollo">Then I have only one thing to say. "Evidence is everything in court." Well, Mr. Wright? Think you have the concrete proof to knock down my arguments?</line>
 <line speaker="Phoenix"><thought>His points of contention are the fingerprints on the lighter, and the escape route, huh? Apollo knows how I operate, so I can't use my usual tactics on him. It looks like the only thing I can do here is press him for more information.</thought></line>
-<line speaker="After pressing all statements">Judge:</line>
 <line speaker="Apollo">Well, Mr. Wright? What do you think of MY theory?</line>
 <line speaker="Phoenix">............</line>
 <line speaker="Apollo">It looks like not even you can deny it. Ms. Cykes was the only one who used the only possible escape route.</line>
@@ -1599,7 +1598,7 @@
 <line speaker="Athena">It's just like I thought, and right in line with the phantom's psych profile.</line>
 <line speaker="Fulbright">............</line>
 <line speaker="Athena">Detective Fulbright! This lack of emotion proves you're the phantom! Hey! What's going on?!</line>
-<line speaker="Phoenix">Wait! <cutIn>Hold it!</cutIn> What do you think you're doing, Detective?</line>
+<line speaker="Phoenix">Wait! <cutIn type="holdIt">Hold it!</cutIn> What do you think you're doing, Detective?</line>
 <line speaker="Fulbright">............Me? I'm not doing anything.</line>
 <line speaker="Athena">He's trying to hack into the Mood Matrix program! I can't do anything with it like this!</line>
 <line speaker="Fulbright">Gaaagh!</line>

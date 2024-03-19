@@ -1,6 +1,6 @@
 
-<line>Turnabout Academy</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Academy</title>
 <line speaker="Athena">...Sorry, Boss. I couldn't do it. You know, that little bit of advice you gave me? "The worst of times are when lawyers have to force their biggest smiles"? I don't know exactly what you meant... ...but there was no way I could force a smile in that courtroom today.</line>
 <line speaker="Phoenix">I'm just glad you remembered that. But now how about relaxing a little--</line>
 <line speaker="Athena">R-Relax?! Not gonna happen!</line>
@@ -476,7 +476,6 @@
 <line speaker="Athena">Is it just me or is this your name here?</line>
 <line speaker="O'Conner">Heh, that's my name, but how should I know what it's doing there? But being that the whole campus looks up to me... ...I'm not surprised to find my name mentioned here and there.</line>
 <line speaker="Athena"><thought>And I'm not surprised he said that, being the narcissist he is.</thought></line>
-<line speaker="After clearing all Talk options">Apollo:</line>
 <line speaker="Athena">He doesn't care about her anymore? Why would he say that?</line>
 <line speaker="Apollo">That didn't go so well. I guess we'll just have to pin our hopes on his testimony tomorrow. Athena, what do you say we head over to the art room. Might be a nice change of pace. Hopefully, the police have completed their investigation.</line>
 <line speaker="Athena">All right. We don't really have much time left, anyway.</line>
@@ -859,7 +858,6 @@
 <line speaker="Athena">Junie, can you tell us anything about this?</line>
 <line speaker="Woods">I don't really know what to say. Um...</line>
 <line speaker="Athena"><thought>She went silent. Seems like she doesn't want to talk about it.</thought></line>
-<line speaker="After perceiving">Woods:</line>
 <line speaker="Apollo">Juniper, I don't have that special kind of hearing that Athena does... ...but I don't need it to sense the pain you're feeling inside. And its intensity is directly proportional to how you feel about your friend. Am I right?</line>
 <line speaker="Woods">*sob* Apollo...!</line>
 <line speaker="Athena">Please, Junie, tell me why you suspected Hugh. I have a feeling that will be the key to getting to the bottom of this whole case.</line>

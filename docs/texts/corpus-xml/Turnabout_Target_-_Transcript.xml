@@ -1,6 +1,5 @@
-
-<line>Turnabout Target</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Target</title>
 <line speaker="Edgeworth"><thought>...Word of this must have reached every corner of the world by now. An assassination attempt on the president of the Republic of Zheng Fa...</thought></line>
 <line speaker="Edgeworth">My name is Miles Edgeworth. I am a prosecutor. I was asked to investigate this grave incident, but upon my arrival...</line>
 <line speaker="???">Mr. Edgeworth! We've been waiting for you, sir!</line>
@@ -131,8 +130,8 @@
 <line speaker="Edgeworth">Yes... That is what the flag is supposed to look like. However, there is one spot on this flag that is out of place.</line>
 <line speaker="Gumshoe">Wh-Where is it, sir? Please explain it so I can understand!</line>
 <line speaker="Edgeworth"><thought>...What a helpless man. I suppose I should point it out to him. Move the cursor to the unusual spot on the flag and press the X Button to Present it.</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">...? I don't see an unusual spot anywhere at all, sir...</line>
 <line speaker="Edgeworth">Nngh... Sorry. It seems I made a mistake. <thought>I should take a closer look at these two flags. There should be one spot that is different from the original flag...!</thought></line>
 <line speaker="Edgeworth">There is an unusual hole in this flag.</line>
@@ -169,7 +168,7 @@
 <line speaker="Nicole">So how's yer investigation comin' along?</line>
 <line speaker="Edgeworth">......</line>
 <line speaker="Nicole">Y'all got a suspect yet? Where'd ya get that frilly doohickey 'round yer neck?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Could you please stop talking for a moment? I will be the one asking the questions.</line>
 <line speaker="Nicole">What is this, an interrogation? I reckoned I was gonna get myself an interview...</line>
 <line speaker="Edgeworth">I'd like to know how many gunshots were fired. Can you please tell me what you saw?</line>
@@ -284,8 +283,8 @@
 <line speaker="Edgeworth">It seems that... two shots were fired.</line>
 <line speaker="Nicole">And what do ya reckon?</line>
 <line speaker="Edgeworth">It's quite simple, really. Using the bullet's trajectory... we can deduce its flight path. Two shots were fired. One bullet hit the president. That means the other shot left a hole in the flag and punctured the balloon. Do you understand now? The location of the perpetrator who fired the gun... The bullet that stuck both the flag and the balloon was fired from here!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Over here. That's right, the perpetrator definitely fired his gun from here!</line>
 <line speaker="Nicole">Um... Would them bullets really hit their mark from there?</line>
 <line speaker="Gumshoe">It's Mr. Edgeworth we're talking about here, pal! I'm sure he has amazing Logic to back it up! And when it's all said and done, he'll show you another one of his brilliant deductions! I'm looking forward to it myself! Come on, Mr. Edgeworth! ...Do your thing!</line>
@@ -596,14 +595,14 @@
 <line speaker="Kay">Well, those were all the photos I took.</line>
 <line speaker="Edgeworth"><thought>I'd like to examine these in a bit more detail.</thought> Investigate which photo?</line>
 <line speaker="Edgeworth">Where can the light from the laser pointer be seen?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">There's nothing unusual about this area.</line>
 <line speaker="Edgeworth">Where can the light from the laser pointer be seen?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">There's nothing unusual about this area.</line>
 <line speaker="Edgeworth">Where can the light from the laser pointer be seen?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">There's nothing unusual about this area.</line>
 <line speaker="Edgeworth">I found it...!</line>
 <line speaker="Gumshoe">Wh-What?</line>
@@ -617,7 +616,7 @@
 <line speaker="Kay">He he he he.</line>
 <line speaker="Edgeworth">Perhaps the criminal can also be seen in the other photos. Let me examine these photos one more time. Investigate which photo?</line>
 <line speaker="Edgeworth">Where can the red hooded assassin be seen?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">From this point, it is clear which way the assassin ran!</line>
 <line speaker="Gumshoe">...Umm. This is hard for me to say, sir.</line>
 <line speaker="Edgeworth">What is it? This isn't like you. Say it clearly.</line>
@@ -626,7 +625,7 @@
 <line speaker="Gumshoe">Absolutely no clue, sir!</line>
 <line speaker="Edgeworth"><thought>...It seems I was mistaken. Let me try a different spot.</thought></line>
 <line speaker="Edgeworth">Where can the red hooded assassin be seen?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">From this point, it is clear which way the assassin ran!</line>
 <line speaker="Gumshoe">...Umm. This is hard for me to say, sir.</line>
 <line speaker="Edgeworth">What is it? This isn't like you. Say it clearly.</line>
@@ -635,8 +634,8 @@
 <line speaker="Gumshoe">Absolutely no clue, sir!</line>
 <line speaker="Edgeworth"><thought>...It seems I was mistaken. Let me try a different spot.</thought></line>
 <line speaker="Edgeworth">Where can the red hooded assassin be seen?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">From this point, it is clear which way the assassin ran!</line>
 <line speaker="Gumshoe">...Umm. This is hard for me to say, sir.</line>
 <line speaker="Edgeworth">What is it? This isn't like you. Say it clearly.</line>
@@ -813,11 +812,11 @@
 <line speaker="Doe">........</line>
 <line speaker="Edgeworth">Mr. Doe, I shall reveal your true colors for all to see.</line>
 <line speaker="Doe">I understand that the person in the raincoat is suspicious.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you admit that the person in the red raincoat is suspicious?</line>
 <line speaker="Doe">Yes. I have been watching your investigation from the audience seating. An "assassin"... How dreadful.</line>
 <line speaker="Doe">However, that doesn't mean that he was injured. I don't suppose you have proof?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What if I had evidence to prove that he was injured?</line>
 <line speaker="Doe">You certainly seem confident. ...I expected no less of you, Mr. Prosecutor.</line>
 <line speaker="Edgeworth">Hm... You know of me?</line>
@@ -825,15 +824,15 @@
 <line speaker="Doe">...I have been observing your investigation.</line>
 <line speaker="Edgeworth"><thought>This man is clearly suspicious. If I expose his lies, I should be able to uncover the assassin's true identity!</thought></line>
 <line speaker="Doe">........</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Doe">Clearly, my left arm is injured, but I can still use my right arm.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That looks quite severe. When did you suffer that injury?</line>
 <line speaker="Doe">...A short while ago.</line>
 <line speaker="Edgeworth">Th-That's it?</line>
 <line speaker="Doe">Even preparing a single ice cream cone is now a difficult task. Due to the injury, I could not hold an umbrella with my left hand.</line>
 <line speaker="Doe">When it was raining, I used an umbrella. I have no need for a raincoat.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">From what I can see, you don't seem to be carrying an umbrella. I'm sure you're well aware, that the rain stopped just before the incident occurred.</line>
 <line speaker="Doe">I do remember. Afterwards the number of spectators swelled.</line>
 <line speaker="Edgeworth">It hasn't even been an hour since then. Are you saying you lost it in only a matter of minutes!?</line>
@@ -879,7 +878,7 @@
 <line speaker="Doe">Prosecutor Edgeworth. Please consider this carefully. Was I really the only one who wore a red raincoat?</line>
 <line speaker="Edgeworth"><thought>Whether he was or not, the person in the photo can only be Mr. Doe. But, why? This man's self-confidence... and intensity.</thought></line>
 <line speaker="Doe">I am no assassin. I'm just a simple ice cream salesman.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">As an ice cream salesman, you must know quite a bit. About ice cream...</line>
 <line speaker="Doe">But of course. Ask me anything you wish. </line>
 <line speaker="Edgeworth">........ <thought>C-Curses...! I don't know anything about ice cream!</thought> Hm. So, um... What's the most important thing about making ice cream?</line>
@@ -888,7 +887,7 @@
 <line speaker="Edgeworth">Honor... To make ice cream?</line>
 <line speaker="Doe">Without honor, ice cream is nothing more than sweet ice. Do you understand? I am just a simple ice cream salesman.</line>
 <line speaker="Doe">All I did was put on that red raincoat and listen to the president's speech.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why did you use a raincoat instead of an umbrella?</line>
 <line speaker="Doe">Is it strange to wear a raincoat on a rainy day?</line>
 <line speaker="Edgeworth">It's strange to purposely wear a raincoat when you can't get your arm into it.</line>
@@ -898,7 +897,7 @@
 <line speaker="Edgeworth">All that...?</line>
 <line speaker="Doe">The shooting of the president, of course.</line>
 <line speaker="Doe">It surprised me to see the bodyguards take action just before the gunshot rang out.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the bodyguards reacted before the gunshot went off?</line>
 <line speaker="Doe">Yes. The bodyguards moved first. The one on the left side of the stage, in particular.</line>
 <line speaker="Edgeworth">You saw it all quite clearly.</line>
@@ -908,22 +907,22 @@
 <line speaker="Edgeworth"><thought>From their actions, I don't believe that the bodyguards were amateurs. This man isn't an ordinary individual either.</thought> Please add that statement to your testimony.</line>
 <line speaker="Doe">As you wish...</line>
 <line speaker="Add statement">"The man on the left side of the stage was exceptionally quick. A Mr. Ethan Rooke, as I recall."</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the bodyguards reacted before the gunshot went off?</line>
 <line speaker="Doe">There's no mistake. I have good eyesight.</line>
 <line speaker="Edgeworth">About that... you appear to be wearing a monocle?</line>
 <line speaker="Doe">If I couldn't see the ice cream, I'd be a poor ice cream salesman. I wear it to ensure I deliver the best quality ice cream.</line>
 <line speaker="Edgeworth"><thought>I've heard all that I can... Any further arguing on this subject is pointless.</thought> Back to what you said before. Of the two bodyguards, which one made the first move?</line>
 <line speaker="Doe">The man on the left side of the stage was exceptionally quick. A Mr. Ethan Rooke, as I recall.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the bodyguard on the left was faster?</line>
 <line speaker="Doe">He reacted in just an instant. His response time was superb. I believe his name was Ethan Rooke.</line>
 <line speaker="Edgeworth">I see... He had plenty of time to react.</line>
 <line speaker="Doe">...Not necessarily.</line>
 <line speaker="Edgeworth"><thought>His expression never changes...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Doe">Everyone in the audience immediately tried to escape, creating a state of panic.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">But you yourself did not run?</line>
 <line speaker="Doe">No, I did not.</line>
 <line speaker="Kay">Aha! What were you doing then?</line>
@@ -939,7 +938,7 @@
 <line speaker="Doe">...You think too highly of me. Prosecutor Edgeworth.</line>
 <line speaker="Edgeworth">Why would a simple ice cream salesman... ...know the name of the president's bodyguard?</line>
 <line speaker="Doe">...The name of the bodyguard? Surely you jest. Didn't you say their names just a moment ago? Mr. Knightley and Mr. Rooke... Correct?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This is a diagram of the security plans. We learnt their names from this. However, please look. Only their surnames are written here.</line>
 <line speaker="Doe">!</line>
 <line speaker="Edgeworth">You distinctly said Ethan Rooke. How did you know his full name when we did not?</line>
@@ -955,10 +954,10 @@
 <line speaker="Doe">He and I have a bit of a connection. His is a name that I will never forget.</line>
 <line speaker="Gumshoe">Mr. Edgeworth! He's just telling a big fat lie!</line>
 <line speaker="Doe">This is not a lie. I am just a simple ice cream salesman... ...and an acquaintance of Ethan Rooke's.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">In that case, let's just ask Rooke himself about this. Whether or not he's acquainted with this dubious ice cream salesman...</line>
 <line speaker="Doe">As you wish. However, that may prove difficult now. He is currently busy with the president's security, after all. Besides, even if I am not an acquaintance of Mr. Rooke's... ...does that prove that I fired the gun?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">If you aren't the assassin, then why did you remove your raincoat!?</line>
 <line speaker="Doe">It was a little hot. And the rain had stopped. I wanted to air out the wound. Is there a problem with that?</line>
 <line speaker="Edgeworth"><thought>Urgh... I just can't seem to corner him!</thought></line>
@@ -974,7 +973,7 @@
 <line speaker="Doe">Surely, that was the person who was in the photo. I first noticed him right before the speech when it was still raining... He caught my eye because his raincoat was the same color as mine. In his hand I saw a laser pointer with the light aimed directly at the president.</line>
 <line speaker="Edgeworth"><thought>It can't be...! There was another person wearing a red hood?</thought></line>
 <line speaker="Doe">I knew that if I wore the red raincoat, I'd be mistaken for the assassin. That is why I took off the raincoat.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You saw an assassin wearing the same color hood as yours? Hmph. Wouldn't that be a nice coincidence?</line>
 <line speaker="Doe">That's what I expected you would say, which is why I did not testify as such. Prosecutors and the police are a suspicious lot. I knew that nobody would believe me... At the moment of the incident, the assassin was very close to the prosecutor...</line>
 <line speaker="Edgeworth">Prosecutor? I only arrived after the incident...</line>
@@ -990,8 +989,8 @@
 <line speaker="Kay">In this photo the people who can be seen are the chief, Mr. Payne, and the assassin... ...I don't see anything strange!</line>
 <line speaker="Doe">Please think back carefully. About that circumstances during the president's speech. I believe you are holding the evidence that contradicts this photo.</line>
 <line speaker="Edgeworth"><thought>Do I have evidence that contradicts this photo?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Honestly, I'm not sure, but... I'll present this!</line>
 <line speaker="Kay">M-Mr. Edgeworth! Is it really OK to present evidence you're not sure about!?</line>
 <line speaker="Gumshoe">In times like this, maybe you should hold back, sir!</line>
@@ -1005,8 +1004,8 @@
 <line speaker="Kay">Huh? Wh-Who is it?</line>
 <line speaker="Doe">Yes... It's rather strange. Someone who should be there, but is not.</line>
 <line speaker="Edgeworth">The person who should be in this photo is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">...this person, of course!</line>
 <line speaker="Doe">...Mr. Detective. What do you think?</line>
 <line speaker="Gumshoe">I... uh... Just what I expected from Mr. Edgeworth! R-Right, Kay?</line>
@@ -1033,7 +1032,7 @@
 <line speaker="Nicole">H-Huh... I don't reckon so, no sir.</line>
 <line speaker="Edgeworth"><thought>It appears I must reveal this contradiction with evidence...</thought></line>
 <line speaker="Nicole">It ain't like I stayed in one spot while I was recording.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You were moving around while you were recording... Why were you doing that?</line>
 <line speaker="Nicole">H-Huh? Whaddaya mean "why"...?</line>
 <line speaker="Edgeworth">Surely when recording a speech, it is best to remain still.</line>
@@ -1041,22 +1040,22 @@
 <line speaker="Edgeworth">If you were moving around, I doubt your tape would have picked up anything coherent!</line>
 <line speaker="Nicole">W-Well, it's like I done said!</line>
 <line speaker="Nicole">I was movin' around the audience area. Shufflin' here and there.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Here and there... Could you be more specific? Such as the side you were on?</line>
 <line speaker="Nicole">When I say "here and there" it means just that... I was all about the place! You couldn't swing a dead cat in that crowd. You expect me to remember where I was?</line>
 <line speaker="Edgeworth">Could you at least remember if it was the left or right side?</line>
 <line speaker="Nicole">L-Left... I reckon...</line>
 <line speaker="Edgeworth"><thought>The person in the photo is also on the left side. Is this just a coincidence?</thought></line>
 <line speaker="Nicole">I reckon this picture must'a been snapped at a different time to my tape recordin'.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you're saying it is logical that you can't be seen in the photo?</line>
 <line speaker="Nicole">Yep! I was near that prosecutor when his voice got recorded... ...but I reckon this picture must'a been taken when I was far away, no doubt about it. Ain't nothin' wrong here, far as I can see.</line>
 <line speaker="Edgeworth">So you're saying the photo and the recording were taken at different times.</line>
 <line speaker="Nicole">Darn tootin'! It ain't about the equipment, it's all about the timin'!</line>
 <line speaker="Edgeworth"><thought>What if they were both taken at the same time... If I can prove that, her entire testimony will collapse...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Nicole">So quit makin' that scary face. It ain't what ya think.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Scary face? The way I speak to others is not intended to come across as intimidating.</line>
 <line speaker="Nicole">Then, why don'tcha try relaxin' a bit more? You make that face when you put all that tension in yer brow. No matter what you do, always do it with a smile! Don'tcha agree?</line>
 <line speaker="Edgeworth">I am searching for the criminal who attacked the president. This is no laughing matter.</line>
@@ -1069,8 +1068,8 @@
 <line speaker="Edgeworth">Perhaps, but there's no denying that the photo and the recording were taken at the same time.</line>
 <line speaker="Nicole">That so? And what makes you say that!</line>
 <line speaker="Edgeworth">The truth lies in these photos. This photo could only have been taken at the same time as your recording! Which spot shows that this was taken at the same time as the recording?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Here. Study this area closely. Therein lies the answer to this mystery!</line>
 <line speaker="Nicole">Hmmm... Nope, I don't see it. Where is it?</line>
 <line speaker="Edgeworth">Here... here! Look closely. Can't you see it?</line>
@@ -1521,7 +1520,7 @@
 <line speaker="Edgeworth">It's a collection of colorful personal security alarms. They all seem to have been used before.</line>
 <line speaker="Kay">The president... He sure is a nice guy! He bought these security alarms to protect his wife and kids!</line>
 <line speaker="Edgeworth">Then why would he leave them all here? It's obvious that they're for his own personal use.</line>
-<line speaker="Kay"><cutIn>Objection!</cutIn> A single person can't carry that many security alarms! Because... A person only has two hands!</line>
+<line speaker="Kay"><cutIn type="objection">Objection!</cutIn> A single person can't carry that many security alarms! Because... A person only has two hands!</line>
 <line speaker="Edgeworth"><thought>That objection... is worth zero points.</thought></line>
 <line speaker="Edgeworth">A sturdy life preserver rests against the table. It is an essential lifesaving tool. I suppose this is a precaution in case someone accidentally falls into the ocean.</line>
 <line speaker="Kay">The ocean, huh... Hey Mr. Edgeworth, how about we go together sometime?</line>
@@ -1716,38 +1715,38 @@
 <line speaker="Gumshoe">I see! There's still some deep, dark secret behind this case, right!?</line>
 <line speaker="Edgeworth"><thought>Certainly the president, and perhaps Knightley, too, know of this "secret". Without fail, I shall reveal it for all to see!</thought></line>
 <line speaker="Huang">Where was I when the incident occurred? Ah, yes. The stage.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you aware of just how serious this incident is?</line>
 <line speaker="Huang">You naïve man! Did you think I would be perturbed by that question!? Of course! I am well aware that a coward attempted to shoot me! At the time, I was on the stage delivering my speech!</line>
 <line speaker="Huang">Then! Rooke and Knightley suddenly appeared and stood in front of me!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Did you realize there was a shooter when they appeared in front of you?</line>
 <line speaker="Huang">What was I doing at that time? Ah, yes! The speech! During my speech, I was in a euphoric state! A state of nothingness and enlightenment!</line>
 <line speaker="Kay">So... You got nervous and you blanked out?</line>
 <line speaker="Huang">Nay! I have not forgotten a single occurrence that transpired during my speech! When Rooke and Knightley appeared in front of me, I was surprised!</line>
 <line speaker="Huang">After that, I heard a gunshot and a red balloon bursting!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">A red balloon?</line>
 <line speaker="Huang">You try my patience, Prosecutor!</line>
 <line speaker="Edgeworth">That was not my intention. I just want to make sure your recollections are reliable.</line>
 <line speaker="Huang">Hmph! There were balloons on both sides of the stage! Swelling red in the cloudy sky... As laid out in the security plan!</line>
 <line speaker="Edgeworth"><thought>The security plans... Ah, the one from the bag...</thought></line>
 <line speaker="Huang">They stepped in front of me just before the balloon burst!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Huang">And so! Those two attempted to escort me into the plane!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">..."Attempted" to escort you? What actually happened?</line>
 <line speaker="Huang">That's right, "attempted". Rooke and Knightley raised their attaché cases...</line>
 <line speaker="Edgeworth"><thought>That's the moment shown in Kay's photo.</thought></line>
 <line speaker="Huang">They led me towards the plane!</line>
 <line speaker="Huang">But then... the second gunshot!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What happened after the second gunshot?</line>
 <line speaker="Huang">Pitiful Prosecutor! If you don't know that much, you're not fit for duty!</line>
 <line speaker="Kay">Mfph...! What's that supposed to mean?</line>
 <line speaker="Huang">I grow weary of needless repetition! It should be quite obvious! ...Even you should know the path of the second bullet!</line>
 <line speaker="Huang">The bullet pierced through Rooke's body and struck my bulletproof vest!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">When the bullet hit, what condition was the victim in?</line>
 <line speaker="Huang">Ohh! He was truly a man among men! Still groaning from the bullet's impact, he grabbed hold of me... ...and dashed into the plane!</line>
 <line speaker="Edgeworth">So you entered the plane along with the victim?</line>
@@ -1799,8 +1798,8 @@
 <line speaker="Edgeworth">President Huang. You have my gratitude. Your testimony has helped uncover a new contradiction.</line>
 <line speaker="Huang">A contradiction... you say?</line>
 <line speaker="Edgeworth">Yes, one that turns the very foundation of this case on its head...! <thought>During my investigation, there was no wind at the crime scene, so the flags remained still... However, the flags were actually fluttering in the strong wind... This completely changes the meaning of that piece of evidence...!</thought> Which evidence contradicts the state of the crime scene?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the evidence...!</line>
 <line speaker="Kay">...that turns the case...</line>
 <line speaker="Gumshoe">...on its head...</line>
@@ -1813,8 +1812,8 @@
 <line speaker="Edgeworth">And if we trace the trajectory of the bullet, we can tell who fired the shot.</line>
 <line speaker="Kay">Eh? But, Mr. Edgeworth! That person is...!</line>
 <line speaker="Edgeworth"><thought>Indeed... I still don't understand why. However, it can be none other than him.</thought> By tracing the bullet's path, who was the person who fired the gun?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The bullet's trajectory points to this person!</line>
 <line speaker="Huang">Ah... so the murder weapon was not a gun, but a boomerang.</line>
 <line speaker="Knightley">That's it... With that kind of trajectory, it could only have been a boomerang.</line>
@@ -1830,8 +1829,8 @@
 <line speaker="Huang">Knightley! Control yourself...!</line>
 <line speaker="Knightley">S-Sorry, sir... Prosecutor. Indeed, the wind was strong during my speech. However, the wind's strength can change very quickly. Evidence! Show us evidence that the flag was flying at the moment of the gunshot!</line>
 <line speaker="Edgeworth"><thought>The gunshot occurred the moment the president raised his fist to the sky. The evidence that shows this moment is... Do I have something that shows the state of the flag?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This evidence...! ......... <thought>Th-This doesn't really show it...</thought> Kay. What do you think?</line>
 <line speaker="Kay">What... You mean that "thing" you're holding, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">Yes. Err... this. Do you want to hold it?</line>
@@ -1840,8 +1839,8 @@
 <line speaker="Edgeworth">The evidence is in this photo.</line>
 <line speaker="Huang">Interesting. And where in this photo, exactly?</line>
 <line speaker="Edgeworth">Proof that the flag was flying in this photo is: Right here!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">What do you think? If you look at the state of the flags...</line>
 <line speaker="Kay">I don't get it.</line>
 <line speaker="Edgeworth">N-No, not that! Look here! At this point...</line>
@@ -1883,7 +1882,7 @@
 <line speaker="Huang">Th-That's not true! I was definitely shot!</line>
 <line speaker="Edgeworth">If we examined the bullet in your vest, it would answer the question for us. Will we find Rooke's blood on that bullet?</line>
 <line speaker="Huang">Ugh! But! Th-The person in the red hood who shot me is in that photo...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Weren't you listening, Mr. President? From the bullet's trajectory, the one who fired the shot must have been Knightley!</line>
 <line speaker="Kay">Then, Nicole...</line>
 <line speaker="Edgeworth">She too was part of the president's plan... She was to bear the blame, and become the false assassin.</line>
@@ -1899,7 +1898,7 @@
 <line speaker="Huang">You... you are wrong... I...</line>
 <line speaker="Edgeworth"><thought>...He revealed his true form.</thought> The assassination is a lie, isn't it?</line>
 <line speaker="Huang">The chief... why did he have to pick you... This... should not have happened...</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">Well played, Mr. Prosecutor.</line>
 <line speaker="Huang">Kn-Kn-Kn-Knightley!</line>
 <line speaker="Edgeworth">...I am speaking with the president now, thank you very much.</line>
@@ -1910,8 +1909,8 @@
 <line speaker="Edgeworth">I see... Now it's my move. You used a certain object to prevent the spectators from seeing you.</line>
 <line speaker="Knightley">A certain object...?</line>
 <line speaker="Edgeworth"><thought>What did Knightley use to prevent the audience from seeing him?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I believe... you used this. Am I getting close?</line>
 <line speaker="Knightley">How should I know? You tell me.</line>
 <line speaker="Kay">There's definitely something... strange about that evidence.</line>
@@ -1919,7 +1918,7 @@
 <line speaker="Edgeworth"><thought>If Knightley really did fire the gun, the issue is whether the audience could see him. He had to have used something to solve that issue. The question is, do I have that piece of evidence right now?</thought></line>
 <line speaker="Knightley">The attaché case...!</line>
 <line speaker="Edgeworth">Exactly. I'd like you to have a look at this photo Kay took. Your right hand is completely hidden by the case. This photo captures the exact moment you secretly fired the gun. You used the attaché case as a screen!</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">You seem to enjoy making up convenient stories, Mr. Prosecutor. But, you've missed something.</line>
 <line speaker="Edgeworth">What have I missed?</line>
 <line speaker="Knightley">That everything you've said is just a hypothesis. A theory. Flags flapping in the wind? Using the case as a screen? The security plans were modified 'cause I can't move my neck? You've got no decisive evidence!</line>
@@ -2009,7 +2008,7 @@
 <line speaker="Knightley">But I did win! Look! The president is safe!</line>
 <line speaker="Edgeworth">Hmph. Don't claim victory when the game has only just begun!</line>
 <line speaker="Knightley">I shot the balloon and entered the plane with Rooke and the president.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the victim had no part in your plan?</line>
 <line speaker="Knightley">Yeah, that's right. He didn't even know it was all fake.</line>
 <line speaker="Kay">So you're saying he thought it was a real assassination attempt? Ah, But you fired the gun right next to him. Wouldn't he have noticed...</line>
@@ -2017,13 +2016,13 @@
 <line speaker="Edgeworth">He made a split-second decision to sacrifice himself... The victim was truly a man of honor.</line>
 <line speaker="Knightley">You're wrong. It was all part of my plan. He simply assisted in our little performance on stage!</line>
 <line speaker="Knightley">Rooke waited in the cabin while I led the president into the security room.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why did you do that? The assassination was supposed to be fake.</line>
 <line speaker="Knightley">There were a lot of "guests" milling around outside. Wouldn't it be bad if the president, who just escaped an assassination... ...was seen lounging around and drinking grape juice? Imagine the headlines.</line>
 <line speaker="Edgeworth">What was the victim doing at that time?</line>
 <line speaker="Knightley">How should I know? I was with the president inside the security room. Anyway...</line>
 <line speaker="Knightley">When I came out, Rooke was already on the ground...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Where did you find the body?</line>
 <line speaker="Knightley">About where he is now. He collapsed in the middle of this room. When I returned, the door to the plane was already closed... The bullet must've hit Rooke right before the door closed. Talk about a hassle. It's all his fault that this plan failed.</line>
 <line speaker="Huang">Knightley! That's too far...</line>
@@ -2031,7 +2030,7 @@
 <line speaker="Edgeworth"><thought>This man is truly despicable.</thought></line>
 <line speaker="Knightley">As I was saying...</line>
 <line speaker="Knightley">The bullet that lady fired must have hit him while we escorted the president to the plane.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Weren't you both carrying bulletproof attaché cases?</line>
 <line speaker="Knightley">Yeah. When Rooke noticed the laser pointer... We opened up those bad boys and became the president's shield.</line>
 <line speaker="Edgeworth">You're telling me the bullet slipped through the space between your shields? Are you claiming that Ms. Swift has such precise aim?</line>
@@ -2039,14 +2038,14 @@
 <line speaker="Edgeworth">So the bullet was off-target and just happened to hit the victim instead? Through the tiny gap between his bulletproof vest AND case?</line>
 <line speaker="Knightley">I don't want to believe it either, but they say the truth is stranger than fiction. Rooke was hit by a one-in-a-million shot. And you have the evidence to prove it.</line>
 <line speaker="Knightley">The shot was fired from the gun you found in the trash!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the second shot wasn't part of your plan?</line>
 <line speaker="Knightley">That's right. She did that on her own. If you think about it, wasn't she desperate for a scoop?</line>
 <line speaker="Nicole">I'm a journalist! I ain't no murderer!</line>
 <line speaker="Knightley">Well then, who was the one who joined the plan in order to get exclusive coverage?</line>
 <line speaker="Nicole">Uuh... That's...</line>
 <line speaker="Knightley">It's just like you said, I orchestrated this fake assassination attempt. She was only supposed to aim the laser pointer... I guess it wasn't enough for her. She prepared her own gun and took aim at the president. She probably thought she wouldn't get caught if she went on and shot me too.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Knightley fired the first shot, and then Ms. Swift fired the second one...</line>
 <line speaker="Kay">In other words, Nicole also had a gun. I never thought she was the type...</line>
 <line speaker="Edgeworth">Without any proof, it's just pure speculation.</line>
@@ -2062,8 +2061,8 @@
 <line speaker="Edgeworth">However, we proved that the bullet that hit the balloon did not come from this gun. Therefore, I have my doubts as to whether this gun also took Rooke's life.</line>
 <line speaker="Knightley">...He he he. Here it comes. You're packing some serious heat. Enough with the song and dance. You've come this far, go ahead and say it!</line>
 <line speaker="Edgeworth">I won't just say it. I'll prove it. The one who really shot Rooke is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Look at this! It was this person!</line>
 <line speaker="Knightley">Hey, you... You really don't know anything, do you? Was that supposed to be a joke, or are you serious?</line>
 <line speaker="Kay">Hey... That's not right! Mr. Edgeworth's so smart that our feeble minds just can't comprehend his reasoning!</line>
@@ -2072,9 +2071,9 @@
 <line speaker="Knightley">Hey... You finally said it.</line>
 <line speaker="Huang">Knightley! You couldn't have!</line>
 <line speaker="Edgeworth">De Killer wasn't the only one who took advantage of the fake assassination plot. You intended to murder Rooke and claim he was a victim of the assassination! Once the president had entered the security room and the door to the plane was closed... ...only the victim and Knightley would have been left in this room. And at that moment, you fired a third bullet. Directly at Rooke...!</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">A third bullet...? Hah! Only two gunshots were heard! The numbers don't match up!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The plane's walls are soundproof. If the door was closed... ...the gunshot would not have been heard outside.</line>
 <line speaker="Kay">But, wasn't the president in the next room?</line>
 <line speaker="Edgeworth"><thought>That's true... The president may have heard the gunshot!</thought> Mr. President! Did you hear a gunshot?</line>
@@ -2114,8 +2113,8 @@
 <line speaker="Knightley">Yeah, it'd be great if you had the bullet that hit the balloon. Then you could examine it, and see if the ballistic markings matched my gun.</line>
 <line speaker="Edgeworth"><thought>If we can find the bullet that took Rooke's life... ...We can determine which gun fired the shot from the ballistic markings!</thought></line>
 <line speaker="Knightley">If you've got no evidence, then we're done talking.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Knightley">...Wh-What? You don't seriously have decisive evidence!?</line>
 <line speaker="Edgeworth">Hmph... Naturally.</line>
 <line speaker="Knightley">That's a big joke. Well, come on now, show us! What is this so-called evidence!?</line>
@@ -2133,8 +2132,8 @@
 <line speaker="Edgeworth">However, now that the fake assassination plan has come to light... ...we know that the bullet in the bulletproof vest was prepared earlier. So then, where did the bullet go?</line>
 <line speaker="Knightley">...Interesting. Very interesting. Do you have the answer?</line>
 <line speaker="Edgeworth"><thought>Do I have evidence that shows the location of the bullet that killed Mr. Rooke?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Well, what do you think!?</line>
 <line speaker="Knightley">Well then, why don't you take the bullet out and show it to us?</line>
 <line speaker="Edgeworth">Hm. Not quite yet. It would be inconvenient to do it today.</line>
@@ -2185,9 +2184,9 @@
 <line speaker="Edgeworth">Don't get riled up, Kay. Let him have his say first. After he's done, it won't be too late to begin our counterattack.</line>
 <line speaker="Kay">...! Alright, Mr. Edgeworth!</line>
 <line speaker="Knightley">If the ballistic markings match the gun, there can be no doubt!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">No. That's...</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">Didn't you say it earlier? This is the decisive evidence.</line>
 <line speaker="Edgeworth">Gah!</line>
 <line speaker="Knightley">Well? How does it feel to have a hole blown through your reasoning?</line>
@@ -2217,43 +2216,43 @@
 <line speaker="Knightley">Hey, Mr. Prosecutor. Be a good boy and do as you're told.</line>
 <line speaker="Edgeworth">Nngh...! <thought>I... cannot resist any longer...!</thought></line>
 <line speaker="Edgeworth"><thought>That's it! He could have tampered with the gun at that time...! There's no doubt that this gun is the real murder weapon. In that case, the owner of this gun is...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth"><thought>Maybe this person...? W-Wait, no! They never had the opportunity to switch the guns! If this gun was switched with the real murder weapon... No other could have done it!</thought></line>
 <line speaker="Edgeworth"><thought>He must have switched the guns... ...Without a doubt, this is Knightley's own gun!</thought></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It's true, the markings match. However...!</line>
-<line speaker="Knightley">You just don't know when to quit. Are you secretly having doubts about the evidence? You should know better than anyone that the evidence never lies. Besides... ...don't you know it's against the rules to yell "<cutIn>Hold it!</cutIn>" during chess?</line>
+<line speaker="Knightley">You just don't know when to quit. Are you secretly having doubts about the evidence? You should know better than anyone that the evidence never lies. Besides... ...don't you know it's against the rules to yell "<cutIn type="holdIt">Hold it!</cutIn>" during chess?</line>
 <line speaker="Edgeworth">Ngh...! <thought>He's avoiding my question. But, I can already see the answer. When we handed over the evidence to Knightley... ...he switched his own gun with the one we found in the trash can. So, it's only natural the ballistic markings match...!</thought></line>
 <line speaker="Knightley">Looks like your turn's over. It's my move now.</line>
 <line speaker="Knightley">The bullet that killed Rooke was fired from the gun you found in the audience area.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Knightley, you...</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">You're the one who should "Hold it". You proved it yourself. Don't tell me that you're going to betray your own logic?</line>
 <line speaker="Edgeworth"><thought>The bullet is stained with the victim's blood. So it's clear it took the victim's life. And the ballistic markings match the gun we found in the trash can.</thought></line>
 <line speaker="Knightley">Nice. Nice. Your face betrays your thoughts, Mr. Prosecutor.</line>
 <line speaker="Edgeworth">Ngh... <thought>At this rate he'll get away!</thought></line>
 <line speaker="Knightley">Now that you've got a firm grasp of reality, it's time to take the next step... The link between the gun and the bullet is clear. So...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">Who could've used the gun?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Who... indeed.</line>
 <line speaker="Knightley">You already know the answer, you just don't wanna admit it, huh? I know the feeling. It's probably like how I felt before. Feeling so irritated, you're just itching to pull the trigger!</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Knightley">...But, this ain't the time to be joking around. Only one person could have used that gun...</line>
 <line speaker="Knightley">Not me, 'cuz I was onstage. But what about that lady reporter in the audience?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you have proof that Ms. Swift fired the gun?</line>
 <line speaker="Knightley">Whoa there, didn't the boys in blue already prove that?</line>
 <line speaker="Kay">But... Nicole's fingerprints weren't found on the gun!</line>
 <line speaker="Gumshoe">And YOURS were all over it, pal!</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">Well, that's 'cuz I was handling all the evidence earlier. If that lady isn't the killer, who else could it be? You were the one who cornered the assassin in the audience.</line>
 <line speaker="Edgeworth">Gah...!</line>
 <line speaker="Knightley">Capisce? In fact, from every angle on the board...</line>
 <line speaker="Knightley">All the evidence points to that young lady as the assassin who killed Rooke!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I don't recall that being proven!</line>
 <line speaker="Knightley">Well, what exactly HAVE you proved? Oh, yeah. You proved that I fired the first bullet. But, you're forgetting one crucial thing. Why were you called here in the first place?</line>
 <line speaker="Gumshoe">That's obvious, pal! We came to find the truth!</line>
@@ -2279,7 +2278,7 @@
 <line speaker="Knightley">That's too bad. Don't use that as an excuse later. "I didn't lose the game. I just couldn't find enough evidence."</line>
 <line speaker="Edgeworth">You're the one who should have an excuse ready. "You didn't beat me at chess. You only found the evidence."</line>
 <line speaker="Knightley">So the gun happens to be the same model as mine. Pure coincidence...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"Coincidence" ...you say?</line>
 <line speaker="Knightley">Or perhaps, it was simply bound to happen.</line>
 <line speaker="Gumshoe">Which was it, pal!</line>
@@ -2288,13 +2287,13 @@
 <line speaker="Edgeworth">It has a simpler mechanism, so it's easier to use... something along those lines, probably.</line>
 <line speaker="Knightley">When you gotta get the job done, or if you're new to this sorta thing, there's nothing better. The truth is, I thought it was "pure coincidence" all along.</line>
 <line speaker="Knightley">But, take a closer look. Only one of them has a laser pointer attached to it.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You attached the laser pointer to the gun yourself!</line>
 <line speaker="Knightley">Oh yeah? Prove it. Show me the evidence.</line>
 <line speaker="Edgeworth">Um, w-well... That's...</line>
 <line speaker="Knightley">You can't go around calling people liars without proof... Didn't your daddy teach you that? On that point, I've got evidence on my side.</line>
 <line speaker="Knightley">Check the number of bullets left in the chamber. Only two shots fired, see?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Something's been bothering me for a while now... What about the chamber of your own gun?</line>
 <line speaker="Knightley">My woman here? ...Now that you mention it. I've been firing it off for a while now.</line>
 <line speaker="Edgeworth"><thought>Hm? Every time he fires, he reloads the gun...?</thought></line>
@@ -2302,14 +2301,14 @@
 <line speaker="Edgeworth"><thought>That's it! In order to switch the guns, he would have needed to reload the bullets! Knightley is barehanded. And he had no time to put on gloves when the switch was made...</thought></line>
 <line speaker="Knightley">Well, I think it's about time for you to resign. How about it, Prosecutor Edgeworth?</line>
 <line speaker="Knightley">There's no evidence that I switched the guns, right?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If it's evidence...</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">There isn't any. If there is, show it to me.</line>
 <line speaker="Gumshoe">We know there is, pal! Don't we, Mr. Edgeworth!?</line>
 <line speaker="Edgeworth"><thought>There is no time for another investigation. I can only use what I have right now. Think. Consider all the possibilities...!</thought></line>
 <line speaker="Knightley">He he he... If you've got something to show, let me know.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kay">Evidence that Knightley switched the guns? Does that even exist...</line>
 <line speaker="Edgeworth">There's no evidence that directly proves that Knightley switched the guns... Yet, we know for a fact he did.</line>
 <line speaker="Gumshoe">If he didn't, there would be no explanation for the ballistic markings.</line>
@@ -2322,17 +2321,17 @@
 <line speaker="Edgeworth">...the ballistic markings, of course!</line>
 <line speaker="Gumshoe">M-Mr. Edgeworth. About the ballistic markings...</line>
 <line speaker="Edgeworth">I know how they work, Detective. I don't need an explanation.</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">You sure about that? You don't seem to get it. The markings point to me, huh? Just what kind of ballistic markings are they, anyway? Do they spell out my name? Great joke, Prosecutor Edgeworth.</line>
 <line speaker="Edgeworth"><thought>...He's right. Ballistic markings only link a bullet to a certain gun, not to its user. What I need is evidence that directly links Knightley to the gun...!</thought></line>
 <line speaker="Edgeworth">It must be the bloodstains!</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">...And which bloodstain would that be? The only bloodstains I can recall belonged to De Killer and Rooke. Did you find another one? Please do tell. Or perhaps their bloodstains somehow link to the gun?</line>
 <line speaker="Edgeworth">Nnnngh... Th-That's... <thought>I can't make such a mistake after coming this far!</thought></line>
 <line speaker="Edgeworth">You left your fingerprints on this gun.</line>
-<line speaker="Knightley"><cutIn>Objection!</cutIn></line>
+<line speaker="Knightley"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Knightley">Fingerprints...? Hah! That should be expected! I handled the gun earlier when I seized your evidence. Of course my fingerprints are on it!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But what if the fingerprints are in a place they should not be?</line>
 <line speaker="Knightley">What!? Th-That's not possible!</line>
 <line speaker="Edgeworth">...Allow me to show you. There is one place where your fingerprints should not be... This piece of evidence will deal the final blow to your king!</line>
@@ -2378,9 +2377,9 @@
 <line speaker="Edgeworth">The reason is because... this case is not over yet.</line>
 <line speaker="Gumshoe">Huh? Not over? What do you mean, sir?</line>
 <line speaker="Edgeworth">What shows that this case is not over yet?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">De Killer's card...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">Th-That's...!</line>
 <line speaker="Edgeworth">Heh... Do you understand what I'm trying to say?</line>
 <line speaker="Gumshoe">O-Oh, y-yeah! It's um... Nope, sir. I haven't got a clue!</line>
@@ -2394,67 +2393,67 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right... I need to reconsider the information.</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information. I need to think this over one more time.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your statement just now, it contradicts this piece of evidence!</line>
 <line speaker="Doe">Is that so? ...Do you need glasses?</line>
 <line speaker="Edgeworth">...No, I do not.</line>
 <line speaker="Doe">Is that so? ...What about hearing aids?</line>
 <line speaker="Edgeworth"><thought>Gah... There's no contradiction. I should take another look at the evidence while I listen to his testimony...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your testimony clearly contradicts this piece of evidence.</line>
 <line speaker="Doe">Prosecutor Edgeworth. Can't you see my ice cream is melting?</line>
 <line speaker="Edgeworth">The problem now is not your ice cream, but your testimony!</line>
 <line speaker="Doe">I would say the real problem lies with your statement.</line>
 <line speaker="Edgeworth"><thought>I-I was wrong...! I should only present evidence when I'm sure that I've found the contradiction.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I'd like you to have a look at this piece of evidence!</line>
 <line speaker="Doe">But of course. To what do I have the pleasure of looking at? ........</line>
 <line speaker="Edgeworth">Don't you have anything to say?</line>
 <line speaker="Doe">Nothing in particular.</line>
 <line speaker="Edgeworth"><thought>So this is the wrong piece of evidence... I need to pay close attention to his testimony, in order to find the contradiction.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Swift... This proves that you're lying!</line>
 <line speaker="Nicole">Hearsay! Defamation! World exclusive as reporter exposes the truth behind false arrest!</line>
 <line speaker="Edgeworth">Th-That's not quite...</line>
 <line speaker="Nicole">His temper's risin'! You can almost see the steam comin' outta his ears!</line>
 <line speaker="Edgeworth">Gah! <thought>I-I think I'm coming at this wrong...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I'd like you to take a look at this piece of evidence...</line>
 <line speaker="Nicole">..........</line>
 <line speaker="Edgeworth">Yes, this piece of of evidence...</line>
 <line speaker="Nicole">Mr. Prosecutor, err...</line>
 <line speaker="Edgeworth">N-No, I've got nothing more to say on the matter. <thought>I need to think this over one more time.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Swift! You're lying!</line>
 <line speaker="Nicole">...I see. So that's how it is. Must be tough on ya. No matter where you go, ya gotta fulfill yer quotas. How many more folks y'all plannin' to arrest this month? Hm? Care to comment?</line>
 <line speaker="Edgeworth"><thought>I must have given her the wrong idea... It seems this isn't the piece of evidence I need.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I won't let that statement pass. It contradicts this piece of evidence!</line>
 <line speaker="Huang">Your reasoning is at fault! My reasoning stands like steel! Feeble Prosecutor! Accept my reasoning!</line>
 <line speaker="Edgeworth">Th-That... reasoning is...</line>
 <line speaker="Huang">There is no use arguing!</line>
 <line speaker="Edgeworth"><thought>I was the one at fault here...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There is a contradiction in your testimony. This piece of evidence proves it...</line>
 <line speaker="Huang">I admire your spirit! However! As the head of Zheng Fa, I cannot turn a blind eye to any evil! You have the courage of a foolish child! You alone must suffer for your mistake!</line>
 <line speaker="Edgeworth">Rrrgggh... <thought>I-I was mistaken!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement is contradictory! Have a look at this evidence!</line>
 <line speaker="Huang">It was inevitable! Knightley!</line>
 <line speaker="Knightley">Got it, Mr. President! Hey Mr. Prosecutor, the only thing contradictory...</line>
 <line speaker="Huang">Is your own statement!</line>
 <line speaker="Edgeworth">Nnghooh! Th-They're ganging up on me...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There's a glaring contradiction in your testimony.</line>
 <line speaker="Knightley">That so? The only flaw I see... ...is that it's just too perfect, there are no contradictions! Better wipe the board clean, Mr. Prosecutor. Looks like you're out of your league!</line>
 <line speaker="Edgeworth"><thought>I-I can't argue with that... I'd better look over the facts before I try again.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">What do you think of this!</line>
 <line speaker="Knightley">Mr. Prosecutor... Haven't you forgotten the rules of chess?</line>
 <line speaker="Edgeworth">Hm... Maybe I should present this instead...</line>
 <line speaker="Knightley">GOTCHA! It's against the rules to touch a piece and then not move it! Take the penalty!</line>
 <line speaker="Edgeworth">Ngh... <thought>What was I thinking...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I don't see the point of your testimony.</line>
 <line speaker="Knightley">Oh, and you think you're any better? Always rambling on and on, you're the one who can't make a straight point! You sure you have the capacity for this? Mentally speaking.</line>
 <line speaker="Edgeworth"><thought>There was no contradiction... I need to calm down and think things over again.</thought></line>

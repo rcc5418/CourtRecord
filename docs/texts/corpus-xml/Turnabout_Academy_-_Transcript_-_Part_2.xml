@@ -1,6 +1,6 @@
 
-<line>Turnabout Academy</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Academy</title>
 <line speaker="Athena"><thought>Ugh. My butterflies have butterflies in their stomach.</thought></line>
 <line speaker="Apollo">So, what's it like to have your very own case for the first time?</line>
 <line speaker="Athena">My heart hasn't raced this fast since I ran that full marathon last year.</line>
@@ -151,7 +151,6 @@
 <line speaker="Athena"><thought>Anyone can see the similarities between the script and this case. But that doesn't mean Junie's the killer!</thought></line>
 <line speaker="Apollo">I know it's frustrating, Athena, but we don't have much to go on at this point. All you can do is relentlessly press the witness and hope you find a hole.</line>
 <line speaker="Athena">Okay, got it! <thought>Press relentlessly! Right!</thought></line>
-<line speaker="After pressing first and fourth statements">Judge:</line>
 <line speaker="Blackquill">Hmph. Now do you see how clear-cut my case is? Take it now, and in that fair, desperate mind of yours... ...etch it deep so you may never forget!</line>
 <line speaker="Athena">N-No... Nooooooooooooooo! <thought>Even my arguments get thrown back in my face. It wasn't supposed to be like this. What am I going to do?</thought></line>
 <line speaker="Apollo">...Athena. You should just about have all the answers you've been looking for now.</line>
@@ -647,7 +646,7 @@
 <line speaker="Athena">Athena:</line>
 <line speaker="O'Conner">The final bell had already rung. They get mad when you stand around chatting. Then again, we're not like you people, talking endlessly in those annoyingly loud voices.</line>
 <line speaker="Athena">Athena:</line>
-<line speaker="Apollo">Normally, I'd shout, "<cutIn>Objection!</cutIn>" right about now, but I'll take this one for the team.</line>
+<line speaker="Apollo">Normally, I'd shout, "<cutIn type="objection">Objection!</cutIn>" right about now, but I'll take this one for the team.</line>
 <line speaker="O'Conner">Heh. Anyway, I think that's about all I have to say.</line>
 <line speaker="O'Conner">Oh, let me add I never went to the art room. There was no reason for me to be there.</line>
 <line speaker="Athena">Athena:</line>

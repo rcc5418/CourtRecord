@@ -1,6 +1,6 @@
 
-<line>The Monstrous Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Monstrous Turnabout</title>
 <line speaker="Apollo">You okay, Athena? You've been really antsy ever since we got here.</line>
 <line speaker="Athena">I-I'm just excited. This IS my first real court case after all!</line>
 <line speaker="Apollo"><thought>Yeaaah, a real ball of excitement she is... I know just what she needs.</thought> ATHENA!!!</line>
@@ -662,7 +662,7 @@
 <line speaker="Fulbright">Ha ha ha! Have no fear, Fulbright is here! When the going gets tough, the Champion of Justice gets going!</line>
 <line speaker="Apollo">Apollo:</line>
 <line speaker="Fulbright">Oh, but I stand in awe of Simon Blackquill, for it is his sense of justice that set him free!</line>
-<line speaker="Judge"><cutIn>Objection!</cutIn> <cutIn>Objection!</cutIn> I object to Detective Fulbright's definition of justice!</line>
+<line speaker="Judge"><cutIn type="objection">Objection!</cutIn> <cutIn type="objection">Objection!</cutIn> I object to Detective Fulbright's definition of justice!</line>
 <line speaker="Blackquill">Silence!</line>
 <line speaker="Blackquill">Hmph. I'm not in the habit of cutting down unarmed cowards.</line>
 <line speaker="Judge">Oh, w-well, in that case, Prosecutor Blackquill, can I ask you to, umm, you know...</line>

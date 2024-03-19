@@ -137,7 +137,7 @@
 <line speaker="Stronghart">Why, what else? To locate my missing copy of 'The Lion's Pride'.</line>
 <line speaker="Ryunosuke">Oh!</line>
 <line speaker="Stronghart">It's on one of the shelves in this room. Of that I am certain. Now...I shall give you ten minutes. And let's stake your student stipend on it, hm? Fail to find the book, and you forfeit next month's payment.</line>
-<line speaker="Ryunosuke">Ob-<cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">Ob-<cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Stronghart">Your time starts...now. ...Oh, and one more thing. I believe you just said the word 'objection'.</line>
 <line speaker="Ryunosuke">Ugh...</line>
 <line speaker="Stronghart">Kindly leave your fivepence over there before you begin combing the shelves.</line>

@@ -66,7 +66,7 @@
 <line speaker="Apollo">Looks like we need a bit more information.</line>
 <line speaker="Judge">Very well, the defense may begin the cross-examination.</line>
 <line speaker="Ema">The night of the murder, I was on security backstage, at Prosecutor Gavin's request.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">The night of the murder was the night of the concert, yes?</line>
 <line speaker="Ema">That's right.</line>
 <line speaker="Apollo">What was a detective doing on security detail, might I ask? ...If it was only a concert?</line>
@@ -87,7 +87,7 @@
 <line speaker="Ema">Well I can't! What do you mean "time on their hands"!?</line>
 <line speaker="Judge">Please, the testimony.</line>
 <line speaker="Ema">Only people involved with the concert in some way were allowed backstage.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">...We were let in, though.</line>
 <line speaker="Ema">I didn't know about that! I certainly didn't invite you.</line>
 <line speaker="Klavier">I gave the Fräulein special permission to be there. ...I wanted to see her again.</line>
@@ -97,7 +97,7 @@
 <line speaker="Apollo"><thought>So no other "outsiders" were there, then.</thought></line>
 <line speaker="Ema">And then...</line>
 <line speaker="Ema">At the beginning of the third set... I heard shots.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">I believe we were having a chat when we heard the shots.</line>
 <line speaker="Ema">You were the one chatting. I was eating Snackoos.</line>
 <line speaker="Judge">Ah! Hey! No snacking in court!</line>
@@ -109,7 +109,7 @@
 <line speaker="Judge">Please, either talk, or eat. Not both at the same time!</line>
 <line speaker="Ema">...... *gulp* Right, so after that... ...me and Mr. Lawyer there opened the dressing room door.</line>
 <line speaker="Ema">I went into the room, filled with blaring rock music, and found the body.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Rock?</line>
 <line speaker="Ema">Blaring, yes.</line>
 <line speaker="Judge">When you say "rock", are you referring, perhaps... ...to this "rock 'n' roll" music that's so popular these days?</line>
@@ -122,11 +122,11 @@
 <line speaker="Klavier">...Then everyone on stage for that song has an alibi. Including myself.</line>
 <line speaker="Ema">Anyway, I closed off the scene and started my investigation.</line>
 <line speaker="Ema">I examined the scene and determined that only the defendant could have done it.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">How could you know something like that!?</line>
 <line speaker="Ema">As I said, it was clear from the circumstances. Listen... We know there was only one exit from the room: that door. The small window only opened a tiny crack. And I was standing in front of that door. So, how could the killer have fled the scene? There's only one possibility: the air vent.</line>
 <line speaker="Judge">Ah...</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">B-But that air vent was too small! Who could possibly...</line>
 <line speaker="Ema">Exactly.</line>
 <line speaker="Apollo">...!</line>
@@ -136,7 +136,7 @@
 <line speaker="Klavier">And of all the people involved with the concert... ...only one is small enough to be considered a "child".</line>
 <line speaker="Judge">The... The defendant!?</line>
 <line speaker="Klavier">The pixie of the arpeggio flitted up toward the sky... ...and disappeared from the scene of the crime.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">B-But that's just conjecture!</line>
 <line speaker="Klavier">Oh? There was no other way out of that room. You were there. You should know, Herr Forehead.</line>
 <line speaker="Apollo">...!</line>
@@ -157,7 +157,6 @@
 <line speaker="Apollo"><thought>I know the circumstances under which the body was found... I was there.</thought></line>
 <line speaker="Trucy">An examination of the crime scene was enough to nail down the killer?</line>
 <line speaker="Apollo">I'm sure they have a good reason. <thought>They must have had a good reason to arrest Machi... ...And I'm going to find out what it was!</thought></line>
-<line speaker="After pressing first, fourth, and fifth statements">Judge:</line>
 <line speaker="Apollo">!</line>
 <line speaker="Judge">The prosecution has a rather convincing case. The only way in and out of the crime scene was watched. Making the defendant the only one who could possibly leave the scene. Simple, and decisive.</line>
 <line speaker="Apollo">Ugh...</line>
@@ -173,7 +172,7 @@
 <line speaker="Apollo">The defense is prepared to show contradicting evidence!</line>
 <line speaker="Klavier">This should be interesting! What sort of evidence?</line>
 <line speaker="Judge">Yes, what sort of evidence, Mr. Justice? Show us evidence contradicting the prosecution's claims!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">This evidence does more than contradict, it flips the whole case on its head!</line>
 <line speaker="Judge">......</line>
 <line speaker="Klavier">Thank you for presenting evidence that is both clear and plain, as requested.</line>
@@ -186,7 +185,7 @@
 <line speaker="Judge">Let's ask the defense once again.</line>
 <line speaker="Apollo">I... don't have contradicting proof, actually.</line>
 <line speaker="Judge">Too bad. Very well, this court finds the defendant...</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Trucy">W-Waaait!</line>
 <line speaker="Judge">Wh-What for?</line>
 <line speaker="Trucy">We have, uh, what was it called? Contradictual proof? Anyway, whatever it is, we've got it!</line>
@@ -214,15 +213,15 @@
 <line speaker="Klavier">Perhaps he did... and perhaps he did not.</line>
 <line speaker="Apollo">What do you mean by that?</line>
 <line speaker="Klavier">All we know is what Herr Forehead says he said. It's no testimony, especially since it comes from the defense attorney himself.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">But it's the truth! He said it! I even told you about it! But apparently, you ignored me completely.</line>
 <line speaker="Klavier">It's my policy to fully investigate everything I deem relevant. Clearly this rookie lawyer thinks he can tell me how to do my job.</line>
 <line speaker="Judge">...That's enough! Mr. Justice, we need clear contradictory proof from you. This witness of yours, unknown to the prosecution... ...I hope you're right. Failure carries a stiff penalty.</line>
 <line speaker="Klavier">Perhaps... A stiffer penalty than usual is called for?</line>
 <line speaker="Apollo"><thought>Urk! There's no backing out now!</thought></line>
 <line speaker="Judge">Let's hear the name of your witness, Mr. Justice.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">And you claim that they witnessed the murder?</line>
 <line speaker="Klavier">This is a bit unexpected. And you have proof?</line>
 <line speaker="Apollo">Well, actually... <thought>Uh oh. I can't think of anything.</thought></line>
@@ -273,13 +272,13 @@
 <line speaker="Judge">Very well, Mr. Justice. Keep it short and sweet!</line>
 <line speaker="Apollo"><thought>Lamiroir wouldn't talk to me the night of the crime. She must know something, and I've got to find out what!</thought></line>
 <line speaker="Lamiroir">As for what I saw... I saw nothing.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">But you must have seen something! Mr. LeTouse named you!</line>
 <line speaker="Lamiroir">Mr. LeTouse... ...How can I tell you what I don't know?</line>
 <line speaker="Apollo">Lamiroir! He said you were a witness with his dying words!</line>
 <line speaker="Lamiroir">I do not know what he meant to say, but that night...</line>
 <line speaker="Lamiroir">That night, I was invited to sing on stage, and this I did.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">It... It was a great concert.</line>
 <line speaker="Lamiroir">You heard me sing? Thank you.</line>
 <line speaker="Apollo">I was hoping to get an autograph later, actually...</line>
@@ -293,13 +292,13 @@
 <line speaker="Apollo"><thought>Apparently his grandson is a big fan...</thought></line>
 <line speaker="Klavier">Let us continue, shall we? If you would, Lamiroir... ...Tell us what you did after your stellar performance.</line>
 <line speaker="Lamiroir">I did not return backstage after the second set.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You did not return backstage once? Where were you then? What were you doing?</line>
 <line speaker="Lamiroir">I was cleaning up on stage. There are many things I must do for a performance other than simply sing.</line>
 <line speaker="Apollo">And was Machi with you at the time?</line>
 <line speaker="Lamiroir">Unfortunately, I do not know where he was...</line>
 <line speaker="Apollo"><thought>So much for an alibi for Machi...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">I'm sorry Lamiroir, but I'm having trouble believing you.</line>
 <line speaker="Lamiroir">......</line>
 <line speaker="Apollo">You remember this brooch, do you not?</line>
@@ -355,14 +354,14 @@
 <line speaker="Apollo">Testify as to what you saw!</line>
 <line speaker="Lamiroir">Very well. Though it was only the briefest of glimpses...</line>
 <line speaker="Lamiroir">When my performance was finished, I went backstage for just a moment...</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">What did you see in that brief glimpse?</line>
 <line speaker="Lamiroir">I had only opened the door slightly when I heard that horrible voice...</line>
 <line speaker="Judge">...And shut the door.</line>
 <line speaker="Klavier">I have always wondered, Herr Forehead. Does that voice of yours lack a volume knob?</line>
 <line speaker="Apollo"><thought>It's my Chords of Steel, man. Just back off!</thought></line>
 <line speaker="Lamiroir">I saw nothing. The late Mr. LeTouse's body was behind a wall.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">A wall...? Was there a wall there?</line>
 <line speaker="Lamiroir">"[Borginese speaking]" is what in English?</line>
 <line speaker="Klavier">A "division" or "partition", I believe. It was a large dressing room, divided into two halves.</line>
@@ -381,8 +380,8 @@
 <line speaker="Apollo"><thought>She was hiding something, I knew it!</thought> Lamiroir, I'm afraid you haven't realized it, but... ...your words just now contradict your testimony!</line>
 <line speaker="Lamiroir">Eh? How could that be!?</line>
 <line speaker="Apollo"><thought>...Take this! Lamiroir contradicted her own testimony, and I have the evidence to prove it!</thought></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lamiroir">If I do not misunderstand the meaning of "contradiction"... ...it is you who contradict, Mr. Justice.</line>
 <line speaker="Apollo">Huh?</line>
 <line speaker="Lamiroir">Your evidence... is meaningless.</line>
@@ -403,7 +402,7 @@
 <line speaker="Trucy">She looks kind of pale, huh?</line>
 <line speaker="Apollo">She saw something, I know it. Even the victim said so!</line>
 <line speaker="Lamiroir">I saw bullet holes in the wall, and knew Mr. LeTouse had been shot...</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Only a glimpse, yet you knew they were bullet holes?</line>
 <line speaker="Lamiroir">Yes. I recognized them immediately. I have seen bullet holes before, you know.</line>
 <line speaker="Klavier">You have traveled the world as a singer... You must have sung in places far more dangerous than our country.</line>
@@ -411,15 +410,15 @@
 <line speaker="Trucy">That's really cool! I hope I get to travel like Lamiroir some day.</line>
 <line speaker="Klavier">I plan on recording my next album overseas. Their studios have a different sound, you know.</line>
 <line speaker="Apollo"><thought>Hmm. Maybe I should go on a Chords of Steel tour, too.</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lamiroir">Then I was led by the police to Mr. Gavin's dressing room, and told to wait there.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">With Machi, correct? How was he then?</line>
 <line speaker="Lamiroir">He seemed as he always does. Though I believe he was shocked by the news of Mr. LeTouse's death. Yet... He is not the type to show much emotion.</line>
 <line speaker="Klavier">Yes. He's given the police no end of headaches. He answers most questions with silence... and those glinting frames speak nothing. The questioning hasn't gotten very far.</line>
 <line speaker="Lamiroir">We sat there, waiting...</line>
 <line speaker="Lamiroir">That was where I learned that something had happened... But I wasn't told the details.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">How was the incident explained to you?</line>
 <line speaker="Lamiroir">I was told nothing in detail. Only that Mr. LeTouse died.</line>
 <line speaker="Judge">Of course, investigations require some security.</line>
@@ -457,26 +456,26 @@
 <line speaker="Apollo"><thought>This whole thing smells fishy... That's what's wrong.</thought></line>
 <line speaker="Trucy">...?</line>
 <line speaker="Lamiroir">I was on my way from the stage to the backstage exit.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So you were heading toward the dressing room?</line>
 <line speaker="Lamiroir">Yes.</line>
 <line speaker="Apollo"><thought>So this is a little before she opened the dressing room door and dropped her brooch. ...About the same time Ema and I heard those shots.</thought></line>
 <line speaker="Lamiroir">I was on my way back...</line>
 <line speaker="Lamiroir">There was something like a little window there... That's how I saw it.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Um, what exactly is something like a little window?</line>
 <line speaker="Lamiroir">Yes, well... "Window" is the best word I know in English. I think this is how it is said, yes.</line>
 <line speaker="Klavier">You need not worry, Lamiroir. Your choice of words is impeccable. There is a small window in the dressing room in question. Perhaps the defense remembers this detail?</line>
 <line speaker="Apollo"><thought>That little window on the wall...</thought></line>
 <line speaker="Lamiroir">I, er, saw the crime from there.</line>
 <line speaker="Lamiroir">There were two shots... I couldn't do anything to stop it.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You are certain you heard two shots fired?</line>
 <line speaker="Lamiroir">Yes, quite certain. I was on my way to the backstage exit. This was when I heard a faint sound... like a gunshot. Wondering what it had been, I peered through the window. That is when I heard the second gunshot, much closer.</line>
 <line speaker="Apollo"><thought>And there were two bullet holes at the scene... no contradictions so far.</thought></line>
 <line speaker="Lamiroir">...It all happened on the other side of that window. There was nothing I could do.</line>
 <line speaker="Lamiroir">But it wasn't Machi!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">It wasn't Machi who shot... Are you sure?</line>
 <line speaker="Lamiroir">Yes, quite certain.</line>
 <line speaker="Klavier">Ah ha ha... It amuses me that you would question her testimony. It is testimony in your favor! Isn't it my job to object?</line>
@@ -484,7 +483,7 @@
 <line speaker="Apollo">Trucy... Let's just listen to what Lamiroir has to say. Can you tell me how you were so sure?</line>
 <line speaker="Lamiroir">Yes, of course. You see...</line>
 <line speaker="Lamiroir">It was a grown person! ...I know it was!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Trucy">You can't ask for a better testimony than that!</line>
 <line speaker="Apollo">I'm not so sure it's all that simple, Trucy. <thought>There's a critical flaw in this testimony... And I have to point it out, even if it isn't good for our case...</thought></line>
 <line speaker="Apollo">A "grown person"... That's a little vague.</line>
@@ -525,9 +524,9 @@
 <line speaker="Klavier">Yes, and when the murder took place... ...that window was closed. I find it hard to believe you could hear a voice through it.</line>
 <line speaker="Lamiroir">What!? B-But I... I'm sure...</line>
 <line speaker="Klavier">...Lamiroir. I have nothing but the highest regard for your musical sense. ...But my opinion of you as a witness is somewhat lesser.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">B-But she's the only eye-witness we have!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">So you say. And the victim named her, the "Siren" as the witness?</line>
 <line speaker="Apollo">Th-That's right! That's what Mr. LeTouse...</line>
 <line speaker="Klavier">We heard your claim. We even entertained the possibility. And it brought us to this. Herr Judge!</line>
@@ -538,7 +537,7 @@
 <line speaker="Trucy">Then we don't have a chance of proving Machi's innocence.</line>
 <line speaker="Judge">This cross-examination is over! ...Prosecutor Gavin. You may continue making your case.</line>
 <line speaker="Klavier">...Danke. Now where were we? Ah yes, I would like to hear from Fräulein Detective again.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Wait! Let me hear Lamiroir's testimony one last time...</line>
 <line speaker="Judge">But the cross-examination is already over. Until such a time as a need arises... ...this witness may leave the stand.</line>
 <line speaker="Lamiroir">...... I'm sorry I could not be of more assistance.</line>
@@ -580,7 +579,7 @@
 <line speaker="Judge">Very well! We've heard one song and dance, let's get on to the next: the cross-examination!</line>
 <line speaker="Apollo"><thought>I'm not so sure I'm going to be doing much singing...</thought></line>
 <line speaker="Ema">I believe Machi stole the body because of some lyrics.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Who would steal a body just to match some lyrics!?</line>
 <line speaker="Ema">I didn't believe it myself. But it can't just be a coincidence.</line>
 <line speaker="Klavier">It is as Fräulein Detective says. Let us begin with the first verse. If you would, Fräulein Detective.</line>
@@ -595,7 +594,7 @@
 <line speaker="Trucy">It's hard to argue when she pours her heart into it like that.</line>
 <line speaker="Ema">Ah, er, ahem! Anyway, the shooter...</line>
 <line speaker="Ema">He moved the body to match Lamiroir's song.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Does the prosecution have any idea why he'd do all this?</line>
 <line speaker="Ema">You want my scientific opinion? "No clue." But, he clearly had a reason to go through all that trouble. Some deep reason.</line>
 <line speaker="Apollo">A deep reason?</line>
@@ -605,7 +604,7 @@
 <line speaker="Judge">Indeed, it does seem too well rehearsed, shall we say.</line>
 <line speaker="Ema">Yes. This crime was planned for sure.</line>
 <line speaker="Ema">No one in this country had a motive to kill the victim.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">But... Mr. LeTouse spoke English! He may have come to this country before!</line>
 <line speaker="Ema">I looked into that, I assure you.</line>
 <line speaker="Apollo">Oh.</line>
@@ -621,7 +620,7 @@
 <line speaker="Apollo"><thought>And I'd never heard of them. What does that say about me?</thought></line>
 <line speaker="Ema">I was just kidding! Don't get all worked up, glimmer-boy.</line>
 <line speaker="Ema">And, Machi practically left his signature at the scene.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">What do you mean by his "signature"?</line>
 <line speaker="Ema">The bullet holes in the wall, of course.</line>
 <line speaker="Apollo">The bullet holes...?</line>
@@ -674,7 +673,7 @@
 <line speaker="Ema">Ahh! Nothing like a scientific explanation to get the blood pumping!</line>
 <line speaker="Apollo"><thought>Why's mine frozen in my veins, then...?</thought></line>
 <line speaker="Ema">All of the evidence clearly points to the defendant.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">But, but you can't say that for sure!</line>
 <line speaker="Ema">Please, none of those non-scientific objections. They're bad for my complexion.</line>
 <line speaker="Apollo">What's so scientific about a murder to lyrics!?</line>
@@ -683,14 +682,14 @@
 <line speaker="Ema">...... I require more data.</line>
 <line speaker="Apollo"><thought>Hah! Likely story...</thought></line>
 <line speaker="Ema">From the state of the crime scene, I conclude the shooter was blind.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You can't say he was blind just because of those bullet holes in the wall! I think I've proven that!</line>
 <line speaker="Ema">...I wouldn't call it "proof", per se.</line>
 <line speaker="Apollo">Huh?</line>
 <line speaker="Klavier">You've merely raised a "possibility".</line>
 <line speaker="Apollo">...!</line>
 <line speaker="Klavier">Fräulein Detective has made a most logical conjecture based upon the evidence. Of course, there is more evidence than just bullet holes. The defendant was the only one who could have escaped through the air vent.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">But wait! If he was blind... ...how would he know about the air vent in the first place?</line>
 <line speaker="Klavier">...Ah, a very good point. Well, Fräulein Detective? If you would care to explain?</line>
 <line speaker="Apollo"><thought>He certainly seems sure of himself...</thought></line>
@@ -709,8 +708,8 @@
 <line speaker="Klavier">As I knew you would, Herr Forehead.</line>
 <line speaker="Apollo"><thought>What exactly am I up against here...? The prosecution is saying the shooter missed because he or she couldn't see... Therefore, Machi, who's blind, did it.</thought></line>
 <line speaker="Judge">The defense will please present their evidence. ...Evidence that overturns the prosecution's claim that the shooter couldn't see!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...... I'm not sure that overturns anything, Mr. Justice.</line>
 <line speaker="Apollo"><thought>Ugh. Wrong evidence, I'm guessing...</thought></line>
 <line speaker="Klavier">Apparently both love... and Justice are blind.</line>
@@ -721,7 +720,7 @@
 <line speaker="Trucy">Apollo! Grow a backbone!</line>
 <line speaker="Judge">Very well. The witness may continue her testimony.</line>
 <line speaker="Apollo"><thought>I couldn't even get a word in edgewise...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">The prosecution holds that the "shooter couldn't see".</line>
 <line speaker="Ema">A scientific conclusion based on a thorough examination of the crime scene, yes.</line>
 <line speaker="Apollo">Apparently not thorough enough. I have a certain piece of evidence that completely overturns your claim!</line>
@@ -736,8 +735,8 @@
 <line speaker="Apollo"><thought>I don't care much for the smirk on Prosecutor Gavin's face... But this is no time to think twice... Time to press on!</thought> Yes, Your Honor, the crime scene. There is something in here that decisively contradicts the prosecution's point!</line>
 <line speaker="Klavier">Then perhaps you'd best show us this "something". Get your finger out of the breeze and put it to good use, ja?</line>
 <line speaker="Judge">Very well, show us what you're talking about, Mr. Justice! The contradiction at the scene of the crime is...</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">Look! The contradiction's right there! Plain as day!</line>
 <line speaker="Judge">...... Your finger has a force of weight... ...that I'm afraid your argument lacks, Mr. Justice. I see nothing!</line>
 <line speaker="Apollo"><thought>Ugh... What a time to mess up.</thought></line>
@@ -792,7 +791,7 @@
 <line speaker="Klavier">I have a report here on the defendant, Machi Tobaye. According to this, Machi Tobaye... ...can see perfectly well.</line>
 <line speaker="Ema">What...?</line>
 <line speaker="Klavier">His blindness was merely a publicity ploy by those clever Borginians. He can see quite well.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">B-But you said...</line>
 <line speaker="Klavier">...What did I say, exactly?</line>
 <line speaker="Apollo">!</line>
@@ -876,7 +875,7 @@
 <line speaker="Apollo"><thought>Machi had no reason to pretend he couldn't see... Which means... No. It couldn't be!</thought></line>
 <line speaker="Klavier">...Good show, Herr Forehead. It seems you've thought of something.</line>
 <line speaker="Apollo"><thought>Grr... Why can't I figure these things out on my own? I hate having to take my cues from this guy.</thought> ...Very well. Look at this. This is why he was pretending he couldn't see!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">That is... Lamiroir?</line>
 <line speaker="Apollo">Lamiroir and Machi Tobaye. Recall their relationship. In particular, their unique arrangement over the years before visiting our country.</line>
 <line speaker="Ema">Lamiroir and her pianist... They would always walk together, she leading him by the hand. Even when they got on stage, she would lead him to the piano. She would walk all the way over there with him!</line>
@@ -895,7 +894,7 @@
 <line speaker="Judge">Please... Please shed some sanity on this madness! The defense has made an outrageous claim...</line>
 <line speaker="Klavier">The only thing outrageous I see about the defense is his vast forehead... ...Yet I see it is not vast in vain. This time. He's quite correct.</line>
 <line speaker="Judge">B-But that makes no sense!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">What... is that supposed to mean? I don't see how it relates to the defendant's vision or lack thereof.</line>
 <line speaker="Apollo">Well, see, it... <thought>...is the wrong piece of evidence.</thought></line>
 <line speaker="Judge">I do see how your lack of an answer relates to this penalty, however!</line>
@@ -968,7 +967,7 @@
 <line speaker="Judge">Very well. The defense may proceed. However... Be aware this court will not tolerate any questions deemed too stressful to the witness.</line>
 <line speaker="Apollo">...OK. <thought>There was only one part that bothered me... Just let me ask about that and I'll be happy.</thought></line>
 <line speaker="Lamiroir">I have no memory of the "light".</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So, you don't know why you went blind?</line>
 <line speaker="Lamiroir">...I do not. I may have been born this way, in fact.</line>
 <line speaker="Klavier">...It's fruitless to attempt to pry into her past. And, I might add, it's a delicate subject.</line>
@@ -976,7 +975,7 @@
 <line speaker="Apollo"><thought>Hey! Why I oughta... take a deep breath and calm down.</thought></line>
 <line speaker="Lamiroir">What I am now is all that I have. It is enough, I think.</line>
 <line speaker="Lamiroir">I debuted in a world of darkness and sound...</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Weren't you nervous to hit the stage in your condition?</line>
 <line speaker="Lamiroir">No, not at all, surprisingly. It felt natural, singing in front of everyone.</line>
 <line speaker="Judge">It's not something just anyone can do.</line>
@@ -984,7 +983,7 @@
 <line speaker="Lamiroir">Even without light, I live perfectly happy in my world of sound. If that is a talent, as you say, then I thank the gods responsible.</line>
 <line speaker="Apollo">What about your PR motto?</line>
 <line speaker="Lamiroir">My producer came up with my PR line before he knew this.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Perhaps your music reminded him of the Borginian scenery?</line>
 <line speaker="Lamiroir">Ah ha ha. No, it was quite the opposite.</line>
 <line speaker="Apollo">The opposite?</line>
@@ -995,14 +994,14 @@
 <line speaker="Klavier">It sounds like this producer might have known what he was doing after all.</line>
 <line speaker="Lamiroir">My songs are nothing more than a white canvas. To me, the real landscape painter [sic] are the listeners. When I think of that, I do not mind how I am represented to the world so much. Yet, one thing quickly led to another...</line>
 <line speaker="Lamiroir">So, silly as it may sound, I had to pretend I could see.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Was that to protect your image as the "landscape painter in sound"?</line>
 <line speaker="Lamiroir">That does not matter so much to me, really. But the label is quite concerned about it, I think.</line>
 <line speaker="Trucy">A landscape painter who can't see... that's like a pianist who can't play, huh.</line>
 <line speaker="Apollo">I'm not sure you can compare your father to Lamiroir.</line>
 <line speaker="Lamiroir">The world of commercial music is filled with these little white lies. Nothing is sacred when it comes to publicity...</line>
 <line speaker="Lamiroir">Everyone on my staff knew, of course, but no others.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo"><thought>I suppose that's her confession, of sorts. There's just one part that bothers me... ...And I'm going to get to the bottom of it.</thought></line>
 <line speaker="Apollo">When you say your staff, do you include Mr. LeTouse?</line>
 <line speaker="Lamiroir">Of course. He was my manager.</line>
@@ -1072,7 +1071,7 @@
 <line speaker="Apollo">Yeah, somehow...</line>
 <line speaker="Judge">Thanks for looking into that for us, Detective Crescend. It's a great help.</line>
 <line speaker="Daryan">Oh, no problem at all, Your Honor. ...I'll be heading out...</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Lamiroir">Wait!</line>
 <line speaker="Judge">La-Lamiroir! Is something the matter?</line>
 <line speaker="Lamiroir">That voice just now...</line>
@@ -1086,19 +1085,19 @@
 <line speaker="Daryan">...No way...</line>
 <line speaker="Apollo"><thought>The courtroom fell into such a chaotic state, the trial had to be suspended temporarily. I'd never seen that happen before. Of course, it's not every day that you get an accusation like that one. Lamiroir, fingering Daryan Crescend. Not only is he a guitarist, he's a detective! Could it really have been his voice Lamiroir heard? Things were changing fast, and frankly, I wasn't sure I could keep up with it.</thought></line>
 <line speaker="Trucy">Hey! No wimping out now, Apollo!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Apollo">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">...You don't sound very sure, Mr. Justice. Objection overruled.</line>
 <line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">This evidence clearly reveals a contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Apollo">They aren't, are they...?</line>
 <line speaker="Judge">Not at all. Mr. Justice, please think the facts over before making accusations.</line>
 <line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! That statement contradicts the evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Apollo">...Um... You sure about that?</line>

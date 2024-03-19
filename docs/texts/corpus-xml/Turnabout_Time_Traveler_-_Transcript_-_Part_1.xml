@@ -1,6 +1,5 @@
-
-<line>Turnabout Time Traveler</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Time Traveler</title>
 <line speaker="Man">I'm not completely heartless! I'll even throw that time machine you cherish so much overboard with you!</line>
 <line speaker="Bride">Please, take me back... back to that blissful moment...!</line>
 <line speaker="Bridesmaid">It's almost time for the reception, m'lady.</line>
@@ -1016,7 +1015,7 @@
 <line speaker="Phoenix">Oh, that's right. You haven't met her yet, have you? Okay. Let's head over to the detention center, so you can say hi.</line>
 <line speaker="Larry">Hey! That's the drawing I made. You'd better take care of it. I bet it's gonna be valuable some day! Oh, do you want me to add a character or something to it?</line>
 <line speaker="Maya">Ooh, could you? I'd love to see a true artist at work!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn> As farcical as this drawing is, there will be no doodling on the evidence until the trial is over.</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn> As farcical as this drawing is, there will be no doodling on the evidence until the trial is over.</line>
 <line speaker="Larry">Wh-Whaddaya mean, "farcical"?! I'm never gonna draw anything for you ever again! Not even if you beg me!</line>
 <line speaker="Maya">Aww... Guess that's that, huh, Nick?</line>
 <line speaker="Phoenix"><thought>Need I remind you that it's still a piece of evidence, Maya...?</thought></line>

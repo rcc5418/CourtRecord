@@ -104,14 +104,14 @@
 <line speaker="Judge">Very well, shall we begin? ...Mr. Wright, your cross-examination, if you would!</line>
 <line speaker="Phoenix"><thought>What's this "reason he couldn't refuse", I wonder? He could have at least mentioned it to me...</thought></line>
 <line speaker="Gumshoe">Actually... the victim kind of ordered the defendant to do him in.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Just because he got the letter doesn't mean he went through with it!</line>
 <line speaker="Klavier">Oh? I disagree. The victim was, indeed, shot in the forehead, after all. Just as he had commanded.</line>
 <line speaker="Phoenix">It could be a set-up. But let's not be in such a hurry. Maybe we should let the witness talk for a change.</line>
 <line speaker="Gumshoe">...Thanks, pal.</line>
 <line speaker="Klavier">...... Fine. I can play it slow as well as I can play it fast. On with the testimony, Detective Gumshoe.</line>
 <line speaker="Gumshoe">A few days before it happened, the victim sent a letter "ordering" his own murder.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">...And this letter was sent by the victim?</line>
 <line speaker="Gumshoe">There it is! Gotcha! You're all mine this time, pal.</line>
 <line speaker="Phoenix">...Huh?</line>
@@ -123,7 +123,7 @@
 <line speaker="Phoenix">I'm not sure this is exactly "commonplace", even now, Your Honor.</line>
 <line speaker="Gumshoe">...So anyway, guess I'll keep going while I'm ahead!</line>
 <line speaker="Gumshoe">The defendant did what was asked of him, and shot the old man in the forehead!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">...How can you be so sure!?</line>
 <line speaker="Gumshoe">Hey, you gotta learn to stop relying on people to do your thinking for you, pal. Learn to think for yourself! Get that noggin cranking!</line>
 <line speaker="Phoenix"><thought>You fail to grasp the concept of "questioning", detective.</thought></line>
@@ -144,7 +144,7 @@
 <line speaker="Phoenix"><thought>...Everyone's so eager to move on. So of course, I want to slow down. ...Is there really not a single clue in this picture?</thought></line>
 <line speaker="Judge">Back to the testimony, if you would, detective.</line>
 <line speaker="Phoenix">People don't normally commit murder just because their teacher told them to. Which means the defendant didn't fire that pistol!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...This is your position, then?</line>
 <line speaker="Phoenix">Um, well, yes.</line>
 <line speaker="Klavier">This is the sort of occasion when my brother would present some "evidence".</line>
@@ -158,12 +158,12 @@
 <line speaker="Phoenix">What does the letter tell us? That the defendant had a "reason he couldn't refuse" his teacher's wishes.</line>
 <line speaker="Gumshoe">Bingo, pal! That's why the defendant popped him one in the forehead!</line>
 <line speaker="Phoenix">Oh? The defense disagrees. You see, the defendant had another choice he could make.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">What, and you can prove that with this photo!?</line>
 <line speaker="Phoenix">...I can prove he had a choice, yes.</line>
 <line speaker="Judge">"The defendant might have fired, like he was ordered. But he didn't shoot the victim's forehead." Well, let's hear what you're thinking, Mr. Wright. If he didn't shoot the victim's forehead, what did the defendant shoot?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Ah... I see! Which is to say... ...I have no idea what you're talking about. Prosecutor Gavin?</line>
 <line speaker="Klavier">The defendant had a choice other than shooting the victim in the forehead? ...Perhaps I might suggest one. He could have shot this attorney in the forehead!</line>
 <line speaker="Phoenix">...Urk!</line>
@@ -173,21 +173,21 @@
 <line speaker="Phoenix">Take a closer look. See? It's been shot in the forehead, too.</line>
 <line speaker="Judge">Ah...! There's a hole in its forehead!</line>
 <line speaker="Phoenix">Yes, and a hole in the prosecution's claim!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Hah! And I suppose you have a reason as to why he'd shoot the clown doll?</line>
 <line speaker="Phoenix">He didn't just shoot the doll. He shot the doll's forehead.</line>
 <line speaker="Klavier">His "forehead"...? Aah...!</line>
 <line speaker="Phoenix">Let's read the "orders" once more, shall we? "...You will shoot, one shot, square in the forehead." ...Which is exactly what he did. He shot the clown doll square in the forehead!</line>
 <line speaker="Judge">The defense has raised an intriguing possibility. That hole in the clown's forehead... It definitely looks like it was shot! Bailiff! Send someone to investigate this matter!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">I admit, I'm impressed. But I expected nothing less. Still, this doesn't mean he didn't shoot the victim!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Perhaps he did have to shoot a forehead, as ordered. But the letter says nothing about whose forehead... This was the only way he had to follow his orders without taking a life!</line>
 <line speaker="Judge">Hmm. The bullet hole in the clown doll's forehead does demand an explanation. It might very well be a clue. Yet Prosecutor Gavin is right. It alone does not prove the defendant's innocence. You cannot say for sure the defendant didn't shoot the victim.</line>
 <line speaker="Klavier">So sorry, Mr. Wright. How sad it is to see the mighty fall.</line>
 <line speaker="Phoenix"><thought>...How sad it is to see the novice's overconfidence. He doesn't realize just how big this little "hole" is going to get.</thought></line>
 <line speaker="Judge">...Detective Gumshoe. Please take this new-found fact into account as you continue your testimony.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">But... it might have been the clown's forehead he shot.</line>
 <line speaker="Gumshoe">OK, so he practiced first on the doll, then shot him!</line>
 <line speaker="Phoenix">He "practiced" in the middle of the hospital? Anyone could have come in at any moment!</line>
@@ -196,7 +196,7 @@
 <line speaker="Phoenix"><thought>Patience. We'll get there sooner than you think.</thought></line>
 <line speaker="Judge">Very well. Please continue with your testimony, detective.</line>
 <line speaker="Gumshoe">The bullet was fired from the pistol found at the scene, no doubt about it.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You mean this pistol, the one in the crime scene photo?</line>
 <line speaker="Gumshoe">...That's the one! It's a funny-looking gun so there's no mistaking it.</line>
 <line speaker="Klavier">We compared the bullet taken from the victim's skull with a bullet fired from this gun. The rifling marks on the bullets were a perfect match.</line>
@@ -215,7 +215,7 @@
 <line speaker="Judge">In any case, the court accepts this evidence.</line>
 <line speaker="Judge">...My grandchild would get a kick out of seeing this. ...But now it's time to return to our testimony.</line>
 <line speaker="Gumshoe">And the pistol definitely belonged to the old man, sir!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">...Why are you so certain?</line>
 <line speaker="Gumshoe">What pile of sand has your head been stuck in all this time, pal? You never heard of "Zak &amp; Valant's Quick-Draw Shootem"?</line>
 <line speaker="Phoenix">Huh? What's that?</line>
@@ -236,28 +236,28 @@
 <line speaker="Judge">In any case, the court accepts this evidence.</line>
 <line speaker="Judge">...My grandchild would get a kick out of seeing this. ...But now it's time to return to our testimony.</line>
 <line speaker="Gumshoe">So what if he shot the clown? He still shot the victim, pal!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So let me get this straight. You're saying my client first shot the clown, then shot the victim?</line>
 <line speaker="Gumshoe">Hey! Not a bad summary, pal!</line>
 <line speaker="Phoenix"><thought>More of a confirmation than a summary, but whatever.</thought></line>
 <line speaker="Klavier">That was really more of a confirmation than a summary. But our defense attorney seems pleased enough with himself.</line>
 <line speaker="Phoenix"><thought>Do these people ever miss a chance to mock me?</thought></line>
 <line speaker="Klavier">Well, now that Mr. Wright's gotten that out of his system... ...shall we continue with the testimony?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>...I didn't have time to gather all the details before coming in here. This testimony might be my only source of information. Better pay attention... and read this letter carefully.</thought></line>
 <line speaker="Phoenix">If you look closely, you can see how the pistol's made to bend here. It's a one-shot model, and I guess this bend is where you load it. So... this is the famous Gramarye Golden Sun. They say kids used to love pretending they had one of those. I wonder if they pretended to miss their targets, too?</line>
 <line speaker="Phoenix">The trickiest cases often seem the simplest. Prosecutor Gavin, you missed the bullet hole in the clown's forehead. If you hadn't missed that, you might have come to a very different conclusion. ...Understand?</line>
 <line speaker="Gumshoe">Y-Yeah, but like I just said, pal... ...after he shot the clown in the forehead, he went and...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">...Did nothing of the sort to the victim. The pistol proves he could not.</line>
 <line speaker="Judge">The murder weapon? How?</line>
 <line speaker="Phoenix">It's quite simple, Your Honor. This pistol only holds one bullet at a time.</line>
 <line speaker="Gumshoe">Ah...!</line>
 <line speaker="Phoenix">If he had shot the clown in the forehead... ...he couldn't have shot the victim, too!</line>
 <line speaker="Gumshoe">Yeeeeeeeeeeeeeargh!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Th-That's not a contradiction. Not even close! All he had to do was reload the pistol after the first shot!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Oh? Where did he get the extra bullet? They're not so easy to come by, you know. If you claim the defendant "had one ready"... ...then prove to us how he got it!</line>
 <line speaker="Klavier">Urk...! ...... Heh... Ha ha ha... I had a feeling this wasn't over yet. No... this party's just getting started. And I haven't proven anything yet, beyond my good looks, and startling record sales.</line>
 <line speaker="Phoenix"><thought>And utter lack of humility.</thought></line>
@@ -355,21 +355,21 @@
 <line speaker="Judge">Yes, the cross-examination generally comes before the conclusions in this court. But, if your testimony proves to be true... ...then the defendant, Zak Gramarye, is guilty.</line>
 <line speaker="Phoenix"><thought>And if it wasn't Zak Gramarye, then the killer was you, Valant! And no disappearing act will get you out of that.</thought></line>
 <line speaker="Valant">That night, I visited the hospital room at the time Magnifi requested.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">...Which, according to the letter, was 11:20 PM?</line>
 <line speaker="Valant">...Indeed. In magic, timing is everything.</line>
 <line speaker="Phoenix">...Right.</line>
 <line speaker="Valant">Consider, the illusion of teleportation. If I were to appear on stage before my stunt double has left, how would that look? Why, it would reveal the very secrets of my magic!</line>
 <line speaker="Klavier">Now that you've revealed the very secrets of your magic for all of us, let's move on. You went at the designated time... and what did you see?</line>
 <line speaker="Valant">The smell of gunpowder hung in the room... and my mentor had taken his final bow.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So... you weren't worried for your own safety at all? I mean, you smelled gunpowder, yes? What if the shooter was still nearby?</line>
 <line speaker="Valant">I... I did not consider this, to be honest. It is forbidden for a magician to have a good imagination.</line>
 <line speaker="Phoenix">...Uh, really? <thought>Isn't magic all about illusions and imagination?</thought> How about this: you were the shooter, which is why you weren't afraid.</line>
 <line speaker="Valant">N-Now you are the one imagining! It is forbidden for a lawyer to have a good imagination.</line>
 <line speaker="Judge">The witness will refrain from pausing so suspiciously before responding. ...My forbidden imagination is starting to imagine things.</line>
 <line speaker="Valant">I did not imagine my fellow student might have received the same instructions!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Which brings us back to this "reason" neither of you could refuse.</line>
 <line speaker="Valant">So it does. And my partner, he did not refuse.</line>
 <line speaker="Phoenix">But Magnifi wrote the same thing to you. Why could you "refuse" if Zak couldn't?</line>
@@ -377,7 +377,7 @@
 <line speaker="Phoenix"><thought>...So which is it!?</thought></line>
 <line speaker="Valant">...Mind if I continue?</line>
 <line speaker="Valant">Yet a deal with the dead is still a deal. Death's sweet kiss... I gave to the clown.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">There were two bullet holes at the scene: one in the victim, and one in the clown. You're saying the one who shot the clown... was you?</line>
 <line speaker="Valant">No doubt my partner Zak has said much the same thing.</line>
 <line speaker="Phoenix"><thought>Yeah, because whoever didn't shoot the clown committed murder. I'd better dig around here a bit more... and see what I turn up.</thought> Mr. Valant... Let me ask about something else concerning the crime scene, namely...</line>
@@ -422,7 +422,7 @@
 <line speaker="Judge">Very well. The witness may continue with the testimony.</line>
 <line speaker="Valant">...What can I do, but obey?</line>
 <line speaker="Valant">The pistol was already loaded. I merely had to pull the trigger.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">If the pistol was already loaded, something doesn't make sense. Why weren't the victim's fingerprints on it?</line>
 <line speaker="Valant">You should know that we of the Troupe Gramarye are capable of many things. One of these being the levitation of iron balls... without touching them.</line>
 <line speaker="Klavier">There's no magic involved here. The shooter was just methodical, is all. He simply wiped everything of fingerprints.</line>
@@ -457,7 +457,7 @@
 <line speaker="Valant">...What can I do, but obey?</line>
 <line speaker="Phoenix"><thought>...On second thought, let's run with this testimony for a while longer.</thought></line>
 <line speaker="Valant">I took up the pistol from the small table and shot the clown.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why did you do that? I would think calling the police would come first.</line>
 <line speaker="Valant">Then you know nothing of the relationship between a master and his disciple! If your master says die, you die. Do you understand?</line>
 <line speaker="Phoenix">So, you're going to die?</line>
@@ -493,7 +493,7 @@
 <line speaker="Valant">...What can I do, but obey?</line>
 <line speaker="Phoenix"><thought>...On second thought, let's run with this testimony for a while longer.</thought></line>
 <line speaker="Valant">Only one pistol was in the hospital room that night. With it, I shot the clown.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you took the only pistol there, and fired it?</line>
 <line speaker="Valant">...That's correct.</line>
 <line speaker="Phoenix">And that pistol was this one, which was left at the crime scene?</line>
@@ -526,9 +526,9 @@
 <line speaker="Judge">Very well. The witness may continue with the testimony.</line>
 <line speaker="Valant">...What can I do, but obey?</line>
 <line speaker="Phoenix"><thought>...On second thought, let's run with this testimony for a while longer.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Valant">Then I informed the doctor and the police.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you informed the police... What did you do then?</line>
 <line speaker="Valant">...What do you suppose I did? Used my magic to levitate my mentor's corpse, perhaps?</line>
 <line speaker="Phoenix">I don't know, that's why I'm asking. Now please answer the question and skip the sarcasm.</line>
@@ -549,13 +549,13 @@
 <line speaker="Valant">Ah...</line>
 <line speaker="Phoenix">Mr. Valant, if you fired this pistol... ...then YOU shot the victim in the forehead!</line>
 <line speaker="Judge">Order! Order! Order!!! Well, this is all rather sudden...</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Heh heh heh heh... What have I done?</line>
 <line speaker="Judge">P-Prosecutor Gavin?</line>
 <line speaker="Klavier">I owe the court an apology. ...Sorry.</line>
 <line speaker="Phoenix">S-Sorry for what!?</line>
 <line speaker="Klavier">You see, I was unaware that two of these unique pistols were crafted. The analysis of the rifling marks only proved the type of gun that fired them.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But... But that's not what you told us before! You said you'd verified the murder weapon!</line>
 <line speaker="Klavier">Which is why I'm apologizing to you now. Quite sincerely, I might add. ...Would you hold me accountable for a mistake made in my youth?</line>
 <line speaker="Phoenix">That was just this morning!</line>
@@ -564,7 +564,7 @@
 <line speaker="Judge">Hmm. Valant Gramarye?</line>
 <line speaker="Valant">...Yes, Your Honor?</line>
 <line speaker="Judge">You were presented to this court as a "decisive witness". But you've proven to be more "divisive" than "decisive".</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...You'll see, in time.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Klavier">The testimony so far has merely been a review of the "facts". The proof... comes next.</line>
@@ -582,7 +582,7 @@
 <line speaker="Judge">...Point taken. Baseless remarks will result in a penalty. Carry on, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Carry on... Right.</thought></line>
 <line speaker="Valant">I arrived in the hospital room at the appointed time, which is to say 11:20 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">11:20 PM... Can you prove that's when you arrived?</line>
 <line speaker="Valant">Alas, such a feat may be beyond even the Great Valant. For there was no one in that room but Magnifi, and he was departed, after a fashion.</line>
 <line speaker="Klavier">I have here defendant Zak Gramarye's sworn deposition. "I snuck into his room that night at the appointed time. It was 10 minutes before I left the room... and the victim was still alive."</line>
@@ -601,14 +601,14 @@
 <line speaker="Judge">Well put, Prosecutor Gavin! Oh, and Mr. Wright? Here's my answer to your question!</line>
 <line speaker="Phoenix"><thought>...Ugh...</thought></line>
 <line speaker="Valant">After discovering the body, I fulfilled my obligation... then called in the doctor.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You walk in on a murder, and the first thing you do is shoot the clown?</line>
 <line speaker="Valant">...The disciple does what the disciple must. My mentor's request, without reason, had caused for me a surfeit of sorrow. For what would I, Valant, be now without him? "May the soul of Magnifi the Great find greater peace above." This I muttered to myself as I pulled that lonely trigger.</line>
 <line speaker="Klavier">In any case, I believe this is nothing more than what we have already learned. I'm still waiting for one of those "Wright moments", Herr Attorney.</line>
 <line speaker="Judge">May I remind you that baseless remarks will earn penalties. Proceed with that in mind.</line>
 <line speaker="Phoenix">Yes, Your Honor. <thought>What a pain this is turning out to be...</thought></line>
 <line speaker="Valant">The doctor examined the body before the police arrived...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did the doctor say anything concerning the cause of death?</line>
 <line speaker="Valant">Why yes... I believe he screamed, "My God! He's been shot in the head!"</line>
 <line speaker="Judge">It doesn't take a doctor to notice that. I believe I would have said much the same thing.</line>
@@ -618,7 +618,7 @@
 <line speaker="Judge">May I remind you that baseless remarks will earn penalties. Proceed with that in mind.</line>
 <line speaker="Phoenix">Yes, Your Honor. <thought>What a pain this is turning out to be...</thought></line>
 <line speaker="Valant">He was quite clear about the time of death: 11:10 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I don't think I'm stepping out on a limb to say I have some doubts about this. How could the doctor be so precise with the time?</line>
 <line speaker="Judge">We do usually only get an "estimated" time of death, true. I'm not sure I've heard of a "verified" time of death.</line>
 <line speaker="Valant">Magic revels in making the complex appear simple, but reality is the opposite. What appears complex, in this case, is a simple matter of subtraction.</line>
@@ -641,7 +641,7 @@
 <line speaker="Phoenix">I don't see any problem with that testimony.</line>
 <line speaker="Judge">...... If you say so. Let's continue, shall we?</line>
 <line speaker="Valant">Sometimes the most magical thing of all... is the truth.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How could the doctor be so precise with the time?</line>
 <line speaker="Judge">We do usually only get an "estimated" time of death, true. I'm not sure I've heard of a "verified" time of death.</line>
 <line speaker="Valant">Magic revels in making the complex appear simple, but reality is the opposite. What appears complex, in this case, is a simple matter of subtraction.</line>
@@ -657,13 +657,13 @@
 <line speaker="Phoenix">I don't see any problem with that testimony.</line>
 <line speaker="Judge">...... If you say so. Let's continue, shall we?</line>
 <line speaker="Valant">Sometimes the most magical thing of all... is the truth.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And he knew this by the amount of IV liquid left?</line>
 <line speaker="Valant">Indeed. Apparently, doctors, as well as magicians, have a few tricks up their sleeves.</line>
 <line speaker="Klavier">The impact of the shot caused the IV needle to drop, telling us the time of death. ...The deceased's final message to this world.</line>
 <line speaker="Phoenix"><thought>If I left this "alibi" go through... ...I'm finished. There has to be a hole in this somewhere. Heck, I'll take a pinprick.</thought></line>
 <line speaker="Valant">The water of life springs not eternal... The remaining IV liquid proves my innocence!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you notice the IV yourself, by any chance?</line>
 <line speaker="Valant">When first I entered that room, the stench of gunpowder assailed me. Next, the mark of death upon my mentor's forehead! And then, his left arm did I spy, a rose, drooping and wilted. Its thorn, the discarded IV needle.</line>
 <line speaker="Klavier">...Knocked from the vein by the force of the shot. Luckily for you. If that IV had not been there, why... you might be a suspect.</line>
@@ -683,11 +683,11 @@
 <line speaker="Judge">...Whaaat!? Please recall my warning at the beginning of this cross-examination, Mr. Wright. Baseless accusations will be duly penalized! I do hope this latest accusation is well-based.</line>
 <line speaker="Phoenix"><thought>...Don't worry, I've got all your bases right here.</thought></line>
 <line speaker="Judge">...Very well. Let's hear the defense's claim. Where is your evidence that contradicts what Mr. Valant has told us?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Hmm... pity. That didn't "do it" for me, as the kids are fond of saying nowadays. Perhaps you can explain it in such a way that it would.</line>
 <line speaker="Phoenix">Well, I don't know whether it's the sort of evidence to "do it" for anyone but...</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">"Do" yourself a favor and stop flailing around for excuses! ...Before you "do" yourself in! ...And "do" try to straighten your spine. All that bending over is bad for your posture.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Judge">I've got something that should make you sit up straight.</line>
@@ -695,7 +695,7 @@
 <line speaker="Judge">...Now that we're all upstanding citizens again, back to the testimony.</line>
 <line speaker="Valant">Sometimes the most magical thing of all... is the truth.</line>
 <line speaker="Valant">And the one in the room at the time was my partner... not me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You entered that hospital room at 11:20 PM. The time given by the defendant, Zak Gramarye, was 11:05 PM. ...You didn't run into him at the hospital that night?</line>
 <line speaker="Valant">Hmm. This is why I never perform with amateurs, you see.</line>
 <line speaker="Phoenix">Huh...?</line>
@@ -719,8 +719,8 @@
 <line speaker="Klavier">...All this talk of color has me yearning for black and white, clear-cut simplicity. ...Tell us, Herr Wright, just where is the contradiction in this photo?</line>
 <line speaker="Phoenix">...My pleasure. And, I assure you, it's quite simple. ...But I can't promise anything in black and white.</line>
 <line speaker="Judge">...Let's hear what Mr. Wright has to say. What in this photo contradicts the witness's testimony?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...... Contrary to Mr. Wright's promises, this seems pretty black and white to me.</line>
 <line speaker="Klavier">...Agreed.</line>
 <line speaker="Phoenix">Um... how's that?</line>
@@ -737,14 +737,14 @@
 <line speaker="Phoenix">...It would be hard to call the IV liquid "yellow". And I'm afraid, no magic was involved in the taking of this photograph.</line>
 <line speaker="Valant">Ah... Alla... Allakaz... Allakanooooooooooooo!</line>
 <line speaker="Judge">Order! Order! Order!!! What does this mean!?</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">This... This is some kind of mistake!</line>
 <line speaker="Judge">Yes, Prosecutor Gavin... Your witness's mistake.</line>
 <line speaker="Klavier">...!</line>
 <line speaker="Phoenix"><thought>The greener they are, the harder they fall... I suppose there's no substitute for experience.</thought> Valant Gramarye, as you reminded us several times... ...your lucky color is yellow. But the IV is clearly not.</line>
 <line speaker="Valant">W-Well...</line>
 <line speaker="Phoenix">This contradiction can mean only one thing!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...And to think... You almost had me.</line>
 <line speaker="Phoenix">...?</line>
 <line speaker="Klavier">I see your true colors now, "ace attorney" Phoenix Wright!</line>
@@ -760,7 +760,7 @@
 <line speaker="Phoenix">...You get green.</line>
 <line speaker="Klavier">This, incidentally, is the liquid's true color!</line>
 <line speaker="Judge">...I see! Your explanation does have the ring of truth to it.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">As I thought... There's no substitute for experience, Prosecutor Gavin.</line>
 <line speaker="Klavier">What...?</line>
 <line speaker="Phoenix">You may tell a good tale. But. You've just proven something rather grave. For you, that is.</line>
@@ -781,21 +781,21 @@
 <line speaker="Phoenix">...From the facts before us, the answer is clear. The witness knew that the IV liquid was yellow. ...Why? Because he'd seen it before. But not inside the blue bag we see in the photo. He saw the liquid by itself, in a clear, colorless bag.</line>
 <line speaker="Judge">I suppose he would have had to. But I'm still not clear as to what all this means.</line>
 <line speaker="Phoenix">Ask yourself, why would he know, if he didn't work at a hospital? ...That's where you'll find your meaning, Your Honor.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">I'm afraid I find nothing. So what if he knew the IV liquid's color? Leave the getting excited over absolutely nothing to our teenybopper fans, ja?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The IV liquid is the only evidence "proving" the time of death. A 30-minute hourglass, with 20 minutes worth of sand remaining. Your claim, Prosecutor Gavin.</line>
 <line speaker="Judge">I remember it well.</line>
 <line speaker="Phoenix">However... ...there's a critical difference between an hourglass and an IV bag.</line>
 <line speaker="Judge">W-W-Wait! I know!!! An hourglass uses sand, but an IV bag uses liquid... ...I'm right, right?</line>
 <line speaker="Phoenix">As much as it pains me to say this, Your Honor, no. Unlike the sands through an hourglass, IV liquid enters the patient's body. At which point, like magic, it disappears. However! What if the amount of IV liquid had increased? You couldn't tell, could you? After all, there's no way of knowing how much went in.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Let me get this straight, Herr Wright. You're saying the witness watered down the victim's IV bag!?</line>
 <line speaker="Phoenix">Not with water... but with IV liquid. That's how you knew the IV liquid was yellow!</line>
 <line speaker="Valant">Now wait. Wait. I said wait!!! How might an amateur such as myself assay to perform such a task?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I'm an amateur, too, but I can pour water into a cup.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">I'm afraid there's quite a big difference between a cup and an IV bag. Quite. Can you prove our witness is capable of such a feat!?</line>
 <line speaker="Judge">Hmm... He has a point, amateurs. I, at least, would have some difficulty pouring IV liquid into that bag.</line>
 <line speaker="Phoenix"><thought>You don't need to be an expert to see the look on the witness's face! He added liquid to that IV to throw off the time of death!</thought></line>
@@ -804,8 +804,8 @@
 <line speaker="Phoenix">...Valant Gramarye. I'm afraid your "magic" won't serve you well in a life of crime.</line>
 <line speaker="Valant">Might I ask what you're strongly suggesting?</line>
 <line speaker="Phoenix">...Magic relies on props. And props... become evidence. Our witness was certainly able to increase the amount of IV liquid in the bag. All he had to do was work a little magic. And the prop was...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...... I'm afraid Mr. Wright is attempting to water down this case!</line>
 <line speaker="Phoenix">...Urk.</line>
 <line speaker="Klavier">Why add water, when you could add a penalty?</line>
@@ -815,9 +815,9 @@
 <line speaker="Judge">Once again, Mr. Wright, if you would be so kind.</line>
 <line speaker="Judge">The victim's syringe...</line>
 <line speaker="Phoenix">...It's the perfect prop for the "Magically Increasing IV" trick! And easy enough for an amateur to use.</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Wh-What kind of evidence is that!? The syringe was clean! Not a trace of liquid in it!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">And don't you find that odd, Prosecutor Gavin?</line>
 <line speaker="Klavier">Wh-What...?</line>
 <line speaker="Phoenix">The victim had the syringe to administer his insulin shots... ...There should have been traces of insulin left inside!</line>
@@ -830,7 +830,7 @@
 <line speaker="Judge">I'm afraid that, while there is a doubt as to the amount of IV liquid in that bag... ...the time of death cannot be proven. ...And that brings our trial to a close for today.</line>
 <line speaker="Phoenix"><thought>Well. Maybe I can squeeze an extra day out of this... I can do a little much-needed investigation work.</thought></line>
 <line speaker="Judge">I see there are no objections, court is adjour--</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Heh. Heh heh heh! ...Truly, there's no substitute for experience. Nothing blinds one to the truth so effectively.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Klavier">A word to the wise: Underestimate the young, and they'll sweep your feet out from under you. In a way you never, ever expected. ...You see, I know exactly what you're thinking.</line>
@@ -872,8 +872,8 @@
 <line speaker="Phoenix">...!</line>
 <line speaker="Klavier">Now that we've come this far, I hope you have something a little more... decisive. Show us evidence that proves the victim continued writing his diary!</line>
 <line speaker="Phoenix">...Alright. I'd be happy to. The decisive evidence proving that the diary didn't end with this page is...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Hmm... This evidence... You're saying this is "decisive"?</line>
 <line speaker="Phoenix">......</line>
 <line speaker="Klavier">We don't need proof that he "might" have continued his diary. We need proof that he did continue that diary! If such a thing exists, of course...</line>
@@ -891,7 +891,7 @@
 <line speaker="Valant">No... Nooooo...!</line>
 <line speaker="Judge">The handwriting, too, matches that on the other pages. This is, without a doubt, the genuine article! Order! Order! Order!</line>
 <line speaker="Valant">But, but wait! This is... That's impossible! That old man couldn't have written that...</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...Finally. You just couldn't resist, could you, Herr Wright?</line>
 <line speaker="Phoenix">...Resist what? Presenting solid evidence?</line>
 <line speaker="Klavier">...... Herr Judge?</line>
@@ -927,15 +927,15 @@
 <line speaker="Phoenix">F-Forgeries...!?</line>
 <line speaker="Judge">W-Well! So, we are to understand that this page here is...</line>
 <line speaker="Klavier">...A fake. Prepared by a certain defense attorney.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn> I didn't "prepare" this evidence!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn> I didn't "prepare" this evidence!</line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...Ah, the attorney speaks. Something about this page, I presume. But what is he saying? It makes no sense! ...After all it was you who presented this evidence to us, Phoenix Wright!</line>
 <line speaker="Judge">...Witness! Er, Mr. Misham, was it? Who requested this forgery!? Who was your client!?</line>
 <line speaker="Drew">That... I don't know.</line>
 <line speaker="Phoenix">What...!?</line>
 <line speaker="Drew">Most of my clients prefer to remain anonymous, even to me. I make the items they want, and receive my payment. That's the extent of my contact with them.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">B-But...! There's no proof this is a fake!</line>
 <line speaker="Drew">It's a fake.</line>
 <line speaker="Phoenix">Huh...</line>
@@ -954,7 +954,7 @@
 <line speaker="Klavier">Fatal, too, perhaps, for your client, I fear.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Klavier">Tell me, what kind of defendant relies on forged evidence...? The answer is quite clear. A guilty one!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">...Your Honor, wait! I understand that presenting forged evidence in court is a serious crime. But you cannot hold my client responsible for actions I undertook as an individual...</line>
 <line speaker="Judge">...I am sorry, Mr. Wright.</line>
 <line speaker="Phoenix">...Your Honor?</line>
@@ -981,23 +981,23 @@
 <line speaker="Phoenix">M-Mr. Enigmar!!!</line>
 <line speaker="Klavier">The defendant's escaped! Find him! Quick!</line>
 <line speaker="Judge">Bailiff! Close all exits from the building! On the double! He must not be allowed to escape!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh. I must be on the wrong track...?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals a contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>

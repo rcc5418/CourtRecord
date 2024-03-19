@@ -27,7 +27,7 @@
 <line speaker="Judge">I... I see! Very well. Mr. Wright, your cross-examination.</line>
 <line speaker="Maya">This is the final battle, Nick! Let's do it!</line>
 <line speaker="Vasquez">I entered the trailer, oh, a little before noon.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">By yourself?</line>
 <line speaker="Vasquez">Yes.</line>
 <line speaker="Phoenix">And you didn't stop in at the Employee Area?</line>
@@ -36,16 +36,16 @@
 <line speaker="Vasquez">Yes.</line>
 <line speaker="Phoenix"><thought>Oh dear...</thought></line>
 <line speaker="Vasquez">The meeting began at 12:00 sharp. It ended at 4:00..</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did no one leave during the meeting?</line>
 <line speaker="Vasquez">No one. ...</line>
 <line speaker="Phoenix">... C-come on... let's talk a bit more about that.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The witness did not come here to engage in idle conversation! Stop interrupting the testimony.</line>
 <line speaker="Vasquez">The same could be said to you, Mr. Edgeworth. And please stop banging on your little desk. It hurts my ears.</line>
 <line speaker="Edgeworth">Mmph!</line>
 <line speaker="Vasquez">There was to be a rehearsal afterwards, so we went to Studio One.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And when exactly was that?</line>
 <line speaker="Vasquez">I've forgotten.</line>
 <line speaker="Phoenix">...</line>
@@ -55,24 +55,24 @@
 <line speaker="Edgeworth">The meeting ended at 4:00, and the rehearsal was scheduled for 5:00... I would think it was between those times.</line>
 <line speaker="Phoenix"><thought>You "would think"!? C'mon, all you did was state the obvious, Edgeworth!</thought></line>
 <line speaker="Vasquez">I was fatigued, so I had Sal take me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Hold on! You had Sal "take" you? What does that mean!?</line>
 <line speaker="Vasquez">It means what I just said. I had Sal take me in the Studio Two van.</line>
 <line speaker="Phoenix"><thought>Oh... oh, right.</thought></line>
 <line speaker="Vasquez">At 2:30, we took a 15-minute break in the meeting.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And what were you doing during that time...?</line>
 <line speaker="Vasquez">Don't hit your desk. It irritates me.</line>
 <line speaker="Edgeworth">Yeah! Mr. Wright...! Oops.</line>
 <line speaker="Vasquez">... It was a 15 minute break...</line>
 <line speaker="Vasquez">Sal and I ate t-bone steaks on the table in front of the trailer.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Do you have someone who can verify this?</line>
 <line speaker="Vasquez">Sal.</line>
 <line speaker="Phoenix">N-no... I mean someone else?</line>
 <line speaker="Vasquez">One person is enough.</line>
 <line speaker="Phoenix"><thought>If she committed murder during that break... She wouldn't have had time to eat a t-bone steak! If I had some evidence that proved she didn't eat that steak...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Well, Nick? Find anything?</line>
 <line speaker="Phoenix">I kind of wish she'd said a little more...</line>
 <line speaker="Maya">It's hard. I think she's pretty used to being the boss. But I'm sure you'll find some contradiction in what she said... somewhere!</line>
@@ -114,7 +114,7 @@
 <line speaker="Phoenix">Yes, Your Honor! As Ms. Vasquez left the trailer to eat her steak... She ran into the Steel Samurai! And then you did it. You killed him with your own hands!</line>
 <line speaker="Vasquez">!!!</line>
 <line speaker="Judge">M-Mr. Wright! I-isn't that a little presumptuous!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">What kind of stunt are you trying to pull, Wright!?</line>
 <line speaker="Vasquez">Let him claim what he wants.... You say I did it?</line>
 <line speaker="Phoenix">Yes.</line>
@@ -125,7 +125,7 @@
 <line speaker="Phoenix">Yes...?</line>
 <line speaker="Vasquez">I am, as you can see, a woman of petite stature. How could I possibly use that heavy spear as a weapon?</line>
 <line speaker="Phoenix">It's not impossible!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Well, maybe it's not impossible, but--</line>
 <line speaker="Vasquez">Silence. I'm speaking.</line>
 <line speaker="Edgeworth">Mmmph!</line>
@@ -144,7 +144,7 @@
 <line speaker="Vasquez">Hah. You see?</line>
 <line speaker="Phoenix">Yes...</line>
 <line speaker="Phoenix">I don't know.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You "don't know"!? What kind of a lawyer are you!?</line>
 <line speaker="Vasquez">Quiet. I'm speaking.</line>
 <line speaker="Edgeworth">M-m-mmph!</line>
@@ -156,8 +156,8 @@
 <line speaker="Vasquez">What!?</line>
 <line speaker="Judge">What is the meaning of this!? The spear was found lying next to the victim's body!</line>
 <line speaker="Phoenix">I have proof, Your Honor. I can prove that the Samurai Spear was not used as the murder weapon!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Wrong, Mr. Wright.</line>
 <line speaker="Phoenix">But I haven’t said anything yet...?</line>
 <line speaker="Judge">I know you well enough by now to know when you’re going to present the wrong evidence.</line>
@@ -179,8 +179,8 @@
 <line speaker="Phoenix"><thought>Urk. Note to self: think before speaking. Tough crowd...</thought></line>
 <line speaker="Phoenix">Would I make a claim like that if I couldn't tell you what the weapon was?</line>
 <line speaker="Judge">I’m afraid your confidence can sometimes be unfounded, Mr. Wright... Very well, let's see this murder weapon, then.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">Nick! Think about this some more!</line>
 <line speaker="Phoenix">Huh? Think?</line>
 <line speaker="Maya">Please! How could that possibly have been the murder weapon!?</line>
@@ -225,8 +225,8 @@
 <line speaker="Phoenix">Actually, for that matter, there was no need for her to do the deed in 15 minutes! And there was a way for you to carry that body.</line>
 <line speaker="Vasquez">!!! I-interesting! Let's hear it then.</line>
 <line speaker="Judge">Mr. Wright? Please show us how she carried the body.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Dee Vasquez used this to carry the body to Studio One!</line>
 <line speaker="Vasquez">...</line>
 <line speaker="Judge">Mr. Wright...</line>
@@ -240,7 +240,7 @@
 <line speaker="Vasquez">There was to be a rehearsal afterwards, so we went to Studio One. I was fatigued, so I had Sal take me. There was a van there, right? I had Sal drive me.</line>
 <line speaker="Phoenix">You used the van to carry the body to Studio One! Then, before everyone else got there, you put the body into the Magistrate costume!</line>
 <line speaker="Vasquez">...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hold on, Wright! Don't forget, it was Sal Manella that drove the van! Are you suggesting that Mr. Manella was a conspirator?</line>
 <line speaker="Phoenix">Of course he wasn't!</line>
 <line speaker="Edgeworth">Hah! So, without Mr. Manella noticing anything, she put the body in the van... Then managed to put the body into the costume...? Are you seriously suggesting that is possible!?</line>
@@ -293,12 +293,12 @@
 <line speaker="Judge">... You have my sympathies.</line>
 <line speaker="Phoenix"><thought>Damn... damn! To come so far, only to fail...</thought></line>
 <line speaker="Judge">As it seems there are no further questions... I would like to end the cross-examination of the witness, Ms. Vasquez.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Judge">Yes, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">I was hoping I'd come up with a question while I was objecting, Your Honor... I didn't.</line>
 <line speaker="Judge">I see... Very well.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor! I request that the witness testify again!</line>
 <line speaker="Vasquez">You are the prosecutor, are you not? Why are you badgering me? I'm your witness!</line>
 <line speaker="Edgeworth">I... I just want to hear your testimony again.</line>
@@ -316,7 +316,7 @@
 <line speaker="Maya">Okay, Nick, we're close, real close! She may be acting tough now... But if you put her on the spot she's sure to falter! Find the key you need and twist the truth out of her, Nick!</line>
 <line speaker="Phoenix">Right!</line>
 <line speaker="Vasquez">I was with Sal and Oldbag, the security lady, when we found the body.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What time was that?</line>
 <line speaker="Vasquez">We were to meet at 5:00 for the rehearsal. So I'd say it was then.</line>
 <line speaker="Phoenix">When exactly did you and Mr. Manella arrive at the studio?</line>
@@ -330,7 +330,7 @@
 <line speaker="Judge">The witness will continue her testimony.</line>
 <line speaker="Phoenix"><thought>I'd better leave this one be. I'm sure she'd see through anything I had to throw at her, anyway.</thought></line>
 <line speaker="Vasquez">The assistant was there, too. Only Powers was absent.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Mr. Powers was taking a nap, correct?</line>
 <line speaker="Vasquez">So he says.</line>
 <line speaker="Phoenix">Did no one go to call him?</line>
@@ -347,7 +347,7 @@
 <line speaker="Judge">Hmm... Well, I suppose that explains that. Very well, Ms. Vasquez. You may continue.</line>
 <line speaker="Phoenix"><thought>I'll hold off. She'd just blow off anything I had to say, anyway.</thought></line>
 <line speaker="Vasquez">I immediately called the police. Then Powers showed up.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What was everyone else doing at that time?</line>
 <line speaker="Vasquez">No one said a thing. It was silent. Completely silent. So we stood there until Powers finally arrived on the scene. "Sorry! Sorry I'm late!" Then... silence. Dead silence.</line>
 <line speaker="Phoenix">...</line>
@@ -356,7 +356,7 @@
 <line speaker="Vasquez">Silent.</line>
 <line speaker="Maya">Hey... Hey, Nick. Why's everyone so quiet? Someone should do something to lighten things up!</line>
 <line speaker="Vasquez">The security lady, Oldbag, was quite agitated. Pointing at Powers, saying "he did it!"</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix"><thought>Oldbag... the security lady.</thought> Why did the security lady think Powers had done it?</line>
 <line speaker="Vasquez">She said because she saw him going toward the studio.</line>
 <line speaker="Phoenix"><thought>Right... the Steel Samurai.</thought></line>
@@ -367,14 +367,14 @@
 <line speaker="Phoenix"><thought>Hmm. I don't think there's anything in there I can use.</thought></line>
 <line speaker="Phoenix"><thought>I'll hold back, I think. I'm sure she's already anticipated anything I could throw at her.</thought></line>
 <line speaker="Vasquez">I asked to be left out of the proceedings.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You "asked to be left out"?</line>
 <line speaker="Vasquez">Yes. It seems that everyone else was questioned. And I'm really not fond of that sort of thing.</line>
 <line speaker="Phoenix">But, you can't decide who the police will and won't question!</line>
 <line speaker="Vasquez">Thankfully, the studio thinks otherwise. They were nice enough to understand that, since we were in a meeting... There was no way we could be involved. Thus, they covered for us.</line>
 <line speaker="Phoenix"><thought>Covered for you... or covered it up for you? There must have been a lot riding on it, with all those bigwigs at the meeting... I'm sure her "professionals" helped convince everyone they didn't require questioning.</thought></line>
 <line speaker="Vasquez">I went back to the trailer to get my script and direction notes.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The script and your direction notes?</line>
 <line speaker="Vasquez">Yes, they're quite valuable. It wouldn't do to have them stolen.</line>
 <line speaker="Phoenix">No, I guess not.</line>
@@ -384,7 +384,7 @@
 <line speaker="Vasquez">There was a murder, after all! Who could think of rehearsing after that!</line>
 <line speaker="Phoenix"><thought>Oh, yeah, I guess...</thought></line>
 <line speaker="Judge">Hmm... Very well. Ms. Vasquez, please continue...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor!!! I have an objection to the witness's last statement!</line>
 <line speaker="Phoenix"><thought>Huh...!?</thought></line>
 <line speaker="Edgeworth">Think! Ms. Vasquez said she didn't bring the script because there wouldn't be a rehearsal. Don't you see what that means? She would have had to know about the murder before going to Studio One!</line>
@@ -399,7 +399,7 @@
 <line speaker="Change statement">"Then I went home." to "I knew that Hammer was injured and couldn't do any action scenes, so I left them behind."</line>
 <line speaker="Phoenix"><thought>I'll hold back, I think. I'm sure she's already anticipated anything I could throw at her.</thought></line>
 <line speaker="Vasquez">Then I went home.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you weren't questioned?</line>
 <line speaker="Vasquez">That's correct. I find these things... distasteful.</line>
 <line speaker="Phoenix">Thinking back to when we first began this trial... We were under the impression that there was no one in the trailer at all.</line>
@@ -409,11 +409,11 @@
 <line speaker="Phoenix"><thought>She has got to be the least guilt-ridden guilty person I've ever met...</thought></line>
 <line speaker="Phoenix"><thought>I'll hold back for now. I'm sure she's anticipated anything I had to say...</thought></line>
 <line speaker="Vasquez">I knew that Hammer was injured and couldn't do any action scenes, so I left them behind.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How did you know about the injury?</line>
 <line speaker="Vasquez">H-how did I know!? Sal. He told me.</line>
 <line speaker="Phoenix"><thought>Sal the director... Hm...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">You have to find something to peg this on her here... Or everything we've done till now will have been wasted! I believe in you, Nick! Go get 'em!</line>
 <line speaker="Phoenix">You "knew that Hammer was injured"...? Don't you think that's a little funny? I mean, it was the Steel Samurai who was injured! It was Will Powers!</line>
 <line speaker="Vasquez">Wh... what!?</line>
@@ -450,8 +450,8 @@
 <line speaker="Maya">I don't care if it's impossible, you still have to fight this one!</line>
 <line speaker="Phoenix">Ugh...</line>
 <line speaker="Phoenix">Okay. I have proof, and I'll show it to you! I present to the court evidence as to Ms. Vasquez's motive in this murder.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Psst, Maya, look. This is it.</line>
 <line speaker="Maya">...! Why... are you showing that to me, Nick? And why are you whispering?</line>
 <line speaker="Phoenix">I was just testing it out on you.</line>
@@ -479,7 +479,7 @@
 <line speaker="Vasquez">Y-yes, that's right. According to what you say... I would have no reason to kill Hammer. He was a good source of income for me! And I never get rid of useful men. It's a policy of mine.</line>
 <line speaker="Judge">Mr. Wright? Please explain Ms. Vasquez's motive for murder.</line>
 <line speaker="Phoenix">Okay... Allow me to present to the court evidence proving Ms. Vasquez's motive!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is my proof!</line>
 <line speaker="Judge">And... this tells us why Ms. Vasquez wanted to kill Mr. Hammer?</line>
 <line speaker="Vasquez">I’d say all it proves is that the defense attorney has completely lost his marbles.</line>
@@ -515,7 +515,7 @@
 <line speaker="Will">Y-yes, of course.</line>
 <line speaker="Phoenix"><thought>Whew... I'm not sure I wanted to go down that road.</thought></line>
 <line speaker="Phoenix">Well, this is what I think. Mr. Hammer wanted to put the blame on you because...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It's because you were the Steel Samurai.</line>
 <line speaker="Will">Because I was the Steel Samurai?</line>
 <line speaker="Phoenix">Mr. Hammer was a big star, once. But he was reduced to acting in a kids' show... and as the villain, to boot! The kids love the Steel Samurai. And so, he hated you.</line>
@@ -523,7 +523,7 @@
 <line speaker="Phoenix"><thought>I think you’re missing the point...</thought></line>
 <line speaker="Will">... Thank you. I'm just glad it's all over.</line>
 <line speaker="Phoenix"><thought>So am I... so am I...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Will">... S-sorry? What does that mean?</line>
 <line speaker="Phoenix">Yeah, what does that mean, Maya?</line>
 <line speaker="Maya">Um, Nick? You know that problem of yours? That problem where you present evidence that makes no sense? You're doing it again.</line>
@@ -559,25 +559,25 @@
 <line speaker="Phoenix">Fine, fine. I'll do it.</line>
 <line speaker="Maya">Isn't it great that WP gets to play the lead again? I wonder if they'll show his real face this time...</line>
 <line speaker="Phoenix">I dunno... I don't think the world is ready for the real Will Powers...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow?</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track?</thought></line>

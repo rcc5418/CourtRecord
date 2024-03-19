@@ -83,7 +83,7 @@
 <line speaker="???">Through the cabin door, no less. Having devoured his haul in this wardrobe, the culprit discarded the bones... ...and concealed himself behind the cabin door as you came inside. Then... ...when attention was turned to the wardrobe, he seized his chance to escape through the open door!</line>
 <line speaker="Strogenov">What?!</line>
 <line speaker="???">Make haste, my good man! After the culprit! I shall follow presently.</line>
-<line speaker="Strogenov"><cutIn>Hold it!</cutIn></line>
+<line speaker="Strogenov"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="???">...Something troubles you, sir?</line>
 <line speaker="Strogenov">I think maybe...kriminal is not running away at all!</line>
 <line speaker="Kazuma">...! What are you suggesting?</line>

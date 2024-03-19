@@ -91,7 +91,6 @@
 <line speaker="Ryunosuke"><thought>And the white tape there now shows exactly where he was found, I suppose...</thought> I had no idea anything had happened. I, I must have been asleep in the wardrobe somehow...</line>
 <line speaker="Susato">I wish it wasn't the case, but...that's just very hard to believe.</line>
 <line speaker="Ryunosuke"><thought>This is all very hard to believe for me, too. Trust me!</thought></line>
-<line speaker="After clearing all Converse options">Susato:</line>
 <line speaker="Ryunosuke">Yes, alright. <thought>Ugh, my head feels so heavy. It's still throbbing like anything.</thought></line>
 <line speaker="Susato">Why are you even on board this ship, Naruhodo-san? You said something before about being a stowaway, didn't you?</line>
 <line speaker="Ryunosuke">Oh...yes... I'm afraid that's true. It's two weeks since we left Japan now. And I've been shut up in this cabin the entire time.</line>
@@ -133,7 +132,6 @@
 <line speaker="Ryunosuke">Susato-san! You have to believe me! I didn't do it!</line>
 <line speaker="Susato">I, I really don't want to doubt you. But the trouble is...there is no one else who could possibly have done this.</line>
 <line speaker="Ryunosuke">Ugh...</line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Susato">Don't try to go anywhere! You're the perpetrator of this crime. You can't leave, I can't allow that to happen.</line>
 <line speaker="Ryunosuke">...I'm sorry. But Kazuma was killed right under my nose here. And...I didn't do anything to stop it! And now I'm supposed to just sit around, my hands tied, while whoever did this walks free? No! I can't allow that to happen!</line>
 <line speaker="Susato">Well, what do you propose to do, then?</line>
@@ -305,7 +303,6 @@
 <line speaker="Ryunosuke">But if its purpose is to allow fresh air into the room, surely it should be connected to the outside.</line>
 <line speaker="Susato">Hm, that's true... Perhaps it's so that rain and spray don't find their way in when the seas are rough. Or something like that?</line>
 <line speaker="Ryunosuke">I suppose... Maybe that's it.</line>
-<line speaker="After examining one area">Susato:</line>
 <line speaker="Ryunosuke">Oh! What's the matter, Susato-san?</line>
 <line speaker="Susato">I don't suppose you're as foolish as me in that regard, are you, Naruhodo-san? I'm sure you're careful to look all around using [D-pad / B M], aren't you? Now, let's investigate all corners of this cabin!</line>
 <line speaker="Ryunosuke">Yes! Let's do that! <thought>I suppose my field of vision has been rather small until now...</thought></line>
@@ -322,7 +319,6 @@
 <line speaker="Ryunosuke">Um, Susato-san, about this...</line>
 <line speaker="Susato">I'm sorry, Naruhodo-san... ...but we don't have time to waste on anything else. We must find clues.</line>
 <line speaker="Ryunosuke"><thought>Hm, she looks serious. Really quite deadly serious!</thought></line>
-<line speaker="After examining desk, vent, and writing on floor/body outline">Ryunosuke:</line>
 <line speaker="Susato">Oh! How did he...?</line>
 <line speaker="Ryunosuke">You've noticed the man, too, have you? I've no idea who he is, or how he got in here. But he looks suspicious. And tall. Suspiciously tall!</line>
 <line speaker="Susato">...! Naruhodo-san, don't tell me... Do you really not know who that is?</line>
@@ -424,7 +420,7 @@
 <line speaker="Ryunosuke">Yes, yes, I understand. But what were they?</line>
 <line speaker="Sholmes">Allow me to elucidate... The two facts that I deduced from a mere momentary glance at the scene of the crime were as follows: Number one: The cabin was locked from within, rendering escape of the culprit out of the question. Number two: The victim was Russian and killed following a dispute with an acquaintance.</line>
 <line speaker="Ryunosuke">Hold on, Mr Sholmes! What made you think the victim was Russian?</line>
-<line speaker="Sholmes">Observe the dying message left by the victim on the floor. 'Г�РДЕРОБ'... That is the Russian word for 'wardrobe'.</line>
+<line speaker="Sholmes">Observe the dying message left by the victim on the floor. 'ГРДЕРОБ'... That is the Russian word for 'wardrobe'.</line>
 <line speaker="Susato">Do, do you really think Kazuma-sama could have left a dying message in Russian?</line>
 <line speaker="Sholmes">In their final moments, many find their native tongue filling their head. For this young man, Russian.</line>
 <line speaker="Ryunosuke"><thought>Kazuma...was Russian, was he...?</thought></line>
@@ -446,14 +442,14 @@
 <line speaker="Ryunosuke">You mentioned Russia before as well, didn't you? You know, when you said I was a fearsome revolutionary fleeing from Russia and all that.</line>
 <line speaker="Sholmes">Ah yes, the train of reasoning that led me to the truth.</line>
 <line speaker="Ryunosuke">Would you mind explaining that train of reasoning to me, do you think?</line>
-<line speaker="Sholmes">КО�ЕЧ�О! Certainly, if it interests you.</line>
+<line speaker="Sholmes">КОЕЧО! Certainly, if it interests you.</line>
 <line speaker="Ryunosuke"><thought>How many times - I'm not Russian, and I don't speak Russian...</thought></line>
 <line speaker="Ryunosuke">Mr Sholmes, tell us, please! What two facts were apparent to you when you came into this cabin this morning?</line>
 <line speaker="Sholmes">Ah, yes... But first, let us be precise. The two facts in question were immediately apparent to me.</line>
 <line speaker="Ryunosuke">Yes, yes, I understand. But what were they?</line>
 <line speaker="Sholmes">Allow me to elucidate... The two facts that I deduced from a mere momentary glance at the scene of the crime were as follows: Number one: The cabin was locked from within, rendering escape of the culprit out of the question. Number two: The victim was Russian and killed following a dispute with an acquaintance.</line>
 <line speaker="Ryunosuke">Hold on, Mr Sholmes! What made you think the victim was Russian?</line>
-<line speaker="Sholmes">Observe the dying message left by the victim on the floor. 'Г�РДЕРОБ'... That is the Russian word for 'wardrobe'.</line>
+<line speaker="Sholmes">Observe the dying message left by the victim on the floor. 'ГРДЕРОБ'... That is the Russian word for 'wardrobe'.</line>
 <line speaker="Susato">Do, do you really think Kazuma-sama could have left a dying message in Russian?</line>
 <line speaker="Sholmes">In their final moments, many find their native tongue filling their head. For this young man, Russian.</line>
 <line speaker="Ryunosuke"><thought>Kazuma...was Russian, was he...?</thought></line>
@@ -627,7 +623,6 @@
 <line speaker="Susato">Yes. I have no idea how much that really is, but... ...I feel sure you'd be given change from that amount even after buying all the cakes in the cake shop!</line>
 <line speaker="Ryunosuke"><thought>Her imagination's really running away with her...</thought></line>
 <line speaker="Susato">And now, in order to recover both Miss Pavlova and the valuable tiara... ...the company has requested international assistance at all ports with sailings to Great Britain.</line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Susato">Ah, do you have somewhere to go?</line>
 <line speaker="Sholmes">As it happens, the victim's writings in his diary have piqued my interest. The matter warrants further investigation, I believe. ...And if I am still too long, the seasickness takes hold.</line>
 <line speaker="Susato">Oh, I suppose... ...you're thinking of investigating the cabin next door, which the ventilator connects to?</line>
@@ -667,7 +662,6 @@
 <line speaker="Sailor">Nyett! You stay in this cabin until next port! Then it is up to Hong Kong police to decide what they do with you. You stay!</line>
 <line speaker="Ryunosuke">...Alright. <thought>There's no point trying to appeal to this mean's better nature, that's for sure.</thought></line>
 <line speaker="Ryunosuke">Thanks to that so-called detective, I'm even more stuck inside this cabin than I was before. For the time being, I suppose I'll just have to focus my efforts on investigating in here.</line>
-<line speaker="After examining door, sign, shelf, chicken dinner/knife, and broken glass/floor mark">Ryunosuke:</line>
 <line speaker="Susato">The crewman, do you mean? He wasn't there before, was he?</line>
 <line speaker="Ryunosuke">That's what I thought.</line>
 <line speaker="Susato">Why don't we try talking to him?</line>
@@ -852,7 +846,7 @@
 <line speaker="Ryunosuke">Were you on watch last night as well?</line>
 <line speaker="Strogenov">......... Of course.</line>
 <line speaker="Ryunosuke">And did you notice anything at the time? Anything unusual?</line>
-<line speaker="Strogenov">......... �ет!</line>
+<line speaker="Strogenov">......... ет!</line>
 <line speaker="Ryunosuke">Um, Susato-san... Did you understand that?</line>
 <line speaker="Susato">It was clearly a 'no'!</line>
 <line speaker="Strogenov">I saw nothing unusual. Nothing at all.</line>
@@ -924,7 +918,6 @@
 <line speaker="Ryunosuke">That's what I wrote on the sign we put over the wardrobe doors. <thought>Although this man's version is definitely more effective.</thought></line>
 <line speaker="Susato">It doesn't look like he's going to let us pass.</line>
 <line speaker="Ryunosuke">Hm, that's a problem...</line>
-<line speaker="After clearing all Converse options with Bif Strogenov">Strogenov:</line>
 <line speaker="Ryunosuke">Oh.</line>
 <line speaker="Strogenov">It is time for me to report to captain. You must return to cabin.</line>
 <line speaker="Ryunosuke">Yes, alright...</line>
@@ -944,7 +937,6 @@
 <line speaker="Ryunosuke">Maybe whoever's in this cabin can help solve that particular mystery. Let's ask!</line>
 <line speaker="Susato">No answer. We're out of luck, it seems. There's no one in there to help with our enquiries.</line>
 <line speaker="Ryunosuke">How annoying.</line>
-<line speaker="After examining cabin door on right and alarm">AAAAAAAAAAAAAH!!!</line>
 <line speaker="Ryunosuke">What was that?! <thought>It came from inside the cabin!</thought> </line>
 <line speaker="Susato">Such a high-pitched scream... It must have been a woman!</line>
 <line speaker="???">Stand aside!</line>
@@ -1000,7 +992,7 @@
 <line speaker="Susato">It's Russian, isn't it? We believe it means 'wardrobe'. Is that right?</line>
 <line speaker="Roylott">Yes, that's right.</line>
 <line speaker="Ryunosuke">Could you tell us how it's pronounced, please?</line>
-<line speaker="Roylott">Г�РДЕРОБ.</line>
+<line speaker="Roylott">ГРДЕРОБ.</line>
 <line speaker="Ryunosuke"><thought>Oh. That...was pointless...</thought></line>
 <line speaker="Roylott">......... It is very sad.</line>
 <line speaker="Ryunosuke">Sorry?</line>
@@ -1435,7 +1427,6 @@
 <line speaker="Pavlova">......... I don't know. I don't know anything!</line>
 <line speaker="Susato">Mr Naruhodo! You're frightening the poor girl!</line>
 <line speaker="Ryunosuke">Oh! Sorry... <thought>I wasn't trying to.</thought></line>
-<line speaker="After clearing all Converse options and presenting Kazuma's Diary">*Knock knock*</line>
 <line speaker="Strogenov">Excuse me! Mr Roylott...</line>
 <line speaker="Roylott">Yes? What?</line>
 <line speaker="Ryunosuke"><thought>Wow, she's fast!</thought></line>
@@ -1449,7 +1440,6 @@
 <line speaker="Strogenov">The passenger said, 'OUT'! Or you want me to throw you out?!</line>
 <line speaker="Ryunosuke"><thought>Ugh... It looks like we'll have to leave investigating this cabin until later.</thought></line>
 <line speaker="Susato">What a pity.</line>
-<line speaker="First-Class Passageway <thought>before Bif Strogenov enters the cabin</thought>">Examine</line>
 <line speaker="Ryunosuke">'First-Class Cabin No. 2'... Home for this voyage - at least to Mr Grimesby Roylott, the gentleman we just met.</line>
 <line speaker="Susato">These cabins are the finest on the ship. Mr Roylott must be a man of considerable standing. .........</line>
 <line speaker="Ryunosuke">I suppose so...compared to a nobody like me who doesn't even have a passport, or ticket.</line>
@@ -1620,7 +1610,6 @@
 <line speaker="Susato">I'm not sure.</line>
 <line speaker="Ryunosuke"><thought>I know most people aboard would say the same about me, but... ...there was something about that woman that didn't sit right with me.</thought></line>
 <line speaker="Susato">.........</line>
-<line speaker="After clearing all Converse options with Satoru Hosonaga">Hosonaga:</line>
 <line speaker="Ryunosuke">Yes, that might be for the best. Thank you.</line>
 <line speaker="Hosonaga">Ahem! ...Ahem, ahem!</line>
 <line speaker="Susato">Poor Inspector... You look exhausted.</line>
@@ -1775,7 +1764,6 @@
 <line speaker="Susato">Or...because Miss Pavlova only came into this cabin last night, she hasn't had the chance to make any tea yet? ...I mean, it could be either.</line>
 <line speaker="Ryunosuke">......... It's definitely that they're excessively thirsty. I'd lay a thousand to one on it!</line>
 <line speaker="Susato">...You're rather obstinate, aren't you, Naruhodo-san?</line>
-<line speaker="After examining shelf, vent, suitcase in Nikolina Pavlova's cabin and Herlock Sholmes in passageway">Ding-aling-aling-aling-aling-aling-aling...</line>
 <line speaker="Susato">Agh! What's that?!</line>
 <line speaker="Ryunosuke">What the...?</line>
 <line speaker="Susato">I think we're about to crash into another ship...</line>
@@ -1834,7 +1822,7 @@
 <line speaker="Ryunosuke">Listen, I'm sorry that we snuck in here without your permission, but-</line>
 <line speaker="Pavlova">Get out now.</line>
 <line speaker="Ryunosuke">We just needed to investigate in here to help understand what happened to-</line>
-<line speaker="Pavlova">Дo �видани�!</line>
+<line speaker="Pavlova">Дo видани!</line>
 <line speaker="Ryunosuke"><thought>Ugh, it's no use. She's not going to listen. I need to find someone who will...</thought></line>
 <line speaker="Ryunosuke">Please! Just give me a little more time!</line>
 <line speaker="Strogenov">I do nothing for you! ...Except show you way to ship's prison cell!</line>
@@ -2290,7 +2278,7 @@
 <line speaker="Ryunosuke">Yes!</line>
 <line speaker="Sholmes">What we should ponder first... ...is the victim who lost his life in a cabin that was bolted shut from the inside. Was this truly an unfortunate accident? Or was it in fact no accident at all? That is what we must establish in the first instance.</line>
 <line speaker="Hosonaga">But we've already established it, haven't we? The man tripped over the kitten that had climbed into his cabin via the ventilator. Tragic, yes. But still an accident.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Wait! Let's just take a step back. It doesn't make sense if that's really what happened, does it?</line>
 <line speaker="Hosonaga">I'm going to have to ask you to spell it out for me, I'm afraid.</line>
 <line speaker="Ryunosuke"><thought>Yes, it's starting to take shape now. There's a clear contradiction between the facts and Miss Pavlova's story here.</thought> The evidence is right there in Kazuma's cabin. It's undeniable! His death couldn't possibly have been a mere accident!</line>
@@ -2381,7 +2369,7 @@
 <line speaker="Ryunosuke">And that same person...deliberately arranged the scene to disguise the truth... ...in order to cover up their own guilt!</line>
 <line speaker="Pavlova">KYAAAAAAH!!!</line>
 <line speaker="Susato">Yes, there was someone else present in Mr Asogi's-</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="???">You are wasting time!</line>
 <line speaker="Strogenov">Someone else was there? Da! Of course! We know this!</line>
 <line speaker="Ryunosuke">What are you talking about?</line>
@@ -2401,7 +2389,7 @@
 <line speaker="Ryunosuke">Yes, well, um...</line>
 <line speaker="Sholmes">It was past one o'clock in the early hours of the morning. The cabin would have been quite dark. The single, small lamp suspended from the ceiling would barely have cast any light onto the floor there. Little wonder then, that the culprit failed to notice a fragment of the tiny item.</line>
 <line speaker="Pavlova">You all suspect me...don't you?</line>
-<line speaker="Strogenov"><cutIn>Hold it!</cutIn></line>
+<line speaker="Strogenov"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">S-Seaman Strogenov!</line>
 <line speaker="Strogenov">Nina is woman of sea! She is daughter of strong sailor. Two years ago, they noticed her dancing skills and she went away to join ballet company. But before...she was dancer on this ship. A member of ship's band. You do not accuse ship's angel of being kriminal!</line>
 <line speaker="Ryunosuke">Ah, so that's it...</line>
@@ -2763,7 +2751,7 @@
 <line speaker="Susato">So you worked out a plan. To lay the blame on the stowaway.</line>
 <line speaker="Strogenov">......... I closed wardrobe doors and put back strange paper sign.</line>
 <line speaker="Ryunosuke"><thought>Luckily for me. That's the only reason Susato-san started to believe me when I said I was innocent.</thought></line>
-<line speaker="Strogenov">I dragged young man's body to good place, and used ink that was spilling to write on floor. I wrote 'Г�РДЕРОБ' so that person who found him would look inside wardrobe and find stowaway.</line>
+<line speaker="Strogenov">I dragged young man's body to good place, and used ink that was spilling to write on floor. I wrote 'ГРДЕРОБ' so that person who found him would look inside wardrobe and find stowaway.</line>
 <line speaker="Sholmes">And tell me, what of the glass bell?</line>
 <line speaker="Pavlova">It was by my feet, so I picked it up.</line>
 <line speaker="Sholmes">I see.</line>

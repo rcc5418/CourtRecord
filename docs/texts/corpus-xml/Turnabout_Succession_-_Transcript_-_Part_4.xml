@@ -1,7 +1,7 @@
 <xml>
 <title>Turnabout Succession</title>
 <line speaker="Phoenix">I, Phoenix Wright, will be your guide through this game. That terrible trial saw me present forged evidence. ...It ended, half-finished, when the defendant vanished. What became of me after that...? As your investigation proceeds the answer will become clear. ...Oh, and one more thing. There is something I must tell you. As Apollo Justice has his bracelet... ...so, too, do I have my own "weapon" of sorts. ...My Magatama. What does it do, you ask? That I would have you see for yourself. ...Well now. Shall we begin? Touch the arrow to switch between past and present. But let's begin seven years ago... in the past. It is right after my last trial came to an abrupt end. ...Now that you know the game, let's play.</line>
-<line speaker="After moving anywhere <thought>7 years ago</thought>">Phoenix:</line>
+<line speaker="Phoenix"><thought>7 years ago</thought></line>
 <line speaker="Trucy">Ooh! Morning, Daddy!</line>
 <line speaker="Enigmar">Ah, I'm so glad you came.</line>
 <line speaker="Trucy">You OK, Daddy? They picking on you?</line>
@@ -127,7 +127,6 @@
 <line speaker="Trucy">Wait one more year! I'll be able to make it disappear then!</line>
 <line speaker="Phoenix"><thought>I'll be sure to be careful when showing evidence to magicians in the future...</thought></line>
 <line speaker="Phoenix">...So this is Trucy's mother, Thalassa. She's pretty. I can picture her on stage with Zak. Still, she looks like a down-to-earth type, too. I guess Trucy takes after her.</line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Trucy">It's OK! After all, we're family! I just hope you're ready! The Wright Talent Agency opens tomorrow!</line>
 <line speaker="Phoenix">Wh-What!? B-But are we... representing anyone?</line>
 <line speaker="Trucy">Me and you... That makes two, Daddy...!</line>
@@ -225,8 +224,8 @@
 <line speaker="Phoenix">No, you screamed it through that megaphone of yours. ...There was someone else in the room, wasn't there?</line>
 <line speaker="Meekins">Sir! I'm going to have to invoke my right to remain in a state of not talking!</line>
 <line speaker="Phoenix"><thought>It's OK, Meekins. You don't have to tell me who Zak's accomplice was.</thought> I know who was here in this room that day.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">...Well?</line>
 <line speaker="Meekins">...... Sir, I don't know what to say, sir. Except maybe I didn't need to worry about not saying anything!</line>
 <line speaker="Phoenix">...Huh?</line>
@@ -239,8 +238,8 @@
 <line speaker="Phoenix">You mean... you chased her into this room, not him?</line>
 <line speaker="Meekins">Sir... In my days as a police officer -- literally days -- I learned a thing or two. OK, just one thing. But it was how not to mistake a girl for a 7-foot-tall magician!</line>
 <line speaker="Phoenix"><thought>Seven feet? Zak isn't that tall, is he?</thought> You have a point... ...I find it hard to imagine that anyone would mistake a little girl for Zak Gramarye. But, you saw something... ...and therein lies the trick. I think you know what it was, Mr. Meekins! Tell me, does this trick look familiar!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Meekins">...My my my.</line>
 <line speaker="Phoenix">Your your your what?</line>
 <line speaker="Meekins">I guess ex-attorneys have some tricks up their sleeves, too!</line>
@@ -273,7 +272,6 @@
 <line speaker="Phoenix">So... ...while you are standing in shock and amazement, the magician rounds the corner... ...and, most likely, runs through the closest door... into Lobby No. 1. This is where you come in. You turn the corner, in rather lukewarm pursuit... ...and at that very moment, Trucy runs into Lobby No. 2! Then, all she has to do is tuck away the Amazing Mr. Hat.</line>
 <line speaker="Meekins">Sir, I... ...I only lost sight of him for the briefest of moments! Then, I saw that cape! Zak Gramarye's red cape fluttering like a... cape! ...... ...Astounding, sir! All my days of posing queries and making inquiries and chasing quarries... wasted! It was as if I could see them melting away like... ...an ice cream cone left by the side of the road to die!!! Or the scattered remains of a messily eaten chocolate parfait!!!</line>
 <line speaker="Phoenix"><thought>Such sweet sorrows...</thought></line>
-<line speaker="After clearing "The trick vanishes" Talk option">Phoenix:</line>
 <line speaker="Meekins">It... It's an honor, sir!!! I've apologized to people many, many times! Sometimes more than once! But this is the first time anyone's ever apologized to meeeeeeeeeeeeee!</line>
 <line speaker="Phoenix">Actually, about that girl... ...I'm sort of her guardian now.</line>
 <line speaker="Meekins">Is that so? ...... ...... Sir! You should know that I harbor no ill feelings whatsoever in my harbor!</line>
@@ -413,7 +411,6 @@
 <line speaker="Phoenix">Mr. Zak, could you tell me about this?</line>
 <line speaker="Zak">...Mr. Wright. We meet for the first time in seven years, and you offer me this? Please.</line>
 <line speaker="Phoenix">It... wasn't a present. <thought>This guy's a hard sell. Probably won't get a rise out of him unless I show him something real interesting.</thought></line>
-<line speaker="After clearing "Transferal of rights" Talk option">Zak:</line>
 <line speaker="Brushel">Sir! Ah, here you go.</line>
 <line speaker="Phoenix">What's this...?</line>
 <line speaker="Zak">A letter passing the rights I have inherited to Trucy. I would have you sign here, as a witness.</line>
@@ -438,7 +435,6 @@
 <line speaker="Zak">......</line>
 <line speaker="Phoenix"><thought>I know everyone else, but Trucy's mother... is a mystery.</thought></line>
 <line speaker="Phoenix">Zak's signature. I'm sure he's written it many times, being an ex-star and all. Hmm. I bet there's plenty of people out there who'd kill for a Zak Gramarye autograph.</line>
-<line speaker="After clearing all Talk options and presenting Trucy's Locket">Zak:</line>
 <line speaker="Phoenix">Final...? Why?</line>
 <line speaker="Zak">As you said, I have come out of hiding today to make this document legally binding. Once that is done, I shall slip once more underground.</line>
 <line speaker="Phoenix">...Without seeing your daughter?</line>
@@ -671,8 +667,8 @@
 <line speaker="Phoenix">The real forger behind this wasn't you, Mr. Misham!</line>
 <line speaker="Drew">P-Poppycock! I don't know what you're talking about. That's my work, I tell you. Made here in my studio! Who else could it have been but me!?</line>
 <line speaker="Phoenix">...That's the real question, isn't it? If the forger wasn't you... ...then I don't have many other people to choose from. The real forger at Drew Studio is...!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">...Well, Mr. Misham!?</line>
 <line speaker="Drew">...... Sure. Why not?</line>
 <line speaker="Phoenix">...Huh?</line>
@@ -795,8 +791,8 @@
 <line speaker="Phoenix">A good luck charm... that your client gave you?</line>
 <line speaker="Vera">......</line>
 <line speaker="Phoenix">I think I know what your client might have given you, actually. Is this your good luck charm...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">If this doesn't bring good luck, I don't know what would.</line>
 <line speaker="Vera">...... I see. Good luck charms are different for different people, I guess.</line>
 <line speaker="Phoenix">...Hmm? What do you mean?</line>
@@ -807,8 +803,8 @@
 <line speaker="Phoenix">The same bottle's over there on your desk. Your good luck charm... right?</line>
 <line speaker="Vera">I heard once... Cosmetics were once thought to ward off evil. This... is a magic bottle. It has the power.</line>
 <line speaker="Phoenix">Ah... Of course it does. <thought>I'll just refrain from commenting any more on that one.</thought> I think I know who gave you that bottle, actually. The one who asked you to do this "job". Was this the client?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Vera">......</line>
 <line speaker="Phoenix">Vera? Is something wrong?</line>
 <line speaker="Vera">...I won't tell you. Even if that is the client, I won't.</line>
@@ -829,7 +825,6 @@
 <line speaker="Phoenix">So... where'd you see this "Devil" then?</line>
 <line speaker="Vera">It was so quick... I don't remember well. But... that's when I knew that person wasn't like other people. That's why I believe in my good luck charm.</line>
 <line speaker="Phoenix"><thought>...I'm not sure what this "Devil" she saw was... ...but it's pretty clear that Kristoph Gavin has her "charmed"...</thought></line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Drew">...I am sorry for what happened.</line>
 <line speaker="Phoenix">If you want to apologize, try my client, Zak Gramarye.</line>
 <line speaker="Vera">Um... Did I... do something bad?</line>
@@ -885,8 +880,8 @@
 <line speaker="Valant">...Care to explain?</line>
 <line speaker="Phoenix">Your troupe lived in a world of showmanship -- the flashier, the better... ...and flashy so often means danger, doesn't it?</line>
 <line speaker="Valant">...Let us make this as painless as possible. If you have proof of this "danger"... then show it.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Valant">...Ah. And this is your idea of "danger".</line>
 <line speaker="Phoenix">You don't agree, Mr. Valant?</line>
 <line speaker="Valant">If you want my opinion, I would say there is something far, far more dangerous. ...And that is you!</line>
@@ -903,8 +898,8 @@
 <line speaker="Phoenix">Well, tell me what would have happened if there had been an accident. What if one of your bullets took a life on stage?</line>
 <line speaker="Valant">The performance of magic is not concerned with "what ifs". It is concerned with precision. Precisely whom do you claim we shot!?</line>
 <line speaker="Phoenix"><thought>Looks like I've chosen the right path. Let's just hope he walks it with me.</thought> A life was sacrificed so that the show might go on... and this shows who it was!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Valant">A word, if I may.</line>
 <line speaker="Phoenix">Yes?</line>
 <line speaker="Valant">Does it excite you to know you stand at a critical moment in your quest...?</line>
@@ -918,8 +913,8 @@
 <line speaker="Valant">Ah! Allakazaaaaugh!</line>
 <line speaker="Valant">Bu-But how can you say this? How can you say she was struck by one of our bullets?</line>
 <line speaker="Phoenix"><thought>Still in denial mode, eh?</thought> Thalassa was at the greatest risk of being shot. And this clearly shows just how much danger she was in!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Valant">...Mr. Wright, I envy you. It appears your chosen profession is far more lenient than mine.</line>
 <line speaker="Phoenix">What do you mean?</line>
 <line speaker="Valant">For us magicians, a single misstep can be... fatal.</line>
@@ -942,7 +937,7 @@
 <line speaker="Valant">I see in your eyes... you still have something to say. How can you possibly prove more than you already have!?</line>
 <line speaker="Phoenix">I'll prove why Thalassa's accident tied your hands so completely...</line>
 <line speaker="Phoenix"><thought>...No better proof than the evidence!</thought> The accidental death of Zak's wife tied both your hands... And his evidence proves why Magnifi held so much power over you!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Valant">Ha ha ha ha ha ha ha! Were you, by any chance, trying to threaten me?</line>
 <line speaker="Phoenix">N-No, of course not.</line>
 <line speaker="Valant">...You'll never make a good blackmail artist. Never!</line>
@@ -950,8 +945,8 @@
 <line speaker="Valant">Give up your dreams. Work an honest job. That's my advice.</line>
 <line speaker="Phoenix"><thought>...I'd better stop dreaming and get to work here, fast. Magnifi used Thalassa's death as a means to control his disciples. How was that possible if he could be implicated in the cover up? ...Do I really have the evidence to prove this?</thought></line>
 <line speaker="Phoenix"><thought>...It's going to take a little knowledge of the players to crack this one.</thought> The accidental death of Zak's wife tied both your hands... And this information proves why Magnifi held so much power over you!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Valant">Ha ha ha ha ha ha ha! Were you, by any chance, trying to threaten me?</line>
 <line speaker="Phoenix">N-No, of course not.</line>
 <line speaker="Valant">...You'll never make a good blackmail artist. Never!</line>
@@ -988,7 +983,6 @@
 <line speaker="Phoenix">I'm sorry to dredge up old memories... but this has helped a lot.</line>
 <line speaker="Valant">Not to find Magnifi's slayer, I should think.</line>
 <line speaker="Phoenix">...True.</line>
-<line speaker="After clearing "The darkness" Talk option">Valant:</line>
 <line speaker="Phoenix">...?</line>
 <line speaker="Valant">After that accident... ...there was one who came sniffing, quite persistently.</line>
 <line speaker="Phoenix">A reporter?</line>
@@ -1031,7 +1025,7 @@
 <line speaker="Phoenix"><thought>...I'm beginning to have my doubts.</thought></line>
 <line speaker="Phoenix">Let's take a closer look at that desk.</line>
 <line speaker="Phoenix">This envelope's from the client who requested that forgery. Just think, if that had gotten lost in the mail... ...I'd still be wearing my attorney's badge.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">...I just have to do that when I see this pose. I can't believe it's been seven years... ...I have to stop torturing myself with these things! I know! I'll just pretend it's saying something else. "The post office? Why, it's right over there! Good say, sir!"</line>
 <line speaker="Phoenix">A picture of a young Mr. Misham and a very young Vera. They're smiling. They look happy. Of course, now Mr. Misham's passed away... ...and Vera's on death's doorstep in the hospital. ...Guess I'll just do what I can... and hope it's enough.</line>
 <line speaker="Phoenix">This frame looks even smaller sitting next to that photo. Just the right size for a commemorative stamp, indeed. A commemorative stamp put there by a daughter... that killed her father. Sometimes, life just sucks.</line>
@@ -1116,7 +1110,6 @@
 <line speaker="Phoenix">Actually, no, that's OK. I don't need an article. I was just wondering if you had any thoughts on this.</line>
 <line speaker="Brushel">I hear you. I. Hear. You! You want me to sniff around for a scoop! Well you've come to the right nose, my friend! ... It's odorless.</line>
 <line speaker="Phoenix">...Th-Thanks. <thought>OK, that was less than informative.</thought></line>
-<line speaker="After clearing all Talk options">Brushel:</line>
 <line speaker="Phoenix"><thought>I was too busy wondering about "biggerer" to listen to what you were saying.</thought></line>
 <line speaker="Brushel">...Sometimes, you just gotta accept that you won't be able to untangle it all, I think.</line>
 <line speaker="Phoenix">Maybe so. But still... ...I have to do what I can. And... I have to tell what I find to those who come next.</line>
@@ -1144,8 +1137,8 @@
 <line speaker="Phoenix">Maybe Trucy got her "power" from her mother? Thalassa Gramarye...?</line>
 <line speaker="Zak">I will not speak of that!</line>
 <line speaker="Phoenix">Thalassa is officially "missing", correct? And I think I know why you don't want to talk about her.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, Mr. Zak!?</line>
 <line speaker="Zak">...Let me be frank. It is true I do not wish to talk of her. And now, there is another I could care less about. ...You.</line>
 <line speaker="Phoenix">Ah.</line>
@@ -1163,8 +1156,8 @@
 <line speaker="Phoenix"><thought>I don't need any "power" to see through that one, buddy.</thought> So there's someone else. Someone other than Trucy. Someone who inherited Thalassa's "power".</line>
 <line speaker="Zak">Hah... Hah! How would I know...?</line>
 <line speaker="Phoenix"><thought>My chances are slim. It would take a miracle to learn the truth. Or maybe... one has already occurred.</thought> There is someone else with the "power". And I know who...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Zak">Tell me, what do you think the "meaning" of magic is?</line>
 <line speaker="Phoenix">...Huh?</line>
 <line speaker="Zak">It is simple. To do magic is to make miracles happen. It is not something an amateur can achieve. Or you, apparently.</line>
@@ -1183,8 +1176,8 @@
 <line speaker="Phoenix">This might not be 100% proof, but it's close. There's a link between this boy and Thalassa... Actually, it's more of a "ring".</line>
 <line speaker="Zak">...A ring?</line>
 <line speaker="Phoenix">Perhaps this will refresh your memory. I just so happen to have evidence showing this "missing link"!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Zak">Wa ha ha ha ha ha!</line>
 <line speaker="Phoenix">...Mr. Zak?</line>
 <line speaker="Zak">This face is your response, Mr. Ex-Attorney. You did say that I wouldn't laugh if I knew the facts, right?</line>
@@ -1250,7 +1243,6 @@
 <line speaker="Zak">You are talking about poker, yes? The timing of when to focus is so elementary, she probably does it without thinking.</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Zak">I doubt Trucy herself has realized this.</line>
-<line speaker="After clearing all Talk options">Zak:</line>
 <line speaker="Phoenix">Thank you, Mr. Zak.</line>
 <line speaker="Zak">If this boy's bracelet is the real thing, then he will use it before long. Thereby awakening his power.</line>
 <line speaker="Phoenix">...I'll keep that in mind. Well, shall we play a game?</line>
@@ -1335,8 +1327,8 @@
 <line speaker="Phoenix">I'm as much a part of this affair as you are now. I have to know what happened.</line>
 <line speaker="Valant">For seven long years, I have endured... ...Now, finally, the curtain lifts on my new golden age! All the miracles of our troupe, within my grasp!</line>
 <line speaker="Phoenix"><thought>Sorry to do this, Valant... But right now, I need answers. I think I'll start... by dropping a bomb. That should shake things up.</thought> Valant... I wouldn't be so sure about those miracles. Not as long as I have this.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Valant">Let me be frank. ...No one, and I mean no one, can stand in my path. Not even you, with your silly-frilly ways.</line>
 <line speaker="Phoenix">Let me be frank, too. That's the first time anyone's called me "silly-frilly". <thought>What I need is a bit of magic... something to stop Valant's show in its tracks. ...Now's no time for subtlety.</thought></line>
 <line speaker="Valant">And what might that be? I see it bears the Gramarye seal...</line>
@@ -1354,8 +1346,8 @@
 <line speaker="Phoenix">Did you think there might be some way out of it? Say, if you could prove Zak Gramarye shot Magnifi? Was that why you testified?</line>
 <line speaker="Valant">Yes! My way out... It should have been my way out!</line>
 <line speaker="Phoenix">Well, it might not be too late, Mr. Valant. All you need is a way to prove your case. Who really killed Magnifi Gramarye?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Valant">So this is the evidence that answers the question, "Who killed Magnifi?"</line>
 <line speaker="Phoenix">...Well?</line>
 <line speaker="Valant">The only question that this evidence can answer is, "Who here is an idiot?" And it answers, "You," Mr. Wright. Must I suffer such indignities even now? Ah, the life of a magician is a life of toil.</line>
@@ -1415,7 +1407,6 @@
 <line speaker="Valant">Then, the demon awoke anew within me! ...Zak killed him, he was the one... ...Frame him, and the magic will be yours... I... altered the scene of his suicide. I took the pistol from his hand, wiped off the prints... ...then I used the syringe to add the IV liquid I'd brought.</line>
 <line speaker="Phoenix">So in the end, things happened pretty much as planned. Magnifi died, and you framed Zak for his murder.</line>
 <line speaker="Valant">...... "As planned", indeed. Of course, the outcome was somewhat different than I had anticipated.</line>
-<line speaker="After clearing all Talk options">Valant:</line>
 <line speaker="Phoenix">...... That was seven years ago. I don't know what to believe. But...</line>
 <line speaker="Valant">...Yes?</line>
 <line speaker="Phoenix">I'm glad I heard it from you, Mr. Valant. Thank you.</line>
@@ -1431,7 +1422,6 @@
 <line speaker="Phoenix">Um, "her"...?</line>
 <line speaker="Valant">...The mind races and the mouth flaps on. My apologies. Forget this matter. I can only hope that the day will come when I again meet my partner, Zak Gramarye. Then... I shall apologize for my terrible mistake. I am glad we had this chance to talk... Thank you.</line>
 <line speaker="Phoenix">Zak Gramarye... "Shadi Smith". Whichever name you prefer... he is no longer with us. The truth revealed in that trial was only a sliver... ...and the impenetrable darkness that remained has taken another life. I knew what I'd have to do to push back the darkness for good. And it would involve paying that man a visit.</line>
-<line speaker="Solitary Cell 13, after clearing all Talk options with Kristoph, Vera, Brushel, and Valant <thought>Present Day</thought>">Guard:</line>
 <line speaker="Phoenix">I see... Do you know when he'll be finished?</line>
 <line speaker="Guard">Ah, erm, well...</line>
 <line speaker="Phoenix">...Could you go find out?</line>

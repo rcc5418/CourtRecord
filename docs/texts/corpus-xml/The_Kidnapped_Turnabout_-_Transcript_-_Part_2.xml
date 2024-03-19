@@ -65,7 +65,7 @@
 <line speaker="Paups">..................Yes. It... It was me... I held Lance hostage...</line>
 <line speaker="Edgeworth"><thought>So Ms. Paups is one of the kidnappers... But even knowing that, I can't call this case solved... or over.</thought></line>
 <line speaker="Lang">Hey! Guys! Case closed! Get the car ready, and I mean the special one for this young lady!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Lang">Heh. Again, Mr. Prosecutor? What is it this time?</line>
 <line speaker="Edgeworth">Are you proposing that Ms. Paups is also the culprit in the murder case? What happened? I thought Officer Meekins was your suspect.</line>
 <line speaker="Lang">Hmph! We found it...</line>
@@ -80,7 +80,7 @@
 <line speaker="Paups">.................. I... Yes, I killed him.</line>
 <line speaker="Kay">I-I can't believe it...</line>
 <line speaker="Lang">Ha ha ha ha ha ha ha ha! Thanks for the confession!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, it's much too early to declare this case closed!</line>
 <line speaker="Lang">Look at you, so sure of yourself. We've got the culprit's own confession and some very incriminating evidence. What more could you ask for?</line>
 <line speaker="Edgeworth">Ms. Lauren Paups.</line>
@@ -98,7 +98,7 @@
 <line speaker="Paups">Y-Yes... it... is...</line>
 <line speaker="Edgeworth"><thought>If that is the truth, it certainly isn't the whole truth. Because there is something that seems a bit too improbable in her confession.</thought></line>
 <line speaker="Paups">The one who came up with the kidnapping plan was the butler, Mr. Deacon.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How well did you know the victim?</line>
 <line speaker="Paups">I've spoken with him only a few times at Lance's house.</line>
 <line speaker="Edgeworth">A "few times"? That's it?</line>
@@ -111,29 +111,29 @@
 <line speaker="Lang">Hah! I bet he didn't see that one coming!</line>
 <line speaker="Edgeworth">.........</line>
 <line speaker="Paups">.........</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Paups, you really are clueless, aren't you?</line>
 <line speaker="Paups">Wh-What do you mean?</line>
 <line speaker="Edgeworth">You never knew what your role in the kidnapping was, nor do you know who you really are. But I do, and I can show you with this piece of evidence!</line>
 <line speaker="Paups">Why are you showing this to me...?</line>
 <line speaker="Lang">So what about the pendant!?</line>
 <line speaker="Edgeworth">This horse pendant, along with this piece of evidence, shows who you really are!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Does that really have anything to do with the pendant?</line>
 <line speaker="Lang">What the heck, of course not!</line>
 <line speaker="Edgeworth">...I suppose not. <thought>There is something that is very clearly connected to this pendant! And this pendant is the key that will open the door to the truth.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Paups">Why are you showing this to me...?</line>
 <line speaker="Lang">So what about the pendant!?</line>
 <line speaker="Edgeworth">This pair of wings, along with this piece of evidence, shows who you really are!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Does that really have anything to do with the pendant?</line>
 <line speaker="Lang">What the heck, of course not!</line>
 <line speaker="Edgeworth">...I suppose not. <thought>There is something that is very clearly connected to this pendant! And this pendant is the key that will open the door to the truth.</thought></line>
 <line speaker="Paups">We knew that we could get rich by holding Lance hostage.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You knew? How did you know something like that?</line>
 <line speaker="Paups">Aah! Oh, no! What should I do...?</line>
 <line speaker="Edgeworth">............Kay, what's wrong with her now?</line>
@@ -144,7 +144,7 @@
 <line speaker="Edgeworth">Mind your own business, Kay. ...Now then, Ms. Paups, let's continue with your testimony.</line>
 <line speaker="Paups">Oh! Y-Yes, of course!</line>
 <line speaker="Paups">Mr. Amano would pay anything to get his son back, after all.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why did you believe that?</line>
 <line speaker="Paups">Anyone who knows Mr. Amano would think the same...</line>
 <line speaker="Kay">I bet Lance is that old man's greatest "treasure".</line>
@@ -154,7 +154,7 @@
 <line speaker="Paups">I got this pendant from my father... And I believe that as long as I have this, I'll find my father again someday. He'll welcome me into his arms, riding on the back of Pegasus.</line>
 <line speaker="Edgeworth"><thought>That pendant... She must truly believe it or be the wings of Pegasus.</thought></line>
 <line speaker="Paups">Everything was going according to plan, but as soon as we got the money...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Would you mind telling us a little about the plan itself?</line>
 <line speaker="Paups">Well.. First, we captured Lance...</line>
 <line speaker="Kay">Ooh, how did you do that?</line>
@@ -163,7 +163,7 @@
 <line speaker="Edgeworth"><thought>I shudder to think what she would do with such knowledge..</thought></line>
 <line speaker="Paups">Sorry, I really don't know, but somehow, Mr. Deacon was able to contain him. All we had to do after that was wait for the ransom to be paid, but...</line>
 <line speaker="Paups">...Mr. Deacon turned on me, and tried to kill me!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why do you think he did?</line>
 <line speaker="Paups">I have no idea. But maybe he had planned on doing so from the very beginning.</line>
 <line speaker="Kay">...Ms. Paups...</line>
@@ -178,29 +178,29 @@
 <line speaker="Paups">Huh?</line>
 <line speaker="Edgeworth">I don't think Mr. Deacon would have ever been capable of killing you.</line>
 <line speaker="Paups">But why!? We were total strangers! It's not uncommon for people to kill each other over money...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Ms. Paups, you really are clueless, aren't you?</line>
 <line speaker="Paups">Wh-What do you mean?</line>
 <line speaker="Edgeworth">You never knew what your role in the kidnapping was, nor do you know who you really are. But I do, and I can show you with this piece of evidence! This proves that Mr. Deacon wouldn't have been able to bring himself to kill Ms. Paups!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Why are you showing this to me...?</line>
 <line speaker="Lang">So what about the pendant!?</line>
 <line speaker="Edgeworth">This horse pendant, along with this piece of evidence, shows who you really are!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Does that really have anything to do with the pendant?</line>
 <line speaker="Lang">What the heck, of course not!</line>
 <line speaker="Edgeworth">...I suppose not. <thought>There is something that is very clearly connected to this pendant! And this pendant is the key that will open the door to the truth.</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Why are you showing this to me...?</line>
 <line speaker="Lang">So what about the pendant!?</line>
 <line speaker="Edgeworth">This pair of wings, along with this piece of evidence, shows who you really are!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Does that really have anything to do with the pendant?</line>
 <line speaker="Lang">What the heck, of course not!</line>
 <line speaker="Edgeworth">...I suppose not. <thought>There is something that is very clearly connected to this pendant! And this pendant is the key that will open the door to the truth.</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Mr. Paups! You don't know, do you? But this piece of evidence will tell you exactly who you really are!</line>
 <line speaker="Paups">............Looking at it, I still don't feel anything within me at all! But now, I REALLY feel like I don't know anything!</line>
 <line speaker="Lang">Hey, Mr. Prosecutor. Are you sure the one who doesn't know anything isn't you?</line>
@@ -209,24 +209,24 @@
 <line speaker="Paups">That's... No... You don't understand...</line>
 <line speaker="Lang">What's there to understand?</line>
 <line speaker="Paups">............</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Paups, you really are clueless, aren't you?</line>
 <line speaker="Paups">Wh-What do you mean?</line>
 <line speaker="Edgeworth">You never knew what your role in the kidnapping was, nor do you know who you really are. But I do, and I can show you with this piece of evidence!</line>
 <line speaker="Paups">Why are you showing this to me...?</line>
 <line speaker="Lang">So what about the pendant!?</line>
 <line speaker="Edgeworth">This horse pendant, along with this piece of evidence, shows who you really are!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Does that really have anything to do with the pendant?</line>
 <line speaker="Lang">What the heck, of course not!</line>
 <line speaker="Edgeworth">...I suppose not. <thought>There is something that is very clearly connected to this pendant! And this pendant is the key that will open the door to the truth.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Paups">Why are you showing this to me...?</line>
 <line speaker="Lang">So what about the pendant!?</line>
 <line speaker="Edgeworth">This pair of wings, along with this piece of evidence, shows who you really are!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Does that really have anything to do with the pendant?</line>
 <line speaker="Lang">What the heck, of course not!</line>
 <line speaker="Edgeworth">...I suppose not. <thought>There is something that is very clearly connected to this pendant! And this pendant is the key that will open the door to the truth.</thought></line>
@@ -245,8 +245,8 @@
 <line speaker="Paups">Wh--! No! That can't be!</line>
 <line speaker="Lang">So the two make a set. Heh! It's just another trinket. It's not as though this changes anything!</line>
 <line speaker="Edgeworth">Hmph. You lack imagination, Agent Lang. Very well, I'll show you with this evidence! This is the piece of evidence that gives meaning to the Pegasus pendant!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence clearly does not demonstrate the meaning behind the pendant.</line>
 <line speaker="Kay">And? So what?</line>
 <line speaker="Edgeworth">...Hold your horses. I believe there might exist a piece of evidence that can better explain the meaning...</line>
@@ -255,18 +255,18 @@
 <line speaker="Edgeworth">"Oliver Deacon" was just an alias for this man. His real name was "Colin Devorae", the name that is etched on the horse pendant.</line>
 <line speaker="Lang">What!? An alias!?</line>
 <line speaker="Edgeworth">I suppose he had to hide the fact that he was a felon somehow in order to live. And it makes sense, given what is written in Mr. Devorae's dossier. But what I really wanted to point out was this. This specific section is what reveals the true meaning behind those pendants!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I'm sure I'm not the only one who recognizes this face.</line>
 <line speaker="Kay">...Isn't that the murder victim?</line>
 <line speaker="Edgeworth">Precisely.</line>
 <line speaker="Lang">And? Don't tell me that's it?</line>
 <line speaker="Edgeworth">...I still have yet to figure it all out. <thought>The truth is buried in here somewhere! I just need to read it in a little more detail!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">His real name was "Colin Devorae", the name that is etched on the horse pendant.</line>
 <line speaker="Lang">What the--!? Do you pay attention to what you say!? You just told us about his alias a few seconds ago! And in the exact same words!</line>
 <line speaker="Edgeworth">Knngh! <thought>Written in here is something other than the victim's real name that is very important.</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I'd like you to take a look at around this area...</line>
 <line speaker="Lang">Lang Zi says: "The timid never reach the land of Truth." You'll have to be more specific than that if you want to convince me!</line>
 <line speaker="Edgeworth">Nngh! Do I have to spell it out for you? Alright then, I'll direct you to the exact section.</line>
@@ -289,31 +289,31 @@
 <line speaker="Lang">That's right. As one really rotten family!</line>
 <line speaker="Edgeworth"><thought>Is that really what happened? I had better take a long, hard look at the evidence.</thought></line>
 <line speaker="Lang">I'll grant you that the two of them are father and daughter.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Precisely. And what father would ever willingly kill his own daughter?</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">I've seen a lot of things in my travels... ..and I can tell you that being related by blood is sometimes proof of nothing.</line>
 <line speaker="Lang">But, isn't it possible that they both knew that fact?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You think they knew?</line>
 <line speaker="Lang">Yeah, I don't think only the victim knew. I think the girl realized it as well. They both knew who the other person was, but they had to pretend that they didn't!</line>
 <line speaker="Edgeworth">Because he was on the lam?</line>
 <line speaker="Lang">You got it. The victim couldn't exactly go around flaunting who he was. Furthermore...</line>
 <line speaker="Lang">It was no coincidence that the reunited pair became involved in the house of Amano.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">One as a butler, and one as the friend of the son, you mean?</line>
 <line speaker="Lang">They probably thought that was their best shot.</line>
 <line speaker="Edgeworth">Is that what you honestly believe?</line>
 <line speaker="Lang">Of course.</line>
 <line speaker="Lang">And the two of them made good use of their meetings to plan this little kidnapping.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You mean how they plotted to commit this crime as blood relatives?</line>
 <line speaker="Lang">Can you think of a better partner? They're certainly a clever pair.</line>
 <line speaker="Edgeworth">The butler and the girlfriend. No one would ever suspect that they were, in fact, family.</line>
 <line speaker="Lang">Yes, from the very beginning, they painstakingly practiced those roles well.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lang">Wouldn't you say my scenario is perfectly probable as well?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I believe you're being a bit too over-confident for someone with no evidence.</line>
 <line speaker="Lang">Am I? Because I don't see you presenting any evidence to the contrary.</line>
 <line speaker="Edgeworth">Mnngh... <thought>Without evidence to counter him, we're stuck at a draw.</thought></line>
@@ -327,8 +327,8 @@
 <line speaker="Edgeworth">Four costumes were stolen from the Wild, Wild West area's backroom. We found one of them in the kidnappers' hideout. But as for the other three, we can assume they were being worn by three different people. We also found a set of three cups and three folding chairs that were used in the hideout. It all clearly points to a three-man group! And I believe this third person is the real mastermind behind the kidnapping!</line>
 <line speaker="Lang">Wh-Who!? Who is this mastermind!?</line>
 <line speaker="Edgeworth">I present to you, the brains behind the kidnapping!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The real puppet-master of this kidnapping is this person. I can think of no one else.</line>
 <line speaker="Paups">...?</line>
 <line speaker="Kay">......?</line>
@@ -356,7 +356,7 @@
 <line speaker="Lang">............Tch.</line>
 <line speaker="Edgeworth"><thought>There is a sticking point in Lance's testimony. Let's see what he offers up when I push a little.</thought></line>
 <line speaker="Lance">I was kidnapped yesterday morning.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Can you tell us about when you were abducted in a little more detail?</line>
 <line speaker="Lance">It was a strange morning. I felt like I was right in the middle of a great calm.</line>
 <line speaker="Edgeworth">And where were you when you experienced this... calm?</line>
@@ -366,36 +366,36 @@
 <line speaker="Edgeworth">You didn't see your attacker?</line>
 <line speaker="Lance">They must've used some drug to knock me out. Because before I knew it, I was off in La-La Land again. When I woke up, I was in kidnappers' hideout already, all tied up.</line>
 <line speaker="Lance">They had me shut in that room, blindfolded, the entire time.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">By "that room", you mean the room in the kidnappers' hideout, correct?</line>
 <line speaker="Lance">Yes, but I was blindfolded the whole time, so I didn't know that until I made my escape.</line>
 <line speaker="Edgeworth">Then, you were in the same room as your kidnappers?</line>
 <line speaker="Lance">They spoke in hushed tones, but I could catch bits of their conversation. It was definitely two people, and one of them was definitely a woman. I was so scared. I could tell they were nearby, so I didn't dare make a move.</line>
 <line speaker="Lance">But the kidnappers suddenly disappeared around the time I heard rain falling outside.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The kidnappers disappeared?</line>
 <line speaker="Lance">The room fell into a sudden silence. I had been left behind like an unwanted mutt.</line>
 <line speaker="Edgeworth">And what do you mean by "unwanted mutt"?</line>
 <line speaker="Kay">What a pointless question. It's not like he's going to tell you anything new, you know.</line>
 <line speaker="Lance">It's a poetic smile, You should learn how to use them, too. You may look refined on the outside... ...but it's no good if you're not refined on the inside as well.</line>
 <line speaker="Lance">My hands were cuffed, but it was a stroke of luck that they left me alone.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Then, those cuffs on your wrists... I suppose you are still cuffed, in that case.</line>
 <line speaker="Lance">I am well aware of how I am chained to reality. I couldn't find the key, so I'm afraid that I'm stuck like this. Even thought I escaped from that jail cell, I will forever be a prisoner.</line>
 <line speaker="Lance">I made my escape and ran away from that room as fast as I could.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How did you manage to escape?</line>
 <line speaker="Lance">I wanted to just get out of there, but the door leading outside was locked. Which is why I had to use the underground passageway to make my escape.</line>
 <line speaker="Edgeworth"><thought>I remember our escape to be equally as hard... This is an invaluable piece of testimony. I mustn't let it go unexamined.</thought></line>
 <line speaker="Add statement">"The door leading outside was locked tight, so I had to use the underground passageway."</line>
 <line speaker="Lance">The door leading outside was locked tight, so I had to use the underground passageway.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">By "underground passageway", you mean the one the staff uses to travel unnoticed?</line>
 <line speaker="Lance">I suppose that's what it's for, but I didn't run into any staff members on my way out. And once I was up top, I was busy trying to find a member of the police.</line>
 <line speaker="Edgeworth">And that is when you found us congregated at the stadium, I suppose? Let me ask you, then. How did you get ahold of the key to the underground door?</line>
 <line speaker="Lance">That was easy. It was hanging right there in the room on the wall.</line>
 <line speaker="Edgeworth"><thought>I do recall a key hanging on the wall right beside the table...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kay">Boy does that bring back memories of our situation and how we made our escape.</line>
 <line speaker="Edgeworth">Indeed. And although the door in the floor of our room left to an underground room... ...the door in the floor of the room next door had a secret passageway.</line>
 <line speaker="Kay">A secret passage under a theme park! Ooh, that just sounds like so much fun!</line>
@@ -415,10 +415,10 @@
 <line speaker="Lang">You've been making this guy out to be one of the kidnappers for some time now. I wonder if you've forgotten something very important along the way.</line>
 <line speaker="Edgeworth">And what would that be?</line>
 <line speaker="Lang">A motive! What else!? Do you honestly think that an upright, pure boy like him... ...would hatch up a completely pointless scheme such as kidnapping himself!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This proves that Lance did indeed have a motive to commit this crime!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">That is this boy's motive!? You lawyer-types sure have active imaginations! That type of flimsy logic may work in court, but it'll never stand up to my strict scrutiny!</line>
 <line speaker="Edgeworth">Nngh! This wolf's bite is far worse than his bark...</line>
 <line speaker="Lance">Hmph! Serves you right!</line>
@@ -450,19 +450,19 @@
 <line speaker="Kay">Huh? What's that supposed to mean?</line>
 <line speaker="Edgeworth">What I mean is, listen very carefully to her confession once more and you'll see.</line>
 <line speaker="Paups">That man was not my father! I mean... Because... at the stadium...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Please calm down and let's slowly talk through this.</line>
 <line speaker="Paups">But! I...!</line>
 <line speaker="Edgeworth">All you have to do is simply tell us what happened at the stadium. Leave it to us to search out the truth. Can you do that for me?</line>
 <line speaker="Paups">.........! A-Alright. So... at the stadium...</line>
 <line speaker="Paups">...there was a Bad Badger pulling the suitcase with the $1 million in it.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That was the ransom money, wasn't it!?</line>
 <line speaker="Paups">Yes. That's how I was able to identify Mr. Deacon almost immediately. It was all thanks to what Lance told me.</line>
 <line speaker="Edgeworth">And what did he tell you?</line>
 <line speaker="Paups">Well, he called me on my cell phone and told me... ...that Mr. Deacon had betrayed us and had run off with the ransom money. And... about how he had a gun.</line>
 <line speaker="Paups">But that Badger pointed his gun at me, aiming to shoot me dead!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Were you able to clearly see the gun?</line>
 <line speaker="Paups">Yes, I got a very good look at it while it was pointed at me. Oh, father... Why would you try to shoot me?</line>
 <line speaker="Kay">Do you really think a father would shoot his own daughter, Mr. Edgeworth?</line>
@@ -475,12 +475,12 @@
 <line speaker="Paups">...Y-Yes, of course.</line>
 <line speaker="Change statement">"But that Badger pointed his gun at me, aiming to shoot me dead!" to "But that Badger pointed the gun in his left hand at me, aiming to shoot me dead!"</line>
 <line speaker="Paups">But that Badger pointed the gun in his left hand at me, aiming to shoot me dead!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And you felt that your life was in danger, correct?</line>
 <line speaker="Paups">Yes. "I'm about to die!" I thought. So... So...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Paups">That's why I... I used the gun I got from Lance...!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You shot Mr. Deacon...?</line>
 <line speaker="Paups">..................</line>
 <line speaker="Kay">Ms. Paups...</line>
@@ -492,7 +492,7 @@
 <line speaker="Edgeworth">Ms. Paups, if you please.</line>
 <line speaker="Paups">...Alright.</line>
 <line speaker="Paups">There was a gunshot, the other person crumpled to the ground, and I ran, scared for my life.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Did you take off immediately following the gunshot?</line>
 <line speaker="Paups">Yes.</line>
 <line speaker="Edgeworth">And you didn't attempt to approach the victim at all after he was shot?</line>
@@ -525,8 +525,8 @@
 <line speaker="Edgeworth">They are both correct.</line>
 <line speaker="Lang">Impossible! That just leaves us with an irresolvable contradiction!</line>
 <line speaker="Edgeworth"><thought>Ms. Paups's entire statement rests on the fact that she saw his sunglasses and beard. But what if that Bad Badger wasn't wearing pants on his lower half...?</thought> This proves that there was a way for the Bad Badger to freely use both of his hands!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">Get your head on straight, Mr. Prosecutor! That doesn't show me diddly-squat!</line>
 <line speaker="Paups">I knew it. What I saw was just a miraaaaaage!</line>
 <line speaker="Edgeworth">W-Wait! I can explain! Ms. Paups said the Bad Badger had a gun in his left hand and the suitcase in his right. But the Bad Badger costume has a model gun attached to its right hand... ...which is what created this contradiction about which hand did what.</line>
@@ -535,24 +535,24 @@
 <line speaker="Edgeworth">The head Ms. Paups saw was probably really the head of the Bad Badger. However, is it not possible that the body was that of an entirely different Badger?</line>
 <line speaker="Lang">A different Badger...?</line>
 <line speaker="Edgeworth">Yes. Or to put it more bluntly, I believe it was the lower half of this Badger! The body of the Bad Badger Ms. Paups saw really belonged to this Badger!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">It was the Bad Badger's body...?</line>
 <line speaker="Paups">The Bad Badger...?</line>
 <line speaker="Lang">Ha ha ha! You're a real laugh riot! You claim that the body was from a different Badger, and then do a complete 180! If the body of the Bad Badger was that of the Bad Badger, then we've resolved nothing!</line>
 <line speaker="Edgeworth"><thought>C-Curses!</thought> P-Precisely! Therefore, the body of the Bad Badger must have been of a different one!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">His head may have been the Bad Badger, but his body was the Blue Badger's!</line>
 <line speaker="Lang">The Blue Badger? Hold on, let's see here... Who was it that had one of these on...?</line>
 <line speaker="Paups">I did...</line>
 <line speaker="Gumshoe">And so did Officer Meekins, pal...</line>
 <line speaker="Lang">Ha ha ha! Nice try, but your logic is just a tad illogical! Officer Meekins has been placed under arrest, after all!</line>
 <line speaker="Edgeworth">W-Wait! I'd like to strike what I just said from the record, and give my explanation anew...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">Umm... I think even I would've noticed that...</line>
 <line speaker="Kay">Yeah, Mr. Edgeworth. The Pink Badger is, well, pink, after all.</line>
 <line speaker="Edgeworth">Nngh! Y-Yes, well, that may be true, but... I-In that case!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">I don't see a Badger where you're pointing, do you!?</line>
 <line speaker="Edgeworth">S-Sorry. My finger must have slipped due to excessive force. Please allow me to try again.</line>
 <line speaker="Lang">Wh-What!? .........The heck is it!?</line>
@@ -573,10 +573,10 @@
 <line speaker="Edgeworth">It depends. According to Ms. Paups, her attacker held a gun in his left hand.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Hah! Who is what-handed doesn't prove a thing! And besides! Now you're just being absurd! It's not like the Proto Badger is bulletproof. One misfire, and he would've found himself dead, right?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Of course. Logically, if he had been shot, he probably wouldn't be here with us. But I believe he had thought of that as well, and prepared accordingly. And this should be all the evidence you need. This is how Lance made sure that he wouldn't be hit by a bullet!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">He prepared this, thinking he could set it up and use it to protect himself.</line>
 <line speaker="Lang">That's completely illogical! Besides, you'd think it would've been mentioned in one of the testimonies by now!</line>
 <line speaker="Edgeworth">......Hm. <thought>Lance was pointing a gun, meaning it's unlikely he was using some sort of barrier. I may need to turn my entire logic on this upside-down.</thought></line>
@@ -603,7 +603,7 @@
 <line speaker="Lang">And then, the murder happened. Mr. Deacon must have overheard their plan to meet up at the stage. Well, Mr. Prosecutor? Ms. Paups saw the victim with her own eyes... ...which means that the victim was still alive at that time, wouldn't you agree?</line>
 <line speaker="Edgeworth">............ <thought>Why does that sound wrong to me...? There must be something amiss about this account! Let's see what happens when I examine it in more detail.</thought></line>
 <line speaker="Paups">I came back to the hideout long after the other two.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">When exactly did you arrive back at the hideout?</line>
 <line speaker="Paups">It was after we had picked up the ransom money.</line>
 <line speaker="Edgeworth">And where were you up until the time you returned?</line>
@@ -611,12 +611,12 @@
 <line speaker="Edgeworth"><thought>Ah, so each of them had their own roles to play.</thought></line>
 <line speaker="Paups">After I was done, I went back to the hideout.</line>
 <line speaker="Paups">By that time, Lance had already subdued and restrained Mr. Deacon.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How did Lance look at that time?</line>
 <line speaker="Paups">He, well... He looked shocked. He also looked a little down. When I saw that sadness in his eyes, I...</line>
 <line speaker="Edgeworth">Thank you, that's enough for now. And what of Mr. Deacon? What was his situation like?</line>
 <line speaker="Paups">He had tied Mr. Deacon securely to the beam in the room next door.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You are sure that it was Mr. Deacon that you saw?</line>
 <line speaker="Paups">Yes. I am certain of what I saw.</line>
 <line speaker="Edgeworth">Did you go into the other room to check?</line>
@@ -626,7 +626,7 @@
 <line speaker="Edgeworth"><thought>She saw a Bad Badger head?</thought></line>
 <line speaker="Add statement">"The captive had a Bad Badger's head on, so I'm absolutely sure it was Mr. Deacon."</line>
 <line speaker="Paups">The captive had a Bad Badger's head on, so I'm absolutely sure it was Mr. Deacon.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So the tied-up Mr. Deacon was still in his Bad Badger costume?</line>
 <line speaker="Paups">Yes... And...?</line>
 <line speaker="Edgeworth"><thought>It would appear that she misread the whole situation... What now? Should I raise an objection?</thought></line>
@@ -634,13 +634,13 @@
 <line speaker="Edgeworth">The person you saw was not the victim.</line>
 <line speaker="Paups">What!? Why not?</line>
 <line speaker="Edgeworth">I will tell you why not... with this! This, Ms. Paups, shows us that the person you saw was not the victim!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Paups">.................. Umm... I'm not sure what you mean by that.</line>
 <line speaker="Edgeworth">Knngh! <thought>It would seem that I made a mistake. But why was he tied up in his Bad Badger costume? If I think a little more on this, the answer should come to me. Perhaps I should listen a bit more carefully to her testimony this time around.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Paups">After that, the two of us put on our costumes and made our escape.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I assume you two split up, but planned to rendezvous later at a set time and place?</line>
 <line speaker="Paups">Yes. We planned to meet up at the stage, and then I left the hideout not long after.</line>
 <line speaker="Edgeworth">And what about the ransom money?</line>
@@ -732,7 +732,7 @@
 <line speaker="Edgeworth">That may be all you can do, however... ...I still have a case to solve and a job to do. The job of unraveling your insidious lie!</line>
 <line speaker="Lance">...You wound me. Why won't you believe me, even in the face of all this evidence?</line>
 <line speaker="Lance">Make no mistake. There are fingerprints on that murderous gun.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Those fingerprints... Are you sure they belong to Ms. Paups?</line>
 <line speaker="Ernest">There's no mistake about it. Through my connections, I had the best forensics techniques money can buy performed.</line>
 <line speaker="Edgeworth">I find that to be a bit peculiar.</line>
@@ -740,20 +740,20 @@
 <line speaker="Edgeworth"><thought>What should I do? Should I raise an objection?</thought></line>
 <line speaker="Edgeworth"><thought>Perhaps I should wait and see how this pans out first...</thought></line>
 <line speaker="Edgeworth">Frankly, I don't believe that Ms. Paups's prints should be on that gun to begin with. And the reason why Ms. Paups's prints should not be on the gun is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">With this piece of evidence, there is no reason for her to have left prints at all!</line>
 <line speaker="Ernest">Which piece is that?</line>
 <line speaker="Edgeworth">Look here! This is what I speak of!</line>
 <line speaker="Lang">Your logic is so hard to follow you should provide a map!</line>
 <line speaker="Edgeworth">Knnngh! <thought>Even if she did it, there is something specific that makes it impossible to leave prints.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lance">And they proved that it was Lolli who killed Oliver.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You sure are calm for someone who is accusing his own girlfriend of murder.</line>
 <line speaker="Lance">You have it all wrong! Allowing her to pay the price is a form of love. She says that she also wants to pay back her debt to society, but...</line>
 <line speaker="Lance">But Oliver was also after Lolli's life.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And why do you believe that the victim was set on taking Ms. Paups's life?</line>
 <line speaker="Lance">I suppose it's because he wanted to silence her. To keep her quiet, because she knows the truth behind the kidnapping.</line>
 <line speaker="Edgeworth">In that case, why did he not target you as well?</line>
@@ -762,7 +762,7 @@
 <line speaker="Edgeworth">I believe he didn't kill you for an entirely different reason, however, I digress...</line>
 <line speaker="Lance">L-Look, more than why he didn't kill me, I'm worried about what'll happen to Lolli!</line>
 <line speaker="Lance">So Mr. Edgeworth, even you must see that Lolli was only acting in self-defense.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Justified self-defense? I suppose that is a possibility, given the circumstances.</line>
 <line speaker="Lance">Really!? Oh, thank goodness...!</line>
 <line speaker="Edgeworth">However, self-defense was not necessary in this case.</line>
@@ -785,16 +785,16 @@
 <line speaker="Edgeworth">Hmph. That's where you're wrong. I have the evidence.</line>
 <line speaker="Lance">What... How...!?</line>
 <line speaker="Edgeworth">The story that Ms. Paups killed the victim at the stage in the stadium... The whole affair is simply not true, because that was not the real crime scene, but a set-up. This proves that the real murder was not committed at the stadium at all!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence proves that the real crime scene is not, in fact, the stadium.</line>
 <line speaker="Lang">Mr. Prosecutor... I'd have to rate that piece of logic a 0 out of 10.</line>
 <line speaker="Edgeworth"><thought>Z-ZERO!? It's at least a 6.8 out of 10!</thought></line>
 <line speaker="Lance">At this rate, Lolli is going to wind up getting arrested...</line>
 <line speaker="Edgeworth"><thought>I must remain calm and think clearly. If the murder did not happen at the stadium... ...then the scenario where the victim was up on the stage and Ms. Paups was down below... ......There must be something that invalidates it!</thought></line>
 <line speaker="Edgeworth">Let us take another good look at the costume the victim was wearing. Then, I believe you will see why I insist he was not shot at the stadium. This is the part of the costume that proves it!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">If you look in this area, all will become clear.</line>
 <line speaker="Lang">"This area"? Do you really think that sort of vague statement is going to fly!?</line>
 <line speaker="Edgeworth"><thought>Mnngh! He saw right through me! I just know that it's not possible for the victim to have been shot at the stadium!</thought></line>
@@ -804,25 +804,25 @@
 <line speaker="Lance">Argn!</line>
 <line speaker="Lang">Heh, look at you, Mr. Smarty-Pants Prosecutor. Since you seem to know all the answers, why not tell us where the real crime scene is then?</line>
 <line speaker="Edgeworth"><thought>Lance set me up to look like Mr. Deacon back at the hideout. If that's the case, then the murder must have happened prior to that! And the location where Lance and the victim were at just before I was imprisoned was... I've got it! I know the real scene of the murder!</thought> The real location in which Mr. Deacon was killed is here!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The real scene of the murder was here, at the stage inside the stadium!</line>
-<line speaker="Lang"><cutIn>Hold it!</cutIn> YOU'RE the one who just claimed that the stage was not the real crime scene! Now, take some responsibility for that time-wasting outburst!</line>
+<line speaker="Lang"><cutIn type="holdIt">Hold it!</cutIn> YOU'RE the one who just claimed that the stage was not the real crime scene! Now, take some responsibility for that time-wasting outburst!</line>
 <line speaker="Edgeworth">Gnnngk...! <thought>How could I forget the point of my own argument!? And at this critical junction...! The murder could not have taken place at the stadium.</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This hotel in the center is the real scene of the crime!</line>
 <line speaker="Lang">Hey, Mr. Prosecutor! If there was even the echo of a gunshot at the hotel, there'd be wide-spread panic by now! But I haven't received word of even a slight disturbance!</line>
 <line speaker="Edgeworth">Nngh... <thought>Where were the two of them just prior to my imprisonment...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The real scene of the crime was here, right in front of the main gate!</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">If the murder really happened here, you'd think there would be a witness or two... And yet, not a single person has yet to come forward!</line>
 <line speaker="Edgeworth">Gnnngk...! <thought>Where were the two of them just prior to my imprisonment...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The real scene of the murder was here, in the Wild, Wild West area!</line>
 <line speaker="Lang">The place where you and I first met, huh... But didn't you already check there? I know I did, and there wasn't a single sign that someone had been killed there!</line>
 <line speaker="Edgeworth">Yes, well, I suppose there wasn't. <thought>The murder took place before I was imprisoned. And the only place where the victim and Lance were together alone was...</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lang">What the--!? Where is that supposed to be!? Shih-na, find out for me, will you!?</line>
 <line speaker="Shih-na">It doesn't have a name. It just simply is.</line>
 <line speaker="Lang">Well, that was a big waste of time, thanks to your below sub-par reasoning skills!</line>
@@ -830,8 +830,8 @@
 <line speaker="Edgeworth">I think it's not unreasonable to assume the murder took place in the haunted house.</line>
 <line speaker="Lang">The haunted house?</line>
 <line speaker="Edgeworth">Yes, and I have proof that it is highly likely that the victim was killed there! What proves that the real scene of the crime was the haunted house?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence tells us that the haunted house is where the victim was killed!</line>
 <line speaker="Lang">I don't hear anything! Other than the sound of desperation!</line>
 <line speaker="Edgeworth">...Gnnnhhhooooh! The haunted house, the costume. and the gun... They're all connected, and the final piece of this complex chess set is this!</line>
@@ -896,7 +896,7 @@
 <line speaker="Ernest">Permission to search the haunted house is denied. End of discussion. Agent Lang, I want you to arrest that girl. And Miles, you should hurry on home now, my boy, before I really lose my temper.</line>
 <line speaker="Edgeworth"><thought>Arngh! Mr. Amano definitely has the deck stacked in his favor here... What should I do? If I leave it like this, the truth will be lost forever!</thought></line>
 <line speaker="Edgeworth"><thought>If I can't get permission to investigate the crime scene, then the truth will be lost...</thought></line>
-<line speaker="Kay"><cutIn>Hold it!</cutIn> <cutIn>Hold it!</cutIn> Hooooold it!</line>
+<line speaker="Kay"><cutIn type="holdIt">Hold it!</cutIn> <cutIn type="holdIt">Hold it!</cutIn> Hooooold it!</line>
 <line speaker="Edgeworth">Kay?</line>
 <line speaker="Kay">Mr. Edgeworth! What are you doing spacing out!? Have you forgotten!? There's only one thing you should do at a time like this!</line>
 <line speaker="Edgeworth">And what is that?</line>
@@ -928,8 +928,8 @@
 <line speaker="Edgeworth">Yes.</line>
 <line speaker="Kay">But, that's odd. The hallway is a dead end. Where did your assailant come from?</line>
 <line speaker="Edgeworth">There is only one location I can think of. I believe my assailant was lying in wait here.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">.........What are you thinking, Mr. Edgeworth!? That's a terrible hiding spot! He'd have to be a real ninja to get away with hiding there!</line>
 <line speaker="Edgeworth">Th-That was not exactly the nuance I was trying to convey... <thought>Where could my assailant have hidden himself in this haunted house...?</thought></line>
 <line speaker="Edgeworth">That "doll" I saw wasn't really a doll; it was, in fact. a costumed kidnapper.</line>
@@ -984,8 +984,8 @@
 <line speaker="Kay">Ouch! Sounds painful!</line>
 <line speaker="Edgeworth">...Why are you smirking like that when you say it!?</line>
 <line speaker="Kay">It's just your imagination! Now, let's see... I wonder if there's anything in the hallway that could've been used as a weapon? I'm looking for something the culprit could've used to hit you with.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">The object the culprit used... Could it not have been this?</line>
 <line speaker="Kay">...I... don't really think that's it.</line>
 <line speaker="Edgeworth">Hmm...</line>
@@ -1029,8 +1029,8 @@
 <line speaker="Edgeworth">Exactly. This prop sword has a large hand guard attached to the hilt. It would be impossible to hold it with two hands while wearing a costume with such big hands. Therefore, if it couldn't be the left hand or both hands... It must have been the right.</line>
 <line speaker="Kay">I'll change the data to reflect a right-handed swing...</line>
 <line speaker="Edgeworth">Not yet, Kay! There's no sense in changing anything yet. If you change the parameters to the right hand, it'd create a new contradiction. Changing the prop sword to be in the culprit's right hand would conflict with what?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">It would create a conflict with this piece of evidence.</line>
 <line speaker="Kay">Are you sure...? They seem kinda unrelated to me.</line>
 <line speaker="Edgeworth"><thought>...Gnnnrk!</thought></line>
@@ -1057,8 +1057,8 @@
 <line speaker="Edgeworth">I have evidence, of course; proof that the culprit held the sword in his right hand.</line>
 <line speaker="Lang">Sounds interesting. Alright then, show me this "evidence"!</line>
 <line speaker="Edgeworth">This piece proves that the culprit held the weapon in his right hand when he struck:</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">I'd like to point you to this piece of evidence.</line>
 <line speaker="Lang">............</line>
 <line speaker="Shih-na">............</line>
@@ -1202,8 +1202,8 @@
 <line speaker="Edgeworth">Precisely. I was deceived. The hallway was almost pitch black... ...and there was a beam in the way that obstructed my view of the other hallway.</line>
 <line speaker="Kay">Wait, but why build this place like that? It sounds pretty pointless to me...</line>
 <line speaker="Edgeworth">Kay, this house is just another attraction at an amusement park. They created a mirror-wall for a very specific purpose, one I can point out to you. This was the reason they built a mirror-wall:</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">......I don't get it. What's the connection between that and the mirror-wall?</line>
 <line speaker="Edgeworth">It's up to you to deduce if there is a connection or not.</line>
 <line speaker="Kay">.................. Wait, that's your job!</line>
@@ -1232,8 +1232,8 @@
 <line speaker="Edgeworth">...Then, when the mirror is closed, it would blend in with the rest of the walls. This is the mirror trick that this haunted house employs. And this... also proves the existence of a hiding place for the culprit.</line>
 <line speaker="Kay">Huh? How so?</line>
 <line speaker="Edgeworth">Think about it, Kay. There was a place that was outside of my field of vision! The culprit kept out of sight by hiding here!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">..................Umm... I'm not sure how he "kept out of sight" by standing there.</line>
 <line speaker="Edgeworth">You mean to say that even a Great Thief like yourself couldn't hide here?</line>
 <line speaker="Kay">Even the Yatagarasu has walls she can't overcome, you know!</line>
@@ -1266,8 +1266,8 @@
 <line speaker="Edgeworth">No, not yet. An even larger contradiction has now reared its head.</line>
 <line speaker="Kay">Huh?</line>
 <line speaker="Edgeworth">Perhaps you did not notice... ...but this re-creation contains a very troubling inconsistency. The inconsistency between what I saw and the re-creation lies...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Here!</line>
 <line speaker="Kay">Huh!? Are you sure that contradicts what you saw?</line>
 <line speaker="Edgeworth">Ah, well... that's something even I must look into a bit more.</line>
@@ -1280,8 +1280,8 @@
 <line speaker="Edgeworth">Exactly. The Blue Badger that I saw in reality is not here. This is the final point on this long chain of logic; the last remaining contradiction.</line>
 <line speaker="Kay">So, let me get this straight. When you came out of the dining room... ...you saw a Badger, right?</line>
 <line speaker="Edgeworth">And that is precisely where the final contradiction lies. Something that shouldn't exist was there before me. Who, or what do you suppose it was? I believe this is the real identity of our mystery Badger!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is what I really saw at the scene of the crime!</line>
 <line speaker="Kay">You mistook that for a Badger? You disappoint me! We've worked so hard to get here; don't get all weird on me now!</line>
 <line speaker="Edgeworth">...Gnnrk! The last contradiction...</line>
@@ -1293,7 +1293,7 @@
 <line speaker="Edgeworth">Maybe it was due to their fighting, or perhaps it was the life-shattering bullet... ...but no matter what the cause was, the hallway mirror-wall was broken.</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Ha! You were in the house at the time, right? Are you telling me that you missed the sound of gunshot!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There were a variety of sound effects playing at the time... All for theatrics, I assume. The gunshot must have blended right in.</line>
 <line speaker="Lang">Aiya!</line>
 <line speaker="Edgeworth">Now then, I'd like you to recall something for me. Who was it that was with the victim at the haunted house?</line>
@@ -1411,52 +1411,52 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right...</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, about this piece of evidence...</line>
 <line speaker="Lang">Not so fast!!</line>
 <line speaker="Lang">Lang Zi says: "Confidence is like a soul, and words without confidence are but empty shells." You shouldn't waste your breath on words you have no confidence in, Mr. Prosecutor. Although, it's just as bad to say something in full confidence and be wrong!</line>
 <line speaker="Edgeworth">Arghn!</line>
 <line speaker="Kay">Are you going to let him lecture you about your self-confidence like that!?</line>
 <line speaker="Edgeworth"><thought>I don't need to be overflowing with self-confidence; I just need to think rationally. After all, I only need to be confident in the facts!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Agent Lang, if you could take a look at this piece of evidence... ...you'd see that there is a very big flaw in your logic.</line>
 <line speaker="Lang">Flaw? Are you sure it's not your eyes that are flawed? Talk to me again when you can see straight!</line>
 <line speaker="Edgeworth"><thought>Gnnrk! Maybe this wasn't the piece I was looking for after all!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement just now stands in contradiction to this piece of evidence!</line>
 <line speaker="Lang">That thing has nothing to do with what I was saying. Now, put it away! And your logic is so badly in need of repair that you might as well throw it out, too! This is the real deal here. Your courtroom mannerisms are worthless at a crime scene!</line>
 <line speaker="Edgeworth">Gnnrk...! You dare to insult the courts!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Paups, this evidence stands in clear contradiction to your statement just now.</line>
 <line speaker="Paups">.........Huh? Where?</line>
 <line speaker="Lang">Hmph. It's not polite to confuse poor, helpless girls, Mr. Prosecutor. Until you have something significant to add, stuff that jabot of yours in your mouth!</line>
 <line speaker="Edgeworth">Nngh! It's a cravat, and It's a fashion statement, not a gag! <thought>I need to calmly listen, and then present my evidence...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Take a good look at this!</line>
 <line speaker="Paups">What about it...?</line>
 <line speaker="Gumshoe">Um, Mr. Edgeworth, sir... I don't think you pulled out the right piece of evidence...</line>
 <line speaker="Lang">Hahaha! Wonderful subordinate there, so willing to point out his boss's mistakes!</line>
 <line speaker="Edgeworth">Gnnnrk! Detective Gumshoe, you will refrain from excessive talking!</line>
 <line speaker="Gumshoe">I-I'll try, sir...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Even after looking at this, can you still claim what you just said to be true?</line>
 <line speaker="Paups">A-Actually... I can.</line>
 <line speaker="Lang">Ha ha ha! She showed you!</line>
 <line speaker="Edgeworth">Gnnrghk!</line>
 <line speaker="Kay">He's laughing pretty hard at you, Mr. Edgeworth!</line>
 <line speaker="Edgeworth">Yes, I know... But I refuse to allow him to ruffle my feathers. <thought>I'm going to remain calm and collected, and find my contradiction!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You're lying, Lance! Even you must have realized that by now, Agent Lang.</line>
 <line speaker="Lang">Hey, now... Mr. Prosecutor. I'm not your pal, or even your ally! It's your line of logic, so explain it yourself!</line>
 <line speaker="Edgeworth">S-Sorry...</line>
 <line speaker="Lance">Look, just hurry up and get to the point. It's not like I've got all the time in the world.</line>
 <line speaker="Edgeworth"><thought>So you say, but you're not exactly at liberty to leave, either.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Lance... I think you'll find that this evidence speaks to the contrary.</line>
 <line speaker="Paups">Are you sure you want to phrase it that way? There are no take-backs when you make a guessing mistake, you know.</line>
 <line speaker="Lang">Ha ha ha! Guessing mistake! Yup! That's our Mr. Prosecutor alright!</line>
 <line speaker="Edgeworth">Gnnngk... <thought>I certainly didn't mean for it to come out sounding like a guess...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement just now contradicts this piece for evidence.</line>
 <line speaker="Lance">How... How... How dare you call me a liar!? And in such a loud voice with evidence that doesn't make any sense!</line>
 <line speaker="Lang">You have no idea how to put two ideas together to make a logical argument, do you!?</line>

@@ -25,7 +25,7 @@
 <line speaker="Edgeworth">YOUR NAME, PLEASE!</line>
 <line speaker="Phoenix"><thought>Seems Edgeworth has a bit of trouble getting his witnesses to say their names...</thought></line>
 <line speaker="Oldbag">Wendy Oldbag, dearie. So just call me "grandma." It's practically my name! So even when I was young I was an Oldbag, but not really that was just my name dearie. Still how the other children would make fun of me and just because of my name can you believe it? But there was this boy, the captain of the chess club in junior high, and when he called me an old bag well I just cried and cried because I had a crush on him you see--</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">O-objection! I... object to the witness's talkativeness.</line>
 <line speaker="Judge">Objection sustained! The witness will refrain from rambling on the stand.</line>
 <line speaker="Oldbag">I was just getting to the good part, dearie!</line>
@@ -40,19 +40,19 @@
 <line speaker="Judge">You saw the defendant, then? Hmm... Very well. Let's begin the cross-examination. Mr. Wright?</line>
 <line speaker="Phoenix">Yes, Your Honor.</line>
 <line speaker="Oldbag">On the day of the murder, I arrived at the guard station at 1:00 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So up until that time, anyone who wanted to could go into the studio?</line>
 <line speaker="Oldbag">Well, there wasn't a security guard at the gate, no. But the main gate was locked, dearie. You'd need an employee cardkey to get in.</line>
 <line speaker="Phoenix"><thought>Right... the cardkey that I have. So, what she's saying is no one who wasn't supposed to be there could get in.</thought></line>
 <line speaker="Edgeworth">Was there anyone at the studios when you arrived at the guard station?</line>
 <line speaker="Oldbag">Poor old Hammer and the rest had been doing a run-through there since the morning.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A "run-through"...?</line>
 <line speaker="Oldbag">They were working out a scene between the Steel Samurai and the Evil Magistrate. They got the basics figured out by noon, and were to use the afternoon for practice. Rehearsal was supposed to start at 5:00. That's why poor old Hammer went to Studio One in the afternoon.</line>
 <line speaker="Phoenix"><thought>So Powers was in his dressing room sleeping... when he was supposed to be practicing! Talk about a laid-back hero...</thought></line>
 <line speaker="Edgeworth">If there was a run-through in the morning, why did you only get there after noon?</line>
 <line speaker="Oldbag">I, well, I had some errands to run that morning.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What kind of "errands"?</line>
 <line speaker="Oldbag">Oh, well, you know.</line>
 <line speaker="Phoenix">Answer the question!</line>
@@ -65,12 +65,12 @@
 <line speaker="Phoenix">You could quit being a spirit medium and take up guard duty.</line>
 <line speaker="Maya">Not a bad idea...</line>
 <line speaker="Oldbag">Anyway, it was 1:00 when I got to the guard station.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you see the victim then?</line>
 <line speaker="Oldbag">Did I see poor old Hammer? Nope. He'd already gone to the studio before I got back to the guard station.</line>
 <line speaker="Edgeworth">Tell us what happened next.</line>
 <line speaker="Oldbag">I was at the main gate from then until 5:00!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you were watching there the WHOLE time? No breaks? Not even a second?</line>
 <line speaker="Oldbag">O-of course! I am a professional, you know! Our are you criticizing how I do my job!? Whippersnapper!</line>
 <line speaker="Phoenix">No, it's just, after seeing you eating those donuts in the guard station yesterday...</line>
@@ -79,28 +79,28 @@
 <line speaker="Phoenix">Why don't you raise an objection?</line>
 <line speaker="Judge">So, the witness was on duty through the afternoon, the whole time. Very well. What did you see?</line>
 <line speaker="Oldbag">Now, the murder happened at 2:30 PM, right?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How did you know that?</line>
 <line speaker="Oldbag">Oh hoh hoh. I have my ways! That over-dressed young detective told me. I fed him some donuts and he talked and talked... If you ask me, that detective isn't cut out for his job.</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Phoenix"><thought>Poor Detective Gumshoe, getting chewed out by a security guard...</thought></line>
 <line speaker="Oldbag">Interesting to me, because a certain man walked right by me at 2:00 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">2:00? You're sure?</line>
 <line speaker="Oldbag">Sure as spit!</line>
 <line speaker="Judge">Well, who was the man!?</line>
 <line speaker="Oldbag">Really, you should try not to get so excited at your age. You might strain something.</line>
 <line speaker="Judge">...</line>
 <line speaker="Oldbag">Now, now, don't get your skivvies all in a bunch. I'll tell you who it was!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Oldbag">It was Powers! That man right there, and he was heading toward the studio!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you saw Mr. Powers?</line>
 <line speaker="Oldbag">That's what I said! Got wax in your ears, sonny?</line>
 <line speaker="Maya">Nick, this is your chance!</line>
 <line speaker="Phoenix">Yeah, time to pull out the secret weapon...</line>
 <line speaker="Oldbag">I'll say it again! It was him!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Nick... Doesn't she seem like she's enjoying this a little too much?</line>
 <line speaker="Phoenix">Windbags love gossiping about other people's misfortunes.</line>
 <line speaker="Maya">Ugh. Can't she get her kicks somewhere else?</line>
@@ -127,7 +127,7 @@
 <line speaker="Judge">Hmm. So he had sprained his ankle...? Very well. Mr. Wright, you may cross-examine the witness.</line>
 <line speaker="Phoenix"><thought>She's got to be hiding something... I'll press her until she squeals.</thought></line>
 <line speaker="Oldbag">I never say anything I don't mean, mind you!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Umm...</line>
 <line speaker="Oldbag">Whippersnapper!</line>
 <line speaker="Phoenix"><thought>Hey, I haven't said anything yet!</thought></line>
@@ -135,7 +135,7 @@
 <line speaker="Edgeworth">Mr. Wright! Please, for all our sakes, try not to upset the witness!</line>
 <line speaker="Phoenix"><thought>I think Edgeworth has met his match...</thought></line>
 <line speaker="Oldbag">That morning, during the run-through of the action scene...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Who was present at the run-through?</line>
 <line speaker="Oldbag">Well, let's see... There was Powers, he's the Steel Samurai... Then poor old Hammer, the Evil Magistrate. And... me.</line>
 <line speaker="Judge">And what exactly were you doing?</line>
@@ -144,7 +144,7 @@
 <line speaker="Oldbag">Oh, she was off moving backdrops around and such.</line>
 <line speaker="Phoenix"><thought>So she didn't see the run-through, then...</thought></line>
 <line speaker="Oldbag">I saw Powers trip and fall!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Trip and fall"...?</line>
 <line speaker="Oldbag">Yes! And to think, he's supposed to be the Steel Samurai! What a laugh! So Powers sprained his ankle. I helped make it better for him, of course.</line>
 <line speaker="Judge">You... helped make it better?</line>
@@ -155,28 +155,28 @@
 <line speaker="Phoenix"><thought>Hmm...</thought></line>
 <line speaker="Edgeworth">You may continue your testimony.</line>
 <line speaker="Oldbag">He broke one of the props, it was a big mess.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">He broke a prop?</line>
 <line speaker="Oldbag">Sure did! His own Samurai Spear.</line>
 <line speaker="Phoenix"><thought>His Samurai Spear... the murder weapon!?</thought></line>
 <line speaker="Oldbag">Luckily I was there with my duct tape to fix it.</line>
 <line speaker="Phoenix"><thought>This strikes me as a significant detail... I'd better write this down in the Court Record.</thought></line>
 <line speaker="Oldbag">Apparently, he sprained his ankle pretty bad.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was Mr. Power's [sic] ankle badly sprained?</line>
 <line speaker="Oldbag">Not so bad that he couldn't walk around. He went to his dressing room to rest up after lunch.</line>
 <line speaker="Phoenix"><thought>Thus the nap...</thought></line>
 <line speaker="Oldbag">Anyway, I saw him dragging his foot when he walked.</line>
 <line speaker="Phoenix"><thought>Dragging his foot... okay.</thought></line>
 <line speaker="Oldbag">You can see he's dragging his leg! See? Clear as day!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely sure? <thought>Let's take a look at that picture again... Hmm... so he was walking strangely because he was injured...</thought></line>
 <line speaker="Judge">Hmm. It does look like he was dragging his foot.</line>
 <line speaker="Oldbag">See! And you didn't trust me! Whippersnapper!</line>
 <line speaker="Oldbag">That's how I knew it was Powers. Happy?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Still, you can't look at this and say it's Mr. Powers!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Yes, but only Mr. Powers would have been dragging his leg!</line>
 <line speaker="Judge">He has a point. It does seem quite likely that it was Powers.</line>
 <line speaker="Phoenix"><thought>There's got to be more to this. I'd better keep pressing her.</thought></line>
@@ -203,30 +203,30 @@
 <line speaker="Oldbag">The time of poor Hammer's death was 2:30 PM, true?</line>
 <line speaker="Judge">Hmm... So, if no one else went to the studio... Then it would have to be this "Steel Samurai" who did it. Mr. Wright, you may cross-examine the witness.</line>
 <line speaker="Oldbag">The time of poor Hammer's death was 2:30 PM, true?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How do you know that?</line>
 <line speaker="Oldbag">Eh? Didn't I just explain? I gave donuts to the young detective. And the, after some rubbish about it being a "secret, pal" he told me everything.</line>
 <line speaker="Phoenix"><thought>I see Detective Gumshoe shares his fellow officer's fondness for donuts.</thought></line>
 <line speaker="Oldbag">The only person I saw go to the studio before then was Will Powers!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely sure!?</line>
 <line speaker="Oldbag">Oh, quite, quite, sonny. Nobody suspicious lookin' passed by at all.</line>
 <line speaker="Phoenix"><thought>Nobody suspicious lookin'... Right.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Oldbag">No one else went there!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What about before you got to the guard station?</line>
 <line speaker="Oldbag">You mean before 1:00? Why, everyone was in the Employee Area before then. And I locked the main gate so no one could get in. Not to mention...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Oldbag">If they had, I would have seen them!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The witness has answered the question! Anyone going into the studio had to pass by the witness!</line>
 <line speaker="Oldbag">That's right, sonny! You let 'em have it, Edgey-boy!</line>
 <line speaker="Phoenix"><thought>E-Edgey-boy...?</thought></line>
 <line speaker="Edgeworth">...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Old windbag sure has balls! Or... well, you know what I mean.</line>
 <line speaker="Phoenix">Old windbags have a way of skipping over important details, after all... Or, for that matter, entirely forgetting them.</line>
 <line speaker="Maya">How convenient.</line>
@@ -262,26 +262,26 @@
 <line speaker="Judge">Right... anyway, Mr. Wright, please begin the cross-examination.</line>
 <line speaker="Maya">Well, I'd say this was a turn for the unexpected, but I kind of expected this...</line>
 <line speaker="Oldbag">Every day, after I finish my guard duties, I have one other important job to do.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Another "job"?</line>
 <line speaker="Oldbag">T-that's right. I check all the people that passed by the main gate that day. I look closely at every one of the photos that security camera takes.</line>
 <line speaker="Edgeworth">Do you backup all of the security camera data?</line>
 <line speaker="Oldbag">Well, they keep telling me too, yes. But those computers are just so frustrating.</line>
 <line speaker="Oldbag">I go through the photos recorded on the security computer and check them.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How many photos are there, usually?</line>
 <line speaker="Oldbag">On a day when we're open to the public, we get more than 500 people. But on filming days or rehearsal days... well, we don't have much money. We never get more than 50, and that's a big day.</line>
 <line speaker="Edgeworth">Do you backup all of the security camera data?</line>
 <line speaker="Oldbag">Well, they keep telling me too, yes. But those computers are just so frustrating.</line>
 <line speaker="Oldbag">I throw out any photos that aren't suspicious lookin', you see.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How exactly do you determine what isn't "suspicious lookin'"?</line>
 <line speaker="Oldbag">Oh, you can tell by looking at their faces. For the most part.</line>
 <line speaker="Phoenix">F-for the most part? This is a murder trial, Ms. Oldbag!</line>
 <line speaker="Oldbag">Well, I didn't touch that suspicious lookin' Will Powers's photo, did I?</line>
 <line speaker="Phoenix"><thought>I think she's missing the point.</thought></line>
 <line speaker="Oldbag">Come to think of it, now I remember throwing out one photo that day!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Maya">"Come to think of it"? Couldn't she think of that a little earlier!?</line>
 <line speaker="Phoenix">Classic old windbag maneuver, Maya.</line>
 <line speaker="Maya">Hmm... Might be a useful tactic to remember for use in my future career as a windbag.</line>
@@ -290,7 +290,7 @@
 <line speaker="Oldbag">Humph. A fanboy.</line>
 <line speaker="Phoenix">F-fanboy?</line>
 <line speaker="Oldbag">Steel Samurai fanboys. Real freaks, if you ask me. They get information about the rehearsals from gosh-knows-where. They're always hanging about. One was there that day.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">W-wait a second! Didn't you just say no one else could get in!? "I locked the main gate so no one could get in"... Those were your words!</line>
 <line speaker="Oldbag">Well! If you must know, there's a drain that goes into the Employee Area. The grate has been loose for a while. It leads outside, and well, that's where they come in.</line>
 <line speaker="Phoenix">They come in through the drain?</line>
@@ -338,7 +338,7 @@
 <line speaker="Phoenix">It was the assistant! The Steel Samurai costume was in his dressing room. She stole it, and in doing so she became the Steel Samurai!</line>
 <line speaker="Judge">So you're saying the Steel Samurai in the picture is really the assistant?</line>
 <line speaker="Phoenix">That's correct, Your Honor!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">If you're serious, you've got guts, Mr. Wright. Remember the photo? Wasn't the Steel Samurai a little lame!? He was dragging his foot!</line>
 <line speaker="Phoenix">Oh. <thought>Uh oh. Bad feeling time.</thought></line>
 <line speaker="Edgeworth">Remember the testimony concerning Powers's injury!!!</line>
@@ -394,11 +394,11 @@
 <line speaker="Phoenix">I have proof.</line>
 <line speaker="Oldbag">P-proof!?</line>
 <line speaker="Judge">Indeed? Then let's see this proof, Mr. Wright. You have proof that shows the boy could not have committed this murder?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">The scene of the murder, as we all know, was Studio One. However, you need a cardkey to enter Studio One! How could a boy with no formal relation to the studios have a cardkey!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Your Honor! The murder weapon was the Samurai Spear. That very spear is shown here in this photo. How could the boy have taken the spear? It's impossible!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is my proof!</line>
 <line speaker="Judge">... I can't see how that has anything to do with this matter, Mr. Wright? Mr. Wright. There aren't that many pieces of evidence in the Court Record. Please try not to pick the wrong ones!</line>
 <line speaker="Phoenix">S-sorry, Your Honor.</line>
@@ -424,13 +424,13 @@
 <line speaker="Phoenix"><thought>No, this isn't a bad dream, Your Honor. Witness the power of the Oldbag...</thought></line>
 <line speaker="Judge">Mr. Wright... Your cross-examination.</line>
 <line speaker="Oldbag">Global Studios wanted me to keep quiet about something.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, you were told not to talk?</line>
 <line speaker="Oldbag">That's right! By the studio and TV bigwigs, no less!</line>
 <line speaker="Edgeworth">Why didn't I hear about this!?</line>
 <line speaker="Oldbag">Don't be too hard on yourself, sonny. We were all in on it.</line>
 <line speaker="Oldbag">There were... some other people at the studios on the day of the murder.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">W-who were these people!?</line>
 <line speaker="Oldbag">Well, the director and the producer, for starters...</line>
 <line speaker="Phoenix">The... director?</line>
@@ -446,19 +446,19 @@
 <line speaker="Judge">Well, Mr. Wright... Would you like to continue the cross-examination...?</line>
 <line speaker="Phoenix"><thought>I think I've already asked all my questions, but...</thought></line>
 <line speaker="Oldbag">They said they had "nothing to do with it," see?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Ms. Oldbag! This is a trial for murder!</line>
 <line speaker="Oldbag">I know that, silly! Still, they were pretty convincing about having nothing to do with it. And... they gave me a little bonus on the side.</line>
 <line speaker="Phoenix"><thought>So, you got your "bonus" and you still talked... Hmm. I think I've asked all the questions I have to ask...</thought></line>
 <line speaker="Phoenix"><thought>I guess there's no harm in getting as much info as I can!</thought></line>
 <line speaker="Oldbag">So they told me to just pretend they "hadn't been at the studios that day."</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So they were actually in the studio!?</line>
 <line speaker="Oldbag">Yes, the whole day. When they heard about the murder, they beat it before the cops came.</line>
 <line speaker="Edgeworth">*grumble* <thought>I'll kill this woman, I swear it...</thought></line>
 <line speaker="Phoenix"><thought>I feel sorry for Edgeworth, almost. She really left him hanging on this one.</thought></line>
 <line speaker="Oldbag">But if you're going to go accusing me, I'm not letting them get away scot free!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"Them"...? W-who were these people!?</line>
 <line speaker="Oldbag">Well, the director and the producer, for starters...</line>
 <line speaker="Phoenix">The... director?</line>
@@ -490,25 +490,25 @@
 <line speaker="Phoenix">Well, she wasn't winning any points in there, with or without my accusation. Okay, let's get down to the studios.</line>
 <line speaker="Maya">Right! We'll be back to visit you soon...</line>
 <line speaker="Will">Th-thanks. Thanks, guys. *sniff*</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow?</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track?</thought></line>

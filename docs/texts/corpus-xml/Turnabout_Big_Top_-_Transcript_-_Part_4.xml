@@ -55,21 +55,21 @@
 <line speaker="Acro">OK...</line>
 <line speaker="Acro">It was just after 10:00 PM, and I was resting in my bed.</line>
 <line speaker="Judge">Hmm... This witness' testimony matches up exactly with that of the clown.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Before we get that far, I'd like to cross-examine the witness.</line>
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">Mr. Wright. Do you have a problem with the witness' testimony?</line>
 <line speaker="Phoenix">In the words of Ms. von Karma, may I quote yesterday's proceedings... "There's no way that actually happened!"</line>
 <line speaker="Judge">Very well... You may proceed with your cross-examination.</line>
 <line speaker="Acro">It was just after 10:00 PM, and I was resting in my bed.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You said that you were resting in bed. One would thus assume that you turned the lights off in your room, correct?</line>
 <line speaker="Acro">That's correct. But there are safety lights around the outside of the lodging house. It's so bright, sometimes it can make it hard to sleep...</line>
 <line speaker="Judge">If that's the case, wouldn't it be a good idea to close some curtains?</line>
 <line speaker="Acro">... I never really thought of that. I guess that means I'm off to buy some curtains.</line>
 <line speaker="Judge">Hah hah... Sometimes I do make myself useful in these chambers. OWWW!!</line>
 <line speaker="Acro">Around that time, I heard a large "THUMP" noise from outside the window.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Your room is on the third floor, right?</line>
 <line speaker="Acro">Yes.</line>
 <line speaker="Phoenix">And you said that you were resting in bed.</line>
@@ -81,14 +81,14 @@
 <line speaker="Phoenix">N-N-Nothing, Your Honor. <thought>Until I can find a clear contradiction... I should tread lightly.</thought></line>
 <line speaker="Phoenix">There is a huge contradiction with the testimony that was just given!</line>
 <line speaker="Judge">Hmm... She's right. Let's see some evidence. Do you have any evidence to support your claim of a contradiction?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">T-This... What in the world is this? OWWW!!</line>
 <line speaker="Phoenix">W-What don't I get?</line>
 <line speaker="Judge">You were... B-Bluffing? I will not forgive any more mockeries made of this court!</line>
 <line speaker="Phoenix"><thought>W-Whoops!</thought></line>
 <line speaker="Acro">Certainly...</line>
 <line speaker="Acro">Then a few moments later, I saw someone... Flying... Right by my window.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure it was a human being? It could've been a mannequin, or perhaps a large action figure...</line>
 <line speaker="Acro">Hmm... Well, setting aside the possibility of a mannequin, an action figure is plausible...</line>
 <line speaker="Acro">I believe it was a human.</line>
@@ -98,14 +98,14 @@
 <line speaker="Phoenix">N-N-Nothing, Your Honor. <thought>Until I can find a clear contradiction... I should tread lightly.</thought></line>
 <line speaker="Phoenix">There is a huge contradiction with the testimony that was just given!</line>
 <line speaker="Judge">Hmm... She's right. Let's see some evidence. Do you have any evidence to support your claim of a contradiction?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">T-This... What in the world is this? OWWW!!</line>
 <line speaker="Phoenix">W-What don't I get?</line>
 <line speaker="Judge">You were... B-Bluffing? I will not forgive any more mockeries made of this court!</line>
 <line speaker="Phoenix"><thought>W-Whoops!</thought></line>
 <line speaker="Acro">Certainly...</line>
 <line speaker="Acro">It was Max Galactica... I only saw him from behind, but that's who it looked like.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The light in your room was turned off then, right?</line>
 <line speaker="Acro">That's true. I was going to bed after all...</line>
 <line speaker="Phoenix">So with the lights off, you were still able to clearly see a human fly by your window?</line>
@@ -118,17 +118,17 @@
 <line speaker="Phoenix">N-N-Nothing, Your Honor. <thought>Until I can find a clear contradiction... I should tread lightly.</thought></line>
 <line speaker="Phoenix">There is a huge contradiction with the testimony that was just given!</line>
 <line speaker="Judge">Hmm... She's right. Let's see some evidence. Do you have any evidence to support your claim of a contradiction?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">T-This... What in the world is this? OWWW!!</line>
 <line speaker="Phoenix">W-What don't I get?</line>
 <line speaker="Judge">You were... B-Bluffing? I will not forgive any more mockeries made of this court!</line>
 <line speaker="Phoenix"><thought>W-Whoops!</thought></line>
 <line speaker="Acro">Certainly...</line>
 <line speaker="Acro">To be honest, when I saw that, I thought I was dreaming...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">When did you start thinking that what you saw "wasn't a dream"?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I believe that the prosecution has done a bit of maintenance on the witness' memory!</line>
 <line speaker="Judge">Hmm... Just to make sure, let's ask the witness. OWWW!!!</line>
 <line speaker="Judge">S-Sustained...</line>
@@ -181,14 +181,14 @@
 <line speaker="Judge">Mr. Wright... It seems as if you won't be stopping at Acro, but will be making other accusations. If Acro did not have an accomplice, things are not looking good for you!</line>
 <line speaker="Phoenix">I understand, Your Honor. *gulp*</line>
 <line speaker="Judge">Very well... Let's continue. Who, perchance, would happen to be Acro's accomplice?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">You... You don't say!</line>
 <line speaker="Phoenix"><thought>Uh oh... This is suddenly looking very very bad...</thought></line>
 <line speaker="Phoenix">W-W-W-WHAT!?</line>
 <line speaker="Phoenix">Hear what?</line>
 <line speaker="Phoenix">Foundation...</line>
 <line speaker="Judge">Yes, Mr. Wright... Do you have proof that this person you've accused was indeed an accomplice?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... Mr. Wright...</line>
 <line speaker="Phoenix">Y-Yes, Your Honor?</line>
 <line speaker="Judge">This piece of evidence is lacking in persuasive power.</line>
@@ -205,8 +205,8 @@
 <line speaker="Phoenix">I know what I can't do. I can't stop now... If I stop attacking, I'm doomed!</line>
 <line speaker="Maya">Alright! Then let's do it!!</line>
 <line speaker="Judge">Hmm... Mr. Wright, I'd like you to clear something up for me... When the crime was committed, exactly where was Mr. Dingling?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">There is no way he was anywhere but exactly right here!</line>
 <line speaker="Judge">In the plaza? He was at the scene of the crime itself? You're right though... The murderer would have had to have met the victim...</line>
 <line speaker="Phoenix">OWWW!!</line>
@@ -214,7 +214,7 @@
 <line speaker="Phoenix">Yeah... Um... You're right. You think I could get another chance?</line>
 <line speaker="Judge">Wait just one minute. Don't forget about my proverbial whip as well.</line>
 <line speaker="Phoenix"><thought>Arrrrgh!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">He was right here!</line>
 <line speaker="Judge">What!? That location is completely unrelated to the crime... But I suppose if you said he was in his room, he wouldn't have been able to commit...</line>
 <line speaker="Phoenix">OWWW!!</line>
@@ -253,8 +253,8 @@
 <line speaker="Judge">So what will it be, Mr. Wright!?</line>
 <line speaker="Phoenix">I'm going to present some evidence!</line>
 <line speaker="Judge">So what did Mr. Dingling use to commit the crime of murder against Russell Berry?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Acro">...</line>
 <line speaker="Maya">I think you should try again, especially before someone gets the chance to say something.</line>
@@ -271,7 +271,7 @@
 <line speaker="Phoenix">See! This is how Acro was able to kill the Ringmaster! With the force of gravity and Maximillion Galactica's ample bust!</line>
 <line speaker="Judge">Order! Order! So you're saying the bust fell onto the Ringmaster!?</line>
 <line speaker="Phoenix">A rather simple crime... Even if you were stuck in a wheelchair, it would be incredibly easy to commit...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Well, Acro is an acrobat! He should have more than enough upper body strength to carry something like the bust!</line>
 <line speaker="Judge">Mr. Dingling, how do you respond to these charges!?</line>
 <line speaker="Acro">Well...</line>
@@ -280,7 +280,7 @@
 <line speaker="Phoenix">Wh-What!?</line>
 <line speaker="Judge">Hmm... Testimony you say...</line>
 <line speaker="Phoenix"><thought>Von Karma... She's just using this "testimony" as a rouse to stall for time!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">There is absolutely no need for such testimony!</line>
 <line speaker="Judge">The defense's objection is overruled...</line>
 <line speaker="Phoenix"><thought>Why can't he see things my way once in a while!</thought></line>
@@ -293,14 +293,14 @@
 <line speaker="Phoenix">... I'd still like to proceed with my cross-examination.</line>
 <line speaker="Phoenix"><thought>Grr... I can't let her get to me... I've got to focus...</thought></line>
 <line speaker="Acro">I suppose I could have lifted something the size of that bust.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Have you ever lifted up the bust before...?</line>
 <line speaker="Acro">No, I've never actually lifted it up with my own two hands... But I should get to it, don't you think? I can't let Money outdo me on this.</line>
 <line speaker="Phoenix">Money...? <thought>That crazy monkey has lifted Max's bust before?</thought></line>
 <line speaker="Acro">...</line>
 <line speaker="Judge">Hmm... Please continue with your testimony, Mr. Dingling.</line>
 <line speaker="Acro">I have a strong upper body from working as an acrobat, and only my legs were injured.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So what have you been doing to keep in shape?</line>
 <line speaker="Acro">Well, honestly, I've given up on training. I don't have any plans to return to the trapeze or the tightrope.</line>
 <line speaker="Phoenix">You don't say...</line>
@@ -309,16 +309,16 @@
 <line speaker="Phoenix"><thought>Whoa whoa whoa! How did the discussion turn to me all of a sudden!?</thought></line>
 <line speaker="Acro">I suppose you could say that I'm stronger than the average bear...</line>
 <line speaker="Acro">However, lifting the bust and looking out of the window would've been impossible.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And why is that?</line>
 <line speaker="Acro">Because if I were to do that, I'd end up falling out the window myself. I still haven't gotten much feeling back in my legs yet.</line>
 <line speaker="Judge">Hmm... So you couldn't have thrown that bust out of the window...</line>
 <line speaker="Acro">There's no way I could have exerted that kind of force on my lower body.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How long do you think your recovery will take?</line>
 <line speaker="Acro">Hmm... You have to remember that the nerves were severed. I'm currently undergoing some extremely intensive rehabilitation, but it's still going to take a while before I'm back to 100%.</line>
 <line speaker="Acro">That makes it impossible for me to have known the location of the Ringmaster's head.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Why do you say it would be impossible?</line>
 <line speaker="Acro">Allow me to explain. You accept that if I was carrying the bust, I couldn't see out below the window? Thus, there is no way that I would know the location of the Ringmaster's head.</line>
 <line speaker="Phoenix">Well... I suppose you've got a point.</line>
@@ -327,13 +327,13 @@
 <line speaker="Maya">What if you turned things around? Maybe if you think of it sorta like this... "If he knew the location of the Ringmaster's head, then he could drop the bust."</line>
 <line speaker="Phoenix">That does make sense... <thought>If only I could prove somehow... That Acro knew the location of the Ringmaster's head without looking down...</thought></line>
 <line speaker="Acro">... I think I've already explained things sufficiently.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Acro">Thus it would be unrealistic to drop the bust on him. Don't you think?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">If all you had to do was drop it, then it wouldn't have been a problem at all!</line>
 <line speaker="Acro">If all I had to do was drop it... You're right. I could've done that; however, there is no way that I could score a direct hit on the Ringmaster's head.</line>
 <line speaker="Judge">Hmm... So that kind of makes your theory a bit pointless, doesn't it, Mr. Wright?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>Acro is strong enough to lift up the bust...</thought></line>
 <line speaker="Maya">The main problem is how he could have aimed for the Ringmaster's head.</line>
 <line speaker="Phoenix">Hmm... I wonder if he used some kind of tool to aim for the Ringmaster...?</line>
@@ -399,8 +399,8 @@
 <line speaker="Phoenix">Arrrggghhh!</line>
 <line speaker="Phoenix"><thought>Yep... We definitely have a problem here... But this is no place to get perplexed! I've got to get my wits about me and prove how things happened once and for all!</thought></line>
 <line speaker="Judge">Alright, Mr. Wright. Let's hear your explanation. How did the witness get the bust from the cafeteria back to his room?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here is the evidence that proves how he carried it!</line>
 <line speaker="Judge">What do you think about this evidence, Ms. von Karma?</line>
 <line speaker="Acro">What do you think about this evidence, Mr. Wright?</line>
@@ -416,7 +416,7 @@
 <line speaker="Judge">"Home"...?</line>
 <line speaker="Phoenix">Money lives in Acro's room.</line>
 <line speaker="Judge">ACRO'S ROOM!?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Maybe you should put the whip down sometimes and read the Court Record!</line>
 <line speaker="Judge">My, those are some very nice cards he's holding.</line>
 <line speaker="Phoenix">Yes, and they are made of platinum... which is very shiny!</line>
@@ -436,8 +436,8 @@
 <line speaker="Judge">T-That's true! How do you respond to that, Mr. Wright!</line>
 <line speaker="Maya">Nick! Don't let her beat you now!</line>
 <line speaker="Phoenix"><thought>I won't! This is my chance to turn this trial around!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">What is this supposed to mean!?</line>
 <line speaker="Acro">Do you mind explaining that to me, as well?</line>
 <line speaker="Maya">You're getting barraged with questions, Nick...</line>
@@ -445,20 +445,20 @@
 <line speaker="Maya">It's because you're on the wrong track!</line>
 <line speaker="Phoenix">Ohh...</line>
 <line speaker="Phoenix">He saw Max's B-- OWWW!!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Au contraire mon frére! It does indeed have something to do with the question!</line>
 <line speaker="Acro">...</line>
 <line speaker="Phoenix">Moe said that he saw Max's silhouette... But he did not actually see the man himself! It wasn't a human being he saw!</line>
 <line speaker="Judge">H-H-How is that possible!?</line>
 <line speaker="Phoenix">It's simple, really. What Moe actually saw that night was Max's bust!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">There's no reason why you couldn't attach a cloak to the bust! Or a cloak like that could easily get snagged on the bust if they came into contact.</line>
 <line speaker="Phoenix">It doesn't matter who put it on the bust!</line>
 <line speaker="Judge">Just wait a minute now, Mr. Wright! Who put the cloak on the bust? That question is of the utmost importance to this case, don't you agree!?</line>
 <line speaker="Phoenix"><thought>Doh! He caught me...</thought></line>
 <line speaker="Judge">So let's have it Mr. Wright... Who put the cloak on the bust?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Uhh...</line>
 <line speaker="Phoenix">Well...</line>
 <line speaker="Phoenix">I'm... I'm sorry. <thought>When she's so nice about telling me I'm wrong, it hurts even more...</thought> OWWW!!</line>
@@ -485,8 +485,8 @@
 <line speaker="Phoenix">A contradiction, actually.</line>
 <line speaker="Maya">OK then! Use that and get out of this jam!</line>
 <line speaker="Judge">That's enough talking amongst yourselves. Proceed, Mr. Wright. Present some evidence to the court that backs your claims. I want hard proof that you have unraveled the trick to this magic case...!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Acro">...</line>
 <line speaker="Judge">Try again.</line>
@@ -568,7 +568,7 @@
 <line speaker="Phoenix">The defense has a right to cross-examine the witness!</line>
 <line speaker="Judge">Very well, Mr. Wright. Cross-examine the witness.</line>
 <line speaker="Acro">When we were little, we were abandoned by our parents.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"We"?</line>
 <line speaker="Acro">Yes. My brother Sean and I.</line>
 <line speaker="Judge">What? You have a brother?</line>
@@ -581,7 +581,7 @@
 <line speaker="Judge">OWWW!! *sniff* *sniff*</line>
 <line speaker="Judge">*sniff* The witness may proceed with his testimony...</line>
 <line speaker="Acro">That's when the Ringmaster of the Berry Big Circus, Russell Berry, took us in.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How would you describe your relationship with the Ringmaster?</line>
 <line speaker="Acro">He was like an uncle, a father, and a big brother all rolled up into one. The Ringmaster and my brother were the only family I had...</line>
 <line speaker="Judge">Hmm... What about other people at the circus?</line>
@@ -591,7 +591,7 @@
 <line speaker="Phoenix">I know. He seems like a nice guy... <thought>Which is what makes this so difficult.</thought></line>
 <line speaker="Judge">Hmm... So then how long have you been a performer?</line>
 <line speaker="Acro">I became an acrobat at around nine years old.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You started off as an acrobat at that early of an age?</line>
 <line speaker="Acro">I begged the Ringmaster until he finally agreed to let me do it. Ever since then, I've been in incredible physical shape. That's also when I decided to form a group with my brother. We called ourselves the Flying Dingling-Berrys. It's nearly a household name.</line>
 <line speaker="Phoenix"><thought>Liar!</thought></line>
@@ -599,7 +599,7 @@
 <line speaker="Judge">Hmm... You are truly a remarkable young man.</line>
 <line speaker="Phoenix"><thought>The Judge keeps looking at Acro almost like a proud father...</thought></line>
 <line speaker="Acro">I wanted to find a way to repay the Ringmaster. That was my sole purpose in life...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you ever have any trouble with the Ringmaster? OWWW!!</line>
 <line speaker="Phoenix">OWWW! OW-OW-OW-OWWW!!</line>
 <line speaker="Judge">Hmm... No matter how you look at it, there's no way I could see this witness ever taking the victim's life.</line>
@@ -610,7 +610,6 @@
 <line speaker="Maya">Y-You mean...</line>
 <line speaker="Phoenix">I get the feeling that this cross-examination was a trap.</line>
 <line speaker="Maya">Yeah... Von Karma set you up again...</line>
-<line speaker="After pressing all statements">Judge:</line>
 <line speaker="Phoenix">There's no need to cross-examine this witness.</line>
 <line speaker="Judge">W-What's that!?</line>
 <line speaker="Phoenix">"Why was the Ringmaster murdered?" There is no need to delve into that bit of testimony when I know the answer already!</line>
@@ -619,7 +618,7 @@
 <line speaker="Judge">What was Acro's motive for killing the Ringmaster? How about it? Can you explain that to me?</line>
 <line speaker="Phoenix">Now that I've come this far, there is no way I could answer "No, I can't..."</line>
 <line speaker="Judge">Very well, then please enlighten the court. Let's see some evidence that proves Acro's motive for killing the Ringmaster!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Umm... Let me just go over this one more time... This is why Acro killed the Ringmaster?</line>
 <line speaker="Phoenix">That is correct.</line>
 <line speaker="Phoenix">What are you supposed to learn... Hmm...</line>
@@ -638,22 +637,22 @@
 <line speaker="Phoenix">Acro. You didn't plan to kill the Ringmaster at all, did you? The Ringmaster wasn't your target that night.</line>
 <line speaker="Phoenix">I'm saying that the target of this witness' murder plot was not the Ringmaster. He did not plan to kill Russell Berry!</line>
 <line speaker="Judge">Order! Order! Bailiff, I don't care who it is, smack anyone who's loud in the face! Twice if you must! Mr. Wright! What in the world are you trying to do to my court!? OWWW!!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is OWWW! My evidence!! OWWW! W-What are you doing!? OWWW!!</line>
 <line speaker="Judge">H-Hold it right there! You can take your time with the other fourteen later... But now, let me see that evidence once again.</line>
 <line speaker="Phoenix"><thought>Erk! I'm so scared of what will happen, I can't even move to give him the evidence...</thought></line>
 <line speaker="Judge">This young girl is the Ringmaster's daughter, correct?</line>
 <line speaker="Phoenix">Acro. You were really aiming for her that night, weren't you?</line>
 <line speaker="Acro">...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">He could easily answer this question! If I'm wrong, all he has to say is, "You're wrong." That's it.</line>
 <line speaker="Judge">Enough! Mr. Wright, allow me to-- OWWW!!</line>
 <line speaker="Judge">Huh!?</line>
 <line speaker="Phoenix">...!!</line>
 <line speaker="Judge">Y-Y-Yes! Me too! I demand to see some proof! Present evidence that proves Acro was out to kill this young girl!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Alright, Mr. Wright!</line>
 <line speaker="Judge">This better not be a bluff. You're not going to-- OWWW!!</line>
 <line speaker="Maya">Those two are finishing each other's sentences now...</line>
@@ -698,8 +697,8 @@
 <line speaker="Maya">Really, Nick?</line>
 <line speaker="Phoenix">I... Umm... I think so.</line>
 <line speaker="Phoenix"><thought>If I can't answer that question, the judge is going to think I'm bluffing!</thought> The "conclusive evidence" about the incident six months ago is actually...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">What...? This is it?</line>
 <line speaker="Phoenix">Well... Umm... I kinda figured that I'd try and get rid of evidence I didn't need any more.</line>
 <line speaker="Judge">Well, from now on, you can do those sorts of things at home, on your own time!</line>
@@ -712,8 +711,8 @@
 <line speaker="Phoenix">The victim would arrive and try to take away the wooden box. That's when they'd discover the decisive evidence found inside!</line>
 <line speaker="Judge">Another unbelievable conclusion! Very well, Mr. Wright. So what exactly are you saying? Are you claiming Regina Berry killed someone with a small bottle of pepper!?</line>
 <line speaker="Phoenix">Taking the note into account, that's the only logical conclusion you can draw...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">What's wrong with you!! You can't just pick random people!</line>
 <line speaker="Judge">What was that just now?</line>
 <line speaker="Phoenix">I'm... S-Sorry. I was just... Umm... Practicing.</line>
@@ -736,8 +735,8 @@
 <line speaker="Phoenix">The lion biting Bat was no accident at all!</line>
 <line speaker="Judge">W-WHAT!?</line>
 <line speaker="Phoenix">She may not have incited the lion to attack another human being, but Regina is responsible for making the lion bite Acro's brother, Bat!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">Nick... You sure you want to go with that?</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Maya">How exactly does this evidence prove the reason Léon bit Bat? You don't think that there's something better you should present instead!?</line>
@@ -945,7 +944,7 @@
 <line speaker="Regina">If that's true... Then I want to see some evidence!!</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Regina">Acro said that all the time to you, so I thought it'd work for me too...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Acro didn't want to get caught for a reason. He wanted to see his brother open his eyes again...</line>
 <line speaker="Regina">B-Bat...!</line>
 <line speaker="Maya">That's right, Regina... He's still alive you know.</line>
@@ -957,7 +956,7 @@
 <line speaker="Phoenix">That's so sweet of you, Regina.</line>
 <line speaker="Regina">I'm sorry Acro... I'm sorry Bat...</line>
 <line speaker="Phoenix"><thought>Well, hopefully this is enough to give her a little piece of mind...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">So what about this? No do you understand there's no need to worry?</line>
 <line speaker="Regina">Uwaaahhh... WAAAAAAAAAAHHHHHHHH!! You were lying to me!! No one ever tells me the truth!! No one ever tells me what's going on!!</line>
 <line speaker="Phoenix"><thought>Doh! Looks like I made a mistake with that one...</thought></line>
@@ -997,25 +996,25 @@
 <line speaker="Gumshoe">Just like you thought... Yesterday's search really paid off, sir! Umm... You had it all figured out yesterday, didn't you?</line>
 <line speaker="Gumshoe">You mean Mr. Wright?</line>
 <line speaker="Gumshoe">Yes, sir! I'll be waiting for you! Goodbye Mr. Edgeworth!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection denied.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection denied. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

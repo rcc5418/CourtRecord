@@ -171,7 +171,6 @@
 <line speaker="Mikotoba">Why do you seem so nervous?</line>
 <line speaker="Ryunosuke">I, I suppose because I'm a student showing something to a professor. That's always quite nerve-racking.</line>
 <line speaker="Mikotoba">Well, I'm sorry I perturb you in that way, but anyway... I'm afraid I have nothing useful to say about that, really.</line>
-<line speaker="After clearing all Converse options">Mikotoba:</line>
 <line speaker="Jigoku">Yes, I'd like to get this trunk up to my room as soon as possible.</line>
 <line speaker="Ryunosuke">Oh, I...I'm so sorry! I shouldn't have held you up here for so long.</line>
 <line speaker="Susato">I'll call for the porter, then. Just wait here!</line>
@@ -528,7 +527,6 @@
 <line speaker="Sholmes">I have you in my clutches now, rent! Just as I have you in my clutches, red-heads! Ah ha ha ha ha ha ha ha ha hah!</line>
 <line speaker="Susato">...That hearty laugh is masking rather sinister thoughts, I feel.</line>
 <line speaker="Iris">You know, the lady isn't due for another hour yet. Don't feel as though you must wait around if you have other things to do.</line>
-<line speaker="After clearing Converse options with Herlock Sholmes and clearing all Converse options in British Supreme Court, Lord Chief Justice's Office">*Ding-aling-aling*</line>
 <line speaker="Sholmes">Aha! Here is my guest now. My latest client! With money to spend!</line>
 <line speaker="Iris">Ooh, I do hope it's an exciting case, Hurley!</line>
 <line speaker="Sholmes">Remember, Iris, we are at present gripped by the greatest problem known to man. I must be willing to accept any case, no matter how unstimulating. Save locating a runaway, of course.</line>
@@ -613,7 +611,6 @@
 <line speaker="Evie">Oh my poor Daley... Where have you gone? What's become of you?</line>
 <line speaker="Susato">I'm afraid she's too worried about her husband to pay any attention, Mr Naruhodo.</line>
 <line speaker="Ryunosuke">...Either that, or she just doesn't want to be bothered with me.</line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Evie">Oh, please report to me soon with good news, sir!</line>
 <line speaker="Sholmes">Fear not, madam. In a day or two, I shall be contacting you with a heartening report, I'm quite sure.</line>
 <line speaker="Evie">So soon? Oh, how splendid, Mr Sholmes!</line>
@@ -927,7 +924,6 @@
 <line speaker="Ryunosuke">Oh...no, thanks. I'd rather you just cast your eyes over this.</line>
 <line speaker="Caidin">Or maybe you prefer real handcuffs, eh?</line>
 <line speaker="Ryunosuke">No no! Neither for me, please! Lovely offers, though!</line>
-<line speaker="After clearing all Converse options">Caidin:</line>
 <line speaker="Susato">Thank you so much for your time, Governor.</line>
 <line speaker="Caidin">Oh, one moment afore you're away, hen... I'm sure I have it here somewhere... Ah, found it. Here, take this as a wee souvenir of your visit to the prison.</line>
 <line speaker="Susato">What is it?</line>
@@ -1002,7 +998,6 @@
 <line speaker="Ryunosuke">Um, Gina, I wanted to show you this...</line>
 <line speaker="Gina">.........</line>
 <line speaker="Ryunosuke"><thought>No, what am I thinking? This is hardly the time, is it?</thought></line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Gina">Wot are you sayin' sorry for? You didn't do nuffin'!</line>
 <line speaker="Sholmes">.........</line>
 <line speaker="Gina">Well...anyway... ...I'm takin' a cab over to the scene right now. Please come an' all! As soon as ya can! You've gotta 'elp!</line>
@@ -1292,7 +1287,6 @@
 <line speaker="Ryunosuke">Ah, it's just something I was hoping to ask your opinion about, that's all.</line>
 <line speaker="Van Zieks">It's a serious crime for the defence to attempt to extract information from the prosecution by illegal means.</line>
 <line speaker="Ryunosuke">...Alright, I get the message. But I don't see what's illegal about me asking...</line>
-<line speaker="After clearing all Converse options">Van Zieks:</line>
 <line speaker="Ryunosuke">There was a two-second silence, that's all.</line>
 <line speaker="Van Zieks">Well in any event, if you'll excuse me now. ...I wouldn't like to detain you.</line>
 <line speaker="Ryunosuke">I was wondering, Lord van Zieks... If you'd like... ...I'd be happy to advocate for you.</line>
@@ -1306,7 +1300,6 @@
 <line speaker="Ryunosuke">......... <thought>The chasm between us is just too wide and too deep, it seems...</thought></line>
 <line speaker="Van Zieks">...I'd appreciate it if you don't visit again. Then neither of us will waste any more time.</line>
 <line speaker="Ryunosuke"><thought>Perhaps we need to dig a little deeper... ...and find out more about Lord van Zieks and what happened to Inspector Gregson.</thought></line>
-<line speaker="After clearing all Converse options at Local Prison, Cell 1 and clearing all Converse options and examining portrait or desk, board, gun, red wig, chalk outline, candles, and figurine in Room on Fresno Street">1st November, 10:24 a.m.</line>
 <line speaker="Stronghart">...You've made good time.</line>
 <line speaker="???">I took an express train back to London.</line>
 <line speaker="Ryunosuke">I can hear Lord Stronghart. Can you?</line>
@@ -1390,10 +1383,9 @@
 <line speaker="Susato">Yes. And when I asked about whether records are kept about who they're issued to... ...I was told that for the past five years, they've been engraved with a unique serial number.</line>
 <line speaker="Ryunosuke">Oh, but as far as I can tell... ...there's nothing like that on this gun.</line>
 <line speaker="Susato">Which tells us that it must have been issued longer ago than that.</line>
-<line speaker="After clearing all Converse options and examining Kazuma Asogi">Ryunosuke:</line>
 <line speaker="Stronghart">Remember, tomorrow's trial will go down in our empire's history. There's much you could learn...from the public gallery.</line>
 <line speaker="Ryunosuke">...Sorry to have taken up so much of your time. We'll see ourselves out.</line>
-<line speaker="Kazuma"><cutIn>Hold it!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Kazuma">Before you go, Ryunosuke...</line>
 <line speaker="Ryunosuke">Oh...what is it, Kazuma?</line>
 <line speaker="Kazuma">I just wanted...to thank you.</line>
@@ -1536,7 +1528,6 @@
 <line speaker="Ryunosuke">No, we've heard someone attest to it very clearly. <thought>Inspector Gina Lestrade, no less.</thought></line>
 <line speaker="Van Zieks">......... Well...maybe once, yes. There was a time things were like that. We were brothers in arms...jovially discussing the future of justice and other such lofty subject matter. ......... That was a nice glimpse of the past. I thank you.</line>
 <line speaker="Ryunosuke"><thought>I feel as though I got a nice glimpse of the past then, too. There was a glimmer of light in his eyes. A brief twinkle. An insight into the true nature of this man known to all as the stone-cold Reaper of the Bailey.</thought></line>
-<line speaker="After clearing all Converse options and presenting Gregson's Photograph">Van Zieks:</line>
 <line speaker="Ryunosuke">Oh! <thought>That's the first time he's ever used my actual name.</thought></line>
 <line speaker="Van Zieks">I've lost all confidence in my country's justice system. I don't trust the police, the judiciary or lawyers. But there's still one thing I'm willing to believe in.</line>
 <line speaker="Ryunosuke">What's that?</line>

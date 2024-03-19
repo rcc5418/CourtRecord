@@ -49,7 +49,7 @@
 <line speaker="Trucy">I swear I could see the guitar for a second!</line>
 <line speaker="Judge">What is it, Prosecutor Gavin?</line>
 <line speaker="Klavier">The "motive", Herr Judge. Why did the little punk do it? Why did he kill the director of the Meraktis Clinic?</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Not so fast! The defendant doesn't have to explain that!</line>
 <line speaker="Klavier">Oh? But what if the defendant specifically requests to do so? As he did this morning? I want to "give a shout out to all my homeys!" I believe he said.</line>
 <line speaker="Judge">Whaaaaat!?</line>
@@ -68,19 +68,19 @@
 <line speaker="Judge">Hmm... Very well, the defense may begin the cross-examination.</line>
 <line speaker="Apollo"><thought>I can't believe this is the first time I'm hearing about all of this...</thought></line>
 <line speaker="Wocky">I'll tell you one thing, that doctor was a quacker!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">First of all, the word you're looking for is "quack". And isn't that a little harsh? He's your family doctor...</line>
 <line speaker="Wocky">Who asked you, pointy-locks!? Just who do you think you are?</line>
 <line speaker="Apollo"><thought>Uh... your lawyer?</thought></line>
 <line speaker="Wocky">Look, I ain't trying to hear that. He was a quacker, plain and simple.</line>
 <line speaker="Wocky">Someone had to show him what's what!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">By "someone" you mean...? Was there anyone with a score to settle with this doctor? ...Besides you, I mean.</line>
 <line speaker="Wocky">You better ask somebody else, homes. What do I care? I made up my own mind and did what had to be done. Straight gangsta-style!</line>
 <line speaker="Judge">But... why were you so mad at this doctor?</line>
 <line speaker="Wocky">Yo, sit back and listen while I drop it, J-man.</line>
 <line speaker="Wocky">I was in his clinic 'bout half a year ago. He messed up my op something bad.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So you were a patient at the Meraktis Clinic half a year ago? For what reason?</line>
 <line speaker="Wocky">I had what you might call a "mark of honor".</line>
 <line speaker="Klavier">Can you explain precisely what was wrong?</line>
@@ -95,28 +95,28 @@
 <line speaker="Klavier">...So, as you say, the surgery was a failure.</line>
 <line speaker="Wocky">That ain't all of it, homes!</line>
 <line speaker="Wocky">And then he just lets me go, without a word. See ya later, bye!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">What do you mean, he just let you go without a word?</line>
 <line speaker="Wocky">What do you think it means!? It's wack, that's what!</line>
 <line speaker="Judge">I'm not sure what that means, but it sounds bad...</line>
 <line speaker="Klavier">It sounds as though Herr Doktor wished to hide his mistake... This is why he let the defendant go.</line>
 <line speaker="Wocky">He's a liar, straight up! He's a badder G than me!</line>
 <line speaker="Wocky">So I gotta go in, get another doc to patch me up again!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So, this bullet is still...?</line>
 <line speaker="Wocky">You know it! I can still feel it... Right there in my chest, pressin' up against my heart!</line>
 <line speaker="Klavier">"Your words are like a bullet shot straight into my heart." ...or something to that effect? Incidentally, that's from one of our hit singles.</line>
 <line speaker="Judge">Well, that sounds like a straightforward case of malpractice!</line>
 <line speaker="Wocky">Word, J-man. Weren't no accident, that's fo' shizzle.</line>
 <line speaker="Wocky">That was the day I done figured it out. No O.G.'s gonna let that pass!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You figured it out that day? So you had no idea until then?</line>
 <line speaker="Wocky">For half a year, I didn't notice a thing.</line>
 <line speaker="Apollo">Whaaaat!? You had a bullet in your chest and you didn't know!?</line>
 <line speaker="Wocky">Heh! Takes more than a bullet to bring me down, homes!</line>
 <line speaker="Apollo"><thought>How many bullets does it take!?</thought></line>
 <line speaker="Wocky">That's why I went to his pad that night, know what I'm saying!?</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You "went to his pad"...? Did you have an appointment to meet with the victim? In the park, perhaps?</line>
 <line speaker="Wocky">You out of your mind!? Who makes an appointment to get the drop on someone!? I came ready to fight my way into that clinic of his. Shortest way to the clinic from my place is through that park, know what I'm saying?</line>
 <line speaker="Apollo"><thought>...He's right. That does seem to be the shortest path.</thought></line>
@@ -124,7 +124,6 @@
 <line speaker="Apollo"><thought>Unngh... This sounds bad right from the get-go.</thought></line>
 <line speaker="Trucy">Well, there won't be any get-go if we don't get some more information!</line>
 <line speaker="Apollo"><thought>Right. First, gather the facts. Time enough for despair later!</thought></line>
-<line speaker="After pressing third, fourth, and fifth statements">Judge:</line>
 <line speaker="Wocky">Man, putting him down was like doing the world a favor!</line>
 <line speaker="Apollo">Wocky! ...Please consult your lawyer before saying things like that...</line>
 <line speaker="Trucy">Chin up, Apollo! Back straight!</line>
@@ -170,7 +169,7 @@
 <line speaker="Trucy">That man... I can't help but feel I've seen him somewhere before.</line>
 <line speaker="Apollo">...?</line>
 <line speaker="Stickler">That night, I passed through the park on my way home from shopping... when I saw them!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">On the way home from shopping, you say? Why go through the park?</line>
 <line speaker="Stickler">Ah, a fascinating inquiry. Revealing me culpable of being insufficiently verbose! Let us consider the time saved by passing through the park on the way home from the store: In that time I am capable of solving two GMAT problem sets. On average, it requires me 3 minutes, 24 seconds to complete one such set. Ergo the time to complete two is, on average, 6 minutes 48 seconds. However! In the case that the questions are in the verbal category, admittedly not m...</line>
 <line speaker="Apollo">Th-That's enough! Enough. I get the idea.</line>
@@ -179,7 +178,7 @@
 <line speaker="Trucy">And I've got a show to perform.</line>
 <line speaker="Apollo"><thought>Gee, sorry you're all so busy!</thought></line>
 <line speaker="Stickler">One man, pulling a stand. Another man, facing him.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Were these men talking, by any chance?</line>
 <line speaker="Stickler">Ah, now that you mention it, they were, though I cannot claim I heard them clearly. Only fragments... such as, "You lied to me!" Oh, and... "I'm gonna give you a taste of your own medicine, pal."</line>
 <line speaker="Klavier">Ah ha ha ha! It's just as our defendant claims! I believe he wished to "teach" the victim what it felt like to take a bullet in the heart.</line>
@@ -191,7 +190,7 @@
 <line speaker="Apollo"><thought>What's the difference!?</thought></line>
 <line speaker="Klavier">And this other man, who was he?</line>
 <line speaker="Stickler">I saw them quite clearly. The man facing the victim was the defendant.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">How can you be so sure it was the defendant!? The crime took place at night! It would have been too dark!</line>
 <line speaker="Stickler">...Perhaps I was remiss in not mentioning this earlier.</line>
 <line speaker="Apollo">Huh?</line>
@@ -203,7 +202,7 @@
 <line speaker="Trucy">He sure is confident...</line>
 <line speaker="Apollo">He seems to be telling the truth, too. *sigh*</line>
 <line speaker="Stickler">In his hand he held... yes, a pistol! It was pointed at the man pulling the stand.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Are you sure the pistol you saw is the same as the one just submitted as evidence?</line>
 <line speaker="Stickler">Am I "sure"? Surely... you jest! ...Or so a common witness would be tempted to say.</line>
 <line speaker="Apollo">...Huh?</line>
@@ -212,11 +211,11 @@
 <line speaker="Apollo"><thought>My badge for a normal witness...</thought></line>
 <line speaker="Stickler">Yet the fact that a pistol was fired before my eyes is indisputable. I can still see it when I close my eyes. The defendant raised his weapon...</line>
 <line speaker="Stickler">A shot! The bullet hit the man pulling the stand from the front, square in the forehead!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Are you absolutely certain only one shot was fired?</line>
 <line speaker="Stickler">Yes. Of course it was one shot. Why do you ask?</line>
 <line speaker="Apollo"><thought>Ah ha! A contradiction! Finally!</thought> Mr. Stickler. According to the Court Record, the pistol was fired twice. A clear contradiction!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...Good eyes, Herr Justice. You're cool. Real cool.</line>
 <line speaker="Apollo">Eh? Y-You really think so?</line>
 <line speaker="Klavier">Yet, there is no reason why this other shot had to have been fired that night.</line>
@@ -224,13 +223,13 @@
 <line speaker="Klavier">This pistol came from the Kitaki Family mansion, ja? I think it's not unreasonable to assume the pistol had been fired once before that night. During, perhaps... another altercation?</line>
 <line speaker="Apollo"><thought>Ugh... He's got a point.</thought></line>
 <line speaker="Trucy">Judging from his smug expression... ...I'd say Prosecutor Gavin had that answer ready before you even spotted the problem.</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo"><thought>He seems pretty confident in his testimony.</thought></line>
 <line speaker="Trucy">We always make the biggest mistakes when we're our most confident! He's got a weak point somewhere, Apollo! Find it!</line>
 <line speaker="Apollo"><thought>...Right! Better give that testimony another listen.</thought></line>
 <line speaker="Apollo"><thought>Whew... If that's all of it, I think I have a chance.</thought></line>
 <line speaker="Klavier">Is that you... relaxing, I see, Herr Justice?</line>
-<line speaker="Apollo">Huh? Oh, er... Ahem! <cutIn>Objection!</cutIn>!!</line>
+<line speaker="Apollo">Huh? Oh, er... Ahem! <cutIn type="objection">Objection!</cutIn>!!</line>
 <line speaker="Judge">...Once is quite enough, Mr. Justice.</line>
 <line speaker="Trucy">Apollo! Pace yourself! This trial's not over yet!</line>
 <line speaker="Apollo">Urk! Eh, right! Ahem, um, look at this!</line>
@@ -248,7 +247,7 @@
 <line speaker="Apollo">Just look at the autopsy report! The location of the entry wound was... ...the right temple!</line>
 <line speaker="Stickler">T-Temple...?</line>
 <line speaker="Apollo">Mr. Stickler, you said quite clearly that the victim was shot "square in the forehead"! That's a contradiction! ...Isn't it? <thought>It is, right? Finally!</thought></line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">Herr Justice... Oh, Herr Justice...</line>
 <line speaker="Apollo">Yes...?</line>
 <line speaker="Klavier">Your tactics are outdated. Trying to shake the witness by objecting to trifles? Surely you haven't forgotten the fatal wound your master suffered seven years ago? Phoenix Wright... was it?</line>
@@ -274,7 +273,7 @@
 <line speaker="Stickler">Witness the power of a Junior in Ivy University's Department of Science!</line>
 <line speaker="Judge">Very well, Mr. Justice, you may cross-examine the witness.</line>
 <line speaker="Stickler">As soon as the killer raised his pistol, I took action.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So you saw a raised pistol... Weren't you frightened?</line>
 <line speaker="Stickler">It can be said we students of Ivy University know no fear. The moment I saw that pistol, my inner sense of justice compelled me to take action!</line>
 <line speaker="Judge">That was certainly brave of you. You might have gotten shot!</line>
@@ -284,13 +283,13 @@
 <line speaker="Trucy">He actually looks like he had no idea he was in danger.</line>
 <line speaker="Stickler">R-Regardless, I attempted to halt the bloodshed!</line>
 <line speaker="Stickler">"Cease this at once, you two!" I cried... with composure.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Are you sure both men were able to hear your voice?</line>
 <line speaker="Stickler">They were, of course. My high, exquisite voice echoed through the park.</line>
 <line speaker="Klavier">And the victim responded to that clarion call...</line>
 <line speaker="Stickler">Quite.</line>
 <line speaker="Stickler">The victim turned in the direction of my voice... and a shot rang out.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Did you hear the gunshot at the same time as the victim turned?</line>
 <line speaker="Stickler">Indeed. I would say "about" the same time, to be precise.</line>
 <line speaker="Apollo">And the victim didn't ask you for help?</line>
@@ -298,13 +297,13 @@
 <line speaker="Trucy">I'm totally sure that the killer fired because Mr. Stickler startled him.</line>
 <line speaker="Apollo">Don't say that too loud, Trucy, please...</line>
 <line speaker="Stickler">Whereupon our cowardly killer, the defendant, appeared to have become frightened.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Can you describe the killer's actions more clearly?</line>
 <line speaker="Stickler">He seemed quite surprised, especially considering that it was he who did the deed! As we can see, human psychology is a tangled web, indeed.</line>
 <line speaker="Klavier">He simply couldn't believe what he had done. He shot, he panicked. A common tale, but true.</line>
 <line speaker="Stickler">Unfortunately, before I could take further action...</line>
 <line speaker="Stickler">Tossing the pistol aside, he fled from the scene.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You didn't try to apprehend the criminal?</line>
 <line speaker="Stickler">It all happened so fast, I'm afraid I hadn't the time.</line>
 <line speaker="Trucy">Doesn't something about that strike you as odd, Apollo?</line>
@@ -313,7 +312,7 @@
 <line speaker="Apollo">According to the testimony, that's what happened, yes.</line>
 <line speaker="Trucy">In that case, I'd expect to find something that we didn't find!</line>
 <line speaker="Apollo"><thought>Find "something"? Find what?</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Wait a second!</line>
 <line speaker="Sticker">Tsk, tsk, another misleading request. Yet you're so beholden to your own mode of "discourse" you can't see how it affects you!</line>
 <line speaker="Apollo">Um... come again?</line>
@@ -364,8 +363,8 @@
 <line speaker="Klavier">At least one person on the defense team seems to be thinking.</line>
 <line speaker="Apollo"><thought>Grr... I'll wipe that smile off your pretty face, Gavin!</thought></line>
 <line speaker="Judge">Perhaps you can inform the court as to the nature of this "something else"? What did the killer throw away before fleeing the scene?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">What the witness really saw... was this! Or... something like it.</line>
 <line speaker="Judge">... Penalty.</line>
 <line speaker="Apollo"><thought>That didn't even warrant a wise-crack, did it.</thought></line>
@@ -392,7 +391,7 @@
 <line speaker="Judge">Does it not, Mr. Justice?</line>
 <line speaker="Apollo"><thought>I'd better find a way to take this testimony down quick!</thought></line>
 <line speaker="Stickler">I could not prevent the killer from leaving the scene.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Which way did the killer run?</line>
 <line speaker="Stickler">By that time, it was clear the killer had noticed me. Naturally, he ran in the opposite direction.</line>
 <line speaker="Apollo"><thought>That would mean he ran in the opposite direction from the Kitaki mansion...</thought></line>
@@ -414,7 +413,7 @@
 <line speaker="Klavier">Oh, let him play attorney until he's satisfied, I say. I will amuse myself by composing my next smash hit in my head...</line>
 <line speaker="Judge">Very well. You may continue with the cross-examination.</line>
 <line speaker="Stickler">Nor could I simply leave the scene in good conscience.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You were certainly composed for someone who had just witnessed a killing.</line>
 <line speaker="Stickler">If one is to devote one's life to the pursuit of science... ...one must never flinch at the sight of a little blood. Nor be so moved by a chemical discovery that one drops one's flask upon the lab room floor.</line>
 <line speaker="Klavier">Oooh, cool answer. Very cool.</line>
@@ -436,7 +435,7 @@
 <line speaker="Klavier">Oh, let him play attorney until he's satisfied, I say. I will amuse myself by composing my next smash hit in my head...</line>
 <line speaker="Judge">Very well. You may continue with the cross-examination.</line>
 <line speaker="Stickler">Ergo! I used my cell phone to call the police.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Wasn't your first thought to call an ambulance?</line>
 <line speaker="Stickler">It can be said that I have dabbled in medicine... The injury I witnessed, namely a single shot to the head, tends to result in death. Ergo, there was no need for me to call an ambulance! Oh... a perfect syllogism... A proof in three parts! Exquisite! Simply exquisite!</line>
 <line speaker="Apollo"><thought>...He actually looks like he's going to cry.</thought></line>
@@ -456,7 +455,7 @@
 <line speaker="Klavier">Oh, let him play attorney until he's satisfied, I say. I will amuse myself by composing my next smash hit in my head...</line>
 <line speaker="Judge">Very well. You may continue with the cross-examination.</line>
 <line speaker="Stickler">Until the police arrived at the scene 10 minutes later, I saw no one else.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Can you tell us in detail about these 10 minutes?</line>
 <line speaker="Stickler">I stood in a state of heightened awareness. Anything could happen at any moment. Anyone could appear from any direction! ...</line>
 <line speaker="Apollo">Is... that all?</line>
@@ -592,22 +591,22 @@
 <line speaker="Trucy">I think Daddy was right! You can see it, can't you, Apollo? You're almost there! Find the weak spot in his testimony!</line>
 <line speaker="Apollo"><thought>I know this sounds crazy... But my bracelet is trying to tell me something!</thought></line>
 <line speaker="Stickler">I could not prevent the killer from leaving the scene.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Which way did the killer run?</line>
 <line speaker="Stickler">By that time, it was clear the killer had noticed me. Naturally, he ran in the opposite direction.</line>
 <line speaker="Apollo"><thought>That would mean he ran in the opposite direction from the Kitaki mansion...</thought></line>
 <line speaker="Klavier">Achtung! Don't even think about pointing out that he was going away from his home. All he had to do was loop back once he was out of sight.</line>
 <line speaker="Apollo"><thought>Ugh... How did he know that's where I was going...?</thought></line>
 <line speaker="Stickler">Nor could I simply leave the scene in good conscience.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You were certainly composed for someone who had just witnessed a killing.</line>
 <line speaker="Stickler">If one is to devote one's life to the pursuit of science... ...one must never flinch at the sight of a little blood. Nor be so moved by a chemical discovery that one drops one's flask upon the lab room floor.</line>
 <line speaker="Klavier">Oooh, cool answer. Very cool.</line>
 <line speaker="Apollo"><thought>Hmm... So nothing strange about how he acted...</thought></line>
 <line speaker="Stickler">Ergo! I used my cell phone to call the police.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Stickler">Until the police arrived at the scene 10 minutes later, I saw no one else.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Can you tell us in detail about these 10 minutes?</line>
 <line speaker="Stickler">I stood in a state of heightened awareness. Anything could happen at any moment. Anyone could appear from any direction! ...</line>
 <line speaker="Apollo">Is... that all?</line>
@@ -733,8 +732,8 @@
 <line speaker="Klavier">Oh, Herr Forehead... I think it should be clear by now. "No evidence" means "no case".</line>
 <line speaker="Apollo"><thought>Ack! I guess this is it, then. Time to go for broke!</thought></line>
 <line speaker="Apollo">The evidence that proves the cell phone was dropped on the night of the murder is:</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Hmm... Well, Prosecutor Gavin?</line>
 <line speaker="Klavier">No comment, Herr Judge.</line>
 <line speaker="Judge">No dice, Mr. Justice. Penalty.</line>
@@ -766,7 +765,7 @@
 <line speaker="Trucy">His nervous habit must not be acting up... I didn't sense anything either, actually. Looks like you're on your own this time around!</line>
 <line speaker="Apollo"><thought>Right, no problem... I hope. Here comes Justice!</thought></line>
 <line speaker="Stickler">That night... Yes! I went to the supermarket.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So you went shopping. Which means... ...you were holding a grocery bag when you witnessed the murder taking place?</line>
 <line speaker="Stickler">Eh!? W-Well, yes, of course...</line>
 <line speaker="Klavier">Incidentally, the prosecution has received no report of this domestic detail.</line>
@@ -776,21 +775,21 @@
 <line speaker="Trucy">Do you think sampling free food counts as a religion?</line>
 <line speaker="Stickler">In any case! That night... ...I sampled to my heart's content, and was on my way back home, yes.</line>
 <line speaker="Stickler">I must have dropped my cell phone on my way back.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">That's when you passed in front of the Meraktis Clinic?</line>
 <line speaker="Stickler">Why... yes. That's correct.</line>
 <line speaker="Trucy">That was a pretty suspicious pause there.</line>
 <line speaker="Apollo">Mr. Stickler, do you think you could be a bit more specific? Please show us the exact route you took on the night of the murder.</line>
 <line speaker="Stickler">O-Of course. The supermarket is here, along the main road. My way home from there takes me past the Meraktis Clinic. This is probably when I dropped my cell phone. Yet, woe is I, I walked on, unaware of my loss! ...And walked right into that fateful park.</line>
 <line speaker="Stickler">And when I was walking through the park, I happened to witness the crime!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Which entrance did you enter the park from?</line>
 <line speaker="Stickler">Well, to be exact... One might say that I went in from the entrance closest to the Meraktis Clinic.</line>
 <line speaker="Klavier">The same entrance our victim used.</line>
 <line speaker="Apollo">Did you notice anything when you entered? Wheel marks from a noodle stand, for instance?</line>
 <line speaker="Stickler">...I have no recollection of such a thing, no. Yet, though I might have missed the tracks, I could not miss what happened next! I can a keen observer... of the obvious, you might say.</line>
 <line speaker="Stickler">...I saw the killer, the victim, the stand... all as clear as day!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo"><thought>This part of the testimony is the key. I know it! Should I press him about the killer, the victim, or the noodle stand?</thought></line>
 <line speaker="Apollo">Are you sure you remember the killer clearly?</line>
 <line speaker="Stickler">How many times must I repeat myself!? It was him, that unscrupulous, fox-like fellow in the defendant's chair! He was looking even more unscrupulous at the time, no less.</line>
@@ -814,23 +813,23 @@
 <line speaker="Stickler">...Hmph! Whatever sort of noodles that stand sells, it can't match up to Ivy U.'s cafeteria! Some apply to the school merely for a taste of our Smart Noodles!</line>
 <line speaker="Apollo"><thought>I wouldn't mind a taste of that myself...</thought></line>
 <line speaker="Add statement">"Why, I even remember the sign on the stand the victim was pulling! It said "NOODLE"!"</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Mr. Stickler, you've proven to be a most skilled witness.</line>
 <line speaker="Stickler">Skilled? What do you mean?</line>
 <line speaker="Apollo">I thank you for your powers of recollection. Your testimony just now was quite vital.</line>
 <line speaker="Klavier">Something going on up in your noodle, Herr Forehead?</line>
 <line speaker="Apollo"><thought>If my gut feeling here is right... I've just stumbled across a major contradiction!</thought></line>
 <line speaker="Stickler">Why, I even remember the sign on the stand the victim was pulling! It said "NOODLE"!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So the sign said "NOODLE"? You're absolutely sure?</line>
 <line speaker="Stickler">Let me be frank: Yes. In fact, the word "unsure" isn't even in my dictionary! Nor the word "uncertain" or...</line>
 <line speaker="Apollo"><thought>He was wasting time looking that stuff up!?</thought></line>
 <line speaker="Judge">"NOODLE", eh? I like that. It tells you what you're getting, no nonsense.</line>
 <line speaker="Apollo"><thought>It tells me a lot more than that, actually!</thought></line>
 <line speaker="Trucy">Why are you smiling like that, Apollo?</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Stickler">It was him! I saw the defendant at the scene!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Are you absolutely sure it was the defendant?</line>
 <line speaker="Stickler">Stop asking me the same questions over and over! This isn't some kind of make-up test!</line>
 <line speaker="Trucy">What's a "make-up test", Apollo?</line>
@@ -861,21 +860,21 @@
 <line speaker="Stickler">What...?</line>
 <line speaker="Judge">Mr. Justice! Show us this spot!</line>
 <line speaker="Apollo">The witness actually viewed the stand from this location!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... That's a river.</line>
 <line speaker="Apollo">... Oh.</line>
 <line speaker="Judge">Yes, "Oh". As in, I "oh" you a penalty!</line>
 <line speaker="Apollo">Urk.. Sorry, Your Honor... Mind if I try again?</line>
 <line speaker="Judge">Tell us, if you would, where was the witness standing?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Klavier">Though it pains me to point out the obvious... I see you leave me with no choice. It was the victim, Herr Doktor Meraktis who was pulling the stand, ja?</line>
 <line speaker="Apollo">... Ja.</line>
 <line speaker="Judge">Mr. Justice, hopefully this penalty will inspire you to take this case more seriously.</line>
 <line speaker="Apollo">Sorry, Your Honor... One more time, please...</line>
 <line speaker="Judge">Tell us, if you would, where was the witness standing?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... Any thoughts, Prosecutor Gavin?</line>
 <line speaker="Klavier">What, it's my turn to chastise the upstart, is it? Herr Forehead... Recall what you just told the court! The sign on the stand reads "ELDOON'S", ja? How would the witness standing where you have indicated change anything!?</line>
 <line speaker="Apollo">...... Um... I picked the wrong place.</line>
@@ -888,7 +887,7 @@
 <line speaker="Judge">Oh! This side says "NOODLE"!</line>
 <line speaker="Apollo">Exactly! The name of the stand is split between the front and back signs! Mr. Stickler, you lied to the court! You witnessed the crime from the northern side of the park, not the south!</line>
 <line speaker="Stickler">Yeeeow! Y-You got me!</line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...So what.</line>
 <line speaker="Apollo">S-So what!?</line>
 <line speaker="Klavier">What does it matter if he saw the killing from the north or the south side? It makes no difference at all!</line>
@@ -911,7 +910,7 @@
 <line speaker="Stickler">Yeeeeeeeeeeeeooooooowwwrgh!</line>
 <line speaker="Judge">Order! Order! Order!</line>
 <line speaker="Apollo"><thought>Wow... The apple didn't fall far from the tree! She's flipped this whole case on its head while I was still figuring it out!</thought></line>
-<line speaker="Klavier"><cutIn>Objection!</cutIn></line>
+<line speaker="Klavier"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Klavier">...Clarify one point for me if you would, Herr Forehead.</line>
 <line speaker="Apollo">What now?</line>
 <line speaker="Klavier">Are you truly accusing this college student... ...of murder?</line>
@@ -938,8 +937,8 @@
 <line speaker="Judge">Mr. Justice, you did say you were accusing the witness just now... ...for a crime other than murder. Your reason? The court's all ears.</line>
 <line speaker="Apollo"><thought>Gah! I know he's guilty of something... but what crime other than murder is there? Do I have evidence that shows his involvement in some other crime...?</thought></line>
 <line speaker="Judge">Your evidence? The court's all eyes, Mr. Justice. Show us evidence that points to the witness's involvement in a crime!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Klavier">...</line>
 <line speaker="Apollo"><thought>Something tells me this isn't one of those good silences.</thought></line>
@@ -962,7 +961,7 @@
 <line speaker="Stickler">Ahem. Perhaps you are not aware that my school's name was originally written "IV"! "I" stands for "Intelligent", "V" stands for "Valiant"! See!?</line>
 <line speaker="Judge">...Your point?</line>
 <line speaker="Stickler">I'm not done! Now, I'm a major in the Science Department... ...and what does science teach if not curiosity!? Yes, we of the Ivy U. Science Department are valiantly curious! No challenge is too daunting, and what greater challenge to science than a mystery!?</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">C'mon! You're talking about a girl's panties here!</line>
 <line speaker="Stickler">No! You do not understand! A mystery is the unknown, and the unknown is unacceptable! And, my friends, when it comes to mysteries, those panties are the promised land! From the moment I first laid eyes on them, I was compelled to investigate... for science! A full-sized car tire was only the first mystery those panties revealed!</line>
 <line speaker="Apollo">A... tire?</line>
@@ -987,8 +986,8 @@
 <line speaker="Klavier">Why, then, did the witness lie about his location at the time of the shooting? ...Or have you no idea?</line>
 <line speaker="Trucy">Apollo... There's something about the way the diagram is arranged right now... When you think about it, right near where Mr. Stickler was standing... Isn't there a...?</line>
 <line speaker="Judge">Well, Mr. Justice? What say you? Do you have any evidence to show why the witness lied about his location?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... I fail to see how this evidence relates to our witness's fabrication...</line>
 <line speaker="Apollo">As do I! But I'm sure it does! Somehow! Somewhere!</line>
 <line speaker="Judge">...It appears the fabrication was yours, Mr. Justice. Penalty!</line>
@@ -1019,19 +1018,19 @@
 <line speaker="Klavier">...Ja, baby.</line>
 <line speaker="Apollo">...No problem!</line>
 <line speaker="Judge">Very well. This brings the trial for the day to a close. Court is adjourned!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Apollo">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">...You don't sound very sure, Mr. Justice. Objection overruled.</line>
 <line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">This evidence clearly reveals a contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Apollo">They aren't, are they...?</line>
 <line speaker="Judge">Not at all. Mr. Justice, please think the facts over before making accusations.</line>
 <line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! That statement contradicts the evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Apollo">...Um... You sure about that?</line>

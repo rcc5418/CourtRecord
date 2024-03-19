@@ -1,6 +1,6 @@
 
-<line>The Magical Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Magical Turnabout</title>
 <line speaker="Apollo">I'm fine... I'm fine... I'm Apollo Justice, and I'm fine...</line>
 <line speaker="Trucy">Is Apollo okay? He's been muttering to himself all morning...</line>
 <line speaker="Athena">He's been like that since yesterday. Guess the pressure of today's trial is getting to him.</line>
@@ -401,7 +401,6 @@
 <line speaker="Apollo">I guess it's possible with a stage lift...</line>
 <line speaker="Athena">Prosecutor Sahdmadhi also said Trucy was the only one who could've done it understage.</line>
 <line speaker="Apollo"><thought>This testimony sure isn't doing our case any favors...</thought></line>
-<line speaker="After pressing all statements">Apollo:</line>
 <line speaker="Bonny">Hee hee hee! NOW do you know who the real killer is?! C'mon, Gramps! Don't just sit there! Hand down your ruling, pronto! Do it quick, before you keel over up there!</line>
 <line speaker="Judge">I-I beg your pardon?!</line>
 <line speaker="Bonny">Oops! Oh, what's gotten into me? I'm so sorry!</line>
@@ -1214,8 +1213,8 @@
 <line speaker="Judge">I see. So you're saying it was a coincidence that the sword swapping scene was cut.</line>
 <line speaker="Retinz">That's right! Glad you got the picture!</line>
 <line speaker="Apollo">Apollo:</line>
-<line speaker="Retinz">Ooh! An "<cutIn>Objection!</cutIn>" How cool! It sure packs a lot more punch when you hear it live! I wanna get another shot from a different angle.</line>
-<line speaker="Apollo">My "<cutIn>Objection!</cutIn>" is not for your entertainment!</line>
+<line speaker="Retinz">Ooh! An "<cutIn type="objection">Objection!</cutIn>" How cool! It sure packs a lot more punch when you hear it live! I wanna get another shot from a different angle.</line>
+<line speaker="Apollo">My "<cutIn type="objection">Objection!</cutIn>" is not for your entertainment!</line>
 <line speaker="Retinz">Aaand cut! There! I got some good stuff there!</line>
 <line speaker="Judge">Mr. Retinz, filming is prohibited inside the courthouse.</line>
 <line speaker="Retinz">Whoops. My bad, judge!</line>
@@ -1485,7 +1484,6 @@
 <line speaker="Apollo"><thought>Yeah, I guess the twins theory is a little far-fetched...</thought></line>
 <line speaker="Athena">The perfect alibi, huh? It's no good, Apollo. I can't find a hole anywhere...</line>
 <line speaker="Apollo">There's gotta be some kind of trick to it. I just know there's a trapdoor in there somewhere!</line>
-<line speaker="After pressing all statements">Apollo:</line>
 <line speaker="Judge">I believe we've heard enough. While I believe the witness does indeed harbor some ill will against the defendant... ...there is no reason to doubt that he was at the TV station at the time of the incident.</line>
 <line speaker="Nahyuta">Yes. The facts prove it was impossible for the witness to have been involved with this crime.</line>
 <line speaker="Apollo">Nnrgh...</line>

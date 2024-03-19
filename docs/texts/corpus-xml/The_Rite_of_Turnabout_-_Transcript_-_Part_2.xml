@@ -1,6 +1,6 @@
 
-<line>The Rite of Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Rite of Turnabout</title>
 <line speaker="Phoenix"><thought>I wasn't able to find any conclusive evidence yesterday. But if I can figure out Lady Kee'ra's motive for threatening the high priest, then maybe...</thought></line>
 <line speaker="Maya">...Nick,  um... today, I... well...</line>
 <line speaker="Phoenix">Don't look so down, Maya. I'm going to defend you with everything I've got!</line>
@@ -159,7 +159,7 @@
 <line speaker="Phoenix">Arngh! <thought>C'mon Phoenix. You gotta keep your cool. That contradiction I pointed out must mean something. That one sensation changed after Princess Rayfa refined her vision. It stands to reason that something else might have changed too because of the refinement. I should focus on any sensations that have changed... ...while searching for more contradictions between them and her Insights!</thought></line>
 <line speaker="Rayfa">The victim commenced the Purification Rite by bowing to the lanterns and reading a sutra.</line>
 <line speaker="Phoenix">Leads to:</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn> How do we know the Purification Rite was performed exactly as it was supposed to be?</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn> How do we know the Purification Rite was performed exactly as it was supposed to be?</line>
 <line speaker="Rayfa">Hmph. That's easy. The customs governing the rite are very clear, and Abbot Inmee would've adhered to them.</line>
 <line speaker="Phoenix">Well, that's strange.</line>
 <line speaker="Judge">Mr. Wright! Would you care to explain just what is so strange?</line>

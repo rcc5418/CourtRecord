@@ -94,7 +94,6 @@
 <line speaker="Trucy">That again? You sure like your attorney's badge. Still, I'm afraid our clients are getting tired of it...</line>
 <line speaker="Apollo">...Well I'm not. So there.</line>
 <line speaker="Trucy">I'm not sure about that, sorry. I was ripping up the dance floor at the time of the shooting, after all.</line>
-<line speaker="After clearing all Talk options">???:</line>
 <line speaker="Apollo">......</line>
 <line speaker="Trucy">......</line>
 <line speaker="Apollo">Um, Trucy? Was that another one of your tricks?</line>
@@ -152,7 +151,6 @@
 <line speaker="Trucy">...Not that I see Daddy around much these days.</line>
 <line speaker="Valant">What's this? You would ask me for a miracle? Free of fee? Then thy wish be granted! Thy will be done! Thy evidence evicted into the ether!</line>
 <line speaker="Apollo">Ack! No evicting, please! <thought>...Are all magicians like this, I wonder?</thought></line>
-<line speaker="After clearing all Talk options">Valant:</line>
 <line speaker="Apollo">Reasons?</line>
 <line speaker="Valant">Two, in fact! The first being, of course... ...to see you, Miss Trucy.</line>
 <line speaker="Trucy">You don't know how happy I am to see you again, Uncle Valant!</line>
@@ -247,7 +245,6 @@
 <line speaker="Machi">[Borginese speaking]...</line>
 <line speaker="Trucy">I think he said... "I am sorry I cannot speak your language. You are very beautiful, fair maiden."</line>
 <line speaker="Apollo">...This is why I never trust a translator.</line>
-<line speaker="After clearing "The trial today" and "Lamiroir's testimony" Talk options">Apollo:</line>
 <line speaker="Trucy">Imagining what, Apollo?</line>
 <line speaker="Apollo">It's just, I couldn't help but feel that... I dunno. Machi... ...He doesn't understand what we're saying, right?</line>
 <line speaker="Trucy">How could he? He's a young Borginian! He doesn't speak English.</line>
@@ -267,7 +264,7 @@
 <line speaker="Apollo">I did enough at home, thanks.</line>
 <line speaker="Trucy">Aw, there's no need to be shy! Keep that up and you'll never make it on the big stage!</line>
 <line speaker="Apollo">I'm happy in the courtroom, thank you. I am a lawyer.</line>
-<line speaker="Trucy">Then you're in luck, because it's lawyer weather today! Don't you just want to face the blue sky and shout, "<cutIn>Objection!</cutIn>"?</line>
+<line speaker="Trucy">Then you're in luck, because it's lawyer weather today! Don't you just want to face the blue sky and shout, "<cutIn type="objection">Objection!</cutIn>"?</line>
 <line speaker="Apollo">Look, the weather has nothing to do with lawyers. Let's get going already!</line>
 <line speaker="Trucy">Look! A blimp!</line>
 <line speaker="Apollo">Those balloons next to it have ad banners on them.</line>
@@ -421,7 +418,6 @@
 <line speaker="Apollo">Huh, no kidding.</line>
 <line speaker="Trucy">He took me on a Ferris wheel ride a while ago, you know! Halfway through, his face got all green and he mumbled "objection" over and over.</line>
 <line speaker="Apollo"><thought>...Poor guy.</thought></line>
-<line speaker="After clearing all Talk options with Valant Gramarye and presenting Video Tape to Valant Gramarye">July 9</line>
 <line speaker="Trucy">That song... Isn't that the one Lamiroir was singing?</line>
 <line speaker="Apollo">Yeah, you're right. "The Guitar's Serenade"...</line>
 <line speaker="Trucy">Wow, I'd love to do a show on a stage like this!</line>
@@ -576,7 +572,6 @@
 <line speaker="Apollo">Do you think you could tell me about this?</line>
 <line speaker="Lamiroir">I'm sorry, but my information about the outside world is somewhat limited. I only know what I have heard, or felt.</line>
 <line speaker="Apollo"><thought>Maybe that explains why she didn't react when I showed her stuff the other day. She was still pretending she could see then...</thought></line>
-<line speaker="After clearing all Talk options and presenting Video Tape">Apollo:</line>
 <line speaker="Lamiroir">That's correct. You need them to communicate across such a large stage. Everyone on the staff had one, of course... ...And all of the band members, too, I should think.</line>
 <line speaker="Apollo"><thought>So Prosecutor Gavin and his lackeys had them on, too, then...</thought></line>
 <line speaker="Lamiroir">They're quite helpful, though limited. They only work within thirty feet or so. After all, they're only for use on stage. And a stronger signal would interfere with the sound system.</line>
@@ -607,7 +602,6 @@
 <line speaker="Apollo">Don't be silly.</line>
 <line speaker="Trucy">What good is a receiver that doesn't receive? That's like Ema not performing forensic investigations!</line>
 <line speaker="Apollo">You make her sound like she's some kind of forensic investigation machine! Which is just silly. Unless... she's a super hi-tech android that runs on Snackoos! Hmm...</line>
-<line speaker="After presenting Headset in Backstage Hallway">July 9Lamiroir's Dressing Room</line>
 <line speaker="Apollo">Uh oh... There's only one person I know who can munch with such... venom.</line>
 <line speaker="Ema">...What are you doing here?</line>
 <line speaker="Apollo">Hello, Ema. You're looking as grumpy as ever.</line>
@@ -723,7 +717,6 @@
 <line speaker="Apollo">Ema...?</line>
 <line speaker="Ema">...MUNCH MUNCH MUNCH...</line>
 <line speaker="Apollo"><thought>Her rate of chewing is increasing... Better back off before it's too late!</thought></line>
-<line speaker="After clearing all Talk options">Ema:</line>
 <line speaker="Apollo">We're off to look for more clues elsewhere, then.</line>
 <line speaker="Ema">I feel better just knowing what this thing is now. I'll have to look into igniters a bit more later.</line>
 <line speaker="Trucy">Good luck!</line>
@@ -737,7 +730,6 @@
 <line speaker="Apollo">All these little parts... It's pretty complex. I'm guessing this is where the fire comes out. Other than that...</line>
 <line speaker="Trucy">Good thing machines run even if we don't know how many work! ...That's what Daddy always says.</line>
 <line speaker="Apollo">Not really a saying you want to go around repeating, Trucy.</line>
-<line speaker="After clearing all Talk options with Ema Skye and Valant Gramarye, and clearing "The trial today" and "Lamiroir's testimony" Talk options with Machi">July 9Sunshine Coliseum</line>
 <line speaker="Daryan">What? Come to laugh at the murderer?</line>
 <line speaker="Trucy">Daryan...</line>
 <line speaker="Daryan">That old bag opens her pie hole, and wham-bam my life goes down the chute. Thanks! They won't let me work while I'm a suspect!</line>
@@ -776,7 +768,6 @@
 <line speaker="Apollo"><thought>Hmm? Why does that sound strangely familiar?</thought></line>
 <line speaker="Daryan">Of course it always turns out good in the end. That's his talent, I suppose.</line>
 <line speaker="Daryan">Look, if you want to talk about the case, talk to someone else, 'kay? Don't want Gavin having another one of his hissy fits.</line>
-<line speaker="After clearing all Talk options">Apollo:</line>
 <line speaker="Daryan">Oh, him? He's down at the prosecutor's office, most likely.</line>
 <line speaker="Apollo">The prosecutor's office... <thought>I've never been there, have I.</thought></line>
 <line speaker="Daryan">The data on the victim should have come in from Interpol. ...Normally, I'd be down there dealing with it. Normally.</line>
@@ -990,7 +981,6 @@
 <line speaker="Apollo">Yes, they might think it was an otherwise tasty, white lump of plastic.</line>
 <line speaker="Trucy">Maybe it's the manufacturer? "Sample Toys: When you can't afford the real thing!"</line>
 <line speaker="Apollo">Sounds like a company Mr. Wright would like.</line>
-<line speaker="After clearing all Talk options and presenting Igniter">Klavier:</line>
 <line speaker="Apollo">Oh.</line>
 <line speaker="Klavier">Thanks for dropping by, ...Herr Forehead.</line>
 <line speaker="Apollo">Thanks...?</line>
@@ -1052,7 +1042,6 @@
 <line speaker="Apollo">Uh... He's a little too small to see.</line>
 <line speaker="Trucy">But look at the one next to him with the big black poof of hair pointing straight ahead!</line>
 <line speaker="Apollo">Oh yeah, that's Daryan alright.</line>
-<line speaker="After examining glass jar in Prosecutor Gavin's Office">July 9Detention CenterVisitor's Room</line>
 <line speaker="Trucy">Looks like Machi is in questioning.</line>
 <line speaker="Apollo">Huh, the police must have a Borginian interpreter. That's no fair. I wish we could talk to him.</line>
 <line speaker="Trucy">I guess we'll just have to come back later if we want to see him.</line>
@@ -1175,7 +1164,6 @@
 <line speaker="Lamiroir">I wonder...</line>
 <line speaker="Lamiroir">I'm sorry, I'm not quite recovered from the attack...</line>
 <line speaker="Apollo"><thought>She looks like she's had a rough day... I'll just put this piece of evidence away for later.</thought></line>
-<line speaker="After clearing all "Talk" options">Apollo:</line>
 <line speaker="Trucy">Huh?</line>
 <line speaker="Apollo"><thought>There's one other person I need to talk to!</thought> Thank you for talking to us, Lamiroir!</line>
 <line speaker="Lamiroir">It was the least I could do.</line>
@@ -1206,8 +1194,8 @@
 <line speaker="Lamiroir">Wait, Mr. Attorney! What do you mean by "secret"?</line>
 <line speaker="Machi">............</line>
 <line speaker="Apollo">What do I mean by "secret"? Well...</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">Do you know what this is?</line>
 <line speaker="Machi">................[Borginese speaking]</line>
 <line speaker="Lamiroir">Ah, Mr. Attorney...</line>

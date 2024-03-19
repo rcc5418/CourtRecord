@@ -83,7 +83,7 @@
 <line speaker="Payne">That doesn't appear to have been the case. No, the motive had nothing to do with the defendant's lack of playing skill. At least not piano playing. I'll let this photo explain what I mean. As we can see, a game of poker was in progress at the scene of the crime.</line>
 <line speaker="Judge">Wait a second! Isn't poker gambling? That's a crime in and of itself!</line>
 <line speaker="Payne">Indeed. It appears our defendant... ...has fallen to become the basest sort of criminal!</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">It is true that the defendant was engaged in a game of poker with the victim. Yet it was only that: a game, in the purest sense. A competition, Your Honor.</line>
 <line speaker="Payne">A... competition?</line>
 <line speaker="Kristoph">Yes, a test of wits, a silent clash of passions... Only the cards, their backs wreathed in blue flame, know its final outcome.</line>
@@ -123,14 +123,14 @@
 <line speaker="Apollo"><thought>"Inconsistencies"? "Lies"? Phoenix Wright...? As if! Phoenix Wright would never lie, and it's up to me to prove it.</thought></line>
 <line speaker="Judge">The defense may begin the cross-examination.</line>
 <line speaker="Phoenix">I am a pianist by trade... yet I can hardly play at all.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You can hardly play...?</line>
 <line speaker="Phoenix">Oh, I play sometimes. When customers demand it. So I play them one song. That's usually all they want.</line>
 <line speaker="Apollo"><thought>Was that supposed to be a boast just now...</thought></line>
 <line speaker="Phoenix">The title of "pianist" is a mask -- a respectable face I wear for the world at large.</line>
 <line speaker="Judge">Then why are you really at the Borscht Bowl Club?</line>
 <line speaker="Phoenix">My real job is to take on interested customers over at the poker table.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">They pay you just to play poker?</line>
 <line speaker="Phoenix">That would seem to be the case. I am a professional, after all.</line>
 <line speaker="Payne">Bah! Do I detect pride in that statement? It's just hard for an honest, hard-working member of society like me to imagine...</line>
@@ -149,7 +149,7 @@
 <line speaker="Judge">People are not murdered over "simple games", Mr. Justice. Defendant. You were in the room the very moment that the crime occurred... Yet you claim no connection to the crime?</line>
 <line speaker="Phoenix">... Now that's strange.</line>
 <line speaker="Judge">What's strange?</line>
-<line speaker="Phoenix">I was testifying about the competition that night. Asking me about the crime at this point is against the rules, Your Honor. Of course, I expected to hear a cry of "<cutIn>Objection!</cutIn>" from the defense...</line>
+<line speaker="Phoenix">I was testifying about the competition that night. Asking me about the crime at this point is against the rules, Your Honor. Of course, I expected to hear a cry of "<cutIn type="objection">Objection!</cutIn>" from the defense...</line>
 <line speaker="Apollo">Ack! <thought>Argh! I completely let that one slip by!</thought></line>
 <line speaker="Kristoph">Don't despair yet, Justice.</line>
 <line speaker="Apollo">S-Sir?</line>
@@ -158,7 +158,7 @@
 <line speaker="Judge">Very well. The defendant will amend his testimony.</line>
 <line speaker="Apollo"><thought>Just one little press... ...and I've got myself a whole new testimony!</thought></line>
 <line speaker="Phoenix">The room where we play and the competition in there are the club's main attractions.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">The room in the crime scene photo... is an attraction?</line>
 <line speaker="Phoenix">It has quite a history, actually. The Borscht Bowl Club used to be a gathering spot for black market types back in the day.</line>
 <line speaker="Apollo">B-Black market?</line>
@@ -174,7 +174,7 @@
 <line speaker="Judge">People are not murdered over "simple games", Mr. Justice. Defendant. You were in the room the very moment that the crime occurred... Yet you claim no connection to the crime?</line>
 <line speaker="Phoenix">... Now that's strange.</line>
 <line speaker="Judge">What's strange?</line>
-<line speaker="Phoenix">I was testifying about the competition that night. Asking me about the crime at this point is against the rules, Your Honor. Of course, I expected to hear a cry of "<cutIn>Objection!</cutIn>" from the defense...</line>
+<line speaker="Phoenix">I was testifying about the competition that night. Asking me about the crime at this point is against the rules, Your Honor. Of course, I expected to hear a cry of "<cutIn type="objection">Objection!</cutIn>" from the defense...</line>
 <line speaker="Apollo">Ack! <thought>Argh! I completely let that one slip by!</thought></line>
 <line speaker="Kristoph">Don't despair yet, Justice.</line>
 <line speaker="Apollo">S-Sir?</line>
@@ -183,7 +183,7 @@
 <line speaker="Judge">Very well. The defendant will amend his testimony.</line>
 <line speaker="Apollo"><thought>Just one little press... ...and I've got myself a whole new testimony!</thought></line>
 <line speaker="Phoenix">The rules are simple: we play a game of poker using two decks of cards.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Two decks of cards?</line>
 <line speaker="Phoenix">A simple measure to prevent cheating. If you alternate two decks, no one can slip in cards.</line>
 <line speaker="Judge">There's something else I noticed... In addition to the cards on the table, there are some lying scattered on the floor.</line>
@@ -199,7 +199,7 @@
 <line speaker="Judge">People are not murdered over "simple games", Mr. Justice. Defendant. You were in the room the very moment that the crime occurred... Yet you claim no connection to the crime?</line>
 <line speaker="Phoenix">... Now that's strange.</line>
 <line speaker="Judge">What's strange?</line>
-<line speaker="Phoenix">I was testifying about the competition that night. Asking me about the crime at this point is against the rules, Your Honor. Of course, I expected to hear a cry of "<cutIn>Objection!</cutIn>" from the defense...</line>
+<line speaker="Phoenix">I was testifying about the competition that night. Asking me about the crime at this point is against the rules, Your Honor. Of course, I expected to hear a cry of "<cutIn type="objection">Objection!</cutIn>" from the defense...</line>
 <line speaker="Apollo">Ack! <thought>Argh! I completely let that one slip by!</thought></line>
 <line speaker="Kristoph">Don't despair yet, Justice.</line>
 <line speaker="Apollo">S-Sir?</line>
@@ -208,7 +208,7 @@
 <line speaker="Judge">Very well. The defendant will amend his testimony.</line>
 <line speaker="Apollo"><thought>Just one little press... ...and I've got myself a whole new testimony!</thought></line>
 <line speaker="Phoenix">That's all it is... a game. And our customers are happy.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So, you claim you weren't gambling?</line>
 <line speaker="Phoenix">That's right. It was simply a game.</line>
 <line speaker="Apollo">You didn't bet any money? Not even a little?</line>
@@ -216,7 +216,7 @@
 <line speaker="Judge">Ho ho! Well put, Mr. Wright. I've got a mind to play a hand of poker myself... The stakes: your fate!</line>
 <line speaker="Apollo"><thought>Um... Can we get back to the trial now?</thought></line>
 <line speaker="Phoenix">I plead silence regarding the murder. But I will say I never touched the murder weapon.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">S-Silence?</line>
 <line speaker="Phoenix">The defendant has the right to refuse to testify. ...I haven't forgotten everything about the law.</line>
 <line speaker="Apollo">But why? That clearly puts you at a disadvantage...</line>
@@ -226,7 +226,7 @@
 <line speaker="Apollo">Huh...? <thought>Wait... Something he said did ring a little strangely. Just one thing... Now what was it!?</thought></line>
 <line speaker="Kristoph">When you figure it out, I'd suggest presenting evidence. Evidence that contradicts the testimony.</line>
 <line speaker="Apollo"><thought>A contradiction in Mr. Wright's testimony? But why!? I'd better check the Court Record.</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo"><thought>I can't imagine Mr. Wright lying in a testimony...</thought></line>
 <line speaker="Kristoph">Isn't it a little early to be jumping to conclusions? This is your first cross-examination. Take it slow. If you need more information, don't forget to press.</line>
 <line speaker="Apollo">R-Right! I got it! I'm fine! <thought>Time to listen to that testimony again.</thought></line>
@@ -236,13 +236,13 @@
 <line speaker="Judge">Something the matter, Mr. Justice?</line>
 <line speaker="Payne">Hee hee hee... Too bad our new defense attorney never learned how to play dumb!</line>
 <line speaker="Payne">I examined the bottle in question, you see. And it was covered with the defendant's fingerprints!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Judge">No need to shout, Mr. Justice! I can hear you just fine!</line>
 <line speaker="Apollo">Aha ha ha...</line>
 <line speaker="Kristoph">Excess yelling can damage the judge's ears... and our case.</line>
 <line speaker="Apollo"><thought>B-But what about my Chords of Steel...?</thought> Any... Anyway! What's so strange about fingerprints on a bottle in a restaurant?</line>
 <line speaker="Judge">Well, that's true. The prints alone don't prove he did it--</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Oh, they wouldn't prove a thing... if they were normal fingerprints!</line>
 <line speaker="Apollo">...Huh!?</line>
 <line speaker="Payne">But the fingerprints on the murder weapon were upside-down!</line>
@@ -256,7 +256,7 @@
 <line speaker="Phoenix">... I stand by my plea of silence regarding the murder. ...For now.</line>
 <line speaker="Judge">Hmm... Not very cooperative, are you? This could hurt your case.</line>
 <line speaker="Payne">I'm sure he's uncooperative because he's hiding something! There must be some reason...</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">...Your Honor. You seem to have forgotten something.</line>
 <line speaker="Judge">And what might that be, Mr. Gavin?</line>
 <line speaker="Kristoph">On the night of the crime, who was it who reported the murder to the police?</line>
@@ -314,7 +314,7 @@
 <line speaker="Olga">That night, customer asked me to deal cards for game.</line>
 <line speaker="Judge">Hmm... Incidentally, who won the game?</line>
 <line speaker="Payne">Isn't it obvious? The winner was the victim... Mr. Smith!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">That's ridiculous! Um, because... Because Mr. Wright can't lose!</line>
 <line speaker="Kristoph">Ahem. Justice? Maybe you can come up with a more legitimate objection?</line>
 <line speaker="Apollo">But! He hadn't lost in seven years!</line>
@@ -326,20 +326,20 @@
 <line speaker="Judge">Hmm... Looking at this picture... ...it does seem that most of the chips are on the victim's side of the table.</line>
 <line speaker="Judge">Very well. The defense may cross-examine the witness.</line>
 <line speaker="Olga">That night, customer asked me to deal cards for game.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You were dealing cards... Do you do this often?</line>
 <line speaker="Olga">Dah, I am doing this. If customer wishes it, I serve anything. Borscht, cards, more borscht... It is my work.</line>
 <line speaker="Judge">It's good to hear of a place that hasn't forgotten the meaning of service!</line>
 <line speaker="Olga">Welcome you to Borscht Bowl Club, where borscht is as warm as the waitresses!</line>
 <line speaker="Apollo">Thank you for NOT handing out flyers during the cross-examination.</line>
 <line speaker="Olga">It was cold... Both players played with hats on, dah.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">It's already April. How could it be cold?</line>
 <line speaker="Olga">At Borscht Bowl Club we have pride on authentic rustic Russian restaurant theme. Outside it is city in Spring, but inside it is always as cold as Mother Russia!</line>
 <line speaker="Apollo"><thought>No way am I going there.</thought></line>
 <line speaker="Olga">When it comes to hot borscht, cold is best seasoning, dah?</line>
 <line speaker="Olga">The victim, he plays whole time with his hand on locket at his neck.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">His "locket"...?</line>
 <line speaker="Olga">I believe it was good-luck charm, dah? He gripped it many times as he played that night.</line>
 <line speaker="Judge">Yes, he must have felt as though it might carry him to the moon and the stars! Though if it were small enough to fit around his neck, it wouldn't have much lift...</line>
@@ -349,9 +349,9 @@
 <line speaker="Kristoph">It's considered bad form to poke fun at the hard-of-hearing in our society.</line>
 <line speaker="Apollo"><thought>Hard of hearing, or hard of understanding?</thought></line>
 <line speaker="Payne">So, what happened next?</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Olga">Then, last hand is done! But something terrible has happened, dah!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Something terrible!?!?</line>
 <line speaker="Olga">Eeeeeeeeeeeek!</line>
 <line speaker="Judge">The defense will refrain from needless shouting!</line>
@@ -359,7 +359,7 @@
 <line speaker="Payne">Now, Ms. Orly, can you tell us what happened?</line>
 <line speaker="Olga">Oh, I was so frightened! Dah, I trembled with fear!</line>
 <line speaker="Olga">That man flew at victim, and is strangling him to death!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">But the defendant would never do such a thing!</line>
 <line speaker="Olga">Eeeeeeeek!</line>
 <line speaker="Judge">Well now, I can't say I've ever heard the defense try this tactic.</line>
@@ -367,7 +367,7 @@
 <line speaker="Judge">Still... Why would anyone do something like this over a game of poker?</line>
 <line speaker="Olga">Perhaps it is because defendant has lost game?</line>
 <line speaker="Payne">Yes! A crushing defeat for a man undefeated! So it always is with men like him. Winners make sore losers. Oh, how the mighty fall!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Oh really? "Strangled", you say? That's odd.</line>
 <line speaker="Olga">Dah, normal customers only choke on borscht.</line>
 <line speaker="Apollo">No, I mean this report shows that the victim died of a blow to the head!</line>
@@ -387,7 +387,7 @@
 <line speaker="Apollo"><thought>There's such a thing as thinking too much... This horse is dead, let's stop beating it!</thought></line>
 <line speaker="Kristoph">There's such a thing as thinking aloud too much, too.</line>
 <line speaker="Olga">After defendant tried to strangle victim, he hit him with bottle.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You didn't say anything about hitting before!</line>
 <line speaker="Olga">S-S-S-S-So sorry! I must be forgetting this, dah!</line>
 <line speaker="Judge">Witness! You will take greater care with your testimony.</line>
@@ -433,22 +433,22 @@
 <line speaker="Judge">Ah, how many times have I heard these words: "I done it in a fit of anger, Yer Honor, and now I regret what I done". ...A common tale, but true.</line>
 <line speaker="Apollo"><thought>Methinks the judge watches too many old court movies. Mr. Wright said he hasn't lost in seven years, so this testimony must be wrong!</thought></line>
 <line speaker="Olga">The game began with 3,500 point in chips for each man.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Are those the usual starting points? Were any special rules used...?</line>
 <line speaker="Olga">No, not special. Usual game, usual rules.</line>
 <line speaker="Judge">If each man began with 3,500 points, then the total would be... Um... Exactly six, no, 7,000 points!</line>
 <line speaker="Apollo"><thought>Please, this isn't calculus. It's not even long division!</thought></line>
 <line speaker="Kristoph">...</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Olga">House chips come in two size: small and large.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Are the chips in this photo all the chips that were used?</line>
 <line speaker="Olga">Da... Dah! Of course.</line>
 <line speaker="Apollo">...? <thought>Something's fishy with these chips. Should I press harder?</thought></line>
 <line speaker="Apollo"><thought>...Nah. ...It's her nature to be jumpy and suspicious-looking.</thought></line>
 <line speaker="Apollo">Maybe you could explain a bit about these "chips"?</line>
 <line speaker="Olga">E-Explain? What is there to be explained?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Poker chips are poker chips. They're not fish and chips, not a chip off the old block, not a motorcycle cop, not a...</line>
 <line speaker="Apollo">...Thanks. <thought>Now that I've pressed her I'd better ask something...</thought> What are these chips worth? Are they in dollars? Or rubles, even?</line>
 <line speaker="Olga">...Nyet. As I have been saying before, it was game, not gambling. Hard perhaps for capitalist to understand. Two types of chip: 100 points chip and 1,000 points chip. It is not money, dah.</line>
@@ -466,7 +466,7 @@
 <line speaker="Judge">Very well. Witness, if you would be so kind?</line>
 <line speaker="Olga">D-Dah, Your Honor.</line>
 <line speaker="Olga">One kind of chip is worth 100 points, other kind is worth 1,000. Two kinds in all.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo"><thought>Mr. Gavin said this testimony is important! ...To be honest, I have no idea why.</thought></line>
 <line speaker="Judge">...Mr. Justice? Do the court a favor and think of what you want to say before raising your hand. We are not in kindergarten.</line>
 <line speaker="Apollo">Ack! Sorry! I'm fine! <thought>I'd better think of something to ask... and quick!</thought> Um... The two types of chips...</line>
@@ -482,16 +482,16 @@
 <line speaker="Apollo"><thought>What...!?</thought></line>
 <line speaker="Kristoph">It's a simple matter of calculation. Go on, try it. We're not in kindergarten, after all.</line>
 <line speaker="Apollo"><thought>"Calculation"...?</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Olga">The one who was winning... dah, it was victim!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You're telling me that Mr. Wright, undefeated for seven whole years, was losing?</line>
 <line speaker="Olga">Dah. It must have been most unlucky day for him. I am glad I did not take other picture of him. It would break camera, certainly. The chips, they went always to victim's side of table.</line>
 <line speaker="Payne">So you're telling us it was a one-sided game?</line>
 <line speaker="Olga">Dah. One-sided, and...</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Olga">For last hand, defendant play with all chips on table and lose.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">"Last hand"?</line>
 <line speaker="Olga">It was largest points of any hand. The defendant's hand, it was excellent. He try to use it to take victory from behind.</line>
 <line speaker="Judge">It appears that both the defendant and the victim's hands are in this picture. That is truly an excellent hand. However, so is the victim's...</line>
@@ -499,7 +499,7 @@
 <line speaker="Payne">The victim, Mr. Smith, had a stronger hand than the defendant and crushed him. I believe that explains what occurred next.</line>
 <line speaker="Olga">Once cards laid down on table, it happened...</line>
 <line speaker="Olga">The moment loss was decided, defendant grabs bottle from table and...</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">And...? What happened next!?</line>
 <line speaker="Olga">...Even to think of it now, I shake and tremble, dah! I did not believe such thing would happen!</line>
 <line speaker="Apollo">What "such thing"!?</line>
@@ -512,7 +512,7 @@
 <line speaker="Apollo">Yes, sir! <thought>Look out contradiction, here comes Justice!</thought></line>
 <line speaker="Apollo">You're sure it was the victim who won? Absolutely sure?</line>
 <line speaker="Olga">...!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">It seems our new attorney is a bit confused... A glance at the picture is enough to tell you who won! If you're not in kindergarten.</line>
 <line speaker="Judge">Um... Just for safety's sake, could you explain the problem to the court?</line>
 <line speaker="Apollo">Of course, Your Honor. In this photo I see small chips and I see large chips. Tell me.. which were worth 1,000 points?</line>
@@ -547,7 +547,7 @@
 <line speaker="Judge">Show me that photograph of the chips again! ...There are six small chips, and ten large chips... Why, that does make 7,000 points when you add them up!</line>
 <line speaker="Kristoph">Excellent work, Justice. It's almost as though you figured it out by yourself.</line>
 <line speaker="Apollo">Well... I'm just glad I was the one who said it.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">B-But wait! The value of the chips may be different, but that changes nothing!!!</line>
 <line speaker="Judge">Indeed.. The victim did have the larger number of chips still. ... Ah!</line>
 <line speaker="Apollo">...Exactly. If the small chips are 1,000 points, and the large chips are 100... Let's do a little math. Add up the points for each side of the table!</line>
@@ -593,7 +593,7 @@
 <line speaker="Judge">Ahem. The defense may cross-examine the witness.</line>
 <line speaker="Apollo"><thought>If he did cheat in the last hand, that still leaves one important question... Mr. Wright lost that hand. Who's ever heard of a professional con man losing when they cheat!?</thought></line>
 <line speaker="Olga">The last hand... both men had "full house".</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Just how hard is it to make a full house, anyway?</line>
 <line speaker="Olga">It is quite hard, dah. It is making a pair and a three of kind at same time!</line>
 <line speaker="Apollo">... I guess that's right.</line>
@@ -601,7 +601,7 @@
 <line speaker="Olga">Very difficult, dah. But is not impossible.</line>
 <line speaker="Apollo"><thought>OK. Full house: Hard. This line of questioning: A waste of time.</thought></line>
 <line speaker="Olga">There is four of each card in deck, from ace to king.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Four of each card, you say?</line>
 <line speaker="Olga">Dah. There is one spade, one diamond, one heart, and one club for each card. It is interesting fact that this number "four" comes from number of seasons!</line>
 <line speaker="Apollo">Huh, you don't say.</line>
@@ -610,7 +610,7 @@
 <line speaker="Payne">That's why each deck has two jokers. They say the second joker stands for the leap year. Thus you have a perfect representation of the year... all in a deck of cards!</line>
 <line speaker="Apollo">Huh, you don't say. <thought>We're going to be in this courtroom for a year if it keeps going like this!</thought></line>
 <line speaker="Olga">If you look at both men's hands, cheat is more obvious!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">How was it "clear"?</line>
 <line speaker="Olga">Dah, well... the defendant... ...he played a fifth ace!</line>
 <line speaker="Apollo">A f-fifth ace!?</line>
@@ -619,7 +619,7 @@
 <line speaker="Kristoph">Your Honor... perhaps this can be added to the testimony? Without Mr. Payne's joke.</line>
 <line speaker="Judge">Very well. The witness will add this detail to her testimony, please.</line>
 <line speaker="Olga">Mr. Smith's hand has three aces, and Mr. Wright's two. ...It is five aces in all.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">A fifth ace...?</line>
 <line speaker="Olga">Dah! It should not exist, no? I still remember both hands very well. Mr. Smith's hand has three aces... ...and Mr. Wright's two.</line>
 <line speaker="Judge">Well, where did this card come from then?</line>
@@ -627,18 +627,18 @@
 <line speaker="Apollo">Nnnk...!</line>
 <line speaker="Kristoph">Now... Perhaps it's time for you to say something, Justice?</line>
 <line speaker="Apollo">You bet! I've no intention of staying quiet! Not me! No sir! <thought>...I'd better find some contradicting evidence fast!</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Olga">The next moment, game becomes argument, dah! The defendant's trick was exposed!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Do you recall what the men were arguing about?</line>
 <line speaker="Olga">Dah, I believe so... The victim, he shouts, "you are cheater!" and then... ...the defendant shouts something like, "I have objection!"</line>
 <line speaker="Payne">Shouting objection, eh? Old habits are hard to break! First he bluffed his way through the courtroom, now he bluffs his way through life!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">However! Mr. Wright lost the hand! That seems to cast the shadow of doubt on Mr. Smith!</line>
 <line speaker="Olga">Humiliation from losing even when cheating... That is what set fire to defendant's heart!</line>
 <line speaker="Judge">So what did the flaming defendant do next?</line>
 <line speaker="Olga">He took bottle in his hand... Poor Mr. Smith!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">By bottle, are you referring to... this?</line>
 <line speaker="Olga">...Dah. The defendant uses this bottle to... to... *sob*</line>
 <line speaker="Payne">This behavior is an admission of cheating by the defendant.</line>
@@ -657,8 +657,8 @@
 <line speaker="Judge">That's... the photo of the chips, is it not?</line>
 <line speaker="Kristoph">Justice. Perhaps you ought to explain your point in a way that the judge can comprehend... In other words, use your finger to "point" out your point!</line>
 <line speaker="Judge">Yes... Please point out the contradiction in this photo. What particular "point" contradicts the witness's testimony?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">Why, it's here, of course!</line>
 <line speaker="Judge">It's... where?</line>
 <line speaker="Kristoph">Where is that you're pointing?</line>
@@ -668,9 +668,9 @@
 <line speaker="Judge">I think you'd best point out your point again.</line>
 <line speaker="Apollo">Ms. Orly, in your testimony, you made the following claim: "Mr. Smith's hand has three aces"... But as you can clearly see, the victim's hand only held two aces!</line>
 <line speaker="Olga">Eeeeeeeek!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Well... Well maybe the witness was simply confused! Perhaps it was the defendant's hand that held the third ace in question...</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Take another look at the evidence! As you can see, the defendant also had two aces in his hand. Where's this fifth ace? I see cheating alright, and it's going on right here in this courtroom!</line>
 <line speaker="Judge">Two aces in each player's hand does make four aces total. Hardly proof of cheating...</line>
 <line speaker="Olga">Wait! Please! It is true... I have seen it! The fifth ace! There was cheating, I swear to you.</line>
@@ -757,12 +757,12 @@
 <line speaker="Payne">Nnk...! What!?</line>
 <line speaker="Apollo"><thought>I did it! I held out!</thought></line>
 <line speaker="Judge">I see no point in prolonging the trial this day. The prosecution will need to make further inquiries...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">M-Mr. Wright...</line>
 <line speaker="Phoenix">...You can't end the trial here, Your Honor. Not yet.</line>
 <line speaker="Payne">What nonsense is the defendant spewing now!?</line>
 <line speaker="Phoenix">Think. One of the cards had a different colored back. Don't you wonder what it means?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Wh-What are you doing, Mr. Wright!? Raising objections right when you're about to get off the hook!? Ridiculous!</line>
 <line speaker="Judge">Mr. Payne, you of all people should know... Mr. Wright has a talent... for the ridiculous! Perhaps we should get to the bottom of things. Let's clear up the facts about the game that fateful night.</line>
 <line speaker="Phoenix">As was said before... We alternated between two decks of cards that night.</line>
@@ -803,16 +803,16 @@
 <line speaker="Judge">That "moment" could cost you this case!</line>
 <line speaker="Apollo">Sorry... Let me rethink this.</line>
 <line speaker="Apollo">Perhaps it happened... after the murder?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Wh-What's that? Ridiculous! What's the point of cheating after the hands have been shown? That's silly!</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Yes! But tell me... How do you swap cards during the game!? I'll take "silly" over "impossible".</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Take it from me, son. There's a lot of silly in this world, but very little impossible.</line>
 <line speaker="Apollo">Oh? Even when the backs of the cards are a different color!? If you pulled that during the game, you'd be caught in no time!</line>
 <line speaker="Judge">Ah...</line>
 <line speaker="Phoenix">Quite true. That would mean that the blue card in question... ...was swapped after the hands were shown, after the murder!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">OK, this is going past silly and straight on to crazy. I ask again: what's the point of cheating after the game's over!? Who would do that!?</line>
 <line speaker="Phoenix">Who indeed. That's one of the mysteries before us.</line>
 <line speaker="Judge">Th-There's another?</line>
@@ -829,7 +829,7 @@
 <line speaker="Apollo"><thought>Come to think of it, he would lack a motive for helping his opponent to win...</thought></line>
 <line speaker="Apollo">Why, it must have been Olga Orly who swapped the cards! She was trying to cover up evidence of the cheating.</line>
 <line speaker="Judge">That.. does make some sense.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Sorry... But there's a problem with that explanation.</line>
 <line speaker="Apollo">Huh?</line>
 <line speaker="Phoenix">The swapped card was from the wrong deck.</line>
@@ -846,7 +846,7 @@
 <line speaker="Phoenix">Heh. Heh heh heh heh.</line>
 <line speaker="Judge">Something you'd like to share with the court, Mr. Wright?</line>
 <line speaker="Phoenix">Oh, my apologies, Your Honor. I was just thinking how much fun all this is.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Fun!? How about confusing!? I've no idea what the defense is claiming, Your Honor. If the one who swapped the card wasn't the defendant, and it wasn't Ms. Orly... Then who was it!?</line>
 <line speaker="Apollo">Er, yeah, well, that is the question, isn't it?</line>
 <line speaker="Phoenix">Precisely.</line>
@@ -858,7 +858,7 @@
 <line speaker="Phoenix">Because the one who did the swap didn't know two colors of cards were being used. The other mistake... was the number on the card.</line>
 <line speaker="Apollo">Right... The person replaced the fifth ace with a king.</line>
 <line speaker="Phoenix">I'm sure whoever swapped it wasn't expecting there to be a fifth ace, after all. All they knew was that the game had been won with a full house. So they picked up a king from the table, and swapped it in.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">B-But! There's one problem... According to our case record this person doesn't exist!!!</line>
 <line speaker="Phoenix">True, not until now. But you have to admit the possibility of a fourth person. Though it's more than a possibility. There was someone else there that night at the scene of the crime.</line>
 <line speaker="Payne">Wh-Whaaaaaaaaaat!?</line>
@@ -951,7 +951,7 @@
 <line speaker="Judge">Well, the testimony, for what it's worth, is all yours, Mr. Justice.</line>
 <line speaker="Apollo"><thought>With witnesses like her, who needs criminals? ...And with defendants like Mr. Wright, who needs prosecutors?</thought></line>
 <line speaker="Olga">That night, I planted the card like I was supposed to.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">This planted card... which card was it, exactly?</line>
 <line speaker="Olga">The trump card... the Five of Hearts.</line>
 <line speaker="Judge">Let me guess. Mr. Wright was to have switched the Five with the Ace to make a full house. At least, that's what you were going to accuse him of doing, thereby ruining his legend.</line>
@@ -961,13 +961,13 @@
 <line speaker="Judge">Remind me never to go there.</line>
 <line speaker="Olga">Of course, the card was to make its grand debut during the game... Like a good borscht, a good plot must be cooked up early and allowed to thicken.</line>
 <line speaker="Olga">And Wright lost the last hand, just like he was supposed to. Then Smith searched him!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">So, everything went according to plan...</line>
 <line speaker="Olga">Exactly. The fifth ace came up, so it's obvious the switch went off without a hitch. Once the extra card was found in his pocket... ...Wright would be forever known as a cheat and a fraud.</line>
 <line speaker="Judge">There are worse things to be known as I suppose.</line>
 <line speaker="Apollo">Tell us what happened with the search.</line>
 <line speaker="Olga">But the planted card was gone! The trap failed.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">The card... disappeared?</line>
 <line speaker="Olga">Yeah! My trump card, the Five of Hearts! Gone! Without a trace! Poof! Zippo! We searched every nook and cranny... Even inside his cute little hat!</line>
 <line speaker="Apollo">But the card was nowhere to be found, is this correct?</line>
@@ -976,7 +976,7 @@
 <line speaker="Olga">Don't look at me. Why don't you ask that cheating, lying, two-faced defendant?</line>
 <line speaker="Apollo"><thought>So the Five of Hearts is still missing in action...</thought></line>
 <line speaker="Olga">The next moment, Wright picked up a bottle and swung it!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Wait... Isn't that a little odd?</line>
 <line speaker="Olga">Wh-What's odd!?</line>
 <line speaker="Apollo">You searched Mr. Wright, er, thoroughly, and found nothing? Which means he didn't cheat... Which means he had no reason to strike the victim!</line>
@@ -986,7 +986,7 @@
 <line speaker="Apollo">No... nothing, Your Honor. <thought>What to do? Should I press her a little harder?</thought></line>
 <line speaker="Apollo">Ms. Orly...! You're hiding something!</line>
 <line speaker="Olga">Wh-What are you talking about!? Y-Y-You! M-M-M-Me? "Quick-Fingers" Orly, hi-hi-hide something?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">The defense will refrain from baseless accusations!</line>
 <line speaker="Apollo">I have one question for the witness then. You say you saw the moment the defendant hit the victim. ...Is this true?</line>
 <line speaker="Olga">O-Of course it's true! I d-did see it, honest! I saw it when Wright hit him. </line>
@@ -1004,8 +1004,8 @@
 <line speaker="Payne">A memory? Would someone care to explain what he's babbling about?</line>
 <line speaker="Judge">This is highly unusual... but let's ask the defense. You claim the witness is remembering something. Maybe you have evidence of this "memory" to show us?</line>
 <line speaker="Apollo"><thought>Her habit is scratching her neck whenever she talks about the moment of the crime... So, what would remind her most of the moment of the crime!?</thought> Ms. Orly. Whenever you recall the crime that night, you scratch your neck. I've noticed it happens when you think about the moment of the crime. There must be some reason behind this "habit" of yours. I believe the weapon that left an inerasable "impression" on your neck is this!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Olga">... Sorry to disappoint, but I don't have any particular memories of that!</line>
 <line speaker="Apollo"><thought>Uh oh... That must not have been it!</thought></line>
 <line speaker="Payne">Hmph! Of course not! You want a habit, Mr. Justice? I'll show you a habit!!! Ah ha ha hah!</line>
@@ -1016,7 +1016,7 @@
 <line speaker="Payne">What's he talking about now!?</line>
 <line speaker="Apollo">It was Mr. Smith, the victim who was hit... not you!</line>
 <line speaker="Olga">Uh... Uhmmm...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">This is a cross-examination, not a cross-wild-conjecture! Th-The witness's... "habits"!? They're completely irrelevant!</line>
 <line speaker="Kristoph">Justice... I'll admit, I'm a bit confused myself. This is certainly a... unique cross-examination.</line>
 <line speaker="Apollo">I'll explain later! Just, trust me. Now's our only chance to break her! Ms. Orly! Please testify, in detail, about the moment of the crime. The very moment!</line>
@@ -1027,7 +1027,7 @@
 <line speaker="Judge">The witness will testify, please. Now.</line>
 <line speaker="Olga">Bah. Fine!</line>
 <line speaker="Apollo"><thought>Nah... I'm just seeing things.</thought> Sorry, it's nothing. Please continue the testimony. <thought>What was that? A dizzy spell? I gotta relax...</thought></line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You're hiding something, and that habit of yours proves it!</line>
 <line speaker="Olga">Hah! Ludicrous! I'm not h-hiding anything!</line>
 <line speaker="Apollo">You touched your neck again.</line>
@@ -1035,13 +1035,13 @@
 <line speaker="Apollo">It's no use trying to hide it. I can see right through you.</line>
 <line speaker="Olga">...</line>
 <line speaker="Olga">It wasn't me who hit Smith! It was that no-good, cheating defendant!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Let me ask, how's your eyesight?</line>
 <line speaker="Olga">Just who do you think you're talking to? They don't call me "Quick-Fingers" for nothing. I'm a pro. Which means my dealing's pro, and my eyesight... is pro!</line>
 <line speaker="Payne">Honestly, she'd have to be blind as a bat to miss something in that small room.</line>
 <line speaker="Apollo"><thought>Yeah, but Mr. Wright didn't have a motive to hit the victim! Hmm...</thought></line>
 <line speaker="Olga">He's the one who did it! I didn't let him out of my sight until the cops got there!</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You seem... uneasy.</line>
 <line speaker="Olga">You try sitting up here!</line>
 <line speaker="Apollo"><thought>Her eyes are darting all over the place... I must be getting warm!</thought> Tell me... After the crime, what was the defendant like?</line>
@@ -1054,15 +1054,15 @@
 <line speaker="Payne">Wh-What's that!?</line>
 <line speaker="Judge">Well... Show us this evidence, Mr. Justice! This evidence that you claim contradicts the testimony!</line>
 <line speaker="Apollo"><thought>She didn't let him out of her sight until the cops got there... I know there's some evidence that contradicts that!</thought></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">This, Your Honor, is the evidence that contradicts her testimony!</line>
 <line speaker="Judge">... Well, Mr. Payne?</line>
 <line speaker="Payne">Tsk. Who would have thought that Justice could be so wrong! He's the guilty one!</line>
 <line speaker="Apollo"><thought>Gah! Me!?</thought></line>
 <line speaker="Judge">...Mr. Justice. You might want to think about your future before doing that again.</line>
 <line speaker="Apollo"><thought>Ouch. That one hurt...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo"><thought>Different personality... but the same testimony.</thought></line>
 <line speaker="Kristoph">I believe you have her where you want her, Justice. The circumstances have changed yet her testimony has not. That means...</line>
 <line speaker="Apollo">There's got to be a contradiction in there!</line>
@@ -1098,7 +1098,7 @@
 <line speaker="Phoenix">Why not consider the other possibility? ...That there was another person in the room at the time of the murder?</line>
 <line speaker="Apollo"><thought>Right, like Mr. Wright was saying before recess!</thought></line>
 <line speaker="Phoenix">A single card was swapped into the victim's hand after the murder. And the one who swapped the card didn't know two colors of cards were being used. ...A fourth person.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Hah, this theory again! Your "fourth person" doesn't exist!</line>
 <line speaker="Phoenix">Indeed. That's why I decided to bring this case to court. Here, where there's no escape, and no chance for deception... The perfect place to catch the real criminal.</line>
 <line speaker="Judge">The r-real criminal?</line>
@@ -1115,10 +1115,10 @@
 <line speaker="Judge">Who is this fourth person!?</line>
 <line speaker="Apollo"><thought>Why do I always get put on the spot like this!?</thought></line>
 <line speaker="Phoenix">Let's hear what the defense has to say. Who was it? Who thought the cards used in the final game were blue?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">... As I expected. Your eyes and ears are as sharp as your hair.</line>
 <line speaker="Apollo">I-I was right?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">... Apollo, do you seriously think that?</line>
 <line speaker="Judge">I think I'm seriously confused.</line>
 <line speaker="Apollo">I... I'm seriously sorry. <thought>*gulp* That didn't go well.</thought></line>
@@ -1140,7 +1140,7 @@
 <line speaker="Judge">Mr. Gavin! I-Is something the matter?</line>
 <line speaker="Kristoph">Hmm? N-No, nothing. Excuse me, it was just so... sudden. Wright. You aren't seriously accusing me... are you?</line>
 <line speaker="Phoenix">Oh, Kristoph? You know even I'd never take a joke this far.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">This has gone beyond ridiculous, beyond dumb... This is insanity! The defendant accusing his own defense attorney of murder?</line>
 <line speaker="Phoenix">I assure you, I'm quite sane.</line>
 <line speaker="Payne">But what possible connection could Mr. Gavin have to the victim!?</line>
@@ -1151,7 +1151,7 @@
 <line speaker="Phoenix">There is a possibility, after all. They may have met that night, before the game started.</line>
 <line speaker="Judge">What are you suggesting!?</line>
 <line speaker="Apollo"><thought>Is this the truth Mr. Wright was staying silent about!? Well, only one thing to do!</thought> Mr. Wright! The defense would like to request that you testify to the court!</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">The defense would like to request no such thing.</line>
 <line speaker="Apollo">Mr. Gavin...?</line>
 <line speaker="Kristoph">Testimonies must relate to the case. How could anything happening before that game of poker be related?</line>
@@ -1189,7 +1189,7 @@
 <line speaker="Kristoph">He's lying, and you're going to expose him.</line>
 <line speaker="Apollo">Uh... Understood, sir. <thought>Mr. Gavin vs. Mr. Wright... This can't end well. Why can't I have a normal trial!?</thought></line>
 <line speaker="Phoenix">That evening, Kristoph and I had dinner. We sat at the table in the photograph.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You had dinner with Mr. Gavin?</line>
 <line speaker="Phoenix">Yes, he dines with me at the Borscht Bowl Club quite frequently. We were enjoying a usual dinner at our usual spot... as usual.</line>
 <line speaker="Apollo">"Usual"...?</line>
@@ -1198,10 +1198,10 @@
 <line speaker="Payne">So, the plates and such on the table were from your dinner?</line>
 <line speaker="Phoenix">...Indeed. The remnants of my meal with Kristoph. We dined for two hours, then Kristoph left. After that...</line>
 <line speaker="Phoenix">Shadi Smith walked in five minutes after Kristoph left.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Five minutes? So, the two of them could have passed in the restaurant during that time?</line>
 <line speaker="Phoenix">That would have been a "fateful encounter" to be sure.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Hee hee hee... Oh, Mr. Wright... What was it you said? Kristoph Gavin and Shadi Smith "may have met"...?</line>
 <line speaker="Phoenix">I believe I did say that.</line>
 <line speaker="Payne">Here I was all nervous about this "meeting"...And now we hear they just passed in the hall?</line>
@@ -1209,7 +1209,7 @@
 <line speaker="Phoenix">Oh it would be. If that was all that really happened.</line>
 <line speaker="Apollo"><thought>C'mon, Mr. Wright... What are you hiding this time!?</thought></line>
 <line speaker="Phoenix">When the "trap" failed, Smith hit the waitress.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">About this failed "trap"... This is the same "trap" that Ms. Olga Orly mentioned?</line>
 <line speaker="Olga">The plan was simple. Elegant, really. You see, we set up a trap of sorts... I was to plant a card in Wright's pocket beforehand... ...and then deal five aces during one of their games. When their hands were revealed, Smith would call him out and search Wright. He would then pull out the planted card and the trap would snap shut!</line>
 <line speaker="Olga">Just like that, the legend would be dashed to pieces.</line>
@@ -1227,13 +1227,13 @@
 <line speaker="Apollo"><thought>A card inside the murder weapon? That's strange... Did the police miss it in their investigation? Maybe I'll take a look...</thought></line>
 <line speaker="Judge">Mr. Wright! The "Poker Head of Courtroom No. 3" approves of this battle of wits! Please revise your testimony with this new information.</line>
 <line speaker="Phoenix">I discovered the "trap" during the game, and disposed of the card in the bottle.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Why in the bottle?</line>
 <line speaker="Phoenix">I perceived my opponent's intent immediately. I'm used to entrapment, you see. I knew what was coming.</line>
 <line speaker="Judge">Hoh hoh... So you struck first! I like that.</line>
 <line speaker="Phoenix">I know every trick in the book. They don't work on me.</line>
 <line speaker="Apollo"><thought>At least, when you get lucky and stick your hand in your pocket they don't.</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Um, Mr. Wright, if I may?</line>
 <line speaker="Phoenix">Yes?</line>
 <line speaker="Apollo">I've examined the bottle, and I don't see any card in here.</line>
@@ -1250,7 +1250,7 @@
 <line speaker="Apollo">Oh.</line>
 <line speaker="Kristoph">Push him harder, Justice. Break him! It's just you and the witness in the ring. Go for the KO!</line>
 <line speaker="Apollo"><thought>Ugh. Why do I get the feeling we're not on our client's side anymore?</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Um, Mr. Wright, if I may?</line>
 <line speaker="Phoenix">Yes?</line>
 <line speaker="Apollo">I've examined the bottle, and I don't see any card in here.</line>
@@ -1264,19 +1264,19 @@
 <line speaker="Payne">I won't have you disparaging our investigation, either! We looked inside that bottle. There was nothing!</line>
 <line speaker="Apollo"><thought>...So what's going on? Is Mr. Wright hoodwinking us again? Or did the card just... disappear?</thought></line>
 <line speaker="Phoenix">The girl was knocked out cold, and Smith was uncontrollable. I left to call the police.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">You made the call to the police from the first floor of the restaurant, correct?</line>
 <line speaker="Phoenix">Exactly. Cell phones don't get a signal down in the Hydeout.</line>
 <line speaker="Apollo">Was anyone else on the first floor at that time?</line>
 <line speaker="Phoenix">Not a soul. It was the middle of the night, after all. So there, in the darkened restaurant, I called the cops. After making the call, I returned to the Hydeout. It didn't seem right to leave the injured waitress alone.</line>
 <line speaker="Phoenix">When I returned, he was dead, blood streaming from a cut on his forehead.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">And when you returned, the victim was already...</line>
 <line speaker="Phoenix">Dead, yes. I'll admit, I was a little startled when I walked in.</line>
 <line speaker="Judge">A... "little"?</line>
 <line speaker="Phoenix">He was bleeding from his forehead, after all.</line>
 <line speaker="Apollo"><thought>I guess I'd be startled, too, if I walked in on a scene like that.</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Mr. Wright, if I may.</line>
 <line speaker="Phoenix">Yes?</line>
 <line speaker="Apollo">Take a look at this photograph of the crime scene. See the victim here? He's wearing a hat. ...I wouldn't think you could see blood on his forehead.</line>
@@ -1303,7 +1303,7 @@
 <line speaker="Apollo">Oh.</line>
 <line speaker="Kristoph">Push him harder, Justice. Break him! It's just you and the witness in the ring. Go for the KO!</line>
 <line speaker="Apollo"><thought>Ugh. Why do I get the feeling we're not on our client's side anymore?</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Mr. Wright, if I may.</line>
 <line speaker="Phoenix">Yes?</line>
 <line speaker="Apollo">Take a look at this photograph of the crime scene. See the victim here? He's wearing a hat. ...I wouldn't think you could see blood on his forehead.</line>
@@ -1327,7 +1327,7 @@
 <line speaker="Judge">Hmm...</line>
 <line speaker="Apollo"><thought>H-Hey, he's still our client! ...Isn't he?</thought></line>
 <line speaker="Phoenix">That's when I made another phone call... To Defense Attorney Gavin.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Could you explain why you called Mr. Gavin...?</line>
 <line speaker="Phoenix">I'd obviously gotten involved in a rather... sticky affair. And I figured Kristoph's law offices would give me a friend rate for my defense fees...</line>
 <line speaker="Kristoph">Ah, glad to hear you intend to pay.</line>
@@ -1404,7 +1404,7 @@
 <line speaker="Judge">First, there's one thing we need to have made clear. How did you know about the "secret" beneath the victim's hat?</line>
 <line speaker="Apollo"><thought>By "secret", I'm guessing he means the fact that Mr. Smith was bald.</thought></line>
 <line speaker="Kristoph">Forgive my curiosity, but what is it about this fellow's head? Your Honor seems to have an inordinate interest in it.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I wouldn't call it inordinate, Mr. Gavin.</line>
 <line speaker="Apollo">M-Mr. Wright!</line>
 <line speaker="Kristoph">What do you think you're doing, Wright?</line>
@@ -1436,7 +1436,7 @@
 <line speaker="Judge">Mr. Wright, the defense should do the cross-examination, not the defendant! Mr. Justice, are you prepared?</line>
 <line speaker="Apollo">Yes, Your Honor... <thought>I can't believe I'm going up against Mr. Gavin... This trial is getting weirder and weirder!</thought></line>
 <line speaker="Kristoph">The rage I sensed in that man that night troubled me... So I returned to the club.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">"That man"... You mean Mr. Smith?</line>
 <line speaker="Kristoph">He was different from the other customers... His aura, shall we say. I knew he was a serious poker player... but it was more than that.</line>
 <line speaker="Payne">So then, you knew the true nature of your client's job!?</line>
@@ -1445,7 +1445,7 @@
 <line speaker="Kristoph">Worried for my friend, I returned to the club. You see, I feared this Mr. Smith might be someone coming to settle an old score.</line>
 <line speaker="Judge">I see. What happened then?</line>
 <line speaker="Kristoph">I went down to the basement and peeked in through the little window to the Hydeout.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">The little window... You mean the one used to keep watch up the stairs?</line>
 <line speaker="Kristoph">Yes, a relic of the ancient past. The black marketeers used it, I believe.</line>
 <line speaker="Apollo">Why did you go through the trouble of peeking in through the window? Wouldn't it have been easier to just open the door and go into the room?</line>
@@ -1454,7 +1454,7 @@
 <line speaker="Kristoph">Yes. What if my fears had been unfounded? I'd be walking in on their match! Bad form, to say the least.</line>
 <line speaker="Apollo"><thought>Hmm... So far, everything he's saying makes sense.</thought></line>
 <line speaker="Kristoph">It must have been right after the murder took place.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">How do you know it was "right after" the murder!?</line>
 <line speaker="Kristoph">Really, no need to shout, Justice.</line>
 <line speaker="Apollo">Urk...</line>
@@ -1463,19 +1463,19 @@
 <line speaker="Kristoph">I was afraid you'd changed, too, Wright, but you haven't. You and that overbearing personality of yours...</line>
 <line speaker="Apollo"><thought>With friends like these, who needs enemies...</thought></line>
 <line speaker="Kristoph">The victim was dead, as he appears in the photo.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">By "photo" you mean the second photograph of the crime scene?</line>
 <line speaker="Kristoph">Precisely. You see, he wasn't wearing his hat then. I saw his head... when he was dead.</line>
 <line speaker="Apollo"><thought>And then Mr. Wright came along and replaced his hat.</thought></line>
 <line speaker="Payne">Can you describe the scene of the crime for us?</line>
 <line speaker="Kristoph">A bald head, an unconscious girl... and Wright, holding a bottle in his hand.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Those were the only three at the scene of the crime?</line>
 <line speaker="Kristoph">Yes... As far as I saw, at least.</line>
 <line speaker="Payne">...Then we're back where we started. The killer was the defendant, Phoenix Wright! Who else could it have been? But... why didn't you talk to the police?</line>
 <line speaker="Kristoph">Two reasons. First, I didn't actually witness the very moment of the crime... Second... My office was asked to defend Wright. Even after seeing what I had seen... I couldn't abandon my friend.</line>
 <line speaker="Judge">Hmm...</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">There must have been someone else there at the moment of the crime!</line>
 <line speaker="Kristoph">Justice... I just said I saw no one. Not a soul.</line>
 <line speaker="Apollo">B-But, that goes against what Mr. Wright said!</line>
@@ -1491,8 +1491,8 @@
 <line speaker="Apollo"><thought>...It's now or never!</thought> The defense would like to present evidence to the  court... Evidence showing the reason why a card was swapped out!</line>
 <line speaker="Kristoph">...</line>
 <line speaker="Judge">Then go ahead and point out your reason, Mr. Justice. Why did the killer take the fifth ace!?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The reason is made clear by... this piece of evidence!</line>
 <line speaker="Judge">...I'm not sure how that piece of evidence makes anything clear, Mr. Justice.</line>
 <line speaker="Kristoph">I see now it was wrong of me to field you in a trial so soon, Justice. Wild bluffing, and even wilder accusations... You're almost as bad as another defense attorney I know...</line>
@@ -1512,13 +1512,13 @@
 <line speaker="Apollo">I... already know the answer?</line>
 <line speaker="Phoenix">Take a moment to think it over again... OK?</line>
 <line speaker="Kristoph">I sensed that was not the best place for me to be at the time and so I left.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Wouldn't it have been better to wait for the police to arrive?</line>
 <line speaker="Kristoph">Remember though. By that time, I was already Wright's defense attorney. It wouldn't do for me to become part of the investigation.</line>
 <line speaker="Apollo"><thought>That makes sense... or does it? ...I'm confused.</thought></line>
 <line speaker="Payne">Well, what happened next?</line>
 <line speaker="Kristoph">That's when the call came from Wright.</line>
-<line speaker="Apollo"><cutIn>Hold it!</cutIn></line>
+<line speaker="Apollo"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Apollo">Where were you when the phone call came?</line>
 <line speaker="Kristoph">I had already left the Borscht Bowl Club by that time. On the phone he asked me to defend him. Naturally, I was surprised. I accepted, however. I couldn't abandon him.</line>
 <line speaker="Phoenix">So kind of you.</line>
@@ -1534,7 +1534,7 @@
 <line speaker="Kristoph">In-Inconceivable! How could you... What are you doing with that card!?</line>
 <line speaker="Apollo">Um, well, that's the thing... <thought>Why's Mr. Gavin so upset? It's just a fishy card from some fishy girl...</thought></line>
 <line speaker="Phoenix">Oh, that card? It's mine. That is, I picked it up at the Borscht Bowl Club that night after the murder had occurred. I gave it to my daughter. Cards are her stock and trade, after all.</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">N... No! Impossible! Unacceptable! The court can't accept this evidence! It's a fraud!</line>
 <line speaker="Phoenix">A fraud? How can you be so sure?</line>
 <line speaker="Kristoph">Wh-What...?</line>
@@ -1547,16 +1547,16 @@
 <line speaker="Phoenix">Take another look at the photo... and at the victim's head. At the moment of the crime, his hat fell to the floor... ...and a trickle of blood ran from his forehead down the back of his head. Couldn't a drop of that blood have fallen on one of the cards?</line>
 <line speaker="Apollo">I suppose...</line>
 <line speaker="Phoenix">The killer then took the card to hide the blood.</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">R-Regardless! That evidence is non-permissible!</line>
 <line speaker="Phoenix">Oh?</line>
 <line speaker="Kristoph">Wright! Regardless of how you wasted the last seven years, you used to be a lawyer! You know what a serious crime it is to conceal evidence!</line>
 <line speaker="Phoenix">Oh, we can discuss the finer points of our legal system later... What's important now is that I've answered your question.</line>
 <line speaker="Kristoph">Wh-What are you talking about?</line>
 <line speaker="Phoenix">You wanted to know why the killer would have taken a card from the crime scene. And now, I've told you. That one drop of blood would have been decisive evidence, you see.</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">Th-This is... baseless conjecture! Baseless!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Oh, I assure you it's quite based.</line>
 <line speaker="Kristoph">Wh-What!?</line>
 <line speaker="Phoenix">It's amazing, really. How a single drop of blood on a single card can lead us... to the truth. It's quite simple. Well, Apollo?</line>
@@ -1564,13 +1564,13 @@
 <line speaker="Phoenix">Try picturing the scene of the crime in your head. The murder took place in the Hydeout... The body of the luckless victim was found at the poker table. And, before the killer swapped a card out... ...there was a single card with a drop of blood on it in the victim's hand. Given this... ...there is one, decisive problem with this scene.</line>
 <line speaker="Judge">Well, what is it!?</line>
 <line speaker="Phoenix">Let's keep it simple, shall we? Given that there was a drop of blood on a card... ...whose position in this diagram doesn't fit? The victim's? The killer's? The witness's? The second witness's? Whose position doesn't fit with the bloody card?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">Well, for one thing, the killer's in the wrong place. I think.</line>
 <line speaker="Judge">You "think"...? Mr. Justice, your job here is not to think, but to know.</line>
 <line speaker="Phoenix">Ah, just looking at you reminds me of the old days. Not the good old days, per se.</line>
 <line speaker="Judge">How does a good old penalty sound? Let's try that one more time. And, Mr. Justice, think before you sink.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The witness's location is clearly at odds with... something!</line>
 <line speaker="Judge">By witness, you mean Ms. Olga Orly, correct?</line>
 <line speaker="Apollo">That's right. When it comes to cards, it's "Quick-Fingers" Orly or no one!</line>
@@ -1581,7 +1581,7 @@
 <line speaker="Judge">Potential for a whopping penalty, yes!</line>
 <line speaker="Apollo">Your Honor! Please, give me another chance!</line>
 <line speaker="Judge">*sigh* Very well. Give it some thought, this time.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The second witness's position is the problem!</line>
 <line speaker="Judge">The second witness... That would be Mr. Gavin, yes?</line>
 <line speaker="Kristoph">The second witness's position is far less problematic than yours right now, Justice. Or perhaps "perilous" is a better word.</line>
@@ -1589,7 +1589,7 @@
 <line speaker="Judge">I cannot see what the blood-stained card has to do with the second witness's location. I'm afraid you're more than in peril of a penalty this time.</line>
 <line speaker="Apollo">Your Honor! One more chance! Please!</line>
 <line speaker="Judge">I suppose. Do think it over, Mr. Justice.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The problem with this picture is... here!</line>
 <line speaker="Judge">...Um, what exactly is  supposed to be "here"?</line>
 <line speaker="Apollo">... Er, ack! My h-hand must have slipped. Sweaty, you know.</line>
@@ -1615,8 +1615,8 @@
 <line speaker="Phoenix">Let's take the next step. Look at the diagram once more. We know now the victim was facing away from the table at the time of the murder. But... this creates another significant contradiction.</line>
 <line speaker="Payne">A-Again!?</line>
 <line speaker="Phoenix">Let's test your reasoning skills again, shall we? Apollo, whose location on this diagram contradicts our new understanding of the crime? The victim's? The killer's? The witness's? The second witness's? Whose location creates a contradiction if the victim was facing away?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">Well, the contradicting position here is the victim's!</line>
 <line speaker="Judge">Again? How many contradictions can one man have!?</line>
 <line speaker="Phoenix">Though you're certainly giving him a run for his money.</line>
@@ -1624,21 +1624,21 @@
 <line speaker="Judge">The defense will refrain from contradicting itself out of a case.</line>
 <line speaker="Phoenix">Oh, give him another chance, Your Honor. As you can see... ...he quite clearly regrets his mistakes.</line>
 <line speaker="Judge">... I'm not sure I see that, but, very well. One more time, please.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The contradicting point is the location of the witness!</line>
 <line speaker="Judge">Exactly what does the witness's location contradict?</line>
 <line speaker="Apollo">That is unclear, even to me!</line>
 <line speaker="Judge">... Generally, one does not announce one's own ignorance with such... aplomb.</line>
 <line speaker="Apollo"><thought>I have to take pride in something...</thought></line>
 <line speaker="Judge">Perhaps you would be kind enough to try again?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">What doesn't make sense... is the second witness!</line>
 <line speaker="Kristoph">You mean to say I don't make sense?</line>
 <line speaker="Apollo">Oh! Um, no, of course you do, er, sir.</line>
 <line speaker="Kristoph">As I thought.</line>
 <line speaker="Apollo"><thought>Help...!</thought></line>
 <line speaker="Judge">Mr. Justice, I'm a little hard of hearing... Did you just say something? Would you be kind enough to show the court one more time what you mean?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The problem with this picture is... Here!</line>
 <line speaker="Judge">...Um, what exactly is supposed to be "here"?</line>
 <line speaker="Apollo">... Ack! Darn sweaty hands! My finger must've slipped!</line>
@@ -1649,15 +1649,15 @@
 <line speaker="Phoenix">Indeed.</line>
 <line speaker="Apollo">Well, wouldn't it be hard for the killer to hit him from the front? Sitting where his indicator currently is?</line>
 <line speaker="Phoenix">I would think it'd be quite hard, yes.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Yes, but what you're saying makes no sense! Why would the victim suddenly turn to face the wall... in the middle of a game!</line>
 <line speaker="Phoenix">I believe a sufficient reason will soon come to light.</line>
 <line speaker="Payne">Wh-What!?</line>
 <line speaker="Phoenix">There's something in this diagram that makes far less sense, actually. Look again at the diagram. Apollo, if the victim was struck while he was sitting as shown here... ...where would his assailant be standing? Try marking it on the diagram.</line>
 <line speaker="Apollo">Wha--!? B-But...! <thought>There's no room to put a mark where the killer should be!</thought></line>
 <line speaker="Phoenix">Don't worry... Let's think it through and see what we find. We know the victim was facing toward the wall at the time of the crime. That's the only thing we know for sure. Try to forget about everything else... Where would the killer have to be standing to strike our victim from the front?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">Well, I guess the killer would have to be, uh... Here?</line>
 <line speaker="Judge">...</line>
 <line speaker="Payne">...</line>
@@ -1668,7 +1668,7 @@
 <line speaker="Apollo"><thought>C'mon, give me a little hint!</thought></line>
 <line speaker="Phoenix">Try not to overthink things, Apollo. What does your instinct tell you?</line>
 <line speaker="Apollo">The killer had to be standing, well... uh... Here!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">You get points for flair, but that's about all you get.</line>
 <line speaker="Apollo">Ack... <thought>I thought I was on to something there, too!</thought></line>
 <line speaker="Payne">I hardly need to point out that standing there would be impossible. The victim is facing a solid cupboard! Or are you claiming the killer climbed the cupboard and hit him from above? Hah!</line>
@@ -1689,28 +1689,28 @@
 <line speaker="Apollo"><thought>Huh? Oh dang!</thought></line>
 <line speaker="Phoenix">Notice something, Apollo? Our line of deduction is rapidly approaching its logical conclusion.</line>
 <line speaker="Judge">Now then. Mr. Justice, please point to the new contradicting indicator! Is it the victim? The killer? The witness? The second witness? Which indicator in this diagram contradicts what we know about the crime?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The indicator in question is... the victim's!</line>
 <line speaker="Judge">I... see no particular problem with the victim's location.</line>
 <line speaker="Apollo">Ah, good. That's good to know.</line>
 <line speaker="Judge">No, it's not! Penalty!</line>
 <line speaker="Judge">Once more, if you would. Correctly, this time.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">The indicator that doesn't make sense here is the killer!</line>
 <line speaker="Judge">Oh really!?</line>
 <line speaker="Apollo">Y-Yeah really! Well, maybe really...</line>
 <line speaker="Judge">It would behoove the defense to be really sure before wasting our valuable time! Penalty!</line>
 <line speaker="Apollo"><thought>Maybe if I just came clean and admitted that I'm totally lost he'd go easy on me...</thought></line>
 <line speaker="Judge">Mr. Justice! The court will have your answer one more time! And for the love of all that is right and good, please think before you point.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">What doesn't make sense is the witness!</line>
 <line speaker="Judge">Ms. Olga Orly? Wasn't she unconscious at the time?</line>
 <line speaker="Apollo">... Erm, yes, I suppose she was.</line>
 <line speaker="Judge">I fail to see how an unconscious witness could contradict anything. Yet this conscious judge can penalize you, and he just did.</line>
 <line speaker="Apollo">Your Honor! One more chance, please!</line>
 <line speaker="Judge">I suppose. Do give it some thought this time.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">This indicator has to be wrong!</line>
 <line speaker="Judge">Which indicator is that? I'm not sure I see anything there.</line>
 <line speaker="Apollo">... Um... Look closer?</line>
@@ -1757,14 +1757,14 @@
 <line speaker="Judge">The prosecution will continue its investigation! As for Mr. Phoenix Wright, the defendant, he is hereby cleared of all suspicion.</line>
 <line speaker="Payne">Gwwaaaarrk!?</line>
 <line speaker="Judge">Believe me when I say that I don't believe this is happening, Mr. Gavin. But, I'm afraid circumstances call for me to issue a warrant for your arrest. Immediately.</line>
-<line speaker="Kristoph"><cutIn>Objection!</cutIn></line>
+<line speaker="Kristoph"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kristoph">Oh, no need to apologize. I rather enjoyed myself. It's not every day you get to witness a legendary attorney's dirty tactics first hand...</line>
 <line speaker="Phoenix">Your point, Mr. Gavin?</line>
 <line speaker="Kristoph">Frankly, Your Honor, I'm shocked. That a person of your caliber would be taken in by such a low-grade parlor trick...</line>
 <line speaker="Judge">Erm... Excuse me?</line>
 <line speaker="Kristoph">The defendant is "cleared of all suspicion"...? This is hardly the time for jokes, Your Honor. Mr. Wright hasn't proven anyone's guilt or innocence here. What he has done is use illegal evidence to put the blame on someone else! And not just anyone else, but me, his own defense attorney!</line>
 <line speaker="Judge">I-Illegal evidence?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Let me ask you, Mr. Gavin... Is there still any reason, at present, to suspect me of wrongdoing?</line>
 <line speaker="Kristoph">...Of course. This bottle, for instance.</line>
 <line speaker="Apollo">The bottle of grape juice Mr. Wright was drinking...</line>
@@ -1784,8 +1784,8 @@
 <line speaker="Judge">It... would be hasty to deliver a verdict with unanswered questions, indeed. Well, Mr. Justice?</line>
 <line speaker="Apollo"><thought>Mr. Gavin said that the court, and this case, demand an explanation... Don't worry. Justice won't leave until justice is done.</thought></line>
 <line speaker="Judge">Perhaps the defense would care to enlighten the court? What evidence do you have to explain why the fingerprints on the bottle are upside-down?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Payne">...</line>
 <line speaker="Kristoph">...</line>
@@ -1809,7 +1809,7 @@
 <line speaker="Kristoph">You claim that I switched the bottle? Where is your proof?</line>
 <line speaker="Apollo">P-Proof!? Well, that's, uh...</line>
 <line speaker="Kristoph">As I thought. More baseless conjecture. I'm afraid your "bottle" of proof is quite empty...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I wouldn't be so sure about that.</line>
 <line speaker="Kristoph">...!</line>
 <line speaker="Phoenix">...Your Honor. When you initiated the investigation of the Hydeout earlier... ...do you recall I requested an additional investigation?</line>
@@ -1904,10 +1904,10 @@
 <line speaker="Apollo">Forged evidence!? Wh-What are you talking about!?</line>
 <line speaker="Phoenix">I'm talking about evidence that shouldn't have existed. A naughty magician's trick...</line>
 <line speaker="Apollo"><thought>Hmm... One piece of evidence struck me as odd, it's true. It just seemed, well, too perfect. I'll bet this was the forged evidence.</thought></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Apollo">You mean this, don't you? I got this from your, erm, your daughter, Mr. Wright.</line>
 <line speaker="Phoenix">Yes... That card couldn't have been found at the crime scene.</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">... Or maybe you didn't notice.</line>
 <line speaker="Apollo"><thought>Hmm, guess that wasn't it.</thought></line>
 <line speaker="Phoenix">No matter, I'll tell you. It was this.</line>
@@ -1929,21 +1929,21 @@
 <line speaker="Apollo"><thought>I... I punched him...</thought></line>
 <line speaker="Phoenix">... ...It's your story from here on out, Apollo. Perhaps I can help you turn the next page... My office's address. Drop in, if you like.</line>
 <line speaker="Apollo">Mr. Wright...</line>
-<line speaker="Phoenix">Oh, about your uppercut... Try yelling, "<cutIn>Take that!</cutIn>" next time. I find it packs a little more punch. And Apollo, thanks for today. I had a good time.</line>
+<line speaker="Phoenix">Oh, about your uppercut... Try yelling, "<cutIn type="takeThat">Take that!</cutIn>>" next time. I find it packs a little more punch. And Apollo, thanks for today. I had a good time.</line>
 <line speaker="Apollo">And with that, Mr. Wright walked out the door. ...And that's how my first trial ended. A lot of mysteries went unsolved... And, at the time, I had no idea they were all related. Every mystery that day... ...connected by a single thread of logic... I'd find that out soon enough. My name is Apollo Justice, attorney at law. And this is how my story begins...</line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Apollo">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">...You don't sound very sure, Mr. Justice. Objection overruled.</line>
 <line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">This evidence clearly reveals a contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Apollo">They aren't, are they...?</line>
 <line speaker="Judge">Not at all. Mr. Justice, please think the facts over before making accusations.</line>
 <line speaker="Apollo"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Apollo"><cutIn>Objection!</cutIn></line>
+<line speaker="Apollo"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Apollo">Your Honor! That statement contradicts the evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Apollo">...Um... You sure about that?</line>

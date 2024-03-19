@@ -1,6 +1,6 @@
 
-<line>Turnabout Academy</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Academy</title>
 <line speaker="Apollo">Were you able to sleep last night?</line>
 <line speaker="Athena">Huh?! ...Oh, sleep! Sure, I slept! <thought>For a grand total of zero hours.</thought></line>
 <line speaker="Klavier">Guten Morgen, you two. You look like you're ready to put on a real show. But before you do, I have a good luck gift for you. The voiceprint analysis came back, and the results couldn't be more clear. The voice in the mock trial video and the tape recording are one and the same.</line>
@@ -829,7 +829,6 @@
 <line speaker="Athena">Grrrrrrr! <thought>But the art room is only a few steps away!</thought></line>
 <line speaker="Apollo">What's the plan? All I can think of is pressing him like crazy.</line>
 <line speaker="Athena">That's all I can think of, too. We'll just have to seek out a hole to exploit!</line>
-<line speaker="After pressing all statements">Athena:</line>
 <line speaker="Means">Hm? I couldn't hear you. Say it louder this time.</line>
 <line speaker="Athena">Ugh... I concede that Prof. Means never left the stage.</line>
 <line speaker="Means">Gah hah hah hah hah hah! That's right! But what took you so long?! I was there at the stage the entire time! I couldn't possibly have committed that crime!</line>
@@ -1013,7 +1012,7 @@
 <line speaker="Athena"><thought>The marks on her wristed [sic] indicated she'd been tied up!</thought> Apollo, tie me up in a new pose! ...Wait, you're not into this kind of thing, are you?</line>
 <line speaker="Apollo">What? No! Besides, it was your idea! ...Just tell me how to tie your hands, already!</line>
 <line speaker="Athena">Prof. Courte's wrists were tied together, and I can't help but think that's related! <thought>How should I arrange myself to match the shape I want, given her hands were tied?</thought></line>
-<line speaker="Athena">Tie both of my hands in an "<cutIn>Objection!</cutIn>" pose!</line>
+<line speaker="Athena">Tie both of my hands in an "<cutIn type="objection">Objection!</cutIn>" pose!</line>
 <line speaker="Apollo">You sure? What about the spiky hair on the back of the head?</line>
 <line speaker="Athena">Ooh, I know! The boss is right there! Go pull some out and you can glue it on!</line>
 <line speaker="Apollo">Okay, I'm on it!</line>
@@ -1140,7 +1139,7 @@
 <line speaker="Woods">Tee hee hee. I think you and Robin are getting a little carried away.</line>
 <line speaker="Newman">Aaaaaah! Your singing voice, Juniper! It could melt my H-E-A-R-T!</line>
 <line speaker="O'Conner">...Mr. Wright. Thank you for that training seminar.</line>
-<line speaker="Phoenix">Ah ha ha. Just remember, the "<cutIn>Objection!</cutIn>" pose is all about attitude. Oh, and congrats on your mock trial win. Although, Robin had you for a while there.</line>
+<line speaker="Phoenix">Ah ha ha. Just remember, the "<cutIn type="objection">Objection!</cutIn>" pose is all about attitude. Oh, and congrats on your mock trial win. Although, Robin had you for a while there.</line>
 <line speaker="Newman">I did, didn't I! But I'm just glad we're back to how we used to be, thanks to Athena. And you know what? I think I'll stick with become a prosecutor after all. I'm going to make up for my mock trial loss by winning the real deals in court!</line>
 <line speaker="Athena"><thought>Mock trial loss? What loss? Wait. Did they reprise the trial and Hugh won?!</thought></line>
 <line speaker="Athena">"Level-headed lawyer course genius and hot-blooded prosecutor course student... ...will go head to head in a mock trial battle for the she-devil's black heart!"</line>

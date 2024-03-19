@@ -1,6 +1,6 @@
 
-<line>Turnabout Revolution</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Revolution</title>
 <line speaker="Apollo">What do you mean Ms. Fey is still being held hostage? And who's this "mastermind"?</line>
 <line speaker="Phoenix">...Paul Atishon-Wimperson was nothing more than a puppet. His benefactor was the one pulling the strings. But I have no idea who they are.</line>
 <line speaker="Apollo">So all we know is it's the person he was trying to give the orb to?</line>
@@ -609,13 +609,11 @@
 <line speaker="Apollo">Oh, um... Actually, I was wondering if you see anything strange about this.</line>
 <line speaker="Ema">...Oh. ....................................</line>
 <line speaker="Apollo"><thought>Why isn't she saying anything?</thought></line>
-<line speaker="After clearing all talk options">Athena:</line>
 <line speaker="Apollo">Ema, do you mind if we start looking around?</line>
 <line speaker="Ema">Sure, I've already got the okay. Knock yourselves out. Oh, and here. It's a diagram the police drew of the tomb. I thought I'd give you a copy to help your investigation along.</line>
 <line speaker="Apollo">Thank you.</line>
 <line speaker="Ema">Oh, and let me know if you need my forensic expertise. Don't you dare keep all the fun to yourselves, you hear?!</line>
 <line speaker="Apollo">You don't need to worry about that. <thought>Besides, I'd hardly classify this as "fun".</thought></line>
-<line speaker="After clearing all examination options">Apollo:</line>
 <line speaker="Athena">Umm... For starters, we're dealing with a locked-room murder. But instead of the tomb being locked, it was being cordoned off by the royal guard. And after the murder, no one was found to be hiding inside. </line>
 <line speaker="Apollo">Right. In addition... ...we also know that Dhurke's fingerprints are all over the murder weapon. </line>
 <line speaker="Athena">The curtain around the sarcophagus was drenched in the victim's blood on one side. The blood must've also gotten on the killer when they stabbed the minister from behind. </line>
@@ -730,7 +728,6 @@
 <line speaker="Apollo">Come on, throw me a bone here.</line>
 <line speaker="Nahyuta">I think not.</line>
 <line speaker="Apollo">Well, aren't we stingy?</line>
-<line speaker="After clearing all Talk options and presenting Attorney's Badge">Nahyuta:</line>
 <line speaker="Apollo">?</line>
 <line speaker="Nahyuta">...You intend to go through with a trial you have no hope of winning. Grow up, Mr. Justice. We are no longer children, you and I.</line>
 <line speaker="Apollo">I'm not the one who needs to grow up, Nahyuta. In case you didn't hear, I won my last case against none other than Mr. Wright.</line>
@@ -946,7 +943,7 @@
 <line speaker="???">You there.</line>
 <line speaker="Datz">!</line>
 <line speaker="Rayfa">You are one of those insurgents, are you not?</line>
-<line speaker="Datz">Yikes! ...<cutIn>Take that!</cutIn></line>
+<line speaker="Datz">Yikes! ...<cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Rayfa">Eek!</line>
 <line speaker="Phoenix">Aaand he's gone. Those firecrackers are more useful than I thought.</line>
 <line speaker="Rayfa">Barbed Head!</line>
@@ -1134,7 +1131,6 @@
 <line speaker="Phoenix"><thought>But I'm trying to question you, not Nayna.</thought></line>
 <line speaker="Rayfa">Barbed Head. First you make me wait, and now you're simply going to leave?!</line>
 <line speaker="Phoenix"><thought>Guess I should stay put for a while.</thought></line>
-<line speaker="After clearing all Talk options and examining footprints, desk, bust, syringe, and notepad">Phoenix:</line>
 <line speaker="Rayfa">None whatsoever.</line>
 <line speaker="Phoenix"><thought>It looks like a four-digit combo lock, so maybe it's a date. But it's probably not anything that would be easy to guess.</thought> Well, let's try some dates and see what happens. I wonder what date Inga would use as a combination?</line>
 <line speaker="Phoenix">How about the date the Defense Culpability Act was enacted? Do you know when that was, Your Benevolence? </line>
@@ -1506,7 +1502,6 @@
 <line speaker="Apollo">What? Do you know something about this?</line>
 <line speaker="Datz">Nope. Just felt like shouting is all.</line>
 <line speaker="Apollo"><thought>He had me going there for a sec...</thought></line>
-<line speaker="After clearing all Talk options and presenting Amara's Assassination File">Old Man:</line>
 <line speaker="Beh'leeb">Your poor son -- imprisoned for a crime he didn't commit... Let's petition the government for his release and a declaration of innocence!</line>
 <line speaker="Apollo">Hm? Who's that?</line>
 <line speaker="Datz">Hey there, Mrs. Inmee. Hard at work, I see. </line>
@@ -1627,7 +1622,6 @@
 <line speaker="Apollo">No, I was just wondering if you knew anything about it.</line>
 <line speaker="Dhurke">What? You came to visit me and you didn't even bring a present?</line>
 <line speaker="Apollo"><thought>I'll take that as a "no."</thought></line>
-<line speaker="After clearing all Talk options and presenting Pink Butterfly Pendant">Phoenix:</line>
 <line speaker="Apollo">Oh, right. I'll give it a try.</line>
 <line speaker="Apollo">What did the minister mean when he said... ...he had someone dear to you in the palm of his hand? Who was he talking about?</line>
 <line speaker="Dhurke">Hm? </line>
@@ -1844,7 +1838,6 @@
 <line speaker="Apollo">The rebels' "Mark of the Dragon." It symbolizes a person's opposition to the Defense Culpability Act.</line>
 <line speaker="Nahyuta">You seek to argue with me about the legal system? ...If so, you're wasting your breath. Lawyers and prosecutors do not lay down the law; they merely follow it. The laws decreed by our sovereign are absolute. There is no room for debate.</line>
 <line speaker="Apollo">So "let it go, and move on," right? Why is that your only answer to everything?</line>
-<line speaker="After clearing all Talk options">Athena:</line>
 <line speaker="Apollo">Yeah, I picked up on that, too. Looks like Dhurke really won't be the only one who will need my help tomorrow.</line>
 <line speaker="Phoenix">...I think it's about time to pay Queen Ga'ran another visit... ...and ask her about her sister Amara.</line>
 <line speaker="Athena">I didn't know Dhurke was sick. What's wrong with him? I mean, he looked fine to me.</line>
@@ -1937,7 +1930,6 @@
 <line speaker="Apollo">So, I was wondering if...</line>
 <line speaker="Ga'ran">We have no intention of bestowing any information upon you or any other lawyer.</line>
 <line speaker="Apollo"><thought>Guess someone doesn't like to play nice with others.</thought></line>
-<line speaker="After clearing all Talk options">???:</line>
 <line speaker="Apollo">Looks like the princess is back. </line>
 <line speaker="Rayfa">I took a stroll to try to calm myself, but... I still find this situation unacceptable. The people must be informed about Queen Amara!</line>
 <line speaker="Apollo">! <thought>So she DOES know about that!</thought></line>
@@ -1999,7 +1991,6 @@
 <line speaker="Phoenix">Hey! What are those looks for?!</line>
 <line speaker="Phoenix">Just because you don't know something, doesn't mean that I do, Apollo. That's an important lesson for you to learn.</line>
 <line speaker="Apollo"><thought>In other words, this didn't ring any bells.</thought></line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Apollo">Y-Yeah...</line>
 <line speaker="Athena">Beat the charges or die... What kind of crazy, upside-down legal system is this, anyway?!</line>
 <line speaker="Phoenix">...Don't worry. I can't ask someone as young as you to risk your life, Athena. So tomorrow, it'll just be me and Apollo on the courtroom floor. But you can support us by watching from the gallery.</line>

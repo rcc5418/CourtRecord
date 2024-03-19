@@ -1,6 +1,6 @@
 
-<line>The Monstrous Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Monstrous Turnabout</title>
 <line speaker="Athena">Having a yokai testify in court is unprecedented to say the least.</line>
 <line speaker="Apollo">"I am Tenma Taro, the yokai you seek!" How could such a straight-laced man like Mr. Tenma suddenly become a demon?</line>
 <line speaker="Athena">Yeah, it's strange. Even worse, Prosecutor Blackquill is playing along. *sigh* I can't even think straight anymore. I need to go out for a run! See you in a bit!</line>
@@ -245,7 +245,6 @@
 <line speaker="Apollo">Umm... I was hoping you'd take a look at this.</line>
 <line speaker="Tenma">Hrmmm... An offering to me. Quite admirable. But the best thing you could offer me is to win me my freedom! Caw caw-caw-caw!</line>
 <line speaker="Apollo">R-Right, right... I'll do my best!</line>
-<line speaker="After clearing all talk options and presenting Fox and Demon Statue">Apollo:</line>
 <line speaker="Tenma">Why this--! This is that accursed blackmail letter that was sent to Damian.</line>
 <line speaker="Apollo">Apparently, somebody slipped it into the alderman's pocket. We believe someone, probably the killer, stole it from Mayor Tenma's briefcase. You wouldn't happen to know anything about that, would you?</line>
 <line speaker="Tenma">Caw caw-caw-caw! You have questions, do you? Very well, ask away, mortal!</line>
@@ -313,7 +312,6 @@
 <line speaker="Jinxie">Fighting? Oh, I see what you mean! The cup portion is missing. This statue... ...originally depicted the two yokai holding up a cup in celebration. But it sure doesn't look that way now, does it?</line>
 <line speaker="Apollo">Maybe it broke when it was used to hit Mayor Tenma on the head.</line>
 <line speaker="Jinxie">That would explain it. I guess the only two people who knew what it really looked like were the alderman and I. Now it's just me, but its symbol of goodwill will be forever etched in my mind!</line>
-<line speaker="After clearing all talk options and presenting Fox and Demon Statue">Apollo:</line>
 <line speaker="Jinxie">...No... That's about it...</line>
 <line speaker="Apollo">Ack! <thought>My bracelet! It's reacting!</thought> Jinxie, you wouldn't happen to be--</line>
 <line speaker="Fulbright">In justice we trust!</line>
@@ -397,7 +395,6 @@
 <line speaker="Apollo">Ahhh! You can't destroy evidence like that!</line>
 <line speaker="L'Belle">What do you mean I CAN'T? I just DID, ah ha ha ha! Feel a little lighter now?</line>
 <line speaker="Apollo"><thought>You've just won a one-way trip to the top of my "most annoying people ever" list, buddy.</thought></line>
-<line speaker="After clearing all Talk options and presenting Blackmail Letter">L'Belle:</line>
 <line speaker="Apollo">*sigh* <thought>I guess that's it for now.</thought></line>
 <line speaker="L'Belle">Hello, L'Belle speaking! ...Really? You wish to carry MY new product at YOUR store? Oh, but I'm afraid it's my own PRIVATE brand. It's NOT available to the public. ...What? Then I </line>
 <line speaker="Apollo">......... <thought>Stop the bus. I'm getting off.</thought></line>
@@ -429,7 +426,6 @@
 <line speaker="Apollo">Okay, there was something I wanted to ask him, anyway.</line>
 <line speaker="Policeman">If you're looking for Mayor Tenma's aide, I saw him in the garden earlier. We won't be here much longer. Go keep that narcissist company in the meantime.</line>
 <line speaker="Apollo">*sigh*</line>
-<line speaker="After clearing all Talk options and presenting Blackmail Letter at Kyubi Manor - Garden">April 18Kyubi Manor - Fox Chamber</line>
 <line speaker="Apollo">Okay, let's find that secret mechanism for opening the Forbidden Chamber.</line>
 <line speaker="Athena">Ooh, this is so exciting! I can't wait to see how it works! But do you really think the killer entered the Forbidden Chamber?</line>
 <line speaker="Apollo">We'll just have to open it to find out.</line>

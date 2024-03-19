@@ -184,7 +184,6 @@
 <line speaker="Iris">What's the matter, Runo?</line>
 <line speaker="Ryunosuke">'The Reaper Attacked'... That's, that's Lord van Zieks! This must be what Mr Sholmes was talking about. <thought>Does he know any more, I wonder...?</thought></line>
 <line speaker="Ryunosuke">'The Reaper Attacked'... It's the kingpins of the criminal underworld generally managing to escape conviction in the Reaper's trials. And this isn't the first time their henchmen have tried to attack Lord van Zieks as a result, by the sound of it. ...It makes you think. If that's how the justice system works in London... ...then there must be dark forces at work.</line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Ryunosuke">Yes, understood. See you later, Mr Sholmes!</line>
 <line speaker="Sholmes">Hah! You really are a shameless liar sometimes, my dear fellow!</line>
 <line speaker="Ryunosuke">What?</line>
@@ -376,7 +375,6 @@
 <line speaker="Ryunosuke">Can you tell us what happened? I'd really love to know!</line>
 <line speaker="Stronghart">...Very well. If it interests you.</line>
 <line speaker="Ryunosuke"><thought>It does...strangely.</thought></line>
-<line speaker="After clearing all Converse options">Stronghart:</line>
 <line speaker="Ryunosuke">E-Eleven hours late? That's...quite something.</line>
 <line speaker="Stronghart">That meeting had already started when I arrived back here for this engagement with you. So lateness was inevitable. Time stops for no man.</line>
 <line speaker="Ryunosuke"><thought>I'm sure it stopped for me during those twelve solid arguments and two hundred and twenty-three reasons...</thought> Oh, yes! Where would I find Lord van Zieks now?</line>
@@ -537,7 +535,6 @@
 <line speaker="Ryunosuke">Right...</line>
 <line speaker="Van Zieks">What I really can't believe is that the incident was captured on film. If the journalist had been spotted, it would have ended very badly for him indeed.</line>
 <line speaker="Ryunosuke">......... <thought>It sounds like the luckiest person there... ...was whoever wrote the article for the paper.</thought></line>
-<line speaker="After clearing all Converse options">Van Zieks:</line>
 <line speaker="Ryunosuke">Oh! What's that?</line>
 <line speaker="Van Zieks">That Nipponese man. Is he faring well?</line>
 <line speaker="Ryunosuke">Sorry?</line>
@@ -642,7 +639,6 @@
 <line speaker="Ryunosuke">'That'?</line>
 <line speaker="Harebrayne">The day before the demonstration, I had my usual meal of frankfurters at the hotel restaurant. When I paid the bill, they gave me three shillings too much in change. But...instead of saying anything, I just slipped the coins into my pocket! They're still there now! It's divine retribution for my wrongdoing, that's what this is!</line>
 <line speaker="Ryunosuke"><thought>For a scientist, he has some very illogical anecdotes. Long and illogical.</thought></line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Harebrayne">As correct as two squared is four! I swear it! Yes, it's true that the man perished in a machine of my invention. So I know that I'm far from blameless in all this. But still! I would never use my discoveries, my inventions, to take a person's life! Not in a centillion years! I'm a man of science! It's all I know! You have to believe me! Please! Do you believe me? Do you believe in my hypothesis? Science is the pursuit of truth, you know. I've always believed that. All my life!</line>
 <line speaker="Ryunosuke">......... I'm afraid I don't know much about science. Or your theories. But I do believe you. And I will fight to prove your innocence with all my might. I'm a man of the law! It's all I know! You have to believe me! Please!</line>
 <line speaker="Harebrayne">......... When I went to live in Germany after I graduated, I learnt something very important. Nationality, class, lineage...none of that matters. As long as you try your hardest, you can achieve anything.</line>
@@ -825,7 +821,6 @@
 <line speaker="Ryunosuke">Ah, there's some sort of lever here... What the- What is this?! It, it looks like a cross between a bow and a gun! ......... <thought>I think it's probably used for the same thing, too.</thought></line>
 <line speaker="Ryunosuke">It looks like you wind this around in order to draw the bowstring back and create tension. You must be able to fire arrows with a huge amount of force using this device, then. In fact, I would imagine it's far more accurate and powerful than a Japanese longbow. Ugh... I really had no idea what I was picking up when I spotted this at the exhibition grounds.</line>
 <line speaker="Ryunosuke">This groove here...must be where the arrows are loaded, I suppose. So I was right, it's a sort of bow with an automatic firing mechanism. This would be perfect for someone like me who catches his ear with the bowstring two times out of three. ......... <thought>In fact, if I'd had one of these, maybe I could have beaten Kazuma in kyudo archery training.</thought></line>
-<line speaker="After clearing all Converse options and examining green cloth on ground, device on ground, and large hole in glass in Great Exhibition Grounds, Foot of the Crystal Tower and clearing all Converse options and examining large machine in Great Exhibition Grounds, Experimentation Stage">Iris:</line>
 <line speaker="Ryunosuke">What? What is it?</line>
 <line speaker="Iris">I've been thinking... Hurley might know something, mightn't he?</line>
 <line speaker="Ryunosuke">About what?</line>
@@ -992,7 +987,6 @@
 <line speaker="Ryunosuke">As a detective, what do you make of this?</line>
 <line speaker="Gregson">Personally speakin', nine times out of ten I find clues turn out to be red herrings. So there's every chance that's totally irrelevant.</line>
 <line speaker="Ryunosuke"><thought>That's actually a fairly persuasive argument...</thought></line>
-<line speaker="After clearing all Converse options and examining green cloth on ground, device on ground, and large hole in glass in Great Exhibition Grounds, Foot of the Crystal Tower and clearing all Converse options and examining large machine in Great Exhibition Grounds, Experimentation Stage">Gregson:</line>
 <line speaker="Ryunosuke">Sorry?</line>
 <line speaker="Gregson">Isn't it about time you were leavin'? Or rather...it IS about time you were leavin'! That lot are here now.</line>
 <line speaker="Iris">That lot?</line>
@@ -1024,10 +1018,10 @@
 <line speaker="Iris">He's definitely ignoring you.</line>
 <line speaker="Ryunosuke"><thought>Right. No niceties either, then...</thought></line>
 <line speaker="Ryunosuke">Iris, have a look at this...</line>
-<line speaker="Iris">That's not right. I thought you were supposed to say '<cutIn>Objection!</cutIn>' or the like when you present evidence?</line>
+<line speaker="Iris">That's not right. I thought you were supposed to say '<cutIn type="objection">Objection!</cutIn>' or the like when you present evidence?</line>
 <line speaker="Ryunosuke">No no. That's only in court.</line>
 <line speaker="Iris">That's not fair! If you won't say it, then I won't look! Hmph!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Iris">Yay! That was great! Right...next!</line>
 <line speaker="Ryunosuke"><thought>Alright, I get the message. Someone's not in the mood for looking at things...</thought></line>
 <line speaker="Ryunosuke">Wh-What is this place? L-Look at all these t-terrifying scenes! But why are all the p-people so still? <thought>Guillotines... Ruthless murderers... I know what I'll be dreaming about tonight.</thought></line>
@@ -1080,7 +1074,7 @@
 <line speaker="Iris">Hm? Really? Did it?</line>
 <line speaker="Ryunosuke">And look closely... ...there are beads of sweat on the face...of this waxwork... model...</line>
 <line speaker="Ryunosuke">......... Sh-Shall we move on, Iris? ...Over there, look! There's a great murder scene to enjoy! Much more appealing.</line>
-<line speaker="Sholmes"><cutIn>Hold it!</cutIn></line>
+<line speaker="Sholmes"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Sholmes">My dear fellow! I take exception to your recoiling in such a manner, as if you've seen something truly abhorrent!</line>
 <line speaker="Ryunosuke">Mr...Mr Sholmes! <thought>I knew it!</thought></line>
 <line speaker="Sholmes">Iris, what possessed you?! I strictly forbade you from divulging my temporary waxwork secret to Mr Naruhodo!</line>
@@ -1537,7 +1531,7 @@
 <line speaker="Iris">...He's not showing any signs of life.</line>
 <line speaker="Ryunosuke"><thought>Because he really is dead...?</thought></line>
 <line speaker="Iris">Come on, you're always pointing that finger of yours in court. Poke that arm now and see how it feels.</line>
-<line speaker="Ryunosuke">...<cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke">...<cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Tell us more about the stolen waxwork, please.</line>
 <line speaker="Tusspells">It was some days ago now, when I came in here one morning. I immediately noticed that a waxwork was missing from the special exhibit here!</line>
 <line speaker="Iris">It is your most prominent display. So...that's why the curtains were closed.</line>

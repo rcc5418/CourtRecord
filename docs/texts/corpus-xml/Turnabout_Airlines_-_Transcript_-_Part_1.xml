@@ -1,6 +1,6 @@
 
-<line>Turnabout Airlines</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Airlines</title>
 <line speaker="Edgeworth"><thought>The murder that occurred in my office... The return of the Great Thief Yatagarasu... Thinking back, everything began on that fateful day, two days ago...</thought></line>
 <line speaker="Edgeworth"><thought>Yes, everything began high up in the air, 9,000 feet in the air, to be precise...</thought></line>
 <line speaker="PA Notice">Thank you for flying iFly Airlines. We are currently experiencing some slight turbulence. We are asking all passengers to please return to their seats and fasten their seatbelts.</line>
@@ -46,13 +46,13 @@
 <line speaker="Teneiro">I don't think you could ask for a more perfect witness testimony. Wouldn't you agree, Mr. Edgeworth?</line>
 <line speaker="Edgeworth"><thought>Not really. It's hardly perfect when there's a gaping hole in it.</thought></line>
 <line speaker="Teneiro">I swear to tell the whole truth as a professional flight attendant.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Tell me, what exactly puts the "pro" in "professional flight attendant" for you?</line>
 <line speaker="Teneiro">Well, it means we are very professional about how we take care of our passengers. Services like fetching papers and responding to calls are done with speed and accuracy. I can assure you that I give testimonies with the same level of professionalism. But I'm sure you have already realized that by now, right!?</line>
 <line speaker="Edgeworth"><thought>It's a bit hard to "appreciate" your professionalism when I'm the one under suspicion.</thought></line>
 <line speaker="Teneiro">And there you have it. My professional testimony is accurate and reliable.</line>
 <line speaker="Teneiro">Unfortunately for you, Mr. Edgeworth, I am certain you are the killer.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You certainly seem sure of yourself.</line>
 <line speaker="Teneiro">Of course! A professional flight attendant can't afford to make mistakes, after all.</line>
 <line speaker="Edgeworth">Perhaps. But you must admit there are few who can look at a murder with a clear mind.</line>
@@ -61,11 +61,11 @@
 <line speaker="Teneiro">Even until the bitter end, we are there to serve the passengers. That is the duty of all professional flight attendants!</line>
 <line speaker="Edgeworth">You certainly are confident. Anyway, shall we return to your testimony?</line>
 <line speaker="Teneiro">The scene I saw in front of the elevator...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Yes...? What did you see in front of the elevator?</line>
 <line speaker="Teneiro">That's what I was just about to tell you, Mr. Edgeworth. Framed by the elevator doors and bathed in the light coming from within...</line>
 <line speaker="Teneiro">...it was you, standing there, with fresh blood dripping off of the murder weapon.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The murder weapon, dripping with blood...? Really, now.</line>
 <line speaker="Teneiro">I swear that was the grisly scene I saw before me. Thank goodness it wasn't a passenger who saw, or there'd be widespread panic by now.</line>
 <line speaker="Edgeworth">As I recall, you were quite panicked yourself at the time...</line>
@@ -73,9 +73,9 @@
 <line speaker="Edgeworth">You were scared enough to misread the situation and accuse me of murder.</line>
 <line speaker="Teneiro">Nonsense! Professional flight attendants cannot afford to be that flustered! I witnessed the murder scene and am now listening to your defense, all with a smile.</line>
 <line speaker="Edgeworth"><thought>Apparently, you also lie with a smile on your face.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Teneiro">So, if you would please cooperate, we'll turn you over just as soon as we land.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I am not the culprit... And yet, you would keep these restraints on me?</line>
 <line speaker="Teneiro">Mr. Edgeworth, please try to understand what kind of situation you're in right now.</line>
 <line speaker="Edgeworth">And what exactly is my situation?</line>
@@ -124,13 +124,13 @@
 <line speaker="Edgeworth">So even though I didn't have the murder weapon on me, you still suspect me, I see...</line>
 <line speaker="Teneiro">You stood up at the crime scene with the victim's wallet in your hands. How can I turn a blind eye and not suspect you of foul play?</line>
 <line speaker="Teneiro">As you claimed, the murder weapon is not the travel wallet...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Shouldn't that be proof enough for you that I did not murder the victim?</line>
 <line speaker="Teneiro">Not at all!</line>
 <line speaker="Edgeworth">Oh, and why not?</line>
 <line speaker="Teneiro">Because, that wallet may not have been what I thought it was...</line>
 <line speaker="Teneiro">...however, it IS something you stole from Mr. Hicks after you were done with the vile deed.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You think I stole it...?</line>
 <line speaker="Teneiro">Yes! I'm very sorry to say it, and I wouldn't usually be so rude, but it must be said!</line>
 <line speaker="Edgeworth">?</line>
@@ -139,27 +139,27 @@
 <line speaker="Teneiro">Maybe I should put on a serious face and say it more directly. I believe you removed the wallet from the victim's personage!</line>
 <line speaker="Edgeworth">...It really doesn't matter how you phrase it. What I'd like to know is why you think I stole Mr. Hick's wallet!</line>
 <line speaker="Teneiro">I find it hard to believe myself, but your motive was very simple...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmph, I don't think I have any sort of motive to speak of. I've never met Mr. Hicks before, and our only connection is this one flight.</line>
 <line speaker="Teneiro">But that is more than enough of a reason.</line>
 <line speaker="Edgeworth">How do you figure?</line>
 <line speaker="Teneiro">He was sitting in First Class, and I think the implication is quite clear.</line>
 <line speaker="Teneiro">You were out to steal Mr. Hick's money, weren't you?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You think I was after his money!? Wh-Where did that cockamamie idea come from!?</line>
 <line speaker="Teneiro">True, you are also a passenger in First Class, but... ...I thought something was off about you and those deeply-etched lines on your forehead.</line>
 <line speaker="Edgeworth">Th-They're not lines!! They're perfectly normal and a part of my natural face!</line>
 <line speaker="Teneiro">I don't think I've ever met someone with such terrible countenance on a flight before.</line>
 <line speaker="Edgeworth">.........</line>
 <line speaker="Teneiro">And that's when it hit me. You have the face of someone with money trouble!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I wonder if I might get a word in, Ms. Teneiro.</line>
 <line speaker="Teneiro">Wh-What is it now!?</line>
 <line speaker="Edgeworth">Ms. Teneiro. I wonder if you noticed the contradiction within your own testimony!</line>
 <line speaker="Teneiro">Wh-What are you talking about...?</line>
 <line speaker="Edgeworth">It's simply impossible that the motive for this murder was monetary theft. One glance at the crime scene should've told you that! <thought>What about this scene would prove that the motive for the murder was not the money?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This proves that the killer's motive was not monetary theft!</line>
 <line speaker="Teneiro">Where am I supposed to be looking...?</line>
 <line speaker="Edgeworth">...Please recall how the crime scene looked.</line>
@@ -171,11 +171,11 @@
 <line speaker="Teneiro">Aaaah!</line>
 <line speaker="Edgeworth">I think we can assume that the wallet fell during the victim's struggle with his killer. And I would think that the killer would've noticed something like money scattering somewhere. Furthermore, as you can see, there was no effort made by the killer to gather the money!</line>
 <line speaker="Teneiro">B-But...! The wallet...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ah, yes. the wallet. You will also recall that the only thing in it was Mr. Hicks's passport.</line>
 <line speaker="Teneiro">Aaaah!</line>
 <line speaker="Edgeworth">If you are really insisting that it was a crime based on greed... ...then you're claiming that it was all for an empty travel wallet!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I wonder if I might get a word in, Ms. Teneiro.</line>
 <line speaker="Teneiro">Wh-What is it now!?</line>
 <line speaker="Edgeworth">Ms. Teneiro. I wonder if you noticed the contradiction within your own testimony!</line>
@@ -189,8 +189,8 @@
 <line speaker="Edgeworth">There is no way the killer didn't know that the wallet was empty to begin with.</line>
 <line speaker="Teneiro">Oh? And what makes you so sure!?</line>
 <line speaker="Edgeworth"><thought>How can I show her that the killer knew the wallet to be empty from the get-go?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This piece of evidence shows that the killer would've known that the wallet was empty!</line>
 <line speaker="Teneiro">And what about it shows me that...?</line>
 <line speaker="Edgeworth">...Take a closer look.</line>
@@ -491,14 +491,14 @@
 <line speaker="Edgeworth">Aha!</line>
 <line speaker="Teneiro">? What is it, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">I've found some very important evidence. What is the important piece of evidence in this scene?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">These lines here... They obviously weren't made naturally.</line>
 <line speaker="Teneiro">You're right! But how were they made then, and why are they here?</line>
 <line speaker="Edgeworth">I don't know yet... <thought>But I do know they are important to this investigation.</thought> Aha!</line>
 <line speaker="Teneiro">What is it now, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">I've found am even more important piece of evidence in this scene!!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Teneiro">............ I'm not sure what's so important about that, Edgeworth...</line>
 <line speaker="Edgeworth">N-No, wait! <thought>Curses. This is no time to get careless!</thought> Allow me to point it out to you one more time.</line>
 <line speaker="Teneiro">What is it...?</line>
@@ -540,7 +540,7 @@
 <line speaker="Lablanc">So! My eye-witness testimony! If you think you can destroy it, then come, let me see! Hurry! Do I look like a man who is having the time to wait for you?</line>
 <line speaker="Edgeworth"><thought>Why is HE so irritated&#160;? I'm the one accused of murder here! Anyway, I must find a way to discredit Mr. Lablanc's account somehow, and fast!</thought></line>
 <line speaker="Lablanc">I am certain I saw Mr. Hicks in the elevator!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Mr. Lablanc, were you able to get a good look at the inside of the elevator at that time?</line>
 <line speaker="Lablanc">Of course, I saw what was inside.</line>
 <line speaker="Edgeworth">And you are sure that the victim was in the elevator alone?</line>
@@ -548,13 +548,13 @@
 <line speaker="Edgeworth"><thought>Hmm, this last outburst is a bit too important to let go...</thought></line>
 <line speaker="Add statement">"The only person inside was that Mr. Hicks man!"</line>
 <line speaker="Lablanc">The only person inside was that Mr. Hicks man!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Was he really alone?</line>
 <line speaker="Lablanc">Of course! I will bet even 1 cent!</line>
 <line speaker="Edgeworth"><thought>Hmph, a cheap ante... for a cheap testimony. But if that's how you went to play it, I'll happily take your 1 cent!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lablanc">It was when my needles on my pocket watch pointed to the 6 and to the 12!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I assume the pocket watch in this case is the one you keep checking, is that correct?</line>
 <line speaker="Lablanc">Oh! You noticed! It is a very expensive antique, I will have you know! The feeling is wonderful when I fully wind it up by hand!</line>
 <line speaker="Edgeworth">Hmm... It does look very well designed, and quite classy.</line>
@@ -562,12 +562,12 @@
 <line speaker="Edgeworth">......That's quite alright! Let's continue with your testimony.</line>
 <line speaker="Lablanc">Hmph! What a cheap man you are! Now return the time you wasted back to me! And if we must, I saw Mr. Hicks enter the elevator at 6 o'clock!</line>
 <line speaker="Lablanc">The body was discovered 15 minutes after that in the lounge, yes?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">It's true that I found the victim's body at 6:15.</line>
 <line speaker="Teneiro">And that's when I found the two of them as well.</line>
 <line speaker="Lablanc">You see! It all matches my testimony!</line>
 <line speaker="Lablanc">Then you, the only person in the lounge at that time, must be the criminal!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">That is most mistaken way of thinking I've ever heard of!</line>
 <line speaker="Lablanc">No, no, no! Your silly opinion is what is mistaken!</line>
 <line speaker="Teneiro">Please calm down, the both of you. In a sense, you are both mistaken!</line>
@@ -600,24 +600,24 @@
 <line speaker="Teneiro">Aaaaah! N-No, not at all! Please forget I said anything!</line>
 <line speaker="Edgeworth"><thought>Yet again, he doesn't appear to be lying. But I can't let this testimony stand as the truth!</thought></line>
 <line speaker="Lablanc">I was very upset when Mr. Hicks passed by my seat.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, are you still upset now?</line>
 <line speaker="Lablanc">I am always upset! The only time I am not is when I have a piece of art in my hands!</line>
 <line speaker="Edgeworth"><thought>It's surprisingly easy to believe that about him.</thought></line>
 <line speaker="Lablanc">But I was even more upset when Mr. Hicks walked by me!</line>
 <line speaker="Lablanc">I was checking the time, over and over again.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why were you so attentive to the time?</line>
 <line speaker="Lablanc">Because! Because something unforgivable was happening!</line>
 <line speaker="Edgeworth">Hmm, come to think of it, you were yelling about something "unforgivable" earlier...</line>
 <line speaker="Lablanc">I was giving a complaint to the attendant about the movie starting time! Return back to me my time!! In money!! ...You understand the point.</line>
 <line speaker="Edgeworth"><thought>Movie? Is he talking about the in-flight one that's mentioned in the magazine? Hmm... A summary of the plot and the start time... Interesting...</thought></line>
 <line speaker="Lablanc">They were supposed to show "License to Love, Laugh, Maim, and Murder". I cannot see that movie in my country. You can only see it on international flights. I looked forward greatly to that movie!! I checked my pocket watch whenever possible so I would not miss it! I even set my pocket watch to the destination time when I came onboard. So my watch is not wrong! It matched the schedule! But the movie was still late! Very, very late!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Your pocket watch... I'd like to ask you a little more about it, if that's alright.</line>
 <line speaker="Change this statement to">"The movie I wanted to see would not start, so I checked my pocket watch many times." and "My watch is set to my destination's time. I always set it when I board the plane."</line>
 <line speaker="Lablanc">The movie I wanted to see would not start, so I checked my pocket watch many times.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So this movie you mentioned, is it the one listed in the Sky Magazine?</line>
 <line speaker="Lablanc">Yes! I was so looking forward to watching "License to Love, Laugh, Maim, and Murder"!</line>
 <line speaker="Edgeworth">Ms. Teneiro, was this movie shown on this flight?</line>
@@ -627,15 +627,15 @@
 <line speaker="Edgeworth">N-No! Now stop pointing at me like that! <thought>Odd. How did he miss a movie that he was clearly hoping to see...?</thought></line>
 <line speaker="Lablanc">I checked my pocket watch a great number of times! That much I know for sure!</line>
 <line speaker="Lablanc">My watch is set to my destination's time. I always set it when I board the plane.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You're sure about what you just testified, Mr. Lablanc?</line>
 <line speaker="Lablanc">Yes, of course! I am a very busy man! I am immediately busy when I land! I have many places to go! And no time to waste adjusting my pocket watch!</line>
 <line speaker="Edgeworth">I see... That was a very valuable statement you just made.</line>
 <line speaker="Lablanc">Hmph! Flatter me all you want, but you will not get 1 cent out of me!</line>
 <line speaker="Edgeworth">Um... That's alright. All I require is this piece of testimony.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Lablanc">I happened to follow that man with my eyes when he passed me.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Since you only "happened" to see him, it's possible that you missed something in that glance!</line>
 <line speaker="Lablanc">Even if I only "happened", I did not miss a thing!</line>
 <line speaker="Edgeworth">And how can you be so sure?</line>
@@ -643,13 +643,13 @@
 <line speaker="Edgeworth">I would appreciate it if you didn't take my life so lightly with a simple, "Just because!"</line>
 <line speaker="Lablanc">Hmph! Well, then I was only making a joke! I saw Mr. Hicks, alright?</line>
 <line speaker="Lablanc">And I saw clearly into the elevator he was entering.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Is it possible that someone was hiding inside?</line>
 <line speaker="Lablanc">What!? You dare insult me!? I have belief in my eyesight! When I look for art to sell, I am told often I have "great sight" for the arts.</line>
 <line speaker="Edgeworth"><thought>I think the phrase you were looking for was "great sense", although that's debatable.</thought> But isn't it possible someone was just outside of your line of sight...?</line>
 <line speaker="Lablanc">You are persistent! I tell you, I looked clearly!</line>
 <line speaker="Lablanc">But, I swear there was no one else inside! No one!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Why do you insist that you are absolutely not mistaken!?</line>
 <line speaker="Lablanc">Because when I say I am not wrong, I am not wrong!</line>
 <line speaker="Teneiro">Mr. Lablanc, if I may, I think beyond misconceptions and mistake lies the truth.</line>
@@ -704,18 +704,18 @@
 <line speaker="Edgeworth"><thought>Everything happened in this lounge...?</thought> Is that what you really believe, Mr. Lablanc?</line>
 <line speaker="Lablanc">Wh...!? Do you have another idea!?</line>
 <line speaker="Edgeworth">I simply feel that there is something out of place in the scenario you presented. <thought>Is there something that can tie this crime to a location other than this lounge?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">These footprints. In which direction do you think these are headed?</line>
 <line speaker="Teneiro">That would be... the in-flight shop.</line>
 <line speaker="Edgeworth">Correct. They are headed in the direction of the shop.</line>
 <line speaker="Lablanc">But they look disconnected! They end all of a sudden!</line>
 <line speaker="Edgeworth">You are right to point out that they do not from one continuous trail to the shop. However, there is another piece of evidence that connects the shop to our crime scene. <thought>Besides the footprints, what else points to the in-flight shop?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lablanc">Hmph! I don't need to hear your wild desperation stories! "Grasping for weeds" I think is how you say it, yes!?</line>
 <line speaker="Edgeworth">Agnrk...... I didn't mean to pull that piece out! The one that I meant to show you was...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Lablanc">Hmph! I don't need to hear your wild desperation stories! "Grasping for weeds" I think is how you say it, yes!?</line>
 <line speaker="Edgeworth">Agnrk...... I didn't mean to pull that piece out! I was a simple slip of the hand, I assure you!</line>
 <line speaker="Edgeworth">The murder weapon... This little piggy bank is sold at the in-flight shop. It is sold there and only there, and is not displayed here in this lounge! How, then, did it find its way here? Don't you find that a tiny bit suspicious?</line>
@@ -955,16 +955,16 @@
 <line speaker="Edgeworth">.........</line>
 <line speaker="Meele">What's wrong?</line>
 <line speaker="Edgeworth"><thought>...She makes a good point. It would be wise of me to watch what I say out loud.</thought> What's this? I've spotted something that's not quite right... <thought>What is so unusual about this suitcase?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Meele">Yeah, I figured you thought the design was odd, too.</line>
 <line speaker="Edgeworth">I never said the design was odd...!</line>
 <line speaker="Meele">Yeah, yeah...</line>
 <line speaker="Edgeworth">Please don't give me that attitude! <thought>Argh! I can't let her get me all riled up. Time to calmly take another good, hard look.</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Meele">Yeah, no matter how you cut it, the price is a bit odd, isn't it?</line>
 <line speaker="Edgeworth">Th-That wasn't what I was pointing out to be odd... <thought>The answer should come to me if I think back on all that has happened here!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is what so odd!</line>
 <line speaker="Meele">I don't think it's that strange at all.</line>
 <line speaker="Edgeworth">W-Well, maybe not to that extent... ahem. <thought>I mustn't over-think this. I should let the answer come to me.</thought></line>
@@ -983,8 +983,8 @@
 <line speaker="Edgeworth">I believe it's pretty safe to say that the killer used this suitcase in some manner. Such as to move something perhaps?</line>
 <line speaker="Meele">Ehhhh... But aren't you just talking about the cloth then?</line>
 <line speaker="Edgeworth">That alone is too small. A larger item would be needed to move what I'm thinking of. The "thing" I believe the killer used this suitcase to transport is...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Meele">............</line>
 <line speaker="Edgeworth">Ms. Meele! Wake up!</line>
 <line speaker="Meele">Huh? Did you say something just now, Mr. Edgeworth? I mean, I don't know... but I don't think that's it...</line>
@@ -1293,14 +1293,14 @@
 <line speaker="Franziska">I'm simply trying to watch out you. Or my kindness too hard for you to comprehend?</line>
 <line speaker="Edgeworth">Thank you, but your leniency is unnecessary, for I will prove my innocence soon enough! <thought>If I want to continue my investigation, I'll have to break her line of logic, fast!</thought></line>
 <line speaker="Franziska">Let's not complicate things and go with the most obvious conclusion.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Don't you think you're being a bit rash by simply declaring me the culprit?</line>
 <line speaker="Franziska">Hmph. I like my affairs to be simple. And perfect. I'll show you the meaning of both when I finish this whole thing within three minutes!</line>
 <line speaker="Gumshoe">Hey! You say that like you're cooking a pack of instant noodles! Threeeeeooooowww!</line>
 <line speaker="Franziska">I won't allow even three seconds of useless testimony to be uttered in my presence!</line>
 <line speaker="Edgeworth"><thought>...I see she hasn't changed a bit. But I won't allow her to send me to prison so easily.</thought></line>
 <line speaker="Franziska">The scene of the crime was here, in the very lounge the body was discovered.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So tell me, Franziska, do you know all there is to know about the crime scene?</line>
 <line speaker="Franziska">I know all that I need to know in order to arrest you.</line>
 <line speaker="Edgeworth">And nothing more?</line>
@@ -1308,18 +1308,18 @@
 <line speaker="Gumshoe">Aaaaaaaaah! Wh-Why did you whip me, sir!?</line>
 <line speaker="Franziska">Sorry, Scruffy. My hand must've slipped.</line>
 <line speaker="Edgeworth"><thought>It would appear that Franziska doesn't have all the facts of this case yet.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">From the time the victim was seen calling for an attendant until his body as found...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What do you mean by "seen"?</line>
 <line speaker="Franziska">Please stop pretending like you don't know. It's insulting. Obviously, I'm talking about how Mr. Hicks was seen calling for an attendant at 5 AM. And then, from the time after that call until the body was found...</line>
 <line speaker="Franziska">...the only person in this lounge the entire time was you, Miles Edgeworth!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">While it's true that I was in the lounge the whole time... ...that fact alone does not make me the criminal.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Hah, we'll see about that at the conclusion of this investigation. However, there is one thing that even you must admit at this time.</line>
 <line speaker="Franziska">This, unmistakably, makes you the likeliest suspect.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Under the circumstances, I suppose I can agree that I am the most likely suspect.</line>
 <line speaker="Gumshoe">B-but I believe in you, sir! I don't think you did it! Ms. von Karma's gotta believe that, too, right! I mean, you two are like siblings...OWWWW!</line>
 <line speaker="Franziska">Quiet, Scruffy! Even if we are related by blood, that's no guarantee that he's not a criminal!</line>
@@ -1331,29 +1331,29 @@
 <line speaker="Edgeworth">I found a nice piece of evidence just before I was forced to stop investigating. A piece that proves the body was moved from a different location!</line>
 <line speaker="Franziska">.........</line>
 <line speaker="Edgeworth">The killer used this suitcase to move the victim's body. Meaning that the real scene of the crime is not this lounge at all!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Now who's the one rashly jumping to conclusions?</line>
 <line speaker="Edgeworth">Excuse me?</line>
 <line speaker="Franziska">All you did was find this piece of cloth inside the suitcase. That doesn't prove that the body was moved. It could be that the killer simply chose that suitcase as a good place to hide the cloth.</line>
 <line speaker="Edgeworth">I expected you would come to that conclusion. It would seem I can't escape that easily.</line>
 <line speaker="Franziska">You should know better than that. A Von Karma is perfect in every way.</line>
 <line speaker="Edgeworth">Ah, but did you know that the killer definitely wheeled the suitcase around at some point?</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">As if there is proof of that!</line>
 <line speaker="Edgeworth"><thought>Where is the proof that this suitcase was moved around?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">All it takes is one look at this and you'll have your answer!</line>
 <line speaker="Franziska">Indeed, I have my answer now. ......That you are an ignorant whippersnapper!</line>
 <line speaker="Edgeworth">Aaaaaaaargh! <thought>Or rather, that you are the unforgiving whipper-snapper. The suitcase ended up in the in-flight shop, but where did it come from? The answer should become clear if I just think about the path the killer took.</thought></line>
 <line speaker="Franziska">The spilled grape juice in front of the elevator...</line>
 <line speaker="Edgeworth">Yes, and I'd like to draw your attention to this area here... <thought>Where is the evidence that proves the killer dragged the suitcase through here?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">We can assume these prints belong to the culprit, and they clearly lead to the shop...</line>
 <line speaker="Franziska">I asked for proof about the suitcase. Give me any unrelated evidence, and you will feel the pain of my whip.</line>
 <line speaker="Edgeworth"><thought>There's no need to remind me; my body learned that lesson well a long time ago! These prints are important, but there is something else that is even more so!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Take a look at this!</line>
 <line speaker="Franziska">And what exactly am I looking at here?</line>
 <line speaker="Edgeworth">I don't like to repeat myself... ...but I suppose it can't be helped if you didn't spot it on your own. Now then, I'll...</line>
@@ -1364,35 +1364,35 @@
 <line speaker="Edgeworth">Further, there is also grape juice residue on the wheels of the suitcase. This means that the suitcase containing the victim's body definitely passed through here.</line>
 <line speaker="Franziska">.........I suppose this means that the killer... ...did move the victim's body from somewhere else.</line>
 <line speaker="Edgeworth">I'm glad you've come to your senses.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Not so fast! This still doesn't put you in the clear! Not by a long shot!</line>
 <line speaker="Franziska">You prepared yourself and acquired the piggy bank before the plane hit that turbulence.</line>
 <line speaker="Edgeworth">Not a bad bit of logic, for something you thought of on the fly.</line>
 <line speaker="Franziska">Just what are you insinuating?</line>
 <line speaker="Edgeworth">That I will show you exactly how flawed your logic is. <thought>No matter how strong of a face you put on, not even you can hide your fears from me. I'll expose all the flaws in her logic in one fell swoop!</thought></line>
 <line speaker="Franziska">You prepared yourself and acquired the piggy bank before the plane hit that turbulence.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And how do you suppose I was able to take the piggy bank out of its display case? As I recall, the case was locked.</line>
 <line speaker="Franziska">That's easy. If the case was locked... ...you simply had to hit the glass... like this!</line>
 <line speaker="Gumshoe">Eeeeeoww! Y-You've shattered my heart of glass!</line>
 <line speaker="Edgeworth"><thought>So she wants to talk about the in-flight shop and the Mr. Ifly bank, does she...?</thought></line>
 <line speaker="Franziska">That takes care of how you obtained the murder weapon.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">And then, you waited for the victim in the lounge, where you beat him to death.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I thought there wasn't any of the victim's blood found in the lounge.</line>
 <line speaker="Franziska">Hmph. I thought you'd say that. What? Did you think I wouldn't have noticed? I think you just found a way to cleverly hide the blood splatter in the lounge! By "accidentally spilling" grape juice on top of it!</line>
 <line speaker="Edgeworth">Gnrgh! Are you accusing me of tampering with the crime scene now!?</line>
 <line speaker="Franziska">We'll see, won't we? The forensic scientists are hard at work on that as we speak.</line>
 <line speaker="Edgeworth">.........And? What do you propose I did after that?</line>
 <line speaker="Franziska">Then, while you were in the elevator with the victim's body stuck in the suitcase...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So I put the victim's body into the suitcase, and then? Where was I headed, Franziska?</line>
 <line speaker="Franziska">That's pretty obvious. You were bringing it to First Class where you could safely keep an eye on it!</line>
 <line speaker="Edgeworth">We're talking about this thing, you know. I'd hardly call it discreet or ordinary.</line>
 <line speaker="Franziska">Hmph. Annoying brat. Well then, you were intending to leave it inside the elevator. But unfortunately for you, a wrench was thrown into your plans, because...</line>
 <line speaker="Franziska">...the plane hit the patch of turbulence, and out flew the body from within the suitcase!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You've experienced turbulence on a flight before.</line>
 <line speaker="Franziska">Of course. Many times. You get used to it after a while.</line>
 <line speaker="Edgeworth">The patch we hit was especially rough... and I passed out briefly, but only for a second.</line>
@@ -1400,14 +1400,14 @@
 <line speaker="Edgeworth">Y...Yes, indeed. <thought>Unfortunately, blanking out is exactly what got me into this mess in the first place.</thought></line>
 <line speaker="Franziska">That's enough of your idle chatter. I'm not through with you yet, Miles Edgeworth!</line>
 <line speaker="Franziska">With no way out, you hastily put the suitcase back where you had taken it from...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmph... If I really were a criminal, do you really think I would be so easily caught?</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">You are certainly in the middle of being caught right now!</line>
 <line speaker="Edgeworth">Gnaaaaaaargh! <thought>I have to find a contradiction fast, or I won't have much of my own hide left to save!</thought></line>
 <line speaker="Franziska">I have to say, you are looking rather caught right now. And I'll tell you exactly what you did after that. You loitered around in the lounge...</line>
 <line speaker="Franziska">...and pretended to be the "discoverer" of the body.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I didn't pretend to be anything! I really was the first to discover the victim's body!</line>
 <line speaker="Franziska">...I suppose that's true.</line>
 <line speaker="Edgeworth">Hm...? So then...you are yielding to my statements?</line>
@@ -1431,7 +1431,7 @@
 <line speaker="Gumshoe">But it's possible that it's just hidden somewhere, sir! Eeeeeeeek!</line>
 <line speaker="Franziska">If the criminal had wanted to hide the weapon in a safer place... ...I'd think the weapon would have been hidden in the same place as the bloody cloth.</line>
 <line speaker="Edgeworth">Exactly what I was thinking. Because the cloth was hidden inside that suitcase, it signals to me that the killer... ...had not prepared a more secure place to hide the evidence. Which means that the real murder weapon is either still on the murderer's personage... ...or is still at the real crime scene.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">There is one more possibility.</line>
 <line speaker="Edgeworth">And that would be?</line>
 <line speaker="Franziska">That the piggy bank is in fact the real weapon.</line>
@@ -1583,13 +1583,13 @@
 <line speaker="Edgeworth"><thought>She's used it for a long time...? I think not.</thought> Ms. Teneiro, I'd appreciate it if you wouldn't lie to me.</line>
 <line speaker="Teneiro">Excuse me!?</line>
 <line speaker="Edgeworth">I don't believe for even one second that you've sued this "for a very long time"! <thought>What proves that this hasn't been used for nearly as long as Ms. Teneiro says?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">There's hardly any dirt or grime on this suitcase! If this has been used for as long as you claim, then there should be some sign of that.</line>
 <line speaker="Teneiro">Mr. Edgeworth, in case you haven't noticed, I love to clean.</line>
 <line speaker="Franziska">That suitcase, the floor, and almost everything else in here sparkles. The only thing that isn't is the gray matter in your head!</line>
 <line speaker="Edgeworth"><thought>Urngh... There must be evidence that this suitcase hasn't been used before!</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Simply by looking here, you can tell!</line>
 <line speaker="Teneiro">Tell what by looking where?</line>
 <line speaker="Edgeworth">Please... A simple glance won't do. Look harder.</line>
@@ -1613,14 +1613,14 @@
 <line speaker="Franziska">Then investigate it by yourself on your own time!</line>
 <line speaker="Edgeworth"><thought>Gnnrgh! I should probably rethink this... I have to figure out where this suitcase came from!</thought></line>
 <line speaker="Edgeworth">Seeing as how the price tag is still on this suitcase... ...one can only assume it was out on the floor for sale in the shop. And the person who brought this suitcase was...</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Ms. Meele has a Mr. Ifly stuffed animal that she likes to carry around. If she is that much of a fan, it's only natural that it was she who bought this suitcase.</line>
 <line speaker="Teneiro">She does like that doll a lot. So much so that I've had to speak with her about it... ...but she has also laughed at me on many occasions that my suitcase's design is strange.</line>
 <line speaker="Edgeworth"><thought>Come to think of it, Ms. Meele did say something to that effect in the shop...</thought></line>
 <line speaker="Franziska">If you're done chatting, ladies, let's return to the topic at hand.</line>
 <line speaker="Edgeworth"><thought>Ladies!? Well, I never! Alright, I'll rethink things, but there really is only one point I have to focus on.</thought> The suitcase was on sale at the in-flight shop.</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the person who bought the suitcase!</line>
 <line speaker="Franziska">Sorry, but I don't understand your line of logic at all. Care to explain why you chose to finger that person?</line>
 <line speaker="Edgeworth">Hmph. If that's how you're going to play this, then I'll admit that I was wrong!</line>
@@ -1682,7 +1682,7 @@
 <line speaker="Edgeworth">............</line>
 <line speaker="Franziska">What's wrong? There's disbelief written all over your face.</line>
 <line speaker="Edgeworth">Franziska, I know that you are the lead investigator on this case, however...</line>
-<line speaker="Franziska"><cutIn>Hold it!</cutIn> Don't even think about wasting any more of my time.</line>
+<line speaker="Franziska"><cutIn type="holdIt">Hold it!</cutIn> Don't even think about wasting any more of my time.</line>
 <line speaker="Edgeworth">!</line>
 <line speaker="Franziska">You know the rules as well as I do. Evidence speaks louder than words. Even if this isn't a courtroom, that basic tenet still applies.</line>
 <line speaker="Edgeworth">............</line>
@@ -1691,35 +1691,35 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right...</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There is a contradiction between this piece of evidence and your testimony!</line>
 <line speaker="Teneiro">I don't want to go against the word of a professional prosecutor, but... ...I don't think there's a problem at all. I swear it as a professional flight attendant.</line>
 <line speaker="Edgeworth">Gnrrrk!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Take a good look at this, for it will prove my innocence.</line>
 <line speaker="Teneiro">............</line>
 <line speaker="Edgeworth">............W-Well!? Say something!</line>
 <line speaker="Teneiro">Ah! I'm sorry! Yes, well, I gave it a good look, but... ...no matter what angle I look at it from, I don't see how it will prove you didn't do it.</line>
 <line speaker="Edgeworth">Arrrgh...! <thought>I must've presented the wrong item...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Teneiro... What do you think about this piece of evidence?</line>
 <line speaker="Teneiro">What do I think about it...? ...Oh! I'm sorry!</line>
 <line speaker="Edgeworth">? Why are you apologizing?</line>
 <line speaker="Teneiro">I was being unprofessional. As a pro, I should've listened to your question with a smile. And I must also answer all questions with a smile.</line>
 <line speaker="Edgeworth"><thought>Argh... Just say what you mean, that you have no answer to my question!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your testimony just now and this piece of evidence...</line>
 <line speaker="Lablanc">Ah! I cannot believe how much time I have spent here! Yo will pay for this time with your piece of evidence!</line>
 <line speaker="Edgeworth">Wh--!? No, stop! This is an invaluable piece of evidence!</line>
 <line speaker="Lablanc">If you do not know how to use it, then give it to me! I will try to use it for you!</line>
 <line speaker="Edgeworth">Ngnnrgh... I know how to use it just fine, thank you! I... I simply made a tiny error.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Lablanc, could you please take a look at this piece for me?</line>
 <line speaker="Lablanc">Hmm... In American dollars... I say it is worth around... $9.99.</line>
 <line speaker="Edgeworth">Wh-What are you talking about!?</line>
 <line speaker="Lablanc">What are YOU talking about? Were you not intending to sell it to me?</line>
 <line speaker="Edgeworth">I-It's not for sale! <thought>I think I need to present something a bit more case-making to him.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Mr. Lablanc, your testimony just now contradicts this piece of evidence!</line>
 <line speaker="Lablanc">Ah, yes, from the old word "contradictus"...</line>
 <line speaker="Edgeworth">Hm...? Oh, you are correct. But what does that have to do with our present situation?</line>
@@ -1727,7 +1727,7 @@
 <line speaker="Edgeworth">Th-That's all well and good, however, about this piece of evide...</line>
 <line speaker="Lablanc">There is no value in that! I am not interested in buying that from you!</line>
 <line speaker="Edgeworth">Arrrrgh! <thought>There's plenty of value in it, even just superficially!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence perfectly exposes the flaw in your logic!</line>
 <line speaker="Franziska">Oh? Well then, why don't you show me how it does just that? Go on!</line>
 <line speaker="Gumshoe">Ooh! I bet it's this part, right? This conflicts with something, right, sir!?</line>
@@ -1736,13 +1736,13 @@
 <line speaker="Gumshoe">Ouch... I was just trying to follow your head, sir...</line>
 <line speaker="Franziska">That you would allow a subordinate to take over... You're a disgrace!</line>
 <line speaker="Edgeworth">Gnnnnnnnnrrrrk! <thought>I guess that wasn't it...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph. It would seem that your logic is not as perfect as you think it is.</line>
 <line speaker="Franziska">And what is that supposed to mean!?</line>
 <line speaker="Edgeworth">This piece of evidence should show you exactly what I mean.</line>
 <line speaker="Franziska">.........Oh, yes. It clearly shows what you're thinking. That you're attempting to buy yourself time!</line>
 <line speaker="Edgeworth">Gnnngh! <thought>I knew I shouldn't have tried to pull a fast one.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Franziska, I believe your testimony just now conflicts with this piece of evidence.</line>
 <line speaker="Franziska">And I believe that when you use the phrase "I believe", you are anything but certain. Which means that showing me that piece of evidence is just a way to waste time.</line>
 <line speaker="Edgeworth">Aaaaaaaaaah! <thought>She even managed to whip the evidence at the some time!</thought></line>
@@ -1768,7 +1768,7 @@
 <line speaker="Edgeworth">Thus the truth was lost for all eternity.</line>
 <line speaker="Franziska">Miles Edgeworth. Stop squirming and start acting like an honorable man!</line>
 <line speaker="Edgeworth">Nmph... But there are still so many things I have yet to prove!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">You should know better than that, especially as a disciple of Manfred von Karma.</line>
 <line speaker="Edgeworth"><thought>Hmph! So a "low-life criminal" like me is not worth hearing out, is that it?</thought></line>
 <line speaker="Gumshoe">But! But Mr. Edgeworth isn't the killer...OWWWWWWWWW!!</line>

@@ -260,8 +260,8 @@
 <line speaker="Penny">It's okay. I'm sure the kids will be fine. They'll find a new hero to follow.</line>
 <line speaker="Maya">No, that can't be true! If the program just ends, they'll be heartbroken for sure! N-Nick! Say something!</line>
 <line speaker="Phoenix">Umm... yeah. <thought>I think evidence, rather than words, is called for here.</thought> Here, take a look at this.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Penny">What's this?</line>
 <line speaker="Phoenix">This is why you can't stop the Steel Samurai.</line>
 <line speaker="Penny">I'm sorry... I don't understand.</line>
@@ -315,32 +315,32 @@
 <line speaker="Oldbag">See! See!? I see how you work! Anything that doesn't fit, you just blame on the dead! Well... well... Just butt out, lawyer-boy!</line>
 <line speaker="Phoenix"><thought>She knows something! But how am I going to get her to talk...?</thought></line>
 <line speaker="Phoenix">I'm sorry Ms. Oldbag, but I do have proof. I can prove that Mr. Hammer stole Mr. Powers's costume.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Mr. Powers ate a t-bone steak for lunch, correct?</line>
 <line speaker="Oldbag">W-well... yes. So?</line>
 <line speaker="Phoenix">This is the plate that he used to eat that steak. There are traces of sleeping pill powder on the plate!</line>
 <line speaker="Oldbag">Mmmph? Hah! I-I bet Powers put it in there himself! Even a lightweight like him must have trouble sleeping sometimes.</line>
 <line speaker="Phoenix">Except, I have proof that Mr. Hammer put the pills in.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Oldbag">Hmph! What's that supposed to prove!? That means nothing to me!</line>
 <line speaker="Maya">Nick... I'm kinda having trouble figuring that one out too.</line>
 <line speaker="Phoenix"><thought>Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!</thought></line>
 <line speaker="Phoenix">This bottle contained sleeping pills. Mr. Hammer's fingerprints were found on the bottle.</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Here's my proof.</line>
 <line speaker="Oldbag">What? What's a little empty bottle supposed to prove?</line>
 <line speaker="Phoenix">It's a bottle of sleeping pills. With Mr. Hammer's fingerprints on it...</line>
 <line speaker="Oldbag">Wh-what does that prove? I... I'm sure old Hammer had some sleepless nights! Where's your proof that he used those pills on Powers?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Oldbag">Hmph! What's that supposed to prove!? That means nothing to me!</line>
 <line speaker="Maya">Nick... I'm kinda having trouble figuring that one out too.</line>
 <line speaker="Phoenix"><thought>Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!</thought></line>
 <line speaker="Phoenix">Mr. Powers ate a t-bone steak for lunch, correct?</line>
 <line speaker="Oldbag">W-well... yes. So?</line>
 <line speaker="Phoenix">This is the plate that he used to eat that steak. There are traces of sleeping pill powder on the plate!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Oldbag">Hmph! What's that supposed to prove!? That means nothing to me!</line>
 <line speaker="Maya">Nick... I'm kinda having trouble figuring that one out too.</line>
 <line speaker="Phoenix"><thought>Hmm... wrong evidence? But I know Oldbag knows something! I have to get her to talk!</thought></line>

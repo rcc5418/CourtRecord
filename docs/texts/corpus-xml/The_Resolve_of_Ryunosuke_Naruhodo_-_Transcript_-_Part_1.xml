@@ -158,7 +158,7 @@
 <line speaker="Kazuma">In short, Lord van Zieks had ample opportunity to murder the victim.</line>
 <line speaker="Stronghart">Very well, then. Counsel for the Defence, begin your cross-examination!</line>
 <line speaker="Gina">All Yard detectives are s'posed to follow orders an' investigate wot they're told.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So...you follow orders, do you, Gina?</line>
 <line speaker="Gina">Nah, not me. I'm above all that, see.</line>
 <line speaker="Ryunosuke">Oh.</line>
@@ -167,7 +167,7 @@
 <line speaker="Kazuma">This 'detective' is still an apprentice, after all.</line>
 <line speaker="Gina">Yeah, well, this 'apprentice' ain't one to sit around an' wait to be told wot to do...even by the boss. That's why I've been doin' me own investigations into wot 'appened. I didn't find much at first...</line>
 <line speaker="Gina">But a little search o' the boss's office turned up a notebook that 'ad a load of secret meetin's in it.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you went through Inspector Gregson's things?</line>
 <line speaker="Gina">Yup! As part o' the independent Lestrade investigation!</line>
 <line speaker="Ryunosuke">I'm sure your superiors would be delighted that you're taking the initiative...</line>
@@ -180,7 +180,7 @@
 <line speaker="Ryunosuke">Haah...</line>
 <line speaker="Gina">I've given it in now though, ain't I? An' if it weren't for me, it wouldn't never 'ave been found!</line>
 <line speaker="Gina">Accordin' to that, the boss was lookin' into some smuggled goods dealin's that day.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Do you have any idea where those dealings were taking place?</line>
 <line speaker="Gina">Yup! It was all there in the boss's notes! Let's see if I can remember... Erm...</line>
 <line speaker="Kazuma">As I already said, the illegal dealings were due to take place at a gentleman's club.</line>
@@ -204,7 +204,7 @@
 <line speaker="Gina">Grrr...</line>
 <line speaker="Kazuma">In that case, let's get back to the witness's testimony, shall we?</line>
 <line speaker="Gina">Apparently the smuggled goods deal was gonna 'appen at a gentleman's club called 'The Grouse'.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">The Grouse? What sort of a club is that?</line>
 <line speaker="Gina">I ain't got the foggiest. Clubs ain't exactly my thing. But...I am kind o' curious!</line>
 <line speaker="Kazuma">They're not places where a foreign student like you would be readily admitted.</line>
@@ -215,9 +215,9 @@
 <line speaker="Ryunosuke">...I really don't think you should go 'picking' out anything. Anyway, that's where these black market dealings were going to take place, is it?</line>
 <line speaker="Gina">Yeah, it's gotta be. That's wot the lower-rankin' detectives at the Yard reckon.</line>
 <line speaker="Ryunosuke"><thought>Says the even lower-ranking detective...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gina">Looks like it was a big job an' all. But the coppers weren't on to it yet.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So how had Inspector Gregson come to find out about it, in that case?</line>
 <line speaker="Gina">That's the question, ain't it? But I'm just an apprentice, so...</line>
 <line speaker="Ryunosuke">And why didn't he inform Scotland Yard of his findings?</line>
@@ -226,7 +226,7 @@
 <line speaker="Gina">Anyway, the point is, somefin' went on at that club, no question.</line>
 <line speaker="Ryunosuke">You can't say that for certain though, surely?</line>
 <line speaker="Gina">Wot matters most is, there's witnesses wot saw the Reaper at the place, too!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Lord van Zieks was at the club?</line>
 <line speaker="Kazuma">He was. Detectives who visited the club yesterday to make inquiries have confirmed it. Several members report having seen the accused being admitted to the room in question as a guest.</line>
 <line speaker="Ryunosuke"><thought>It looks like there's no disputing that he was there then.</thought></line>
@@ -258,14 +258,14 @@
 <line speaker="Stronghart">Let me see that. 'This dark-suited young man is not in the least bit untrustworthy.'</line>
 <line speaker="Ryunosuke">Ah! Um...the other side, My Lord.</line>
 <line speaker="Stronghart">...Be more specific next time. ...! Ah... This would appear to be a ticket for passage upon a steamship, yes... The SS Grouse...</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">So there's a steamship named the Grouse that happens to share a name with the club. But I'm afraid to say... ...there's a flaw in your logic there.</line>
 <line speaker="Ryunosuke">How?</line>
 <line speaker="Kazuma">Look at the ticket. Notice the date of arrival in port.</line>
 <line speaker="Stronghart">The ship arrived at the Port of Dover on 1st November. ...Ah!</line>
 <line speaker="Kazuma">The day on which the sound like a gunshot was heard on Fresno Street. In other words... ...on the day in question here - 31st October - when the victim was on his clandestine mission... ...that ship hadn't yet docked on British shores!</line>
 <line speaker="Stronghart">That would certainly make an undercover investigation somewhat challenging.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The fact that the steamship hadn't yet reached Britain... ...substantiates the defence's assertion that the victim was investigating the SS Grouse on the day in question!</line>
 <line speaker="Kazuma">Then show your evidence for that assertion!</line>
 <line speaker="Ryunosuke">...Very well.</line>
@@ -312,7 +312,7 @@
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Kazuma">Barok van Zieks never carried out any of the actual killings. Whenever the Reaper's victims lost their lives, he always had a cast-iron alibi. Which tells us...that he must have had an accomplice.</line>
 <line speaker="Stronghart">And you claim...that was Inspector Gregson?</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Gina">W...Wot the 'ell d'ya think yer sayin', eh? My boss would never o' done nuffin' like that!</line>
 <line speaker="Kazuma">And yet...when you consider all the facts, it all makes perfect sense.</line>
 <line speaker="Gina">No! It, it can't be...</line>
@@ -361,7 +361,7 @@
 <line speaker="Ryunosuke">Wha...? <thought>It, it can't be...</thought> Seishiro Jigoku?</line>
 <line speaker="Susato">But that's...Judge Jigoku!</line>
 <line speaker="Stronghart">Seishiro Jigoku... Certainly not an English name, you're right.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But that can't be right! I know Judge Jigoku! And I saw him the day before yesterday! Here in London! So I know for a fact that the man hasn't been assassinated!</line>
 <line speaker="Kazuma">As I said...the Reaper failed.</line>
 <line speaker="Ryunosuke">Oh...</line>
@@ -388,7 +388,7 @@
 <line speaker="Stronghart">...Don't raise your glass in my direction, sir. Counsel for the Defence, begin the cross-examination immediately!</line>
 <line speaker="Ryunosuke">At once, My Lord!</line>
 <line speaker="Gina">Yeah, this notebook does 'ave a load o' stuff about wot the Reaper got up to these past ten years.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">In other words, it shows that Gregson was basically acting as the Reaper...</line>
 <line speaker="Gina">Not you an' all! That ain't the only explanation, is it? 'E could 'ave been investigatin' the Reaper in secret and that notebook said wot 'e found out!</line>
 <line speaker="Van Zieks">If I may... When originally people began referring to me as the Reaper, I didn't object. I believed the power to intimidate London's criminal classes into compliance with the law to be beneficial.</line>
@@ -408,7 +408,7 @@
 <line speaker="Gina">Fine...</line>
 <line speaker="Susato">Is something wrong, Mr Naruhodo? You seemed a little shocked by something a moment ago.</line>
 <line speaker="Ryunosuke">Oh... No, it's...it's alright. <thought>I'm overthinking this, aren't I?</thought></line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gina">Right, I've 'ad just about enough o' this!</line>
 <line speaker="Ryunosuke">Gina?</line>
 <line speaker="Gina">All this nonsense about the boss plannin' to kill people... It's cobblers! Come on, 'Oddo!</line>
@@ -427,7 +427,7 @@
 <line speaker="Susato">Oh! Do, do you mean...?</line>
 <line speaker="Ryunosuke"><thought>I'm not going to let Gina's plea for help fall on deaf ears.</thought></line>
 <line speaker="Gina">Names o' victims, dates an' places an' stuff... An' the last entry in there was 31st October.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Names of victims, dates, places and 'stuff'? What in particular?</line>
 <line speaker="Gina">Well, beside the victims' names, this other name kept croppin' up.</line>
 <line speaker="Ryunosuke">What other name was that?</line>
@@ -449,7 +449,7 @@
 <line speaker="Van Zieks">But...Gregson was the one making the plans, was he not?</line>
 <line speaker="Susato">Oh...how infuriating!</line>
 <line speaker="Ryunosuke"><thought>A nameless assassin...?</thought></line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gina">Right, I've 'ad just about enough o' this!</line>
 <line speaker="Ryunosuke">Gina?</line>
 <line speaker="Gina">All this nonsense about the boss plannin' to kill people... It's cobblers! Come on, 'Oddo!</line>
@@ -468,7 +468,7 @@
 <line speaker="Susato">Oh! Do, do you mean...?</line>
 <line speaker="Ryunosuke"><thought>I'm not going to let Gina's plea for help fall on deaf ears.</thought></line>
 <line speaker="Gina">It said 'Grouse' for the place on that date, and then the name o' the mark.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And you're saying that the mark listed was Seishiro Jigoku?</line>
 <line speaker="Gina">That's wot it said. Funny name, if you ask me. An' I thought your name was odd!</line>
 <line speaker="Ryunosuke">So pleased to have lost my crown there...</line>
@@ -483,7 +483,7 @@
 <line speaker="Kazuma">.........</line>
 <line speaker="Stronghart">It's a mystery why such a man would be listed in the inspector's notebook.</line>
 <line speaker="Gina">I didn't think it was possible, but the mood in 'ere's got even worse now. Maybe I'll just keep talkin'...</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gina">Right, I've 'ad just about enough o' this!</line>
 <line speaker="Ryunosuke">Gina?</line>
 <line speaker="Gina">All this nonsense about the boss plannin' to kill people... It's cobblers! Come on, 'Oddo!</line>
@@ -502,7 +502,7 @@
 <line speaker="Susato">Oh! Do, do you mean...?</line>
 <line speaker="Ryunosuke"><thought>I'm not going to let Gina's plea for help fall on deaf ears.</thought></line>
 <line speaker="Gina">There was a note about 'im bein' a criminal wot got away from the Reaper in court ten years ago or summat.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What do you mean, a criminal?! Judge Jigoku is no criminal!</line>
 <line speaker="Gina">Well don't ask me! I don't know nuffin' about it!</line>
 <line speaker="Susato">Oh, do you remember what Father told us? That Judge Jigoku did once appear in court here in Britain. It was related to the Professor case, I'm sure!</line>
@@ -519,7 +519,7 @@
 <line speaker="Ryunosuke">Come on, that's absurd! To take someone's life for that?</line>
 <line speaker="Kazuma">Isn't the whole premise of the Reaper absurd, killing those who have been found innocent? Clearly the rules by which the man operates...are beyond a sane person's comprehension!</line>
 <line speaker="Ryunosuke">But...</line>
-<line speaker="???"><cutIn>Objection!</cutIn></line>
+<line speaker="???"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gina">Right, I've 'ad just about enough o' this!</line>
 <line speaker="Ryunosuke">Gina?</line>
 <line speaker="Gina">All this nonsense about the boss plannin' to kill people... It's cobblers! Come on, 'Oddo!</line>
@@ -538,7 +538,7 @@
 <line speaker="Susato">Oh! Do, do you mean...?</line>
 <line speaker="Ryunosuke"><thought>I'm not going to let Gina's plea for help fall on deaf ears.</thought></line>
 <line speaker="Gina">But honest! The boss didn't do none of it! 'E was... 'E was just investigatin' the Reaper, that's all!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you have complete faith that Inspector Gregson is innocent in all of this?</line>
 <line speaker="Gina">'Course I do! I mean... ...I owe 'im that, don't I? Because 'e's the only one wot 'ad faith in me.</line>
 <line speaker="Susato">Gina...</line>
@@ -551,7 +551,7 @@
 <line speaker="Van Zieks">...I'm not suggesting that the Reaper's methods are justified at all. But life isn't black and white. That's all I'm saying.</line>
 <line speaker="Gina">Uhhh...</line>
 <line speaker="Gina">Come on, 'Oddo! 'Elp! You've gotta find a flaw somewhere!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">I want to thank you, Gina. You helped me find my resolve.</line>
 <line speaker="Gina">Eh?</line>
 <line speaker="Kazuma">What do you mean?</line>
@@ -591,7 +591,7 @@
 <line speaker="Stronghart">I think this line of argument has run its course. I suggest you learn from your mistakes...before you make a fatal one in the eyes of the Reaper.</line>
 <line speaker="Ryunosuke">Uuugh... <thought>I'd better listen very carefully to the testimony again...</thought></line>
 <line speaker="Ryunosuke">Ryunosuke:</line>
-<line speaker="Kazuma"><cutIn>Objection!</cutIn></line>
+<line speaker="Kazuma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Kazuma">People can only be inconsistent in what they say if they actually testify. But in case you hadn't noticed...the person you're accusing isn't even in the stand!</line>
 <line speaker="Ryunosuke">Ah!</line>
 <line speaker="Stronghart">The defence appears unable to respond to that replication. Any further obviously deliberate obstructions to these proceedings will not be tolerated, Counsel.</line>
@@ -635,7 +635,7 @@
 <line speaker="Kazuma">Because at the time he was making his way to the steamship docked on the northern coast of France. As shown by the passport found in the victim's metal trunk.</line>
 <line speaker="Ryunosuke">So the question is...how did you know about the inspector's trunk?</line>
 <line speaker="Kazuma">......... We know the man went on a trip to France. Where else would he have put his passport?</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But you knew it was a metal trunk! Answer me honestly, Kazuma! On 31st October...where exactly were you?!</line>
 <line speaker="Kazuma">......... At the Port of Dunkirk, on board the SS Grouse... Is that the answer you're looking for, Ryunosuke?</line>
 <line speaker="Ryunosuke">Kazuma! What did you...?! <thought>I hadn't considered the possibility before, but... ...if Kazuma was there on the ship, then...it can only have been for one purpose...</thought></line>
@@ -922,7 +922,6 @@
 <line speaker="Mikotoba">The way you go on, you sound rather more like a great thief than a great detective.</line>
 <line speaker="Sholmes">My dear Mikotoba, as long as there is greatness, I am quite satisfied.</line>
 <line speaker="Mikotoba">Haah... Of course you are.</line>
-<line speaker="After examining tray with glass, wastebasket, large briefcase, and square mark on wall">Tchikin:</line>
 <line speaker="Mikotoba">Ah, Able Seaman Strogenov. Hello again.</line>
 <line speaker="Sholmes">...I was beginning to think you'd never materialise.</line>
 <line speaker="Tchikin">Eh? You...you are waiting for me?</line>
@@ -1137,7 +1136,7 @@
 <line speaker="Kazuma">We must accept the unfortunate conclusion that the Reaper has already done the deed.</line>
 <line speaker="Van Zieks">.........</line>
 <line speaker="Kazuma">There's no sense in wasting any more of the court's time. The prosecution calls for an immediate verdict.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">No. The trial cannot end now.</line>
 <line speaker="Kazuma">You're a Japanese man, Ryunosuke. You should know when to lay down your sword.</line>
 <line speaker="Ryunosuke">And you should know never to presume when the battle is won.</line>
@@ -1164,19 +1163,19 @@
 <line speaker="Ryunosuke"><thought>...We live to fight another day...by the skin of our teeth.</thought></line>
 <line speaker="Kazuma">.........</line>
 <line speaker="Ryunosuke">I can't find anything out of place.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The witness's last statement...exhibits a fundamental inconsistency!</line>
 <line speaker="Stronghart">Not one that any British court would recognise, Counsel.</line>
 <line speaker="Ryunosuke">Wha...?!</line>
 <line speaker="Stronghart">Remember, this is a closed court. Whatever fate befalls you in here, no one outside will ever know.</line>
 <line speaker="Ryunosuke"><thought>...Should I be wondering if I'll make it out of this courtroom alive?</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">My Lord! As counsel for the defence, I must object to that last statement!</line>
 <line speaker="Stronghart">And as the judge, I must deny your objection. There is no contradiction here.</line>
 <line speaker="Ryunosuke">Oh.</line>
 <line speaker="Stronghart">No contradiction, other than the fact that a Far Eastern lawyer is practising in a British courtroom!</line>
 <line speaker="Ryunosuke"><thought>...Put there by a not-so-far away Lord Chief Justice, if you remember.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">That last statement...seemed a little questionable to me. What do you think, My Lord?</line>
 <line speaker="Stronghart">I see no inconsistency there. ...Do you?</line>
 <line speaker="Ryunosuke">Erm...</line>

@@ -149,7 +149,6 @@
 <line speaker="Ryunosuke">Actually...it's the armband I always wear that symbolises my role as a defence lawyer...</line>
 <line speaker="Sholmes">Precisely! Which leads us to but one conclusion: Your arm is in fact the particularly long neck of a miniature canine!</line>
 <line speaker="Ryunosuke"><thought>I'm starting to wish I'd never shown him this now. The man's barking mad...</thought></line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Iris">Hmmm... Hurley, do you know what it's all about?</line>
 <line speaker="Sholmes">...Hm? Ah, well, who can say?</line>
 <line speaker="Ryunosuke">What? But, but you said...</line>
@@ -276,7 +275,6 @@
 <line speaker="Ryunosuke">...Well, at least there seems to be a little lock to secure the cabinet doors.</line>
 <line speaker="Susato">I don't imagine that would stop you if you were hungry. I worry that you'd break the lock.</line>
 <line speaker="Ryunosuke">...Hunger doesn't turn me into a criminal, you know, Miss Susato.</line>
-<line speaker="After clearing all Converse options with woman and examining picture frame">???:</line>
 <line speaker="Ryunosuke"><thought>'Narrowfodder' now...?</thought> Well, um, if you're looking for Naruhodo, the lawyer, that's me, but...</line>
 <line speaker="???">Ah! Mr Narrowfodder, good. This is for you. It's a message from a Mr Saucy Nutsmeg.</line>
 <line speaker="Ryunosuke">Mr Natsume?! Sent a message...to me?</line>
@@ -786,7 +784,6 @@
 <line speaker="Susato">......... Yes, whoever opened it...was clearly someone with an unrefined temperament. And judging from the angle of the rip here...the person in question must have been right-handed!</line>
 <line speaker="Ryunosuke">Miss Susato! I think perhaps...someone's been reading too much of 'The Adventures of Herlock Sholmes'!</line>
 <line speaker="Susato">You can never read too much of it, Mr Naruhodo! Never!</line>
-<line speaker="After examining meter on wall, teacup, bricked-up window twice, and paper scrap on floor">???:</line>
 <line speaker="Ryunosuke">Inspector Gregson! B-Back so soon?</line>
 <line speaker="Gregson">After I threw that little Japanese fella in the clink, I went and reported this to the investigation division. In five minutes' time, this place will be cordoned off by the Yard.</line>
 <line speaker="Ryunosuke">Oh, I see. Well, we'd better be leaving then.</line>
@@ -1025,7 +1022,6 @@
 <line speaker="Ryunosuke">Mr Garrideb, could I show you this?</line>
 <line speaker="Garrideb">Been quite a couple of days, as you can imagine. I'm afraid I'm rather tired. Haven't really got the energy in the old eyeballs, to be honest with you.</line>
 <line speaker="Ryunosuke">...Some other time, then.</line>
-<line speaker="After clearing all Converse options with John Garrideb and examining meter on wall, teacup, bricked-up window twice, and paper scrap on floor in Mr Natsume's Lodgings, Ground Floor">Ryunosuke:</line>
 <line speaker="Susato">A good idea!</line>
 <line speaker="Susato">Look, Mr Naruhodo. Mr Natsume...have the police finished questioning you now?</line>
 <line speaker="Soseki">Locum Student Mr Naruhodo Esquire!</line>
@@ -1125,7 +1121,6 @@
 <line speaker="Ryunosuke">What?</line>
 <line speaker="Soseki">You're too kind. I accept it gladly!</line>
 <line speaker="Ryunosuke">Sorry, but...I wasn't trying to give it to you, actually.</line>
-<line speaker="After clearing all Converse options">Soseki:</line>
 <line speaker="Ryunosuke">You mean Mr Garrideb?</line>
 <line speaker="Soseki">Yes. He knows that if people keep dying there, he'll never be able to rent it out again.</line>
 <line speaker="Ryunosuke">Well, that's true. I, for one, wouldn't go near the place.</line>

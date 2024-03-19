@@ -41,7 +41,7 @@
 <line speaker="Judge">There... there isn't...? But I'm sure... once before, in this courtroom... Ack!</line>
 <line speaker="Judge">Wh-What is that!? A whip!? I'm not sure I care for such a thing in my courtroom!</line>
 <line speaker="Judge">B-Bailiff! Remove that whip, at...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...I have no objection to the whip.</line>
 <line speaker="Judge">Y-You don't...?</line>
 <line speaker="Edgeworth">The prosecution can wield a whip or drink seventeen cups of coffee... But there is still only one truth. That is what I stand here to prove today!</line>
@@ -68,7 +68,7 @@
 <line speaker="Edgeworth">...</line>
 <line speaker="Judge">Mr. Edgeworth. ...Please begin your cross-examination.</line>
 <line speaker="Bikini">That night I was helping an acolyte with her training in the Inner Temple. But...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What is this Inner Temple...?</line>
 <line speaker="Bikini">Well, see, conversing with the spirits is what we train people to do, right?</line>
 <line speaker="Judge">We'll be the ones asking you the questions, madam.</line>
@@ -77,25 +77,25 @@
 <line speaker="Bikini">It is all quite exacting. It can't be performed without a nun supervising.</line>
 <line speaker="Edgeworth"><thought>A tutor with a whip, in your case.</thought> If that is the case... ...then why did you return to Hazakura Temple, where the murder took place?</line>
 <line speaker="Bikini">Well, as you can see, my back likes to act up. Violently.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Violently...?</line>
 <line speaker="Bikini">That's right. It's no laughing matter, especially in winter! I can't hold anything heavier than a knife and fork during the cold months! Just being alive is like strict training! Wah ha ha! Wha ha! Wah ha ha!</line>
 <line speaker="Edgeworth">On the night of the murder, was this fabulous back of yours hurting again...?</line>
 <line speaker="Bikini">That's right. Raging like a bull in a pigpen. I almost fainted once or twice! I just knew that unless I warmed it up, it was going to finally finish me off!</line>
 <line speaker="Bikini">So, I left Iris to help the acolyte, and returned to Hazakura Temple.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You "left Iris to help"... With what?</line>
 <line speaker="Bikini">What do you think? The acolyte's training, of course. It was just past 10 PM, so we were starting to enter into the training exercises proper.</line>
 <line speaker="Judge">Wasn't it your place to remain with the disciple?</line>
 <line speaker="Bikini">Well, the job is simply to watch over the acolyte so that they don't pass away.</line>
 <line speaker="Edgeworth">Just to confirm this point again, that night... ...you met Iris in the Inner Temple, correct?</line>
 <line speaker="Bikini">Yes, yes. She's a gentle, honest girl. She's never once failed to follow my directions.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Witnesses have to undergo their own trials, I'm afraid. The defendant's fate rests on their powers of observation and memory, after all.</line>
 <line speaker="Bikini">Well, well, well. Don't worry! I'm more than up to the task! I'm a woman of faith, after all. The head honcho of Hazakura Temple.</line>
 <line speaker="Edgeworth">In that case, Ms. Honcho... I'd like you to explain something for me. The discrepancy between your testimony and that of the defendant, Iris. She claims that after ringing the lights out bell, she went back and stayed in her room. ...Which means! She did not go to the Inner Temple at all!</line>
 <line speaker="Bikini">N... No...! She said that...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But that is completely illogical. The murder was committed in the courtyard of Hazakura Temple. Claiming that she "went to the Inner Temple" would make for a much better alibi.</line>
 <line speaker="Bikini">But that is odd... Whatever the reason... I can't believe that she would lie...!</line>
 <line speaker="Judge">Hmm... she does indeed have honest eyes! Uwaaaah!</line>
@@ -107,16 +107,16 @@
 <line speaker="Edgeworth">...Understood, Your Honor. <thought>I was naïve to think that alone would do the trick.</thought></line>
 <line speaker="Judge">Then please add your comments aboot Iris to the testimony... And let us return to the cross-examination.</line>
 <line speaker="Bikini">Iris came to the Inner Temple. She was dressed exactly as she had been at dinner.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you sure that you're not making a mistake...?</line>
 <line speaker="Bikini">...You, young man, need to get your estimation of me up from the floor!</line>
 <line speaker="Edgeworth">Nngh...!</line>
 <line speaker="Bikini">Iris always wears the same clothes. The smallest thing out of place would have stood out like a sore thumb to me! You're making a mistake, thinking I made a mistake!</line>
 <line speaker="Judge">...An excellent finish there, witness.</line>
 <line speaker="Edgeworth"><thought>Still, I have to wonder...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Bikini">There's no bath at the Inner Temple, you see, and I needed a long, hot soak.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...So you returned to the Hazakura Temple in order to take a bath?</line>
 <line speaker="Bikini">My back is to blame for everything. It's a "do or be done in" kind of world, after all.</line>
 <line speaker="Edgeworth">How long were you in the bath for, if you don't mind me asking?</line>
@@ -128,7 +128,7 @@
 <line speaker="Edgeworth"><thought>Is there some sort of "Kick Me" sign stuck to the defense's bench!?</thought></line>
 <line speaker="Bikini">Anyway, I couldn't afford to be away from my post for too long, you understand, so...</line>
 <line speaker="Bikini">It was after I had finished, just as I was heading back... that's when I saw it!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The crime took place in the courtyard, correct...?</line>
 <line speaker="Bikini">When you go from my room to the Main Hall... ...you have to take a winding hallway from which you can see the courtyard.</line>
 <line speaker="Judge">Hmm... That certainly seems to be true.</line>
@@ -154,12 +154,12 @@
 <line speaker="Edgeworth"><thought>This judge... His imagination is about as vivid and creative as Detective Gumshoe...</thought></line>
 <line speaker="Edgeworth">Calling everyone by their full name... Can't you do something about that habit of yours?</line>
 <line speaker="Bikini">I finished my bath around 11, and I thought I should return to the Inner Temple.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...How far is it from your room to the Inner Temple?</line>
 <line speaker="Bikini">Let me think a moment... About twenty minutes, on these stumps of mine. It's about 15 minutes to Dusky Bridge from Hazakura Temple. The Inner Temple is just beyond the bridge.</line>
 <line speaker="Bikini">T-That's right... I was heading along the walkway toward the Main Hall...</line>
 <line speaker="Bikini">And as I was walking back... I heard a noise from the courtyard. I took a look and...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You say you heard a noise...?</line>
 <line speaker="Bikini">"Thump"... Just like that.</line>
 <line speaker="Bikini">It's very quiet in the temple, you know. You can even hear the snow falling from the branches. "Thump"... Just like that.</line>
@@ -168,7 +168,7 @@
 <line speaker="Judge">Hoh hoh. Hoh hoh. Hoh hoh... Uaaaaaah!</line>
 <line speaker="Bikini">Well. Whatever the source of the sound, I looked over at the courtyard and...</line>
 <line speaker="Bikini">Iris was...! Oh, Mystic Elise! And with that sword, of all things!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...This is the second time that the witness has testified to seeing the defendant. But... some doubt remains in these claims.</line>
 <line speaker="Bikini">Hey, just what does that mean!? Just because you're a good-looking young man doesn't give you the right to...</line>
 <line speaker="Edgeworth">The murderer who stabbed the victim with the sword... Sister Bikini, try to recall exactly who it was you saw! As clearly as you can!</line>
@@ -185,7 +185,7 @@
 <line speaker="Judge">Witness. Add that statement to your testimony.</line>
 <line speaker="Bikini">...No problem.</line>
 <line speaker="Bikini">Now that you mention it... Iris didn't have her hood on.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You are sure about that...?</line>
 <line speaker="Bikini">Yes. After all, we always wear the same clothes. Ah! I don't mean because we're poor, you understand? It's our style. Yes, that's it!</line>
 <line speaker="Edgeworth">...There's absolutely no need to explain yourself.</line>
@@ -194,21 +194,21 @@
 <line speaker="Bikini">Iris didn't have her hood on. I'm sure of it!</line>
 <line speaker="Judge">...Very well. Now, please tell us aboot the victim, eh.</line>
 <line speaker="Bikini">Mystic Elise was staying in the corner room, which faces out onto the courtyard.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The room the victim was staying in overlooked the courtyard, correct?</line>
 <line speaker="Judge">Which means... the victim's room was on the second floor?</line>
 <line speaker="Bikini">No, no. Hazakura Temple is a single story building. But the mountain itself slopes downward... ...which elevates the Main Gate side of the temple and the guest rooms in the back... ...to about the height of a two story building.</line>
 <line speaker="Judge">I see... And the victim was staying in one of these elevated rooms, correct?</line>
 <line speaker="Bikini">Yes... I should know. I'm the one who carried her things to her room, after all...</line>
 <line speaker="Bikini">The stabbing I saw must have occurred after she was pushed out of her window.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What makes you so sure of all this...?</line>
 <line speaker="Bikini">It's just like I told you earlier... "I heard a noise from the courtyard." OK? "Thump"... Just like that.</line>
 <line speaker="Judge">Hmm... It appears that the witness was not mistaken then.</line>
 <line speaker="Bikini">Yep. Yep. I'm more than just a pretty face. Especially in winter! I'm a woman of faith, after all. The head honcho of Hazakura Temple.</line>
 <line speaker="Edgeworth"><thought>There's only two of them working there...!</thought></line>
 <line speaker="Edgeworth">...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>...It doesn't feel like she is lying. This is very powerful testimony, too. She claims to have seen the instant in which the defendant stabbed the victim... There are only two things I can believe in right now... My client, Iris, and my own abilities as a defense attorney.</thought></line>
 <line speaker="Edgeworth">...Impressive logic. That's what I'd like to say, anyway.</line>
 <line speaker="Bikini">Oh please do! My brain is something else... especially in winter!</line>
@@ -217,7 +217,7 @@
 <line speaker="Judge">T-That's right! It says "after death" right here!</line>
 <line speaker="Edgeworth">The scene the witness claims to have seen is contradictory! If the defendant stabbed and killed the victim there in the courtyard... ...how did the victim then go on to take a ten foot fall!?</line>
 <line speaker="Judge">O-Order! Order! The victim was killed and then fell! If that is the case... ...then the victim must have been killed in her room... Don't you agree?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Were there any signs of a struggle in Ms. Deauxnim's room...?</line>
 <line speaker="Edgeworth">She was stabbed with a sword! That would leave a blood stain, wouldn't you agree?</line>
 <line speaker="Judge">W-Well, Ms. von Karma? Was there any blood...? Waaaaaah!</line>
@@ -235,26 +235,26 @@
 <line speaker="Judge">Hmm... This all confirms Ms. von Karma's theory...</line>
 <line speaker="Edgeworth"><thought>"Perfection" is an impossibility, Franziska von Karma... And I'm here to teach you just that...</thought></line>
 <line speaker="Bikini">When I looked across at the scene, the sword was already in place.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">At that time... was the victim bleeding?</line>
 <line speaker="Bikini">Well... I was very shocked to be seeing all this, of course... So I'm not entirely sure... But I don't think I saw any blood. Not then.</line>
 <line speaker="Edgeworth">In any case... Let's be clear on one very important point. Did you actually see the instant in which the victim was stabbed!?</line>
 <line speaker="Bikini">Thinking about it now, I didn't actually see her stab Mystic Elise.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Think carefully. This is very important.</line>
 <line speaker="Bikini">It's Iris we are talking about here! I'm thinking for all I'm worth! ... No, when I looked over, the sword was already in Mystic Elise's body.</line>
 <line speaker="Judge">Hmmmmmm...</line>
 <line speaker="Edgeworth"><thought>It might not be  conclusive, but... ...this testimony supports her theory.</thought></line>
 <line speaker="Bikini">I saw the instant in which the blade, plunged in to the hilt, was smoothly drawn out.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"Smoothly", you say... You're saying you saw the sword smoothly slide out?</line>
 <line speaker="Bikini">That's right...</line>
 <line speaker="Bikini">The whole thing happened right next to the gold statue of Mystic Ami. Mystic Elise was on the ground, and Iris was stooped over her. The sword was buried up to the hilt. When Iris stood up, the sword in her hand just slid out of Mystic Elise's body. It slid out from that gaping wound...! Aaaah...</line>
 <line speaker="Judge">It goes without saying... that if the sword was removed there would be bleeding.</line>
 <line speaker="Edgeworth"><thought>Is that really the case...? I can't help but feel that something about this testimony is very out of place... That something which couldn't possibly have happened... appears to have happened.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Bikini">I've never seen so much blood before...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...So you're saying that you saw the victim's blood?</line>
 <line speaker="Bikini">T-That's right! Some of it had splattered onto Iris, too...</line>
 <line speaker="Edgeworth">Wh-What!? <thought>Her clothes were blood-flecked as well...?</thought></line>
@@ -271,7 +271,7 @@
 <line speaker="Judge">Witness! You will add this statement to your testimony!</line>
 <line speaker="Bikini">Oh... Was that important...!?</line>
 <line speaker="Edgeworth"><thought>More important than you can imagine...</thought></line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Was the bleeding caused by the killer removing the sword...?</line>
 <line speaker="Bikini">No mistaking it! I remember it all, clear as day!</line>
 <line speaker="Edgeworth">...Don't you think that's a bit odd?</line>
@@ -280,7 +280,7 @@
 <line speaker="Judge">Indeed... It is strange, now that you mention it.</line>
 <line speaker="Edgeworth"><thought>I'm going to need to find an answer to this mystery, too...</thought></line>
 <line speaker="Bikini">That's when I fainted. You can't blame me, can you?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Now, on to what the killer did next... You saw none of it? Correct?</line>
 <line speaker="Bikini">Well... I was unconscious...</line>
 <line speaker="Bikini">I don't know... 10, maybe 20 minutes...? A young man with a very prickly looking head woke me up. ...By stepping on me, actually.</line>
@@ -288,7 +288,7 @@
 <line speaker="Bikini">Well, I wasn't asking for mouth-to-mouth, or anything of the sort... ...but I would've welcomed a more gentle awakening right about then, let me tell you.</line>
 <line speaker="Edgeworth">...I shall have words with the offender personally. What did you see upon awakening...?</line>
 <line speaker="Bikini">And when I awoke... Mystic Ami was... stabbing Mystic Elise through the back!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">By "Mystic Ami", you are referring to the golden statue, correct?</line>
 <line speaker="Bikini">Just stabbing someone with the Shichishito, a sacred treasure, is terrible enough.</line>
 <line speaker="Bikini">But to then make Mystic Ami hold the blade...!</line>
@@ -304,10 +304,10 @@
 <line speaker="Judge">What do you mean...? Please, explain you... Uwaaaaah!</line>
 <line speaker="Edgeworth">To start with... Do you think it would be possible to stab someone to the hilt with this? No matter how I look at the defendant, she doesn't appear strong enough for that.</line>
 <line speaker="Judge">The objection stands! I wept a little back there, I must admit.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...That isn't the only issue here. If this sword was truly stabbed into the body up to the hilt... Well, just look at all the branches on it. It certainly wouldn't come out smoothly.</line>
 <line speaker="Edgeworth">We also have the problem of the amount of bleeding. It's true that when a blade is left in a body, it acts as a "plug" of sorts. However! When the weapon is shaped like this, it's an entirely different story. The wound would be too large for the blade to completely stop from bleeding!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I'm not finished. There is still one more... conclusive contradiction.</line>
 <line speaker="Judge">Y-You've still got more!?</line>
 <line speaker="Edgeworth">...This one is simple. If this sword really was thrust in all the way to the hilt... ...why is there only blood on the tip of it?</line>
@@ -341,14 +341,14 @@
 <line speaker="Edgeworth"><thought>Did she really go to the river to dispose of the murder weapon...?</thought></line>
 <line speaker="Judge">Mr. Edgeworth! ...Your cross-examination, please.</line>
 <line speaker="Bikini">I saw the murder at around 11 PM...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...You are sure about the time?</line>
 <line speaker="Bikini">Yes... I was worried about it, after all.</line>
 <line speaker="Judge">Why was that?</line>
 <line speaker="Bikini">Because I have a strong sense of responsibility. Especially at this time of year. The acolyte was being doused in freezing water at the time... I couldn't very well take it easy in the bath all night now, could I? So at 11, I decided to leave Hazakura Temple.</line>
 <line speaker="Edgeworth"><thought>Her estimation of the time seems reliable, at least.</thought></line>
 <line speaker="Bikini">And after asking that it be reported, I went out to the Main Gate.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You asked Phoenix Wright to report the crime, correct?</line>
 <line speaker="Bikini">Right, right, the one who trampled me.</line>
 <line speaker="Edgeworth"><thought>It seems she is the type to hold a grudge...</thought></line>
@@ -356,7 +356,7 @@
 <line speaker="Edgeworth">He had forgotten it at home, apparently.</line>
 <line speaker="Bikini">Anyway, I was really scared... And it was taking him a while to get back... So I thought I'd go out by the Main Gate for a spell.</line>
 <line speaker="Bikini">And there... I saw tracks! Tracks that indicated the snowmobile had been used!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">As I recall, there was a snowmobile outside the Main Gate when I visited.</line>
 <line speaker="Bikini">That's it. That's the only one we have. It'll run no matter how much snow falls!</line>
 <line speaker="Edgeworth">Now, you're certain the snowmobile was there at the Main Gate when you arrived?</line>
@@ -380,7 +380,7 @@
 <line speaker="Judge">...Well then, witness.</line>
 <line speaker="Judge">How long does it take to reach the bridge by snowmobile?</line>
 <line speaker="Bikini">It takes 15 minutes to walk to Dusky Bridge, but less than 5 using one of those!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">In that case... why didn't you use it yourself? You could've spared yourself some walking.</line>
 <line speaker="Bikini">Ah! There's a reason for that! Have we got a moment for me to explain?</line>
 <line speaker="Judge">I think that's why the question was asked in the first place...</line>
@@ -389,21 +389,21 @@
 <line speaker="Bikini">...I haven't been able to find the courage to ride anything since then...</line>
 <line speaker="Bikini">Anyway, the killer must have used it!</line>
 <line speaker="Bikini">Maybe they threw the weapon into Eagle River and came back while I was knocked out?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Refresh our memory. How long were you knocked out for...?</line>
 <line speaker="Bikini">Like I said, somewhere between 10 to 20 minutes.</line>
 <line speaker="Edgeworth">...I have to concede that is more than enough time.</line>
 <line speaker="Edgeworth">...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Bikini">...Iris could have done that. She can drive a snowmobile after all...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">While it would have been possible, time-wise... ...one element remains out of place here.</line>
 <line speaker="Judge">Oh? And what would this mystery element be?</line>
 <line speaker="Edgeworth">The killer's reasoning, Your Honor. "Why did the killer do all of this?" Why go to the Eagle River to dispose of the murder weapon when there are other methods?</line>
 <line speaker="Judge">Hmm... Too many unanswered questions! Your response, Ms. von Karma? Waaaaaaaah!</line>
 <line speaker="Judge">Whaaaaat!?</line>
 <line speaker="Edgeworth"><thought>She's as over the top as always...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>Another mystery to feed the fire... "Was there any reason to go and throw away the murder weapon"...? Luckily, there is surely a problem with this testimony. Now all I have to do is start poking holes in this flawed account...</thought></line>
 <line speaker="Edgeworth">I admit this photograph proves something. It proves that the snowmobile was used on the night of the murder.</line>
 <line speaker="Edgeworth">However... If what the witness says is true, why is there only one set of tracks?</line>
@@ -420,7 +420,7 @@
 <line speaker="Bikini">There is only one key for the snowmobile.</line>
 <line speaker="Edgeworth">Whaaaaat!?</line>
 <line speaker="Judge">Order! Order! Now I don't feel like a clueless Puck Bunny! I understand everything! If the defendant did indeed use the snowmobile... ...which means that Iris is most definitely the murder--</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Your Honor! Please, wait a moment.</line>
 <line speaker="Judge">What is it, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">There is one gaping hole in Ms. von Karma's claim!</line>
@@ -429,8 +429,8 @@
 <line speaker="Edgeworth">The tracks to the river were covered by snow... What a nice theory. However, Ms. von Karma... That is impossible.</line>
 <line speaker="Edgeworth">...No need. The evidence will do all of the talking for me.</line>
 <line speaker="Judge">On the night of the murder the killer went to, and returned from, Dusky Bridge... ...in order to dispose of the murder weapon. The outgoing tracks were erased by snow. ...Or so claims Ms. von Karma. Mr. Edgeworth! Present your evidence to the contrary, eh! Evidence that the outgoing tracks were not covered by snow!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Witness! Please tell us again what time it was when you witnessed the crime.</line>
 <line speaker="Bikini">Like I said! It was around 11.</line>
 <line speaker="Edgeworth">...Of course, this means that the weapon was thrown away after that time, correct? On that note... Please take a look at this data. It is the weather report for Eagle Mountain on the night of the murder.</line>
@@ -446,14 +446,14 @@
 <line speaker="Judge">"It had stopped snowing at Hazakura Temple when the murder took place." ...You need to provide conclusive evidence of this.</line>
 <line speaker="Edgeworth"><thought>I've come this far... There's no turning back now.</thought> ...Very well. I, too, cannot allow any doubt to remain concerning this testimony.</line>
 <line speaker="Judge">Very well then... Mr. Edgeworth! Where is your evidence that it had already stopped snowing when the victim was killed!?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... Your response, Ms. von Karma?</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Judge">And to think you just arrived after a long, tiring flight from Germany. That was poetry. Pure poetry.</line>
 <line speaker="Edgeworth"><thought>This evidence is only going to freeze my case solid.</thought></line>
 <line speaker="Edgeworth">Even if it is snowing in my heart... At the time of the murder... it had already stopped snowing at Hazakura Temple!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Here is the evidence! What do you have to say, Your Honor...?</line>
 <line speaker="Judge">... ...This reminds me of when I was a little hockey goon in training... When I was a child, I hoped for school to be canceled due to heavy snowfall. Perhaps, Mr. Edgeworth, it would've been better for you had court been snowed in. ...That's all this evidence says to me, in any case.</line>
 <line speaker="Edgeworth">... Nothing else...?</line>
@@ -498,8 +498,8 @@
 <line speaker="Edgeworth">First... that he saw "something incredible" on the night of the murder.</line>
 <line speaker="Edgeworth">This individual that I am thinking of went wandering outside on that cold night... In other words, he is our kind of idiot.</line>
 <line speaker="Judge">Mr. Edgeworth! Who is this idiot you're talking aboot!?</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Just what is the meaning of this, Mr. Edgeworth...? Are you saying that... this is the person who was near Dusky Bridge that night?</line>
 <line speaker="Edgeworth">I-I did think so, however... Aaah!</line>
 <line speaker="Edgeworth">Cool off before you try to take me on again! Ungh...! <thought>What was I thinking!? This is the perfect chance to drag him onto the stand!</thought></line>
@@ -561,7 +561,7 @@
 <line speaker="Butz">Yeah, that's right! I'm behind everything, every case! Watch out, OK! Just touching me will make you eternally unhappy!</line>
 <line speaker="Judge">...Well then, let us proceed with the cross-examination. With no touching, thank you. We can delve into other details at a later time.</line>
 <line speaker="Butz">I was at that lodge out in the mountains, looking up at the stars that night.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Judge">What ever is the matter, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">This one single statement is so full of contradictions... For a moment there, I thought I was going to collapse.</line>
@@ -570,7 +570,7 @@
 <line speaker="Edgeworth">...</line>
 <line speaker="Butz">Heh heh heh... Ou-Ou-Ou-Ouch!</line>
 <line speaker="Butz">I walked to the bridge a number of times, but...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"A number of times"...? How many?</line>
 <line speaker="Butz">Maybe... five times? I went once every twenty minutes.</line>
 <line speaker="Edgeworth">Which means... ...you spent almost two hours at Heavenly Hall that night?</line>
@@ -583,7 +583,7 @@
 <line speaker="Butz">Um... well... You see...</line>
 <line speaker="Edgeworth"><thought>Being called those names doesn't seem to bother him at all...</thought></line>
 <line speaker="Butz">I didn't see a s-snowmobile!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Larry! You really didn't see it?</line>
 <line speaker="Butz">H-H-Hey! No need to hit your desk! I can hear you! ...I didn't see it! I didn't see a s-s-snowmobile!</line>
 <line speaker="Edgeworth">... Larry. Say "snowmobile" for me, please?</line>
@@ -592,12 +592,12 @@
 <line speaker="Butz">Sh-Shut up! W-W-What is this!? I don't know! Don't ask me!</line>
 <line speaker="Edgeworth"><thought>It seems that I'll need to start from a more obvious contradiction. I'm going to strike the blow that will finally get him to spill the beans!</thought></line>
 <line speaker="Butz">I didn't meet anyone at the bridge that night!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You didn't meet anyone?</line>
 <line speaker="Butz">That's right. Because I've got nothing to do with this! And I'm just here to buy some viridian paint, OK!? Come on, I expect to see those crimson lake faces! Now!</line>
 <line speaker="Judge">... It would appear that simply pressing him isn't going to be enough, Mr. Edgeworth.</line>
 <line speaker="Edgeworth">...Indeed.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>It seems that he's going to claim to have nothing to do with this to the end. I don't want this guy to cost us any more time... I need to slice through his obvious contradictions and keep things moving along...</thought></line>
 <line speaker="Edgeworth">Larry Butz... I can understand why you might want to throw your old life away. You're pretty pathetic, and you cause all sorts of trouble...</line>
 <line speaker="Butz">I'm sorry...!</line>
@@ -619,7 +619,7 @@
 <line speaker="Edgeworth">Oh, don't worry... nothing life-threatening. He just caught a cold.</line>
 <line speaker="Judge">Now, Mr. Edgeworth! Please commence your cross-examination.</line>
 <line speaker="Butz">I went to the shack at around 9, so it would have been about 10:30 PM...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What did you do out there in the cold for an hour and a half?</line>
 <line speaker="Butz">Well, if you really must know... I was busy being excited. I guess.</line>
 <line speaker="Judge">Hmmmmm... "Excited"? Dare I even ask...?</line>
@@ -627,20 +627,20 @@
 <line speaker="Edgeworth">...Well, it appears she didn't come at all, in the end.</line>
 <line speaker="Butz">Shut up! Don't go picking my fond memories apart! Anyway, I was getting a little worried. I thought maybe Iris had lost her way. So every twenty minutes or so, I went out to the bridge. But I didn't see anything particularly suspicious... I didn't have anything else to do, so I went back to the shack to wait for her.</line>
 <line speaker="Butz">I was lying under my bedding when a white flash almost blinded me!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">This "light" was, of course...</line>
 <line speaker="Butz">Lightning. Like... KERPOW! Like a slap from Naomi, honestly! A big bada-boom! Hagaaaaah!</line>
 <line speaker="Butz">Waaah! That's more like a punch from Miranda!</line>
 <line speaker="Judge">Witness, did you actually see the lightning hit the bridge?</line>
 <line speaker="Butz">Well, I was a bit startled by the flash of light, so...</line>
 <line speaker="Butz">I looked out the window... and Dusky Bridge was on fire!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Seeing that, what did you do?</line>
 <line speaker="Butz">What do you think!? I was burning up as well! From the fire in my heart!</line>
 <line speaker="Butz">Well. To be honest... It was freezing cold, so at first I thought, "Forget it. I'm not leaving my covers." But it had pretty much stopped snowing... So, I dunno, I changed my mind.</line>
 <line speaker="Judge">Hmmmmmm. I'm not sure I care for the "forget it" attitude you had at first, witness.</line>
 <line speaker="Butz">There was still some thunder, but I went right away to check it out.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You said "right away"... But exactly how long after the strike was that?</line>
 <line speaker="Butz">Hmm... The lightning fell, and then the bridge caught on fire... Maybe around five minutes? I mean. I suddenly thought, "Gotta go check this out!"</line>
 <line speaker="Butz">Hold on... Well, it had pretty much stopped snowing... I guess about a five-minute walk?</line>
@@ -663,21 +663,21 @@
 <line speaker="Judge">In which case... please give testimony to that effect, witness!</line>
 <line speaker="Butz">M-My reasoning... OK... Reasoning, is it...?</line>
 <line speaker="Butz">That's when I ran into Nick.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">How did Phoenix Wright look when you met him?</line>
 <line speaker="Butz">Hmm... He looked like a beaten up mule. He was dead tired. I mean, he had run all the way from Hazakura Temple. He simply stood, staring at me, breathing hard for a moment.</line>
 <line speaker="Butz">On his legs... a 15 minute run, I'd say.</line>
 <line speaker="Judge">...And that's when the murder was reported?</line>
 <line speaker="Butz">That's right! And then he took a fall from the bridge!</line>
 <line speaker="Butz">I arrived at the bridge, and Nick showed up less than a minute later.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You claim to have arrived at the bridge at the same time as Wright?</line>
 <line speaker="Butz">Y-Yeah! I thought, "I'd better tell someone about this." But then Nick came up yelling about murder! It totally made me forget about the bridge. The fire was pretty much out by then, anyway.</line>
 <line speaker="Edgeworth"><thought>What's this feeling...? I suddenly have a terrible case of unease...!</thought></line>
 <line speaker="Butz">Yeah. That's pretty much it. More or less.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Butz">I thought I'd never get another chance to see something so big burning!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...So you decided to go and see what was happening?</line>
 <line speaker="Butz">That's right! We're talking about a massive suspension bridge burning to high heaven! That's not something you see every day. A real spec... specule... ... Like, really special?</line>
 <line speaker="Edgeworth"><thought>Can we really trust a witness who is unable to pronounce "spectacle"?</thought></line>
@@ -724,7 +724,7 @@
 <line speaker="Edgeworth">This is a surprisingly believable story, especially considering the source... So why did he think he needed to hide it from us until now? I intend to drag the reason out of him!</line>
 <line speaker="Butz">Hah ha ha! You'll regret this, Edgey!</line>
 <line speaker="Butz">I'm a Deauxnim. I'm an artist! What do you think I was doing?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Tell us, Larry...</line>
 <line speaker="Butz">My name is Laurice! Get it right! Mistakes like that are what keep you from being popular with the ladies like I am!</line>
 <line speaker="Judge">... Just who exactly are you!?</line>
@@ -735,7 +735,7 @@
 <line speaker="Edgeworth">Yet again, that's what he calls himself.</line>
 <line speaker="Edgeworth"><thought>That is a very big issue, indeed.</thought></line>
 <line speaker="Butz">Sketching! In front of the bridge! I was whipped up into a frenzy of art!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">S-Sketching!? The burning bridge?</line>
 <line speaker="Butz">The burning bridge and everything that came with it!</line>
 <line speaker="Edgeworth">... What? "Came with it"...?</line>
@@ -778,27 +778,27 @@
 <line speaker="Butz">...Well, what did you think of my debut piece?</line>
 <line speaker="Judge">Get that thing away from me!</line>
 <line speaker="Judge">Now, hurry up and cross-examine him!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...Could the reason you were so excited be...?</line>
 <line speaker="Butz">What do you think!? My girlfriend was flying through the sky! Almost 30 feet above the bridge! I felt like I might start flying myself.</line>
 <line speaker="Edgeworth"><thought>If only you'd be so kind as to fly out of all of our lives...!</thought></line>
 <line speaker="Butz">Anyway! I completely lost myself when I was drawing this scene!</line>
 <line speaker="Butz">I saw Iris flying! Her white hood fluttering!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Just where did you see this sight from!?</line>
 <line speaker="Butz">Hey! No need to shout... When I was lying in bed in that run-down shack... The crack of the lightning bolt made me realize that the bridge was burning. I just watched it for a while from there, thinking how nicely it was burning! Then after about five minutes, I saw it.</line>
 <line speaker="Butz">That's right! That's when I decided to go to the bridge!</line>
 <line speaker="Judge">...I see. That all makes sense. Aside from the sketch itself...</line>
 <line speaker="Edgeworth"><thought>Yes... This sketch doesn't make any sense... I just need to convince the artist that his work is ludicrous.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Butz">The shock and awe that I was feeling... I transferred it all directly onto the page!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The burning bridge moved you that much, did it? ...I find that hard to believe.</line>
 <line speaker="Butz">You moron, Edgey! You don't understand me at all! If I see an abandoned cat, I find myself passing by it with tears in my eyes! I am a man overflowing with irresponsible kindness! And I use my irresponsible kindness to fill the pages of my notebook!</line>
 <line speaker="Butz">W-W-What has that got to do with anything!?</line>
 <line speaker="Judge">I'm not sure if I care for an artist using a notebook for sketching. Proceed, witness.</line>
 <line speaker="Butz">...Before I realized it, the flames had gone out and then he came running up.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You forgot the passage of time to that extent, did you?</line>
 <line speaker="Butz">Well... Once I get caught up in something, I tend to forget everything else...</line>
 <line speaker="Edgeworth"><thought>That's true... He's always  been that way. I guess he's not lying about that, at least.</thought></line>
@@ -843,7 +843,7 @@
 <line speaker="Butz">You ready, Edgey!? By tomorrow morning, you'll be calling me "Master Larry"! Yeah, I like the sound of that! No one's going to push me around anymore!</line>
 <line speaker="Edgeworth"><thought>...Didn't you want to be called "Laurice Deauxnim" only a few minutes ago!?</thought></line>
 <line speaker="Butz">When I reached Dusky Bridge she was already gone...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">...So, you went to the burning bridge?</line>
 <line speaker="Butz">That's right! To meet Iris! She actually flew to get to me! The least I could do was meet her halfway!</line>
 <line speaker="Judge">But... the defendant was not at the bridge when you got there, you say?</line>
@@ -851,7 +851,7 @@
 <line speaker="Edgeworth"><thought>It must be lovely to live in the fantasyland of Larry's mind... Actually, it's so depressing that I can't even work up the energy to point...</thought></line>
 <line speaker="Judge">So... what did you do next?</line>
 <line speaker="Butz">I was so worried! So I frantically searched all over for her!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you searched all over for her?</line>
 <line speaker="Butz">She was flying pretty high, you know. I thought maybe she slipped on her landing and got hurt. Hey! It was more than possible! Also, when I headed out to the shack the first time, I was snacking on a banana. I was pretty sure I threw the peel away somewhere around there, so, you know...</line>
 <line speaker="Edgeworth">... <thought>Can one guy really be this stupid?</thought> So, did you find any signs of her so-called "landing"?</line>
@@ -861,27 +861,27 @@
 <line speaker="Edgeworth">... <thought>Yup. There's stupid, and then there's Larry Butz.</thought></line>
 <line speaker="Judge">The short of it is that you didn't find any signs of her "landing", correct? Then what happened next?</line>
 <line speaker="Butz">That led to me finding a beautiful crystal sphere, half-buried in the snow!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"Half-buried"...?</line>
 <line speaker="Butz">It was sitting in the snow, with a little gathered on top of it. It was very hard to spot, actually. I mean, it was dark out, too.</line>
 <line speaker="Judge">I'm impressed... You did well to find it!</line>
 <line speaker="Butz">No matter what you may think when you look at me, I'm a pro. A genius security guard. I used a penlight I "borrowed" from my company to help in my search... And it sparkled really brightly, as if it was saying, "Here I am!" to me.</line>
 <line speaker="Edgeworth">It does indeed look very much like the crystal sphere on Iris's hood... But need I remind you that she was not wearing her hood that night?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Butz">I'm sure that Iris was simply wearing a spare hood.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Each nun is assigned their own hood! And they are assigned only one!</line>
 <line speaker="Butz">I don't know anything about that, OK! And Iris is special, alright dude!? Even if she did steal a spare hood... I'll forgive her!</line>
 <line speaker="Edgeworth"><thought>This is getting us nowhere... Our destination for the day, it seems.</thought></line>
 <line speaker="Judge">However... this crystal sphere was found near the bridge. That is a fact. If it didn't come from a hood, where could it have come from?</line>
 <line speaker="Edgeworth"><thought>That is the question I aim to answer.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Butz">After all, no one else could have lost a crystal sphere that night.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Let me confirm this one last time, Larry. The reasons you thought that this was "Iris"... ...are the hood and this crystal sphere, correct?</line>
 <line speaker="Butz">That's right! My gut is never wrong! I met that old Bikini the next morning... And her crystal sphere was still there, safe and sound!</line>
 <line speaker="Judge">Indeed... She was wearing it in this very room, earlier today.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth"><thought>This case isn't going to end without a fight... Exposing the obvious contradictions in this testimony will be easy... But I fear that all that awaits us are further mysteries!</thought></line>
 <line speaker="Edgeworth">...Larry. That night... There was someone. Someone who lost a crystal sphere.</line>
 <line speaker="Butz">Th-There was...? Who!? Who was this stupid idiot!?</line>
@@ -896,7 +896,7 @@
 <line speaker="Judge">T-That means... The one who flew... ...and dropped the sphere... was the victim, Ms. Elise Deauxnim!?</line>
 <line speaker="Butz">Y-You can't do that! I saw it! With my own two-- Eyeeeeeeiiiz!</line>
 <line speaker="Edgeworth">You honestly believe that...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Ms. Franziska von Karma. The only people who will accept that explanation... are scatterbrains and clowns!</line>
 <line speaker="Butz">Why are you pointing at me!?</line>
 <line speaker="Edgeworth">The victim's crystal sphere was found, near the bridge, on the night of her murder. Yet you expect us to believe this has nothing to do with the case!?</line>
@@ -916,8 +916,8 @@
 <line speaker="Judge">You will do what!?</line>
 <line speaker="Edgeworth">That should come as no surprise. <thought>Because right now, I am Phoenix Wright, and I am indeed cornered...!</thought></line>
 <line speaker="Judge">I order you to present your evidence, Mr. Edgeworth! Evidence that proves that the crystal sphere was indeed dropped before the murder!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...Your response, Ms. von Karma?</line>
 <line speaker="Butz">Go, go, Edgey! Do it! Prove it! Win! Win! Win!</line>
 <line speaker="Edgeworth"><thought>His cheering... It's as though I'm listening to the ominous caws of ravens!</thought></line>
@@ -937,15 +937,15 @@
 <line speaker="Edgeworth">This sphere... There is some blood on it, isn't there?</line>
 <line speaker="Edgeworth">Allow me to raise a certain possibility at this junction! The real crime scene was near the foot of Dusky Bridge!</line>
 <line speaker="Edgeworth">Just who is the fool? And which part is so foolish, Ms. von Karma?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...That's not exactly true, now is it? To put it more precisely, what she saw was... ...the murder weapon being removed from the victim's body.</line>
 <line speaker="Edgeworth">...No, it isn't!</line>
 <line speaker="Edgeworth">...You said it yourself.</line>
 <line speaker="Edgeworth">If that statement is the truth... ...then Dusky Bridge could very easily be the scene of the murder. The murder weapon was not removed! Thus, there was no bleeding!</line>
 <line speaker="Edgeworth"><thought>I've made it this far... The only place to take this is to the end! I just need to prove the possibility it happened as I presume...!</thought></line>
 <line speaker="Judge">Now, if the defense is ready, the court would like to have an explanation. Please show us the method by which the victim's body was carried to Hazakura Temple!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth"><thought>No... That isn't it... I'm on the wrong track here. I need to charge on through this... Even if it makes things look bad for my client...!</thought></line>
 <line speaker="Judge">...Try again, Mr. Edgeworth. And this time, without the scary glare, if you don't mind!</line>
 <line speaker="Edgeworth">On that snowy night... ...there is one way that a body could have been moved. The snowmobile.</line>
@@ -954,7 +954,7 @@
 <line speaker="Edgeworth">What do you mean!?</line>
 <line speaker="Edgeworth">Heh... You're too late... Franziska von Karma. And in fact, the defense has proven something else entirely. We have shown that this case requires further investigation!</line>
 <line speaker="Edgeworth">...Where was the victim, Elise Deauxnim really killed? ...If her body was moved, whatever for? And finally... Just what does this image mean?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...This witness certainly sits on one of the lowest possible branches of humanity. However! He would never utter a lie that could hurt a girl with whom he is enamored! He drew this, so it is something that actually happened. The defense stands firm on this point.</line>
 <line speaker="Butz">Ed-Edgey! Thank you...!</line>
 <line speaker="Judge">...That settles it, then. I cannot give a verdict under these circumstances.</line>
@@ -967,13 +967,13 @@
 <line speaker="Judge">...I cannot believe that the witness's testimony relates to an actual event. However, there has to be some sort of answer for the questions it raises. Have his words here today been the truth or lies? Next time we gather in this courtroom... ...those are the matters that shall be addressed! I am counting on thorough investigations by both the defense and the prosecution.</line>
 <line speaker="Edgeworth"><thought>And with this... The rest is up to you... Wright...</thought></line>
 <line speaker="Judge">Court is now adjourned!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor! What do you think of the witness's statement!?</line>
 <line speaker="Judge">I don't think there is a problem with it.</line>
 <line speaker="Edgeworth">Hmph... You say that with such gusto that I suppose I must agree that is all there is to it.</line>
 <line speaker="Judge">... Don't get smart with me! Get smart with this penalty!</line>
 <line speaker="Edgeworth"><thought>It would appear that even I can make mistakes...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">Unfortunately, I'm afraid I can't accept that.</line>
 <line speaker="Edgeworth">Well done, Your Honor.</line>
@@ -981,7 +981,7 @@
 <line speaker="Edgeworth">I was only testing you just now.</line>
 <line speaker="Judge">... Well then, why don't you try testing this penalty, too!?</line>
 <line speaker="Edgeworth"><thought>It looks like I shouldn't have spoken in haste...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement contradicts the data provided by this piece of evidence!</line>
 <line speaker="Judge">It does? How do you mean?</line>
 <line speaker="Edgeworth">Forgive me, Your Honor, but you yourself just said that it does!</line>

@@ -207,7 +207,6 @@
 <line speaker="Sholmes">My mind finds greater stimulation in the unforgiving monotony of the floor than in your miserable offering.</line>
 <line speaker="Ryunosuke"><thought>...Always glad to help.</thought></line>
 <line speaker="Sholmes">Oh, my head weighs heavy on my shoulders...</line>
-<line speaker="After clearing all Converse options with Herlock Sholmes and Iris Wilson">MIIIAAOWWW!</line>
 <line speaker="Susato">Oh! What was that?</line>
 <line speaker="Ryunosuke">Wagahai?</line>
 <line speaker="Susato">.........</line>
@@ -265,7 +264,6 @@
 <line speaker="Ryunosuke">...No, but your every sense was deceived by the fact that it just had strings.</line>
 <line speaker="Sholmes">Pshaw, a fine state of affairs this is! And why I always say, Mr Naruhodo: Never trust a pawnbroker! They will try to fiddle you every time!</line>
 <line speaker="Susato">But earlier you told us that you could think of a pawnbrokery as 'an extremely secure vault'...</line>
-<line speaker="After examining "violin" and clearing all Converse options with Iris Wilson">Sholmes:</line>
 <line speaker="Ryunosuke">Sorry?</line>
 <line speaker="Sholmes">Crunching your toast with that vacant aspect... Fressing your coffee so obtusely... Are you not a little embarrassed by your own conduct, considering the urgency with which we are faced?</line>
 <line speaker="Susato">We must visit Mr Windibank's brokery at once! That's right, isn't it, Mr Sholmes?</line>
@@ -413,7 +411,6 @@
 <line speaker="Ryunosuke">Um, Mr Windibank, about this...</line>
 <line speaker="Windibank">Hm, let me see... I'll give you tuppence for it.</line>
 <line speaker="Ryunosuke">No no! I don't want to pawn it!</line>
-<line speaker="After clearing all Converse options">Windibank:</line>
 <line speaker="Sholmes">Ah, the very thing! Thank you, Mr Windibank.</line>
 <line speaker="Windibank">Perhaps this might mark the end of the peculiar items you try to pop, hm? Because if anything were to happen to one of them... ...this would be the only answer!</line>
 <line speaker="Ryunosuke">Um, I really think you ought to stop waving that gun around. Someone could get hurt.</line>
@@ -496,7 +493,6 @@
 <line speaker="Ryunosuke"><thought>...And who was it who walked out of here with the wrong violin before?</thought></line>
 <line speaker="Windibank">Well, when the agreed storage period has passed without repayment, articles are forfeited, you see. So I have to keep a close eye on the date. It's something of a pawnbroker's obsession, you might say.</line>
 <line speaker="Susato">Oh yes. I can see you're very dedicated to your job.</line>
-<line speaker="After examining brown machine on left, shelves, brown machine on right, machine in foreground, and calendar">???:</line>
 <line speaker="???">That article is barely worth a penny, miss. I cannot offer more.</line>
 <line speaker="Ryunosuke"><thought>Sounds like there's an argument brewing over by the counter.</thought></line>
 <line speaker="???">Come on, that can't be right! 'Ave you even 'ad a proper butcher's at it?</line>
@@ -594,7 +590,6 @@
 <line speaker="Gina">I got a talent for it, 'aven't I? Divin'.</line>
 <line speaker="Ryunosuke"><thought>That's bordering on black magic. And it makes what I was about to say about my armband seem a little...dull.</thought></line>
 <line speaker="Gina">So? Wot d'you wanna tell me about it, then?</line>
-<line speaker="After clearing "Gina Lestrade" and "New article to pawn" Converse options with Pop Windibank">???:</line>
 <line speaker="Ryunosuke"><thought>Who's this picture-postcard English gentleman?</thought></line>
 <line speaker="???">Good day to you, ladies. Gentlemen.</line>
 <line speaker="Gina">Wot's your problem, eh?</line>
@@ -668,7 +663,6 @@
 <line speaker="Gina">But, but 'ow...?</line>
 <line speaker="???/Benedict">Really, this is beyond a joke now. There is no further room for doubt.</line>
 <line speaker="Gina">Ugh...</line>
-<line speaker="After clearing all Converse options with Gina Lestrade and "Eggert Benedict"">Windibank:</line>
 <line speaker="Benedict">With such reasonable rates of interest...I may even decide to come back.</line>
 <line speaker="Gina">......... Tsk! This is why I 'ate grown-ups! Just cos I'm a diver, everyone thinks that makes me a liar.</line>
 <line speaker="Benedict">And the contents of the coat pockets, if you please, broker.</line>
@@ -1038,9 +1032,9 @@
 <line speaker="Benedict">It would be a terrible shame to return to your native land in a box.</line>
 <line speaker="Ryunosuke">Agh... <thought>What do I do?!</thought></line>
 <line speaker="Ryunosuke"><thought>He could shoot me at any moment... I hate to give in, but what other choice do I really have here?</thought></line>
-<line speaker="Windibank"><cutIn>Hold it!</cutIn></line>
+<line speaker="Windibank"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke"><thought>There are some things a man must protect at all costs. This may well be one of those things... Then again...it may not...</thought></line>
-<line speaker="Windibank"><cutIn>Hold it!</cutIn></line>
+<line speaker="Windibank"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Mr Windibank!</line>
 <line speaker="Windibank">This is my shop! I can't allow any harm to come to my customers! If that were to happen... ...I should have to take my own life!</line>
 <line speaker="Ryunosuke">Mr Windibank, no!</line>
@@ -1214,7 +1208,6 @@
 <line speaker="Ryunosuke">Ah... <thought>It looks like Japanese modesty is easily misinterpreted by young Western children...</thought></line>
 <line speaker="Iris">I mean, who DOES like boring things? No one wants to be shown something boring. Come to think of it, you're always introducing things with, 'This is boring, but...' It's a bad habit. You should stop it.</line>
 <line speaker="Ryunosuke">...I'll be sure to let the entire population of the Empire of Japan know on my return.</line>
-<line speaker="After clearing all Converse options">Sholmes:</line>
 <line speaker="Susato">Eek! Mr, Mr Sholmes!</line>
 <line speaker="Sholmes">Whyever did you not make your presence known to me before?</line>
 <line speaker="Ryunosuke">...Haah.</line>
@@ -1279,7 +1272,6 @@
 <line speaker="Susato">...The newspapers are still claiming that it remains an unsolved case.</line>
 <line speaker="Ryunosuke">The murder of the brickmaker, Mr 'Thrice-Fired' Mason... In the end, the truth of the matter remains a mystery. We still have no idea what really happened that night. And although Mr McGilded was found not guilty through my defence... ...I still don't know if that was the right judgement or not.</line>
 <line speaker="Sholmes">It would appear the case is not yet closed.</line>
-<line speaker="After clearing all Converse options">Iris:</line>
 <line speaker="Sholmes">Thank you, Iris.</line>
 <line speaker="Susato">Oh, well you must let me help you, then.</line>
 <line speaker="Iris">Of course, Susie! There's plenty to do.</line>
@@ -1449,7 +1441,6 @@
 <line speaker="Gina">Tsk, you lot are too trustin' for yer own good. But 'e can't pull the wool over my eyes. Sholmes is lyin' to Iris, I bet my life on it!</line>
 <line speaker="Ryunosuke">What?!</line>
 <line speaker="Iris">Hurley's...lying to me...?</line>
-<line speaker="After clearing all Converse options with Iris Wilson and Gina Lestrade">Iris:</line>
 <line speaker="Gina">Yeah...alright.</line>
 <line speaker="Iris">And please, don't mention any of this to Hurley, will you?</line>
 <line speaker="Ryunosuke">No...of course not. Good night then, Iris. Good night, Gina.</line>
@@ -1629,7 +1620,6 @@
 <line speaker="Ryunosuke">Yes...the only explanation, indeed.</line>
 <line speaker="Iris">What do you mean by that, Runo?! Well?!</line>
 <line speaker="Ryunosuke"><thought>Ugh, what can I say? I'm damned if I agree, damned if I don't...</thought></line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Iris">I want to go, too. Take me with you, Runo!</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Iris">I can't stand just sitting around here waiting.</line>
@@ -1846,7 +1836,6 @@
 <line speaker="Iris">In that case, Gregsy, how about some herbal tea?</line>
 <line speaker="Gregson">*Glug* *Glug glug glug* Ahhh... Lovely! Ta very much. That really hit the spot...Your Ladyship.</line>
 <line speaker="Ryunosuke"><thought>You don't mind sharing that then...</thought></line>
-<line speaker="After clearing all Converse options">Gregson:</line>
 <line speaker="Ryunosuke">Yes? What is it?</line>
 <line speaker="Gregson">I've got an important message for you. I clean forgot about it until now.</line>
 <line speaker="Ryunosuke">An important message? <thought>I wonder what it could be...</thought></line>
@@ -1941,7 +1930,6 @@
 <line speaker="Ryunosuke">Serious matters? <thought>Didn't Gregson mention something like that yesterday?</thought></line>
 <line speaker="Susato">Yes. Inspector Gregson made a similar remark yesterday.</line>
 <line speaker="Stronghart">It's no concern of yours. Though I'm sure I need not remind you of that.</line>
-<line speaker="After clearing all Converse options">Stronghart:</line>
 <line speaker="Ryunosuke">......... There's just...one more thing, Lord Stronghart.</line>
 <line speaker="Stronghart">Which is?</line>
 <line speaker="Ryunosuke">It's Miss Lestrade's trial... I wonder if you might permit me to defend her?</line>
@@ -2072,7 +2060,6 @@
 <line speaker="Susato">I can't help wondering... Presumably Mr McGilded never redeemed the article in question, since he still had the ticket. So isn't it possible that the box is still present somewhere in the shop?</line>
 <line speaker="Ryunosuke">Ah! Yes! <thought>If it's something McGilded deposited, we need to investigate!</thought></line>
 <line speaker="Ryunosuke">Mr Windibank appears to have used the back of this photograph to write out a redemption ticket. He's written it very neatly, but still. Perhaps he ran out of paper, so had to use anything he had to hand. It's hard to know what's the front and what's the reverse side now...</line>
-<line speaker="After clearing all Converse options at Local Prison, Cell 13 and Lord Chief Justice's Office">Susato:</line>
 <line speaker="Gina">Wot?</line>
 <line speaker="Susato">I'm sorry to say...that I must reluctantly bid you farewell.</line>
 <line speaker="Gina">Eh? Farewell?</line>
@@ -2179,7 +2166,6 @@
 <line speaker="Gina">After 'e'd gone over it all, I piked it. Got as far away from there as I could. 'E 'id the pawnbroker's ticket in some bushes near the scene. I went to fetch it the next day once it got dark.</line>
 <line speaker="Ryunosuke"><thought>So McGilded planned it... ...and coerced Gina into giving false testimony.</thought></line>
 <line speaker="Susato">.........</line>
-<line speaker="After clearing all Converse options">Gina:</line>
 <line speaker="Ryunosuke">.........</line>
 <line speaker="Gina">The thing is, 'e said 'e would make it so we couldn't live in the East End no more. That's wot 'e threatened me wiv.</line>
 <line speaker="Iris">What a wicked man...</line>
@@ -2416,7 +2402,6 @@
 <line speaker="Ryunosuke">I'm afraid I have no idea. All you can do is wait until he's ready to tell you, I suppose.</line>
 <line speaker="Iris">Oh! Maaaybe... ...it's because Hurley isn't in it enough! Maybe I didn't give him enough good lines!</line>
 <line speaker="Ryunosuke">Yeees...maaaybe... <thought>I wish I could say that definitely isn't the reason, but...I can't.</thought></line>
-<line speaker="After clearing all Converse options">Iris:</line>
 <line speaker="Ryunosuke">They're certainly amazing, but it isn't easy to get the knack of viewing them properly.</line>
 <line speaker="Iris">No, some people find it easier than others. But that's why contraptions like this exist. For people who find it tricky.</line>
 <line speaker="Susato">Oh! I recognise that. We saw one over there yesterday, didn't we? If I remember correctly, you press this little knob here... ...then set the pair of photographs in this stand at the back and...</line>
@@ -2760,7 +2745,6 @@
 <line speaker="Susato">.........</line>
 <line speaker="Ryunosuke"><thought>I suppose I'll just have to wait until she's ready to explain it to me.</thought></line>
 <line speaker="Susato">...I'm so sorry.</line>
-<line speaker="After clearing all Converse options, examining calendar, and presenting Pawnbroker's Ticket <thought>Coat</thought> in Windibank's Main Shop, and clearing all Converse options, examining chalk outline, red chest, and revolver in Windibank's Storeroom">*Dong* *Dong* *Dong*</line>
 <line speaker="Iris">AAAAAAGH!!! I nearly jumped out of my skin there! How could Mr Windibank set such a wicked trap?!</line>
 <line speaker="Ryunosuke">I...I doubt he set out to scare anyone.</line>
 <line speaker="Susato">Is that really the time? I think perhaps we should pay Gina another visit soon.</line>
@@ -2927,7 +2911,6 @@
 <line speaker="Susato">...I realise I spoke carelessly last night. It was...a dreadful mistake.</line>
 <line speaker="Ryunosuke">I know that you must have your reasons for not telling us any more.</line>
 <line speaker="Susato">...I'm so sorry.</line>
-<line speaker="After clearing all Converse options">Susato:</line>
 <line speaker="Gina">Wot?</line>
 <line speaker="Susato">I'd just like to make absolutely sure... What would you like us to do with these representation papers for tomorrow's trial?</line>
 <line speaker="Gina">......... 'Ow many times do I 'ave to say it? Rip 'em up and chuck 'em away.</line>
@@ -3048,7 +3031,6 @@
 <line speaker="Susato">Oh no! Please, don't mention it. It's really nothing much. I simply implored Inspector Gregson for the police files and annotated all the documents they had... ...and then scoured the archives of every newspaper to pick out anything that might be relevant.</line>
 <line speaker="Ryunosuke">What?! When did you possibly find the time? ...Regardless, I'm sure it will be extremely helpful.</line>
 <line speaker="Susato">......... It saddens me that I will be unable to assist you through the trial, but... ...it would be a great comfort knowing that my notes had proved useful.</line>
-<line speaker="After clearing all Converse options">Susato:</line>
 <line speaker="Ryunosuke">Susato-san, I...</line>
 <line speaker="Susato">I wish you the very best of luck tomorrow! ...Good night.</line>
 <line speaker="Ryunosuke">Wait! There's, there's something I need to say!</line>

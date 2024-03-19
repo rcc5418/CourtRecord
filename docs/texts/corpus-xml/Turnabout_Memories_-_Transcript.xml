@@ -1,6 +1,6 @@
 
-<line>Turnabout Memories</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Memories</title>
 <line speaker="Mia"><thought>Whew, it's finally time... I'm kind of nervous...</thought></line>
 <line speaker="???">*Ah-HHHHEM!*</line>
 <line speaker="Mia">Oh! Mr. Grossberg! Good morning!</line>
@@ -90,8 +90,8 @@
 <line speaker="Judge">Err, Mr. Grossberg. Try to set a better example for the young lady!</line>
 <line speaker="Grossberg">Mia, evidence isn't the only thing in the Court Record. People's profiles are as well. You can toggle between Profiles and Evidence, so be sure to go over it all!</line>
 <line speaker="Judge">Now then, let's see what you've got. What was the cause of the bad blood between Phoenix Wright and the victim?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Mr. Grossberg... I honestly think it would be best for the defense if you were in charge. I'm afraid Ms. Fey might stir up some bad blood with this court if she were to continue.</line>
 <line speaker="Grossberg">Or simply put, you are quite mistaken, m'dear.</line>
 <line speaker="Mia">Oh no... I'm so sorry...</line>
@@ -136,17 +136,17 @@
 <line speaker="Judge">Now then, your cross-examination, if you please, Ms. Fey.</line>
 <line speaker="Mia"><thought>Please, Mr. Wright... Tell me you haven't been lying! You wouldn't do that to me... would you...?</thought></line>
 <line speaker="Phoenix">Um, I... I admit I was there...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">When you say "there", you mean the place where the victim was murdered?</line>
 <line speaker="Phoenix">Y-Yeah, sort of. The place where SOMETHING happened anyway.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">"Something"? You can't hide what happened. We have photographic evidence.</line>
 <line speaker="Phoenix">*achoo* *achoo* *achoo* *achoo*</line>
 <line speaker="Mia">A-Anyway, Mr. Wright... What were you doing at the scene of the crime? I thought you said you didn't know the victim, Mr. Swallow.</line>
 <line speaker="Phoenix">It was just a coincidence! We bumped into each other by accident.</line>
 <line speaker="Judge">A coincidence, huh...?</line>
 <line speaker="Phoenix">But I'm not a killer! All I did was find his body!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You say you found the body? So who called the police?</line>
 <line speaker="Phoenix">Huh!? Um... *achoo* *cough* *achoo* *cough* *achoo* *cough*</line>
 <line speaker="Payne">Unfortunately it was some other students that notified the police.</line>
@@ -157,7 +157,7 @@
 <line speaker="Mia"><thought>Could you stop sneezing every time you're in a bind...?</thought></line>
 <line speaker="Phoenix">W-Well, it's true that I was pretty shocked when I found the body. But, but I...</line>
 <line speaker="Phoenix">I hardly knew the guy to begin with...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So, you didn't know his face, or even his name, right?</line>
 <line speaker="Phoenix">Right! Um, well, no... That is... I mean...</line>
 <line speaker="Mia">So... Which is it? Did you know him or not?</line>
@@ -171,7 +171,7 @@
 <line speaker="Judge">Oh, I see. Ah, young love... So bittersweet...</line>
 <line speaker="Phoenix">But that's all I knew about him!</line>
 <line speaker="Phoenix">I never even talked to that stuck-up British wannabe!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Mr. Wright, you stated the following in your testimony: "I hardly knew the guy to begin with..."</line>
 <line speaker="Phoenix">Th-That's right! I mean why would I even--</line>
 <line speaker="Mia">But that doesn't sound right. If you hardly knew him... ...then why would you say that the victim was a "stuck-up British wannabe"!?</line>
@@ -182,13 +182,13 @@
 <line speaker="Phoenix">Ah! No! It wasn't me! I'm not a killer, I swear!</line>
 <line speaker="Judge">Mr. Wright. I will give you an opportunity to revise your testimony. How is it that you knew the victim was, as you put it, a "British wannabe"...?</line>
 <line speaker="Phoenix">Y-Yes, well...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Mr. Wright, you stated the following in your testimony: "I hardly knew the guy to begin with..."</line>
 <line speaker="Phoenix">Th-That's right! I mean why would I even--</line>
 <line speaker="Mia">But that doesn't sound right. If you hardly knew him... ...then why would you say that the victim was a "stuck-up British wannabe"!?</line>
 <line speaker="Phoenix">Um, well, you see...</line>
 <line speaker="Phoenix">He was always walking around with a huge Union Jack on the back of his shirt.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Did you see it at the crime scene? The Union Jack, I mean.</line>
 <line speaker="Phoenix">Y-Yes, that's right! I saw it at the crime scene! That's why... That's why I figured he must love British stuff, see? It's true! Cross my heart! I swear I didn't do it...</line>
 <line speaker="Mia"><thought>He's acting fishier than the salmon I ate last night...</thought></line>
@@ -204,7 +204,7 @@
 <line speaker="Mia">M-Mr. Grossberg!</line>
 <line speaker="Grossberg">Quickly now! Show that boy you mean business! With evidence, I mean!</line>
 <line speaker="Mia"><thought>OK, Mia, check the Court Record carefully!</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Grossberg">Well m'dear, do you think you can manage on your own from this point?</line>
 <line speaker="Mia"><thought>One year ago... I was in a courtroom just like this. I can do it. I can handle this myself!</thought></line>
 <line speaker="Grossberg">Mmrgh... You mustn't try to bite off more than you can chew, Mia.</line>
@@ -246,9 +246,9 @@
 <line speaker="Phoenix">Huh...?</line>
 <line speaker="Payne">Your Honor! I'd like you to take a look at another photo from the crime scene!</line>
 <line speaker="Judge">Wh-What's this! In the victim's hand, it's... It's Coldkiller X...!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Y-Yes, but even I've got a bottle of Coldkiller X in my apartment!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">I'm sorry, but I'm afraid that argument won't work. There's no doubt as to who this bottle of Coldkiller X belonged to. Especially since Mr. Wright's fingerprints were all over it!</line>
 <line speaker="Mia">Wh-What!?</line>
 <line speaker="Payne">Sensing his murderous intent, Mr. Swallow must have picked up the bottle of medicine... ...dropped by Mr. Wright and hid it in his hand. His purpose in doing so can only have been to identify his killer as Phoenix Wright!</line>
@@ -268,7 +268,7 @@
 <line speaker="Judge">Hmm... Ms. Fey, please begin your cross-examination.</line>
 <line speaker="Mia"><thought>Oh please, Mr. Wright... Don't tell any more lies.</thought></line>
 <line speaker="Phoenix">The truth is... I went because he called me.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Had you ever met the victim before then?</line>
 <line speaker="Phoenix">No! Never! ... But... That day, he called me up and told me he wanted to talk about Dollie.</line>
 <line speaker="Judge">And this "Dollie" person is...?</line>
@@ -278,7 +278,7 @@
 <line speaker="Payne">Dahlia Hawthorne was also the lover of the murder victim, Doug Swallow. ...Before she met Mr. Wright, that is.</line>
 <line speaker="Judge">Hmm... So it was one of those nasty love triangles, I see...</line>
 <line speaker="Phoenix">He was in the Pharmacology Dept., so we agreed to meet at 2:45 behind that building...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Was it Mr. Swallow who indicated you should meet at 2:45?</line>
 <line speaker="Phoenix">Yeah. And we were both there right on time.</line>
 <line speaker="Judge">Hmm... You said the victim was in the Pharmacology Dept., correct?</line>
@@ -303,12 +303,12 @@
 <line speaker="Mia"><thought>I've gotten everything I need from this statement. It's time to move on.</thought></line>
 <line speaker="Payne">In any case, let's continue with your testimony.</line>
 <line speaker="Phoenix">We talked for a bit, and then at around 3:00, we split up.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So what was it you were talking about?</line>
 <line speaker="Phoenix">You know... *achoo* *cough* That maybe we should hang out again sometime.</line>
 <line speaker="Mia"><thought>"Hang out again sometime"? I wish that were true.</thought></line>
 <line speaker="Phoenix">Then later when I went back, I found him lying there.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So you say you went back...</line>
 <line speaker="Phoenix">Umm, yeah. That's when I found the body.</line>
 <line speaker="Mia">Yes, but why did you go back in the first place? Weren't you angry with him?</line>
@@ -321,13 +321,13 @@
 <line speaker="Phoenix">... *achoo* *achoo*</line>
 <line speaker="Mia"><thought>Judging by the atmosphere... I'm pretty sure no one is buying this.</thought></line>
 <line speaker="Phoenix">I'd been taking Coldkiller X for the last 2 or 3 days...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">It's rather unusual to catch a cold this time of the year, isn't it?</line>
 <line speaker="Phoenix">Yeah, I always get a little careless when the weather starts to warm up. I guess I shouldn't sleep with the window open this early in spring, huh?</line>
 <line speaker="Mia"><thought>I suppose common sense is not always common...</thought> So... Did anyone else know that you were taking cold medicine?</line>
 <line speaker="Phoenix">Well, I always took one after meals... So I'm pretty sure all my friends knew about it.</line>
 <line speaker="Phoenix">But I lost my bottle of it around lunchtime on the day of the accident.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">On the day of the incident, what did you do for lunch...?</line>
 <line speaker="Phoenix">Huh? What does that have to do with anything?</line>
 <line speaker="Mia">You can never be too sure...</line>
@@ -339,7 +339,6 @@
 <line speaker="Grossberg">The boy isn't exactly what I'd call a natural-born liar, you know. But still, we can't have him continue to spout nonsense.</line>
 <line speaker="Mia">I know... But what can I do!?</line>
 <line speaker="Grossberg">Well, I'm certain he must still be hiding something. Information! Right now it's information we need more than anything else!</line>
-<line speaker="After picking second choice at second statement and pressing sixth statement">Judge:</line>
 <line speaker="Payne">I'm not entirely convinced by his explanation about the medicine bottle either.</line>
 <line speaker="Judge">Let me be frank here, Mr. Wright. Your testimony cannot be trusted.</line>
 <line speaker="Phoenix">Wh-What do you mean!?</line>
@@ -362,8 +361,8 @@
 <line speaker="Payne">Hee, hee, hee, hee... Quite the brash statement coming from a rookie! But even a beginner like you must understand the basic rules of the court, yes? An attorney must be able to substantiate their arguments with evidence!</line>
 <line speaker="Mia">Hmph! Of course I know that! <thought>Actually, I had totally forgotten about that...</thought></line>
 <line speaker="Judge">Now then, Ms. Fey. Let me see what you've got. Show me how you believe the victim was electrocuted!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Ms. Fey, I'm deeply disappointed in you.</line>
 <line speaker="Payne">I'm disappointed as well, Ms. Fey.</line>
 <line speaker="Grossberg">To be honest, I'm a bit disappointed too, Mia.</line>
@@ -371,8 +370,8 @@
 <line speaker="Mia"><thought>Argh! I need to use my brain on this! Come on, Mia! You can't strike out here!</thought></line>
 <line speaker="Mia">As for the cause of death... ...I'd say this picture captures it quite well!</line>
 <line speaker="Judge">Wh-What!? But there is nothing that even remotely resembles a murder weapon here... Hmm, I'm afraid the defense is going to have to explain this in a bit more detail. Ms. Fey, where exactly in this photo is the murder weapon?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Well naturally... it's right around here! ...I think.</line>
 <line speaker="Judge">Ms. Fey, I'm deeply disappointed in you.</line>
 <line speaker="Payne">I'm disappointed as well, Ms. Fey.</line>
@@ -407,7 +406,7 @@
 <line speaker="Judge">No further evidence is required to convince me of this man's guilt!</line>
 <line speaker="Mia">Y-Your Honor...!</line>
 <line speaker="Judge">At this time, I am prepared to render a verdict in this case!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Judge">Do you have something further to add, Ms. Fey?</line>
 <line speaker="Mia">Is this what you want, Mr. Wright!?</line>
 <line speaker="Phoenix">...!</line>
@@ -417,12 +416,12 @@
 <line speaker="Phoenix">M-Miss Fey...</line>
 <line speaker="Mia">No matter what it is you have to say... I believe in you and I'll represent you to the very end.</line>
 <line speaker="Phoenix">...!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">We've already established the defendant's guilt. There's no further need for him to say anything.</line>
 <line speaker="Phoenix">*cough* *cough* W-Wait a minute!</line>
 <line speaker="Mia">Mr. Wright...</line>
 <line speaker="Phoenix">I... I'll tell you what really happened!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">But I've already told you, Mr. Wright. There's no need for further...</line>
 <line speaker="Phoenix">*cough* I-I-I... I did it... I admit it! I pushed him! It's my fault... My f-fault that D-Doug Swallow is dead!</line>
 <line speaker="Judge">... What you just said... Was that the truth!?</line>
@@ -440,7 +439,7 @@
 <line speaker="Judge">Hmm... Ms. Fey. Let me warn you right now that if your cross-examination doesn't yield any new facts... ...I intend to deliver my verdict without further delay. Are we clear on that?</line>
 <line speaker="Mia">Y-Yes, Your Honor. <thought>Don't give up, Mia! If he is innocent, there must be some kind of evidence somewhere that will prove it!</thought></line>
 <line speaker="Phoenix">That guy... He was talking bad about Dollie...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So what kinds of things did Mr. Swallow say to you?</line>
 <line speaker="Phoenix">He said all sorts of terrible things about Dollie! He said that she was a bad girl!</line>
 <line speaker="Payne">...</line>
@@ -451,7 +450,7 @@
 <line speaker="Mia"><thought>Oh boy! You're not doing yourself any favors here, Mr. Wright! Please don't make this harder for me than it already is!</thought></line>
 <line speaker="Phoenix">Anyway... After he said that, I just, I just...</line>
 <line speaker="Phoenix">I lost my temper and gave him a shove!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Can you tell me about what happened in a little more detail?</line>
 <line speaker="Phoenix">That guy... He just said what he wanted to say to me... And then he put on the jacket he was holding and started to leave. That's when... That's when I lost my temper and flew into a furious frenzy! I just gave him a... light, gentle shove to the chest.</line>
 <line speaker="Mia">And when you did that, there was no severed cable anywhere to be seen?</line>
@@ -461,11 +460,11 @@
 <line speaker="Mia"><thought>What are you doing!? Don't let that guy steamroll over you like cheap asphalt!</thought></line>
 <line speaker="Judge">I believe what's important here is the moment the push occurred. Let's continue on with the testimony, witness.</line>
 <line speaker="Phoenix">At that moment, I heard some kind of loud noise...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">A "loud noise"? And what would you say that loud noise was, Mr. Wright?</line>
 <line speaker="Phoenix">I'm not sure... But it was really loud! It was like, "SNAP!"... You know, come to think of it, I wonder what that was...</line>
 <line speaker="Payne">Hee, hee, hee, hee... Clearly, Your Honor, it was the sound of the victim being electrocuted.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Y-You're not qualified to decide that! <thought>What should I do? I'm treading on some dangerous ground here...</thought></line>
 <line speaker="Mia">Mr. Wright, that "loud noise" you heard may be extremely important. So try to remember what it was!</line>
 <line speaker="Phoenix">Umm, how do I put it... It was like a sharp crack. Aha! Could it... Could it have been...?</line>
@@ -485,7 +484,7 @@
 <line speaker="Phoenix">Umm... Is it OK if I go on?</line>
 <line speaker="Mia"><thought>I've got other, more pressing things to ask about.</thought> Very well, Mr. Wright, let's move on, shall we?</line>
 <line speaker="Phoenix">After I shoved him, he... He fell down on top of his cheap umbrella.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So Mr. Swallow fell on top of his umbrella? And you are certain of this?</line>
 <line speaker="Phoenix">Yeah. It was right there under him. Actually, if it hadn't been under him, I was planning on borrowing it for myself.</line>
 <line speaker="Mia">The umbrella, you mean?</line>
@@ -493,15 +492,15 @@
 <line speaker="Grossberg">Oomph! My stomach is not to be used as your personal soccer ball, Mia!</line>
 <line speaker="Mia">Ah! I-I'm so sorry!</line>
 <line speaker="Judge">Continue on with your testimony, witness.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">A little while after I left, I started to get worried.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">After you shoved the victim, did you leave the scene right away?</line>
 <line speaker="Phoenix">Yes, I did! I admit it! I-I was furious!</line>
 <line speaker="Payne">You left without even checking Mr. Swallow's condition?</line>
 <line speaker="Phoenix">Well, um, yeah... But like I said, I got worried about him later.</line>
 <line speaker="Phoenix">So I went back. But h-he was just laying there, d-dead!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">At that time, did you see anyone else at the scene of the crime?</line>
 <line speaker="Phoenix">*cough* *cough*... *cough* *cough* *cough* Um, nope. Nobody...</line>
 <line speaker="Mia"><thought>Geez. Could that stupid cough possibly sound any phonier?</thought></line>
@@ -520,7 +519,7 @@
 <line speaker="Payne">W-Well, it was collected by the police at the crime scene...</line>
 <line speaker="Judge">I want it presented as evidence immediately!</line>
 <line speaker="Payne">B-But the umbrella could have simply been blown there by the wind!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">According to the testimony, the victim fell on top of the umbrella. There's simply no way it could have been blown there by the wind!</line>
 <line speaker="Payne">Nnn... Gggg... Hrrmph! B-B-But...!</line>
 <line speaker="Judge">I know this matter of the umbrella seems relatively trivial... But as long as the smallest doubt remains, I cannot render final judgment!</line>
@@ -601,10 +600,10 @@
 <line speaker="Judge">Now then, please proceed with your testimony. Let's hear about what you witnessed on the day of the incident, if you please.</line>
 <line speaker="Dahlia">I had been planning to go back to Feenie's place after class was over.</line>
 <line speaker="Judge">I-I don't know what to say! According to you, Ms. Hawthorne... ...the defendant didn't do anything wrong!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Young lady. As old as I am, even I recall how hot the flames of young passion can burn. Nevertheless... It is my job to discover the truth. Please, tell us the truth...</line>
 <line speaker="Dahlia">But... But, I... I would never...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">That's more than enough, witness. I won't allow this to continue.</line>
 <line speaker="Judge">Wh-What do you mean by that?</line>
 <line speaker="Mia">Please, just let me proceed with my cross-examination, Your Honor. I, for one, don't plan to win my case on a bunch of paper-thin lies!</line>
@@ -617,7 +616,7 @@
 <line speaker="Dahlia">It's good to see you again, Madame Fey!</line>
 <line speaker="Mia">"Madame"!? <thought>I'm no one's grandma yet, girlie!</thought></line>
 <line speaker="Dahlia">I had been planning to go back to Feenie's place after class was over.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Now, unless I'm mistaken, Feenie -- I mean, Mr. Wright is in the Art Department. If that's the case, then what were you doing by the Pharmacology building?</line>
 <line speaker="Dahlia">Well... I'm in the Literature Department. I'm studying Japanese Senryu poetry.</line>
 <line speaker="Judge">Oho hoh! How wonderful! It's that humorous, yet satirical style of haiku, yes?</line>
@@ -627,7 +626,7 @@
 <line speaker="Judge">Ah, yes I see. That makes sense. When I want to enter the courthouse, I always walk through the front doors.</line>
 <line speaker="Mia"><thought>How else would you enter? Teleportation!?</thought></line>
 <line speaker="Dahlia">Feenie and Dougie...They were talking behind the building.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So who is this "Dougie" person?</line>
 <line speaker="Dahlia">Oh, I'm sorry. Doug Swallow. We were dating until about eight months ago...</line>
 <line speaker="Mia">So what were Dougie-- *ahem* Mr. Swallow and Mr. Wright talking about anyway?</line>
@@ -637,7 +636,7 @@
 <line speaker="Mia"><thought>Why am I being demonized here?</thought></line>
 <line speaker="Judge">Please, go on. What did you see next?</line>
 <line speaker="Dahlia">Then suddenly... Dougie got all wobbly and just collapsed.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Are you saying that the victim just collapsed on his own?</line>
 <line speaker="Dahlia">Y-Yes.</line>
 <line speaker="Mia">In other words, the defendant never touched the victim. Is that right?</line>
@@ -647,7 +646,7 @@
 <line speaker="Judge">Very well, young lady, please go on with your testimony.</line>
 <line speaker="Mia">Feeble lies are not very becoming, Ms. Hawthorne, so let's drop them, shall we?</line>
 <line speaker="Dahlia">Wh-What...! I...! I would never...!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Ms. Fey! I will not allow you to badger this witness!</line>
 <line speaker="Mia">...</line>
 <line speaker="Payne">I-I believe the defense is engaged in a-a... fishing expedition.</line>
@@ -662,20 +661,20 @@
 <line speaker="Dahlia">Y-Yes, Your Honor... I-I will. If you don't mind, I-I'd like to revise my testimony.</line>
 <line speaker="Mia"><thought>Looks like we're finally getting somewhere...</thought></line>
 <line speaker="Dahlia">That's when Feenie noticed that I was there.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">And what did Mr. Wright say when he saw you?</line>
 <line speaker="Dahlia">I-I'm sorry. I-I was so flustered that I... I really don't remember. P-Please forgive me.</line>
 <line speaker="Mia">You don't remember...?</line>
 <line speaker="Judge">Well, that's common enough. Sometimes I can't recall a sentence I passed only minutes prior!</line>
 <line speaker="Mia"><thought>Please... Someone, anyone... Stop him before he gets hurt... by me.</thought></line>
 <line speaker="Dahlia">Um, actually, I didn't see the moment he pushed Dougie.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You didn't see it!?</line>
 <line speaker="Dahlia">Well, I saw the moment when Dougie fell to the ground...</line>
 <line speaker="Payne">And at that time, there was only the two of them at the scene? The defendant, Phoenix Wright, and the victim, Doug Swallow?</line>
 <line speaker="Dahlia">Yes... that's right.</line>
 <line speaker="Dahlia">It didn't look like they were fighting, and I didn't hear any noise either.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So then, what did it look like they were doing to you?</line>
 <line speaker="Dahlia">I thought they were having a nice, friendly afternoon conversation.</line>
 <line speaker="Mia"><thought>Oh, give me a break!</thought></line>
@@ -683,9 +682,9 @@
 <line speaker="Judge">Did you notice anything out of the ordinary at all?</line>
 <line speaker="Dahlia">No, nothing at all... Mr. Judge.</line>
 <line speaker="Judge">Oh, I like the sound of that! "Mr. Judge"... Now then, please proceed with your testimony.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Dahlia">I went to go and find some other students and they called the authorities.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">When you say "students" do you mean students from the Pharmacology Department?</line>
 <line speaker="Dahlia">Yes. They're all very fond of their drugs...</line>
 <line speaker="Mia">Please try to stay on topic! So to find some Pharmacology students, you went to the labs, correct?</line>
@@ -705,9 +704,9 @@
 <line speaker="Dahlia">H-He said that?</line>
 <line speaker="Mia">If you were really that close to the two of them, why didn't you hear this noise as well?</line>
 <line speaker="Dahlia">I...!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">W-Well, maybe the noise just wasn't all that memorable.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">But according to Mr. Wright's testimony, it was a sharp noise like a "SNAP"! There's no way a noise like that could fail to make an impression!</line>
 <line speaker="Payne">Ack!!</line>
 <line speaker="Dahlia">Umm... May I have a moment to answer?</line>
@@ -724,7 +723,7 @@
 <line speaker="Judge">Wh-What do you mean!?</line>
 <line speaker="Payne">Wh-What is this "problem"!?</line>
 <line speaker="Mia">It's obvious. The problem is that the witness claims to have not heard the "SNAP!"</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">A-Are you deaf!? Did you pay attention to the testimony!? She said she didn't hear it because she was listening to music with her headphones!</line>
 <line speaker="Judge">Ms. Fey! I'm surprised you're going senile before me!</line>
 <line speaker="Mia"><thought>I'm not THAT bad! ...I think.</thought></line>
@@ -735,7 +734,7 @@
 <line speaker="Judge">Wh-What do you mean!?</line>
 <line speaker="Payne">Wh-What is this "problem"!?</line>
 <line speaker="Mia">It's obvious. The problem is that she claims to have been listening to music!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">A-Are you deaf!? Did you pay attention to the testimony!? She explained she was listening to music to cover up the sound of thunder!</line>
 <line speaker="Judge">Ms. Fey! I must warn you that I can be even more frightening than Zeus when I'm angry!</line>
 <line speaker="Mia"><thought>Yikes! I'm in trouble now!</thought></line>
@@ -756,7 +755,7 @@
 <line speaker="Mia"><thought>Just what kind of thoughts DO occur to this guy anyway?</thought> This entire case is built on the premise that Mr. Doug Swallow was "murdered"... ...but that very premise itself is mistaken! The defense believes that Mr. Swallow was, in fact, the victim of a stray bolt!</line>
 <line speaker="Judge">I-It appears the defense may be on to something! Could it be that the death was actually accidental?</line>
 <line speaker="Mia"><thought>Alright, you did it, Mia! I'll be taking that "Not Guilty" now if you don't--</thought></line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Hee, hee, hee, hee, hee... I'm hurt that you have such a low opinion of me, Ms. Fey.</line>
 <line speaker="Mia">Huh...?</line>
 <line speaker="Payne">I'm not a fool, you know. The prosecution has done its research, Your Honor. We found that there were no lightning strikes on that day at that location!</line>
@@ -779,8 +778,8 @@
 <line speaker="Judge">Hmm, Ms. Fey. Do you have any thoughts regarding the cause of the severed cable?</line>
 <line speaker="Mia">Y-Your Honor... <thought>I don't like how this is looking one bit! I have to come up with something to try to regain some momentum!</thought> If it pleases the court, the defense would like to state its opinion.</line>
 <line speaker="Judge">Well then, let's hear it. Who or what was it that caused the cable to break?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">This is it! This is why the cable snapped.</line>
 <line speaker="Payne">Well, Your Honor?</line>
 <line speaker="Judge">I believe that the only thing that has snapped is the mind of the defense.</line>
@@ -792,7 +791,7 @@
 <line speaker="Judge">Yes, that sounds right. Wait! Are you saying that...</line>
 <line speaker="Mia">The lab equipment lost power at 2:55 PM... which fits right in Mr. Wright's timeline. In other words, it was Mr. Wright's shove that caused the power outage.</line>
 <line speaker="Payne">Yes! The prosecution also came to that same conclusion. And it was that very shove that caused Mr. Swallow to be electrocuted!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">I'm afraid I can't agree with you there, Mr. Payne.</line>
 <line speaker="Payne">Wh-What's that supposed to mean?</line>
 <line speaker="Mia">Take a good look at where the victim landed after being shoved. See the umbrella? It's by the electrical pole. That's right. The victim banged into that pole as a result of being pushed. It was that impact that caused the cable to break.</line>
@@ -817,7 +816,7 @@
 <line speaker="Payne">Of course you are, my dear! As painful as it may seem, you are.</line>
 <line speaker="Judge">Now then, Ms. Fey. You may proceed with your cross-examination!</line>
 <line speaker="Dahlia">The truth is... Feenie pushed him twice.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Ms. Hawthorne... Previously in your testimony you said the following... "Actually, I didn't see the moment he pushed Dougie."</line>
 <line speaker="Dahlia">I know... I-I'm sorry. I wanted to protect Feenie.</line>
 <line speaker="Mia">So that's why you basically lied to the court?</line>
@@ -830,17 +829,17 @@
 <line speaker="Judge">Not at all! Ho ho ho...!</line>
 <line speaker="Mia"><thought>The judge had better be more careful himself! A dark alley is friendlier than that girl!</thought></line>
 <line speaker="Dahlia">The first time was into the electrical pole. That's when the cable broke.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You're saying you actually saw the victim get pushed into the electrical pole?</line>
 <line speaker="Dahlia">I know he doesn't look it, but Feenie can be a bit of an imp when he wants to be.</line>
 <line speaker="Mia"><thought>Oh, really...?</thought></line>
 <line speaker="Dahlia">But I never imagined that he would cause an electrical cable to break... Feenie really is scary when he gets mad...</line>
 <line speaker="Judge">Yes, he sounds like a very dangerous individual indeed.</line>
 <line speaker="Dahlia">then Dougie tried his best to run away from him...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So let me get this straight. You were happily listening to music on your headphones while you watched this scene unfold?</line>
 <line speaker="Dahlia">Waaaaah...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Ms. Fey! I'll have to ask you to stop badgering the witness!</line>
 <line speaker="Dahlia">Umm... I wasn't happy... I was so scared that I couldn't even move. All I could do was stand there and cheer them on...</line>
 <line speaker="Mia">Ch-Cheer them on? What do you mean by that?</line>
@@ -848,7 +847,7 @@
 <line speaker="Judge">Hmm... That's very sweet of you to be so supportive.</line>
 <line speaker="Payne">And what happened after that?</line>
 <line speaker="Dahlia">But Feenie caught up and crashed into him from behind.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">That doesn't sound quite right... There were handprints found on the chest of the victim's leather jacket. Mr. Payne, were there also prints found on the back of his leather jacket?</line>
 <line speaker="Payne">W-Well, um... N-No, there weren't...</line>
 <line speaker="Dahlia">Madame Fey, may I suggest that you listen a little more carefully?</line>
@@ -856,12 +855,12 @@
 <line speaker="Dahlia">I said that he "crashed" into him from behind, right? My Feenie wouldn't leave any prints behind in that case, would he?</line>
 <line speaker="Mia">Unngghh...</line>
 <line speaker="Dahlia">The cable snapping, and Dougie being electrocuted -- it all occured [sic] in less than a minute.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Did you actually witness the moment the victim was electrocuted?</line>
 <line speaker="Dahlia">I-I'm sorry. I didn't actually see it. I... I turned my eyes away...</line>
 <line speaker="Payne">That's understandable.</line>
 <line speaker="Judge">Yes indeed. It would have been a horrific sight for anyone to behold.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia"><thought>If I don't figure out the contradiction here... ...it's all over! She didn't have much time to come up with her lie, so this is my best chance. There must be a hole in her testimony somewhere! Think, Mia!</thought></line>
 <line speaker="Mia">That's enough, witness.</line>
 <line speaker="Dahlia">I'm afraid I don't understand...</line>
@@ -875,18 +874,18 @@
 <line speaker="Dahlia">...!</line>
 <line speaker="Mia">The defense proposes that... ...it was during this interval that the real murderer killed Mr. Doug Swallow!</line>
 <line speaker="Judge">Or-Order! Order in the court! What is this all ab--</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Th-This is nonsense! The "real murderer"...!?</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Even you can't deny that the time between the cable breaking and the electrocution... ...are completely unaccounted for!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Th-Then who was it!? Who else are you saying could've done it!?</line>
 <line speaker="Mia">There's only one person who could have murdered Mr. Swallow. Only after my client had left the scene... ...was there a window of opportunity for the real killer!</line>
 <line speaker="Judge">Ms. Fey. Is the defense ready to indict someone as this "real killer"?</line>
 <line speaker="Mia"><thought>It's finally time. This is the moment I've been waiting for.</thought> Yes, Your Honor. We are ready.</line>
 <line speaker="Judge">Very well. But remember! If you accuse the wrong person, you will be penalized. Think very carefully before you speak, Ms. Fey. Now then, Ms. Fey. Let's have it. Who is the "real killer"!?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Payne">......</line>
 <line speaker="Dahlia">.........</line>
@@ -897,14 +896,14 @@
 <line speaker="Judge">Now this time, I expect you to think a bit more carefully!</line>
 <line speaker="Mia">It could only have been you, Dahlia Hawthorne!</line>
 <line speaker="Dahlia">Waaaaah! H-How... H-How can you...!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Th-The defense is grasping at straws!</line>
 <line speaker="Mia">Ten minutes passed between the time the cable broke and the time of the electrocution! What exactly were you doing that whole time, Ms. Hawthorne? Were you really listening to some music while "cheering them both on" as they fought? I find it hard to believe that you didn't lift a finger to stop the men "dearest" to you!</line>
 <line speaker="Judge">Order! Order! Ms. Fey! Wh-What... I mean, why... That is to say...</line>
 <line speaker="Mia">Ms. Hawthorne! I believe you did witness the two men fighting on that day. However! After Mr. Wright pushed the victim, and subsequently left the scene... ...it was YOU who pushed Mr. Swallow to his death by your very own hands!</line>
 <line speaker="Dahlia">AAAAAAAAHHH!!! H-How can you say something so mean, Madame Fey...! I... I didn't do anything...!</line>
 <line speaker="Judge">Ms. Fey! This is a very serious charge you are--</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Your Honor! P-Please, I have something I want to say! *achoo*</line>
 <line speaker="Judge">Y-Y-You! Wh-What is it!?</line>
 <line speaker="Phoenix">Please... Please strike everything the defense said just now from the record!</line>
@@ -925,7 +924,7 @@
 <line speaker="Payne">Err, that is I... Um... G-G-Go right ahead.</line>
 <line speaker="Dahlia">Madame Fey, are you seriously accusing me of killing my sweet Dougie?</line>
 <line speaker="Mia">Yes. I am. Not only am I saying you murdered Doug Swallow... ...but you also tried to pin the whole thing on your current lover, Phoenix Wright!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">I told you that you should let me handle this...</line>
 <line speaker="Dahlia">... ... *weep*</line>
 <line speaker="Payne">Urk. Sorry. P-Please go ahead.</line>
@@ -936,9 +935,9 @@
 <line speaker="Mia">Your Honor. The defense requests further testimony from Ms. Dahlia Hawthorne!</line>
 <line speaker="Judge">F-Further testimony...? What about?</line>
 <line speaker="Mia">About the events of the day when she first met the defendant, Mr. Phoenix Wright.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">What could that possibly have to do with this case!?</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">The witness claims that she has no reason to frame the defendant, am I correct? Well I have evidence that suggests that she, in fact, had a very good reason!</line>
 <line speaker="Judge">Very well then, the court grants the defense's request. Young lady. Would you mind staying on for just a bit longer?</line>
 <line speaker="Dahlia">Of course not, Mr. Judge.</line>
@@ -949,18 +948,18 @@
 <line speaker="Mia"><thought>And now we enter the final act of our little drama!</thought></line>
 <line speaker="Grossberg">As we used to say in the days of my youth, "Go get her!"</line>
 <line speaker="Dahlia">I first met my darling Feenie eight months ago.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So until that time, you had been dating Doug Swallow?</line>
 <line speaker="Dahlia">Y-Yes. I'm a real fool, I know. Letting my emotions change so quickly... I'm ashamed of myself.</line>
 <line speaker="Judge">No, no. Not at all! Look at me! I'm infamous for changing my mind! My critics have even taken to calling me "Judge Fickle"! Ho! Ho! Ho!</line>
 <line speaker="Mia"><thought>Maybe you should look for a different line of work...</thought></line>
 <line speaker="Grossberg">Despite that, however, he always, always hands down the correct verdict. That's why some people also call him "The Great Judgini".</line>
 <line speaker="Dahlia">It's like we were destined to meet in this very courthouse's basement reading room.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">The courthouse reading room? That's a strange place to meet the love of your life.</line>
 <line speaker="Dahlia">That's not true, Madame Fey. After all, Feenie was... Feenie was not only an art student, but he was also planning on becoming a lawyer.</line>
 <line speaker="Mia">I'm not talking about him. I'm talking about you, Ms. Hawthorne. What was a literature student like you doing in a courthouse reading room?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">This line of questioning is a waste of time! It has nothing to do with our murder case!</line>
 <line speaker="Judge">Ms. Fey, I'm warning you. If this has nothing to do with Mr. Swallow's case...</line>
 <line speaker="Mia"><thought>I have to remember the judge is on Dahlia's side. I'd better tread carefully...</thought></line>
@@ -969,42 +968,42 @@
 <line speaker="Mia">Your Honor, if you'll allow me some latitude, I think I can establish relevance. Please ask her to continue on with her testimony!</line>
 <line speaker="Judge">Very well. Young lady, I've got a simple question for you. What were you doing downstairs in the courthouse reading room?</line>
 <line speaker="Dahlia">If it pleases Your Honor, the answer is simply this.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">The courthouse reading room? That's a strange place to meet the love of your life.</line>
 <line speaker="Dahlia">That's not true, Madame Fey. After all, Feenie was... Feenie was not only an art student, but he was also planning on becoming a lawyer.</line>
 <line speaker="Mia">I'm not talking about him. I'm talking about you, Ms. Hawthorne. What was a literature student like you doing in a courthouse reading room?</line>
 <line speaker="Dahlia">Tee hee. There's nothing strange about that. ma'am.</line>
 <line speaker="Dahlia">I had come to this courthouse to do some research for a paper I was writing.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You were writing a paper? On what?</line>
 <line speaker="Dahlia">On the relationship between modern Senryu poetry and the criminal underworld.</line>
 <line speaker="Judge">Ho ho ho. That sounds like a fascinating research idea.</line>
 <line speaker="Dahlia">"Am I getting old? Now I've even forgotten what I've forgotten..."</line>
 <line speaker="Mia"><thought>Again with the mid-life crisis stuff!?</thought></line>
 <line speaker="Grossberg">Mia, why did that girl really come to this courthouse? Isn't that what you wanted to know? And speaking of forgetting things, you haven't forgotten the police report, have you? I went through a lot of trouble to get it, m'dear, so be sure to read it carefully.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Dahlia">The moment our eyes met, my heart skipped a beat!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Hmm... So what was it about Mr. Wright that made your heart malfunction like that? In my personal opinion, he just looks like a typical snotty-nosed college brat.</line>
 <line speaker="Dahlia">Perhaps to a woman your age. But to me, Feenie is handsome!</line>
 <line speaker="Mia">Perhaps to you, Ms. Hawthorne. But to the rest of the planet, he's a dime a dozen.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Love is a mysterious thing, and I object to this line of questioning! If you were to look at my wife for example, you might all be shocked!</line>
 <line speaker="Judge">He's telling the truth. It was truly, truly shocking.</line>
 <line speaker="Dahlia">"Beautiful mushroom, growing tall in the darkness. It comes from cow dung." That's the poem that best describes how I feel about my Feenie.</line>
 <line speaker="Dahlia">We've been going out ever since that fateful day.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Were there any bad feelings between you and Mr. Swallow?</line>
 <line speaker="Dahlia">No, none at all. We parted on very good terms.</line>
 <line speaker="Mia">But that can't be!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Our investigation also shows that it was a clean breakup.</line>
 <line speaker="Mia">Huh... Are you... Are you sure?</line>
 <line speaker="Payne">Yes, it seems that they both wanted it that way.</line>
 <line speaker="Mia"><thought>So the victim wanted to break up with her...?</thought></line>
 <line speaker="Mia">So you're saying that Mr. Swallow also wanted to break up with you?</line>
 <line speaker="Dahlia">W-Well, y-you see...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">What a cruel thing to ask a lovely young lady like this! ... By the way, I have never ONCE considered leaving MY wife!</line>
 <line speaker="Judge">No one cares, Mr. Payne.</line>
 <line speaker="Mia"><thought>She didn't deny it... That must mean... Doug Swallow must have seen through her little act. He must have gotten a glimpse of her true nature.</thought></line>
@@ -1012,7 +1011,7 @@
 <line speaker="Grossberg">Listen to me, Mia. That woman has the judge in the palm of her hand, you see. So the only way to discredit her is to find a contradiction in her testimony!</line>
 <line speaker="Mia">Ms. Hawthorne, you weren't here because of your research paper, were you? Didn't you actually come here for a much more important reason?</line>
 <line speaker="Dahlia">...!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Wh-What is the meaning of that cocky smile on your face, Ms. Fey!?</line>
 <line speaker="Mia">Eight months ago, right here in this very courthouse, there was another tragedy.</line>
 <line speaker="Payne">Another tragedy...?</line>
@@ -1023,7 +1022,7 @@
 <line speaker="Judge">D-Dahlia H-Hawthorne!?</line>
 <line speaker="Mia">Yes! The sweetie-pie of everyone's eye, Ms. Dahlia Hawthorne! She was the prime suspect in a criminal case just eight months ago!</line>
 <line speaker="Judge">Order! Order! Order! ... Th-This is unbelievable! It's true then... The loveliest rose can hide the cruelest thorn...</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Ms. Fey! Th-That's not fair! You can't slander my witness with an unrelated case!</line>
 <line speaker="Dahlia">Umm...</line>
 <line speaker="Payne">I, Winston Payne, will not allow it!</line>
@@ -1042,13 +1041,13 @@
 <line speaker="Payne">Unnggh! What the...!? Why does the defense suddenly feel stronger...?</line>
 <line speaker="Grossberg">Aha! Mia! You're glowing with a true lawyer's aura, m'dear! That proud posture and self-confidence! Absolutely smashing!</line>
 <line speaker="Dahlia">I met the lawyer who was poisoned to discuss something in the cafeteria that day.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">What were you talking about with the defense attorney?</line>
 <line speaker="Dahlia">Well I... I'm sorry, but that's confidential.</line>
 <line speaker="Judge">According to the report, you were being interviewed regarding another case.</line>
 <line speaker="Dahlia">The lawyer that was killed... He said he wanted to talk about an incident I was caught up in when I was younger.</line>
 <line speaker="Mia">Why don't you tell us all what that incident was?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">That has absolutely nothing at all to do with this case!</line>
 <line speaker="Judge">Objection sustained. The defense's question is stricken from the record.</line>
 <line speaker="Mia">You get involved in a lot of "incidents", don't you, Ms. Hawthorne?</line>
@@ -1058,7 +1057,7 @@
 <line speaker="Dahlia">Oh, Feenie... Please...</line>
 <line speaker="Mia"><thought>*gag* Those two really are making me ill. Albeit for decidedly different reasons.</thought></line>
 <line speaker="Dahlia">I left my seat for just a moment, and that's when it happened!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">How long were you gone?</line>
 <line speaker="Dahlia">I've already answered all these questions for the police... But if you must know, maybe 10 or 20 minutes...</line>
 <line speaker="Mia">And where were you during that stretch of time? Using the toilet?</line>
@@ -1068,13 +1067,13 @@
 <line speaker="Payne">The police have already looked into this whole matter. This line of questioning is nothing but a waste of the court's time!</line>
 <line speaker="Judge">Objection sustained. Ms. Hawthorne, please continue with your testimony.</line>
 <line speaker="Dahlia">From what I heard, it was a liquid poison that is lethal at just 2 teaspoons.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">About how much liquid is 2 teaspoons?</line>
 <line speaker="Judge">Hmm, well let me see... My bottle of eyedrops says it's 1/2 fluid ounce... Which is equal to 3 teaspoons...</line>
 <line speaker="Mia"><thought>So it's about two-thirds of that amount, huh...</thought></line>
 <line speaker="Dahlia">The poison was found in the lawyer's mug of coffee. It must have been after I left the table... Someone must have quietly slipped it in there.</line>
 <line speaker="Dahlia">Not only that, I heard it was a very special kind of poison.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">A "special kind of poison"? How so?</line>
 <line speaker="Dahlia">Well, I heard that it's almost impossible to detect.</line>
 <line speaker="Judge">Oh? And where would something like that come from...?</line>
@@ -1082,12 +1081,12 @@
 <line speaker="Judge">"Chemical processes"...? Well, well... That's quite... ...impressive. Most impressive...</line>
 <line speaker="Mia"><thought>The better question is, how did the criminal get something like that?</thought></line>
 <line speaker="Dahlia">So you see, I'm innocent! I wouldn't even know where to get a poison like that!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">And that's the reason they didn't arrest you? Because no one could show how you could've gotten the poison?</line>
 <line speaker="Dahlia">I think that's a good enough reason, Madame Fey.</line>
 <line speaker="Payne">She's right. And I think we've all had enough of Ms. Fey's questions!</line>
 <line speaker="Judge">Hmm...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Grossberg">So in essence, the main reason Ms. Hawthorne was never arrested for this crime... ...was because no one could show how she could have obtained the poison.</line>
 <line speaker="Mia">Then all we have to do is find a way to establish how she could've gotten some, right? <thought>Great... Now just how did a lit. student get a hold of poison, of all things...?</thought></line>
 <line speaker="Mia">You wouldn't know how to get that kind of poison? I don't believe you.</line>
@@ -1101,7 +1100,7 @@
 <line speaker="Mia">Well, Ms. Hawthorne? It seems you had access to such a poison after all. And then, it was a matter of slipping it into the victim's coffee when he wasn't looking. The only person who could've done that was the one sitting at his very table -- you!</line>
 <line speaker="Dahlia">NOOOOOOOOOOOO!!</line>
 <line speaker="Judge">Order! Order! Order! C-C-Could it be...!?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Th-That's nothing but a baseless accus--</line>
 <line speaker="Dahlia">May I say something, Madame Fey?</line>
 <line speaker="Mia">What is it, Ms. Hawthorne?</line>
@@ -1117,8 +1116,8 @@
 <line speaker="Grossberg">Unless we can come up with some evidence, we're going to lose this lead!</line>
 <line speaker="Mia"><thought>The police conducted a full body search of Dahlia and of the entire courthouse. And yet the container holding the poison disappeared right after the crime occurred...</thought></line>
 <line speaker="Judge">If you're going to accuse the young lady of committing the murder... ...then where is the container the poison was carried in? What happened to it?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Payne">... ......</line>
 <line speaker="Dahlia">... ...... .........</line>
@@ -1131,7 +1130,7 @@
 <line speaker="Mia">You were forced to get rid of the container in a hurry, weren't you? And that's why you passed it on to someone that had nothing to do with the case! Someone that you knew wouldn't be searched!</line>
 <line speaker="Judge">W-Who is this person!?</line>
 <line speaker="Mia">Mr. Phoenix Wright, of course.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">So the defendant was this witness's accomplice?</line>
 <line speaker="Mia">Of course not. She gave the poison to him disguised as... a present.</line>
 <line speaker="Dahlia">Wh-What...!? B-But... But that's...!</line>
@@ -1141,7 +1140,7 @@
 <line speaker="Mia">No, there's no longer any poison in that bottle. However! I'm certain if the crime lab were to analyze it, they would find a trace amount!</line>
 <line speaker="Dahlia">......... NOOOOOOOOOO!! WAAAAAAAAAAAAAAAAAAAH!!</line>
 <line speaker="Judge">Or-Order! Order in the court! Ahh, umm...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">On behalf of Dollie, I object!</line>
 <line speaker="Payne">M-Mr. Wright! Control yourself!</line>
 <line speaker="Phoenix">I-I won't let you bully her like this...!</line>
@@ -1202,14 +1201,14 @@
 <line speaker="Mia">What the...?</line>
 <line speaker="Payne">Wha--...?</line>
 <line speaker="Judge">What is he doing now!?</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Y-Your Honor!! You've got to stop the trial!! Mr. Wright! Mr. Wright! Are you feeling OK!? Does your stomach hurt!? That bottle you swallowed may have had some poison left in it!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Ehee hee... Hee, hee, hee, hee, hee... It seems the defendant has proven the prosecution's case for us. Clearly that bottle did not contain a deadly poison!</line>
 <line speaker="Mia">H-How can you be so sure!?</line>
 <line speaker="Payne">Hee, hee, hee... I think that's obvious... As you can see, the defendant is still very much alive. As for the poison? More like a fledgling defense attorney's overactive imagination!</line>
 <line speaker="Judge">Hmm... So it would seem.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">No! There must be some mistake! The bottle must not have had any poison left in it! Either that or the poison must have lost its potency...</line>
 <line speaker="Payne">There, there... It's alright, rookie. Trusting your client is the most noble thing a defense attorney can do. And it's heartwarming to see that you placed this much faith in Mr. Wright.</line>
 <line speaker="Phoenix">...!</line>
@@ -1219,7 +1218,7 @@
 <line speaker="Judge">This may be impossible for a beginner like you to understand... ...but in a court of law, evidence is everything.</line>
 <line speaker="Mia">Unngggh! <thought>Even though I've proven so much, is she going to get away with everything...?</thought></line>
 <line speaker="Judge">Well, now that the suspicion surrounding Ms. Hawthorne has been cleared up... I would like to proceed with the trial.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">M... Mr. Wright!</line>
 <line speaker="Phoenix">I'm sorry, Miss Fey. It totally slipped my mind. I'm really, really sorry... I know you believed in me, and I feel like I really let you down.</line>
 <line speaker="Mia">Mr. Wright... What are you trying to say?</line>
@@ -1235,7 +1234,7 @@
 <line speaker="Phoenix">There's one more thing... After I pushed him that day... I got worried and came back to have a look. And she was there... Dollie was right there. She was crouched down next to him...</line>
 <line speaker="Mia">What!?</line>
 <line speaker="Phoenix">She told me not to ever tell anyone about it, but... I'm sorry, Dollie!</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Y-Your Honor! This is... The defendant is...</line>
 <line speaker="Phoenix">Miss Fey! You tell them! D-Dollie didn't do it... Sh-She's innocent!</line>
 <line speaker="Mia"><thought>So Dahlia stole poison eight months ago too, huh... If you put that together with Mr. Wright's testimony... ...then there's only one possible conclusion!</thought> The defense believes that Ms. Dahlia Hawthorne... ...stole some poison on the night before she killed Doug Swallow.</line>
@@ -1245,14 +1244,14 @@
 <line speaker="Judge">If you're so certain of your theory, then let me ask you this.</line>
 <line speaker="Mia"><thought>Mia, this is your last chance. Think carefully now... There's something that she desperately wanted to get back... Therefore...</thought></line>
 <line speaker="Judge">Exactly who was Ms. Dahlia Hawthorne planning to kill?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Grossberg">W-Wait a minute, Mia! Why would she want to kill Doug Swallow?</line>
 <line speaker="Mia">Because Doug Swallow had figured out what kind of a person she was! And so...</line>
 <line speaker="Grossberg">No, no! Well, that may be true, but Ms. Hawthorne had no way of knowing that. From her point of view, who was it that was really in her way? THAT is the question you have to ask yourself.</line>
 <line speaker="Judge">Ms. Fey. I'm beginning to run out of patience with you. What is your answer?</line>
 <line speaker="Mia">Y-Yes, Your Honor! <thought>I can't mess up again!</thought></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">...</line>
 <line speaker="Payne">Are you trying to mock this court, Ms. Fey?</line>
 <line speaker="Grossberg">Wh-What are you doing!? You sounded so sure of yourself at first... Now it turns out you have no idea what you're talking about!</line>
@@ -1261,7 +1260,7 @@
 <line speaker="Mia">I apologize, Your Honor... <thought>No more mistakes, Mia!</thought></line>
 <line speaker="Mia">There was one person that was standing squarely in Ms. Dahlia Hawthorne's way... And that person was... Mr. Phoenix Wright!</line>
 <line speaker="Phoenix">... M-M-M-M-M-M-Meeee!?</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Th-That's preposterous!! After all, it was Doug Swallow that was murdered!</line>
 <line speaker="Mia">Well, it's true that that's how things worked out... But, let's remember that Mr. Swallow died of electrocution, not poison. The person that Ms. Hawthorne was planning to poison was in fact... You, Phoenix Wright. There's no one else that it could be.</line>
 <line speaker="Judge">B-But how can that be!? I-I thought Mr. Wright and Ms. Hawthorne were in love!</line>
@@ -1287,7 +1286,7 @@
 <line speaker="Dahlia">With absolutely no proof, you treat a voluntary witness like she's a mass-murderer... Well, I have nothing more to say. I'll be heading home now, if you don't mind.</line>
 <line speaker="Judge">B-But y-you're not finished...</line>
 <line speaker="Dahlia">Fine! Then ask this nasty old hag to finish up already!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia"><thought>I can't let her get away this time!</thought></line>
 <line speaker="Grossberg">Stop, Mia! If you keep on pushing without any evidence... ...you could pay the ultimate price as a lawyer!</line>
 <line speaker="Mia">The ultimate price...?</line>
@@ -1305,8 +1304,8 @@
 <line speaker="Dahlia">I can just imagine the headlines for tomorrow's newspaper. Up-and-coming lawyer plummets to Earth before she gets the chance to soar...</line>
 <line speaker="Mia"><thought>She was planning to poison Mr. Wright... If that's the case, then the poison was probably in there!</thought></line>
 <line speaker="Judge">Well then, Ms. Fey. Please present your evidence. Show to this court irrefutable proof that Ms. Hawthorne was planning to poison Mr. Wright!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Ms. Fey...! After all that thinking, THIS is your best answer!?</line>
 <line speaker="Grossberg">C-Couldn't you have tried a little bit harder...?</line>
 <line speaker="Mia">Please wait, Your Honor! I just... made a mistake!</line>
@@ -1320,7 +1319,7 @@
 <line speaker="Phoenix">But I lost my bottle of it around lunchtime on the day of the accident.</line>
 <line speaker="Phoenix">I always eat with Dollie... Just the two of us.</line>
 <line speaker="Mia">She was the one who took his bottle of Coldkiller X. Then she poisoned it, knowing that Mr. Wright was going to take some.</line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">Now you're really grasping at straws! After all, it was the victim, Doug Swallow, that was holding the medicine.</line>
 <line speaker="Mia">I would like the court to recall the crime that happened here eight months ago. Where did Ms. Hawthorne hide the evidence?</line>
 <line speaker="Judge">Huh? What are you talking about?</line>
@@ -1332,7 +1331,7 @@
 <line speaker="Mia">Yes, she disposed of the evidence exactly the same way as she did back then! She had someone else hold it! In this case... Doug Swallow!</line>
 <line speaker="Dahlia">Oh come on now, everyone. Surely you aren't fooled, are you? This stupid woman! She's nothing but a filthy, stinking liar! Right, Mr. Prosecutor...?</line>
 <line speaker="Payne">Huh...!? Y-Yes... Th-That's exactly right. It's just pure desperation!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Hmm... I wonder which one of us is the desperate one? So, Ms. Hawthorne. This cold medicine... I wonder if you wouldn't mind taking some?</line>
 <line speaker="Dahlia">...!?</line>
 <line speaker="Mia">Well, Mr. Wright ate that necklace of yours, right? Now it's your turn to prove your innocence. What do you say?</line>
@@ -1348,7 +1347,7 @@
 <line speaker="Judge">Huh...!? Err, why, um... Y-Yes...</line>
 <line speaker="Dahlia">I'm going to go spend a little quality time with the men in blue now. I wish you all the best.</line>
 <line speaker="Mia"><thought>Whew... It's finally all over.</thought></line>
-<line speaker="Payne"><cutIn>Objection!</cutIn></line>
+<line speaker="Payne"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Payne">I... I refuse to accept this! The defense hasn't shown a scrap of evidence to support their outrageous claim!</line>
 <line speaker="Judge">B-But even so, your witness seems to have accepted it...</line>
 <line speaker="Payne">I don't care!! I'm Winston Payne! And I don't believe one word that this rookie lawyer has said!</line>
@@ -1361,7 +1360,7 @@
 <line speaker="Payne">For example, I would trust the witness, Ms. Hawthorne, with my very life!</line>
 <line speaker="Mia">So, if she's so trustworthy... ...then I'm sure there couldn't possibly be any poison in here, right?</line>
 <line speaker="Payne">Err... Well... Ummm... You see... Umm... Y-Yes...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">...And here comes the backpedal! Come on now, "Rookie Killer"! Show this rookie how it's done! How much trust do you really have for this woman? Are you willing to bet your life!?</line>
 <line speaker="Payne">Gggg... Nnngh... Unnngggggh... NNNNNNYYYYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA M-M-My HAAAAAAAAAAIIIIRRR!! IT-IT-IT'S FLYYYYYIIIIIIIING OOOOOFFFFFFFFFFFFFFFF!! MY BEAUUUUUUUTIFUL HAIR!! NOOOOOOO!!! NOOOOOOOOOOO!! WAAAAAHAAAAWAAAAHAAAA NO-NO-NO-NO-No-No-no-no noooooooooooooooooooooo...</line>
 <line speaker="Judge">Umm, Mr. Payne? About Ms. Dahlia Hawthorne...?</line>
@@ -1405,24 +1404,24 @@
 <line speaker="Phoenix">It's been five years since I was acquitted of all charges. I became a lawyer like I planned, and managed to save my friend. But Mia has passed on to a better place. For me, this trial brings up a lot of painful memories. But... it also brings up some very precious ones. And memories that I thought would never rise to the surface again... Mia is gone now. But even so... I can hear her in my mind.</line>
 <line speaker="Mia">Phoenix, no matter what, always believe in your client. In a court of law, your greatest weapon is your belief.</line>
 <line speaker="Phoenix">...Five long years... Something has happened that's made me think back to her words of wisdom... But that is a story for another day...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Your Honor! What do you think of the witness's statement!?</line>
 <line speaker="Judge">Hmm... I don't really see any problem with it.</line>
 <line speaker="Mia">... Actually... I don't either.</line>
 <line speaker="Judge">Well then what are you making a fuss for!? Think before you speak, young lady!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">In what way...? I'm not sure I understand.</line>
 <line speaker="Mia">Actually... I don't quite get it either.</line>
 <line speaker="Judge">Well, make sure you do before you speak out again!</line>
 <line speaker="Mia"><thought>Aghh... He's mad at me now. But you can't give up yet, Mia!</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Does this evidence establish that the defendant is lying?</line>
 <line speaker="Judge">D-Don't ask me! You're the one who's supposed to know!</line>
 <line speaker="Mia">Oops, sorry. This is all still kind of new to me...</line>
 <line speaker="Judge">Well, I've got something new for you, too -- a new penalty! Objection overruled!</line>
 <line speaker="Mia"><thought>This isn't going as smoothly as I had hoped...</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">The witness's testimony just now is clearly contradictory, Your Honor!</line>
 <line speaker="Judge">It could be...</line>
 <line speaker="Mia">It has to be, right!? I knew it!</line>

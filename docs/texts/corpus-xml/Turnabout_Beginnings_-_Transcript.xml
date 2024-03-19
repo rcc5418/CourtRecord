@@ -63,7 +63,7 @@
 <line speaker="Judge">Aha...! I see... The man who was sentenced to death based on her testimony escaped two days ago... ...with only one thing on his mind. To take revenge against the woman who convicted him. ... Hmm... Aha! The truth is becoming clear to me now!</line>
 <line speaker="Mia">Huh?</line>
 <line speaker="Judge">Yes, yes... It's quite obvious that the defendant is guilty.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">W-Wait a minute! That's not right! At least hear the case before you decide on the outcome, Your Honor!</line>
 <line speaker="Judge">Grrrngh... Watch yourself, Ms. Fey! I'm not sure I care for your word choice, or your tone of voice.</line>
 <line speaker="Edgeworth">Young people these days simply don't know how to respect their elders.</line>
@@ -105,7 +105,7 @@
 <line speaker="Armando">Ha...! You got me there. But maybe you should keep your claws out, and show them what you've got... Kitten.</line>
 <line speaker="Mia"><thought>It's OK, Mia. Stay calm... Just remember those court procedure videos you stayed up all last night watching!</thought></line>
 <line speaker="Gumshoe">On the day of the incident, an unknown person phoned the sergeant and asked to meet.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">This "unknown person"... You have no idea who it might be, right?</line>
 <line speaker="Gumshoe">Sorry, but I'm afraid I do!</line>
 <line speaker="Mia">What...?</line>
@@ -122,7 +122,7 @@
 <line speaker="Mia"><thought>Was that... a trap...? ...With that cute face, I didn't expect him to be so sneaky.</thought></line>
 <line speaker="Edgeworth">Hmph.</line>
 <line speaker="Gumshoe">Sergeant Hawthorne went to Dusky Bridge at the designated time and met with Mr. Fawles.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">A bridge up in the mountains? But why meet there?</line>
 <line speaker="Gumshoe">Because it is a very important place to the defendant, that's why.</line>
 <line speaker="Judge">What do you mean by that?</line>
@@ -131,7 +131,7 @@
 <line speaker="Gumshoe">The very place where Sergeant Hawthorne arrested and handcuffed Mr. Fawles.</line>
 <line speaker="Armando">Ha...! Returning to the scene of the crime... How nostalgic.</line>
 <line speaker="Gumshoe">And that's where she was brutally murdered, sir.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Was the body of the victim discovered right away?</line>
 <line speaker="Gumshoe">Yeah. We were really on the ball. We found the criminal within one hour of the murder. It was great! We even got to say, "Don't move! We've got you surrounded!"</line>
 <line speaker="Mia"><thought>...Wait a second. Isn't there something weird about that...?</thought></line>
@@ -141,7 +141,7 @@
 <line speaker="Gumshoe">She never mentioned the phone call from Mr. Fawles. But... She left a note on her desk about it. If only I had noticed it earlier... Maybe she'd still be alive.</line>
 <line speaker="Mia"><thought>I wonder why she didn't mention the phone call to anyone...?</thought></line>
 <line speaker="Gumshoe">The criminal stuffed her body into his car trunk and tried to make a getaway.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Mr. Fawles had a car, then?</line>
 <line speaker="Gumshoe">Well, that bridge is way up in the mountains, ma'am. The defendant and the victim both went up there by car. I mean, how else, right?</line>
 <line speaker="Judge">What! You mean the defendant drove his own car?</line>
@@ -157,7 +157,7 @@
 <line speaker="Gumshoe">You can't tell from this photo, but... ...the knife was stuck in her back nice and firm.</line>
 <line speaker="Judge">The condition of the body when it was discovered is very important information. Detective, was there anything strange or noteworthy in the trunk of the car?</line>
 <line speaker="Gumshoe">Here's a photo of the trunk. But I don't see anything strange, do you? Anyway...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">What did the defendant have to say about this photo?</line>
 <line speaker="Gumshoe">What he always says, ma'am!</line>
 <line speaker="Fawles">I din't do it! I din't do nuttin'!!</line>
@@ -169,9 +169,9 @@
 <line speaker="Mia">...</line>
 <line speaker="Judge">Well, in any case, it seems he was caught and arrested.</line>
 <line speaker="Edgeworth">Precisely.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">Mr. Fawles was arrested at a police checkpoint we set up at the base of the mountain.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">That certainly is some impressive police work.</line>
 <line speaker="Gumshoe">Well, no, actually it was way too close for comfort. We set up that checkpoint just after 5:00 PM... We figured that Mr. Fawles might just try to run.</line>
 <line speaker="Mia">...What do you mean it was too close for comfort?</line>
@@ -243,13 +243,13 @@
 <line speaker="Judge">Hmm...</line>
 <line speaker="Mia"><thought>What do you mean, "Hmm"!?</thought></line>
 <line speaker="Gumshoe">Actually, there's an eyewitness who was there when the incident took place.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Who is this eyewitness?</line>
 <line speaker="Gumshoe">She's a college student!</line>
 <line speaker="Mia">A female college student...?</line>
 <line speaker="Gumshoe">That's right! Meaning she's "female" AND a "college student", ma'am! She doesn't do well in front of other people, so I came to testify for her.</line>
 <line speaker="Mia">Maybe so! But as the attorney for the defense, I have the right to cross-examine her...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">For the time being, we're not relying on the witness's statements... That is all.</line>
 <line speaker="Mia">Wh-What is that supposed to mean!?</line>
 <line speaker="Edgeworth">...The prosecution has other, more decisive evidence. Our case doesn't rest on the vague testimony of a female college student.</line>
@@ -259,14 +259,14 @@
 <line speaker="Mia">Grrr...</line>
 <line speaker="Judge">Please tell us about the more decisive evidence in question.</line>
 <line speaker="Gumshoe">This photo was accidentally taken by the witness. It shows her wearing the scarf, sir.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia"><thought>The victim is wearing a scarf in that photo alright.</thought> So, about the witness who took this photo... What was this person doing all the way in the mountains?</line>
 <line speaker="Gumshoe">She was taking photos of wild flowers apparently.</line>
 <line speaker="Edgeworth">There are many unusual types of flora on that mountain, Ms. Fey. People in the area say it's because of the spirits that live there.</line>
 <line speaker="Judge">S-S-Spirits! Now that you mention it, th-this photo... This cloudy fog-like thing... Is-Is it a ghost!? I-I don't believe it!</line>
 <line speaker="Gumshoe">No, Your Honor, no... I don't think it's a ghost.</line>
 <line speaker="Gumshoe">It was drizzling that day; unfortunately, it's a little hard to see what's going on.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Drizzling, huh?</line>
 <line speaker="Gumshoe">That's right. There was a light rain coming down. The whole place was dreary... ...But not as dreary as the mood that's in this court room right now. Ha ha.</line>
 <line speaker="Mia">...</line>
@@ -276,7 +276,7 @@
 <line speaker="Edgeworth">In any case... The point is that the area was quite damp. There was even some fog.</line>
 <line speaker="Gumshoe">I even slipped and fell while I was on the bridge. It was really something.</line>
 <line speaker="Gumshoe">Anyway, the criminal shoved the victim down from behind and stabbed her in the back!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Is that part of the witness's testimony as well?</line>
 <line speaker="Gumshoe">Of course it is. He pushed the victim hard in the back and she fell down right on her stomach!</line>
 <line speaker="Judge">Hmm... ...I remember that happening once myself. It was really broodle.</line>
@@ -285,13 +285,13 @@
 <line speaker="Mia">Huh...?</line>
 <line speaker="Armando">...Take a look. Poor baby... The Court Record seems to have wet itself.</line>
 <line speaker="Mia">Hey! Watch where you spill your coffee! <thought>The Court Record, huh...</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">...That must have been when the scarf fell off.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So in other words, there was a struggle between the criminal and the victim, huh?</line>
 <line speaker="Gumshoe">That's what the witness said. Well. It looks like she didn't remember about the scarf. But from what she said, it sounded like a pretty violent fight, ma'am.</line>
 <line speaker="Mia"><thought>The area was wet from rain. The bridge was probably wet, too. Which would explain why the scarf was all covered in mud, but... There's something about this testimony that's still bothering me...</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Armando">Heh, talk about a surprise. I had no idea there was a photo.</line>
 <line speaker="Mia">S-So what do I do...&#160;?</line>
 <line speaker="Armando">You really still believe him? Mr. Crybaby, I mean?</line>
@@ -304,8 +304,8 @@
 <line speaker="Mia">Considering the conditions at the scene of the crime, something isn't right.</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Judge">Well by all means... Please enlighten us as to what isn't right! What is it about this photo of the trunk that doesn't fit with the conditions that day?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Naturally, the answer is... right around HERE! ...I think.</line>
 <line speaker="Judge">...Well, Mr. Edgeworth!?</line>
 <line speaker="Edgeworth">It seems to me that Ms. Fey could use a trunk herself.</line>
@@ -322,7 +322,7 @@
 <line speaker="Gumshoe">Urk...!</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Judge">That... That's exactly right! The other day I fell on a muddy street and my gorgeous playoff beard was befouled!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...I do admit that the crime scene was quite wet that day. However! That doesn't mean that the top of the bridge itself was muddy! If Your Honor had fallen in the shower instead of on a muddy street... ...his glorious hockey beard, pride of the Legal League, would be wet, but not muddy!</line>
 <line speaker="Judge">Fortunately, I have yet to test that. Still, your point is well-taken.</line>
 <line speaker="Edgeworth">Can you prove that the surface of the bridge was muddy that day?</line>
@@ -331,8 +331,8 @@
 <line speaker="Mia"><thought>Neither would a real woman!</thought> Of course I can!</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Mia">Here is the evidence that proves the surface of the bridge was muddy!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">The evidence is...</line>
 <line speaker="Armando">Wait a minute.</line>
 <line speaker="Mia">Wh-What is it? Your timing is terrible...!</line>
@@ -350,7 +350,7 @@
 <line speaker="Edgeworth">Urrrnngh...! No... I can't be outwitted by this novice bimbo...!</line>
 <line speaker="Mia"><thought>Hey! Same to you, buddy!</thought></line>
 <line speaker="Judge">Ms. Fey's assertion makes perfect sense to me...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I do admit that there appears to be a contradiction between... ...the condition of the victim's coat and her scarf. However! The real question is... why is there a contradiction?</line>
 <line speaker="Mia">Huh?</line>
 <line speaker="Edgeworth">For every contradiction, there exists an explanation. Let's look at what the explanation in this case may be, shall we?</line>
@@ -367,7 +367,7 @@
 <line speaker="Armando">But we won't let him! We'll expose his evidence as the flimsy scam it really is!</line>
 <line speaker="Mia">Y-Yes! The false evidence in this case is the...</line>
 <line speaker="Mia">About the photo that the prosecution claims was taken by a witness... It certainly seems to show a man in a prison uniform and a woman in a coat. However! We can't tell any more than that from the photo!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Are you saying the people in the photo may not be the victim and the defendant?</line>
 <line speaker="Mia">W-Well, that's certainly a possibility!</line>
 <line speaker="Edgeworth">So perhaps it was another prisoner and policewoman? I admit, people have their quirks. Perhaps they were part of a role-playing group?</line>
@@ -439,7 +439,7 @@
 <line speaker="Judge">Ho ho ho. What a cute camera... Just like its owner.</line>
 <line speaker="Judge">...Alright then, Ms. Fey. Time for your cross-examination. But I warn you, make the witness cry again, and you'll feel the wrath of my gavel.</line>
 <line speaker="Melissa">I... I was using my camera to take some pictures of wild flowers.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Did you say... "wild flowers"?</line>
 <line speaker="Melissa">Yes, the mountain is famous for its beautiful spring wild flowers.</line>
 <line speaker="Mia">Umm... But it's only February.</line>
@@ -447,7 +447,7 @@
 <line speaker="Judge">Ho ho... I know just how you feel! It's just like when I first started growing this glorious beard of mine... I just couldn't wait, so I wore a dyed blonde Santa beard until mine grew in properly.</line>
 <line speaker="Edgeworth">...Would you mind if we got back to the facts of the case, Your Honor?</line>
 <line speaker="Melissa">Then, I noticed there were two people standing up on the suspension bridge.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Was there anything strange about the two of them?</line>
 <line speaker="Melissa">I... I'm a bad girl. ...I know I am. It looked like they were having a really serious conversation up there... ...So I decided to watch them. Like some kind of Peeping Tom.</line>
 <line speaker="Judge">No, not at all! Everyone is like that! I love watching other people fight, too. In fact, I can't get enough of it! ...Actually, that's why I took this job in the first place.</line>
@@ -455,7 +455,7 @@
 <line speaker="Edgeworth">...In any case, it's perfectly natural for you to have kept watching them. Especially dressed as they were...</line>
 <line speaker="Melissa">Well, anyway... I was watching them very closely.</line>
 <line speaker="Melissa">Suddenly, they just started fighting!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Do you have any idea what they were fighting about?</line>
 <line speaker="Melissa">Eh? No... I have no idea. Why do you ask that?</line>
 <line speaker="Mia">Oh, I just thought that maybe you overheard what they said...</line>
@@ -465,14 +465,14 @@
 <line speaker="Judge">That's right, Ms. Fey! Don't drag the witness down to your level!</line>
 <line speaker="Mia"><thought>Grrrr...!</thought></line>
 <line speaker="Melissa">That's when I hurried and took the photo that shows the crucial moment.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Why did you take a photo?</line>
 <line speaker="Melissa">Well, the two of them were really going at it... Ever since I was a little girl, I always wanted to be a news reporter... I guess that part of me just kind of took over...</line>
 <line speaker="Mia"><thought>Smells like a lie to me...</thought></line>
 <line speaker="Judge">Yes, I understand completely! Even now, I can't completely abandon my boyhood dreams... I still use my grandson to test my comedy routines on!</line>
 <line speaker="Mia"><thought>So he wanted to be a comedian, huh. ...Not that it has any bearing on this.</thought></line>
 <line speaker="Melissa">All I could do was to use my camera. So I took the photo of the crucial moment and gave it to the police.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">...Witness. When you said you took a photo of the crucial moment,  is this what you meant?</line>
 <line speaker="Melissa">Err...</line>
 <line speaker="Mia">All I can see in this photo are two people facing each other. You testified that you saw the two of them starting to fight. Normally that's the kind of thing we would refer to as a crucial moment! Why haven't you presented a photo like that!?</line>
@@ -502,30 +502,30 @@
 <line speaker="Armando">Ha...! It looks like the other kitten in the room is the one that's getting all the attention.</line>
 <line speaker="Mia">Yeah, it's sickening.</line>
 <line speaker="Melissa">And right after that, I called the police.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You called the police?</line>
 <line speaker="Melissa">Yes. Because it looked to me like the murderer was going to try to escape.</line>
 <line speaker="Edgeworth">...We were already moving before the call even came in. Thanks to the victim's note, we had already started our operation.</line>
 <line speaker="Judge">Hmm... That was certainly tough luck for the criminal, eh.</line>
 <line speaker="Melissa">The victim turned around and tried to run away, but...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">The victim... Why do you think she tried to run away?</line>
 <line speaker="Melissa">Umm...</line>
 <line speaker="Mia">With her police training, she certainly knew better than to turn her back on a criminal...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This was a large, powerful man with a knife. If it had been a quaggy woman like you, I'm sure she would have acted differently.</line>
 <line speaker="Mia"><thought>"Quaggy"!? Why you...!</thought></line>
 <line speaker="Judge">If it had been me, I probably would have jumped into the river!</line>
 <line speaker="Mia"><thought>There's still something wrong with this testimony...</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Melissa">She only got about 10 yards before she was stabbed in the back.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So you're saying Sergeant Hawthorne wasn't able to get away from him...?</line>
 <line speaker="Melissa">Well, it's a narrow bridge and it was swaying back and forth... If you ask me, both of them were in danger of falling off. I only wish I could have done something to help her...</line>
 <line speaker="Judge">Hmmmm... That seems to make sense.</line>
 <line speaker="Mia">I wonder about that... Something seems kind of off...</line>
 <line speaker="Armando">Ha...! You have a good sixth sense. When you feel that something's off, that's when you need to figure out why...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia"><thought>If Terry Fawles isn't the criminal... Then there must be something strange in that girl's testimony!</thought></line>
 <line speaker="Armando">Be careful, Kitten. That girl has the judge wrapped right around her little finger. You're going to have a tough time poking holes in that testimony of hers.</line>
 <line speaker="Mia"><thought>You're going to have to come up with something really good, Mia!</thought></line>
@@ -542,7 +542,7 @@
 <line speaker="Mia">It's very simple, Your Honor. This charming, little witness told a charming, little lie. That's all there is to it.</line>
 <line speaker="Melissa">Nnnn...ggg...urk...</line>
 <line speaker="Judge">Th-This beautiful, young lady has been l-lying to the court...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Just a moment, Your Honor.</line>
 <line speaker="Mia"><thought>M-Mr. Edgeworth...!</thought></line>
 <line speaker="Edgeworth">Your Honor... Allow me to personally apologize for the confusion.</line>
@@ -581,11 +581,11 @@
 <line speaker="Judge">Alright, Ms. Fey. Your cross-examination, if you please.</line>
 <line speaker="Mia"><thought>The contradiction is staring you right in the face, Mia! Go on the attack!</thought></line>
 <line speaker="Melissa">After he stabbed her in the back, he quickly picked her up in his arms.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Are you saying that the victim didn't fall down on the bridge?</line>
 <line speaker="Melissa">Err... Umm... Actually, maybe she did fall.</line>
 <line speaker="Edgeworth">Of course she didn't fall down on the bridge. If she had fallen down, this photo wouldn't make any sense. If that was the case, her coat would've been all muddy.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">If you don't mind, I was asking the witness!</line>
 <line speaker="Edgeworth">*sigh* No need to be so rude.</line>
 <line speaker="Judge">Well, young lady?</line>
@@ -594,7 +594,7 @@
 <line speaker="Armando">Ha...! We're one step too slow...</line>
 <line speaker="Edgeworth">And then, what did the defendant do after that?</line>
 <line speaker="Melissa">Then he carried her over to the car.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You personally witnessed that?</line>
 <line speaker="Melissa">Y-Yes...</line>
 <line speaker="Mia">Did anything strange happen when he did that?</line>
@@ -602,16 +602,16 @@
 <line speaker="Judge">Hmm... You mean this scarf!?</line>
 <line speaker="Edgeworth">Her words match what we found at the scene. I don't see any problem...</line>
 <line speaker="Melissa">I suppose that was the only way he could make sure the body stayed hidden.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You mean the defendant carried the body all by himself?</line>
 <line speaker="Melissa">Y-Yes...</line>
 <line speaker="Edgeworth">Considering the size of the defendant, I don't think it would be difficult.</line>
 <line speaker="Mia">Yes, but... Let's remember they were on a narrow bridge that was ready to collapse! Is it even possible for him to have carried a dead body on a bridge like that...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Well, the fact of the matter is that he DID! That kind of talk is just silly!</line>
 <line speaker="Mia"><thought>Wow... Why did he get so emotional all of a sudden?</thought></line>
 <line speaker="Judge">Ms. Fey, if you think there's some other possibility, please share it with the rest of us.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">A killer not wanting his victim to be found... I can understand that. However! The idea of moving the body for that purpose is clearly odd. There was a much easier way to make sure the body wasn't found!</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Judge">W-Well? What is it!?</line>
@@ -628,9 +628,9 @@
 <line speaker="Mia">What are you talking about?</line>
 <line speaker="Edgeworth">My point is that no matter how odd you may find the killer's method of body-disposal... ...the fact is that this is what the killer did. None of your arguments have anything to do with what the witness saw.</line>
 <line speaker="Judge">Hmm... Quite true... Ms. Fey, it seems that your assertion is without merit after all.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">But what the witness claims to have seen is totally ridiculous...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Surely you can't deny that the body was found in the trunk of the car.</line>
 <line speaker="Judge">That's certainly consistent with what the witness has told us.</line>
 <line speaker="Mia">Ugh...</line>
@@ -640,15 +640,15 @@
 <line speaker="Mia"><thought>Who is he talking about!?</thought></line>
 <line speaker="Melissa">Alright! I-I'll do my best!</line>
 <line speaker="Melissa">The killer broke into the trunk of the stolen car and hid the body in there.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">What did the man do then?</line>
 <line speaker="Melissa">Well... Naturally, he got in the car and was about to flee. That's... That's when I came to my senses. I said to myself, "You have to call the police!"</line>
 <line speaker="Edgeworth">And so that's when you called the police?</line>
 <line speaker="Mia">You're sure that you saw all that with your own eyes?</line>
 <line speaker="Melissa">Yes. I'm 100% certain.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Melissa">He couldn't just leave the body on top of the bridge.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Why do you say that? It's already a broken-down bridge hidden away in the mountains. Doing anything more to hide the corpse would be going overboard, wouldn't it?</line>
 <line speaker="Melissa">Yes, but that mountain is famous among hikers. A surprising number of people go up there.</line>
 <line speaker="Mia">But it's February, right? And it was raining that day, correct?</line>
@@ -656,7 +656,7 @@
 <line speaker="Edgeworth">I think the witness is trying to say that the corpse could have been found at any time... Besides, the witness is merely reporting what she witnessed with her own eyes.</line>
 <line speaker="Melissa">...</line>
 <line speaker="Melissa">Oh, I'm sorry... I'm only supposed to talk about what I saw.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">And you're absolutely certain that it was my client who was carrying the body?</line>
 <line speaker="Melissa">... Well, he was wearing a prisoner's uniform, but... as for his face...</line>
 <line speaker="Judge">So you're saying you didn't get a clear look at his face?</line>
@@ -683,7 +683,7 @@
 <line speaker="Mia">That's right, Ms. Foster.</line>
 <line speaker="Mia">From where you were standing, you could not have possibly seen the killer's car.</line>
 <line speaker="Melissa">Aaaaah...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I admit that the diagram shows a large outcropping of rock. However... It isn't so tall that it would stop her from seeing the car!</line>
 <line speaker="Melissa">Th-That's right! It-It's not high at all... I-I was able to see his car just fine!</line>
 <line speaker="Mia">I'm so sorry... But that just doesn't wash.</line>
@@ -693,17 +693,17 @@
 <line speaker="Mia">Your view should have been completely cut off by this cliff! But still you claim to have been able to see the killer's car!</line>
 <line speaker="Melissa">... Noooooo!</line>
 <line speaker="Judge">Or-Order! Order in the court! What is the meaning of all this ballyhoo...!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor... Don't jump to any hasty conclusions. The fact that the escapee fled in a stolen car was reported on the news. After witnessing a murder, I'm sure you can appreciate that the witness was very upset. She must have heard about the stolen car and convinced herself that she saw it.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">But she was repeatedly warned before starting her testimony! She was told to testify only about what she saw with her own eyes!</line>
 <line speaker="Judge">Hmmmmm... Oh!</line>
 <line speaker="Melissa">Err... Mr. Judge?</line>
 <line speaker="Judge">Wh-What is it?</line>
 <line speaker="Melissa">I think... I think I must have remembered things wrong...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Hey! Wait a minute! You can't just say that...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Fey, no one on the face of the planet is perfect.</line>
 <line speaker="Judge">Hmmmm... Yes, indeed... Quite true! You know what they say... "To err is human, to forgive, divine." I'm inclined to give the benefit of the doubt to our witness here.</line>
 <line speaker="Mia">What...!? Th-That's not fair...!</line>
@@ -729,7 +729,7 @@
 <line speaker="Armando">Overlooking such a huge contradiction... What am I going do with you?</line>
 <line speaker="Mia"><thought>Contradiction...!? So that wasn't my imagination after all!</thought></line>
 <line speaker="Judge">Very well, let's move on to the next...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">J-Just a minute!</line>
 <line speaker="Judge">What is it now, Ms. Fey!?</line>
 <line speaker="Mia">I've got a big problem with what this witness said!</line>
@@ -765,13 +765,13 @@
 <line speaker="Melissa">Oh...! I-I... I see...</line>
 <line speaker="Mia">Thank you for telling us about the scratches, Ms. Foster. Without that, we never would have uncovered the truth. It couldn't have been Mr. Fawles that put the body in the trunk!</line>
 <line speaker="Melissa">Nooooo!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">P-Preposterous! To even suggest that the witness put the body in there! If that were true... then how do you explain the photo that she took? The corpse could only have been put in the trunk when the incident occurred. And we already know that at the time, she was taking photographs!</line>
 <line speaker="Mia"><thought>Now is your chance, Mia! Finish this thing!</thought> On the contrary, I'm not so certain about that anymore, Mr. Edgeworth.</line>
 <line speaker="Edgeworth">...!</line>
 <line speaker="Mia">There's no need to think too deeply about it. What I'm saying is the shutter for this may not have been pushed by Ms. Foster herself!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Well, Your Honor?</line>
 <line speaker="Judge">To be quite honest, Ms. Fey... I wish you would have thought a little more deeply on this matter.</line>
 <line speaker="Mia">Huh?</line>
@@ -782,18 +782,18 @@
 <line speaker="Judge">Hmmmm...!</line>
 <line speaker="Mia">Almost as if the camera was brought just to take this picture!</line>
 <line speaker="Melissa">...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">What are you trying to say then, Ms. Fey!? That when the crime occurred, Ms. Foster wasn't in the field as she claimed!?</line>
 <line speaker="Mia"><thought>Well, if she really did use the camera's auto-timer... ...then the answer is yes, she was somewhere else.</thought> Exactly. She was NOT in the field.</line>
 <line speaker="Judge">Hmm... Would the defense please explain further.</line>
 <line speaker="Armando">Listen... This is a crucial point. "Where was Ms. Foster when the incident occurred...?" In answering that question, we'll also make clear Ms. Foster's true identity.</line>
 <line speaker="Judge">Well then, please answer this question. Where was Melissa Foster when the incident on the bridge occurred?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Naturally the witness was right... here! ...I think.</line>
 <line speaker="Judge">Hmm... In the spot where the defendant's car was?</line>
 <line speaker="Mia">Yes! She had to put the body in the trunk before the defendant returned!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You don't mind if I ask one teenie-weenie question, do you, Ms. Fey...?</line>
 <line speaker="Mia"><thought>Uh oh. He's got that condescending tone in his voice...</thought></line>
 <line speaker="Edgeworth">If she put the body in the trunk at that time, as you suggest... ...that must mean that Valerie Hawthorne was already dead at that point, correct?</line>
@@ -807,7 +807,7 @@
 <line speaker="Judge">Are you certain?</line>
 <line speaker="Mia">Yes, I am certain! More or less.</line>
 <line speaker="Judge">Oh, come now, Ms. Fey...</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Naturally, the witness was standing right here!</line>
 <line speaker="Judge">Hmmmmm... Well, what do you think, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">*sigh* Before pointing out where the witness was standing, Ms. Fey should do something herself. She should figure out where SHE stands, if you catch my drift!</line>
@@ -817,11 +817,11 @@
 <line speaker="Mia">Naturally, the witness was right here!</line>
 <line speaker="Judge">B-But that's... But that's where the victim, Ms. Hawthorne was standing! Order! Order! Order! Ms. Fey! What on earth...!?</line>
 <line speaker="Mia">Your Honor, if I may... After parting with the "victim" on the bridge, the defendant fled by car. But this would mean that there was no time to put the victim in the trunk. In other words, if someone put the body in the trunk... ...it could only have been before the defendant met the "victim"!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">How asinine! Of course Mr. Fawles met with the victim! The only person with the opportunity to have put the victim in the trunk... ...is the same man that killed her, Terry Fawles!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">You still don't understand, do you, Mr. Edgeworth? By the time the witness's photo was taken, the victim was already dead... The person in the photo was NOT Valerie Hawthorne!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">What!? I've never heard anything more ridiculous in my entire life! Then who exactly is the "victim" in this photo!?</line>
 <line speaker="Mia">It's obvious, isn't it? It's your own witness.</line>
 <line speaker="Melissa">...!</line>
@@ -829,14 +829,14 @@
 <line speaker="Mia">It's the only possible explanation. The woman that Mr. Fawles met on the bridge that day was not Valerie Hawthorne! It was you! Melissa Foster!</line>
 <line speaker="Melissa">M-M-Me...!?</line>
 <line speaker="Mia">Let's remember that it was raining and foggy on the mountain that day. Mr. Fawles himself believed that the woman in front of him was Valerie Hawthorne!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But the defendant knew Valerie Hawthorne very well! After all, she was the woman whose testimony helped get him convicted!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">But since then, my client has spent five hard years in a federal penitentiary! He couldn't remember exactly what she looked like anymore!</line>
 <line speaker="Edgeworth">You are just making this up as you go along! Where's your proof!?</line>
 <line speaker="Mia"><thought>I've got it all right here! This piece of evidence will blow this case wide open...!</thought> At the time of the incident, Mr. Fawles had forgotten what Valerie Hawthorne looked like!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Armando">Wait a minute, Kitten.</line>
 <line speaker="Mia">M-Mr. Armando...</line>
 <line speaker="Armando">First of all, relax. Second of all, think the whole thing over again!</line>
@@ -963,7 +963,7 @@
 <line speaker="Armando">You're up to bat, Kitten. Sharpen those claws and put on your best smile.</line>
 <line speaker="Mia">Y-You bet! <thought>Somehow, I have to tie her to this case...</thought></line>
 <line speaker="Melissa">I... I was out of the country until the year before last.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So, what country were you living in then?</line>
 <line speaker="Melissa">We were all living abroad, but after my parents were killed...</line>
 <line speaker="Edgeworth">It was a brutal civil war. She had to try to make her way back home alone...</line>
@@ -972,14 +972,14 @@
 <line speaker="Mia"><thought>There's nothing I can do about her claim to have lost all her identification. All I can do is wait to find some other evidence about her real identity.</thought></line>
 <line speaker="Judge">Very well then, Ms. Foster. Please proceed.</line>
 <line speaker="Mia">...Witness. Answer my question. I'll even repeat it for you. What country were you in?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor, this line of questioning is childish. What country she was in and how many languages she may speak are irrelevant here. What we're here to evaluate is whether this witness has any connection to this case.</line>
 <line speaker="Melissa">I've lived abroad ever since I was a little girl... That's why I could never have known Mr. Fawles or Detective Hawthorne.</line>
 <line speaker="Edgeworth">Yes... I think we've established that point.</line>
 <line speaker="Judge">Yes, indeed. Well then. Shall we add what you've just stated to the official testimony?</line>
 <line speaker="Melissa">Yes, please. ...Mr. Judge.</line>
 <line speaker="Melissa">Naturally, I didn't know either the victim or the defendant.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You didn't know either person? Are you certain of that?</line>
 <line speaker="Melissa">Yes. I'm afraid I'm rather shy around people.</line>
 <line speaker="Judge">Hmm... Oh well, that can't be helped.</line>
@@ -987,13 +987,13 @@
 <line speaker="Judge">The first time you saw either of them was when they were on the bridge, correct?</line>
 <line speaker="Melissa">Yes... It really was a coincidence.</line>
 <line speaker="Melissa">Until I entered college, I had never even been to Eagle Mountain before...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">So what made you decide to go to Eagle Mountain anyway?</line>
 <line speaker="Melissa">I just love being outdoors... Picnics, hiking... You know, that sort of thing.</line>
 <line speaker="Mia"><thought>...You don't look like much of a hiker to me. But you do look like a digger of sorts.</thought> But Eagle Mountain is a two-hour drive from here and no trains run through there. There are plenty of mountains that are closer and easier to get to.</line>
 <line speaker="Melissa">Well, I went there once with the college Hiking Club. I fell in love with its stark, desolate beauty and its cold, yet romantic, gloominess...</line>
 <line speaker="Mia"><thought>Didn't know you were such a goth...</thought> By the way, what's the name of your college...?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">The prosecution objects to any questions that involve the witness's private life.</line>
 <line speaker="Mia">...!</line>
 <line speaker="Edgeworth">All that matters is that she is a material witness to a crime. The witness doesn't need to respond to questions that are clearly malicious in intent.</line>
@@ -1001,10 +1001,10 @@
 <line speaker="Judge">Hmmmmm! Ms. Fey! You're treading on thin ice here!</line>
 <line speaker="Mia"><thought>I hardly said anything! Talk about sensitive...</thought></line>
 <line speaker="Melissa">And I certainly don't have any reason for wanting to hurt a police officer.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Perhaps, but your behavior that day was very suspicious! Not only have you contradicted yourself here in court, but you know things you shouldn't. For example, the scratches on the trunk of the car.</line>
 <line speaker="Melissa">Well th-that's...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Unfortunately Ms. Fey, your last statement proves nothing.</line>
 <line speaker="Mia">Oh really!? And why is that?</line>
 <line speaker="Edgeworth">The witness came to the police station once to identify the suspect. It's entirely possible that, at that time, an officer showed her this photo.</line>
@@ -1013,11 +1013,11 @@
 <line speaker="Mia">Th-That's not fair...!</line>
 <line speaker="Melissa">That wicked inmate... I'll never be able to forget that horrible day...</line>
 <line speaker="Melissa">Holding a grudge and killing the officer who testified against you 5 years ago...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">A grudge...?</line>
 <line speaker="Melissa">Well, the policewoman's testimony was crucial, wasn't it? ...Crucial in getting the defendant sentenced to death.</line>
 <line speaker="Edgeworth">Yes, and that's precisely why he harbored such deep anger against her. So much anger that he forgot his own guilt...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">My client has always maintained that he's innocent of those charges!</line>
 <line speaker="Melissa">He seems rather forgetful. ...Your client, I mean.</line>
 <line speaker="Mia">...!</line>
@@ -1046,7 +1046,7 @@
 <line speaker="Mia"><thought>...And how does this relate to anything!?</thought></line>
 <line speaker="Edgeworth">Whether it's eating steak or committing murder, a person shouldn't deny their actions. I'm in complete agreement, Your Honor.</line>
 <line speaker="Melissa">I guess I'm lucky I wasn't wearing a white scarf.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">What do you mean by lucky?</line>
 <line speaker="Melissa">Well... It's February now. Everyone is wearing scarves. If I had accidentally worn a white scarf like he said...</line>
 <line speaker="Edgeworth">Then you yourself might have been killed.</line>
@@ -1054,7 +1054,7 @@
 <line speaker="Armando">Ha...! It looks like you pressed too hard this time, Kitten.</line>
 <line speaker="Mia">Mr. Armando...</line>
 <line speaker="Armando">Keep looking around you and you're going to lose sight of the finish line. Justice is blind, but she's not deaf. Sometimes you have to know when not to talk.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Witness... I want you to look at this photo you took. It's hard to see in the photo, but look at the scarf the victim wore as identification.</line>
 <line speaker="Judge">Ah, you are talking about this scarf right here, eh?</line>
 <line speaker="Melissa">Y-Yes! That's it! The scarf the policewoman was wearing...</line>
@@ -1062,14 +1062,14 @@
 <line speaker="Judge">Wh-White?</line>
 <line speaker="Mia">...This is the scarf you identified as belonging to the victim. But it certainly doesn't look white to me!</line>
 <line speaker="Melissa">Oh...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Well, it was foggy that day... And it was raining as well! It's not surprising that she mistook it for white!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Sorry, but not this time. The witness just confirmed that this was the victim's scarf!</line>
 <line speaker="Judge">Yes, but... What's the significance...? It's true that the scarf doesn't look white, but...</line>
 <line speaker="Mia">There's only one explanation for this mix-up! The reason why the witness thought the scarf was white is...!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Here's the definitive piece of evidence that proves it!</line>
 <line speaker="Melissa">...</line>
 <line speaker="Edgeworth">......</line>
@@ -1089,7 +1089,7 @@
 <line speaker="Mia">This note shows Mr. Fawles's instructions to the victim regarding their meeting. It says... "Wear white scarf for identification."</line>
 <line speaker="Edgeworth">White... Scarf...? AAAAAAH!!!</line>
 <line speaker="Mia">Witness! You KNEW what this note said! There's no other possible reason for you to mistake the scarf's color!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">...It's true. Mr. Fawles did give instructions to Valerie Hawthorne about their meeting. The note that she left said: "Wear white scarf for identification."</line>
 <line speaker="Judge">Yes, what about it...?</line>
 <line speaker="Mia">Isn't it obvious!? Doesn't it strike you as odd!? That note was a secret piece of evidence! How is it that the witness knows about it!?</line>
@@ -1103,8 +1103,8 @@
 <line speaker="Mia"><thought>Come on, Mia! You can't let her weasel out of it that easily!</thought> ...Witness! Sorry, but your explanation isn't going to work here.</line>
 <line speaker="Melissa">B-But why!? It-It's true! That's what I saw!</line>
 <line speaker="Mia">Impossible. There's no way you could have seen the victim use a white scarf to signal him!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Here's the definitive piece of evidence that proves it!</line>
 <line speaker="Melissa">...</line>
 <line speaker="Edgeworth">......</line>
@@ -1125,7 +1125,7 @@
 <line speaker="Edgeworth">She knew... the contents of the note...? N-NOOOOOOOO!</line>
 <line speaker="Mia">It says, "Wear white scarf for identification." That's the reason why you said it was white!</line>
 <line speaker="Melissa">Or kidnapping a poor girl... I just think the defendant is a terrible, horrible monster!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You knew about that incident? But weren't you out of the country until the year before last?</line>
 <line speaker="Melissa">Well, I saw a report about the escaped convict on the news. They had an in-depth report about his whole history.</line>
 <line speaker="Judge">So you were still living abroad 5 years ago, is that right?</line>
@@ -1141,8 +1141,8 @@
 <line speaker="Judge">Did you say... "One more person"?</line>
 <line speaker="Armando">That's right... A person that no one would have suspected... Have you figured it out, Kitten?</line>
 <line speaker="Mia">Yup! The third person that knew the contents of the note was...!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Armando">...Hang on there, Kitten.</line>
 <line speaker="Mia">What is it, Mr. Armando?</line>
 <line speaker="Armando">Here. I made some special café con leche for you... I put in plenty of sugar. Drink it up before it gets cold. Don't be shy.</line>
@@ -1159,16 +1159,16 @@
 <line speaker="Edgeworth">Dahlia Hawthorne was the victim's deceased younger sister. She was killed in a crime 5 years ago.</line>
 <line speaker="Judge">Killed in a crime...? Y-You don't mean...!?</line>
 <line speaker="Edgeworth">Yes. She was kidnapped... And killed. By Terry Fawles!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">You said she was "killed"... But was she really?</line>
 <line speaker="Edgeworth">What are you implying...?</line>
 <line speaker="Mia">Of course, people thought she had died 5 years ago... ...when she fell off of Dusky Bridge and was lost in the Eagle River. However! Her corpse was never found!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">She was declared legally dead 5 years ago! As far as the law is concerned, Dahlia Hawthorne is officially dead.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">But the fact remains that her body was never recovered! Dahlia Hawthorne was 14 years old, 5 years ago. If she were still alive, she would be 19 now. ...Melissa Foster. I believe that's the same age you are!</line>
 <line speaker="Melissa">Ah...!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Even you couldn't...! Ms. Fey...! You're not saying...!</line>
 <line speaker="Mia">But I am. That's precisely what I'm saying. This "witness" before us is the girl that was kidnapped and killed 5 years ago! This girl is in fact Ms. Dahlia Hawthorne!</line>
 <line speaker="Judge">WHA...! WHAAAAAAT!</line>
@@ -1191,9 +1191,9 @@
 <line speaker="Edgeworth">We thought so as well... But... Well, as you can see...</line>
 <line speaker="Mia">Why!? Why did she hide her identity for 5 years!?</line>
 <line speaker="Edgeworth">That has nothing to do with the current case. She was merely an accidental witness to a crime...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Accidental...? I don't believe that for a minute! For the last 5 years, she's been playing the role of victim! And now we find her acting suspiciously at another murder scene!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">...Really, Ms. Fey! Your strategy is clearly obvious. You're trying to pin your client's crime on an innocent witness in order to win... ...At any cost.</line>
 <line speaker="Mia">H-How dare you!</line>
 <line speaker="Edgeworth">Please, let us take a moment to think. Five years ago, this girl was kidnapped and nearly killed.</line>
@@ -1204,7 +1204,7 @@
 <line speaker="Mia">W-Well you see... <thought>I thought I was winning, but somehow he's turned it around on me!</thought></line>
 <line speaker="Armando">Ha...! I think you need a little push in the right direction, Kitten...</line>
 <line speaker="Mia">Ah! That wasn't me! It was this guy... This crazy coffee addict...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I think we've heard enough empty threats from you, old man.</line>
 <line speaker="Armando">Ha...! What makes you think they're empty, boy?</line>
 <line speaker="Edgeworth">Because your protégé looks like she's sweating bullets!</line>
@@ -1216,8 +1216,8 @@
 <line speaker="Edgeworth">*sigh*... The rashness of youth. How charming.</line>
 <line speaker="Mia"><thought>This coming from someone younger than me!</thought></line>
 <line speaker="Judge">Now then, let's not waste any more time. ...Ms. Fey. What motive would this witness have for murdering her own sister, Valerie Hawthorne?</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">...What is this? Is this the defense's idea of a joke?</line>
 <line speaker="Judge">If so, I certainly don't get the punch line... Well? Ms. Fey?</line>
 <line speaker="Mia">Oh, that was... The rashness of youth!</line>
@@ -1227,7 +1227,7 @@
 <line speaker="Mia">...The story starts after Terry Fawles escaped. He called Valerie and told her he wanted to meet. This is the note she left... It says, "Talk to Dahlia. Tell her this time, the whole truth must come out." ...Valerie Hawthorne gave Dahlia a warning. She told her she was going to reveal to the world the whole truth.</line>
 <line speaker="Judge">The whole truth...?</line>
 <line speaker="Mia">There was a dangerously important secret between Valerie and Dahlia. That's the reason Dahlia felt she had to kill Valerie... To keep her mouth shut permanently!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">A terrific story, Ms. Fey! If you like fiction, that is. Enlighten the court, Ms. Fey. What was this secret that was so important? Where's your evidence!?</line>
 <line speaker="Armando">Dahlia and Valerie Hawthorne, and Terry Fawles... There's only one important secret that connects them all...</line>
 <line speaker="Mia">Oh, yes... I know this secret. ...Your Honor! The defense would like to request further testimony.</line>
@@ -1253,7 +1253,7 @@
 <line speaker="Fawles">Yeah. Me and Dahlia... ...And Valerie, too.</line>
 <line speaker="Mia"><thought>Yes! That's it! The fake kidnapping is your best shot, Mia! That's her secret!</thought></line>
 <line speaker="Dahlia">Five years ago, I was kidnapped by Mr. Fawles.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Did you and Mr. Fawles have a relationship?</line>
 <line speaker="Dahlia">...Y-Yes. As a tutor...</line>
 <line speaker="Mia">You were tutoring him? Mr. Fawles?</line>
@@ -1263,7 +1263,7 @@
 <line speaker="Judge">Hmm... Quite the clever fellow, that Mr. Fawles.</line>
 <line speaker="Mia"><thought>Did I hear him right!? Did he just call Mr. Fawles a clever fellow?</thought></line>
 <line speaker="Dahlia">The ransom price was a raw diamond. My sister, Valerie, brought it to the bridge...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">I heard the diamond is valued in the neighboorhood [sic] of 2 million dollars.</line>
 <line speaker="Judge">2 million dollars!?</line>
 <line speaker="Dahlia">It was still uncut, so it was about the size of a pint of milk.</line>
@@ -1275,7 +1275,7 @@
 <line speaker="Mia"><thought>Yeah, right. It was all YOUR plan...</thought></line>
 <line speaker="Dahlia">Anyway, Valerie brought the diamond to the mountain and...</line>
 <line speaker="Dahlia">After she made the exchange, she shot Mr. Fawles in the arm!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">That was a dangerous thing to do considering you were being held hostage.</line>
 <line speaker="Dahlia">Yes, but...  Actually, that saved my life.</line>
 <line speaker="Judge">What do you mean?</line>
@@ -1283,16 +1283,16 @@
 <line speaker="Mia">...!</line>
 <line speaker="Dahlia">That's why my sister shot him! It was to save me!</line>
 <line speaker="Dahlia">That's when Mr. Fawles tried to kill me by shoving me off the bridge from behind!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">I'd like to hear more about what happened right at that moment!</line>
 <line speaker="Dahlia">Well, when Mr. Fawles was shot in the right arm, he let go of me... I-I was dazed. I turned to try and run away, but Mr. Fawles turned to grab me as well... As I ran past, he and I locked eyes for a second, and he gave me a large, bloodthirsty grin.</line>
 <line speaker="Judge">B-Bloodthirsty grin... Oooh...</line>
 <line speaker="Dahlia">And in the next instant...</line>
 <line speaker="Edgeworth">I advise the court to remember that the river is 18 feet deep and incredibly swift...</line>
 <line speaker="Dahlia">I-I was a strong swimmer, but I was knocked out... When I came to, I had been carried away by the river to a strange place. I'll never forget that day. The crumbling bridge, nowhere to run... Then just one little shove from behind. That was it. Before my sister could catch me... ...I fell into the river.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Dahlia">I survived, but I was afraid I might be kidnapped again for my family's money...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">And that's why you hid your identity?</line>
 <line speaker="Dahlia">Yes... I only told my sister.</line>
 <line speaker="Judge">Valerie Hawthorne, eh.</line>
@@ -1300,7 +1300,7 @@
 <line speaker="Edgeworth">Meanwhile, legally, this witness has been deceased for 5 years.</line>
 <line speaker="Dahlia">I... I didn't ever want something like that to happen to me again.</line>
 <line speaker="Dahlia">So I decided to change my identity and start a new life...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">And that new identity was "Melissa Foster", right?</line>
 <line speaker="Dahlia">Yes, my sister helped me get the official paperwork taken care of.</line>
 <line speaker="Mia"><thought>That makes sense... Without an insider's help, doing all of the paperwork would've been impossible.</thought></line>
@@ -1316,14 +1316,14 @@
 <line speaker="Dahlia">...</line>
 <line speaker="Mia">Do you understand now, Dahlia Hawthorne? The very notion that my client pushed you from behind is impossible!</line>
 <line speaker="Dahlia">... Aaaaaah!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor, this event occurred 5 years ago! Why, for all we know, the water level in the river may have been higher back then.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">But it's 40 feet from the bridge to the river! A small change in the water level wouldn't have made a difference!</line>
 <line speaker="Edgeworth">Ugggh!</line>
 <line speaker="Judge">Y-You're right! If the events occurred just as the witness has testified... ...then the defendant couldn't have pushed the witness into the river. Young lady! What is the meaning of this!?</line>
 <line speaker="Dahlia">Uuuh! I... I... I, err... You see, I...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Just a moment, Your Honor! It's true that the witness testified that the defendant pushed her into the river... However! She never stated that she fell from the back end of the bridge!</line>
 <line speaker="Mia">What... What do you mean?</line>
 <line speaker="Edgeworth">After being shot in the arm, it's plausible that Mr. Fawles panicked! Therefore, he could have unwittingly pushed her off the side of the bridge!</line>
@@ -1332,14 +1332,14 @@
 <line speaker="Mia">You can't be serious!</line>
 <line speaker="Judge">Order! Order in the court!</line>
 <line speaker="Edgeworth">It seems Ms. Fey's assault has finally reached its conclusion.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia"><thought>Not now, Mia...! This is no time to retreat!</thought> Unfortunately for you... this is just the start of Ms. Fey's assault!</line>
 <line speaker="Edgeworth">Wh-What?</line>
 <line speaker="Mia">I believe your reasoning went something like this, Mr. Edgeworth. "After being shot in the arm, it's plausible that Mr. Fawles panicked! Therefore, he could have unwittingly pushed her off the side of the bridge!" However! Once again, I'm forced to say, "That's impossible!"</line>
 <line speaker="Edgeworth">R-Ridiculous! What's so impossible about it!?</line>
 <line speaker="Mia">Because your flawed logic contradicts the Court Record!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">This evidence shows the fatal error you've made!</line>
 <line speaker="Edgeworth">... It's a fatal error, alright. Unfortunately... The error is yours, not mine.</line>
 <line speaker="Mia"><thought>Uh-oh, here it comes...</thought></line>
@@ -1347,9 +1347,9 @@
 <line speaker="Mia">Ouchie. <thought>Come on, Mia! Take your time and think it over again!</thought></line>
 <line speaker="Mia">Your Honor! All of the answers are right here in this photo! Take a look at the wires supporting both sides of the bridge! They extend up to about five feet off the ground... It would be impossible to push someone off from there!</line>
 <line speaker="Dahlia">NNNNOOOOOOO!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">B-But let's remember the size and strength of the defendant! Wires like this wouldn't be a problem for him! He could have easily picked up a 14 year old girl and thrown her over!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">So young, and already so forgetful, Mr. Edgeworth. Mr. Fawles had been shot in the right arm.</line>
 <line speaker="Judge">Ah...!</line>
 <line speaker="Mia">And more importantly... ...Valerie Hawthorne had her gun trained on him... at point-blank range!</line>
@@ -1359,16 +1359,16 @@
 <line speaker="Judge">Order! Order! Wh-What is the meaning of this!? </line>
 <line speaker="Mia">Dahlia Hawthorne! You jumped into the Eagle River intentionally!</line>
 <line speaker="Judge">What...!? What is this...!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Indeed! What do you mean by such a ridiculous remark!?</line>
 <line speaker="Dahlia">Y-Yes! It's ridiculous! My sister was there to help me! She had her gun and handcuffs. She could have saved me... Jumping into a raging river like that... That would have been suicide!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Perhaps... But still, that's exactly what you did! You were probably confident that you could handle the swift current. But even more so... ...the witness had a much more compelling reason for jumping into the river!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Oh? Then what was it!? What was so important that she'd want to jump into the river!?</line>
 <line speaker="Mia">The witness is still alive. This fact alone explains everything! This is why she risked her life by jumping into the rapids of the Eagle River!</line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">That isn't even worth a reply. Ms. Fey. I hold you personally responsible... ...for confusing the court and causing great emotional pain to the witness!</line>
 <line speaker="Judge">I have no choice but to impose a penalty on you.</line>
 <line speaker="Mia"><thought>This is an easy one, Mia! What was it she was after...? Even Edgeworth must have realized it...!</thought></line>
@@ -1379,11 +1379,11 @@
 <line speaker="Mia">At the last minute, she betrayed him and threw herself into the river... ...with the ransom tucked away safely in her backpack...</line>
 <line speaker="Edgeworth">Why that's... that's simply ridiculous!</line>
 <line speaker="Judge">Order! Order! Order!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Y-Your Honor! Five years ago, the witness was only 14 years old! Do you really think a 14 year old is capable of such a demonic plan!?</line>
 <line speaker="Mia">This woman IS a demon. And there was one more person who helped make a demon out of her. Her sister... Valerie Hawthorne.</line>
 <line speaker="Judge">Y-You mean the victim was involved in the kidnapping plot as well!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">But she was a detective then! You're saying she participated in her sister's kidnapping!?</line>
 <line speaker="Mia">Precisely! I'm sure that it weighed heavily on her conscience for the past 5 years. This is the sole reason behind the victim's murder.</line>
 <line speaker="Judge">What do you mean by that?</line>
@@ -1416,8 +1416,8 @@
 <line speaker="Mia">Y-Yes, that's right...</line>
 <line speaker="Armando">In that case, there's only one answer, right? There is only one person left who can testify about Valerie Hawthorne's murder!</line>
 <line speaker="Mia"><thought>Since there's no proof, there's only one thing left to do! Who is the one person who can testify to that demon woman's crimes...?</thought></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
-<line speaker="Mia"><cutIn>Take that!</cutIn></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Mia"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Armando">Listen up. This is your last chance. Think it over carefully one more time.</line>
 <line speaker="Mia"><thought>Relax, Mia! This is easy...!</thought></line>
 <line speaker="Mia">Your Honor! The defense wishes to call a new witness!</line>
@@ -1455,14 +1455,14 @@
 <line speaker="Fawles">UWAAAAAH...</line>
 <line speaker="Fawles">That day... 4 PM... I stopped the car. I was in front of bridge...</line>
 <line speaker="Mia">Mr. Fawles! You're covering for her! Do you think she would do the same for you...!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That's enough, Ms. Fey! His last statement was a fitting way to end the final testimony of the trial...</line>
 <line speaker="Mia">...!</line>
 <line speaker="Judge">Well then, Ms. Fey... Please proceed with your cross-examination.</line>
 <line speaker="Mia"><thought>Is this how you want it to end, Mr. Fawles? Another guilty verdict to go along with your death sentence!?</thought></line>
 <line speaker="Armando">There's only one person who can stop it... You, Kitten. ...I think.</line>
 <line speaker="Fawles">That day... 4 PM... I stopped the car. I was in front of bridge...</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">According to the note, the meeting was supposed to take place at 4:30. You certainly arrived early, didn't you?</line>
 <line speaker="Fawles">It was raining... Already dark, too...</line>
 <line speaker="Mia">You waited on the bridge for 30 minutes?</line>
@@ -1471,13 +1471,13 @@
 <line speaker="Fawles">Eagle Mountain... That spot... Strong, strong memories...</line>
 <line speaker="Mia">... <thought>Why did he just clam up? Could it be... he's hiding something here?</thought></line>
 <line speaker="Fawles">She wasn't there... So, I waited on bridge.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You were quite early, so you waited on the bridge, correct?</line>
 <line speaker="Fawles">Yeah... I like waiting. I'm used to it.</line>
 <line speaker="Armando">I'm sure he is. Zebra Boy waited 5 years to ask a single question... To find out why a woman betrayed him. To him, 30 minutes must've been like a blink of the eye.</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Fawles">I watched my car from bridge. I never put no body in that car!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">You were watching the car?</line>
 <line speaker="Fawles">That bridge. Other side is broken. Nobody can come from there. So... I was watching car.</line>
 <line speaker="Edgeworth">*sigh*... What else were you expecting him to do...?</line>
@@ -1485,18 +1485,18 @@
 <line speaker="Judge">I wonder what's on the other side of the broken bridge anyway?</line>
 <line speaker="Edgeworth">No one lives there. There's a small shrine up on the mountain, but that's it...</line>
 <line speaker="Fawles">Anyway...! Nobody came... No car, nothing!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Fawles">Finally, one woman came. She stood front of me.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">Mr. Fawles. Think carefully now. Are you certain that it was Valerie Hawthorne?</line>
 <line speaker="Fawles">Uh. Uh. Uh... I never lie! It-It's the truth! It was... Valerie! I remembered her face!</line>
 <line speaker="Mia">Wait a minute. If you had remembered her face... ...then why did you make her wear a scarf as identification?</line>
 <line speaker="Fawles">... Uh. Sorry. I told a little lie.</line>
 <line speaker="Mia">......</line>
 <line speaker="Fawles">But! The woman I met... She was different from woman standing here now! She was different! It was Valerie!</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Fawles">We talked... Then she left.</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">What did you talk to her about anyway?</line>
 <line speaker="Fawles">...</line>
 <line speaker="Mia">Mr. Fawles!</line>
@@ -1507,9 +1507,9 @@
 <line speaker="Fawles">It don't matter no more... Either way... My Dahlia... My sweet Teen Angel... Dead.</line>
 <line speaker="Mia"><thought>But you just saw that she isn't dead!</thought></line>
 <line speaker="Fawles">After Valerie talk to me on bridge... Nothing left to live for...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Fawles">That was... That was Valerie. Not my Dahlia!</line>
-<line speaker="Mia"><cutIn>Hold it!</cutIn></line>
+<line speaker="Mia"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Mia">How can you be so sure!? It was raining at the time, and sunset that day was at 5 o'clock. It would have already been pretty dark on that mountain at 4:30!</line>
 <line speaker="Fawles">...</line>
 <line speaker="Mia">Please Mr. Fawles! This is your last chance! You've already taken the fall once for something you didn't do!</line>
@@ -1567,19 +1567,19 @@
 <line speaker="Mia">...!</line>
 <line speaker="Armando">Don't you get it? You can't cry yet. The only time a lawyer can cry is when it's all over.</line>
 <line speaker="Mia">M-Mr. Armando...</line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Your Honor! What do you think of the witness's statement!?</line>
 <line speaker="Judge">I don't think anything of it. How about you?</line>
 <line speaker="Mia">... I guess I don't think anything of it either...</line>
 <line speaker="Judge">Then we don't have a problem. But we do have a penalty.</line>
 <line speaker="Mia"><thought>If there wasn't a problem, couldn't he just let it slide...?</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">I'm sorry, but... I think the only thing out of place here is that pointer finger of yours.</line>
 <line speaker="Mia">... That could very well be...</line>
 <line speaker="Judge">Here, take this penalty and try thinking things through again.</line>
 <line speaker="Mia"><thought>What's the problem!? Pointer fingers are made for pointing!</thought></line>
-<line speaker="Mia"><cutIn>Objection!</cutIn></line>
+<line speaker="Mia"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">This evidence establishes that the defendant is lying, right?</line>
 <line speaker="Judge">Don't ask me to confirm your facts!</line>
 <line speaker="Mia">S-Sorry... This is my first time handling a case...</line>

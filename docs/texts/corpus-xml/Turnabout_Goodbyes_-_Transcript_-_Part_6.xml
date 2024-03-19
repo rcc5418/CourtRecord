@@ -31,7 +31,7 @@
 <line speaker="Judge">Very well! Please bring the witness into the courtroom.</line>
 <line speaker="Karma">Ladies and gentlemen of the court... I believe you all remember our witness. He lives in the boat rental shop on the lake, from where he witnessed the incident. In addition, he has currently lost memory of his name and identity.</line>
 <line speaker="Judge">Witness! Why did you run away yesterday?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">The witness was not running away, as he will now testify.</line>
 <line speaker="Judge">I-I see. Very well, please begin your testimony.</line>
 <line speaker="Uncle">Zzz... mmph?</line>
@@ -39,43 +39,43 @@
 <line speaker="Judge">Hmm... Very well. Let's begin the cross-examination, shall we?</line>
 <line speaker="Phoenix"><thought>He has to know his name! Yanni Yogi! You're Yanni Yogi and I'm going to prove it!</thought></line>
 <line speaker="Uncle">Er, I'm really sorry about just leaving yesterday like I did.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I'd call what you did "running away," and not "just leaving." You heard Larry's testimony, and realized you were in danger!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Now, Mr. Wright, there's no need to rush to conclusions. As I said, the witness was not "running away." Listen to the testimony.</line>
 <line speaker="Phoenix"><thought>He sure seems relaxed! In fact, they both do--von Karma and Yanni Yogi!</thought></line>
 <line speaker="Uncle">But, I wasn't running away or nothing.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Then why did you leave!?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">He's just about to say why! Is it so hard for you just quietly listen when someone is talking!?</line>
 <line speaker="Phoenix"><thought>If I sat quietly, Edgeworth would be guilty in three minutes!</thought></line>
 <line speaker="Uncle">I, uh, went to buy some food for Polly, see...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Food...?</line>
 <line speaker="Uncle">Well, Polly is a bit of a gourmand, you see. She only eats these high-quality bird pellets from France. They only have them in the big pet shop downtown.</line>
 <line speaker="Phoenix">But you weren't arrested until this morning! Why didn't you go back to the caretaker's shack?</line>
 <line speaker="Uncle">Er... well... I kind of got lost, you see.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">The witness has trouble remembering things sometimes. When the police apprehended him, he was on his way back to the shack!</line>
 <line speaker="Phoenix"><thought>Yeah, right! Nice try von Karma! No one's going to believe that!</thought></line>
 <line speaker="Judge">Hmm... I see! So he was lost!</line>
 <line speaker="Phoenix"><thought>Please! Your Honor, come to your senses!</thought></line>
 <line speaker="Uncle">I figured I got nothing to do with this incident anyhow.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You've lost much of your memory, is that correct?</line>
 <line speaker="Uncle">Er... ayup, seems like it.</line>
 <line speaker="Phoenix">Then how could you know that you didn't have anything to do with this incident!</line>
 <line speaker="Uncle">Uh...</line>
 <line speaker="Phoenix">Or... Or maybe you're lying about not having your memory, hmm? You know exactly who you are!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">The witness has testified quite clearly that he has no memory of who he is. If you claim he's lying, then show the court proof!</line>
 <line speaker="Phoenix"><thought>Grr... How am I supposed to prove what's going on in that old codger's head? That's impossible!</thought></line>
 <line speaker="Karma">Hmph! I'm glad you've come to your senses, Mr. Wright. Very well, witness. Please continue.</line>
 <line speaker="Uncle">Er... I mean, I'd need one of those "motive" things, right? And I don't got one.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">How can you say you had no motive? I say you do! You had a grudge against Edgeworth and the victim, Robert Hammond! That's why you took revenge on them! Right?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Please don't make me repeat myself, Mr. Wright! This witness has no memory of anything beyond several years ago! He can't hold a grudge! It's impossible!</line>
 <line speaker="Phoenix"><thought>I have to prove he's lying about his memory... Otherwise, it's going to be the same thing over and over until the trial ends!</thought></line>
 <line speaker="Phoenix"><thought>First things first, I have to prove this man is who he is! Do that and the motive will prove itself!</thought></line>
@@ -103,7 +103,7 @@
 <line speaker="Phoenix"><thought>I thought the judge would have heard of it... it was such a famous case.</thought></line>
 <line speaker="Judge">But, what does this mean?</line>
 <line speaker="Phoenix">Your Honor! If this man is Mr. Yogi, then he has a clear motive!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Tsk tsk tsk... Jumping to conclusions again, Mr. Wright! This man, this witness, is Yanni Yogi? Fascinating! However... How do you propose to prove this to the court?</line>
 <line speaker="Phoenix">...</line>
 <line speaker="Karma">This is a court of law, as you may recall. You need proof! And, allow me to repeat, once more, that the witness has lost his memory!</line>
@@ -137,7 +137,7 @@
 <line speaker="Phoenix">Exactly, Your Honor! I would like to cross-examine the witness's pet parrot!</line>
 <line speaker="Judge">O-order! Order! Uh... well, what do you think, Mr. von Karma?</line>
 <line speaker="Karma">Need you even ask!? This is a farce! I object!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Wait a second! You were the one who suggested I cross-examine the parrot, von Karma! I have a right to do as you suggested!</line>
 <line speaker="Karma">Mmph... ... Well, if you're so desperate, then please, be my guest.</line>
 <line speaker="Karma">Of course, should you go through with this... And nothing comes of it, then I hope you're ready for the consequences.</line>
@@ -165,7 +165,7 @@
 <line speaker="Phoenix">... I... I don't know! What do we do, Maya?</line>
 <line speaker="Maya">Hmm...</line>
 <line speaker="Parrot">"Hello! Hello!" *squawk*</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Witness! You can't just say "hello" and expect us to get anywhere! I want you to testify! Maya, you talk to her.</line>
 <line speaker="Maya">R-right! Uh... What do I say?</line>
 <line speaker="Phoenix"><thought>Remember... two days ago...</thought></line>
@@ -191,13 +191,13 @@
 <line speaker="Maya">Nick! Don't you think you're taking the bluffing a little too far?</line>
 <line speaker="Phoenix">Listen. We've not here to answer the question of "who is the caretaker." We're here to prove that he is Yanni Yogi! All we have to do is tie the name "Polly" to Yogi!</line>
 <line speaker="Phoenix">Your Honor. The proof that the parrot's name reveals the caretaker's identity is...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Mr. Wright. I had hoped you would have learned this by now... Making random guesses here is a waste of court time!</line>
 <line speaker="Phoenix"><thought>Uh oh... wrong again.</thought></line>
 <line speaker="Judge">That is all! Witness, continue your testimony.</line>
 <line speaker="Judge">The DL-6 Case File?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">That's quite a large file you have there! Which page is this "proof" on, then? Show us, or stop wasting our time!</line>
 <line speaker="Judge">Hmm... Very well. Mr. Wright, please show us the page. Where in this file is the information connected to this parrot's name?</line>
 <line speaker="Phoenix">It's on the "Case Summary" page!</line>
@@ -216,7 +216,7 @@
 <line speaker="Judge">"Polly Jenkins"... "Polly"!</line>
 <line speaker="Phoenix">Exactly, Your Honor! He remembered the name of his fiancee who committed suicide. That's why he named his parrot after her!</line>
 <line speaker="Judge">I see! I guess that is possible.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Bah! A mere coincidence, that's all! My granddaughter has a dog she calls "Phoenix." Well, Mr. Phoenix Wright? Does this make you my granddaughter's fiancee!? She's only seven years old!!!</line>
 <line speaker="Judge">Hmm... Indeed. Alone, it is a little weak for evidence in a murder trial. We would need some other corroborating evidence...</line>
 <line speaker="Phoenix"><thought>Where am I going to find that!?</thought></line>
@@ -234,8 +234,8 @@
 <line speaker="Judge">Hmm... Please only ask questions pertaining to the matter at hand. Very well, witness. Continue your testimony.</line>
 <line speaker="Phoenix">Actually it does! That's why I had her say it!</line>
 <line speaker="Karma">Hah! Ridiculous! How can the number to a safe tell us who the caretaker is? Show us your proof! What could possibly link this number to the caretaker's true identity!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Admittedly, I didn't think you had anything to show us. And now I see I'm right. How could a safe number reveal someone's identity?</line>
 <line speaker="Phoenix"><thought>Uh oh... I think that was the wrong thing to show them.</thought></line>
 <line speaker="Karma">Hmph. I hope you're happy now, Mr. Wright.</line>
@@ -258,7 +258,7 @@
 <line speaker="Judge">Ah!</line>
 <line speaker="Phoenix">He used the date of the DL-6 Incident as the number for his safe, Your Honor! That's how important that date was to him!</line>
 <line speaker="Judge">I see... it certainly is an interesting coincidence. People often do set their secret numbers to dates.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Bah! This is not tangible proof! I set my ATM card's number to "0001" because I'm number one! This has nothing to do with a date! Nothing!</line>
 <line speaker="Judge">Hmm... Indeed. Alone, it is a little weak for evidence in a murder trial. We would need some other corroborating evidence...</line>
 <line speaker="Phoenix"><thought>Where am I going to find that!?</thought></line>
@@ -267,7 +267,7 @@
 <line speaker="Karma">Hmph!</line>
 <line speaker="Judge">Very well, witness. You may continue.</line>
 <line speaker="Parrot">"..."</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Witness, you're here to speak! You must speak to me!</line>
 <line speaker="Parrot">"..."</line>
 <line speaker="Karma">Frankly, I can't believe that you're speaking to the parrot.</line>
@@ -278,7 +278,7 @@
 <line speaker="Karma">Wh... what are you saying!?</line>
 <line speaker="Judge">Summon the caretaker of the boat shop. Immediately!</line>
 <line speaker="Judge">Witness... Tell us your name.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Wait! This witness, he doesn't remember...</line>
 <line speaker="Uncle">No... it's okay.</line>
 <line speaker="Phoenix">...!</line>
@@ -303,7 +303,7 @@
 <line speaker="Phoenix"><thought>I don't believe it! Why isn't von Karma saying anything?</thought></line>
 <line speaker="Judge">Very well. This court finds the defendant, Mr. Miles Edgeworth...</line>
 <line speaker="Judge">That is all. The court is adjourned!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Judge">D-did someone just say "objection"?</line>
 <line speaker="Phoenix"><thought>It wasn't von Karma...! Wait, but that means...</thought> No... Edgeworth!?</line>
 <line speaker="Edgeworth">Your Honor. I object to your judgment.</line>
@@ -311,9 +311,9 @@
 <line speaker="Edgeworth">I'm not innocent at all! As we have heard, Yanni Yogi killed Robert Hammond in revenge. But, revenge for what?</line>
 <line speaker="Maya">Nick! Edgeworth is trying to confess! He's going to say he's guilty! He's going to tell them he was the murderer in the DL-6 Incident! He's going to tell them he killed his own dad!</line>
 <line speaker="Phoenix"><thought>Uh oh! What do I do?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The judgment has already been passed! I object to Edgeworth's outburst...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Didn't something like this happen yesterday, too? I believe a certain witness raised an objection after a guilty verdict was passed.</line>
 <line speaker="Phoenix"><thought>That would be Larry...</thought></line>
 <line speaker="Karma">We must hear this new statement! We must hear Miles Edgeworth!</line>
@@ -359,42 +359,42 @@
 <line speaker="Judge">Very well. Mr. Wright? Your cross-examination, please.</line>
 <line speaker="Phoenix">Yes, Your Honor.</line>
 <line speaker="Edgeworth">That day, I had gone to the courtroom to observe one of my father's trials.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What was the trial your father was involved in on that day?</line>
 <line speaker="Edgeworth">I don't remember things very clearly. Only two things... I know my father lost, and Mr. von Karma was the prosecuting attorney.</line>
 <line speaker="Judge">Mr. von Karma? You were handling that case?</line>
 <line speaker="Karma">It was fifteen years ago. I don't remember the details.</line>
 <line speaker="Phoenix"><thought>That was when Edgeworth pointed out the problem in von Karma's evidence...</thought></line>
 <line speaker="Edgeworth">As we went to leave, an earthquake struck, trapping us in the elevator.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, there were three people including yourself trapped in that elevator?</line>
 <line speaker="Edgeworth">Yes. Myself, my father, and Yanni Yogi. We were fine at first... But then as time passed, and no one came to help...</line>
 <line speaker="Edgeworth">My father and Mr. Yogi lost their composure, and began to argue.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What did you do then?</line>
 <line speaker="Edgeworth">I was a nine-year-old boy at the time. What could I do? I was scared... Trembling, in the corner. But then...</line>
 <line speaker="Edgeworth">Just then, something heavy fell at my feet.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What was it?</line>
 <line speaker="Edgeworth">A pistol. I assume it was the bailiff, Yanni Yogi's. The safety must have come off when it fell from his holster.</line>
 <line speaker="Karma">And you picked it up. What happened next?</line>
 <line speaker="Edgeworth">I picked it up, and threw it at Mr. Yogi. I wanted them to stop fighting.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you know it was a pistol when you threw it?</line>
 <line speaker="Edgeworth">I think I knew. I knew it was dangerous. But... the air was getting so thick. I panicked.</line>
 <line speaker="Karma">So, you're saying that you threw the pistol at Mr. Yogi.</line>
 <line speaker="Edgeworth">I was... in a daze.</line>
 <line speaker="Edgeworth">A moment later, there was a single gunshot, then a scream.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The gun fired once?</line>
 <line speaker="Edgeworth">Yes... I think... after I threw it, I lost consciousness. Since then... They've echoed in my head, every day. That gunshot, and that horrible scream.</line>
 <line speaker="Phoenix">The scream...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Are you sure you only heard one gunshot?</line>
 <line speaker="Edgeworth">Yes. I'm sure of that. I heard the shot, and the scream... Then everything faded. I was unconscious until the rescuers came.</line>
 <line speaker="Judge">I see...</line>
 <line speaker="Phoenix">But that doesn't make sense! Look at this file one more time. This plainly contradicts the witness's testimony.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">You do enjoy dragging out that file, don't you? I don't accept this evidence! Unless... you can tell us what page it's on! Which page contradicts Miles Edgeworth's testimony?</line>
 <line speaker="Karma">Tsk tsk tsk... Looks like your luck has run out.</line>
 <line speaker="Judge">Mr. Wright... This page has no contradictions that I can see!</line>
@@ -406,7 +406,7 @@
 <line speaker="Karma">Then show us the right page! Even my grandchild could do better than you!</line>
 <line speaker="Phoenix">Look at the "Victim Data" in this file! It says quite plainly: "the murder weapon was fired twice"! Miles Edgeworth only heard one gunshot! Yet, the murder weapon was fired twice! The first shot was the accidental firing when the pistol was thrown. So... who fired the remaining shot!?</line>
 <line speaker="Judge">Hmm... Was there, perhaps, another shooter who fired that second shot?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Your Honor. As I'm sure you're aware... This incident occurred fifteen years ago. The evidence is dated... The pistol did fire twice. However, we do not know WHEN that second shot was fired. It might have been fired the day before the incident! There is no proof that the second shot had anything to do with this incident!</line>
 <line speaker="Phoenix"><thought>What...!</thought></line>
 <line speaker="Judge">Hmm... I see, I see. You do have a point. Mr. Wright? The murder weapon was fired twice, as we have heard. One of those shots was fired by the defendant, a boy at the time. Do you have any proof that the other shot fired had something to do with the case?</line>
@@ -420,8 +420,8 @@
 <line speaker="Phoenix">Your Honor. I think I will be able to show you proof.</line>
 <line speaker="Karma">Wh-what!? Impossible!</line>
 <line speaker="Judge">Now, now, Mr. von Karma. Save your surprise for after you've seen the evidence. Very well, Mr. Wright. Show us your proof. Do you have evidence that the second firing of the pistol is related to this incident?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Mr. Wright... Please, think how we feel having to look at this evidence time and time again. Every time you show us ridiculous evidence, I feel, well, mocked.</line>
 <line speaker="Phoenix">Hah hah... Uh, I mean, I really don't mean any harm by it, Your Honor.</line>
 <line speaker="Judge">"Not meaning any harm"... and "not doing any harm" are two different things, Mr. Wright. Try again, Mr. Wright.</line>
@@ -431,13 +431,13 @@
 <line speaker="Karma">...</line>
 <line speaker="Judge">... So, let me get this straight. This photo proves two shots were fired? Where?</line>
 <line speaker="Phoenix"><thought>Y-Your Honor, please... Please get a clue! Show the judge the contradiction in the photo!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It's here... I think.</line>
 <line speaker="Judge">You mean the victim... Gregory Edgeworth? Gregory Edgeworth was shot once... and he died, as we can see here. What's strange about that?</line>
 <line speaker="Phoenix"><thought>Er... Maybe I need to be more specific here.</thought></line>
 <line speaker="Judge">Once more, please!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, I think... it's here!</line>
 <line speaker="Judge">... Mr. Wright.</line>
 <line speaker="Phoenix">Yes?</line>
@@ -446,7 +446,7 @@
 <line speaker="Phoenix">As should be obvious, the contradiction is here.</line>
 <line speaker="Judge">I see... a bullet hole in the door...</line>
 <line speaker="Phoenix">Your Honor! Gregory Edgeworth was killed by a shot from the pistol! Yet, there is also a bullet hole in the elevator door! We also know that the murder weapon was fired twice! Thus... Someone other than Edgeworth fired that second shot!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">So, there was only one gunshot?</line>
 <line speaker="Edgeworth">Yes. I'm sure of that. I heard the shot, and the scream... Then everything faded. I was unconscious until the rescuers came.</line>
 <line speaker="Judge">I see...</line>
@@ -455,13 +455,13 @@
 <line speaker="Phoenix">Take a look at this. This is a photograph of the scene of the crime, fifteen years ago. And in it, lies a clear contradiction to Mr. Edgeworth's testimony.</line>
 <line speaker="Judge">Well, I can see the victim, Gregory Edgeworth, lying there... But what do you mean, a "contradiction"?</line>
 <line speaker="Phoenix"><thought>Just as I thought, the judge is clueless... as always. Show the judge the contradiction in the photo!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">It's here... I think.</line>
 <line speaker="Judge">You mean the victim... Gregory Edgeworth? Gregory Edgeworth was shot once... and he died, as we can see here. What's strange about that?</line>
 <line speaker="Phoenix"><thought>Er... Maybe I need to be more specific here.</thought></line>
 <line speaker="Judge">Once more, please!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, I think... it's here!</line>
 <line speaker="Judge">... Mr. Wright.</line>
 <line speaker="Phoenix">Yes?</line>
@@ -470,7 +470,7 @@
 <line speaker="Phoenix">As should be obvious, the contradiction is here.</line>
 <line speaker="Judge">I see... a bullet hole in the door...</line>
 <line speaker="Phoenix">Your Honor! Miles Edgeworth testifies that there was only one gunshot! However, according to this photograph, not one, but two shots were fired! One shot hit the victim, the other hit the elevator door. I ask you, then! Why did Miles Edgeworth only hear one gunshot?</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">This photograph does seem to confirm a second shot. However, when was the hole in the elevator made? It might have been there before the incident occurred! If it was there before, it has nothing to do with this incident!</line>
 <line speaker="Phoenix">Urk...</line>
 <line speaker="Karma">Mr. Wright! Do you have any proof that this bullet hole was caused at the time of the incident!?</line>
@@ -484,17 +484,17 @@
 <line speaker="Phoenix">Your Honor. I think I will be able to show you proof.</line>
 <line speaker="Karma">Wh-what!? Impossible!</line>
 <line speaker="Judge">Now, now, Mr. von Karma. Save your surprise for after you've seen the evidence. Very well, Mr. Wright. Show us your proof. What do you have that proves the bullet hole in the door was related to the incident?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Your Honor... The answer is in this file.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">You do enjoy dragging out that file, don't you? I don't accept this evidence! Unless... you can tell us what page it's on! Which page contradicts Miles Edgeworth's testimony?</line>
 <line speaker="Phoenix">Look at the "Victim Data" in this file! It says quite plainly: "the murder weapon was fired twice"! Miles Edgeworth only heard one gunshot! Yet, the murder weapon was fired twice!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Mr. Wright... Please, think how we feel having to look at this evidence time and time again. Every time you show us ridiculous evidence, I feel, well, mocked.</line>
 <line speaker="Phoenix">Hah hah... Uh, I mean, I really don't mean any harm by it, Your Honor.</line>
 <line speaker="Judge">"Not meaning any harm"... and "not doing any harm" are two different things, Mr. Wright. Try again, Mr. Wright.</line>
 <line speaker="Edgeworth">It was a terrible scream. I remember it to this day.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"To this day"...?</line>
 <line speaker="Edgeworth">Yes. I can practically hear it now. I doubt I will ever forget that scream as long as I live.</line>
 <line speaker="Phoenix"><thought>There it is! One part of the testimony that clearly contradicts the evidence... But I don't know what it means...! I'd better find out, and quick...</thought></line>
@@ -502,7 +502,7 @@
 <line speaker="Phoenix">It's simple, Your Honor. At the time of the incident, two shots were fired. One went into Gregory Edgeworth's heart. The other hit the elevator door. Remember that the defendant lost consciousness after the shot he fired rang out. In conclusion... We must agree that the second shot was fired by someone else!</line>
 <line speaker="Judge">M-Mr. Wright! But who could that someone else be!?</line>
 <line speaker="Phoenix">The murderer, of course!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">... I knew I should have stepped in before your wild fantasies got out of hand. Mr. Wright... Look once more at the DL-6 Incident case file. Look closely. Try the "Case Summary" page.</line>
 <line speaker="Phoenix"><thought>The "Case Summary"... that's on page 1.</thought></line>
 <line speaker="Karma">Look what is written there! "Not a single clue was found on the scene."</line>
@@ -542,8 +542,8 @@
 <line speaker="Maya">What?</line>
 <line speaker="Maya">A-are you okay? Nick?</line>
 <line speaker="Phoenix"><thought>What's happening to me...? I have to think...! Wait... don't think... act!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! I... I object!</line>
 <line speaker="Karma">Tsk tsk tsk. Mr. Wright, on what grounds do you object, hmm?</line>
 <line speaker="Phoenix">Oof!</line>
@@ -563,7 +563,7 @@
 <line speaker="Phoenix">I-I realize that, Your Honor. <thought>I'm really grasping here!</thought> I-it's just, someone took it from the scene of the crime! That's what happened!</line>
 <line speaker="Judge">But... Who!?</line>
 <line speaker="Phoenix">Th-th-the murderer!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">The murderer? Then tell us, just who is this "murderer"?</line>
 <line speaker="Phoenix">I'm... still thinking about that one.</line>
 <line speaker="Judge">Hmm... So the criminal took the second bullet? Why would he?</line>
@@ -575,9 +575,9 @@
 <line speaker="Phoenix">Er... Maybe he thought that the bullet would be used as proof?</line>
 <line speaker="Judge">Proof...?</line>
 <line speaker="Phoenix">It was a special bullet, so he took it with him...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Uh... Well, the murderer was a very cautious sort, you see. That's why the murderer had to search for that bullet...</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">It that was the case, then he would have taken the bullet from inside Gregory as well!</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Karma">Why would he only take one of the two shots fired!?</line>
@@ -604,7 +604,7 @@
 <line speaker="Judge">But there's a problem with that! The other two people rescued from that elevator... Miles Edgeworth and Yanni Yogi were both unharmed! So that would mean...</line>
 <line speaker="Phoenix">The murderer came from outside, yes.</line>
 <line speaker="Judge">Hmm. Mr. Wright. You are truly the most unpredictable defense attorney I've ever known. I can tell you're grasping, yet I cannot deny the possibility of what you say.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">What are you saying! Deny it! Deny it! No one involved with the incident was wounded! There was no "murderer"!</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Phoenix"><thought>No one was wounded at the time of the incident... He's right. I can't think of anyone...</thought></line>
@@ -668,8 +668,8 @@
 <line speaker="Phoenix">Alright, von Karma. I'll prove it. And I'll even use evidence... I know how you like it so much.</line>
 <line speaker="Karma">Wh-what!?</line>
 <line speaker="Phoenix">The evidence that proves von Karma was shot is...!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Karma">What exactly is that?</line>
 <line speaker="Phoenix">Er... Sorry.</line>
 <line speaker="Karma">Judge, if you would?</line>
@@ -682,13 +682,13 @@
 <line speaker="Phoenix">I do. There is the possibility that the bullet is still inside von Karma!</line>
 <line speaker="Judge">I-is that even possible? For all these years!?</line>
 <line speaker="Phoenix">Well, there's one way to find out. We could use this metal detector! Well, von Karma? I'm going to run this over you, and see what we find.</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">... I... refuse!</line>
 <line speaker="Judge">Y-you refuse...!? But, refusing this means... You acknowledge that the bullet is still inside you? Order! Order! Order!</line>
 <line speaker="Phoenix">Your Honor! The defense requests that we be allowed to use the metal detector!</line>
-<line speaker="Karma"><cutIn>Objection!</cutIn></line>
+<line speaker="Karma"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Karma">Judge! I call for a suspension of this trial! This is an invasion of privacy!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The statute of limitations runs out on this case today! It was you who said we had to end it right here, right now!</line>
 <line speaker="Karma">Mm... mmmph!</line>
 <line speaker="Judge">Enough! I permit the use of the metal detector. Mr. von Karma, you will submit yourself for testing!</line>
@@ -713,8 +713,8 @@
 <line speaker="Phoenix">You were close... one day away from freedom. You see... I have proof!</line>
 <line speaker="Karma">Wh-what!?</line>
 <line speaker="Phoenix">Who would have thought you would have dug your own grave trying to convict Edgeworth! I can link that bullet in your shoulder to the DL-6 Incident... And here's my final proof!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">N-Nick...? Umm... If this if your final proof, don't you think you should choose a little better?</line>
 <line speaker="Phoenix">Huh? You mean, that was the wrong evidence? Everyone looks kinda puzzled...</line>
 <line speaker="Judge">Mr. Wright. ...</line>
@@ -850,7 +850,7 @@
 <line speaker="Maya">...</line>
 <line speaker="Phoenix">So... you're leaving?</line>
 <line speaker="Maya">Yeah. It's hard being a spirit medium who can't talk to spirits. And... I think you'll do fine without me, Nick. Be good... okay!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">W-wait!</line>
 <line speaker="Maya">What?</line>
 <line speaker="Phoenix">... I never could have saved Edgeworth without your help.</line>
@@ -864,7 +864,7 @@
 <line speaker="Phoenix">Sorry, but I have evidence that you helped!</line>
 <line speaker="Maya">E-evidence?</line>
 <line speaker="Phoenix"><thought>Show Maya some evidence to cheer her up!</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">A bullet...?</line>
 <line speaker="Phoenix">von Karma was convinced he had taken all of the evidence pertaining to DL-6! But you were the one who rescued the last piece of evidence we needed! This was the bullet that put an end to von Karma! And you were the one who gave it to me!</line>
 <line speaker="Maya">Nick...</line>
@@ -875,7 +875,7 @@
 <line speaker="Phoenix">... Okay. I'll be waiting. ...</line>
 <line speaker="Maya">Of course you will. You can't run that office by yourself! You're hopeless!</line>
 <line speaker="Phoenix">Uh, I don't know about that...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">... Huh? S-sorry, Nick. I guess I don't understand.</line>
 <line speaker="Phoenix"><thought>Uh oh! Now that I think about it I don't understand this evidence either!</thought></line>
 <line speaker="Maya">It's okay. You don't have to try and cheer me up. But... One day, I'll come back and be useful, I promise!</line>
@@ -884,7 +884,7 @@
 <line speaker="Edgeworth">Hah! Don't think you've graduated yet, amateur!</line>
 <line speaker="Judge">Mr. Wright. Perhaps you'd like to rethink that claim?</line>
 <line speaker="Phoenix">Er... yes, Your Honor. <thought>Uh oh... I got a bad feeling about this...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">Hey, pal! Mr. Edgeworth came down to the precinct to wish me a happy new year! Talk about a pleasant surprise!</line>
 <line speaker="Edgeworth">Whoooooooooooooop! Detective Gumshooooooooooe!</line>
 <line speaker="Gumshoe">Then he hung his head low and went right back outside. Kind of like he was embarrassed or something. Strange, huh?</line>
@@ -896,25 +896,25 @@
 <line speaker="Penny">Oh, I got a letter from Maya the other day. It sounds like she caught a cold standing under a waterfall. I wanted to visit, but didn't have time, so I sent her some Pink Princess trading cards. She says she can't buy them where she is. What kind of place is she living at anyway?</line>
 <line speaker="Cody">Wright? Who's that? You wanna talk? Let's talk Pink Princess! Alright! But... you know. I snuck into the studio the other day. And I saw her... the one inside the Pink Princess suit! Ugh! What a dog! It was kind of a shock for a boy of my tender age.</line>
 <line speaker="Lotta">Yeah, I remember Wright! That lawyer guy! Huh, me? I'm in training to become a paranormal photographer! You know that picture I took of everyone? Well, just behind them there's a ghost! For real! Now that's talent! I'm gonna be famous!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection overruled. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow?</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very convinced, Mr. Wright. Objection overruled.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are that evidence and the statement just now related...?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh. I must be on the wrong track?</thought></line>

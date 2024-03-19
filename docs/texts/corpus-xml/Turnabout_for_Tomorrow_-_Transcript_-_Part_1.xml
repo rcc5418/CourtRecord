@@ -1,6 +1,6 @@
 
-<line>Turnabout for Tomorrow</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout for Tomorrow</title>
 <line speaker="Phoenix">No one can escape their past. The sins we've committed... and the sadness we've caused... No matter how far we run, our past remains... ...as ever-present as the moon in the sky. It looms in wait... for the day when we are forced to face it. But only in doing so can we truly make peace and move on in hope towards tomorrow.</line>
 <line speaker="Phoenix"><thought>They took Athena from the courtroom, straight to the station. She's probably being questioned at this very moment.</thought> ............ </line>
 <line speaker="Trucy">............ It's even quieter in here than usual.</line>
@@ -122,7 +122,7 @@
 <line speaker="Phoenix"><thought>I don't know. Those leaves didn't look like they'd been stepped on to me...</thought></line>
 <line speaker="Cosmos">Urgn! Curse the wretch who sullied my good name! Reverse course and full speed away!</line>
 <line speaker="Phoenix">Director Cosmos! Wait!</line>
-<line speaker="Trucy">I'll handle this, Daddy! <cutIn>Take that!</cutIn></line>
+<line speaker="Trucy">I'll handle this, Daddy! <cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Cosmos">Gaaaaagh! The mobility system has been compromised!</line>
 <line speaker="Phoenix"><thought>Trucy's knife throw was a direct hit to one of his tires!</thought></line>
 <line speaker="Trucy">And the streak continues!</line>
@@ -244,7 +244,6 @@
 <line speaker="Phoenix">A wire on that phone?</line>
 <line speaker="Cosmos">Yes... A wire on this very phone. I used this phone to give instructions to my staff about the launch pad switch. Just to the few select members who knew about the plan. Just before the incident, staff members were coming in and out of Launch Pad 1. The culprit probably slipped in with them amid the confusion...</line>
 <line speaker="Phoenix">And planted the bomb then... Yes, if they were tapping your phone, they definitely could pull something like that off.</line>
-<line speaker="After clearing all Talk options">Phoenix:</line>
 <line speaker="Cosmos">Yes. I'm sure of it.</line>
 <line speaker="Phoenix">Then, this spy... must be the "phantom" Prosecutor Blackquill has been chasing...</line>
 <line speaker="Fulbright">But Prosecutor Blackquill told me once... "The hunt I've been on for the phantom of seven years past continues even still."</line>
@@ -263,7 +262,6 @@
 <line speaker="Before breaking Psyche-Locks">December 20</line>
 <line speaker="Trucy">Wow... The place is crawling with cops.</line>
 <line speaker="Phoenix">Looks like we won't get any investigating done here now. Let's come back later.</line>
-<line speaker="After breaking Psyche-Locks">December 20</line>
 <line speaker="Trucy">Let's see... Where's the exhibit on the launch seven years ago...?</line>
 <line speaker="Phoenix">There, that's the HAT-1 exhibit.</line>
 <line speaker="Trucy">Oh, wow! Look at that photo of the team!</line>
@@ -317,7 +315,6 @@
 <line speaker="Woods">Th-There is?</line>
 <line speaker="Woods">I'm very sorry, but I don't know anything about that... *cough* *cough, cough*</line>
 <line speaker="Phoenix">Ack! Okay! Sorry to bother you! <thought>I guess she doesn't have leads on that.</thought></line>
-<line speaker="After clearing all talk options and presenting HAT-1 Exhibit">Phoenix:</line>
 <line speaker="Woods">Thank you, Mr. Wright! I know you'll take good care of her.</line>
 <line speaker="Trucy">So we need to investigate the robotics lab, and also talk to Athena. We've got our plates full, Daddy. I hope we can fit it all in before the day is through...</line>
 <line speaker="Phoenix">The Detention Center first, then. We have to see Athena before visiting hours are over!</line>
@@ -453,7 +450,6 @@
 <line speaker="Phoenix">Can you tell me anything about this piece of evidence?</line>
 <line speaker="Aura">Even if I could, I wouldn't tell a filthy lawyer like you.</line>
 <line speaker="Phoenix">What a... pleasant response.</line>
-<line speaker="After clearing all Talk options">Aura:</line>
 <line speaker="Phoenix">What does it settle?</line>
 <line speaker="Aura">None of your business. Just forget you heard anything. How long are you people going to hand around in here, anyway?</line>
 <line speaker="Trucy">What? But we came here to take a look around...</line>
@@ -731,7 +727,6 @@
 <line speaker="Edgeworth">And what if it's evidence that person isn't privy to?</line>
 <line speaker="Phoenix">Aha ha ha! That doesn't happen... much...</line>
 <line speaker="Edgeworth">Hmph. You never change And I'm afraid I'll never understand your assortment of oddball clients either.</line>
-<line speaker="After clearing all Talk options">Pearl:</line>
 <line speaker="Edgeworth">Mmm. To this day, his motive is still unknown. He insisted he did it, but he would never say why.</line>
 <line speaker="Phoenix">So that means... he must still be hiding something.</line>
 <line speaker="Edgeworth">Right. And there's another aspect of the case that was never revealed to the public.</line>
@@ -830,7 +825,6 @@
 <line speaker="Edgeworth">Oh, you mean this? It's a custom-made, shock-resistant bag. But how did you know?</line>
 <line speaker="Phoenix">Oh, I just overheard Apollo making an inquiry about it, that's all.</line>
 <line speaker="Edgeworth">Hmm... So he's looking into the case from seven years ago on his own, is he?</line>
-<line speaker="After examining all areas">Phoenix:</line>
 <line speaker="Edgeworth">So what do you think, Wright? Any ideas?</line>
 <line speaker="Phoenix">There are still a lot of gaps in the evidence, but I'll pull it off somehow! After all... ...you asked me to prove Blackquill's innocence, right, Edgeworth?</line>
 <line speaker="Pearl">What?! He did?!</line>
@@ -857,7 +851,6 @@
 <line speaker="Phoenix">Yes, and do absolutely anything to win. We're in an age now where winning is valued far more than the truth. I'm sure it's caused our new chief prosecutor to lose many a night's rest. <thought>Is it just me or did his brow get even more furrowed than the last time I saw him...?</thought></line>
 <line speaker="Edgeworth">Hmph. The hostage-taker's disdain for the courts is a perfect example of the times.</line>
 <line speaker="Phoenix">*sigh* It sure is.</line>
-<line speaker="After clearing all Talk options">Edgeworth:</line>
 <line speaker="Phoenix">Well, somebody who mistrusts the court system and can manipulate robots... ...It can really only be Aura Blackquill. Who else but her would want a retrial of that case from seven years ago so badly?</line>
 <line speaker="Edgeworth">Simon Blackquill's older sister and the owner of this room... I agree with your conclusion. Perhaps she intended to force Ms. Cykes to confess...</line>
 <line speaker="Phoenix"><thought>Actually, I think she had a much more horrific plan in mind for Athena...</thought></line>
@@ -966,7 +959,6 @@
 <line speaker="Athena">*sigh* I wonder if I'll ever get the chance to present evidence like that again... I'll probably never work as a lawyer again now...</line>
 <line speaker="Phoenix">Don't talk like that, Athena! We're going to clear you of all suspicion. Just you wait!</line>
 <line speaker="Athena">I hope you can... I really hope you can...</line>
-<line speaker="After clearing all Talk options">Fulbright:</line>
 <line speaker="Phoenix">W-We are? What is it?</line>
 <line speaker="Fulbright">I couldn't find a single open courtroom. They're all in session.</line>
 <line speaker="Pearl">Oh, no! But this is an emergency!</line>

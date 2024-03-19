@@ -71,7 +71,7 @@
 <line speaker="Shamspeare">O, indeed! By dint of vile and cowardly means have I plotted to further mine own ends. I confess! Thou wouldst not pardon my sins, of that I am sure.</line>
 <line speaker="Ryunosuke">If you acknowledge your wrongdoing, what exactly are you doing here?</line>
 <line speaker="Shamspeare">'Cowards die many times before their deaths.' And for a coward such as I...death be well deserv'd. But! Would it that a still greater crime passeth unpunish'd? For lo! The hairy-faced gentleman of farther East than Verona did contrive to poison me!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But there was no poison in the tea found in your room! The police have attested to that.</line>
 <line speaker="Van Zieks">What the defence would assert as an inconsistency will quickly be cleared up by the witness's testimony. Is that not so, Mr Shamspeare?</line>
 <line speaker="Shamspeare">Verily, my liege! I would most gladly speak!</line>
@@ -92,7 +92,7 @@
 <line speaker="Judge">Thank you for your testimony, witness. Counsel, proceed with the cross-examination!</line>
 <line speaker="Ryunosuke">Yes, My Lord!</line>
 <line speaker="Shamspeare">The Japanese man did come to my chamber with tea brew'd in a pot.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">I understand that you were already acquainted with Mr Natsume. Is that correct?</line>
 <line speaker="Shamspeare">'I know thee not, old man. Fall to thy prayers.' Do I know thee, or know thee not? Methinks 'tis all I can know that thy destiny mingles with mine.</line>
 <line speaker="Ryunosuke">...You lost me at the first 'thee'.</line>
@@ -103,7 +103,7 @@
 <line speaker="Ryunosuke">Either that, or I'm in worse form...</line>
 <line speaker="Shamspeare">That fated evening, after I did dine... ...at Grub's Grubbery - a local alehouse of good report... ...nought did pass my lips but the tainted black tea. But behold! The poison was not in the tea at first!</line>
 <line speaker="Shamspeare">'Twas in my cup alone that the wicked miscreant secretly pour'd his wicked poison.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Are you saying that you saw the moment when the poison was added to your tea?</line>
 <line speaker="Shamspeare">...To have witness'd the act and then drank the tea? Thou dost describe the actions of a fool.</line>
 <line speaker="Judge">Quite so, quite so.</line>
@@ -116,7 +116,7 @@
 <line speaker="Van Zieks">Remind the court,  Mr Shamspeare...as to whether the accused drank any of the tea which he brought with him.</line>
 <line speaker="Shamspeare">With the greatest of pleasure, my liege...</line>
 <line speaker="Shamspeare">Whilst feigning distraction in our debate, ne'er did a drop of his own drink pass his lips.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">But the teacup Mr Natsume drank from was found completely empty at the scene! And let's not forget the defendant's maxim: 'Drink tea while it's hot!'</line>
 <line speaker="Shamspeare">...I did gulp from the poison'd cup that night. And in mine agony did I writhe uncontroll'd. In fits of pain I did knock the fellow's cup and its contents spilt as blood from a gaping wound...methinks. ...Though certainly, 'twas after I had made the coins of ice from his tea.</line>
 <line speaker="Van Zieks">An upset cup was found on the table that the victim was slumped over. There is no contradiction here.</line>
@@ -124,9 +124,9 @@
 <line speaker="Ryunosuke">Yes! Of course! I know what it is! It's Mr Natsume's wise 'drink tea while it's hot' maxim, isn't it?</line>
 <line speaker="Susato">......... No, I'm not sure that's it...</line>
 <line speaker="Judge">Thank you, witness. Now reiterate for the court what it is that occupied you after your guest had left and before you drank your tea.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Shamspeare">When he departed by and by, I did use the tea that remain'd in his cup to make my coins of ice.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Yes, so that you could cheat the gas company, in fact. ...Isn't that right?</line>
 <line speaker="Shamspeare">To cheat...or to die... 'Tis life's only choice.</line>
 <line speaker="Ryunosuke">...Yeees.</line>
@@ -142,7 +142,7 @@
 <line speaker="Van Zieks">Mr Shamspeare, after the accused returned to his own lodgings, you used his tea to make your...coins. Is that correct?</line>
 <line speaker="Shamspeare">To cheat or to die... I did make my choice many moons ago.</line>
 <line speaker="Shamspeare">Thus 'tis no surprise that poison be not found in the tea I did pour into the moulds of soap.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">If, having first made your special coins, it was after two in the morning when you collapsed... ...that would mean you can't have drunk any tea yourself until around that time.</line>
 <line speaker="Shamspeare">Once ensnared by literary debate, nought else be found in the furrows of the mind.</line>
 <line speaker="Ryunosuke">The debate about Romeo and Juliet, you mean? And who was the stronger of the two.</line>
@@ -190,7 +190,7 @@
 <line speaker="Shamspeare">......... Faith, my liege, thou art a magician! For verily...'tis as though thou hast seen with thine own eyes that night.</line>
 <line speaker="Ryunosuke">What?</line>
 <line speaker="Shamspeare">Forsooth! I was mistook! I did plan to use tea from the Japanese fellow's cup, but lo! When I looked, 'twas empty! And thus did I use the dregs that fester'd in the teapot, as my liege did suggest.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">And you've just suddenly remembered now that you made a mistake before? Are we supposed to believe that?!</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">...!</line>
@@ -249,7 +249,7 @@
 <line speaker="Ryunosuke"><thought>...Will be found guilty!</thought></line>
 <line speaker="Judge">No delays, Counsel! Proceed with the summation examination!</line>
 <line speaker="Juror No. 1">I'm a man of logic, me. And having considered all the evidence, the defendant must logically be guilty.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">All the evidence, you say?</line>
 <line speaker="Juror No. 1">That's right. And there's no room for doubt. It's all pointing at that Japanese man with the big moustache!</line>
 <line speaker="Ryunosuke"><thought>Says the Englishman with the bigger moustache...</thought></line>
@@ -257,7 +257,7 @@
 <line speaker="Ryunosuke">...If only we had that kind of evidence...</line>
 <line speaker="Susato">Don't worry. This summation examination has barely started really. Perhaps there'll be a shift in the situation that shows an existing piece of evidence in a new light!</line>
 <line speaker="Ryunosuke">Let's hope so! <thought>To start with, though, I need to find some way out of this deadlock...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">All the evidence, you say?</line>
 <line speaker="Juror No. 1">That's right. And there's no room for doubt. It's all pointing at that Japanese man with the big moustache!</line>
 <line speaker="Ryunosuke"><thought>Says the Englishman with the bigger moustache...</thought> But the defence just demonstrated another possible explanation for the events on the night in question. What do you make of that?</line>
@@ -305,7 +305,7 @@
 <line speaker="Susato">A witness who spoke about the gas on the night in question... Yes, there was someone...</line>
 <line speaker="Ryunosuke">That's what I thought, too. <thought>But I obviously chose the wrong person!</thought></line>
 <line speaker="Juror No. 2">I do agree that gas is far too expensive. I can quite understand why the man would want to avoid paying.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">This isn't the time or the place to be discussing the price of gas, madam!</line>
 <line speaker="Juror No. 2">But really! Think of the injustice! Air is a gas, and air is free! Why should Altamont gas cost money? It, it makes my blood boil! I can feel myself becoming more ruthless than ever!</line>
 <line speaker="Ryunosuke">This isn't the time or the place to be ruthless either.</line>
@@ -318,7 +318,7 @@
 <line speaker="Juror No. 2">Well anyway, I've quite made up my mind. It's as made up as the price of gas!</line>
 <line speaker="Juror No. 2">I'm very interested in the results of this great detective's investigation at the scene!</line>
 <line speaker="Juror No. 3">The stuff explodes and it can poison you! It's absolutely lethal, gas is!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Could we please talk about the poison rather than the gas, do you think, sir?!</line>
 <line speaker="Juror No. 3">Well, if you like. I mean, to be honest, I'd take poison over gas every time!</line>
 <line speaker="Ryunosuke">You'd 'take poison'?</line>
@@ -332,7 +332,7 @@
 <line speaker="Ryunosuke"><thought>Well, I wasn't expecting to pick up more business in the middle of a trial, that's for sure...</thought></line>
 <line speaker="Juror No. 3">Anyway, the point is, I haven't had the best experience with gas companies in the past.</line>
 <line speaker="Juror No. 3">Blow too hard into a gas pipe, and you extinguish everything in the house. And then you're in real trouble!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">When you say 'extinguish everything in the house', do you mean even on different floors?</line>
 <line speaker="Juror No. 3">Oh yes. All floors are connected to the same pipe, after all.</line>
 <line speaker="Juror No. 4">That's true of every building, because gas supply contracts are issued for whole properties.</line>
@@ -342,7 +342,7 @@
 <line speaker="Ryunosuke">Is that so? <thought>It's been mentioned to me, too. Very recently. An incident involving the gas stove going out inexplicably, almost leading to someone's death...</thought></line>
 <line speaker="Susato">Mr Naruhodo, I think perhaps...</line>
 <line speaker="Ryunosuke">Yes. It's finally starting to fall into place. The secret link that joins all of these strange occurrences.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly contradict each other!</line>
 <line speaker="Judge">Good gracious! To whose statements do you refer, Counsel?</line>
 <line speaker="Ryunosuke">Juror number six! Did you hear what juror number three just said?</line>
@@ -351,7 +351,7 @@
 <line speaker="Juror No. 6">What? What explanation?</line>
 <line speaker="Ryunosuke">I wonder...did the police check the mouth of the gas pipe feeding the wall light at the scene? To see if there were any traces of poison there.</line>
 <line speaker="Van Zieks">I was curious to see what your floundering would result in this time...but the mouth of a gas pipe? Scotland Yard have enough to do without exploring such irrelevance.</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Shamspeare">'What a piece of work is a man!'</line>
 <line speaker="Ryunosuke">What are you trying to say, Mr Shamspeare?</line>
 <line speaker="Shamspeare">What speakest thou? Prithee, is it not strange and strange? That is what I say to thee, sir!</line>
@@ -364,7 +364,7 @@
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Van Zieks">To begin with, the lamp in the victim's room is high on the wall. In order to have placed his lips to the pipe that feeds it, he would have to be a contortionist. These are empty assertions. There is no possible proof that the man did as you say.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">It's true...I have no proof that Mr Shamspeare put his lips to the pipe. However, I can say with some certainty...that on multiple occasions... ...Mr Shamspeare has been doing something in front of that lamp on his wall. ...And I have evidence to prove it!</line>
 <line speaker="Shamspeare">...!</line>
 <line speaker="Juror No. 1">...Alright, you've got our attention, lad. I'd like to see how you can be so sure of yourself.</line>
@@ -412,7 +412,7 @@
 <line speaker="Ryunosuke">Ugh!</line>
 <line speaker="Judge">Hmmm... Certainly, even research of this nature by the esteemed Mr Sholmes... ...cannot be recognised by the court as formal evidence.</line>
 <line speaker="Ryunosuke">But...</line>
-<line speaker="Susato"><cutIn>Hold it!</cutIn></line>
+<line speaker="Susato"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Susato">Please, My Lord, if I may...</line>
 <line speaker="Ryunosuke">Miss Susato?!</line>
 <line speaker="Susato">It was not the defence's intention to submit the skin prints as formal evidence. We merely wished to present the results of the great detective's investigation of the scene... ...as a tool by which to explain a possibility to the ladies and gentlemen of the jury.</line>
@@ -424,7 +424,7 @@
 <line speaker="Juror No. 4">...!</line>
 <line speaker="Juror No. 5">...!</line>
 <line speaker="Juror No. 6">...!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 3">You're right! Whether those strange handprints are a significant clue or not...it's down to us to decide!</line>
 <line speaker="Ryunosuke">Juror number three!</line>
 <line speaker="Juror No. 2">Oh yes! I do declare that the great detective's investigation results sound absolutely fascinating! And I want to hear what that shady actor fellow has to say about those shady handprints!</line>
@@ -440,7 +440,7 @@
 <line speaker="Judge">Very well. Continue, Counsel!</line>
 <line speaker="Juror No. 3">We're the ones who decide if the evidence is worthy of consideration or not! Us. The jury.</line>
 <line speaker="Juror No. 4">Gas doesn't come for free! It costs a fortune to deliver it around the city and maintain the pipes!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Can we please refrain from all this talk of gas?!</line>
 <line speaker="Juror No. 4">There's an all-out attack underway here in case you hadn't noticed. Against my company's gas. And I'm supposed to sit here and take it, am I? I don't think so!</line>
 <line speaker="Ryunosuke"><thought>She's really buzzing now...</thought></line>
@@ -498,7 +498,7 @@
 <line speaker="Susato">.........</line>
 <line speaker="Judge">You will turn your attention to the next juror's assertion, please, Counsel.</line>
 <line speaker="Juror No. 5">Truth be told, the tea my wife serves up for me is a little...sketchy at times.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">You, you mean it's poisoned?!</line>
 <line speaker="Juror No. 5">That's right. It's happened a tidy few times now.</line>
 <line speaker="Judge">This is most troubling indeed!</line>
@@ -514,7 +514,7 @@
 <line speaker="Juror No. 5">No! So...she doesn't even care enough to poison me properly, eh? Unbelievable...</line>
 <line speaker="Judge">Let's move on, please!</line>
 <line speaker="Juror No. 6">If nothing else passed the victim's lips that night, there's no other explanation, is there?</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Does that mean that if the victim could be shown to have ingested something else, you'd change your leaning?</line>
 <line speaker="Juror No. 6">Hm? Sorry? What's that now?</line>
 <line speaker="Ryunosuke">Oh, um...I was just saying, if the victim did actually eat or drink something else on the night-</line>
@@ -526,7 +526,7 @@
 <line speaker="Ryunosuke">I-I suppose. The trouble is...</line>
 <line speaker="Susato">...He has selective hearing?</line>
 <line speaker="Ryunosuke"><thought>Exactly. But still...</thought> This juror may well be the key to the breakthrough that we so desperately need!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements clearly contradict each other!</line>
 <line speaker="Judge">Good gracious! To whose statements do you refer, Counsel?</line>
 <line speaker="Ryunosuke">Juror number six! Did you hear what juror number three just said?</line>
@@ -535,7 +535,7 @@
 <line speaker="Juror No. 6">What? What explanation?</line>
 <line speaker="Ryunosuke">I wonder...did the police check the mouth of the gas pipe feeding the wall light at the scene? To see if there were any traces of poison there.</line>
 <line speaker="Van Zieks">I was curious to see what your floundering would result in this time...but the mouth of a gas pipe? Scotland Yard have enough to do without exploring such irrelevance.</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Shamspeare">'What a piece of work is a man!'</line>
 <line speaker="Ryunosuke">What are you trying to say, Mr Shamspeare?</line>
 <line speaker="Shamspeare">What speakest thou? Prithee, is it not strange and strange? That is what I say to thee, sir!</line>
@@ -548,7 +548,7 @@
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">...!</line>
 <line speaker="Van Zieks">To begin with, the lamp in the victim's room is high on the wall. In order to have placed his lips to the pipe that feeds it, he would have to be a contortionist. These are empty assertions. There is no possible proof that the man did as you say.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">It's true...I have no proof that Mr Shamspeare put his lips to the pipe. However, I can say with some certainty...that on multiple occasions... ...Mr Shamspeare has been doing something in front of that lamp on his wall. ...And I have evidence to prove it!</line>
 <line speaker="Shamspeare">...!</line>
 <line speaker="Juror No. 1">...Alright, you've got our attention, lad. I'd like to see how you can be so sure of yourself.</line>
@@ -596,7 +596,7 @@
 <line speaker="Ryunosuke">Ugh!</line>
 <line speaker="Judge">Hmmm... Certainly, even research of this nature by the esteemed Mr Sholmes... ...cannot be recognised by the court as formal evidence.</line>
 <line speaker="Ryunosuke">But...</line>
-<line speaker="Susato"><cutIn>Hold it!</cutIn></line>
+<line speaker="Susato"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Susato">Please, My Lord, if I may...</line>
 <line speaker="Ryunosuke">Miss Susato?!</line>
 <line speaker="Susato">It was not the defence's intention to submit the skin prints as formal evidence. We merely wished to present the results of the great detective's investigation of the scene... ...as a tool by which to explain a possibility to the ladies and gentlemen of the jury.</line>
@@ -608,7 +608,7 @@
 <line speaker="Juror No. 4">...!</line>
 <line speaker="Juror No. 5">...!</line>
 <line speaker="Juror No. 6">...!</line>
-<line speaker="???"><cutIn>Hold it!</cutIn></line>
+<line speaker="???"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 3">You're right! Whether those strange handprints are a significant clue or not...it's down to us to decide!</line>
 <line speaker="Ryunosuke">Juror number three!</line>
 <line speaker="Juror No. 2">Oh yes! I do declare that the great detective's investigation results sound absolutely fascinating! And I want to hear what that shady actor fellow has to say about those shady handprints!</line>
@@ -669,7 +669,7 @@
 <line speaker="Juror No. 1">Agh!</line>
 <line speaker="Van Zieks">As such, whether or not this man did indeed stand before the gas lamp with his hands against the wall... ...remains, at this time, unestablished conjecture. You would all do well to remember that.</line>
 <line speaker="Juror No. 3">Ah.........</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But the prosecution must concede that it would be extremely simple to verify! Just order the mouth of the gas pipe feeding that lamp in Mr Shamspeare's room to be examined! If there are traces of poison there...</line>
 <line speaker="Van Zieks">Van Zieks:</line>
 <line speaker="Ryunosuke">Yes...</line>
@@ -721,7 +721,7 @@
 <line speaker="Ryunosuke"><thought>As it happens... ...one possible culprit does come to mind. The evidence... The poison... It's all pointing to a particular person now...</thought></line>
 <line speaker="Van Zieks">The prosecution calls for the jury to consider their leanings again. I trust you'll make the correct choice this time... Mr Foreman.</line>
 <line speaker="Juror No. 1">Hm? What? ...Oh, don't you worry! We know exactly what-</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">There is one other person who I believe could have been involved in all of this. The true culprit of this crime.</line>
 <line speaker="Judge">The, the true culprit?</line>
 <line speaker="Van Zieks">A term found only in second-rate novels featuring third-rate 'great detectives'...my Nipponese friend. But why not? This farce has gone on for so long already, I see no reason to cut it short before its disappointing climax.</line>
@@ -863,7 +863,7 @@
 <line speaker="Judge">Counsel, you may now cross-examine these two witnesses if you wish.</line>
 <line speaker="Ryunosuke">Yes, My Lord!</line>
 <line speaker="Green">It was six days ago, at about 5 p.m. I was walking along in the snow when I was suddenly stabbed in the back.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">I'm well acquainted with the case. ...I'm sorry you had to go through that.</line>
 <line speaker="Green">It was awful. I still can't believe I was unconscious for so long. And I woke up to find that the case had been solved and the culprit arrested.</line>
 <line speaker="Van Zieks">Yes. The incident has been resolved already. Perhaps it would help you to consider it a bad dream that ended with your wakening...and should now be forgotten.</line>
@@ -871,7 +871,7 @@
 <line speaker="Ryunosuke">But before you put it completely behind you, Miss Green, I need you to remember the details one last time. You must tell the court exactly what happened that day... for us to arrive at the truth about this new case.</line>
 <line speaker="Green">The trouble is, there's nothing to tell, really. I was just walking along the pavement.</line>
 <line speaker="Green">Coincidentally, it happened to be just outside the house where the men in this case have their lodgings.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What were you doing there that day, though?</line>
 <line speaker="Green">What do you mean...?</line>
 <line speaker="Ryunosuke">The art school you attend... What's it called?</line>
@@ -887,7 +887,7 @@
 <line speaker="Ryunosuke"><thought>If she's trying to hide why she was there that evening... ...it must mean there's a reason for her not wanting us to know. That's the key to this!</thought> And you, Mr Shamspeare... On the evening of the incident six days ago... ...would you tell the court what exactly you were doing?</line>
 <line speaker="Shamspeare">'Twould be my pleasure, sire.</line>
 <line speaker="Shamspeare">I was at the tavern on the eve of which thou speak'st, for I had bespoke my supper.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">A tavern, you say? Which one?</line>
 <line speaker="Shamspeare">'Twas the Slug and Salad where I did tarry. 'Tis a jewel in the East End.</line>
 <line speaker="Van Zieks">......... And a little unexpected, I feel.</line>
@@ -947,7 +947,7 @@
 <line speaker="Susato">If we find a clue that could explain why Mr Shamspeare went there, we must present it to the court!</line>
 <line speaker="Ryunosuke">Yes, absolutely!</line>
 <line speaker="Judge">If that is all on this matter, Counsel, I would ask Miss Green to reiterate her next statement.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Remind me, which tavern was it?</line>
 <line speaker="Shamspeare">Why, The Slug and Salad, sire. As I said to thee erewhile.</line>
 <line speaker="Ryunosuke">So on that particular evening, and no other, you chose to visit a different tavern to normal. And the reason for that is written in this card, isn't it? 'Come to The Slug and Salad on Briar Road at 5 p.m. on 17th.'</line>
@@ -959,7 +959,7 @@
 <line speaker="Green">.........</line>
 <line speaker="Van Zieks">Let's return to the testimony, shall we?</line>
 <line speaker="Green">It was the first time I'd been in the area. I had a little matter to attend to, that's all.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">What 'little matter', Miss Green? Please elaborate.</line>
 <line speaker="Green">It was nothing, really. It's not worth mentioning.</line>
 <line speaker="Ryunosuke">If you remember, you mentioned it to us yesterday at the hospital.</line>
@@ -1009,7 +1009,7 @@
 <line speaker="Susato">Yes! There's no question that they're from the same letter!</line>
 <line speaker="Ryunosuke">But...that means... <thought>Something doesn't quite add up here, does it?</thought></line>
 <line speaker="Green">Anyway, I was admitted straight to hospital, so I knew nothing about all of this business.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Yes, you didn't regain consciousness until the day after the trial, did you? In the early hours.</line>
 <line speaker="Green">Exactly! So how could I have had anything to do with it? And yet you still haul me in here to court like this. Honestly...!</line>
 <line speaker="Van Zieks">So at the time of the poisoning, the witness was unconscious in her hospital bed. Could there be a more airtight alibi, I ask you?</line>
@@ -1022,7 +1022,7 @@
 <line speaker="Judge">Counsel, I will point out here that the jury's next decision will be final.</line>
 <line speaker="Ryunosuke"><thought>We're really up against the wall here...</thought></line>
 <line speaker="Green">This note was delivered to me at my address. It's nothing to do with the odd man next to me here.</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">I think you said that you received it the day before the incident, didn't you?</line>
 <line speaker="Green">Yes, that's right.</line>
 <line speaker="Van Zieks">There appears to be no indication of the sender's name or address on the envelope.</line>
@@ -1033,7 +1033,7 @@
 <line speaker="Green">Of course I didn't. You're not thinking straight.</line>
 <line speaker="Van Zieks">Whilst on her way there, she was stabbed in the back. ...As my learned friend hopefully remembers.</line>
 <line speaker="Ryunosuke">Ah! Yes, of course! <thought>She never made it to the meeting...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke"><thought>So that's all the testimony I have to work with...</thought></line>
 <line speaker="Susato">There's certainly no obvious link between these two, or the two incidents.</line>
 <line speaker="Ryunosuke">But we can't just turn around and admit this has all been a waste of time! I have some pride you know, Miss Susato.</line>
@@ -1100,7 +1100,7 @@
 <line speaker="Susato">Miss Green clearly did break into Mr Shamspeare's room. There can be no question of that. And that's how she acquired the note.</line>
 <line speaker="Ryunosuke">Yes. Two facts that are starting to lead me to a possible explanation for all of this... <thought>And it's not a pretty one.</thought></line>
 <line speaker="Shamspeare">I do remember now. 'Twas a week ago, peradventure, that note was deliver'd unto me. </line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">And can you shed any light on the contents of the note at all?</line>
 <line speaker="Shamspeare">Nay, sire! 'Tis as strange to me as a foreign tongue. Even with a knowledge of literature as great as mine own, verily, 'tis impenetrable!</line>
 <line speaker="Ryunosuke">But Mr Duncan Ross had lodgings in the same household as you. In effect, he was your neighbour, so surely you knew him, didn't you?</line>
@@ -1108,7 +1108,7 @@
 <line speaker="Ryunosuke">Despite your claims, though, you followed the note's instructions and went to The Slug and Salad. Presumably that was nothing to do with your knowledge of literature...?</line>
 <line speaker="Shamspeare">Marry! Nought will have the better of me, sire, save for the lure of curiosity. So 'tis true, I was compell'd by mine own eager heart to betake myself to the tavern. Yet in the end...my curiosity was not satiated.</line>
 <line speaker="Shamspeare">On the day writ therein, I did tarry a long hour at The Slug and Salad, yet nobody came. </line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So even after waiting for an hour, nobody appeared?</line>
 <line speaker="Shamspeare">Well...um...yes, sire. 'Tis as thou sayst.</line>
 <line speaker="Ryunosuke">...Really? You paused for a moment before you answered.</line>
@@ -1122,7 +1122,7 @@
 <line speaker="Ryunosuke">I think they were just flies...</line>
 <line speaker="Susato">I can't help thinking that the flies ought to choose something more wholesome to buzz around. ...Is that wrong of me?</line>
 <line speaker="Shamspeare">Thereafter, on the evening I shared the company of the Japanese fellow, I did see the note had vanish'd. </line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">When exactly did you notice it had gone missing?</line>
 <line speaker="Shamspeare">...Such idle thoughts ne'er occupy my mind. I am busied with greater ideas!</line>
 <line speaker="Van Zieks">In other words, you didn't notice.</line>
@@ -1137,7 +1137,7 @@
 <line speaker="Green">Oh dearie me...</line>
 <line speaker="Ryunosuke">What's Lord van Zieks getting at...?</line>
 <line speaker="Green">I don't know what you mean. You think I snuck into this man's room, do you? Why would I? </line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">It seems that this note was actually delivered to Mr Shamspeare about one week ago.</line>
 <line speaker="Green">Oh...does it?</line>
 <line speaker="Ryunosuke">But for some reason, it ended up in your possession. I can't think of any way that could have happened except for you breaking into Mr Shamspeare's lodgings.</line>
@@ -1149,9 +1149,9 @@
 <line speaker="Susato">Yes! We should pursue that idea, Mr Naruhodo!</line>
 <line speaker="Ryunosuke"><thought>We're close now... I can feel it. We're so close to a breakthrough...</thought></line>
 <line speaker="Green">.........</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Green">I can point out the villain here! And as for that torn-off piece of the envelope, I don't know anything about it. </line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">So you don't want to tell the court the truth about the letter, is that it?</line>
 <line speaker="Green">I'm a fledgling artist, remember? Artists are nearly always introverted characters.</line>
 <line speaker="Shamspeare">Introverted? Fie! This fledgling doth readily cast aspersions about my nature! Yet I am an angel! A seraph! Birds do harmonise with my song! The wind doth frolic on my wing! O pity! Wherefore dost thou accuse one so pure of heart, ample woman?</line>
@@ -1242,7 +1242,7 @@
 <line speaker="Green">And you'll have to forgive me, Mr Naruhodo, sir... ...but I don't intend to admit to anything, either.</line>
 <line speaker="Ryunosuke">Miss Green...</line>
 <line speaker="Green">I'm sure you'll think I'm being very rude, but... ...I'm not going to be sent to the gallows for the likes of this scoundrel!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But you broke into the man's room! If you didn't do it to smear poison on the pipe, what was your reason?</line>
 <line speaker="Green">......... I...thought I'd have a look around, that's all.</line>
 <line speaker="Ryunosuke">Sorry?</line>
@@ -1537,19 +1537,19 @@
 <line speaker="Sholmes">Then I shall have to insist that you limit yourself to the first of your two titles. The second must never be written. Is that clear?</line>
 <line speaker="Iris">...! ...Yes.</line>
 <line speaker="Ryunosuke">I can't find anything out of place.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">That last statement was contradictory in a number of ways, I think you'll find!</line>
 <line speaker="Judge">In a number of ways, you say?</line>
 <line speaker="Ryunosuke">That's right, My Lord. In a number of ways!</line>
 <line speaker="Judge">Perhaps it would serve you well to concentrate your efforts on one contradiction at a time, Counsel.</line>
 <line speaker="Ryunosuke"><thought>Ugh... I made a bit of a mess of that. In a number of ways, actually.</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">The witness's last statement is clearly contradictory when you consider this piece of evidence here! Yes! Undeniably!</line>
 <line speaker="Judge">You say it's undeniable, Counsel, but I fail to see any contradiction here at all.</line>
 <line speaker="Ryunosuke">......... I think perhaps that itself is the contradiction.</line>
 <line speaker="Judge">...Indeed.</line>
 <line speaker="Ryunosuke"><thought>Ugh... Time for a rethink...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">My Lord! There are clearly grounds for being suspicious of that last statement!</line>
 <line speaker="Judge">I'm sorry, Counsel, but I fail to see why.</line>
 <line speaker="Ryunosuke">Well, you know...I was just playing devil's advocate!</line>
@@ -1613,9 +1613,9 @@
 <line speaker="Ryunosuke">I, I didn't say anything!</line>
 <line speaker="Juror No. 6">Hm? What's that?</line>
 <line speaker="Ryunosuke"><thought>Alright, if there's a juror to watch, it's this man. He's dangerous...</thought></line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Those two statements are fundamentally at odds with one another.</line>
-<line speaker="Juror No. 1"><cutIn>Hold it!</cutIn></line>
+<line speaker="Juror No. 1"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Juror No. 1">My Lord! As foreman of the jury, I must object!</line>
 <line speaker="Ryunosuke">Wha...?</line>
 <line speaker="Juror No. 1">Being their leader, it's my duty to stand up for all jurors here present. And stand up for them I will!</line>

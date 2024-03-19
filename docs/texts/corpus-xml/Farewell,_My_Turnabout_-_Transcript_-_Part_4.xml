@@ -84,7 +84,7 @@
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Mia">A trap. Can't you smell it, Phoenix? But for us to find out more, we're just going to have to charge in head first, right?</line>
 <line speaker="Powers">After the award ceremony, I went by myself to Matt's room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The defendant's room? Why did you go there?</line>
 <line speaker="Powers">Well, I'm his mentor, like a big brother sort of, and I wanted to say congrats... ... ...</line>
 <line speaker="Judge">Wh-What's wrong? Why did you stop?</line>
@@ -101,13 +101,13 @@
 <line speaker="Judge">So, you went to the defendant's room. And then?</line>
 <line speaker="Phoenix"><thought>Hey, wait a minute! When and how did I suddenly turn into the bad guy here??</thought></line>
 <line speaker="Powers">Matt was standing there in front of his room, still in his Nickel Samurai costume.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure that was Matt Engarde?</line>
 <line speaker="Powers">Yeah, I'm sure. He wasn't wearing the Nickel Samurai mask then.</line>
 <line speaker="Phoenix"><thought>If that's the case, then he really can't be mistaken...</thought></line>
 <line speaker="Edgeworth">And? What was the defendant doing, standing in front of his own room?</line>
 <line speaker="Powers">He was talking with someone. At first, I thought it was the bellboy.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"At first"? What do you mean by that?</line>
 <line speaker="Powers">Well, he was in a bellboy-ish uniform and he had a bottle of juice on a tray.</line>
 <line speaker="Phoenix">...Sounds like an ordinary bellboy to me.</line>
@@ -117,7 +117,7 @@
 <line speaker="Phoenix">H-How am I supposed to know!?</line>
 <line speaker="Powers">Sorry, but I can't remember right now. ...Sorry.</line>
 <line speaker="Phoenix"><thought>I guess I'm going to have to wait patiently on this one...</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">"At first"? What do you mean by that?</line>
 <line speaker="Powers">I didn't think he was a normal bellboy.</line>
 <line speaker="Phoenix">And why was that?</line>
@@ -134,7 +134,7 @@
 <line speaker="Powers">You mean about the bellboy, right?</line>
 <line speaker="Change statement">"He was talking with someone. At first, I thought it was the bellboy." to "Matt gave the bellboy a tip."</line>
 <line speaker="Powers">Matt gave the bellboy a tip.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So he gave the bellboy a tip. What's so strange about that?</line>
 <line speaker="Powers">Ah, well, you see, Matt's not a poor penny-pincher like me. I was trying to figure out how much it was because the tip really shocked me.</line>
 <line speaker="Phoenix">"How much it was"...?</line>
@@ -157,7 +157,7 @@
 <line speaker="Judge">... Nothing, Mr. Wright. Nothing. We're just going around and around in circles. Now then, Mr. Powers. Please continue with your testimony.</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Powers">I watched the two of them for a while, but then I gave up and went back.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You saw the two of them, the bellboy and the defendant, together, correct?</line>
 <line speaker="Powers">Yeah. The bellboy just wanted to say congrats.</line>
 <line speaker="Phoenix">Now, while you were watching the two of them, did you notice anything strange?</line>
@@ -166,7 +166,7 @@
 <line speaker="Judge">So, how long did you watch the two of them?</line>
 <line speaker="Powers">Ah, not more than a minute or two, I think.</line>
 <line speaker="Powers">I had guests with me that night, and I couldn't make them wait for me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So who are these "guests" you're talking about?</line>
 <line speaker="Powers">You guys, of course. You and Maya and little Pearl. I thought it would be really rude since I invited you guys, if I disappeared on you... So I went back to my seat pretty soon after seeing Matt in the hallway.</line>
 <line speaker="Phoenix"><thought>This is like squeezing water from a stone... It's probably pointless to press further...</thought></line>
@@ -185,9 +185,9 @@
 <line speaker="Edgeworth">A very fat roll of cash... That can hardly be called a "tip", Your Honor!</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Phoenix"><thought>The judge is beginning to look awfully suspicious of us...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The defendant is a superstar! That kind of tip is typical fare for people like him!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Are you saying that all superstars are super-spenders!? If I could receive large rolls of cash by simply bringing people things on trays... Then why on Earth would I stand around here prosecuting!?</line>
 <line speaker="Phoenix"><thought>He's got a point... I don't even get paid, let alone rolls of cash for all my hard work.</thought></line>
 <line speaker="Phoenix"><thought>There's nothing I can really object to here. I mean, who can argue that a fat roll of money isn't really odd...?</thought></line>
@@ -219,13 +219,13 @@
 <line speaker="Phoenix">Ha. Ha. Ha. Ha.</line>
 <line speaker="Mia">This is no laughing matter!</line>
 <line speaker="Powers">This time, I was in that hallway because I had to go to the bathroom!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And what time was it?</line>
 <line speaker="Powers">Ah, well, I don't remember. The award ceremony ended around 8 PM, right? ...And I went to Matt's room pretty soon after that... And then I came back... And then I went to the bathroom... ... So I guess maybe it was around 8:10 PM by that time?</line>
 <line speaker="Judge">You're not one for details, are you Mr. Powers?</line>
 <line speaker="Powers">S-Sorry... I thought I could maybe catch Matt and say my congrats...</line>
 <line speaker="Powers">And that's when that bellboy I saw earlier came out of the room!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure it was the same bellboy?</line>
 <line speaker="Powers">Yeah.</line>
 <line speaker="Phoenix">And how could you tell? All the bellboys wear the same uniform, after all!</line>
@@ -235,13 +235,13 @@
 <line speaker="Judge">Hmm...</line>
 <line speaker="Edgeworth">So which room did the bellboy come out of?</line>
 <line speaker="Powers">Of course, when I say "room", I mean Juan Corrida's room!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The victim's room, huh...?</line>
 <line speaker="Powers">Yeah. The one with all the really pretty flowers and teddy bears. It was Juan's room alright!</line>
 <line speaker="Phoenix"><thought>Words cannot describe how screwed I am...</thought></line>
 <line speaker="Edgeworth">Hmph. Let's continue with the testimony, shall we?</line>
 <line speaker="Powers">Now that I think about it, that bellboy did seem kinda out of place!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Um... so what exactly was so "out of place" about him?</line>
 <line speaker="Edgeworth">Wright, Wright, Wright. Why the insipid grin?</line>
 <line speaker="Phoenix"><thought>Maybe because I have no idea what damaging thing he's going to say next...?</thought></line>
@@ -258,23 +258,23 @@
 <line speaker="Phoenix">There is nothing strange or unusual about an empty-handed bellboy!</line>
 <line speaker="Powers">But there really, really is!</line>
 <line speaker="Phoenix">There really, really isn't!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">If you two are done being schoolchildren... Bellboys are for room service. There is no reason for them to be empty-handed, ever. Your Honor! I ask that the witness' previous statement be supplanted with this new one.</line>
 <line speaker="Phoenix"><thought>Grr... Edgeworth... Are you going to do whatever you can to make the bellboy look suspicious?</thought></line>
 <line speaker="Judge">I see. Very well, this court recognizes and grants the prosecution's request. Mr. Powers, if you could amend your testimony, please.</line>
 <line speaker="Powers">Y-Yes, sir.</line>
 <line speaker="Change statement">"Now that I think about it, that bellboy did seem kinda out of place!" to "I thought it was kinda strange for a bellboy to come out of a guest's room empty-handed!"</line>
 <line speaker="Powers">I thought it was kinda strange for a bellboy to come out of a guest's room empty-handed!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you're saying that it's suspicious for him to be empty-handed?</line>
 <line speaker="Powers">Yeah, really suspicious. I mean, when I first saw that bellboy, he was holding a tray in his hand! And there was a bottle of juice and a wine glass on it!</line>
 <line speaker="Phoenix">Juice...? What kind of juice was it?</line>
 <line speaker="Powers">Um, I'm pretty sure it was tomato juice...</line>
 <line speaker="Mia">If we could come up with some sort of reason as to why he would come out empty-handed, some sort of proof, then I think we can dodge the bullet on this one for now.</line>
 <line speaker="Phoenix">Proof, huh? <thought>Sounds like another job for the Court Record!</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Powers">Yeah! So he had to be the assassin! I'm sure of it!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Please don't be so quick to judge!</line>
 <line speaker="Powers">Ah, but it's kind of a Powers family thing. "Think of every person as a thief".</line>
 <line speaker="Phoenix"><thought>Well, I guess a thief and an assassin are both sneaky and silent...</thought></line>
@@ -327,7 +327,7 @@
 <line speaker="Judge">Hmm... I think it's safe to say that we can no longer consider this bellboy to be "normal". Now then, let's get started, shall we? Mr. Wright, your cross-examination, please.</line>
 <line speaker="Phoenix">Yes, Your Honor...</line>
 <line speaker="Powers">After leaving Juan's room, the bellboy went and knocked on Matt's door, just like that.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Is that what you saw while you were busy spying?</line>
 <line speaker="Powers">E-Excuse me!? I may be a poor, underpaid action star, but even I wouldn't stoop to spying!</line>
 <line speaker="Judge">Well, I think the point is where did you watch all this from, Mr. Powers?</line>
@@ -335,8 +335,8 @@
 <line speaker="Phoenix"><thought>I knew he was spying!</thought></line>
 <line speaker="Edgeworth">Please, does it really matter if he was doing it over or underhandedly? What did the bellboy do next? That's all I care to know.</line>
 <line speaker="Powers">He gave something to the person inside the room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
-<line speaker="Phoenix">I said, "<cutIn>Hold it!</cutIn>"</line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
+<line speaker="Phoenix">I said, "<cutIn type="holdIt">Hold it!</cutIn>"</line>
 <line speaker="Powers">Umm... OK.</line>
 <line speaker="Phoenix">That's better! *ahem* What kind of statement is that!? Please elaborate and give us a few more details!</line>
 <line speaker="Powers">Oh, umm... OK...</line>
@@ -372,20 +372,20 @@
 <line speaker="Powers">Y-Yes, sir.</line>
 <line speaker="Add statement">"If I saw it again, I could say for sure, but I think it was some sort of wooden statue."</line>
 <line speaker="Powers">If I saw it again, I could say for sure, but I think it was some sort of wooden statue.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A statue?</line>
 <line speaker="Powers">Yeah... It kinda looked like one I guess. If I saw the actual thing again, I'd probably remember, you know?</line>
 <line speaker="Phoenix"><thought>Looks like for this trial to proceed... I'm going to have to come up with whatever this "statue" thing is and show it to him.</thought></line>
 <line speaker="Mia">You're going to have to trust your instinct on this one and take a chance, Phoenix.</line>
 <line speaker="Judge">Well Mr. Powers, let's continue with your testimony. What did the bellboy do after that?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Powers">Then the old guy just left, without even going into the room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Where did this bellboy go after he left Mr. Engarde's room?</line>
 <line speaker="Powers">Hmm... He opened the door to Viola Hall, went in there, and who knows after that, right?</line>
 <line speaker="Phoenix"><thought>Nngh... I do...</thought></line>
 <line speaker="Powers">After that, I went to the bathroom and then back to my seat.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you see anything strange, suspicious, or just out of the ordinary at that time?</line>
 <line speaker="Powers">Oh yeah, I saw that one thing!</line>
 <line speaker="Phoenix">What!? <thought>He saw something else!?</thought></line>
@@ -425,13 +425,13 @@
 <line speaker="Judge">Oh... Well, we can't have that. Alright, Mr. Wright. What questionable point would you like to explore further?</line>
 <line speaker="Phoenix">Mr. Powers' testimony, of course!</line>
 <line speaker="Powers">Huh? I know that my testimony was kind of shaky, but --</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your inanity stupefies me, Mr. Wright. We have already clarified all questionable points during the cross-examination just now!</line>
 <line speaker="Phoenix">Urk.</line>
 <line speaker="Edgeworth">Wasting time like this, calling the testimony questionable... I'd say it's your head that's questionable here!</line>
 <line speaker="Phoenix">Aaah!</line>
 <line speaker="Judge">Yes, I agree. The cross-examination went smoothly and there was nothing wrong with the testimony. Now then, I belive --</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">P-Please! Wait!</line>
 <line speaker="Judge">You are being very persistent today.</line>
 <line speaker="Phoenix"><thought>Because I can't let it end like this!</thought> I know my outburst just now was a little... questionable.</line>
@@ -461,7 +461,7 @@
 <line speaker="Phoenix">What am I supposed to do now!? Mia, help!</line>
 <line speaker="Mia">You don't have time to act lost. You've got to find another angle to attack this from! Hurry!</line>
 <line speaker="Judge">Now, I will bring this cross-examination to --</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Your Honor!</line>
 <line speaker="Judge">Again, Mr. Wright? We've already removed any and all questionable areas of this testimony.</line>
 <line speaker="Edgeworth">It's about time you were removed from this court, Mr. Wright.</line>
@@ -474,7 +474,7 @@
 <line speaker="Phoenix">I think Your Honor has already figured out what I'm trying to say. It is not possible that it was Mr. Engarde who took this bear to his mansion!</line>
 <line speaker="Judge">Wh-Why, that's very true! We didn't consider that point, Mr. Wright! There was no way, timewise, for the defendant to have taken this bear home.</line>
 <line speaker="Phoenix">(Phew... Disaster averted it looks--</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">You haven't gotten the best of me yet, Mr. Wright.</line>
 <line speaker="Phoenix">Huh!?</line>
 <line speaker="Edgeworth">I remember it clear as day. I remember what you muttered to yourself at Engarde's mansion.</line>
@@ -505,7 +505,7 @@
 <line speaker="Mia">Raise an objection, Phoenix.</line>
 <line speaker="Phoenix"><thought>...............</thought></line>
 <line speaker="Judge">I will now announce my ver--</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>There is only one way for me to drag this trial out... The only thing I have left is this one dirty trick...</thought> Your Honor. Right now, we have these two reasons to believe my client is a client of the assassin. Reason number one. He accepted the bear figurine from the assassin. Reason number two. That very same figurine was found at Engarde Mansion. However! It's possible this is all the work of a certain other person!</line>
 <line speaker="Judge">What are you saying...?</line>
 <line speaker="Phoenix">What I am saying is, it's possible a different person is De Killer's real client!</line>
@@ -514,8 +514,8 @@
 <line speaker="Edgeworth">Tsk, tsk. Is this all you have?</line>
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">Now then, Mr. Wright. Let's hear your theory. Who do you say is the real client of De Killer, and therefore, the real murderer?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">You've let me down, Mr. Wright.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Edgeworth">I know you are aware of the truth. And you are free to turn your eyes from it... But at least try to make some sense while you are doing so.</line>
@@ -610,13 +610,13 @@
 <line speaker="Judge">Yes. This is superb craftmanship. ...Oh, yes, I nearly forgot. You may begin your cross-examination, Mr. Wright.</line>
 <line speaker="Mia">It looks like there really was something to that bear after all.</line>
 <line speaker="Andrews">Actually, this is an elaborate puzzle.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A puzzle?</line>
 <line speaker="Andrews">That's right.</line>
 <line speaker="Judge">Hmm... But it looks like an ordinary figurine...</line>
 <line speaker="Phoenix"><thought>True enough... To people who don't know, I'm sure they would never guess that this was a puzzle...</thought> So what kind of puzzle is this exactly?</line>
 <line speaker="Andrews">If you know the correct order, it can be taken apart one piece at a time.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you can "take it apart"? And how would one go about doing that?</line>
 <line speaker="Andrews">Well, you first turn its tail to the right and then push it in.</line>
 <line speaker="Judge">...Oh, yes, I see.</line>
@@ -627,7 +627,7 @@
 <line speaker="Phoenix"><thought>I think he's lost it...</thought></line>
 <line speaker="Edgeworth">So what do you find after you take the puzzle apart?</line>
 <line speaker="Andrews">At its center is a small cavity, with just enough room to store a small item.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And how do you know about this...?</line>
 <line speaker="Andrews">I know because I was the one who bought it.</line>
 <line speaker="Phoenix">Huh!?</line>
@@ -637,13 +637,13 @@
 <line speaker="Phoenix"><thought>So it was a present from Ms. Andrews...</thought></line>
 <line speaker="Edgeworth">Witness, let's continue with your testimony.</line>
 <line speaker="Andrews">Because of its complexity, if you don't know the order, you can't open the bear.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So who exactly knew how to solve this puzzle?</line>
 <line speaker="Andrews">Only the two of us, Juan and myself. It was a souvenir from Switzerland... So I doubt there are that many people with this same bear in this country.</line>
 <line speaker="Judge">But this looks like it can be easily broken. Especially if someone wanted to get what was inside.</line>
 <line speaker="Andrews">Well, it's a toy. But it can never be the same again once it's been broken.</line>
 <line speaker="Andrews">You really can't tell that it's a small "jewelry box" just by looking at it.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Who else knows that this bear is actually a small container or "jewelry box"?</line>
 <line speaker="Andrews">I never told anyone. And as long as Juan never told anyone either, then only the two of us knew...</line>
 <line speaker="Phoenix">The two of you, huh... Then of course that means Mr. Engarde didn't know, right?</line>
@@ -693,7 +693,7 @@
 <line speaker="Phoenix"><thought>I know. I have to carry on and buy him some more time! OK. There are 2 deadly pieces of evidence: the figurine and the suicide note. Maybe somehow, I can find a way out of this situation through one of those!</thought></line>
 <line speaker="Mia">The gavel is already in the judge's hand! Phoenix! Hurry!</line>
 <line speaker="Phoenix"><thought>The suicide note or the figurine!? Which one of these should I pursue??</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Please wait, Your Honor!</line>
 <line speaker="Phoenix">I think Your Honor believes that Matt Engarde killed in order to obtain this note.</line>
 <line speaker="Judge">Yes, that is correct.</line>
@@ -702,7 +702,7 @@
 <line speaker="Phoenix">This note was hidden by Mr. Corrida until the night of the murder. If that is the case... I say that Matt Engarde could not have known what was written on this note!</line>
 <line speaker="Judge">Oh! I didn't think of it that way...</line>
 <line speaker="Phoenix">Exactly. But I did think of it that way, and I thought it was rather strange. No one in their right mind would kill for a note without first knowing what it said!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Please wait, Your Honor!</line>
 <line speaker="Phoenix">The assassin took this with him from the crime scene after murdering Mr. Corrida. At the request of his client, of course.</line>
 <line speaker="Judge">So, what's your point, Mr. Wright?</line>
@@ -757,7 +757,7 @@
 <line speaker="Phoenix"><thought>I have no objections to Engarde getting his guilty sentence as he should... But I can't let that happen yet! Mia said there's still something worth examining. If she thinks so, then even if I have to force it, I must find something to bring up!</thought></line>
 <line speaker="Phoenix">...I have an objection, Your Honor.</line>
 <line speaker="Edgeworth">Hmph. That was about the weakest objection I've ever heard, Mr. Wright.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! The defense has no intentions of letting this go so easily!</line>
 <line speaker="Judge">You are beginning to sound desperate...</line>
 <line speaker="Phoenix">That's just your imagination, Your Honor! Mr. Edgeworth. This is not like you at all.</line>
@@ -766,8 +766,8 @@
 <line speaker="Mia">Hey... Isn't that what I just said!?</line>
 <line speaker="Edgeworth">So, you're telling me that I forgot something?</line>
 <line speaker="Phoenix">You're so close, Mr. Edgeworth... But there's something you really should examine about this piece of evidence!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Well, Mr. Edgeworth...?</line>
 <line speaker="Edgeworth">Yes, I do believe some special examination is needed... But I think the item that should be examined is the defense's grey matter.</line>
 <line speaker="Phoenix">Whoops!</line>
@@ -784,18 +784,18 @@
 <line speaker="Andrews">Mr. Wright! You... Are you saying this suicide note is a fake!?</line>
 <line speaker="Phoenix">Ms. Andrews... You were the one who tried to pin this murder on Mr. Engarde. Who's to say you didn't create a fake "suicide note" and put it into this bear!?</line>
 <line speaker="Andrews">H-How dare you!?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor. The defense is indiscriminately accusing the witness again! There is no evidence linking the witness to the suicide note whatsoever!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But if this is a fake, then the witness is the only person who could have made it!</line>
 <line speaker="Edgeworth">What!?</line>
 <line speaker="Phoenix">Recall the witness' testimony concerning this figurine! The only person other than the victim who could solve the puzzle is the witness herself!</line>
 <line speaker="Andrews">Ahh!</line>
 <line speaker="Phoenix">Ms. Andrews! You wrote this note, didn't you? You wrote it so you could use it to frame Matt Engarde!</line>
 <line speaker="Andrews">I... I did no such thing!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Wright! If you're going to pronounce this suicide note a fake... Then show this court some evidence to support your theory!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Mr. Edgeworth! You were the one who presented this scrap of paper as evidence! That means the burden of proof lies with you, the prosecution!</line>
 <line speaker="Edgeworth">Uuugn!</line>
 <line speaker="Judge">That's enough! Mr. Edgeworth. Can you confirm the handwriting on this suicide note...?</line>
@@ -831,7 +831,7 @@
 <line speaker="Phoenix">Y-Yes, Your Honor.</line>
 <line speaker="Judge">I am about to end today's proceedings. You may take your phone calls after...</line>
 <line speaker="Phoenix">Hold on, Your Honor! Edgeworth! Catch!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">Mr. Edgeworth!?</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Gumshoe">Please! You've got to buy us some more time!</line>
@@ -843,7 +843,7 @@
 <line speaker="Judge">I am reluctant to do this, however... It appears that I have no choice but to suspend proceedings until tomorrow!</line>
 <line speaker="Phoenix"><thought>I... This time, I really can't do anything...</thought></line>
 <line speaker="Judge">Court is now adjourned for the day!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Please wait, Your Honor.</line>
 <line speaker="Phoenix"><thought>E-Edgeworth!?</thought></line>
 <line speaker="Judge">Wh-What is it, Mr. Edgeworth?</line>
@@ -897,10 +897,10 @@
 <line speaker="Phoenix">That's right! There is a way!</line>
 <line speaker="Edgeworth">What!? How!?</line>
 <line speaker="Phoenix">I'm sure we can find out where Detective Gumshoe is through this...!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Why are you bringing up Franziska at a time like... Oh, I see! I'll try to get in contact with her. The chances are slim, but she's all we have...</line>
 <line speaker="Phoenix"><thought>Franziska... Will she even want to help us...?</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">Wright, we're not in the middle of a mock trial here!</line>
 <line speaker="Phoenix">I guess this won't work, huh...?</line>
 <line speaker="Edgeworth">I guess it's up to me. Alright, I will think of something on my end. Don't get your hopes up too high, but I'll try my best.</line>
@@ -939,8 +939,8 @@
 <line speaker="Judge">Hmm... That does sound very plausible.</line>
 <line speaker="Phoenix"><thought>This theory that Engarde had no idea that the suicide note was fake... Something seems a little wrong with it...</thought></line>
 <line speaker="Phoenix">The defense believes that the theory the prosecution has stated contradicts testimony! If everything the prosecution has proven up to this point is true... Then it's impossible for Mr. Engarde to not have know it was a fake!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">Well, Mr. Edgeworth?? Your response?</line>
 <line speaker="Edgeworth">I believe that even more important than finding out if this note is real or not, is whether the attorney's badge pinned to that man's chest is real... That is the million dollar question!</line>
 <line speaker="Judge">Yes, I agree.</line>
@@ -1028,18 +1028,18 @@
 <line speaker="Judge">You mean about this "trust between his clients and himself" thing? Hmm, it seems to be a level of trust beyond what people like me can comprehend. ...Well, Mr. Wright? Are you ready to cross-examine the witness?</line>
 <line speaker="Phoenix">Yes, Your Honor.</line>
 <line speaker="Mia">There's no way to know what's coming next, so stay cool and collected, Phoenix.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">We can hear anything you have to say later. Can you please just tell us your client's...?</line>
 <line speaker="Phoenix">... S-Sorry... Go on...</line>
 <line speaker="Judge">Well, it appears this is one witness you can't badger, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>That's only because you don't know about Maya's situation...</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The trust between you and your client...?</line>
 <line speaker="Judge">And that is why you're testifying in this manner?</line>
 <line speaker="Phoenix">But couldn't someone stab you in the back and break your trust?</line>
 <line speaker="Phoenix">Y-Yes...?</line>
 <line speaker="Judge">Th-That's enough! Please, no more!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The trust between you and your client...?</line>
 <line speaker="Phoenix">I'm sorry, but I was wondering about something you just said. You said that your client had already "broken the rules"...</line>
 <line speaker="Phoenix">And that's why you feel you can betray this person?</line>
@@ -1048,17 +1048,17 @@
 <line speaker="Phoenix">Everyone understands your point, I think. Really.</line>
 <line speaker="Edgeworth">You have made it crystal clear that you value trust over all else. I believe we are ready.</line>
 <line speaker="Change statement">"It is my wish that you grasp this concept before I give the name of my client." to "Now then, I do believe it's about time I revealed the name of my client, don't you agree?"</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">That seems a little strange to me... I mean, you're about to tell us the name of your client. I would think that this would be very bad for them.</line>
 <line speaker="Judge">Their role...?</line>
 <line speaker="Judge">You... Who gave you the right to be so high and mighty...!?</line>
 <line speaker="Judge">Ah, no! No! I, uh, didn't say anything!</line>
 <line speaker="Phoenix"><thought>The judge had better watch himself...</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">We understand, so please tell us the name of your client!!</line>
 <line speaker="Phoenix"><thought>Aaargh! That egomaniacal...</thought></line>
 <line speaker="Phoenix"><thought>Somehow, that coming from an assassin makes it less than comforting...</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix"><thought>I don't really care about all this extra fluff. Just tell us the name already!</thought></line>
 <line speaker="Mia">Patience. Try to calm down a little. It's important to try and understand his mindset. He seems very steadfast and closed so you're going to have to work to get him to talk.</line>
 <line speaker="Phoenix"><thought>I'm not his therapist, you know...</thought></line>
@@ -1072,7 +1072,7 @@
 <line speaker="Phoenix">Whaaaaaaaaaaaaaaaaaaaaaaaa</line>
 <line speaker="Edgeworth">aaaaaaaaaaaaaaaaaaaaaaaaaaa</line>
 <line speaker="Judge">aaaaaaaaaaaaaaaaaaaaaat</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">W-Witness!! That's not who you told me it was earlier!</line>
 <line speaker="Phoenix">...!</line>
 <line speaker="Edgeworth">Whaaaaaaaat!?!? Th-This can't be! On the phone earlier...</line>
@@ -1081,7 +1081,7 @@
 <line speaker="Phoenix">Stabbed Edgeworth in the back...?</line>
 <line speaker="Mia">I'm sure in order to get an audience with this court, Mr. de Killer told him a different name... "Matt Engarde", perhaps...?</line>
 <line speaker="Phoenix"><thought>I knew it...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This... This is outrageous! I was deceived! This witness is telling a very serious lie!</line>
 <line speaker="Judge">B-But you were the one who summoned this witness!</line>
 <line speaker="Edgeworth">Grk! Grr... Y-You... Shelly de Killer...!</line>
@@ -1136,7 +1136,7 @@
 <line speaker="Judge">But... What shall we have him testify about now?</line>
 <line speaker="Edgeworth">Mr. de Killer. If you don't mind, please testify about your client in more detail.</line>
 <line speaker="Judge">Hmm... This is a most unexpected turn of events... For the... um, fifth time now...? However, this time, everything has finally been revealed.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Just a second, Your Honor!</line>
 <line speaker="Judge">Yes, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">We still have the cross-examination to do...</line>
@@ -1146,7 +1146,7 @@
 <line speaker="Phoenix"><thought>...Then I'll expose the lies in that oh-so-"beneficial" testimony, I suppose.</thought></line>
 <line speaker="Judge">I don't understand what's going on anymore...</line>
 <line speaker="Phoenix"><thought>That makes two of us...</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">What is it, Mr. Wright?</line>
 <line speaker="Phoenix"><thought>If I press him the wrong way, it might raise suspicions on his end... But I have to do something to waste more time...</thought> Um... Witness. About requesting a hit...</line>
@@ -1159,35 +1159,35 @@
 <line speaker="Phoenix">Whaaaat!? Why would you think something like that, Your Hon--</line>
 <line speaker="Judge">Guilty! MR. PHOENIX WRIGHT! You are hereby declared GUILTY!!</line>
 <line speaker="Edgeworth">...Witness. Let's continue... Why did you disclose the name of your client? They are your client, are they not?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I would think that most people wouldn't be able to overlook a person hiring another to kill.</line>
 <line speaker="Phoenix">Ah... Yeah... <thought>Well, a change in occupation might be good for you...</thought></line>
 <line speaker="Edgeworth">That goes without saying, Mr. de Killer.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you talking about the button and the knife?</line>
 <line speaker="Phoenix"><thought>Oh, this card...</thought></line>
 <line speaker="Judge">You try to make things easy...?</line>
 <line speaker="Phoenix"><thought>He's pretty devoted to his work...</thought></line>
 <line speaker="Phoenix"><thought>Hmm... It's really hard to tell if he's being truthful or not without him being here...</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you're saying most clients wouldn't do such a thing?</line>
 <line speaker="Phoenix">Ah, no! I already told you! I have no intention of ever using your services!</line>
 <line speaker="Judge">...</line>
 <line speaker="Phoenix"><thought>Why does he keep looking at me like I'm the one on trial here!?</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">From the very beginning?</line>
 <line speaker="Phoenix"><thought>I wonder if that's really true...</thought></line>
 <line speaker="Edgeworth">That's odd...</line>
 <line speaker="Phoenix">...?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So why do you think your client did that?</line>
 <line speaker="Phoenix">Well, fiddling around at the scene of the crime is pretty risky. And why would someone who has requested a murder go to the crime scene anyway?</line>
 <line speaker="Judge">Hmm, that is true.</line>
 <line speaker="Phoenix">If that's the case, then why didn't the person just request that you do it...?</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Judge">Hmm...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And that's all you have to testify?</line>
 <line speaker="Phoenix">"Again"...? As in you plan to continue?</line>
 <line speaker="Phoenix">Excuse me? Ah, no no no! I'm fine! Really!</line>
@@ -1212,19 +1212,19 @@
 <line speaker="Phoenix">...!</line>
 <line speaker="Mia">Phoenix. If De Killer figures out what we're up to, we're in real trouble!</line>
 <line speaker="Phoenix">Yeah, I know...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Mr. Edgeworth! I'm surprised! You know you can't say things like that without any evidence.</line>
 <line speaker="Edgeworth">Ah... Sorry.</line>
-<line speaker="Judge">... Th-That sounded like an awfully weak "<cutIn>Objection!</cutIn>" to me...</line>
+<line speaker="Judge">... Th-That sounded like an awfully weak "<cutIn type="objection">Objection!</cutIn>" to me...</line>
 <line speaker="Edgeworth">Anyway! I am positive there was a contradiction in that testimony. The prosecution requests further testimony concerning when the request was taken!</line>
 <line speaker="Phoenix"><thought>Right now, I have to buy us more time... While we wait for the items De Killer left behind to get here. I just know that the very outcome of this trial lies with those items!</thought></line>
 <line speaker="Judge">Hmm... So you physically met your client, huh?</line>
 <line speaker="Judge">I see... Well, Mr. Wright, your cross-examination, please.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">One week ago? Are you sure?</line>
 <line speaker="Phoenix">Please... stop...</line>
 <line speaker="Phoenix"><thought>A specific date and time...?</thought></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Did you ask why on that specific night?</line>
 <line speaker="Phoenix"><thought>Your suspicions, huh?</thought></line>
 <line speaker="Phoenix"><thought>Even if I ask about them, it would only be a guess.</thought> I see... That's fine then.</line>
@@ -1243,7 +1243,7 @@
 <line speaker="Edgeworth">Witness, please continue with your testimony.</line>
 <line speaker="Phoenix"><thought>What De Killer said sounds plausible, but... In the end, it's just his conjecture...</thought> No, Your Honor. I don't think it's very important.</line>
 <line speaker="Judge">Hmm... Well then, witness, please continue.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you physically met Adrian Andrews, right?</line>
 <line speaker="Phoenix"><thought>What was that?? What was with the brief pause...?</thought></line>
 <line speaker="Phoenix"><thought>It's probably just my imagination... I need to find something more definitive to catch this guy on!</thought> Can we believe that your testimony up to this point has been reliable?</line>
@@ -1273,13 +1273,13 @@
 <line speaker="Judge">Huh? Really?</line>
 <line speaker="Edgeworth">If that's the case... Witness, please include the statement just now in your testimony.</line>
 <line speaker="Add statement">"From the moment I saw him, I thought, "I can trust this person as a client.""</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">But as we now know, that was not how it turned out, correct?</line>
 <line speaker="Phoenix">Adrian Andrews turned out to be a client who couldn't stick to the rules, right?</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Edgeworth">So I would like to check one last time. Are you sure your testimony is accurate?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So your client was Adrian Andrews...?</line>
 <line speaker="Phoenix"><thought>Well, he says the two of them met... But if they did, then there shouldn't be anything wrong with De Killer's testimony...</thought></line>
 <line speaker="Edgeworth">...</line>
@@ -1311,7 +1311,7 @@
 <line speaker="Mia">Be careful, Phoenix. If you break the assassin's testimony completely, it's over for us.</line>
 <line speaker="Phoenix">I know... I can't make him suspicious. But... I think we're OK; like we can do this. <thought>As long as he's standing there across from me... No matter how strong of a punch I throw, he'll counter it...</thought></line>
 <line speaker="Judge">Now then, let's begin the cross-examination.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">But didn't you just say that you always meet your clients?</line>
 <line speaker="Phoenix">But didn't you meet your client this time?</line>
 <line speaker="Phoenix">Oh, come now. Let's stop with this game of cat and mouse.</line>
@@ -1322,7 +1322,7 @@
 <line speaker="Phoenix"><thought>We've come this far! I have to try to prove something here!</thought> Very well, I will show you proof.</line>
 <line speaker="Mia">Are you sure about this, Phoenix?</line>
 <line speaker="Phoenix">Here is the proof that the witness met with his client, who wished Mr. Corrida dead!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">So! What do you think!?</line>
 <line speaker="Phoenix">Oh... That's right, you can't actually see the evidence...</line>
 <line speaker="Phoenix"><thought>Argh! How could I have picked the wrong piece at a time like this!?</thought></line>
@@ -1330,14 +1330,14 @@
 <line speaker="Phoenix">I'm sorry, Your Honor. Unfortunately, I don't have any proof.</line>
 <line speaker="Judge">Hmm, I see. Then your line of questioning was just another waste of time.</line>
 <line speaker="Edgeworth">Sadly for us, Your Honor, that is the nature of Wright and wrong.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And why could you not meet certain clients?</line>
 <line speaker="Judge">Nice business opportunities?</line>
 <line speaker="Judge">Electronic mail? Do you have to mail that in a special insulated envelope?</line>
 <line speaker="Judge">... E-mail...?</line>
 <line speaker="Phoenix"><thought>In a contest of mimicry, the judge would beat a parrot, hands down...</thought></line>
 <line speaker="Edgeworth">*ahem* Anyway, so you took this job without having met your client, and...?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Two or three other things...?</line>
 <line speaker="Phoenix">And what were these "other things"?</line>
 <line speaker="Judge">Hmm...</line>
@@ -1358,7 +1358,7 @@
 <line speaker="Phoenix">You gave it to your "client"... Interesting.</line>
 <line speaker="Judge">Hmm... This information certainly sounds important to me. Witness, please include what you just stated in your testimony.</line>
 <line speaker="Add statement">"One of these was to find the bear figurine and to give it to Adrian Andrews."</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I found this figurine at Mr. Engarde's mansion. If you gave it to Ms. Andrews, then what was it doing there?</line>
 <line speaker="Judge">Hmm... That makes a lot of sense. Well, Mr. Wright? Do you have any problems with this piece of testimony?</line>
 <line speaker="Phoenix"><thought>It's no use... As long as I can't put my finger on the central problem here, pressing this witness any more would be extremely dangerous!</thought></line>
@@ -1373,16 +1373,16 @@
 <line speaker="Judge">Wh-What!?</line>
 <line speaker="Edgeworth">...</line>
 <line speaker="Phoenix"><thought>This is a battle of wits! I can't let up on him!</thought> I don't think it is possible for Ms. Andrews to have been the recipient of this bear!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">So! What do you think!?</line>
 <line speaker="Phoenix">Witness!</line>
 <line speaker="Phoenix">Mr. de Killer!</line>
 <line speaker="Phoenix">...Huh?</line>
 <line speaker="Phoenix">!</line>
 <line speaker="Phoenix">Urk!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you're saying that you never saw your client's face. Not even once?</line>
 <line speaker="Judge">Hmm. Yes, I see.</line>
 <line speaker="Judge">A mask?</line>
@@ -1395,7 +1395,7 @@
 <line speaker="Judge">Order! Order! Yes, now that you mention it, I do remember that...</line>
 <line speaker="Judge">Witness!</line>
 <line speaker="Phoenix">Huh?</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I'm sorry, but sadly, we are not nearly so generous here. If I could receive large rolls of cash by simply bringing people things on trays... Then why on Earth would I stand around here prosecuting!?</line>
 <line speaker="Phoenix"><thought>Oh, the déjà vu... And isn't his salary more than enough for one man...?</thought></line>
 <line speaker="Judge">Hmm... And where is your evidence that the large roll of cash was not in fact, a tip...? Come, Mr. Edgeworth. Show me the money!</line>
@@ -1427,7 +1427,7 @@
 <line speaker="Edgeworth">...</line>
 <line speaker="Phoenix">No! That's not...</line>
 <line speaker="Phoenix">W-Wait! Please!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">N...No... Please... Not that... Please wait...</line>
 <line speaker="Phoenix">Nnnngh... Gnwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!!</line>
 <line speaker="Judge">What in the...? Mr. Wright...? Are you...?</line>
@@ -1486,7 +1486,7 @@
 <line speaker="Judge">Your final... evidence!?</line>
 <line speaker="Judge">... This trial is already over. All that remains is for me to hand down my verdict. I do not believe that any evidence presented now, would change the outcome of this trial.</line>
 <line speaker="Phoenix"><thought>Wh-What!?</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor. It is our duty to examine every piece of evidence, down to the last. I request that Ms. von Karma be allowed to present these pieces of evidence!</line>
 <line speaker="Judge">Hmm... I suppose you are right, Mr. Edgeworth. I grant permission to do so. However, this one obvious rule applies here; If these items do not bring up any new points, then they will not be accepted by this court.</line>
 <line speaker="Phoenix">...!</line>
@@ -1520,7 +1520,7 @@
 <line speaker="Judge">I'm sure, were we under normal circumstances, these items from Shelly de Killer's hideout would be very important clues. However... Our question is not "Who did the killing?"</line>
 <line speaker="Edgeworth">It is, "Who is the client?"...</line>
 <line speaker="Judge">Yes, that is correct. And these three items do not tell us anything about that! Thank you for your hard work, Ms. von Karma. You may step down now.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Wait, Your Honor! Please allow me to examine this new evidence!</line>
 <line speaker="Judge">Overruled. This court already has all the evidence it needs to hand down a verdict!</line>
 <line speaker="Engarde">Wonderful... Absolutely splendid. This judge is such a brilliant man, isn't he?</line>
@@ -1546,7 +1546,7 @@
 <line speaker="Mia">The defense, prosecution, and the judge... We have seen all the pieces of evidence. And that is how we have come to know the "truth". But there are people who have not seen them all. And those people do not know the "truth". That truth... It may be what will bring about the miracle in the end.</line>
 <line speaker="Judge">There are no objections this time, correct? Now then, I will pronounce my verdict!</line>
 <line speaker="Engarde">Why don't we all respectfully sit back and listen, kids.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Judge">I have already told you, Mr. Wright. This court does not need any more evidence.</line>
 <line speaker="Phoenix">I am not saying it is us that needs the evidence, Your Honor!</line>
 <line speaker="Edgeworth">...!</line>
@@ -1557,17 +1557,17 @@
 <line speaker="Judge">Mr. Wright. For you to ask with such passion... I will grant you one chance.</line>
 <line speaker="Phoenix"><thought>O...One chance...</thought></line>
 <line speaker="Judge">Please show your evidence to who you think is the right person.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That's impossible! To turn this situation around in one try...</line>
 <line speaker="Judge">One try. That is all I will permit.</line>
 <line speaker="Phoenix"><thought>I have to try to remember... Everything that has happened up to this point... Think, Phoenix! Think! There must be a way to save Maya while taking Engarde down at the same time!</thought></line>
 <line speaker="Judge">Now then, Mr. Wright. Let's not waste any more time.</line>
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">Who would you like to show evidence to?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">I see. And now... Tell this court what one piece of evidence you would like to show this person!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... Well, what do you think, Mr. Edgeworth...?</line>
 <line speaker="Edgeworth">Uh... Um... I... don't have anything to say to this...</line>
 <line speaker="Judge">Hmm... How about you, Ms. von Karma?</line>
@@ -1704,7 +1704,7 @@
 <line speaker="Edgeworth">For my own personal victories... and for guilty verdicts... I used every dirty trick in the book. And so my win record remained spotless. But... A man appeared and stood fast against that selfish me. I fought him in my usual manner, and tasted my first defeat. I felt like I had lost everything because of that. And then... It was my turn to sit in the defendant's chair. And I was saved... by that person I called my "enemy"... I couldn't forgive myself for all that had happened. So I left the Prosecutor's Office. And I left that note... "Prosecutor Miles Edgeworth chooses death"...</line>
 <line speaker="Edgeworth">...But that was not what happened. After I left the Prosecutor's Office, I finally came to realize something. And it was in that moment of clarity that everything began to change.</line>
 <line speaker="Edgeworth">We prosecutors use anything we can to attack the defendant. But every time we did so...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">No matter how desperate the situation... instead of giving up like most people, that man would hold strong with his undying faith. And then, before I knew it... I began to trust in that man as well.</line>
 <line speaker="Edgeworth">It doesn't matter how many underhanded tricks a person uses... The truth will always find a way to make itself known. The only thing we can do is to fight with the knowledge we hold and everything we have. Erasing the paradoxes one by one... It's never easy... We claw and scratch for every inch. But we will always eventually reach that one single truth. This I promise you.</line>
 <line speaker="Pearl">The "truth"...</line>
@@ -1797,11 +1797,11 @@
 <line speaker="Phoenix">... I just want to say... Thanks, Edgeworth. You really saved me out there.</line>
 <line speaker="Edgeworth">...Hmph. If anyone should be saying thanks, it should be me, Wright.</line>
 <line speaker="Phoenix"><thought>I feel like words alone aren't enough here... I wonder if there's anything I can give him to express how I feel...?</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">What's this...?</line>
 <line speaker="Phoenix">Thank you... It's all thanks to you two. You... and her...</line>
 <line speaker="Edgeworth">...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">... What's this...?</line>
 <line speaker="Phoenix">Um... It's my way of saying thanks...</line>
 <line speaker="Edgeworth">... I... see... Well, it's the thought that counts...</line>
@@ -1828,7 +1828,7 @@
 <line speaker="Pearl">This is going to be the first time I hear the real you.</line>
 <line speaker="Maya">Go on! It's been a while since I heard you say it. I've been busy being a hostage and all.</line>
 <line speaker="Phoenix">... Alright then... If you say so.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">You really came through for me, Nick! I had to hide that letter, but I knew you'd find it. I really feel like I've been living on the edge lately. I mean, I've escaped death three times now! Pretty cool, huh? I feel like a pro!</line>
 <line speaker="Pearl">I'm so happy that you could save Mystic Maya, Mr. Nick! And I'm so happy for the two of you! Speaking of... I think this hotel is a popular place for honeymooners... So I sort of... made reservations for the two of you... Just in case...</line>
 <line speaker="Gumshoe">Well, pal. It looks like I'm back on the force again. Mr. Edgeworth had a long talk with the Chief, and he got me reinstated for my sake! I heard he said things like, "Letting that one go is bad for all of society." I knew it! Crashing headlong into everything is the only way to live, pal!</line>
@@ -1862,25 +1862,25 @@
 <line speaker="Edgeworth">You were going to use her during the trial, right? But you... You were "dependant" on your father by using his tactics. Isn't that right?</line>
 <line speaker="Edgeworth">Today, you chased after me, after I had left you behind all these years. And that's why we're standing here now, side by side.</line>
 <line speaker="Edgeworth">But I have no intention of stopping. If you say you are going to quit your walk down the prosecutor's path... ... Then, this is where we part ways, Franziska von Karma.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection denied.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection denied. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

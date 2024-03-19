@@ -1,6 +1,6 @@
 
-<line>The Cosmic Turnabout</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>The Cosmic Turnabout</title>
 <line speaker="Phoenix">In the middle of the Space Center bombing trial, we had another bombing incident. This one destroyed Courtroom No. 4. Furthermore, Apollo suffered massive injuries from being there when the bomb went off. Unfortunately, Juniper Woods was fingered as the courtroom bomber. Athena and I knew she had to be innocent, so we took her case on. We managed to clear Ms. Woods's name... ...but Apollo sustained further injuries when he was attacked by Ted Tonate.</line>
 <line speaker="Athena">Apollo is a tough guy, but this is all taking its toll on him.</line>
 <line speaker="Phoenix">Yeah. Poor guy, being attacked by Tonate like that on top of all his other injuries. <thought>Apollo is resting at the nearby Hickfield Clinic. I've had some experience with that place myself. What an awful turn of events. I never thought he'd land in a hospital of all places...</thought></line>
@@ -115,7 +115,7 @@
 <line speaker="Phoenix">Good idea. Let's go!</line>
 <line speaker="Phoenix">You went to visit Apollo in the hospital, right? How was he?</line>
 <line speaker="Trucy">He seemed to be doing well. He was doing his Chords of Steel exercises in his room.</line>
-<line speaker="Phoenix">Ha ha ha! I guess he's pretty gung-ho to get back to work. Was he shouting stuff like "<cutIn>Objection!</cutIn>" and "I'm fine!"?</line>
+<line speaker="Phoenix">Ha ha ha! I guess he's pretty gung-ho to get back to work. Was he shouting stuff like "<cutIn type="objection">Objection!</cutIn>" and "I'm fine!"?</line>
 <line speaker="Trucy">No... He was yelling... ..."Thank you for coming to visit me!" and "Thank you, doctor, for taking care of me!" ...and stuff like that.</line>
 <line speaker="Phoenix">...I guess those voice workouts can be pretty flexible.</line>
 <line speaker="Phoenix">Notice anything, Trucy?</line>
@@ -210,9 +210,9 @@
 <line speaker="Phoenix">Huh? What was that all about?</line>
 <line speaker="Athena">I thought I'd better get fired up twice as much, to make up for Apollo being gone! For starters, I thought I'd imitate him.</line>
 <line speaker="Phoenix">So you were doing a voice workout, huh?</line>
-<line speaker="Athena">Yup! You have to push your voice up from the pit of your stomach! <cutIn>Hold it!</cutIn> There's a contradiction in the witness's statement!</line>
+<line speaker="Athena">Yup! You have to push your voice up from the pit of your stomach! <cutIn type="holdIt">Hold it!</cutIn> There's a contradiction in the witness's statement!</line>
 <line speaker="Phoenix">You're really serious about this.</line>
-<line speaker="Athena"><cutIn>Objection!</cutIn> You are lying! The true culprit is... the judge!</line>
+<line speaker="Athena"><cutIn type="objection">Objection!</cutIn> You are lying! The true culprit is... the judge!</line>
 <line speaker="Phoenix">What?! Then who's going to hand down the verdict?</line>
 <line speaker="Athena">Oh. I didn't think of that.</line>
 <line speaker="Phoenix">So what do you think we should do next?</line>
@@ -820,7 +820,7 @@
 <line speaker="Phoenix">And he's even truly concerned about Prosecutor Blackquill, too.</line>
 <line speaker="Athena">Ha ha ha. I bet it annoys the dickens out of Prosecutor Blackquill, though.</line>
 <line speaker="Phoenix">I thought he was just parroting the words "In justice we trust," but he really means it.</line>
-<line speaker="Athena">I guess I should be careful to really mean it when I say "<cutIn>Objection!</cutIn>" too.</line>
+<line speaker="Athena">I guess I should be careful to really mean it when I say "<cutIn type="objection">Objection!</cutIn>" too.</line>
 <line speaker="Phoenix">You mean you sometimes say it for no reason?</line>
 <line speaker="Phoenix">Do you happen to know anything about this?</line>
 <line speaker="Athena">Huh? That?</line>

@@ -93,7 +93,6 @@
 <line speaker="Phoenix"><thought>Uh-oh. Now I've done it...</thought></line>
 <line speaker="Phoenix"><thought>I'd better hurry up and call the police!</thought></line>
 <line speaker="Maya">I'm sorry, I've never seen that before.</line>
-<line speaker="After examining telephone in Office and presenting Receipt to Maya Fey">*whee-ooo* *whee-ooo*... *whee-ooo* *whee-ooo*...</line>
 <line speaker="Phoenix">! The police! <thought>Sounds like they're coming this way!</thought></line>
 <line speaker="Gumshoe">Alright, I'm Detective Dick Gumshoe, see?</line>
 <line speaker="Phoenix"><thought>Gumshoe...? What an odd name.</thought></line>
@@ -213,7 +212,6 @@
 <line speaker="Maya">That detective took it when they brought me in.</line>
 <line speaker="Phoenix"><thought>So, Gumshoe took it... I'll have to try to get it back next time I see him...</thought></line>
 <line speaker="Maya">Sorry... I've never seen that before.</line>
-<line speaker="After clearing "Maya" and "Your cell phone" Talk options">Maya:</line>
 <line speaker="Phoenix">Huh? Something the matter?</line>
 <line speaker="Maya">Um... I was wondering, could I ask you a favor?</line>
 <line speaker="Phoenix">...?</line>
@@ -326,7 +324,6 @@
 <line speaker="Phoenix"><thought>I don't know how I feel, seeing everything written up like this... It makes Mia's death seem so... routine.</thought></line>
 <line speaker="Phoenix"><thought>Seems he didn't notice the recorded conversation...</thought></line>
 <line speaker="Gumshoe">Hmm? What's that? Sorry, pal, but I got no info for the likes of you!</line>
-<line speaker="After clearing "Mia" and "Maya" Talk options and presenting Maya's Memo">Phoenix:</line>
 <line speaker="Gumshoe">You all done, pal?</line>
 <line speaker="Phoenix">Um, yes, thank you. I'll be heading out now.</line>
 <line speaker="Gumshoe">Oh, wait. One more thing I wanted to mention to you. I don't suppose you're planning on talking to that witness. Anyway, you'd better not! No influencing the witness with your lawyerly ways, pal!</line>
@@ -463,7 +460,6 @@
 <line speaker="Maya">You don't mean... He refused to help?</line>
 <line speaker="Phoenix">Urp.</line>
 <line speaker="Maya">... I see. I've been abandoned, then.</line>
-<line speaker="After clearing "Your mother's enemy" Talk option">Maya:</line>
 <line speaker="Phoenix">... <thought>4:00 PM. Time's up. What should I do? Do I just leave her and go home...?</thought></line>
 <line speaker="Phoenix"><thought>There's nothing left here for me to do... She'll be better off with a state-appointed lawyer.</thought> I think I'd better get home now.</line>
 <line speaker="Maya">Good-bye.</line>

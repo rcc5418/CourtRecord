@@ -9,7 +9,7 @@
 <line speaker="Van Zieks">The address may have enjoyed fame once, My Lord, but will henceforth endure infamy for this grim crime.</line>
 <line speaker="Gregson">Y-Yes, sir! Well put. The victim, a certain Madam Rosie, was found asphyxiated on the accused's sofa.</line>
 <line speaker="Judge">My word...</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But it's unclear as to whether the victim was actually killed in the defendant's suite or not! After all, when Mr Sholmes left the room for only a brief moment... ...Madam Rosie somehow vanished herself out of his room completely!</line>
 <line speaker="Judge">Vanished herself, Counsel? The victim?</line>
 <line speaker="Sholmes">Quite true, My Lord. There is but one adjoining door between my drawing room and the kitchen. Yet having brewed some tea in the kitchen, I returned to find the room completely empty.</line>
@@ -40,12 +40,12 @@
 <line speaker="Sholmes">...Certainly not. In fact, the inspector has done an unusually fine job of summarising the salient points.</line>
 <line speaker="Judge">'Sholmes will be the death of me.' ...Damning departing words indeed.</line>
 <line speaker="Van Zieks">In her final moments, the victim named her killer. You! Mr Herlock Sholmes!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But the defendant had no reason to take the victim's life! Perhaps you could tell the court, Mr Sholmes, who exactly this Madam Rosie was?</line>
 <line speaker="Sholmes">Ah yes, of course. ...Did I never mention her to you? I'd extended an invitation to her that evening. Though she is loquacious in the extreme. The most trivial of matters quickly becomes a quarrel. I was only too pleased to leave her presence to make tea.</line>
 <line speaker="Ryunosuke">Great...</line>
 <line speaker="Van Zieks">It would appear then, that the accused did in fact have a motive for silencing his eristic guest...permanently.</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">Putting that tenuous motive aside, what about the other mysteries surrounding the case?</line>
 <line speaker="Judge">Hmmm... I'm inclined to agree with the defence. There remain a number of inscrutable details. The victim's alleged disappearance and subsequent reappearance leaving no trail of footprints, for example.</line>
 <line speaker="Ryunosuke">That's right! The crime described by the prosecution... could never have happened!</line>
@@ -57,11 +57,11 @@
 <line speaker="Sholmes">......... But of course. Were I to put my mind to the matter...the crime would immediately appear to all present to be entirely feasible.</line>
 <line speaker="Ryunosuke">Please, Mr Sholmes...whose side are you on? All you need to say is: 'No, even I can't think of a way that a crime like that could have been committed!'</line>
 <line speaker="Van Zieks">Let the accused's admission be noted by the court. Though the crime may appear impossible to us mortals of inferior mental capacity, this man alone... ...claims to know exactly how it was done!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">Now hold on! That's a very fragile argument!</line>
 <line speaker="Judge">Thank you, Counsels. I believe I've heard more than enough to proceed to my adjudication. The accused 'great detective' did, in some inscrutable manner, wilfully murder the victim, Madam Rosie. I therefore find the defendant...</line>
 <line speaker="Judge">Let this man be taken from this courtroom and, in some equally inscrutable manner, be sanctioned for his crimes! Court is adjourned!</line>
-<line speaker="Ryunosuke"><cutIn>Hold it!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Ryunosuke">My Lord...please... The truth about the mysteries surrounding this case... ...are known to another besides the great detective.</line>
 <line speaker="Van Zieks">What's this?</line>
 <line speaker="Sholmes">'Pon my word, Mr Naruhodo, you are coming along wonderfully. You've deduced a fundamental truth about this case, I believe.</line>
@@ -92,7 +92,7 @@
 <line speaker="Gregson">Eeeeeeeeeh?!</line>
 <line speaker="Sholmes">When you arrived at my address on Baker Street, you were carrying the half-dead Madam Rosie with you. You waited for a suitable opportunity, and then laid the victim on my sofa.</line>
 <line speaker="Judge">He did...WHAAAAAAAAAAAAAT?!</line>
-<line speaker="Ryunosuke"><cutIn>Objection!</cutIn></line>
+<line speaker="Ryunosuke"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ryunosuke">But we were with the inspector when he arrived. How could he possibly have been carrying the victim? We would have noticed!</line>
 <line speaker="Sholmes">My dear fellow, a most obvious answer presents itself, does it not? The inspector is rarely, if ever, without his overcoat. The victim was simply conveyed in one of its many pockets.</line>
 <line speaker="Ryunosuke">.........</line>

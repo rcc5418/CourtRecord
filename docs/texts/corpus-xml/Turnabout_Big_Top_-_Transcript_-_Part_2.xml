@@ -51,7 +51,7 @@
 <line speaker="Judge">A blunt object... Hmm... Very well... Mr. Wright, you may begin your cross-examination.</line>
 <line speaker="Phoenix">Yes, Your Honor.</line>
 <line speaker="Gumshoe">The night of the crime, snow was falling until 9:40 PM, making it extremely cold out.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Let me ask you about the snow...</line>
 <line speaker="Gumshoe">It was nearly a blizzard up until the time of the crime.</line>
 <line speaker="Phoenix">Did it pile up?</line>
@@ -60,7 +60,7 @@
 <line speaker="Maya">Eh? What's the matter? Nick?</line>
 <line speaker="Phoenix">I need to take a look at the Court Record...</line>
 <line speaker="Judge">Mr. Gumshoe, what were the members of the circus doing on the night of the crime?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Let me ask you about the snow...</line>
 <line speaker="Gumshoe">It was nearly a blizzard up until the time of the crime.</line>
 <line speaker="Phoenix">Did it pile up?</line>
@@ -69,26 +69,26 @@
 <line speaker="Maya">Eh? What's the matter? Nick?</line>
 <line speaker="Phoenix">I need to take a look at the Court Record...</line>
 <line speaker="Gumshoe">All of the circus performers gathered in the Big Top to practice their routines.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">When you say "all of the circus performers"... Who do you mean?</line>
 <line speaker="Gumshoe">Everyone but the dancers and staff were there. Regina the animal tamer, Moe the clown, Ben the Ventriloquist... And of course, the defendant, Maximillion Galactica, and his victim, the Ringmaster. Oh, I almost forgot... Regent the tiger was there as well.</line>
 <line speaker="Phoenix">Out of curiosity, what about the circus monkey?</line>
 <line speaker="Gumshoe">When I was investigating yesterday, he happened to snatch my wristwatch.</line>
 <line speaker="Judge">Detective, you are welcome to file a police report AFTER these proceedings!</line>
 <line speaker="Gumshoe">The practice session broke up around 10 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">After the practice was over, where did everyone head off to...?</line>
 <line speaker="Gumshoe">Regina was playing with Regent, while Moe went back to his room tired from work... Ben the ventriloquist went to the front gate absorbed in his own world... The Ringmaster and Max went off to the Ringmaster's room to talk privately.</line>
 <line speaker="Judge">Talk privately, huh? That's awfully suspicious... You wouldn't happen to know what they were talking about would you?</line>
 <line speaker="Gumshoe">It seems they were negotiating Max's salary...</line>
 <line speaker="Phoenix"><thought>Actually, Max was asking for Regina's hand in marriage!</thought></line>
 <line speaker="Gumshoe">The murder itself took place in the plaza in front of the lodging house at 10:15 PM.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">I'd like you to be a bit more specific about the events at 10:15 PM.</line>
 <line speaker="Gumshoe">Uh... Umm... OK... Not a problem, pal. We've got a witness that told us how the whole thing went down. OWWW!!</line>
 <line speaker="Judge">Hmm... Alright... We'll just have to revisit that testimony later. Detective Gumshoe, would you mind telling us how the victim met his end?</line>
 <line speaker="Gumshoe">The victim was found bent over a wooden box dead as a doornail.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">A "wooden box"?</line>
 <line speaker="Gumshoe">That's right. The victim must have been carrying the wooden box when he was killed.</line>
 <line speaker="Judge">Carrying the box, huh?</line>
@@ -117,7 +117,7 @@
 <line speaker="Phoenix"><thought>There was only one little bottle in that huge box...?</thought></line>
 <line speaker="Maya">I wonder if that has some sort of special meaning?</line>
 <line speaker="Gumshoe">The cause of death was blunt force trauma that snapped a vertebrae in his neck.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">According to the Autopsy Report, the murder weapon was a blunt object, correct?</line>
 <line speaker="Gumshoe">You've done your homework, pal.</line>
 <line speaker="Phoenix">And you haven't found this murder weapon, have you?</line>
@@ -127,7 +127,6 @@
 <line speaker="Maya">There wasn't much that we could go after Gumshoe with this time...</line>
 <line speaker="Phoenix">He gave us the facts, as he saw them. But there's gotta be more to this.</line>
 <line speaker="Maya">I didn't see anything... But that's why you're the lawyer and I'm the medium.</line>
-<line speaker="After pressing first and sixth statements and picking third choice at fifth statement">Judge:</line>
 <line speaker="Phoenix"><thought>I guess that's all we're gonna get out of Gumshoe in this case...</thought></line>
 <line speaker="Maya">You mean all we're gonna get out of him is that little bottle of pepper?</line>
 <line speaker="Gumshoe">Eh? I'm not even off the stand yet!</line>
@@ -159,20 +158,20 @@
 <line speaker="Judge">Hmm... Well done, Ms. von Karma. Your prosecutorial skills are unrivaled. Well done.</line>
 <line speaker="Phoenix">O-OK... <thought>I guess she's the boss again today...</thought></line>
 <line speaker="Trilo">Once practice was over, I left the tent with the stooge... I mean clown.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The clown... You're talking about Moe?</line>
 <line speaker="Trilo">Of course I'm talking about that old fart. He's so pathetic, I can't stand him! Just a little bit of exercise and his makeup is running all over the place... Once practice was over, he was 9/10ths of the way to keeling over for good...</line>
 <line speaker="Phoenix">Poor guy...</line>
 <line speaker="Trilo">We didn't have any choice, so Ben took him back to his room. When it comes to being a first place loser, that guy's ahead of the pack!</line>
 <line speaker="Judge">Hmm... Then what happened?</line>
 <line speaker="Trilo">Once we got to the lodging house, I ditched him and went over to the plaza.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What did you do then?</line>
 <line speaker="Trilo">I went over to the Plaza to do some thinking.</line>
 <line speaker="Phoenix">It was awfully cold out that night... Especially with all the snow around... Wouldn't thinking in your nice warm lodging house have been a better idea?</line>
 <line speaker="Phoenix"><thought>But I'm a good thunker* ([sic]</thought>! At least my teachers always said I was...)</line>
 <line speaker="Trilo">That's when I saw Max heading towards the scene of the crime.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you sure it was really Max Galactica?</line>
 <line speaker="Trilo">Of course I'm sure. How could you mistake someone wearing such a snobby 3 piece get-up!</line>
 <line speaker="Phoenix">Snobby 3 piece get-up?</line>
@@ -180,7 +179,7 @@
 <line speaker="Trilo">Thank you!</line>
 <line speaker="Maya">Nick, I think you should put a little bit more effort into preparing your questions...</line>
 <line speaker="Trilo">He was the only one heading that way... How could that punk not be the killer!?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You saw Max and only Max, right Trilo?</line>
 <line speaker="Trilo">That's right. And that makes him the killer! There was only one person headed that way that night.</line>
 <line speaker="Judge">Hmm... That makes quite a bit of sense and makes Max one suspicious character...</line>
@@ -196,32 +195,32 @@
 <line speaker="Trilo">What's strange!?</line>
 <line speaker="Phoenix">That you only saw Max... Doesn't it seem like you should have seen someone else as well?</line>
 <line speaker="Judge">What? Where are you going with this, Mr. Wright? Who else do you suppose this witness could have seen?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">That's the... victim...</line>
 <line speaker="Phoenix">That's correct. If Trilo was at the entrance to the plaza... He should have seen the Ringmaster as well! Ah-hah!</line>
 <line speaker="Phoenix">What are you talking about!? The Ringmaster and Max went together to the Ringmaster's room!</line>
 <line speaker="Phoenix">Ahh!!</line>
 <line speaker="Judge">I see... It seems that at this stage I have no reason to doubt this witness' testimony. And there are clearly no conclusive contradictions.</line>
 <line speaker="Phoenix">He's right...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">That's the... victim...</line>
 <line speaker="Phoenix">That's correct. If Trilo was at the entrance to the plaza... He should have seen the Ringmaster as well! Ah-hah!</line>
 <line speaker="Phoenix">What are you talking about!? The Ringmaster and Max went together to the Ringmaster's room!</line>
 <line speaker="Phoenix">Ahh!!</line>
 <line speaker="Judge">I see...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Trilo">...</line>
 <line speaker="Ben">...</line>
 <line speaker="Trilo">Don't hold your tongue Ben! It's your job to answer all the stupid questions.</line>
 <line speaker="Ben">I'm sorry Trilo...</line>
 <line speaker="Phoenix"><thought>I've gotta find a way to get more information out of this witness...</thought></line>
 <line speaker="Maya">Think about it some more Nick! I'm sure you'll come up with something!!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You saw Max and only Max that night?</line>
 <line speaker="Trilo">Jeez, you're persistent. You can ask all you want, my answer won't change! The only person I saw that night was Maximillion Galactica!</line>
 <line speaker="Phoenix"><thought>He really needs to improve his manners...</thought></line>
 <line speaker="Trilo">Then the police showed up, and took magic boy away.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Around what time did the police arrive at the scene?</line>
 <line speaker="Trilo">Hmm... I suppose that would have been around... Hey, what time was it!?</line>
 <line speaker="Ben">Huh!? Umm... I think it was around... I'd say a bit after 10:30 PM... I think...</line>
@@ -232,10 +231,10 @@
 <line speaker="Trilo">Will you shut up, you big nosed dope! Why are you telling him anything extra!? Why can't you believe that we'd just stand outside in that weather?</line>
 <line speaker="Phoenix">Well, maybe you were waiting for someone?</line>
 <line speaker="Trilo">W-W-W-W-WHAT!? WHO SAID WE WERE WAITING FOR SOMEONE!?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But! This witness! He's cracking under the pressure already! I'm on to something!</line>
 <line speaker="Judge">Hmm... Mr. Wright! Who do you suppose the witness was waiting for out in the cold that night?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, if he was waiting outside in the cold, it was for one person... And one person only! He was waiting for the animal tamer, Regina!</line>
 <line speaker="Trilo">WAAAAHHHH!!</line>
 <line speaker="Phoenix">You were waiting outside for Regina to come back to the lodging house. Am I mistaken?</line>
@@ -247,7 +246,7 @@
 <line speaker="Phoenix">Eh...</line>
 <line speaker="Judge">It seems that at this stage I have no reason to doubt this witness' testimony. And there are clearly no conclusive contradictions.</line>
 <line speaker="Phoenix">He's right...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Well, if he was waiting outside in the cold, it was for one person... And one person only! He was waiting for the animal tamer, Regina!</line>
 <line speaker="Trilo">WAAAAHHHH!!</line>
 <line speaker="Phoenix">You were waiting outside for Regina to come back to the lodging house. Am I mistaken?</line>
@@ -257,7 +256,7 @@
 <line speaker="Trilo">Who cares who I was waiting for that night! What's important is what I saw! Don't you forget it!!</line>
 <line speaker="Judge">Well well well... The puppet may be a bit stiff, but he's right.</line>
 <line speaker="Phoenix">Eh...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Trilo">...</line>
 <line speaker="Ben">...</line>
 <line speaker="Trilo">Don't hold your tongue Ben! It's your job to answer all the stupid questions.</line>
@@ -271,7 +270,7 @@
 <line speaker="Phoenix">Alright! There is obviously a reason why this witness was there that night! He spent all that time waiting for Regina to arrive! Moreover... Even if someone else would've walked right in front of him, I doubt he would have paid them a second thought!</line>
 <line speaker="Trilo">AHHHH!!</line>
 <line speaker="Judge">That makes perfect sense.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">However, he did not see the victim on the way to his eventual demise! If you accept that, then you must accept that there is a high likelihood that... He could have missed someone else other than Max heading to the scene! OWWW!!</line>
 <line speaker="Trilo">Umm... Umm... I guess you got me... Alright! Alright! I'll spill the beans for real this time! It's true. I was waiting for Regina.</line>
 <line speaker="Ben">PAIN!!</line>
@@ -291,13 +290,13 @@
 <line speaker="Judge">OK Mr. Wright... Please continue with your examination... *sigh*</line>
 <line speaker="Maya">Aww... Did you hear that? His sigh seemed a little wistful.</line>
 <line speaker="Trilo">Don't be so surprised that I was going to propose to Regina!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">By proposal, you mean proposing marriage, correct? To Regina.</line>
 <line speaker="Trilo">Of course that's what I meant! What kinda stupid question is that!? I wasn't going to propose that we become sort of outlaw biker gang together!! Right, Ben!?</line>
 <line speaker="Ben">Ye-Yeah...</line>
 <line speaker="Trilo">Got it!? That's the truth!</line>
 <line speaker="Trilo">I even had something to give to her...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What was it exactly that you planned on giving her?</line>
 <line speaker="Trilo">You know exactly what I was going to give her, numbskull! The only thing I could find that could match Regina's beauty!</line>
 <line speaker="Trilo">You're gonna die when you hear this... It's an engagement ring!!</line>
@@ -311,36 +310,36 @@
 <line speaker="Trilo">You sure do enjoy sweating the details, especially for a man in a black bath robe...</line>
 <line speaker="Change statement">"I even had something to give to her..." to "I planned on giving an engagement ring to Regina..."</line>
 <line speaker="Trilo">I planned on giving an engagement ring to Regina...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">An engagement ring...?</line>
 <line speaker="Trilo">Uh huh! It's actually a diamond shaped stone cut from glass! Even more brilliant than the real thing! I think Regina is going to love it!</line>
 <line speaker="Phoenix"><thought>It's just a ring...</thought></line>
 <line speaker="Maya">What's the matter, Nick?</line>
 <line speaker="Phoenix">Well... There's got to be something I can catch him on...</line>
 <line speaker="Trilo">I kept it in my pocket, waiting for the change to propose and give it to her.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Who's pocket was the ring in?</line>
 <line speaker="Trilo">Mine of course! What a stupid question!! You've got to be kidding me! You think Ben could pull that off!?</line>
 <line speaker="Ben">I-I'm s-s-sorry... R-R-Really...</line>
 <line speaker="Trilo">You don't have to apologize for that!! He's the one who should be apologizing!!</line>
 <line speaker="Phoenix"><thought>Really?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Trilo">Of course, I also had it in my pocket that night. It was a present for her.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you went to the lodging house to give it to her?</line>
 <line speaker="Trilo">That's right! I tried to give it to her during practice so many times that I lost count, but... That uppity snob kept getting in the way!</line>
 <line speaker="Max">Uppity snob!? He couldn't possibly be talking about me... Maximillion Galactica! When I get a hold of him, I'm gonna saw his wood block in half... And not with magic!!</line>
 <line speaker="Judge">...</line>
 <line speaker="Phoenix">Well... They always say that love creates rivalries.</line>
 <line speaker="Judge">So what about this present?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Trilo">In the end, I wasn't able to give it to her, so I've still got it in my pocket!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you are still thinking of trying to give it to Regina...?</line>
 <line speaker="Trilo">Of course I am! I spent three months salary on this thing! I'm not gonna give up that easily!</line>
 <line speaker="Maya">Hmm, I wonder how much he receives for appearing in the circus?</line>
 <line speaker="Phoenix">Probably way more than he deserves.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">How about it Nick?</line>
 <line speaker="Phoenix">I think it's time to unwrap this toy's testimony.</line>
 <line speaker="Maya">That's the spirit Nick! Give him heck!</line>
@@ -390,7 +389,7 @@
 <line speaker="Phoenix">The witness just testified to the following effect-- Up until the police arrived, he didn't move from the entrance to the plaza. HOWEVER! The witness just stated that he chased after Money the monkey. When the witness was off chasing Money, there was no one watching the plaza!</line>
 <line speaker="Phoenix">I'm saying that there is no possible way that this witness saw the plaza the entire time! That's where I'm going with this little theory! Which leads me to my next point. It is entirely possible that someone other than the defendant was at the scene!</line>
 <line speaker="Judge">Interesting Mr. Wright.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Well, he obviously didn't see the victim, the Ringmaster, arrive on the scene!</line>
 <line speaker="Phoenix">The witness is lying! He is blinded by his rivalry with Max!</line>
 <line speaker="Judge">Well... The defense's argument does hold water. This witness does have a history of animosity towards the defendant.</line>
@@ -410,18 +409,18 @@
 <line speaker="Ben">I suppose five minutes. I think...</line>
 <line speaker="Judge">Mr. Wright, please proceed with your cross-examination.</line>
 <line speaker="Trilo">I'll give you that I was waiting that night for Regina.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you were only concerned with waiting for Regina that night?  That means you probably wouldn't have noticed if someone else showed up.</line>
 <line speaker="Trilo">You should think about how many eyes I actually have. I've got four, you know! Four. F-O-U-R. Counting Ben of course... With that many eyes, do you really think something would have slipped by me?</line>
 <line speaker="Judge">Four eyes is an awful lot of attention directed at one area, I suppose...</line>
 <line speaker="Phoenix"><thought>Yikes! The judge is even more dangerous to our case than Trilo!</thought></line>
 <line speaker="Trilo">But that doesn't change the fact that I saw Max in the plaza that night!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you saw Max coming out of the Big Top that night?</line>
 <line speaker="Trilo">Of course that's where I saw him coming from! I was staring at the entrance to the tent the entire time!</line>
 <line speaker="Phoenix"><thought>I guess that makes sense, especially since he was waiting for Regina.</thought></line>
 <line speaker="Trilo">He showed up after I had been waiting there for about five minutes.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">About what time would you say these events took place?</line>
 <line speaker="Trilo">You're one of the dumbest people on the planet if you can't figure it out yourself! You already know that practice finished promptly at 10 PM! And you already know that I went to the lodging house right after practice! You don't need to be a brain surgeon to know around what time it was when I saw him... Just add ten more minutes! I'm sure you can do that! Now what time was it?</line>
 <line speaker="Judge">Indeed, what time was it?</line>
@@ -429,7 +428,7 @@
 <line speaker="Judge">Ahhh, yes. That sounds about right!</line>
 <line speaker="Trilo">It sounds about right because that's the time that I saw Max on the scene!</line>
 <line speaker="Trilo">I said "good evening" to him, but he didn't even acknowledge my presence!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So you testified that you said "good evening" to Max that night.</line>
 <line speaker="Trilo">You must enjoy asking incredibly obvious questions! You say "good morning" in the morning, and "good afternoon" during the day, right? And it's obvious that I'd say "good night" to someone at night!!</line>
 <line speaker="Ben">...</line>
@@ -453,13 +452,13 @@
 <line speaker="Judge">The witness will resume his testimony.</line>
 <line speaker="Phoenix">I hate to say it, but Ben's part of your little act is coming off a bit stale! I'm sure that if a pro was to review your work, he would say... OWWW!!</line>
 <line speaker="Phoenix">OW! OWWW! AWWWWWW! THAT HURTS!!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Trilo">I'm absolutely sure it was him! I saw Maximillion Galactica at the scene!!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You are 100% absolutely sure of what you just said?</line>
 <line speaker="Trilo">I told you already! Jeez!! I am 100% absolutely sure!</line>
 <line speaker="Trilo">There's no way I could mistake someone wearing those three ridiculous symbols!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Those three ridiculous symbols, huh?</line>
 <line speaker="Trilo">Out of curiosity, exactly how many times have you asked that question by now? If you're gonna ask again, I'll answer with a chorus... Everyone together now!</line>
 <line speaker="Judge">"SILK HAT!</line>
@@ -504,8 +503,8 @@
 <line speaker="Phoenix">If he had truly met Max that night, there would have been no greeting at all. Which means there is only one proper answer. The person the witness saw that night was not Maximillion Galactica. That is why Trilo made the effort to greet whoever it was that he saw that evening. Or "good evening" as he put it.</line>
 <line speaker="Trilo">Uhh...</line>
 <line speaker="Judge">Would the defense kindly explain who it was Trilo saw that evening then?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">This is the person that this witness felt the need to greet that night!</line>
 <line speaker="Judge">Hmm... How about it, Mr. Quist?</line>
 <line speaker="Trilo">How about you stop asking me these ridiculous questions! You can show me all the crappy pictures you'd like, there's not one I wouldn't greet!</line>
@@ -530,7 +529,7 @@
 <line speaker="Judge">I think it is high time that we clear the air about this question! Mr. Quist obviously witnessed a single person in the area of the plaza that evening. The problem is identifying exactly who that person was... Was it Maximillion Galactica? Or was it the Ringmaster, one Mr. Russell Berry?</line>
 <line speaker="Phoenix">Three symbols?</line>
 <line speaker="Trilo">Alright... This is getting old. C'mon man! You've gotta remember them by now!! Here we go again! Everyone... All together now!! OWWWWW!!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">A silk hat and a cloak! Anyone could wear them! They'd even look good on me!</line>
 <line speaker="Phoenix">Well, the witness has endlessly repeated that he saw Max's three symbols... However, how do we really know it was Maximillion Galactica? It could have been someone else, dressed up as him. Possibly even Russell Berry!</line>
 <line speaker="Judge">Ms. von Karma.</line>
@@ -602,7 +601,7 @@
 <line speaker="Phoenix">I understand Your Honor.</line>
 <line speaker="Phoenix"><thought>Why am I responsible!? I'm not the one with the corny jokes.</thought></line>
 <line speaker="Moe">The night of the murder, after practice was over, I went straight back to my room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You'd say that practice wrapped up around 10 PM correct?</line>
 <line speaker="Moe">See, that's the thing...</line>
 <line speaker="Phoenix">Huh?</line>
@@ -617,7 +616,7 @@
 <line speaker="Judge">Mr. Wright, you're hereby penalized! This will not become a kangaroo court!</line>
 <line speaker="Phoenix"><thought>This isn't funny at all... In more ways that* ([sic]</thought> one...)</line>
 <line speaker="Moe">You have no idea how tired I was that night. I was pooped.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You were "pooped" that night?</line>
 <line speaker="Moe">Yes. I was very very tired... Not to mention I had some bad Mexican food.</line>
 <line speaker="Phoenix">What?</line>
@@ -625,7 +624,7 @@
 <line speaker="Phoenix">That joke was so hip, I don't want to ruin it with a reply.</line>
 <line speaker="Judge">I've got a good reply though. That joke was so funny it just earned you a penalty!</line>
 <line speaker="Moe">I thought I'd go straight to sleep, but before I did, I glanced out the window.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You just happened to glance out of the window?</line>
 <line speaker="Moe">You could say that. You could also say I peeked, stared, glimpsed, peeped, eyeballed...</line>
 <line speaker="Judge">Mr. Curls!!</line>
@@ -645,20 +644,20 @@
 <line speaker="Judge">Hmm... Very well. Mr. Curls. Please revise your testimony.</line>
 <line speaker="Phoenix"><thought>This should start turning the tables in our favor!</thought></line>
 <line speaker="Moe">I heard a huge noise outside the window, and that's what made me take a look outside...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">What was the sound like?</line>
 <line speaker="Moe">Well... I guess it kinda sounded like... Hmm... I guess you could say...</line>
 <line speaker="Judge">Mr. Curls. May the court remind you that humor is unnecessary.</line>
 <line speaker="Moe">Doh! How'd you know that I was gonna make a joke! Aha! Aha! Aha! Aha! Aha! I guess that the sound sounded like a... I suppose it sounded like someone getting hit with something very hard... Yep. That's what it sounded like. Honestly.</line>
 <line speaker="Judge">"Someone getting hit..." huh?</line>
 <line speaker="Moe">That's when I saw two silhouettes! They were a bit far away though!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Far away you say... If you had to say exactly, how far away were they?</line>
 <line speaker="Moe">Let me think about that for a second... If my room is here... And they looked about yay-big... I'd say they were about 30 feet from my window.</line>
 <line speaker="Moe">It was snowing that night, and it cut down on visibility.</line>
 <line speaker="Judge">I see. Please continue with your testimony regarding the two shadows that you saw.</line>
 <line speaker="Moe">It was the Ringmaster, and he was with Max, who was wearing his cloak!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You'd say you clearly saw this? Even though you were, by your own admission, far away?</line>
 <line speaker="Moe">That's right. I had been thinking about it over and over since that night, but things didn't really make sense until I spoke with the prosecutor, Ms. von Karma. But now I am 100% certain that it was Max and the Ringmaster that I saw that night. Just think about it? How could I be wrong if Max is always wearing his uppity symbols?</line>
 <line speaker="Phoenix">Uppity symbols?</line>
@@ -666,7 +665,7 @@
 <line speaker="Moe">... See what I mean!! It's always like this! The crown never wants to go along with me! I must really be utterly and completely worthless as a clown... Yeowza!</line>
 <line speaker="Judge">Will the witness please testify as to what he saw... And only what he saw!</line>
 <line speaker="Moe">I kept watching them, and all of a sudden, Max clonked the Ringmaster over the head!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You say you saw the Ringmaster get "clonked" over the head!?</line>
 <line speaker="Moe">Yes I did!! It's the climax of my story!</line>
 <line speaker="Phoenix"><thought>He really does enjoy the completely random non sequitur...</thought> What would you say the victim was struck with?</line>
@@ -731,27 +730,27 @@
 <line speaker="Phoenix">He said he wasn't there. We have to keep believing that.</line>
 <line speaker="Judge">Alright, Mr. Wright. Commence your cross-examination.</line>
 <line speaker="Moe">I was a bit far away, but that shadow could only have belonged to Max.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Don't you think that you are going a little overboard with how explicit you're being? 'That shadow belonged to Max' is an awfully firm statement, don't you think?</line>
 <line speaker="Moe">What are you getting at...?</line>
 <line speaker="Phoenix">I'm just saying that one of your fellow performer's life is on the line here. Are you truly, 100% absolutely certain that it was Max?</line>
 <line speaker="Moe">... I'm not the kind of person who would lie about something as serious as this! The silhouette I saw was Max. I'm convinced of that.</line>
 <line speaker="Phoenix"><thought>It doesn't seem like he is jumping to any conclusions this time...</thought> Let's go over this again then. What makes you so sure that you saw Max that night?</line>
 <line speaker="Moe">There's no doubting it. Especially since I saw his uppity symbols.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Trilo said the same thing. But if it was just the symbols, then even I could have been wearing them. What if someone had just taken Max's symbols and worn them?</line>
 <line speaker="Moe">I thought of that myself. But just looking at the shape of the face I saw, it must have been Max.</line>
 <line speaker="Judge">Hmm... You're sure of that!?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Moe">His silk hat. That black cloak. They were all there!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You're sure that is what you saw that night?</line>
 <line speaker="Moe">Exactly what I said I saw is exactly what I saw. I've got eyes like a hawk!</line>
 <line speaker="Phoenix"><thought>Umm... Don't birds have terrible night vision?</thought></line>
 <line speaker="Moe">But that's not all I saw!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Moe">His face was silhouetted, but there was no doubt that it was him.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You were able to see that kind of detail from your window?</line>
 <line speaker="Phoenix">Out of curiosity Moe, what is your eyesight like?</line>
 <line speaker="Moe">I can see like a hawk out of my left eye, and an eagle out of my right eye...</line>
@@ -759,7 +758,7 @@
 <line speaker="Judge">Hmm... The more we look into this matter, the more suspicious it becomes.</line>
 <line speaker="Moe">Hey! You asked me what my eyesight was like, not what it actually was!</line>
 <line speaker="Moe">His cloak was fluttering in the wind, so I couldn't really see what he was carrying.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, you didn't actually see what the criminal was holding?</line>
 <line speaker="Moe">That's correct. I've been curious to know what caused that loud noise... It must have been something incredibly hard.</line>
 <line speaker="Phoenix"><thought>Too bad they haven't found the murder weapon to know for sure...</thought></line>
@@ -780,7 +779,7 @@
 <line speaker="Judge">Order! Order!</line>
 <line speaker="Phoenix">Moe! You didn't see the roses, did you!?</line>
 <line speaker="Moe">To be honest... There wasn't any roses on the person I saw...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">But the witness said he was able to see the silhouette of the criminal's face. Not to mention that the roses are white! There's no way he could have missed them!</line>
 <line speaker="Phoenix">If that was the case, then the police would have found them near the crime scene!</line>
 <line speaker="Judge">Mr. Wright! Are these white roses truly material to the facts of this case?</line>
@@ -803,34 +802,34 @@
 <line speaker="Judge">I will not allow even the slightest hint of badgering against this witness. If you are going to prove to me there's a contradiction with Mr. Curls' statement, you'd better have at least a shred of evidence to back up your accusations.</line>
 <line speaker="Phoenix"><thought>I've only got a single shot as* ([sic]</thought> this... I've got to be careful.) I understand, Your Honor. One chance is all I will need!</line>
 <line speaker="Moe">There's no doubt in my mind! There were no white roses that night!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Moe... Be honest... OWWW!!</line>
 <line speaker="Phoenix">Ungh... I'm finished...</line>
 <line speaker="Judge">Umm... Excuse me. I'm the one handing out the pen-- OWWW!!</line>
 <line speaker="Moe">You're not going to whip me too, are you?</line>
 <line speaker="Moe">But isn't it kinda pointless if you only whip me after court?</line>
 <line speaker="Moe">However, all of the other symbols were there... I'm equally sure of that.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Moe... Be honest... OWWW!!</line>
 <line speaker="Phoenix">Ungh... I'm finished...</line>
 <line speaker="Judge">Umm... Excuse me. I'm the one handing out the pen-- OWWW!!</line>
 <line speaker="Moe">You're not going to whip me too, are you?</line>
 <line speaker="Moe">But isn't it kinda pointless if you only whip me after court?</line>
 <line speaker="Moe">Especially the silk hat! There is no way I could forget seeing the decorations on it!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Moe... Be honest... OWWW!!</line>
 <line speaker="Phoenix">Ungh... I'm finished...</line>
 <line speaker="Judge">Umm... Excuse me. I'm the one handing out the pen-- OWWW!!</line>
 <line speaker="Moe">You're not going to whip me too, are you?</line>
 <line speaker="Moe">But isn't it kinda pointless if you only whip me after court?</line>
 <line speaker="Moe">He was wearing it the entire time that he was on the scene!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Moe... Be honest... OWWW!!</line>
 <line speaker="Phoenix">Ungh... I'm finished...</line>
 <line speaker="Judge">Umm... Excuse me. I'm the one handing out the pen-- OWWW!!</line>
 <line speaker="Moe">You're not going to whip me too, are you?</line>
 <line speaker="Moe">But isn't it kinda pointless if you only whip me after court?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Maya">Whaddya think, Nick?</line>
 <line speaker="Phoenix">There's no way I'm going to lose after coming this far. There's gotta be an answer. And it's probably in the Court Record!</line>
 <line speaker="Phoenix">This wouldn't happen to be the silk hat you saw that night, would it?</line>
@@ -859,15 +858,15 @@
 <line speaker="Moe">Whaddya want!?</line>
 <line speaker="Phoenix">You just said that he left the scene... Exactly how did the murderer leave the scene of the crime?</line>
 <line speaker="Moe">WHAT!? He... Umm... He... Went... Whaddya mean "how did he leave the scene"? You can't ask me that!!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This witness' testimony is so full of holes, Ms. von Karma's protest is useless!</line>
 <line speaker="Judge">You've got a point. Let's hear what the witness has to say on this matter. Is that alright with you, little guy?</line>
 <line speaker="Moe">Don't talk to me like I'm a little baby!! Besides, what kind of stupid question is "how did he leave the crime scene!?" The answer's obvious! He just turned around and walked away!!</line>
 <line speaker="Phoenix">That's what I expected you'd say... You sure that's how it happened?</line>
 <line speaker="Moe">Hmph!!</line>
 <line speaker="Judge">Huh? I'm not sure I know exactly where you're going with this... Lawyers nowadays sure do love to harp on the smallest things. Do you have any proof to counter his story as to how the criminal left the scene?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">How about this!?</line>
 <line speaker="Judge">This isn't your idea of a joke is it, Mr. Wright?</line>
 <line speaker="Moe">You're not going to get paid for that one.</line>
@@ -930,25 +929,25 @@
 <line speaker="Maya">Nick! What do we do now!?</line>
 <line speaker="Phoenix">All we can do now is hope we find the flying criminal in court tomorrow.</line>
 <line speaker="Maya">Great idea! Let's do our best and catch this sucker!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection denied.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection denied. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

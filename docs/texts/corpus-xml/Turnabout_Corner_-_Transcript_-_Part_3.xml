@@ -95,7 +95,6 @@
 <line speaker="Trucy">It's scary to think that a surgeon might make a mistake... ...but it's even scarier when he tries to hide it!</line>
 <line speaker="Apollo"><thought>I'd like to know a little more about this "operation". Maybe it's time to pay the Meraktis Clinic a visit.</thought></line>
 <line speaker="Alita">I'm sorry, I don't know much about the case. I... I feel so helpless. You're my only hope. Please, help my Wocky-Pocky...</line>
-<line speaker="After clearing all Talk options">Alita:</line>
 <line speaker="Apollo">R-R-Right! L-L-L-Leave it to me!</line>
 <line speaker="Trucy">Apollo, I think you're only making her more nervous...</line>
 <line speaker="Apollo">Sorry! I'm new at this, OK?</line>
@@ -143,7 +142,7 @@
 <line speaker="Apollo">A trash can sits next to the path here.</line>
 <line speaker="Trucy">And I guess now we know it was Mr. Stickler who hid Little Plum's bloomers here, huh?</line>
 <line speaker="Apollo">That's right, Trucy. And what a web of lies grew from that one little act.</line>
-<line speaker="Trucy">I can still remember that moment... You brandished those bloomers on high, and shouted... "<cutIn>Objection!</cutIn>"</line>
+<line speaker="Trucy">I can still remember that moment... You brandished those bloomers on high, and shouted... "<cutIn type="objection">Objection!</cutIn>"</line>
 <line speaker="Apollo">...Here's what I want you to do, Trucy. Take that memory, gently lock it away deep in your heart, and never speak of it.</line>
 <line speaker="Apollo">The front entrance to the Meraktis Clinic. The walls and posts are so highly polished I can see my face in them. ...Wait. My hairdo's a little flat. ...There. Perfect.</line>
 <line speaker="Apollo">A lone Eldoon's Noodles bowl lies on the ground. The lone bowl, tipped on its side... It's kind of surreal. You'd think he would have picked it up by now.</line>
@@ -342,7 +341,6 @@
 <line speaker="Apollo"><thought>I guess...</thought></line>
 <line speaker="Guy">Until that stand is back home, the case is not closed! You hear me!?</line>
 <line speaker="Apollo"><thought>I think I'll avoid talking about his stand in the future.</thought></line>
-<line speaker="After switching to right side view">Trucy:</line>
 <line speaker="Apollo">Yeah, but what about the guard?</line>
 <line speaker="Trucy">No harm in asking! Um, excuse me!</line>
 <line speaker="Officer">Hey, it's you two from yesterday!</line>
@@ -571,8 +569,8 @@
 <line speaker="Trucy">Something's familiar about that smooth surface... so smooth it's almost slippery.</line>
 <line speaker="Ema">...Well, if you think of something, I'm all ears.</line>
 <line speaker="Apollo"><thought>I'm pretty sure I've seen something that would leave a print like that.</thought> You know, I think I have our culprit right here...</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ema">... Know what I'm eating?</line>
 <line speaker="Apollo">Um... Snacks?</line>
 <line speaker="Ema">Snacks. More precisely, whenever I'm in a bad mood, I eat chocolate Snackoos.</line>
@@ -771,8 +769,8 @@
 <line speaker="Apollo">Well, I have an idea...</line>
 <line speaker="Trucy">I knew it, Apollo! What is it?</line>
 <line speaker="Apollo"><thought>Well... All we have to know is what buttons have been pressed!</thought> We can use this to find out what the next two numbers are!</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Trucy">... I'm not sure how that's going to help us.</line>
 <line speaker="Apollo"><thought>Neither am I, come to think of it...</thought></line>
 <line speaker="Trucy">If only there was something that could finger which buttons had been pressed!</line>
@@ -863,7 +861,7 @@
 <line speaker="Apollo">I think I just might, actually.</line>
 <line speaker="Ema">Really!?</line>
 <line speaker="Apollo"><thought>I'm beginning to suspect something here...</thought> Detective Skye! Can you compare this sample with this other print?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ema">...</line>
 <line speaker="Apollo">What's with the scowl?</line>
 <line speaker="Trucy">It's got a toe print on it, doesn't it?</line>
@@ -873,8 +871,8 @@
 <line speaker="Apollo"><thought>I'd better stop messing up or I'm gonna get struck down by lightning from the Skye.</thought></line>
 <line speaker="Ema">Try again! And... try scientifically, please.</line>
 <line speaker="Apollo"><thought>Hmm, another toe print. Right!</thought></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ema">... I did say "toe print" sample, didn't I? Where exactly is the toe print on this evidence!?</line>
 <line speaker="Apollo"><thought>Oops. Stormy Skyes ahead...</thought></line>
 <line speaker="Ema">Try again. Scientifically this time, if you would.</line>
@@ -912,8 +910,8 @@
 <line speaker="Apollo">I think I just might, actually.</line>
 <line speaker="Ema">Really!?</line>
 <line speaker="Apollo"><thought>I'm beginning to suspect something here...</thought> Detective Skye! Can you compare this sample with this other print?</line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ema">...</line>
 <line speaker="Apollo">What's with the scowl?</line>
 <line speaker="Trucy">It's got a toe print on it, doesn't it?</line>
@@ -923,7 +921,7 @@
 <line speaker="Apollo"><thought>I'd better stop messing up or I'm gonna get struck down by lightning from the Skye.</thought></line>
 <line speaker="Ema">Try again! And... try scientifically, please.</line>
 <line speaker="Apollo"><thought>Hmm, another toe print. Right!</thought></line>
-<line speaker="Apollo"><cutIn>Take that!</cutIn></line>
+<line speaker="Apollo"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ema">... I did say "toe print" sample, didn't I? Where exactly is the toe print on this evidence!?</line>
 <line speaker="Apollo"><thought>Oops. Stormy Skyes ahead...</thought></line>
 <line speaker="Ema">Try again. Scientifically this time, if you would.</line>

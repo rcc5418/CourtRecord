@@ -1,6 +1,6 @@
 
-<line>Turnabout Academy</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Academy</title>
 <line speaker="Athena">Oh, no! I'm gonna be late! *huff* *puff* Whew, finally. So, this is it... the illustrious Themis Legal Academy. <thought>This is the place where many distinguished lawyers and prosecutors got their start. When news spread that Mr. Wright had gotten his attorney's badge back... ...he received a call from this school, asking him to pay a visit. Mr. Wright brought us along, hoping we'd learn something from the experience. But no, I had to go and blow it by getting here thirty minutes late. At least it's not all business today! After all, today's their school festival!</thought></line>
 <line speaker="Athena"><thought>Wow! This place has school festival written all over it... literally! But why all the cold stares? Is it because everyone's in a school uniform except me? Well, I like the way I dress! Wonder where Mr. Wright and Apollo are?</thought></line>
 <line speaker="Athena"><thought>Sounds like a mock trial is about to start, but where's this Lecture Hall? Looks like all the students and faculty are heading that way. Might as well join them. Maybe I'll find Mr. Wright and Apollo there!</thought></line>
@@ -35,7 +35,7 @@
 <line speaker="Athena"><thought>Oh, so that's who's late.</thought></line>
 <line speaker="Means">From what I've heard, our esteemed Mr. Wright here... ...is scheduled to hold a training seminar tomorrow, in addition to today's lecture.</line>
 <line speaker="Athena">A training seminar? For lawyers? What exactly does that involve?</line>
-<line speaker="Means">Why, it involves the very skills that make a lawyer, a lawyer! The arm angle when shouting, "<cutIn>Objection!</cutIn>" The proper way to strike the podium... How to project one's voice... And most importantly, how to bluff your way to victory!</line>
+<line speaker="Means">Why, it involves the very skills that make a lawyer, a lawyer! The arm angle when shouting, "<cutIn type="objection">Objection!</cutIn>" The proper way to strike the podium... How to project one's voice... And most importantly, how to bluff your way to victory!</line>
 <line speaker="Phoenix">Huh? Um, who exactly do you want me to teach stuff like that to again?</line>
 <line speaker="Means">What a wonderful question. You just earned yourself a gold star! The great honor of taking a seminar by a famous lawyer and a famous prosecutor... That is what is at stake in the mock trial, the crown jewel of the school festival.</line>
 <line speaker="Means">The mock trial in question is a prestigious event that every student aspires to win. The top student in the lawyer course and the top student in the prosecutor course... ...face off in a simulated court case set in this very school! As for the case itself... ...we select the best script written by a judge course student and base our case on that!</line>
@@ -128,7 +128,6 @@
 <line speaker="Phoenix">Yeah. The professor was probably tied up with something.</line>
 <line speaker="Athena">Eventually, her wrists were unbound, and as she reached up to stretch, she was killed? ...Actually, I'm not so sure about this theory...</line>
 <line speaker="Phoenix">Um... Well, there's not exactly a lot to go on...</line>
-<line speaker="After examining arrow and planner">Athena:</line>
 <line speaker="Phoenix">Nice work, Athena. Your face only turned five shades of pale. I was expecting fifty. We should probably take a picture of the crime scene, just in case.</line>
 <line speaker="Athena">Okay, I'm on it! Say cheese!</line>
 <line speaker="Phoenix">Cheese? And I thought I was the one with the twisted sense of humor.</line>
@@ -149,7 +148,6 @@
 <line speaker="Athena">B-B-But, we're talking about my friend Junie here! She'd never lead guys on like that!</line>
 <line speaker="Phoenix">Athena, you don't believe everything you read, do you? This article is clearly written with malicious intent. I'm not buying a word of it.</line>
 <line speaker="Athena">Y-You're right. But it's still disturbing, even if it's third-rate tabloid material.</line>
-<line speaker="After examining broken statue and newspaper">???:</line>
 <line speaker="Athena">Oh, here comes Apollo! I've never seen anyone move so fast!</line>
 <line speaker="Apollo">*huff*... *huff*... Listen! Something big's happened! I was at the mock trial when the police announced a body had been found on campus!</line>
 <line speaker="Phoenix">That's right. And we're the ones who phoned it in. We found Prof. Courte dead behind the witness stand over there.</line>
@@ -289,7 +287,7 @@
 <line speaker="Fulbright">Now, if you'll excuse me, I have work to do.</line>
 <line speaker="Athena">............</line>
 <line speaker="Athena">Anime cutscene</line>
-<line speaker="Athena"><cutIn>Hold it!</cutIn> I refuse to believe that she's the killer! Junie! I've decided, I'm going to defend you! I'll fight with everything I've got!</line>
+<line speaker="Athena"><cutIn type="holdIt">Hold it!</cutIn> I refuse to believe that she's the killer! Junie! I've decided, I'm going to defend you! I'll fight with everything I've got!</line>
 <line speaker="Woods">Th-Thena...</line>
 <line speaker="Athena">Junie... It's good to hear you say that name again.</line>
 <line speaker="Fulbright">Hate to interrupt your bonding time, but... Aren't you rather new to all this? You're barely even a lawyer!</line>
@@ -399,7 +397,6 @@
 <line speaker="Apollo">Apollo:</line>
 <line speaker="Klavier">Klavier:</line>
 <line speaker="Apollo">Yikes... It's almost scary how similar this whole case is to the mock trial proceedings.</line>
-<line speaker="After clearing all Talk options">Klavier:</line>
 <line speaker="Athena"><thought>Sounds like he has only high praise for Junie's script.</thought></line>
 <line speaker="Klavier">Were there any further arguments from the defense?</line>
 <line speaker="Apollo">Nope. It seemed like the teacher who was playing the judge was satisfied, too.</line>
@@ -742,7 +739,6 @@
 <line speaker="Athena">Ugh. We're going to have cross-examine [sic] her tomorrow, but I don't know where to start.</line>
 <line speaker="Apollo">Well, let's at least take care of whatever we can today.</line>
 <line speaker="Athena">You're right. Let's see what else we can find out!</line>
-<line speaker="After talking to Hugh O'Conner, Robin Newman, and Myriam Scuttlebutt">Athena:</line>
 <line speaker="Apollo">Okay, maybe it's about time we wrapped up our investigation.</line>
 <line speaker="Athena">...Oh, wait. We haven't met with Junie yet.</line>
 <line speaker="Apollo">Yeah, you're right.</line>
@@ -797,7 +793,6 @@
 <line speaker="Woods">Yes, that's what it's all about! The friendship between the three of us is absolute!</line>
 <line speaker="Apollo">Athena, it's obvious that they're friends, so let's leave it at that.</line>
 <line speaker="Athena">Yes, I know that, but... <thought>Her words seem kind of forced.</thought></line>
-<line speaker="After clearing all Talk options">Woods:</line>
 <line speaker="Athena">We'll do everything we can to prove you innocent tomorrow.</line>
 <line speaker="Woods">I know. And I believe in you, Thena. Well, I should go now. Bye.</line>
 <line speaker="Apollo">Is she gonna be all right? She's like a shadow of the girl we met back at the academy.</line>

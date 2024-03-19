@@ -61,7 +61,7 @@
 <line speaker="Judge">Mr. Wright, your cross-examination, please.</line>
 <line speaker="Mia">My aunt is a very smart and sly person. It's going to be hard for us to find a crack in her testimony...</line>
 <line speaker="Morgan">After we heard the gunshots, those two broke the door open and entered the Chamber.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Just now, you said, "those two." Who were the two people you were referring to?</line>
 <line speaker="Morgan">I was referring to that foreign lady and yourself, good sir.</line>
 <line speaker="Phoenix">Um, Lotta's not a foreigner... despite how she talks...</line>
@@ -71,7 +71,7 @@
 <line speaker="Phoenix">Oh, uh, thanks.</line>
 <line speaker="Judge">Hmm... What did you do after that, Ms. Fey?</line>
 <line speaker="Morgan">I requested that Mr. Wright and the other lady please contact the police.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was it really necessary to have two people do something so simple as call the police? If there was a possibility of escape, then one of us should have stayed behind!</line>
 <line speaker="Judge">Hmm, yes. That is a very good point.</line>
 <line speaker="Morgan">At that time, I, myself, was a little confused. On top of which, there was another...</line>
@@ -91,7 +91,7 @@
 <line speaker="Phoenix"><thought>The last bit of her sentence sounds like a red herring... If that's the case, I'm not going to fall into her trap today.</thought></line>
 <line speaker="Judge">If the defense has no further questions, let us press on.</line>
 <line speaker="Morgan">A pistol was hanging from Mystic Maya's hand and she was in a daze...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">During our investigation, you stated that you struck the defendant on the head, and this strike caused Maya to lose conciousness. Do you stand by this statement?</line>
 <line speaker="Morgan">I'm afraid I don't. The statement I gave you was a lie...</line>
 <line speaker="Phoenix">...! B-But why would you lie about something like that!?</line>
@@ -104,7 +104,7 @@
 <line speaker="Phoenix"><thought>Ugh... Why does it suddenly feel like there's a rock in the pit of my stomach...?</thought></line>
 <line speaker="Phoenix"><thought>I'm sure Von Karma's allowing this testimony because it's advantageous to her... ...Which means I shouldn't press Morgan any further...</thought></line>
 <line speaker="Morgan">Then, quite suddenly, she thrusted me away from herself and escaped from the room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was it really that easy for her to escape from you?</line>
 <line speaker="Morgan">I'm ashamed to admit to such a thing, however, yes...</line>
 <line speaker="Phoenix">But you are physically larger and stronger than the defendant. There is no way she could have escaped from you so easily...</line>
@@ -114,14 +114,14 @@
 <line speaker="Phoenix">But if she had run away, wouldn't you have given chase right away!?</line>
 <line speaker="Morgan">Well, yes, I would have... however...</line>
 <line speaker="Morgan">With great strength, she hit the base of my neck and I fainted for a short while...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You fainted...?</line>
 <line speaker="Morgan">I became dizzy, and then collapsed onto the floor.</line>
 <line speaker="Judge">How long were you unconscious?</line>
 <line speaker="Morgan">I... I'm not sure. About ten minutes, perhaps.</line>
 <line speaker="Judge">Hmm... And the defendant almost certainly went somewhere in that time...</line>
 <line speaker="Morgan">I'm afraid I have no knowledge of where she went after that.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Is that because you were unconscious?</line>
 <line speaker="Morgan">Why, yes...</line>
 <line speaker="Phoenix"><thought>Great, well, now what...?</thought></line>
@@ -169,14 +169,14 @@
 <line speaker="Mia">It's well constructed... but that's all it is. But even the most well-spun lies can be undone. We can do it, Phoenix. Let's find that one loose thread and unwind this tapestry of lies.</line>
 <line speaker="Phoenix">Your Honor! There is room for doubt, so the defense will cross-examine this witness. We believe that our cross-examination will reveal the real truth behind this murder!</line>
 <line speaker="Ini">Like, when the channeling started, I was, like, sleeping in the Side Room.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was that because of your, um... sesame allergy, was it?</line>
 <line speaker="Ini">Like, that's right. I, like, think there were sesame seeds, like, in the lunch they served that day. I had this, like, premonition that it was going to totally be a "seedy" day.</line>
 <line speaker="Judge">Hmm... I see...</line>
 <line speaker="Phoenix"><thought>...Am I the only one who missed the boat here...?</thought></line>
 <line speaker="Judge">Anyway, so you were taking a nap. Did something happen while you were sleeping?</line>
 <line speaker="Ini">Like, a little later, someone came into the room, like, really suddenly.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Do you know the time?</line>
 <line speaker="Ini">Um, uh... Like, maybe a little before 11 AM? Something like that, I think...</line>
 <line speaker="Phoenix">E-Eleven AM...?</line>
@@ -191,7 +191,7 @@
 <line speaker="Ini">Did I? ...So, like... what was I talking about again...?</line>
 <line speaker="Phoenix">... N-Never mind...</line>
 <line speaker="Ini">It was, like, oh my gawd, totally my sister!</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Are you absolutely sure?</line>
 <line speaker="Ini">...I guess?</line>
 <line speaker="Phoenix">You "guess"...? Was it or was it not your sister who entered?</line>
@@ -200,7 +200,7 @@
 <line speaker="Judge">Well, Mr. Wright?</line>
 <line speaker="Phoenix">Th-The defense rests...</line>
 <line speaker="Ini">I, like, hadn't seen her in, like, so long... I was so happy in, like, a sad way...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You were... happy in a sad way...?</line>
 <line speaker="Ini">Yeah, like, I mean, it was my sister!</line>
 <line speaker="Phoenix">But wouldn't most people react here with surprise at seeing a dead loved one alive again?</line>
@@ -210,7 +210,7 @@
 <line speaker="Phoenix">So you really didn't think anything "strange" of the whole encounter?</line>
 <line speaker="Ini">No. Like, there wasn't any reason for me to, like, think anything was "strange".</line>
 <line speaker="Phoenix">But... OWW!</line>
-<line speaker="Phoenix">...You know the phrase, "<cutIn>Objection!</cutIn>"? Could you try using that once in a while...?</line>
+<line speaker="Phoenix">...You know the phrase, "<cutIn type="objection">Objection!</cutIn>"? Could you try using that once in a while...?</line>
 <line speaker="Judge">Hmm... Mr. Wright. This question of what the witness felt when she saw her sister... is it really that important?</line>
 <line speaker="Phoenix">"Is it really that important?" Let me ask you: Is it really that important for you to ask?</line>
 <line speaker="Judge">Of course it's very important.</line>
@@ -223,7 +223,7 @@
 <line speaker="Phoenix"><thought>There's no need to press her over something this minor... I should be trying to find a more decisive problem with her testimony...</thought></line>
 <line speaker="Ini">So, like, is it OK? I'm going to, like, finish my story, OK?</line>
 <line speaker="Ini">I wasn't, like, scared at all. And, like, her costume looked totally, like, normal.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So, there was nothing odd at all about your sister's appearance?</line>
 <line speaker="Ini">Like, yeah. Nothing was, like, weird.</line>
 <line speaker="Phoenix"><thought>...Hmm...</thought></line>
@@ -232,9 +232,9 @@
 <line speaker="Mia">...That's impossible...</line>
 <line speaker="Phoenix"><thought>...?</thought></line>
 <line speaker="Ini">Like, is everything OK? Can I, like, go on...?</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ini">My sister... She, like, told me something, like, totally terrible.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Something "terrible"? What was this thing she told you?</line>
 <line speaker="Ini">Huh? Like, didn't I just, like, tell you about it? Did you, like, forget already?</line>
 <line speaker="Phoenix"><thought>Well, excuuuse me, Princess. ...Anyway, should I ask to hear the story again...?</thought></line>
@@ -275,14 +275,14 @@
 <line speaker="Phoenix">...</line>
 <line speaker="Judge">Alright, I guess not... Very well. You may question the witness.</line>
 <line speaker="Ini">Like, the Side Room was, like, kinda dark, you know?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Really? Because I thought it was pretty bright inside that room.</line>
 <line speaker="Ini">Like, that's right!</line>
 <line speaker="Phoenix">Um, excuse me, but how is my statement any more subjective than Ms. Miney's?</line>
 <line speaker="Ini">Like, OK.</line>
 <line speaker="Phoenix"><thought>Uuugh... Can't breathe... Let me outta here...</thought></line>
 <line speaker="Ini">So like, the costume is, like, purple, right? The blood totally blended right in.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">You... didn't see the blood...?</line>
 <line speaker="Ini">Like, yeah.</line>
 <line speaker="Phoenix">But she must have had the gun with her at that time as well.</line>
@@ -291,7 +291,7 @@
 <line speaker="Ini">I, like, totally didn't. All I was looking at was, like, her face...</line>
 <line speaker="Judge">Hmm...</line>
 <line speaker="Ini">And I, like, persuaded my sister it wasn't, like, right to do something like that.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And what was your sister, Ms. Mimi Miney, like at the time?</line>
 <line speaker="Ini">Well, she was, like, totally flipped out 'cause she just shot Dr. Grey... But, I think, like, she knew. She, like, said she did something really bad. And, like, she said she wanted to go with me to, like, apologize to Ms. Morgan.</line>
 <line speaker="Phoenix">Did Mimi's spirit really say all that to you...?</line>
@@ -337,7 +337,7 @@
 <line speaker="Judge">...Hmm... Well, if the defense is finished, please continue with your testimony.</line>
 <line speaker="Ini">Like, OK.</line>
 <line speaker="Ini">And then... like, I took my sister to the Channeling Chamber.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was your sister calm by that time?</line>
 <line speaker="Ini">Like, I guess so... I guess maybe, like, taking her revenge on Dr. Grey, like, made her feel a lot better...</line>
 <line speaker="Phoenix"><thought>She says with her whip at the ready...</thought></line>
@@ -383,12 +383,12 @@
 <line speaker="Judge">...Hmm... Well, if the defense is finished, please continue with your testimony.</line>
 <line speaker="Ini">Like, OK.</line>
 <line speaker="Ini">I, like, didn't see anyone on the way to, like, the Channeling Chamber.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Try to remember that time!</line>
 <line speaker="Ini">... Oh! Like, I remember! I remember, like, I totally didn't see anyone on the way.</line>
 <line speaker="Phoenix"><thought>Hmm... I guess this really is a dead end...</thought></line>
 <line speaker="Mia">Something you finally pull out of a witness is never a dead end, Phoenix.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">I've finally found the fault, or I guess in your case, the "crack" in your perfect lie.</line>
 <line speaker="Ini">...</line>
 <line speaker="Phoenix">Take a look at this urn.</line>
@@ -397,8 +397,8 @@
 <line speaker="Ini">S-So? Like, what does that prove?</line>
 <line speaker="Ini">Like, yeah. I already, like, said I didn't see, like, anyone on the way to the Channeling Chamber. I didn't, like, totally say anything about, like, an urn, did I?</line>
 <line speaker="Phoenix">It looks like you still don't understand. I propose that if you had really been walking along the Winding Way at that time, there was no way you could not have seen this person!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Oops, silly me. Slip of the finger.</line>
 <line speaker="Judge">M-Mr. Wright. You need to keep control of that finger of yours'.</line>
 <line speaker="Phoenix">...As I thought, this is the wrong piece of evidence. Oww!</line>
@@ -412,16 +412,16 @@
 <line speaker="Judge">Oh... OHHH!</line>
 <line speaker="Phoenix">Yup. She accidentally knocked it over with her ball!</line>
 <line speaker="Ini">Nnaaawrr!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">You say that you didn't see anyone on the way to the Channeling Chamber... However, that is impossible! I'd like to introduce someone to you. This is Ms. Morgan Fey's daughter, Pearl Fey.</line>
 <line speaker="Phoenix">It just so happens that at the time of the murder, Pearl was playing in the center garden.</line>
 <line speaker="Phoenix">Yup! Which means anyone walking through the area would have to have seen her! So, Ms. Miney, what do you have to say to that!?</line>
 <line speaker="Ini">Nnaaawrr!</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">It's not preposterous, and I can prove it!</line>
 <line speaker="Phoenix">There is no way someone walking along the Winding Way could not have noticed Pearl!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Oops, silly me. Slip of the finger.</line>
 <line speaker="Judge">M-Mr. Wright. You need to keep control of that finger of yours'.</line>
 <line speaker="Phoenix">...As I thought, this is the wrong piece of evidence. Oww!</line>
@@ -510,8 +510,8 @@
 <line speaker="Phoenix">Yeah!</line>
 <line speaker="Mia">The only person who could have killed Dr. Grey was Ini Miney! So now is the time to prove it!</line>
 <line speaker="Judge">Now, then, Mr. Wright. Let's hear your answer. Where was the witness when the murder took place...?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">She was here...</line>
 <line speaker="Mia">Phoenix! Did you turn the map upside down!?</line>
 <line speaker="Phoenix"><thought>...Oww... Sh-She slapped me on the wrist...</thought></line>
@@ -526,8 +526,8 @@
 <line speaker="Judge">Yes! Yes, that is correct! Please, explain yourself, Mr. Wright!</line>
 <line speaker="Phoenix">Simple. Ms. Ini Miney was hiding at the scene of the crime.</line>
 <line speaker="Ini">I... I was hiding!? Where!? Like, where was I hiding!?</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Ms. Miney was hiding here! Owww!</line>
 <line speaker="Ini">Hah! Go home, boy, and look up what "hiding" means!</line>
 <line speaker="Phoenix"><thought>Argh... Looks like I'm going to have to one up her!</thought> Yeah, count on it!</line>
@@ -541,8 +541,8 @@
 <line speaker="Ini">Shut it, gramps. As if you know exactly how old I am!</line>
 <line speaker="Judge">I-I'm sorry!</line>
 <line speaker="Phoenix"><thought>Looks like the pipe's about to burst... Guess I should help it along...</thought> The witness was hiding behind the folding screen... With the help of this!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ini">Yeah, you go ahead and use that to hide!</line>
 <line speaker="Phoenix"><thought>What's with these two...? It's like they did a mind meld all of a sudden...</thought></line>
 <line speaker="Mia">Don't let them affect you! Just think about the correct answer.</line>
@@ -559,12 +559,12 @@
 <line speaker="Mia">If you look in the Court Record.</line>
 <line speaker="Phoenix"><thought>Guess I should take a look at the Court Record...</thought></line>
 <line speaker="Judge">Well, then. If there are...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">P-Please wait... I said it was hard, but I didn't say it was impossible to prove!</line>
 <line speaker="Judge">Then stop puffing up your feathers and hurry up!</line>
 <line speaker="Phoenix">And now, I present the piece of evidence that will prove this clothing box was at the scene of the crime when the murder took place!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">..............................</line>
 <line speaker="Phoenix">...Um... Your Honor...?</line>
 <line speaker="Judge">I... um, fell asleep...</line>
@@ -599,8 +599,8 @@
 <line speaker="Phoenix">W-Wait! Ms. von Karma... You said it was not possible for "one person", correct?</line>
 <line speaker="Ini">...*huff*...*huff*...</line>
 <line speaker="Phoenix">Ms. Miney! You had an accomplice!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">The accomplice was...?? Any thoughts, Ms. von Karma?</line>
 <line speaker="Mia">Really, Phoenix! You even got Ms. von Karma to give up on you too!</line>
 <line speaker="Phoenix">..."Too"?</line>
@@ -637,8 +637,8 @@
 <line speaker="Ini">Yeah, that's right! That's exactly what I was gonna say!</line>
 <line speaker="Ini">Yeah! That's exactly what I wanted to say too! Yeah! Motive! I don't have a motive!</line>
 <line speaker="Phoenix">A... motive... That's... <thought>I can't say she has no motive here! I have to think of a motive now! What is her reason for wanting Dr. Grey dead...?</thought> The reason you wanted Dr. Grey dead is this!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Ini">Ho-hum, ho-hum... Is this a word search? I'm having a tough time finding the word "motive!"</line>
 <line speaker="Judge">Uuugh... My breathing is becoming labored...</line>
 <line speaker="Mia">My eyesight is failing me...</line>
@@ -700,13 +700,13 @@
 <line speaker="Mia">Right now, it's impossible to prove that Dr. Grey did in fact drug Ms. Miney's sister.</line>
 <line speaker="Phoenix">Yeah... Which means I'll have to work this from another angle.</line>
 <line speaker="Ini">That was... like, last year, in May.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Didn't some sort of medical malpractice happen at your sister's hospital then...?</line>
 <line speaker="Ini">Yeah, like, that was in May too. Like, the thing with all the patients dying was, like, May 2nd, and like, our accident was, like, on the 24th.</line>
 <line speaker="Phoenix">Two accidents back to back... Do you assume it's just a coincidence?</line>
 <line speaker="Ini">My sis was, like, totally tired, so that's why, duh.</line>
 <line speaker="Ini">Like, something really bad had happened at, like, my sister's clinic around then...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">That was the malpractice incident where 14 patients died, correct?</line>
 <line speaker="Ini">Yeah.</line>
 <line speaker="Phoenix">What was the cause of the mistake?</line>
@@ -716,7 +716,7 @@
 <line speaker="Phoenix"><thought>Which means as far as the "real" facts are concerned... Mimi Miney is the one who made the mistake...</thought></line>
 <line speaker="Ini">But, like, it really wasn't my sis...</line>
 <line speaker="Ini">And like, the night of the accident, my sis was totally tired while she was driving.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">She was "totally tired"? You mean, exhausted?</line>
 <line speaker="Ini">Like, she had to talk to the police, and, like, was being investigated, like, every day. It was, like, a totally terrible situation.</line>
 <line speaker="Phoenix">It's no wonder, then, that the car accident happened, huh?</line>
@@ -730,35 +730,35 @@
 <line speaker="Add statement">"I, like, didn't have my license, so, like, I couldn't take over driving for her."</line>
 <line speaker="Phoenix"><thought>There's no point in asking her about her sister. I should be trying to find out more information about Ini!</thought></line>
 <line speaker="Ini">So, like, can I go on?</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Your sister... Mimi Miney, was she that exhausted?</line>
 <line speaker="Ini">Like, she had to talk to the police, and, like, was being investigated, like, every day. It was, like, a totally terrible situation.</line>
 <line speaker="Judge">Ah, if only you had your license and were able to drive for your sister.</line>
 <line speaker="Ini">Y-Yeah... That was, like, too bad...</line>
 <line speaker="Ini">I was, like, totally pooped too, so I, like, fell asleep in the passenger's seat...</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">The accident happened at night, correct...?</line>
 <line speaker="Ini">Yeah, like, it was at, like, 1 AM or so, I think. I had, like, a paper due, like, really soon... so, like, I hadn't slept and was working, like, real hard.</line>
 <line speaker="Ini">I, like, woke up 'cause of a jolt, and, like, it was a sea of flames around me.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And your sister? What happened to her?</line>
 <line speaker="Ini">I... I didn't see her... The car was, like, totally black, and there was, like, a ton of smoke... I, like, totally had, like, no clue what was going on.</line>
 <line speaker="Ini">I, like, opened the door and, like, got away.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Please tell us about your escape in more detail.</line>
 <line speaker="Ini">I... I, like, kept wanting to forget that time, so, like, I don't remember things about the accident in, like, details anymore...</line>
 <line speaker="Judge">Hmm, well, it's alright. No need to push yourself.</line>
 <line speaker="Ini">I think I, like, gave an interview after the accident. Like, that would probably be the most accurate, you know?</line>
 <line speaker="Phoenix"><thought>Hmm, if it's that article, then I've already got it...</thought></line>
 <line speaker="Ini">I, like, didn't have my license, so, like, I couldn't take over driving for her.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And that's why you were in the passenger's seat?</line>
 <line speaker="Ini">Like, yeah. I was, like, at my college's research lab 'till, like, really late... So my sis was, like, giving me a ride home.</line>
 <line speaker="Phoenix">I see...</line>
 <line speaker="Mia">Phoenix.</line>
 <line speaker="Phoenix">Y-Yes?</line>
 <line speaker="Mia">You can't do this. You're being too easy on her.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix"><thought>There's got to be some sort of secret sleeping in this testimony...</thought></line>
 <line speaker="Mia">Yes, so let's find that one crushing contradiction and end this!</line>
 <line speaker="Phoenix">Ms. Miney. That was a lame lie just now.</line>
@@ -788,7 +788,7 @@
 <line speaker="Judge">Hmm... I see... A bright red car for sports... Now then, the defense may question the witness.</line>
 <line speaker="Phoenix"><thought>Hmm... I'm not terribly knowledgeable about cars, but...</thought></line>
 <line speaker="Ini">Like, around that time, I was, like, really close to getting my license.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">So what do you mean by, "really close"?</line>
 <line speaker="Ini">Like, I had one of those "permit" things. I think that's what they're called.</line>
 <line speaker="Phoenix">Um, "permit"?</line>
@@ -797,7 +797,7 @@
 <line speaker="Phoenix"><thought>What is with her...? All she's said in the last few minutes is utter nonsense...</thought></line>
 <line speaker="Ini">So, like, may I continue?</line>
 <line speaker="Ini">My sis was, like, this totally big fan of cars and, like, really valued them.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">She "valued" cars? How much would you say she valued her car?</line>
 <line speaker="Ini">Well, like, she'd flip out at, like, a drop of rain... and, like, she would notice if someone, like, touched the car door with dirty hands.</line>
 <line speaker="Phoenix"><thought>In that case, why bother taking the car out of the garage, ever!?</thought></line>
@@ -810,7 +810,7 @@
 <line speaker="Judge">Well, Ms. Miney? What kind of car was it?</line>
 <line speaker="Phoenix"><thought>I guess I just don't get what's so special about cars...</thought> Alright, then, please testify about your sister's car.</line>
 <line speaker="Ini">She, like, had just gotten this really shiny, bright red sports car.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">It was a new car...?</line>
 <line speaker="Ini">Yeah. She had, like, just gotten it. It was, like, from the U.K.</line>
 <line speaker="Judge">Hm? The "U.K."? Was that her boyfriend's initials?</line>
@@ -833,7 +833,7 @@
 <line speaker="Ini">Sure, whatever.</line>
 <line speaker="Change statement">"She, like, had just gotten this really shiny, bright red sports car." to "My sis' new car was, like, a totally special model from England."</line>
 <line speaker="Ini">My sis' new car was, like, a totally special model from England.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">... <thought>I yelled, "Hold it" pretty forcefully, but... I don't actually know what to ask about cars...</thought></line>
 <line speaker="Phoenix">Um... So, yes... <thought>What am I supposed to pick for a topic...?</thought> Let's start with this. Why are British cars good?</line>
 <line speaker="Ini">Like, huh?</line>
@@ -845,18 +845,18 @@
 <line speaker="Mia">It's interesting, isn't it, Phoenix? Bit by bit, we're beginning to see the real "contradiction" behind this case.</line>
 <line speaker="Phoenix"><thought>I really stink at talking about cars... If I ask the wrong question, I might make someone mad...</thought></line>
 <line speaker="Judge">Ms. Miney, I believe you may continue with your testimony.</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Ini">She, like, would say things like, "No way am I letting a newb drive my car!"</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">Was your sister good at driving?</line>
 <line speaker="Ini">She was, like, totally awesome! She, like, said she was going to be the, like, "Racing Queen of the Nursing World".</line>
 <line speaker="Phoenix"><thought>...Somehow, I think she bumped my question off-track again...</thought></line>
 <line speaker="Ini">So, like, that's why I ended up in the passenger's seat that night too.</line>
-<line speaker="Phoenix"><cutIn>Hold it!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Phoenix">And that was when the accident occurred, correct?</line>
 <line speaker="Ini">Like, yeah... I, like, immediately reached for the passenger side door, and fled, like, in a daze...</line>
 <line speaker="Judge">Hmm... Sounds like you had a terrifying time...</line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Mia">There is something very big here. It's going to be hard to break apart such a natural-sounding testimony. But we have to attack it. And by doing so, a flaw will show itself. It has to.</line>
 <line speaker="Phoenix">D-Do you really think so?</line>
 <line speaker="Mia">Believe. There is a path, I know it.</line>
@@ -893,8 +893,8 @@
 <line speaker="Phoenix">Who is the person standing on the witness stand right now?</line>
 <line speaker="Ini">... Uuughn!</line>
 <line speaker="Phoenix">I'll tell you what her name really is. This witness' real name is...!</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Judge">... Would the defense please inform the court of its birth name?</line>
 <line speaker="Phoenix">Umm... Phoenix Wright... Your Honor.</line>
 <line speaker="Judge">Ah, what a relief. I thought you'd forgotten your own name... Again.</line>
@@ -923,13 +923,13 @@
 <line speaker="Judge">But... But why!? Why would you go so far to throw away your self...? To become your own sister!?</line>
 <line speaker="Mimi">...</line>
 <line speaker="Phoenix"><thought>I think I understand why... Mimi Miney wanted her self to disappear because of this...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Phoenix">Dr. Grey was right. The mistake was caused by the nurse. A nurse by the name of Mimi Miney. That's right, the person standing before us today. And a few weeks after this mishap, Mimi Miney had a car accident, in which she lost her younger sister.</line>
 <line speaker="Phoenix">Fourteen patients dying in that incident, and her own sister's life, extinguished. It was all too much to bear.</line>
 <line speaker="Mimi">...I found a way for myself to escape it all... The only way...</line>
 <line speaker="Phoenix">She lost everything in the flames of that accident, her sister... ...and even her own face. This was her last chance... Her chance to throw away her past and start a new life as her "sister"...</line>
 <line speaker="Judge">...Unbelievable... A plan beyond my wildest imagination...</line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Mia">Just stop.</line>
 <line speaker="Phoenix">Huh?</line>
 <line speaker="Mia">I feel embarrassed for you for even thinking of showing that piece of evidence. That woman... She had lost everything. So this was the only way to make things right, Phoenix.</line>
@@ -972,7 +972,7 @@
 <line speaker="Phoenix">Maya, it's over. Why don't we just let it be.</line>
 <line speaker="Maya">Nick, please, I need an answer...</line>
 <line speaker="Phoenix"><thought>The reason Morgan helped Mimi with her plan was...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">... Pearly?</line>
 <line speaker="Phoenix">Four years from now, a new Master will be "born" into Kurain Village. And that person will be you, Maya.</line>
 <line speaker="Maya">A-And...?</line>
@@ -983,32 +983,32 @@
 <line speaker="Phoenix">Everything was done for her sake. It was all so that Pearls would become the next Master.</line>
 <line speaker="Maya">Y-Yeah... I can see that... ...</line>
 <line speaker="Phoenix"><thought>...? Did Maya say something just now...? I think that she was saying... "I thought so"...</thought></line>
-<line speaker="Phoenix"><cutIn>Take that!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Maya">...? I don't get it.</line>
 <line speaker="Phoenix">Yeah, me neither. Even I don't really know why Morgan cooperated with Mimi Miney...</line>
 <line speaker="Maya">...</line>
 <line speaker="Phoenix">Look, this whole thing is over now, so let's not dwell on the past, OK?</line>
 <line speaker="Maya">Yeah... Thanks, Nick.</line>
 <line speaker="Phoenix"><thought>I just don't know the answer to this one... I'm just as confused about the situation as she is... So why the "thanks"?</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! What do you think about the witness's statement?</line>
 <line speaker="Judge">Uh... I'm not sure I follow you.</line>
 <line speaker="Phoenix">It clearly, er, contradicts the... um... I thought...</line>
 <line speaker="Judge">You don't sound very sure, Mr. Wright. Objection denied.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">Your Honor! That statement contradicts this evidence!</line>
 <line speaker="Judge">...? It does? I don't see anything contradictory...</line>
 <line speaker="Phoenix">Huh? Really?</line>
 <line speaker="Judge">Objection denied. Try to think before you make accusations, Mr. Wright!</line>
 <line speaker="Phoenix"><thought>Whoops! That didn't go so well.</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">This evidence clearly reveals the contradiction in that statement, Your Honor!</line>
 <line speaker="Judge">How exactly are the evidence and the statement just now related?</line>
 <line speaker="Phoenix">They aren't, are they...</line>
 <line speaker="Judge">Not at all. Mr. Wright, please think the facts over before making accusations.</line>
 <line speaker="Phoenix"><thought>I don't think that won me any points with the judge...</thought></line>
-<line speaker="Phoenix"><cutIn>Objection!</cutIn></line>
+<line speaker="Phoenix"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Phoenix">The witness's statement is clearly faulty, Your Honor!</line>
 <line speaker="Judge">... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.</line>
 <line speaker="Phoenix"><thought>Ugh, I must be on the wrong track...?</thought></line>

@@ -1,6 +1,6 @@
 
-<line>Turnabout Reminiscence</line><xml>
-<title>Image Gallery</title>
+<xml>
+<title>Turnabout Reminiscence</title>
 <line speaker="Edgeworth">Kay Faraday... the young lady who calls herself the second Yatagarasu... The piece of cloth that she conjured up has taken me back to many years ago...</line>
 <line speaker="Defendant">Yeah, that's right. I did it. I killed the guy. But it was the Great Thief Yatagarasu that told me to do it!</line>
 <line speaker="Lawyer">I ask the defendant... Just what exactly are you trying to say?</line>
@@ -298,7 +298,7 @@
 <line speaker="Manfred">Just what is that man doing, wandering around here!? That Faraday... I can't believe he let such an easy catch get away! Imbecile! I would've proved his guilt in three minutes!</line>
 <line speaker="Badd">Von Karma! ...I think you've said enough for now. It's in poor taste to speak like that about the departed.</line>
 <line speaker="Manfred">Hmph...Very well. Back on topic... I'm placing Edgeworth in charge of the investigation here...</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="???">Papa! How can you place him in charge!?</line>
 <line speaker="Edgeworth">Franziska... What are you doing here?</line>
 <line speaker="Franziska">I'm here for summer vacation, what else?</line>
@@ -350,7 +350,7 @@
 <line speaker="Edgeworth">Once again... Whatever makes you happy.</line>
 <line speaker="Franziska">Hah... Well then, let's begin the investigation, shall we? I'm going to find the perfect evidence and prettily present it like the professional I am.</line>
 <line speaker="Edgeworth"><thought>Competing to discover the truth behind a crime -- how delightfully... childish.</thought></line>
-<line speaker="Badd">You kids, over there! <cutIn>Hold it!</cutIn></line>
+<line speaker="Badd">You kids, over there! <cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">"Kid"!?</line>
 <line speaker="Franziska">Ha! Serves you right, Miles. He just called you a kid...!</line>
 <line speaker="Badd">...I said "kids", kid.</line>
@@ -618,18 +618,18 @@
 <line speaker="Franziska">Mr. Faraday's death was instantaneous, while Mr. Rell survived for a short time.</line>
 <line speaker="Edgeworth"><thought>Mr. Faraday's death was instantaneous, therefore, he must've attacked first... Proving that logic to be false is probably the fastest way to show her that she's wrong. In that case, I should first look for any holes in her theory!</thought></line>
 <line speaker="Franziska">Mr. Faraday's death was instantaneous, while Mr. Rell survived for a short time.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you truly believe that Mr. Faraday died instantaneously?</line>
 <line speaker="Franziska">I have the murder report right here... "Mr. Faraday died instantaneously of shock due to being stabbed in the chest." There, you see? It's been documented, clear as day.</line>
 <line speaker="Edgeworth">Arngh...!</line>
 <line speaker="Franziska">From this, it is obvious that Mr. Faraday died after he shot Mr. Rell.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Mr. Faraday shot Mr. Rell before he died...? Do you have any basis for that statement?</line>
 <line speaker="Franziska">Your foolishness has no end, does it? Now, I hate to repeat myself, however... ..."Mr. Faraday died instantaneously." That's all the basis I need.</line>
 <line speaker="Edgeworth">Alright, so if Mr. Faraday died instantaneously... ...then he must have attacked Mr. Rell before being stabbed.</line>
 <line speaker="Franziska">You're finally beginning to catch on, I see.</line>
 <line speaker="Franziska">And Mr. Rell, while on the brink of death, stole Mr. Faraday's knife and stabbed him.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you believe that the dying Mr. Rell stole the knife from Mr. Faraday?</line>
 <line speaker="Franziska">Mr. Rell became desperate as he did not want to die. Human beings can do amazing things when they are put to the test. So, the two men struggled... And in the end, Mr. Rell was able to grab the knife and stab Mr. Faraday. The messy condition of this room is a testament to their struggle. Hmm... Yes, my logic is perfectly sound.</line>
 <line speaker="Edgeworth">...Can you really say that it's "perfect"?</line>
@@ -638,15 +638,15 @@
 <line speaker="Franziska">...Fine.</line>
 <line speaker="Change statement">"And Mr. Rell, while on the brink of death, stole Mr. Faraday's knife and stabbed him." to "They struggled, and Mr. Rell used the last of his strength to counterattack Mr. Faraday."</line>
 <line speaker="Franziska">They struggled, and Mr. Rell used the last of his strength to counterattack Mr. Faraday.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">About this statement...</line>
 <line speaker="Franziska">Mr. Rell used all of his remaining strength to take the knife and defend himself. One can easily see that they had a violent struggle. Of course, it's nothing compared to what my riding crop can do.</line>
 <line speaker="Edgeworth"><thought>How does one compare the damage her crop can do with the state of this room!?</thought></line>
 <line speaker="Franziska">Furthermore, all the plastic bags on the floor in this room... ...were scattered there due to the fight. Is there anything else that I can explain for you?</line>
 <line speaker="Edgeworth">No, that will be fine...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Those are the facts of this case.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Claiming speculation as fact already? Don't you feel that the evidence is a bit lacking?</line>
 <line speaker="Franziska">You'll find all the evidence you need just by looking around this room. Mr. Faraday collapsed on top of Mr. Rell... In addition, Mr. Faraday died instantaneously, making a counterattack impossible. Furthermore, the room is a total mess from their fight... Heh, I dare say that there's more evidence here than you could whip a whip at.</line>
 <line speaker="Edgeworth"><thought>It looks like she's becoming more and more confident... And... looking at this place, she might have a right to be. After all, everything here seems to support her theory...</thought></line>
@@ -669,20 +669,20 @@
 <line speaker="Franziska">Mr. Rell took a chance when he saw the opportunity, and took the knife from the bag. And then Mr. Faraday shot Mr. Rell after being stabbed...?</line>
 <line speaker="Edgeworth"><thought>As I suspected... There is definitely something wrong with her theory!</thought></line>
 <line speaker="Franziska">Hah... If you have nothing to say, then I suppose that I win--</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Wait, as I suspected, something doesn't add up.</line>
 <line speaker="Franziska">...Oh?</line>
 <line speaker="Edgeworth">Wait, something doesn't add up.</line>
 <line speaker="Franziska">...Oh, really?</line>
 <line speaker="Edgeworth">It's simply not possible for Mr. Faraday to have shot Mr. Rell after being stabbed!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is the piece of evidence that proves it!</line>
 <line speaker="Franziska">Hah! And what is this supposed to prove?</line>
 <line speaker="Edgeworth">...Take a closer look.</line>
 <line speaker="Franziska">.........? I'm still not seeing it.</line>
 <line speaker="Edgeworth">Hmph... In that case, I'll just have to try and explain it to you.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Miles Edgeworth... You should know by now that you can't fool me.</line>
 <line speaker="Edgeworth">Aaarghn! <thought>I guess this evidence was unrelated after all... I have to think this over one more time... Mr .Rell grabbed the knife from Mr. Faraday's bag when he wasn't paying attention... And Mr. Faraday shot Mr. Rell after being stabbed by the knife. But it just doesn't add up, and I have the evidence that proves that it doesn't!</thought></line>
 <line speaker="Edgeworth">According to the coroner's report, Mt. Faraday died instantaneously, meaning... ..that he died immediately upon being stabbed by the knife! Ergo, he could not possibly have fired the gun after that!</line>
@@ -695,13 +695,13 @@
 <line speaker="Franziska">What are you talking about!? Are you saying there's a flaw in my logic!?</line>
 <line speaker="Edgeworth"><thought>Mr. Faraday dies instantly... And the fact that he did is what gives rise to the contradiction in this scene!</thought> The contradiction here in this crime scene is...!</line>
 <line speaker="Edgeworth">There is a contradiction in the order you say the crime took place in.</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">...Oh? In that case, why don't you prove the contradiction already!? Miles Edgeworth! Remember that we Von Karmas must strive to be perfect in every way!</line>
 <line speaker="Edgeworth">...Nnghhoooh!</line>
 <line speaker="Franziska">And that kind of half-baked answer can hardly be called "perfect", now can it?</line>
 <line speaker="Edgeworth"><thought>Maybe I should've given a more detailed explanation... Let's see... Mr. Faraday died instantaneously...</thought></line>
 <line speaker="Edgeworth">The evidence bag is too far away from the bodies. If the bag that held the weapons was this far from the victims... ...then neither of the two men could have taken one out without the other noticing!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Heh. Weren't you the one who just said: "...perhaps Mr. Rell saw a chance and took it out at some point"? Now take some responsibility for your own claims!</line>
 <line speaker="Edgeworth">Nnghoooh...! <thought>Maybe I should've given a more detailed explanation... I need to think this over one more time. Let's see... Mr. Faraday died instantaneously...</thought></line>
 <line speaker="Edgeworth">Let me get this straight. What you are arguing is this: Mr. Faraday took the gun from his evidence bag and shot Mr. Rell. Then, the wounded Mr. Rell found an opportunity to take the knife and strike back. Upon being stabbed, Mr. Faraday died on the spot, and Mr. Rell died thereafter. If that's the case, then how do you explain this? Take a good look at the order in which their bodies are piled.</line>
@@ -709,7 +709,7 @@
 <line speaker="Edgeworth">Mr. Faraday's body is lying on top of Mr. Rell's. Therefore... ...Mr. Rell must have died before Mr. Faraday!</line>
 <line speaker="Franziska">I-Impossible!</line>
 <line speaker="Edgeworth"><thought>Yes, I agree that it seems strange no matter what angle you approach it from... ...which means that the real mystery behind this crime scene that we must solve is--!</thought></line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">No...! Not so fast, Miles Edgeworth!</line>
 <line speaker="Edgeworth">What now...?</line>
 <line speaker="Franziska">I simply think that you ought to think a bit more outside the box... And that it's even clearer now that the incident started with Mr. Faraday's murderous intent!</line>
@@ -719,9 +719,9 @@
 <line speaker="Franziska">I don't think you could ask for a more perfect witness testimony. Wouldn't you agree, Mr. Edgeworth?</line>
 <line speaker="Edgeworth"><thought>Not really. It's hardly perfect when there's a gaping hole in it.</thought></line>
 <line speaker="Franziska">It was just chance that Mr. Faraday's body fell on top of Mr. Rell's.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">About that--</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">*sigh* Pressing someone's testimony in order to gain some time to think... You're a real one-trick pony, aren't you? It's too bad your trick only works on fools.</line>
 <line speaker="Edgeworth">Th-That wasn't my intent! I simply wish for more details as to how Mr. Faraday ended up on top of Mr. Rell...</line>
 <line speaker="Franziska">Hmph. Someone's impatient. I was just about to explain everything to you. So do you think you could hold on for a minute!?</line>
@@ -730,13 +730,13 @@
 <line speaker="Edgeworth">Arrngh!</line>
 <line speaker="Franziska">Well, now that you've quieted down a bit, I'd like to continue, if you don't mind.</line>
 <line speaker="Franziska">The two bodies fell into a pile...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">The two fell on top of each other...? Don't you find that to be just a bit strange?</line>
 <line speaker="Franziska">Not at all.</line>
 <line speaker="Edgeworth">Aarngh! <thought>I can see it in her eyes... She's dead set against me from the bottom of her heart.</thought></line>
 <line speaker="Franziska">Miles Edgeworth... Once I'm done here, you'll see that there's nothing strange at all! Now then, the two men fell into a pile...</line>
 <line speaker="Franziska">...which indicates that they attacked each other at the same time.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">What do you mean by "they attacked each other at the same time"?</line>
 <line speaker="Franziska">I assume Mr. Faraday had the two different weapons in his hands... He made to attack Mr. Rell while holding both the knife and revolver... and then... After Mr. Faraday fired the gun... ...Mr. Rell grabbed the knife as he was falling, and stabbed Mr. Faraday. That is how Mr. Rell wound up on bottom with Mr. Faraday on top. At close range, that is more than possible.</line>
 <line speaker="Edgeworth">Yes, it's possible, but...</line>
@@ -745,13 +745,13 @@
 <line speaker="Franziska">Hmph... I don't see any point to that, but as you please.</line>
 <line speaker="Change statement">"...which indicates that they attacked each other at the same time." to "That fact indicates that they attacked each other at the same time from close range."</line>
 <line speaker="Franziska">That fact indicates that they attacked each other at the same time from close range.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You're saying that they attacked each other at the same time from close range?</line>
 <line speaker="Franziska">Exactly. Mr. Faraday pointed the gun at Mr. Rell's chest and pulled the trigger. Mr. Rell then took the knife from Mr. Faraday and stabbed him before he fell unconscious. The dead Mr. Faraday instantly fell on top of Mr. Rell from the stabbing... ...pinning Mr. Rell under him, where he died shortly thereafter. And that's how they ended up on top of each other with no contradictions to be seen.</line>
 <line speaker="Edgeworth">Hmm...</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">It really doesn't matter in the slightest that they fell in the opposite order.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Do you really believe they fell in the exact opposite order in which they attacked?</line>
 <line speaker="Franziska">Miles Edgeworth... You're not listening to a word that I'm saying!</line>
 <line speaker="Edgeworth">Arrngh!</line>
@@ -776,8 +776,8 @@
 <line speaker="Edgeworth">...Evidence, correct?</line>
 <line speaker="Franziska">Exactly. Everything you've said up until now is nothing but a story played out in your head. However, this is where the real test begins. Can you prove that there was a third person involved in this crime!?</line>
 <line speaker="Edgeworth">...Of course. <thought>If a third person was truly here, that fact would resolve the glaring contradiction. The proof that this has all been a set-up, made to look like they killed each other... I'll present it, and lay bare the final piece of the puzzle that's not yet in place! What is the piece of evidence that proves there is a third person involved...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is that very evidence.</line>
 <line speaker="Franziska">...? And exactly how is this related? Do you think you could explain it to me?</line>
 <line speaker="Edgeworth">Hmph... There is no need for an explanation.</line>
@@ -797,7 +797,7 @@
 <line speaker="Franziska">Aaaaaaaaah!</line>
 <line speaker="Badd">Looks like... we've still got a long way to go in this investigation...</line>
 <line speaker="Edgeworth">Yes.</line>
-<line speaker="Yew"><cutIn>Objection!</cutIn></line>
+<line speaker="Yew"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">Wh-What the heck's up with you, pal!?</line>
 <line speaker="Yew">Mr. Badd, I advise you to place Detective Gumshoe under arrest.</line>
 <line speaker="Gumshoe">Wh...WHAAAAAAAAAAAT!?</line>
@@ -819,7 +819,7 @@
 <line speaker="Edgeworth"><thought>Was that statement really a lie...?</thought></line>
 <line speaker="Badd">...Detective Gumshoe. You're now a suspect in the murder of two men. Now, spit out the truth, or so help me...!</line>
 <line speaker="Gumshoe">I...I haven't lied to anyone, sir! Honest! I really was really there... I was in the hallway the whole time!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Detective Badd, I ask that you please do not act without my permission. After all, I am the one that is heading up this investigation, am I not?</line>
 <line speaker="Badd">.........Don't talk like you know what's going on, boy...</line>
 <line speaker="Edgeworth">All I want is for this investigation to run perfectly.</line>
@@ -830,7 +830,7 @@
 <line speaker="Edgeworth">Detective Gumshoe, why were you missing from the hallway for a span of time?</line>
 <line speaker="Gumshoe">Look, pal! Like I said, I was there the whole time, OK!?</line>
 <line speaker="Edgeworth">But there is testimony against you that...</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Miles Edgeworth! Why are you wasting our time with a completely useless question!?</line>
 <line speaker="Edgeworth">Hm...?</line>
 <line speaker="Franziska">The only logical reason as to why he was absent is that he was busy committing the crime!</line>
@@ -848,7 +848,7 @@
 <line speaker="Badd">Hmph... Motive, huh. Gumshoe... You got a grudge against Faraday or anything...?</line>
 <line speaker="Gumshoe">N-No, sir! Not me! Not a single bad thing against Mr. Faraday, sir!</line>
 <line speaker="Badd">...Is that a fact...?</line>
-<line speaker="Yew"><cutIn>Objection!</cutIn></line>
+<line speaker="Yew"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Yew">...You really have a problem with lying, don't you, Detective Gumshoe?</line>
 <line speaker="Gumshoe">I'm telling you... I AM NOT LYING!</line>
 <line speaker="Franziska">The more unnatural you act, the more suspicious you become, you know.</line>
@@ -861,13 +861,13 @@
 <line speaker="Gumshoe">Sir...</line>
 <line speaker="Edgeworth"><thought>Hmm... There's nothing wrong with the motive she proposed, per se... ...but there are some gaps in her logic that need to be filled in. Ms. Yew's "perfect explanation"... ...may not be so "perfect" at all...!</thought></line>
 <line speaker="Yew">It was... about a week ago.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">A week ago...? Then, you and Detective Gumshoe are acquaintances?</line>
 <line speaker="Yew">Phwwwwwh...! No way. I only met him in-person today.</line>
 <line speaker="Edgeworth">Then how did you know about Detective Gumshoe?</line>
 <line speaker="Yew">Oh, I've seen him around before.</line>
 <line speaker="Yew">I saw the detective get chewed out by a livid Faraday in front of the precinct.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Mr. Faraday was upset?</line>
 <line speaker="Yew">Yeah. You know what else? Mr. Faraday isn't exactly known to get angry often... ...Phwwh! Phwwwwwh! But there he was, totally beet red in the face! ...Ahem. And the offending detective just stood there, pale as a ghost, like he was about to die!</line>
 <line speaker="Franziska">Just like the face he's making now, right?</line>
@@ -876,7 +876,7 @@
 <line speaker="Edgeworth"><thought>The poor man.</thought></line>
 <line speaker="Yew">Ahahahahahahahahahahahahaha! ...Ahem. I was quite the scene with the detective.</line>
 <line speaker="Yew">He stood there super pale, as Mr. Faraday yelled, "That's a salary cut for you, you nitwit!"</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You just stood there, watching this unfold in front of you?</line>
 <line speaker="Yew">Yeah. I have to say it was really enjoyable, too. But that's why when I saw Detective Gumshoe earlier, I knew to steer clear of him.</line>
 <line speaker="Gumshoe">No way... I thought it was because I had something stuck on my face!</line>
@@ -888,7 +888,7 @@
 <line speaker="Edgeworth">...Ms. Yew. If you don't mind, I'd like to return to your testimony now.</line>
 <line speaker="Yew">Phwwwh... Sure, why not?</line>
 <line speaker="Yew">A brand new detective suddenly getting his salary cut -- that's reason enough for a grudge.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmm... To cut a new detective's salary right off the bat like that...</line>
 <line speaker="Yew">I'm not really familiar with the way you guys relate, but is that a common practice?</line>
 <line speaker="Gumshoe">Nnnnnnn... Speaking of cutting my salary, didn't you threaten to do that to me earlier, too!?</line>
@@ -898,7 +898,7 @@
 <line speaker="Badd">.........Well, I guess... They really... shouldn't cut people's pay.</line>
 <line speaker="Edgeworth"><thought>Detective Badd... Don't tell me, Mr. von Karma cut your salary earlier...?</thought></line>
 <line speaker="Yew">Well? How's that for a "perfect explanation"?</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You call your explanation "perfect"?</line>
 <line speaker="Yew">Ahah...! Is it not to your liking?</line>
 <line speaker="Edgeworth">Unfortunately for you, it's just not up to my standards.</line>
@@ -908,7 +908,7 @@
 <line speaker="Edgeworth"><thought>Detective Gumshoe certainly had a motive to kill Mr. Faraday. However, there is just one thing I can't wrap my head around in this explanation. I'll just have to force Ms. Yew to explain herself fully!</thought></line>
 <line speaker="Edgeworth">Alright, if you could clear this one thing up for me...!</line>
 <line speaker="Edgeworth">You still haven't explicitly established how Mr. Faraday was killed!</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Going senile already, Miles? Mr. Faraday was stabbed to death with a knife!</line>
 <line speaker="Edgeworth">Nnnghoooh! N-Not that! What I meant to ask was... ...how were the two men killed when they were in a guarded room!?</line>
 <line speaker="Badd">...We're going to find that out very soon from Gumshoe at his interrogation, boy.</line>
@@ -941,33 +941,33 @@
 <line speaker="Yew">There's no one out there with a motive to kill both Mr. Faraday and Mr. Rell.</line>
 <line speaker="Edgeworth"><thought>I wonder if that's really true... Is there no one out there with a grudge against both men? I should take another hard look at the evidence for this morning's case. The second KG-8 Incident, as people are calling it, involving an Embassy staff member... ...and the two men who both wound up as suspects in the case... Is there someone else I'm overlooking who is somehow related to them?</thought></line>
 <line speaker="Yew">There's no one out there with a motive to kill both Mr. Faraday and Mr. Rell.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So there is no one else who might have a grudge against both Mr. Faraday and Mr. Rell?</line>
 <line speaker="Yew">I suppose "no one"... is a bit of a stretch. But I'm pretty sure no one like that was here in this courthouse today.</line>
 <line speaker="Edgeworth"><thought>...She's lying through her teeth. We just saw a someone "like that" here earlier!</thought></line>
 <line speaker="Yew">Besides, you don't need to prove that the killer had a grudge against both men.</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Yew">All you really have to establish is that someone had a grudge against one of the two men.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Someone with a grudge against one of the men... In that case, aren't there plenty of other people who fit the bill?</line>
 <line speaker="Yew">Sure. After all, who doesn't garner scorn from another simply by being alive? But the only one who held a grudge and acted upon it by killing was Detective Gumshoe.</line>
 <line speaker="Edgeworth">Nngh...!</line>
 <line speaker="Yew">Furthermore...</line>
 <line speaker="Yew">Mr. Rell, who happened to be there, became a witness to Mr. Faraday's murder.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So you're saying that he was basically silenced...?</line>
 <line speaker="Yew">Aren't you glad you managed to avoid the same fate, Your Honor? Why, if you had been the one to witness the blood-covered detective... Ahahaha!</line>
 <line speaker="Judge">Wh-Wh-Wh-Wh-What!? Detective Gumshoe! Y-You would kill even me!?</line>
 <line speaker="Gumshoe">Whaaaaaaaat!? I-I... I could never do something as terrible as that, Your Honor!</line>
 <line speaker="Judge">There's no need for even a second of deliberation! I will hand down my verdict here--</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor. Take a look around. We are not in court right now! It would be greatly appreciated if you would stay here with us in reality.</line>
 <line speaker="Judge">Ack! Please forgive me! I know not what I do!</line>
 <line speaker="Yew">Phwwh...!</line>
 <line speaker="Franziska">And you there, Ms. Yew! Hurry up and continue with your testimony. If you fail to do so... I will whip into shape!</line>
 <line speaker="Yew">Ha ha ha... That's nice. Sounds kind of like fun, actually. Anyway, Detective Gumshoe had to erase the witness, Mr. Rell.</line>
 <line speaker="Yew">Therefore, he was killed out of necessity, and set up to look like they had killed each other.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmm...</line>
 <line speaker="Gumshoe">I. Didn't. Do. It. Pal!</line>
 <line speaker="Yew">No hard feelings, but I don't think we can take the word of a criminal seriously.</line>
@@ -1504,7 +1504,7 @@
 <line speaker="Edgeworth">Nnnghooooooh!</line>
 <line speaker="Edgeworth">The dirt on this bench... It smells like some sort of sweet substance.</line>
 <line speaker="Franziska">I can't believe there is someone going around dirtying the courthouse! For shame!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">C-Calm down, Franziska... Now, take a good look. Doesn't this smudge look kind of like a handprint to you?</line>
 <line speaker="Franziska">...I suppose it could be.</line>
 <line speaker="Edgeworth">Which means... ...that perhaps we can lift the prints of the person who sullied this bench!</line>
@@ -1534,7 +1534,7 @@
 <line speaker="Franziska">A lot of good it did you. You couldn't even protect one, lone prosecutor with it.</line>
 <line speaker="Badd">............!</line>
 <line speaker="Franziska">!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Franziska, you need to apologize.</line>
 <line speaker="Franziska">...Arghn...! ...I'm sorry.</line>
 <line speaker="Edgeworth">I'm terribly sorry, Detective Badd. Please continue.</line>
@@ -1569,7 +1569,7 @@
 <line speaker="Badd">...How many times are you going to ask that? I was in Defendant Lobby No. 1 when I heard the gunshot...</line>
 <line speaker="Edgeworth"><thought>Hmm... It's exactly the same as what he said earlier when I asked...</thought></line>
 <line speaker="Badd">...Now, get out of here. ...You're getting in the way.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I-I'm not through questioning you yet!</line>
 <line speaker="Edgeworth">I'd like to know a little more about the circumstances under which you heard the gunshot.</line>
 <line speaker="Badd">...Like I said, I was in Lobby No. 1 with Yew. ...I have nothing else to add.</line>
@@ -1663,10 +1663,10 @@
 <line speaker="Edgeworth">"When you're in hot water, you might need a hot dog." .................. Hmm... It looks like this slogan was decided through a public contest. And the winner was... Prosecutor Winston Payne...?</line>
 <line speaker="Franziska">Hmph. What a pathetic slogan. No presence at all! Now if it was up to me, it would read... "If you leave matters in a Von Karma's hands, everyone in court will be found guilty dogs!"</line>
 <line speaker="Edgeworth">............</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Overruled!</line>
 <line speaker="Edgeworth">"Don't be a jerk in court like these beef jerks!" I see...</line>
-<line speaker="Franziska"><cutIn>Objection!</cutIn></line>
+<line speaker="Franziska"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Franziska">Miles Edgeworth! Wouldn't you agree that it's a very clever pun?</line>
 <line speaker="Edgeworth">Do you really think they that much effort into the product name?</line>
 <line speaker="Franziska">Even a foolish fool could understand the foolish thinking of the fool who made it up! You're acting so foolishly that I got so thoroughly mad, and am now utterly famished!</line>
@@ -1763,7 +1763,7 @@
 <line speaker="Judge">Oh! I'm so used to simply listening to testimonies that I got caught up in the excitement.</line>
 <line speaker="Edgeworth"><thought>I'm sorry, Your Honor, but I'm afraid I'm going to have to spoil your fun now.</thought></line>
 <line speaker="Judge">During the recess... I, um... I went to the restroom.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Your Honor... Why exactly did you pay a visit to the restroom, if I may ask?</line>
 <line speaker="Judge">Oh! Well, isn't it obvious!? What else do you go to the restroom for!? Or, maybe... I-I-I-I-I knew it...! You suspect me of some sort of tomfoolery, don't you!</line>
 <line speaker="Edgeworth">Please stay calm, Your Honor! <thought>This is going to be much harder than I anticipated...</thought></line>
@@ -1772,7 +1772,7 @@
 <line speaker="Judge">Mr. Faraday had been accused, so I had a paperwork to process regarding a new prosecutor. Once I had finished that, I was finally able to make a mad dash to the restroom.</line>
 <line speaker="Edgeworth"><thought>At least he stayed consistent on the "going to the restroom" part of his testimony...</thought></line>
 <line speaker="Judge">There is a window on the hallway side. In other words, I could see into the hallway.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Your Honor, did you really go to the men's restroom?</line>
 <line speaker="Judge">Wh-Wh--!? What is the meaning of that statement!?</line>
 <line speaker="Edgeworth">I simply meant... that perhaps you went to a restroom on a different floor.</line>
@@ -1784,7 +1784,7 @@
 <line speaker="Edgeworth">Y-Your Honor! There is no need to yell! I can hear you just fine!</line>
 <line speaker="Judge">Oh! I guess I put a little too much into that last answer. Now then, let's continue with the testimony.</line>
 <line speaker="Judge">As I entered, I saw that detective buying something from the vending machines.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Are you sure that the person you witnessed was Detective Gumshoe, Your Honor?</line>
 <line speaker="Judge">Yes, I'm absolutely sure. It's hard to miss someone of his statue, even from as far away as the restroom. Besides, I can't think of anyone else with that kind of hairstyle and big, beige coat.</line>
 <line speaker="Edgeworth">Well, I was simply wondering if you were mistaken in what you saw...</line>
@@ -1792,13 +1792,13 @@
 <line speaker="Edgeworth"><thought>Clearly, his eyes are not the only things that have gone fuzzy!</thought></line>
 <line speaker="Judge">But allow me to say with all the honor and dignity of a judge... ...I am not mistaken in what I saw!</line>
 <line speaker="Judge">But when I was about to exit the restroom, he had completely disappeared!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">He disappeared? But Your Honor, didn't you just say... ..."I saw that detective buying something from the vending machines"?</line>
 <line speaker="Judge">Why, yes! Yes, I did! The restroom window looks over the courtyard and right into the hallway. But! Just as I was about to exit, I took another look, and there was no one in sight! .................. That led me to the only solution to this mystery. That detective must've gone into the crime scene, Lobby No. 2 at that pooooooooooint!</line>
 <line speaker="Edgeworth"><thought>So he looked into the hallway from the restroom, and over the courtyard, did he...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Judge">A detective that goes missing while on duty... That sounds mighty suspicious to meeeee!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Your Honor, I ask that you please remain calm.</line>
 <line speaker="Judge">Nononononononononono! I-I-I-I'm cerfectly palm!</line>
 <line speaker="Edgeworth"><thought>You're being anything but "perfectly calm"!</thought></line>
@@ -1808,8 +1808,8 @@
 <line speaker="Edgeworth">C-Can't you hold that whip still for just a second!? Now, about His Honor's testimony... ...I believe his line of sight to be an important factor.</line>
 <line speaker="Franziska">If it's that important, why don't you hurry up and tell him already?</line>
 <line speaker="Edgeworth"><thought>I will, but there is one more thing I need to do if I am to correct His Honor's testimony. I am going to need to retrace Detective Gumshoe's movements!</thought></line>
-<line speaker="Judge">Wh-What was that finger wag for, Mr. Edgeworth!? And don't you know it's rude to shout "<cutIn>Objection!</cutIn>" while someone is giving testimony?</line>
-<line speaker="Edgeworth">Hah. If you truly are a man of the law, then you must always be vigilant. For example, I, myself, never let an opportunity to shout "<cutIn>Objection!</cutIn>" pass me by!</line>
+<line speaker="Judge">Wh-What was that finger wag for, Mr. Edgeworth!? And don't you know it's rude to shout "<cutIn type="objection">Objection!</cutIn>" while someone is giving testimony?</line>
+<line speaker="Edgeworth">Hah. If you truly are a man of the law, then you must always be vigilant. For example, I, myself, never let an opportunity to shout "<cutIn type="objection">Objection!</cutIn>" pass me by!</line>
 <line speaker="Franziska">Miles Edgeworth. It's one thing to be passionate about your job, but this is real life.</line>
 <line speaker="Edgeworth"><thought>This is what some people may say is the pot calling the kettle black...</thought> Your Honor, I wonder if you might take a look at this for me?</line>
 <line speaker="Judge">What is that filth!? How dare someone dirty the hallway bench like that!? Who is the culprit!? That party is hereby found GUILTY of uncleanliness!!!</line>
@@ -1828,7 +1828,7 @@
 <line speaker="Edgeworth">Hmph... It seems that you have made the connection. If someone were to sit on the bench under the window... Yes, even someone as large as Detective Gumshoe... ...would effectively disappear from sight!</line>
 <line speaker="Judge">Wh-Whaaaaaaaaaaaat!?</line>
 <line speaker="Edgeworth">Hmph. Do you finally see, Your Honor? Your testimony has just proven that Detective Gumshoe was in the hallway the entire time.</line>
-<line speaker="Judge">...Ah! Sorry! I didn't mean to say it with that much enthusiasm. All I wanted to do was try saying it once. Here, let me try that again... "<cutIn>Hold it!</cutIn>"</line>
+<line speaker="Judge">...Ah! Sorry! I didn't mean to say it with that much enthusiasm. All I wanted to do was try saying it once. Here, let me try that again... "<cutIn type="holdIt">Hold it!</cutIn>"</line>
 <line speaker="Edgeworth">...Is there something of value that you'd like to say?</line>
 <line speaker="Judge">Yes, actually, there is! I remembered something else just now! Mr. Edgeworth! Please allow me to testify to the court one more time!</line>
 <line speaker="Franziska">Even if we overruled him, he'd just keep on talking, wouldn't he?</line>
@@ -1843,14 +1843,14 @@
 <line speaker="Judge">Oh, by the way, was there someone celebrating a birthday during the recess? I could have sworn that I heard a popper going off... Come to think of it... The other day with my grandson...</line>
 <line speaker="Edgeworth"><thought>The most critical point in this argument is when did the Judge look into the hallway? And whether that lines up with when the gun was actually fired.</thought> Your Honor, if I may... I'd like to clarify a few details in your testimony!</line>
 <line speaker="Judge">I suppose it's possible you can't see a seated person from the restroom window.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">In that case, do you concede that you were overconfident in your last testimony?</line>
 <line speaker="Judge">N-Now hold on there! I just said that it's possible you can't see a seated person from the restroom this time! But you know something? I don't think you know when the prints you referenced were left on that bench, do you!?</line>
 <line speaker="Edgeworth">Nngh!</line>
 <line speaker="Judge">While you have proven that it's possible the Detective was sitting... ...I still have a problem with just when those fingerprints were left.</line>
 <line speaker="Edgeworth"><thought>He's right. I have yet to prove when the fingerprints were left on that bench... While he feigns ignorance. His Honor has seen a lot of life... This Judge... I mustn't underestimate him!</thought></line>
 <line speaker="Judge">However, that doesn't mean that the Detective was sitting there when I looked!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">As we established, you went to the restroom during the recess. However, at what point in the recess did you look into that hallway?</line>
 <line speaker="Judge">Hmm... After I called for a recess, I handled the change of prosecutor paperwork... Maybe about 20 minutes until we reconvened...? Yes, that sounds about right.</line>
 <line speaker="Edgeworth">Hmph... Just as I expected.</line>
@@ -1859,22 +1859,22 @@
 <line speaker="Judge">A-Alright. If you insist.</line>
 <line speaker="Add statement">"Let's see... I looked into the hallway about 20 minutes before we were to reconvene."</line>
 <line speaker="Judge">Let's see... I looked into the hallway about 20 minutes before we were to reconvene.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Hmm... Twenty minutes before we reconvened... Very well, what did you do after that?</line>
 <line speaker="Judge">Let's see... I had to make some preparations, so I rushed straight back to the courtroom. I also had to track down a few pieces of paperwork for the various bailiffs.</line>
 <line speaker="Edgeworth">So you rushed back to the courtroom, despite having just heard a gunshot?</line>
 <line speaker="Judge">Well, at the time... I thought it was just the sound of a noise popper. I really couldn't think of any other explanation than someone having a birthday party. But now... Now that this has happened...</line>
 <line speaker="Edgeworth">I see... <thought>Thinking back, the Judge did mention something to that effect when we reconvened...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Judge">Anyway! I forgot to testify earlier about probably the most important detail...</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">If it's something that forgettable, I don't need to hear it!</line>
 <line speaker="Judge">Eek! B-But! All I did was forget to mention it!</line>
 <line speaker="Franziska">That sort of excuse may work on other people, but not on a Von Karma!</line>
 <line speaker="Judge">Oh! But it's such an important piece of testimony! Please give me a chance to present it!</line>
 <line speaker="Edgeworth">Hmm... I suppose I have no choice in the matter.</line>
 <line speaker="Judge">As I was leaving the restroom, I heard the loud "BANG!" of a gunshot!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Your Honor, about what you just said...</line>
 <line speaker="Judge">I know! I couldn't believe it myself! But I heard it! "BANG!" went the gunshot! I heard it loud and clear! And then I had a knee-jerk reaction, "Aah!" and jumped into the air! Like this! Yes, just like this! With a quick, "Aah!"</line>
 <line speaker="Edgeworth">......Your Honor. Please remain calm when you're trying to explain yourself to me.</line>
@@ -1908,8 +1908,8 @@
 <line speaker="Edgeworth">Unfortunately... that is the truth.</line>
 <line speaker="Judge">B-But! I heard it clear as day! "BANG!" The loud sound of a gunshot!</line>
 <line speaker="Edgeworth"><thought>The sound of the gunshot... We keep returning to this point of contention. And that piece of evidence... I always did wonder why I found it where I did. However, now I understand what that gunshot the Judge heard really was!</thought> Unfortunately, Your Honor, this is what really produced the gunshot you heard!</line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Franziska">Miles Edgeworth... I have no idea what you are trying to say with that piece.</line>
 <line speaker="Edgeworth">Franziska... You're just still too young to understand.</line>
 <line speaker="Franziska">Stop trying to fool me, and start being mature enough to admit when you're wrong!</line>
@@ -1957,7 +1957,7 @@
 <line speaker="Franziska">He's still singing the same tired tune.</line>
 <line speaker="Edgeworth">Hmph. In that case, I'll just have to change the melody. <thought>I know he's lying, and it's time I pulled the information I need out of him!</thought></line>
 <line speaker="Gumshoe">I came down here to this courthouse on Detective Badd's orders.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">So, was it really Detective Badd who called you down here?</line>
 <line speaker="Gumshoe">You bet it was, pal! I was left in charge of the precinct while everyone was out, and this call comes in... "I want you down here in one minute flat!" he said! Well, I thought this was my big chance, my first case, so I made a mad dash down here! Although, I couldn't exactly get here in a minute flat...</line>
 <line speaker="Edgeworth">So how long did it take you?</line>
@@ -1965,14 +1965,14 @@
 <line speaker="Edgeworth">And what was Detective Badd doing when you finally made it?</line>
 <line speaker="Gumshoe">He was waiting for me down on the first floor in the entrance way, pal!</line>
 <line speaker="Gumshoe">As soon as I got here, he ordered me to stand guard in front of Lobby No. 2.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">And by "he", you mean...?</line>
 <line speaker="Gumshoe">Detective Badd, of course! And, this being my first time at this courthouse... ...he also walked with me up to the 3rd floor hallway in front of the defendant lobbies!</line>
 <line speaker="Edgeworth">And did you meet anyone along the way?</line>
 <line speaker="Gumshoe">Hmm... Well... Just as we entered the hallway, we ran into Ms. Yew. When he heard from Ms. Yew that Mr. Faraday was not to be interrupted... ...that's when Detective Badd told me to stand guard in the hallway, pal!</line>
 <line speaker="Edgeworth"><thought>So far, Detective Gumshoe's testimony is matching up with Detective Badd's...</thought></line>
 <line speaker="Gumshoe">From that time on, until I heard the gunshot, I was in the hallway the whole time!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">You claim to have been in that hallway the "whole time"... ...however, is it not a fact that you did something while you were in that hallway?</line>
 <line speaker="Gumshoe">O-Of course I did something! I guarded the door to Lobby No. 2, pal! What else!?</line>
 <line speaker="Edgeworth">Very well, then. And what exactly does guarding that door entail?</line>
@@ -1989,7 +1989,7 @@
 <line speaker="Edgeworth"><thought>I should hurry up and bring this insipid testimony to a close.</thought></line>
 <line speaker="Change statement">"From that time on, until I heard the gunshot, I was in the hallway the whole time!" to "And until I heard the gunshot, I didn't take a single step away from the Lobby No. 2 door."</line>
 <line speaker="Gumshoe">And until I heard the gunshot, I didn't take a single step away from the Lobby No. 2 door.</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">I'm only going to ask you one more time, Detective Gumshoe. Are you sure you stood in front of the door to Lobby No. 2 the entire time?</line>
 <line speaker="Gumshoe">Yup! After I was told to by Detective Badd... ...I stood guard in front of that door without a single break! S-So believe me when I say that I was in that hallway the whole time already, pal!</line>
 <line speaker="Franziska">..................</line>
@@ -2001,9 +2001,9 @@
 <line speaker="Franziska">Be quiet!</line>
 <line speaker="Gumshoe">Yeeeeowch!</line>
 <line speaker="Edgeworth"><thought>I should hurry up and bring this insipid testimony to a close.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Gumshoe">On my honor as a detective, I swear it wasn't me, pal!</line>
-<line speaker="Edgeworth"><cutIn>Hold it!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="holdIt">Hold it!</cutIn></line>
 <line speaker="Edgeworth">Would you also be willing to swear that there was no one else in that hall besides you?</line>
 <line speaker="Gumshoe">Wh-Wh-Wh-Wh-Wh-Wh-Wh-What are you talking about!? I just swore to you that I was doing my job, pal!</line>
 <line speaker="Edgeworth">Oh? Then what are you acting so nervous for?</line>
@@ -2032,7 +2032,7 @@
 <line speaker="Gumshoe">*sigh* OK, OK, I'm sorry for lying! But that's all I'm sorry for, you got that! Because I'm not holding anything else back!</line>
 <line speaker="Edgeworth"><thought>That last statement... It may sound like it makes sense... ...however, there is something I don't quite believe about it!</thought> ...Are you sure you're not withholding further information from us?</line>
 <line speaker="Gumshoe">Huh? O-O-O-O-Of course not! I've got nothing else to hide, pal!</line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Hmph. Oh, if only that were true, Detective Gumshoe.</line>
 <line speaker="Gumshoe">B-B-B-B-B-But it IS true, pal! I swear there's nothing else!</line>
 <line speaker="Edgeworth">Detective Gumshoe, I'm sure you are aware of the price of a pack of Swiss rolls, correct?</line>
@@ -2050,8 +2050,8 @@
 <line speaker="Edgeworth">Of course I do.</line>
 <line speaker="Gumshoe">Whaaaaaaaaaaaat!? Hooooooooooow!?</line>
 <line speaker="Edgeworth"><thought>What proof do I have that there must have been someone else there in the hallway...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Gumshoe">What the heck is that!? Heh, I knew you didn't really have anything! You prosecutors are all the same, always lying to people. You should stop, you know!</line>
 <line speaker="Edgeworth">Nnghhhooooh! I refuse to be lectured by the likes of you, Detective!</line>
 <line speaker="Franziska">Miles! How long do you plan on being strung along by this moronic detective!?</line>
@@ -2104,8 +2104,8 @@
 <line speaker="Kay">*hiss!*</line>
 <line speaker="Franziska">...She's like a stray cat.</line>
 <line speaker="Edgeworth"><thought>I wonder if I should feed her something...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Kay">*hissss!*</line>
 <line speaker="Edgeworth"><thought>She swatted it back at me...</thought></line>
 <line speaker="Kay">Graaaaaaawr!</line>
@@ -2249,8 +2249,8 @@
 <line speaker="Edgeworth">Hmph. His reason for lying is very simple.</line>
 <line speaker="Franziska">Wh-What!?</line>
 <line speaker="Edgeworth">Here is what I believe to be his reason: From simple observation of the Detective's actions and his interactions with Kay... ...it's obvious the Detective was lying for the young girl's sake. And this piece of evidence will show you exactly why. <thought>Which piece of evidence proves that Detective Gumshoe was lying on account of Kay?</thought></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
-<line speaker="Edgeworth"><cutIn>Take that!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
+<line speaker="Edgeworth"><cutIn type="takeThat">Take that!</cutIn>></line>
 <line speaker="Edgeworth">This is that piece of evidence!</line>
 <line speaker="Franziska">What are you showing me that for? It doesn't seem to add anything to the conversation.</line>
 <line speaker="Gumshoe">Umm, I don't get what you're trying to say with that. Or do you just like showing it off?</line>
@@ -2290,7 +2290,7 @@
 <line speaker="Edgeworth">It's alright. I'm perfectly unharmed. But about this Swiss roll... Would it be alright with you... ...If I held onto it until Detective Gumshoe is cleared of all charges and free to go?</line>
 <line speaker="Kay">Yeah! Sure! Just make sure you give it to Gummy afterwards, OK!?</line>
 <line speaker="Edgeworth">Of course. I promise. Now then, I believe we have proven beyond the shadow of a doubt... ...that Detective Gumshoe was in the hallway for the entire duration of his duty. Which undeniably proves... ...that Detective Gumshoe could not have committed the double murders.</line>
-<line speaker="Yew"><cutIn>Objection!</cutIn></line>
+<line speaker="Yew"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Yew">Actually, it proves just the opposite, Edgeworth. You've just shown... ...that Detective Gumshoe is the only one who could have committed the crime.</line>
 <line speaker="Edgeworth">Wh-What do you mean!?</line>
 <line speaker="Franziska">It's quite rude to eavesdrop, Ms. Yew.</line>
@@ -2318,11 +2318,11 @@
 <line speaker="Edgeworth"><thought>Hmm, the pieces don't fit together quite right...</thought></line>
 <line speaker="Edgeworth"><thought>I can't see a clear connection between these two pieces of information.</thought></line>
 <line speaker="Edgeworth"><thought>...Not exactly a shining example of the perfect line of logic.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence that proves the flaw in your theory!</line>
 <line speaker="Franziska">Miles Edgeworth! You dare try to bluff through this by presenting unrelated evidence? You're a disgrace to the Von Karma name!</line>
 <line speaker="Edgeworth">Nngh! <thought>Could I have it all wrong...?</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Franziska, I advise you take a look at this piece of evidence.</line>
 <line speaker="Franziska">And what are you trying to say with this?</line>
 <line speaker="Edgeworth">Hmph. I'm saying that this piece of evidence...</line>
@@ -2330,49 +2330,49 @@
 <line speaker="Edgeworth">Arrghnn...!</line>
 <line speaker="Franziska">Miles Edgeworth... Just face it; I'm going to win our little competition.</line>
 <line speaker="Edgeworth"><thought>Nngh! I have to calm down and do a better job of finding a flaw in her logic!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There is a clear contradiction in your line of logic!</line>
 <line speaker="Franziska">And where, pray tell, would that contradiction be?</line>
 <line speaker="Edgeworth">Maybe... nowhere?</line>
 <line speaker="Franziska">Exactly.</line>
 <line speaker="Edgeworth">Nngh! <thought>Could I have it all wrong...? At this rate, I'll lose the truth for all eternity... I need to pay more attention to her testimony...!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Ms. Yew, what do you think about this?</line>
 <line speaker="Yew">Well, as someone with more experience in law than you, allow me to share something: Use your own brain and figure it out yourself. That's my advice to you.</line>
 <line speaker="Edgeworth">I see. Well, I'm terribly sorry to have bothered you with such a mundane question.</line>
 <line speaker="Yew">Phwwwwh! No need to be so serious! Tell you what, I'll toss in another piece of evidence. In no way does my testimony contradict with that piece of evidence.</line>
 <line speaker="Edgeworth">Nngh......... <thought>I should've known...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">I believe this piece of evidence contradicts your statement just now.</line>
 <line speaker="Yew">..................</line>
 <line speaker="Edgeworth">Ms. Yew! I insist that you please take a good look at this!</line>
 <line speaker="Yew">I don't need to do anything. I can already tell you it doesn't contradict a thing I said.</line>
 <line speaker="Edgeworth">Nngh... I... I see...! <thought>She's fearsome when she's not doubled over in laughter! I must treac carefully here!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There is a glaring flaw in your testimony, and this piece of evidence will prove it!</line>
 <line speaker="Yew">Phwwh...! Mnphwwwh! Ahahahahahahahahahahahahaha!</line>
 <line speaker="Edgeworth">! What exactly is so funny!?</line>
 <line speaker="Yew">Phwwh! You say you're a disciple of Von Karma...? Phwwwwwwh! I can't wait to see what kind of prodigy you really turn out to be in court! Phwwh! Because, right now, you're a prodigy among mistaken buffons, that's for sure! Ahah!</line>
 <line speaker="Franziska">Miles Edgeworth! You will take your punishment for soiling the good name of Von Karma!</line>
 <line speaker="Edgeworth">Nnghaah! <thought>Your simultaneous reprimands are punishment enough!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Your Honor! There is a very large flaw in your statement just now!</line>
 <line speaker="Judge">Hmm? I don't understand what you're talking about. Where is it, Mr. Edgeworth?</line>
 <line speaker="Edgeworth">N-Nevermind, Your Honor.</line>
 <line speaker="Judge">Making such accusatory statements... I don't know how I feel about that.</line>
 <line speaker="Edgeworth">I-I'm truly sorry, Your Honor! <thought>Arghn! I have to find a flaw in his testimony before the truth escapes me completely!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement and this piece of evidence... contradict one another!</line>
 <line speaker="Judge">I don't feel a contradiction in the air.</line>
 <line speaker="Edgeworth">Arghn!</line>
 <line speaker="Judge">Mr. Edgeworth... I advise you to be a little more cautious with what you say.</line>
 <line speaker="Edgeworth">Mmmrrrgh... <thought>It would appear that I was mistaken.</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">That statement right now contradicts with this piece of evidence!</line>
 <line speaker="Judge">Really!?</line>
 <line speaker="Judge">R-R-R-REALLY!? Well then, I guess we're still alright. Please continue with the testimony.</line>
 <line speaker="Edgeworth">The two of them overruled me!? <thought>At this rate, I will lose the truth to the darkness forever... I need to stay calm, think carefully, and find a flaw in his testimony, fast!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">There is clearly a contradiction here!</line>
 <line speaker="Gumshoe">There is?</line>
 <line speaker="Edgeworth">Do you not recognize that there is one?</line>
@@ -2380,13 +2380,13 @@
 <line speaker="Edgeworth">I see. In that case, I retract what I said...</line>
 <line speaker="Franziska">Why can't you ever just admit when you're wrong!?</line>
 <line speaker="Edgeworth">Gnnrrrk! <thought>Curses... I can't keep on doing this. I must regain my composure, and think it through again!</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">Detective Gumshoe. There is a problem with that statement you just made!</line>
 <line speaker="Gumshoe">What are you talking about!? There's nothing wrong with my statement, pal! So don't go around slamming what I have to say for no good reason, alright!? Unless you do have a good reason! In which case, can you explain it to me in a way that even I can understand, pal!?</line>
 <line speaker="Edgeworth">Mmnnrrgh...</line>
 <line speaker="Franziska">Hmph. Miles... It looks like that evidence will be of little use to you in breaking Scruffy's lie.</line>
 <line speaker="Edgeworth">Yes, I can see that! <thought>I guess I was wrong... I need to pay attention and listen carefully to his testimony one more time...</thought></line>
-<line speaker="Edgeworth"><cutIn>Objection!</cutIn></line>
+<line speaker="Edgeworth"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Edgeworth">This piece of evidence proves the contradiction in your statement!</line>
 <line speaker="Gumshoe">Huh? What exactly does it prove?</line>
 <line speaker="Edgeworth">Um, I suppose it doesn't "prove" so much as...</line>

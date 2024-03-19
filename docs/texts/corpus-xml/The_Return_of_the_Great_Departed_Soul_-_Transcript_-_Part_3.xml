@@ -177,7 +177,6 @@
 <line speaker="Ryunosuke">Miss Susato! Do you see...this?!</line>
 <line speaker="Susato">...You have such great expectation in your eyes, Mr Naruhodo. But I'm afraid... ...nothing particularly useful comes to mind at all.</line>
 <line speaker="Ryunosuke">Oh. Sorry. I'm, I'm not sure what I was expecting, really.</line>
-<line speaker="After clearing all Converse options with Susato Mikotoba and Iris Wilson">Susato:</line>
 <line speaker="Ryunosuke">So...you're fully abreast of the situation already, Miss Susato. I'd expected nothing less, to be honest.</line>
 <line speaker="Susato">I would think our first port of call should be to investigate this Mr Drebber. The engineer responsible for building the elaborate machine that was used to effect this extraordinary trick.</line>
 <line speaker="Ryunosuke">Yes, a conjuror of sorts, by the sound of it, well known in the fields of science and magic.</line>
@@ -460,7 +459,6 @@
 <line speaker="Ryunosuke">Oh...</line>
 <line speaker="Stronghart">Especially when the evidence in question is so dull.</line>
 <line speaker="Ryunosuke"><thought>Ah, so that's the real reason.</thought></line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Stronghart">Go ahead.</line>
 <line speaker="Ryunosuke">It's about Professor Harebrayne's experimental machine. We'd like your permission to examine the remains, if possible!</line>
 <line speaker="Stronghart">......... Are you well versed in science, then?</line>
@@ -512,7 +510,6 @@
 <line speaker="Susato">Well no, they wouldn't have. They're taxidermy mounts, Mr Naruhodo.</line>
 <line speaker="Ryunosuke">Ugh...I was afraid you were going to say that. I've been trying very hard to tell myself they're just sleeping with their eyes open.</line>
 <line speaker="Susato">Yes, I think perhaps you were wise to put something like your daruma doll on display in the office instead...</line>
-<line speaker="After examining open book on desk">???:</line>
 <line speaker="Ryunosuke">Ah! Sorry! We, um, had something we wanted to ask you, but you weren't here, so...</line>
 <line speaker="Sithe">So you thought you'd snoop around? That's acceptable to you people from the East, is it? Well? What do you want?</line>
 <line speaker="Ryunosuke">Ah, um... Lord Stronghart told us, you see... ...that it was you who examined the victim's body. Erm, Mr Asman's body, I mean.</line>
@@ -535,7 +532,6 @@
 <line speaker="Ryunosuke">Ah! No no, I didn't mean...</line>
 <line speaker="Sithe">So I'm not good enough? In that case, why would you show me anything?</line>
 <line speaker="Ryunosuke"><thought>Ugh, clearly you're too good for me to show you anything again...ever!</thought></line>
-<line speaker="After clearing Converse option">???:</line>
 <line speaker="Ryunosuke">...Agh! <thought>Wh-Where did SHE spring from? And...did she just call the doctor, 'Mama'?</thought></line>
 <line speaker="Sithe">This is a 'lawyer', dear.</line>
 <line speaker="???">Oh...</line>
@@ -764,7 +760,6 @@
 <line speaker="Gina">If I can lead everyone to that Drebber's workshop... ...I'll be the boss's boss before next week!</line>
 <line speaker="Susato">Oh yes, Gina! I'm sure you'll be promoted!</line>
 <line speaker="Ryunosuke"><thought>Poor, poor Gregson...</thought></line>
-<line speaker="After clearing all Converse options in British Supreme Court, Lord Chief Justice's Office then clearing all Converse options in Great Exhibition Grounds, Foot of the Crystal Tower">Gina:</line>
 <line speaker="Ryunosuke">Sorry?</line>
 <line speaker="Gina">We're gonna get goin' after that dodgy engineer cove right this minute. Oh, but 'ang on... Someone's s'posed to be on guard duty 'ere all the time.</line>
 <line speaker="Ryunosuke">I'm afraid we can't help. We need to get on with our investigation as well, Gina.</line>
@@ -906,7 +901,6 @@
 <line speaker="Susato">Oh yes, the wood's cracked and broken a little. I suppose because it fell from such a height?</line>
 <line speaker="Ryunosuke">Yes, from the height at which the balloon was flying, down into the Crystal Tower below. A fall of about thirty feet. ...Or nine metres.</line>
 <line speaker="Susato">Leaving the man inside tragically dead.</line>
-<line speaker="After clearing all Converse options with Barok van Zieks">???:</line>
 <line speaker="Van Zieks">...Ah, the file I requested for the trial tomorrow. Thank you.</line>
 <line speaker="Susato">.........</line>
 <line speaker="Ryunosuke">...Are you alright?</line>
@@ -936,7 +930,6 @@
 <line speaker="Van Zieks">Now then, unless I'm much mistaken, I believe this conversation has run its course...</line>
 <line speaker="Ryunosuke">Oh... Yes, um, thank you. <thought>I definitely saw a reaction there... When Susato-san called out like that, it really seemed to hit a nerve... When she called out 'Kazuma-sama'...</thought></line>
 <line speaker="Susato">.........</line>
-<line speaker="After examining large machine and large cage, and clearing all Converse options with Barok van Zieks">Susato:</line>
 <line speaker="Ryunosuke">Yes. Yesterday, in fact. At Lord van Zieks's office.</line>
 <line speaker="Susato">I see... ......... And if...if Kazuma-sama really is still alive... ...it means that Mr Sholmes lied to us.</line>
 <line speaker="Ryunosuke">...I know. <thought>We're going to need to speak to him about that.</thought></line>
@@ -957,7 +950,6 @@
 <line speaker="Ryunosuke">Apparently we can't look around on the stage now because the Forensic Investigation Team are at work. Can't you do anything, Gina? In your capacity as Inspector Lestrade?</line>
 <line speaker="Gina">Look, I'd like to 'elp you out. But I'm just a trainee, ain't I? Ain't nuffin' I can do.</line>
 <line speaker="Ryunosuke"><thought>When it suits you, yes...</thought></line>
-<line speaker="After clearing Converse option in Forensics Laboratory, correctly presenting Drebber's Card in Great Exhibition Grounds, Foot of the Crystal Tower, and examining large machine, large cage and clearing all Converse options with Barok van Zieks in Great Exhibition Grounds, Experimentation Stage">Ryunosuke:</line>
 <line speaker="Susato">I'm sure Gina and little Toby won't let us down! Now then... ...do you think we ought to try to speak with Mr Sholmes at this point? We have things to discuss and I'm dying to meet him again after all these months.</line>
 <line speaker="Ryunosuke">Yes, it's quite possible he might know something useful, you're right. We ought to find him at Madame Tusspells. He's supposed to be working there as a temporary waxwork exhibit.</line>
 <line speaker="Susato">Yes! Iris told me all about his latest unusual venture!</line>
@@ -1092,7 +1084,6 @@
 <line speaker="Ryunosuke">Are you alright, Mr Sholmes?</line>
 <line speaker="Sholmes">......... Ah. Yes, forgive me. Very interesting, this. Very interesting, indeed.</line>
 <line speaker="Susato">What's wrong, Mr Sholmes? You've turned quite pale all of a sudden...</line>
-<line speaker="After clearing all Converse options and presenting Photograph of Drebber">Sholmes:</line>
 <line speaker="Ryunosuke">Oh! Well...what is it?</line>
 <line speaker="Sholmes">As I explained to you when you arrived, the missing waxwork has been returned. And I personally reinstalled it in the exhibit from which it was taken...behind those thick curtains.</line>
 <line speaker="Ryunosuke">Oh, yes... The 'Professor' exhibit, isn't it?</line>
@@ -1299,7 +1290,6 @@
 <line speaker="Ryunosuke">What? Have you worked something out?!</line>
 <line speaker="Sholmes">There is indeed one deduction to be made from this photograph, yes. Each time you show it to me, it will cost you five shillings. Otherwise...I have nothing to add.</line>
 <line speaker="Ryunosuke">...Wonderful. And nothing for me to take away either.</line>
-<line speaker="After clearing all Converse options, examining camera on figure on left, and examining neck of headless figure">AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!</line>
 <line speaker="Gina">W-W-Wot the bleedin' Nora, 'Oddo?! Wot 'ave you gone an' done?!</line>
 <line speaker="Ryunosuke">Gina! What are you doing here?</line>
 <line speaker="Gina">I, I asked Iris, and she said this is where ya'd be, so... SO!</line>
@@ -1408,7 +1398,6 @@
 <line speaker="Ryunosuke">There's a little metal plaque here, look. 'Fostering burgeoning talent for the future of scientific discovery'.</line>
 <line speaker="Susato">...It seems rather ironic, doesn't it?</line>
 <line speaker="Ryunosuke">But clearly Mr Drebber really was a very talented scientist.</line>
-<line speaker="After examining overturned trophy, large machine prototype, door, and quiver full of arrows">*Thud*</line>
 <line speaker="Susato">Oh...</line>
 <line speaker="Ryunosuke">Is something wrong, Miss Susato?</line>
 <line speaker="Susato">Well...I thought I heard a noise. From the far side of that door. Well, Gina? Did you hear it too?</line>
@@ -1520,7 +1509,7 @@
 <line speaker="Ryunosuke">Haah...</line>
 <line speaker="Sholmes">It's a marvellous line, wouldn't you agree? One of my more enduring pearls of wisdom. I had Iris come up with the exact phrasing. My original was...clumsy.</line>
 <line speaker="Ryunosuke">...Yes, I have a feeling I've read it in something that Miss Susato lent me once.</line>
-<line speaker="Susato"><cutIn>Objection!</cutIn></line>
+<line speaker="Susato"><cutIn type="objection">Objection!</cutIn></line>
 <line speaker="Susato">Actually...there IS one other thing, Mr Sholmes...</line>
 <line speaker="Ryunosuke"><thought>Ah, the spell's broken at last.</thought></line>
 <line speaker="Susato">The rope you found was on the floor, wasn't it?</line>
@@ -1838,7 +1827,6 @@
 <line speaker="Ryunosuke">Do you, um...have anything to say about it?</line>
 <line speaker="Drebber">.........</line>
 <line speaker="Ryunosuke"><thought>Are these strange mechanical movements supposed to be some sort of answer...?</thought></line>
-<line speaker="After clearing all Converse options">Ryunosuke:</line>
 <line speaker="Drebber">.........</line>
 <line speaker="Ryunosuke">Professor Harebrayne's instantaneous kinesis experiment at the Great Exhibition... ...and the waxwork model you stole, which this head belongs to.</line>
 <line speaker="Drebber">That's no ordinary head, you know. That's the head...of the Professor. Clad in a mask with a lock so strong, I'm unable to open it safely to reveal the killer's identity. I've been considering carrying it around as...protection. After all-</line>
