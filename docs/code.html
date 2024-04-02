@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Code</title>
-        <link rel="icon" type="image/x-icon" href="images/attorneys_badge.png" />
+        <title>Code + Data</title>
+        <link rel="icon" type="image/x-icon" href="images/Computer_printout.png" />
         <link rel="stylesheet" href="webstyle.css" />
         <meta charset="UTF-8" />
         <meta name="author" content="Reece Cullen" />
@@ -20,9 +20,6 @@
                     <a href="members.html">Members</a>
                 </div>
                 <div class="button">
-                    <a href="pageGuide.html">Page Guide</a>
-                </div>
-                <div class="button">
                     <a href="code.html">Code</a>
                 </div>
                 <div class="button">
@@ -32,8 +29,210 @@
                     <a href="aiCases.html">AI-Generated Cases</a>
                 </div>
             </nav>
-            <p>This page contains information about all code we used when making this project.</p>
-            <img src="images/worm_apocalypse.png" alt="Placeholder image" />
+            <section class="characters">
+                <div class="bioImgDiv">
+                    <img src="images/Basil-Talk.gif" class="bio" alt="Lisa Basil" />
+                </div>
+                <p class="characters"> This page contains information about all code we created when
+                    making this project. You'll be able to look at how we obtained our data, as well
+                    as samples of the resulting XML code we created with RegEx expressions.<br />
+                    Basically, our workflow for data-gathering went like this:<br /> Online
+                    transcripts -> Text files -> XML files<br /> Then we could use that structured
+                    data to analyze trends in the series like characters' numbers of lines. For more
+                    about that, check out the <a href="analysis.html">Analysis Page</a>.</p>
+            </section>
+            <p>To begin with, we needed to decide on a source to glean our data from. Obviously we
+                couldn't play all the games while copying each line! The source we settled on was
+                the Ace Attorney franchise's <a
+                    href="https://aceattorney.fandom.com/wiki/Ace_Attorney_Wiki">Fandom page.</a> A
+                Fandom page is an online encyclopedia page about a movie, TV show, or game series,
+                created and moderated entirely by fans. The Fandom site has <a
+                    href="https://aceattorney.fandom.com/wiki/Category:Transcripts">transcripts of
+                    all of the chapters of the series.</a> However, the HTML behind these
+                transcripts was very intimidating to read, as you can see from this brief
+                sample:</p>
+            <div class="codeWindow">
+                <code> &lt;!DOCTYPE html&gt;<br /> &lt;html class="client-nojs" lang="en"
+                    dir="ltr"&gt;<br /> &lt;head&gt;<br /> &lt;meta charset="UTF-8"/&gt;<br />
+                    &lt;title&gt;Category:Transcripts | Ace Attorney Wiki |
+                    Fandom&lt;/title&gt;<br />
+                    &lt;script&gt;document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"1bf5989d5f11bb285c04add17f364fbf","wgCSPNonce":false,"wgCanonicalNamespace":"Category","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":14,"wgPageName":"Category:Transcripts","wgTitle":"Transcripts","wgCurRevisionId":141564,"wgRevisionId":141564,"wgArticleId":19444,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Ace
+                    Attorney"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Category:Transcripts","wgRelevantArticleId":19444,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoExternals":false,<br />
+                    "wgArticleInterlangList":[],"wikiaPageType":"article","isDarkTheme":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"egMapsScriptPath":"/extensions-ucp/mw139/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgIsTestModeEnabled":false,"wgEnableLightboxExt":true,"wgDisableCMSNotifications":false,"wgEditSubmitButtonLabelPublish":false,"mwAuthBaseUrl":"https://auth.fandom.com","wgPerformanceMonitoringSamplingFactor":10,"wgPerformanceMonitoringEndpointUrl":"https://beacon.wikia-services.com/__track/special/performance_metrics?w=4382\u0026lc=en\u0026d=aceattorney\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=0","wgSoftwareVersion":"release-772@release-772.002","wgFandomQuizzesEnabled":true,<br />
+                    "wgFandomQuizzesOnFepoEnabled":false,"wgFandomQuizzesGenAiQuizzesOnArticlesEnabled":false,"wgFandomQuizzesCommunityQuizzesOnArticlesEnabled":false,"wgPageLanguageHasWordBreaks":true,"egFacebookAppId":"112328095453510","wgDisableAnonymousEditing":false,"comscoreKeyword":"wikiacsid_games","quantcastLabels":"Genre.live-action,Genre.mystery,Genre.adventure,Genre.sim,Genre.puzzle,Genre.manga,Genre.thriller,Genre.shonen,Genre.seinen,Genre.anime,Genre.musical,Genre.drama,Genre.strategy,Genre.visual
+                    novel,Genre.comedy,Genre.crime,Media.music,Media.tv,Media.movies,Media.games,Media.anime,Media.comics,Media.books,Theme.detective,Theme.police,Theme.heroes,Theme.japan,Theme.spy,TV.amazon,TV.funimation,TV.crunchyroll","wgCategorySelect":{"defaultNamespace":"Category","defaultNamespaces":"Category"},"wgEnableDiscussions":true,"viewTrackURL":<br />
+                    "https://beacon.wikia-services.com/__track/view?a=19444\u0026n=14\u0026env=prod\u0026c=4382\u0026lc=en\u0026lid=75\u0026x=aceattorney\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","viewTrackUrlPrefix":"https://beacon.wikia-services.com/__track/view?a=19444\u0026n=14\u0026env=prod\u0026c=4382\u0026lc=en\u0026lid=75\u0026x=aceattorney\u0026s=ucp_desktop\u0026mobile_theme=fandom-light\u0026rollout_tracking=mw139","wgEnableHydraFeatures":false,"wgAmplitudeApiKey":"6765a55f49a353467fec981090f1ab6a","wgUserIdForTracking":-1,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgRequestInWikiContext":true,"wgIsFancentralWiki":false,"wgRailModuleList":["Fandom\\FandomDesktop\\Rail\\PopularPagesModuleService"],"wgDisableCrossLinkingExperiments":false,"wgSitenoticeId":2};RLSTATE={"site.styles":"ready","user.styles":"ready","user.options":"loading","ext.fandom.CategoryPage.category-layout-selector.css":"ready",<br />
+                    "ext.fandom.CategoryPage.category-page3.css":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.staffSig.css":"ready","vendor.tippy.css":"ready","ext.fandom.bannerNotifications.desktop.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.Uncrawlable.css":"ready","ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","ext.fandom.ThumbnailsViewImage.css":"ready","ext.fandom.Experiments.TRFC147":"ready","skin.fandomdesktop.Math.css":"ready","skin.fandomdesktop.CargoTables-ext.css":"ready","ext.fandom.FandomEmbedVideo.css":"ready","ext.fandom.ArticleInterlang.css":"ready","ext.fandom.HighlightToAction.css":"ready","skin.fandomdesktop.styles":"ready","ext.fandomVideo.css":"ready","ext.fandom.GlobalComponents.GlobalNavigationTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalComponentsTheme.light.css":"ready","ext.fandom.GlobalComponents.GlobalNavigation.css":"ready","ext.fandom.GlobalComponents.GlobalExploreNavigation.css":"ready",<br />
+                    "ext.fandom.GlobalComponents.GlobalFooter.css":"ready","ext.fandom.GlobalComponents.CommunityHeader.css":"ready","ext.fandom.GlobalComponents.StickyNavigation.css":"ready","ext.fandom.GlobalComponents.CommunityHeaderBackground.css":"ready","ext.fandom.GlobalComponents.RegistrationButtons.css":"ready","skin.fandomdesktop.rail.popularPages.css":"ready","skin.fandomdesktop.rail.css":"ready"};RLPAGEMODULES=["ext.fandom.CategoryPage.CategoryLayoutSelector.js","site","mediawiki.page.ready","ext.fandom.mediaWikiMigrationHooks.js","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.fandom.performanceMonitoring.js","ext.fandom.FacebookTags.js","ext.fandom.SilverSurferLoader.trackingWelcomeTool.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.categorySelect.js","ext.categorySelectFandomDesktop.css","ext.fandom.bannerNotifications.js","ext.fandom.bannerNotifications.messages","ext.fandom.Track.js",<br />
+                    "ext.fandom.wikiaBar.js","ext.fandom.ContentReview.legacyLoaders.js","ext.fandom.ContentReview.jsReload.js","ext.fandom.site","ext.fandom.ImportJs","ext.fandom.ContentReviewTestModeMessages","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.TimeAgoMessaging.js","ext.fandom.ImageGalleryIconModuleInit.js","ext.fandom.Thumbnails.js","ext.fandom.Thumbnails.messages","ext.fandom.FandomEmbedVideo.js","ext.fandom.HighlightToAction.js","ext.fandom.HighlightToAction.messages","skin.fandomdesktop.js","skin.fandomdesktop.messages","ext.fandom.GlobalComponents.SearchModal.messages","ext.fandom.GlobalComponents.GlobalNavigationAnon.js","ext.fandom.GlobalComponents.GlobalExploreNavigation.js","ext.fandom.GlobalComponents.GlobalFooter.js","ext.fandom.GlobalComponents.CommunityHeader.js","ext.fandom.GlobalComponents.StickyNavigation.js","ext.fandom.GlobalComponents.RegistrationButtons.js","skin.fandomdesktop.rail.toggle.js","skin.fandomdesktop.rail.lazyRail.js",<br />
+                    "ext.fandom.nositenotice.js","ext.fandom.Lightbox.js"];&lt;/script&gt;<br />
+                    &lt;script&gt;(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});&lt;/script&gt;<br />
+                    &lt;link rel="stylesheet"
+                    href="/load.php?lang=en&amp;modules=ext.fandom.ArticleInterlang.css%7Cext.fandom.CategoryPage.category-layout-selector.css%7Cext.fandom.CategoryPage.category-page3.css%7Cext.fandom.CreatePage.css%7Cext.fandom.Experiments.TRFC147%7Cext.fandom.FandomEmbedVideo.css%7Cext.fandom.GlobalComponents.CommunityHeader.css%7Cext.fandom.GlobalComponents.CommunityHeaderBackground.css%7Cext.fandom.GlobalComponents.GlobalComponentsTheme.light.css%7Cext.fandom.GlobalComponents.GlobalExploreNavigation.css%7Cext.fandom.GlobalComponents.GlobalFooter.css%7Cext.fandom.GlobalComponents.GlobalNavigation.css%7Cext.fandom.GlobalComponents.GlobalNavigationTheme.light.css%7Cext.fandom.GlobalComponents.RegistrationButtons.css%7Cext.fandom.GlobalComponents.StickyNavigation.css%7Cext.fandom.HighlightToAction.css%7Cext.fandom.Thumbnails.css%7Cext.fandom.ThumbnailsViewImage.css%7Cext.fandom.Uncrawlable.css%7Cext.fandom.bannerNotifications.desktop.css%7Cext.fandom.quickBar.css%7Cext.fandomVideo.css%7Cext.staffSig.css%7Cext.visualEditor.desktopArticleTarget.noscript%7Cskin.fandomdesktop.CargoTables-ext.css%7Cskin.fandomdesktop.Math.css%7Cskin.fandomdesktop.rail.css%7Cskin.fandomdesktop.rail.popularPages.css%7Cskin.fandomdesktop.styles%7Cvendor.tippy.css&amp;only=styles&amp;skin=fandomdesktop"/&gt;<br />
+                    &lt;script async=""
+                    src="/load.php?cb=20240220010657&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=fandomdesktop"&gt;&lt;/script&gt;<br />
+                    &lt;meta name="ResourceLoaderDynamicStyles" content=""/&gt;<br /> &lt;link
+                    rel="stylesheet"
+                    href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=fandomdesktop"/&gt;<br />
+                    &lt;meta name="generator" content="MediaWiki 1.39.6"/&gt;<br /> &lt;meta
+                    name="format-detection" content="telephone=no"/&gt;<br /> &lt;meta
+                    name="twitter:card" content="summary"/&gt;<br /> &lt;meta name="twitter:site"
+                    content="@getfandom"/&gt;<br /> &lt;meta name="twitter:url"
+                    content="https://aceattorney.fandom.com/wiki/Category:Transcripts"/&gt;<br />
+                    &lt;meta name="twitter:title" content="Category:Transcripts | Ace Attorney Wiki
+                    | Fandom"/&gt;<br /> &lt;meta name="twitter:description" content="English
+                    language transcripts for Ace Attorney episodes."/&gt;<br /> &lt;meta
+                    name="viewport" content="width=device-width, initial-scale=1.0,
+                    user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0"/&gt;<br /> &lt;link
+                    href="/wikia.php?controller=ThemeApi&amp;method=themeVariables"
+                    rel="stylesheet"/&gt;<br /> &lt;link rel="alternate" type="application/x-wiki"
+                    title="Edit" href="/wiki/Category:Transcripts?action=edit"/&gt;<br /> &lt;link
+                    rel="shortcut icon"
+                    href="https://static.wikia.nocookie.net/aceattorney/images/4/4a/Site-favicon.ico/revision/latest?cb=20210628162413"/&gt;<br />
+                    &lt;link rel="search" type="application/opensearchdescription+xml"
+                    href="/opensearch_desc.php" title="Ace Attorney Wiki (en)"/&gt;<br /> &lt;link
+                    rel="EditURI" type="application/rsd+xml"
+                    href="https://aceattorney.fandom.com/api.php?action=rsd"/&gt;<br /> &lt;link
+                    rel="license" href="https://www.fandom.com/licensing"/&gt;<br /> &lt;link
+                    rel="canonical"
+                    href="https://aceattorney.fandom.com/wiki/Category:Transcripts"/&gt;<br />
+                    &lt;meta property="fb:app_id" content="112328095453510" prefix="fb:
+                    http://www.facebook.com/2008/fbml"/&gt;<br /> &lt;script
+                    type="application/ld+json"&gt;{"@context":"http://schema.org","@type":"Article","url":"https://aceattorney.fandom.com/wiki/Category:Transcripts","name":"Transcripts","headline":"Transcripts","mainEntity":{"@type":"Thing","url":"https://aceattorney.fandom.com/wiki/Category:Transcripts","name":"Transcripts","image":"https://static.wikia.nocookie.net/aceattorney/images/6/62/AoUS_Card.png/revision/latest/scale-to-width-down/1200?cb=20210816151310"},"about":{"@type":"Thing","url":"https://aceattorney.fandom.com/wiki/Category:Transcripts","name":"Transcripts","image":"https://static.wikia.nocookie.net/aceattorney/images/6/62/AoUS_Card.png/revision/latest/scale-to-width-down/1200?cb=20210816151310"},"author":{"@type":"Organization","url":"https://aceattorney.fandom.com/wiki/Category:Transcripts?action=credits","name":"Contributors
+                    to Ace Attorney Wiki"},"publisher":{"@type":"Organization","name":"Fandom,
+                    Inc.","logo":{"@type":"ImageObject","url":"https://static.wikia.nocookie.net/750feb85-de88-4a4f-b294-8b48142ac182/thumbnail-down/width/1280/height/720"}},"abstract":"English
+                    language transcripts for Ace Attorney
+                    episodes.","image":"https://static.wikia.nocookie.net/aceattorney/images/6/62/AoUS_Card.png/revision/latest/scale-to-width-down/1200?cb=20210816151310","thumbnailUrl":"https://static.wikia.nocookie.net/aceattorney/images/6/62/AoUS_Card.png/revision/latest/scale-to-width-down/1200?cb=20210816151310"}&lt;/script&gt;<br />
+                    &lt;meta property="og:type" content="article"/&gt;<br /> &lt;meta
+                    property="og:site_name" content="Ace Attorney Wiki"/&gt;<br /> &lt;meta
+                    property="og:title" content="Transcripts"/&gt;<br /> &lt;meta property="og:url"
+                    content="https://aceattorney.fandom.com/wiki/Category:Transcripts"/&gt;<br />
+                    &lt;meta property="og:image"
+                    content="https://static.wikia.nocookie.net/aceattorney/images/6/62/AoUS_Card.png/revision/latest/scale-to-width-down/1200?cb=20210816151310"/&gt;<br />
+                    &lt;script&gt;<br /> const useMaxDefaultContentWidth = Boolean();<br /> const
+                    defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' :
+                    'collapsed';<br /> let contentWidthPreference;<br /> try {<br />
+                    contentWidthPreference = localStorage.getItem('contentwidth') ||
+                    defaultContentWidth;<br /> } catch (e) {<br /> contentWidthPreference =
+                    defaultContentWidth;<br /> }<br /> if ( contentWidthPreference === 'expanded' )
+                    {<br /> document.documentElement.classList.add('is-content-expanded');<br />
+                    }<br /> &lt;/script&gt;<br />
+                </code>
+            </div>
+            <p>Not pretty... Spoiler alert; there are over 2000 lines of code that we don't care
+                about before the links to the individual transcripts appear. Once we've locked down
+                where exactly the links we care about appear (in this case, their found in the div
+                element with an id of "mw-parser-output"), I was able to download the contents of
+                each transcript page using python code, viewable here (or <a
+                    href="filesForSiteViewing/transcriptGetter.py" target="_blank">here</a>, edited
+                from <a
+                    href="https://github.com/newtfire/textAnalysis-Hub/blob/main/Class-Examples/Python/webScrapers/linkFileScraper.py"
+                    target="_blank">a newtfire file</a>):</p>
+            <div class="codeWindow">
+                <code> import bs4<br />import requests<br />import os<br />archive_url =
+                    "https://aceattorney.fandom.com/wiki/Category:Transcripts"<br />def get_files():<br />
+                    <br /> r = requests.get(archive_url)<br />
+                    <br /> soup = bs4.BeautifulSoup(r.content, 'html.parser')<br />
+                    <br /> div = soup.find('div', class_='category-page__members')<br />
+                    <br /> links = div.find_all('a', href=True)<br />
+                    <br /> base_url = "https://aceattorney.fandom.com"<br />
+                    <br /> for link in links:<br /> href = link['href']<br />
+                    <br /> absolute_url= base_url+href<br /> download_links(absolute_url)<br />
+                    print("All transcripts downloaded!")<br />def download_links(href):<br />
+                    <br />
+                    <br />
+                    <br /> file_name = href.split('/')[-1] + ".html"<br /> print("Downloading file:
+                    " + file_name)<br />
+                    <br /> r = requests.get(href, stream = True)<br /> workingDir =
+                    os.getcwd()<br /> print("current working directory: " + workingDir)<br />
+                    fileDeposit = os.path.join(workingDir, 'corpus', file_name)<br /> print(fileDeposit)<br />
+                    <br /> with open(fileDeposit, 'wb') as f:<br /> for chunk in
+                    r.iter_content(chunk_size = 1024*1024):<br /> if chunk:<br />
+                    f.write(chunk)<br /> print("Downloaded " + file_name)<br /> return<br />if
+                    __name__ == "__main__":<br />
+                    <br /> get_files = get_files()<br />
+                </code>
+            </div>
+            <p>We knew from the outset that we wanted plain text files we could train a
+                text-generation model on, and XML files we could analyze and glean data from. We
+                could do this in two stages; First, make our text corpus, <i>then</i> create our XML
+                corpus from the text files (creating XML files from the raw HTML transcript files
+                proved to be far too complex).</p>
+            <section class="characters">
+                <p>The process of turning the HTML transcripts into text files was pretty simple, it
+                    mostly involved identifying the part of the page where the in-game text appeared
+                    (it was in the same section as the transcript links, the div element with the
+                    "mw-parser-output" id), and removing all the HTML remnants that didn't represent
+                    anything from the game. Importantly, some of the most iconic lines in the game,
+                    those being the 'Objection!'s and 'Take That's, and other lines of such nature,
+                    weren't represented by any text, rather they're represented by PNG's or GIF's,
+                    like the one seen to the right. To solve this, we carefully carved out each one
+                    of these special cut-in speech bubbles with precise XQuery commands going over
+                    the entire collection of HTML transcripts, with our future purge of the HTML
+                    remnants in mind. For a full record of the searches/replaces made in the
+                    process, you can read our <a
+                        href="https://github.com/rcc5418/CourtRecord/blob/main/docs/texts/corpus-txt/Record.md"
+                        target="_blank">markdown file</a> that recorded them!</p>
+                <img class="bio" src="images/Objection.gif" alt="Objection speech bubble!" />
+            </section>
+            <p>As for the process of turning these text files into XML files, the process was a bit
+                buggy, but by identifying how the scripts were structured, we could wrap almost
+                every line in its own element that identified the speaker in an attribute (Check out
+                the markdown file cataloguing this <a
+                    href="https://github.com/rcc5418/CourtRecord/blob/main/docs/texts/corpus-xml/DIGIT210_Semester_Project_Regex.md"
+                    target="_blank">here</a>. The resulting files contained several bugs, but they
+                were pretty simple to fix, we just had to go through the files one by one to see
+                what errors were popping up, then fixing them with XQuery (The markdown for this
+                process is <a
+                    href="https://github.com/rcc5418/CourtRecord/blob/main/docs/texts/corpus-xml/MassFix.md"
+                    target="_blank">here</a>). It's a good thing the errors were as uniform as the
+                code!<br />Here's a snippet of the resulting XML code:</p>
+            <div class="codeWindow">
+                <code> &lt;line speaker="Gumshoe"&gt;Look, a ladder!&lt;/line&gt;<br />&lt;line
+                    speaker="Phoenix"&gt;That's a "step"-ladder.&lt;/line&gt;<br />&lt;line
+                    speaker="Gumshoe"&gt;What's the difference? Looks like a normal ladder to me,
+                    pal.&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;&lt;thought&gt;Surely
+                    everyone knows the difference... I mean, they're pretty ordinary
+                    objects...&lt;/thought&gt;&lt;/line&gt;<br />&lt;line speaker="Gumshoe"&gt;I've
+                    met plenty of guys like you, always picking on the smallest details. The
+                    vegetable store guy near my place does it all the time. He even corrects me when
+                    I ask for a head of lettuce. "That's a cabbage," he says. I'm telling you,
+                    they're the exact same thing!&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;No
+                    they're not! They're completely different!&lt;/line&gt;<br />&lt;line
+                    speaker="Gumshoe"&gt;You have to plant both of them firmly in the ground before
+                    they can grow, don't you? Listen. You gotta take a step back and look at the
+                    bigger picture sometimes. Otherwise you could miss a really important clue.
+                    That's advice from a pro, pal!&lt;/line&gt;<br />&lt;line
+                    speaker="Phoenix"&gt;&lt;thought&gt;...The last person I need advice from is
+                    this guy in front of me.&lt;/thought&gt;&lt;/line&gt;<br />&lt;line
+                    speaker="Phoenix"&gt;This must be an old pan handle or
+                    something.&lt;/line&gt;<br />&lt;line speaker="Gumshoe"&gt;H-How do you know
+                    that!?&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Huh,
+                    what?&lt;/line&gt;<br />&lt;line speaker="Gumshoe"&gt;That was my nickname in
+                    junior high.&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;What, "pan
+                    handle"?&lt;/line&gt;<br />&lt;line speaker="Gumshoe"&gt;I didn't have much
+                    money back then, pal. I used to bum stuff off the other kids sometimes, so they
+                    called me "Panhandler".&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;...
+                    "Panhandler", huh? I can see that.&lt;/line&gt;<br />&lt;line
+                    speaker="Gumshoe"&gt;Thinking back, it's actually kind of a nice memory
+                    now.&lt;/line&gt; </code>
+            </div>
+            <p>The data we've scraped up isn't perfect, there's remnants of the HTML transcripts'
+                walkthrough-like structure, as well as some lines with speakers that aren't real
+                characters, but the resulting corpusses are comprehensive and all well-formed, a
+                mighty feat considering how buggy certain steps in the process were!<br>Here's a
+                series of download links to all our data corpusses, as well as the combined files containing
+                all the data:</p>
+            <ul class="centered">
+                <li><a href="texts/AAcorpus-txt.zip" download>Text Corpus</a> (zip folder)</li>
+                <li><a href="texts/AAcorpus-xml.zip" download>XML Corpus</a> (zip folder)</li>
+                <li>
+                    <a href="texts/combined.txt">Combined text file</a>
+                </li>
+                <li>
+                    <a href="texts/combined.xml">Combined XML file</a>
+                </li>
+            </ul>
         </section>
     </body>
 </html>

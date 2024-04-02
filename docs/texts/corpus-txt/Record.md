@@ -15,12 +15,12 @@ We also need to delete everthing *after* this div. A pattern we can discern  is 
 ->
 *blank*
 ```
-It has always been a testament of mine to work *smarter*, not harder, so I'm glad that my job was pretty simple. I can search for <.+?> to identify every single HTML element I need to delete! First, there are some specific Ace Attorney interjections I want to preserve that only show up in \<a> elements. We can add some plaintext with find/replaces like this:
+The process of transforming the HTML into text is actually pretty simple. I can search for <.+?> to identify every single HTML element I need to delete! First, there are some specific Ace Attorney interjections I want to preserve that only show up in \<a> elements. We can add some plaintext with find/replaces like this:
 ```
 "Holdit"#This will find the alt text for every Hold it! gif that appears
 ->
 >Hold it!<#This will make it so that we have some plain text sandwiched between sets of < and >
-#This'll kind of mangle out HTML, but we're going to strip away all the HTML elements next
+#It'll kind of mangle our HTML, but we're going to strip away all the HTML elements next
 ```
 Incidentially, there's a significant number of transcripts where this doesn't appear at all.
 This is because the Hold It, Take That, and Objection cutins only appear in courtroom segments, which only make up about 1/2 of the game.

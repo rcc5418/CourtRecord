@@ -54,6 +54,7 @@ ul {
     border-radius: 10px;
     padding: 1vw;
     font-size: 1.25em;
+    margin: 1vw auto;
 }
 h2 {
         line-height: 1.5em;
@@ -71,11 +72,17 @@ h2 {
     margin-top: 0;
 }
 img.bio, img.bioReece{
-flex: 0;
-    max-width: 28%;
+    flex: 0;
+    width: 25vw;
+    height: auto; 
+    min-width: 25%; 
+    display: block;
     border: .7vw;
     border-style: outset;
     border-color: #ad9947;
+}
+div.bioImgDiv{
+    background-color: rgba(0, 32, 79, 0.9);
 }
 .character_name {
     font-size: 2em;
@@ -88,11 +95,32 @@ p.characters {
 }
 section.characters {
     display: flex;
-    align-items: stretch;
+    align-items: normal;
     flex-direction: row;
     width: 100%;
 }
 
 nav {
     text-align: center;
+}
+.codeWindow {
+        max-width: 75vw;
+        max-height: 35vw;
+        overflow: auto;
+        border-color: gold;
+        border-radius: 8px;
+        border-style: outset;
+        margin: 20px auto;
+        padding: 10px;
+        box-sizing: border-box;
+        background-color: white;
+    }
+.codeWindow code {
+    font-size: medium;
+    color: black;
+}
+ul.centered {
+    width: 40%;
+    margin: 0 auto; 
+    padding: 0; 
 }
