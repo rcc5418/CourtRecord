@@ -1,0 +1,1155 @@
+
+The First Turnabout
+Transcript
+Transcript (JP)
+This transcript is a prototype. All other transcripts should be modeled after this one. Any changes to be made to the layout of a transcript should be made here.
+Note: This transcript was created from a PAL version of Phoenix Wright: Ace Attorney for the Nintendo DS, with the text changes and corrections from Phoenix Wright: Ace Attorney Trilogy
+ 	 	 	 		 			 		 		 		 	 
+Episode 1The First Turnabout
+*gasp*... *gasp*... Dammit! ...Why me? I can't get caught... Not like this! I-I've gotta find someone to pin this on... Someone like... him! I'll make it look like HE did it!
+August 3, 9:47 AMDistrict CourtDefendant Lobby No. 2
+Phoenix:
+(Boy am I nervous!)
+Mia:
+Wright!
+Phoenix:
+Oh, h-hiya, Chief.
+Mia:
+Whew, I'm glad I made it on time. Well, I have to say Phoenix, I'm impressed! Not everyone takes on a murder trial right off the bat like this. It says a lot about you... and your client as well.
+Phoenix:
+Um... thanks. Actually, it's because I owe him a favor.
+Mia:
+A favor? You mean, you knew the defendant before this case?
+Phoenix:
+Yes. Actually, I kind of owe my current job to him. He's one of the reasons I became an attorney.
+Mia:
+Well, that's news to me!
+Phoenix:
+I want to help him out any way I can! I just... really want to help him, I owe him that much.
+???:
+(It's over! My life, everything, it's all over!)
+Mia:
+... Isn't that your client screaming over there?
+Phoenix:
+Yeah... that's him.
+???:
+(Death! Despair! Ohhhh! I'm gonna do it, I'm gonna die!!!)
+Mia:
+It sounds like he wants to die...
+Phoenix:
+Um, yeah. *sigh*
+Butz:
+Nick!!!
+Phoenix:
+Hey. Hey there, Larry.
+Butz:
+Dude, I'm so guilty!! Tell them I'm guilty!!! Gimme the death sentence! I ain't afraid to die!
+Phoenix:
+What!? What's wrong, Larry?
+Butz:
+Oh, it's all over... I... I'm finished. Finished! I can't live in a world without her! I can't! Who... who took her away from me, Nick? Who did this!? Aww, Nick, ya gotta tell me! Who took my baby away!?
+Phoenix:
+(Hmm... The person responsible for your girlfriend's death? The newspapers say it was you...)
+Phoenix:
+My name is Phoenix Wright. Here's the story: My first case is a fairly simple one. A young woman was killed in her apartment. The guy they arrested was the unlucky sap dating her: Larry Butz... my best friend since grade school. Our school had a saying: "When something smells, it's usually the Butz." In the 23 years I've known him, it's usually been true. He has a knack for getting himself in trouble. One thing I can say though: it's usually not his fault. He just has terrible luck. But I know better than anyone, that he's a good guy at heart. That and I owe him one. Which is why I took the case... to clear his name. And that's just what I'm going to do!
+August 3, 10:00 AMDistrict CourtCourtroom No. 2
+Judge:
+The court is now in session for the trial of Mr. Larry Butz.
+Payne:
+The prosecution is ready, Your Honor.
+Phoenix:
+The, um, defense is ready, Your Honor.
+Judge:
+Ahem. Mr. Wright? This is your first trial, is it not?
+Phoenix:
+Y-Yes, Your Honor. I'm, um, a little nervous.
+Judge:
+Your conduct during this trial will decide the fate of your client. Murder is a serious charge. For your client's sake, I hope you can control your nerves.
+Phoenix:
+Thank... thank you, Your Honor.
+Judge:
+... Mr. Wright, given the circumstances... I think we should have a test to ascertain your readiness.
+Phoenix:
+Y-Your Honor. (Gulp... Hands shaking... Eyesight... fading...)
+Judge:
+This test will consist of a few simple questions. Answer them clearly and concisely. Please state the name of the defendant in this case.
+Phoenix Wright
+Phoenix:
+Um... the defendant... is me, right?
+Mia:
+Wright! Have you completely lost your mind? Focus! The defendant is the person on trial! You're his lawyer!
+Phoenix:
+Um, er, eh? Oh yeah, right! Eh heh heh.
+Mia:
+This is no laughing matter! You did pass the bar, didn't you?
+Judge:
+Sorry, I couldn't hear your answer. I'll ask once more:
+Leads back to:
+"Please state the name of the defendant in this case."
+Larry Butz
+Leads to:
+"The defendant? Well, that's Larry Butz, Your Honor."
+Mia Fey
+Phoenix:
+The, um, defendant? That's... er... Mia Fey?
+Mia:
+Wrong, Wright. Look, I have to leave. I have to go home. I'm... I'm expecting a delivery.
+Phoenix:
+Aw, c'mon Chief. There's no need to be going so soon, is there?
+Mia:
+Wright! Listen: the defendant is the one on trial--your client! I mean, that's about as basic as you can get!
+Phoenix:
+(I've put my foot in it this time! I've got to relax!)
+Judge:
+Sorry, I couldn't hear your answer. I'll ask once more:
+Leads back to:
+"Please state the name of the defendant in this case."
+Phoenix:
+The defendant? Well, that's Larry Butz, Your Honor.
+Judge:
+Correct. Just keep your wits about you and you'll do fine. Next question: This is a murder trial. Tell me, what's the victim's name?
+Phoenix:
+(Whew, I know this one! Glad I read the case report cover to cover so many times. It's... wait... Uh-oh! No... no way! I forgot! I'm drawing a total blank here!)
+Mia:
+Phoenix! Are you absolutely SURE you're up to this? You don't even know the victim's name!?
+Phoenix:
+Oh, the victim! O-Of course I know the victim's name! I, um, just forgot. ... Temporarily.
+Mia:
+I think I feel a migraine coming on. Look, the victim's name is listed in the Court Record. Just touch the Court Record button to check it at anytime, okay? Remember to check it often. Do it for me, please. I'm begging you.
+Judge:
+Mr. Wright. Who is the victim in this case?
+Mia Fey
+Phoenix:
+Um... Mia Fey?
+Mia:
+W-W-What!? How can I be the victim!?
+Phoenix:
+Oh! Right! Sorry! I, er, it was the first name that popped into my head, and--
+Mia:
+The Court Record button! Remember to use it when you are in a pinch.
+Judge:
+Let me ask that one again:
+Leads back to:
+"Let's hear your answer. Who is the victim in this case?"
+Cinder Block
+Phoenix:
+Oh, um, wasn't it Ms. Block? Ms. Cinder Block?
+Judge:
+The person in question was a victim of murder, not ill-conceived naming, Mr. Wright.
+Mia:
+Wright? If you forget something, just touch the Court Record button to help you remember. A mistake in court could cost you the case.
+Judge:
+I ask you again:
+Leads back to:
+"Let's hear your answer. Who is the victim in this case?"
+Cindy Stone
+Leads to:
+"Um... the victim's name is Cindy Stone."
+Phoenix:
+Um... the victim's name is Cindy Stone.
+Judge:
+Correct. Now, tell me, what was the cause of death? She died because she was...?
+Poisoned
+Phoenix:
+Oh, right! Wasn't she, um, poisoned by er... poison?
+Judge:
+You're asking me!?
+Phoenix:
+Um... Chief! Help me out!
+Mia:
+Check the court record. The Court Record button... remember?
+Phoenix:
+(Geez. Give a guy a break!)
+Judge:
+Let me ask again.
+Leads back to:
+"She died because she was...?"
+Hit with a blunt object
+Leads to:
+"She was struck once, by a blunt object."
+Strangled
+Phoenix:
+Right... she was strangled, wasn't she?
+Mia:
+Please tell me that was you talking to yourself.
+Judge:
+If you wish to hang yourself, Mr. Wright, you're welcome to, but not inside my courtroom. I suppose there's nothing to do but give you another try:
+Leads back to:
+"She died because she was...?"
+Phoenix:
+She was struck once, by a blunt object.
+Judge:
+Correct. You've answered all my questions. I see no reason why we shouldn't proceed. You seem much more relaxed, Mr. Wright. Good for you.
+Phoenix:
+Thank you, Your Honor. (Because I don't FEEL relaxed, that's for sure.)
+Judge:
+Well, then... First, a question for the prosecution. Mr. Payne?
+Payne:
+Yes, Your Honor?
+Judge:
+As Mr. Wright just told us, the victim was struck with a blunt object. Would you explain to the court just what that "object" was?
+Payne:
+The murder weapon was this statue of "The Thinker." It was found lying on the floor, next to the victim.
+Judge:
+I see... the court accepts it into evidence.
+Statue added to the Court Record.
+Mia:
+Wright... Be sure to pay attention to any evidence added during the trial. That evidence is the only ammunition you have in court. Touch the Court Record button to check the Court Record frequently.
+Judge:
+Mr. Payne, the prosecution may call its first witness.
+Payne:
+The prosecution calls the defendant, Mr. Butz, to the stand.
+Phoenix:
+Um, Chief, what do I do now?
+Mia:
+Pay attention. You don't want to miss any information that might help your client's case. You'll get your chance to respond to the prosecution later, so be ready! Let's just hope he doesn't say anything... unfortunate.
+Phoenix:
+(Uh oh, Larry gets excited easily... this could be bad.)
+Payne:
+Ahem. Mr. Butz. Is it not true that the victim had recently dumped you?
+Butz:
+Hey, watch it buddy! We were great together! We were Romeo and Juliet, Cleopatra and Mark Anthony!
+Phoenix:
+(Um... didn't they all die?)
+Butz:
+I wasn't dumped! She just wasn't taking my phone calls. Or seeing me... Ever. WHAT'S IT TO YOU, ANYWAY!?
+Payne:
+Mr. Butz, what you describe is generally what we mean by "dumped." In fact, she had completely abandoned you... and was seeing other men! She had just returned from overseas with one of them the day before the murder!
+Butz:
+Whaddya mean, "one of them"!? Lies! All of it, lies! I don't believe a word of it!
+Payne:
+Your Honor, the victim's passport. According to this, she was in Paris until the day before she died.
+Passport added to the Court Record.
+Judge:
+Hmm... Indeed, she appears to have returned the day before the murder.
+Butz:
+Dude... no way...
+Payne:
+The victim was a model, but did not have a large income. It appears that she had several "Sugar Daddies."
+Butz:
+Daddies? Sugar?
+Payne:
+Yes. Older men, who gave her money and gifts. She took their money and used it to support her lifestyle.
+Butz:
+Duuude!
+Payne:
+We can clearly see what kind of woman this Ms. Stone was. Tell me, Mr. Butz, what do you think of her now?
+Mia:
+Wright... I don't think you want him to answer that question.
+Phoenix:
+(Yeah... Larry has a way of running his mouth in all the wrong directions. Should I...?)
+Wait and see what happens
+Phoenix:
+(Might be better not to get involved in this one...)
+Payne:
+Well, Mr. Butz?
+Butz:
+Dude, no way! That cheatin' she-dog!
+Leads to:
+"I'm gonna die. I'm just gonna drop dead!"
+Stop him from answering
+Phoenix:
+My client had no idea the victim was seeing other men! That question is irrelevant to this case!
+Payne:
+Oof! *wince*
+Butz:
+Dude! Nick! Whaddya mean, "irrelevant"!? That cheatin' she-dog!
+Leads to:
+"I'm gonna die. I'm just gonna drop dead!"
+Butz:
+I'm gonna die. I'm just gonna drop dead! Yeah, and when I meet her in the afterlife... I'm going to get to the bottom of this!
+Judge:
+Let's continue with the trial, shall we?
+Payne:
+I believe the accused's motive is clear to everyone.
+Judge:
+Yes, quite.
+Phoenix:
+(Oh boy. This is so not looking good.)
+Payne:
+Next question! You went to the victim's apartment on the day of the murder, did you not?
+Butz:
+Gulp!
+Payne:
+Well, did you, or did you not?
+Butz:
+Heh? Heh heh. Well, maybe I did, and maybe I didn't!
+Phoenix:
+(Uh oh. He went. What do I do?)
+Have him answer honestly
+Phoenix:
+(I know! I'll send him a signal...)
+(TELL THE TRUTH)
+Butz:
+Er... Yeah! Yeah! I was there! I went!
+Judge:
+Order! Well, Mr. Butz?
+Butz:
+Dude, chill! She wasn't home, man... So, like, I didn't see her.
+Payne:
+Objection!
+Payne:
+Your Honor, the defendant is lying.
+Judge:
+Lying?
+Payne:
+The prosecution would like to call a witness who can prove Mr. Butz is lying.
+Leads to:
+"Well, that simplifies matters. Who is your witness?"
+Stop him from answering
+Phoenix:
+(I'll send him a signal...)
+(LIE LIKE A DOG)
+Butz:
+Um, well, see, it's like this: I don't remember.
+Payne:
+You "don't remember"? Well then, we'll just have to remind you!
+Phoenix:
+(I got a bad feeling about this...)
+Payne:
+We have a witness that can prove he DID go to the victim's apartment that day!
+Leads to:
+"Well, that simplifies matters. Who is your witness?"
+Judge:
+Well, that simplifies matters. Who is your witness?
+Payne:
+The man who found the victim's body. Just before making the gruesome discovery... He saw the defendant fleeing the scene of the crime!
+Judge:
+Order! Order in the court! Mr. Payne, the prosecution may call its witness.
+Payne:
+Yes, Your Honor.
+Phoenix:
+(This is bad...)
+Payne:
+On the day of the murder, my witness was selling newspapers at the victim's building. Please bring Mr. Frank Sahwit to the stand!
+Payne:
+Mr. Sahwit, you sell newspaper subscriptions, is this correct?
+Sahwit:
+Oh, oh yes! Newspapers, yes!
+Judge:
+Mr. Sahwit, you may proceed with your testimony. Please tell the court what you saw on the day of the murder.
+Witness Testimony
+-- Witness's Account --
+Sahwit:
+I was going door-to-door, selling subscriptions when I saw a man fleeing an apartment.
+I thought he must be in a hurry because he left the door half-open behind him.
+Thinking it strange, I looked inside the apartment.
+Then I saw her lying there... A woman... not moving... dead!
+I quailed in fright and found myself unable to go inside.
+I thought to call the police immediately!
+However, the phone in her apartment wasn't working.
+I went to a nearby park and found a public phone.
+I remember the time exactly: It was 1:00 PM.
+The man who ran was, without a doubt, the defendant sitting right over there.
+Judge:
+Hmm...
+Phoenix:
+(Larry! Why didn't you tell the truth? I can't defend you against a testimony like that!)
+Judge:
+Incidentally, why wasn't the phone in the victim's apartment working?
+Payne:
+Your Honor, at the time of the murder, there was a blackout in the building.
+Judge:
+Aren't phones supposed to work during a blackout?
+Payne:
+Yes, Your Honor... However, some cordless phones do not function normally. The phone that Mr. Sahwit used was one of those. Your Honor... I have a record of the blackout, for your perusal.
+Blackout Record added to the Court Record.
+Judge:
+Now, Mr. Wright...
+Phoenix:
+Yes! Er... yes, Your Honor?
+Judge:
+You may begin your cross-examination.
+Phoenix:
+C-Cross-examination, Your Honor?
+Mia:
+Alright, Wright, this is it. The real deal!
+Phoenix:
+Uh... what exactly am I supposed to do?
+Mia:
+Why, you expose the lies in the testimony the witness just gave!
+Phoenix:
+Lies! What?! He was lying!?
+Mia:
+Your client is innocent, right? Then that witness must have lied in his testimony! Or is your client really... guilty?
+Phoenix:
+!!! How do I prove he's not?
+Mia:
+You hold the key! It's in the evidence! Compare the witness's testimony to the evidence at hand. There's bound to be a contradiction in there! First, find contradictions between the Court Record and the witness's testimony. Then, once you've found the contradicting evidence... present it and rub it in the witness's face!
+Phoenix:
+Um... okay.
+Mia:
+Touch the Court Record button and point out contradictions in the testimony!
+Cross Examination
+-- Witness's Account --
+Sahwit:
+I was going door-to-door, selling subscriptions when I saw a man fleeing an apartment.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Isn't a man leaving an apartment a common sight? I find it odd you would take notice of him...
+Sahwit:
+Er... heh. I don't know. He just seemed strange to me, that's all. Like he was mad, and yet frightened at the same time. Just like... a criminal fleeing the scene of a crime!
+Phoenix:
+The defense requests that the witness refrain from conjecture!
+Payne:
+Of course. What the witness means is that the man he saw looked suspicious. So, what happened next?
+Sahwit:
+I thought he must be in a hurry because he left the door half-open behind him.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Half-open... you say?
+Sahwit:
+Yes, yes, the door was open halfway. Yes. I watched for a moment, but no one came to close the door. "That's odd, in a big city like this," I thought...
+Payne:
+I see. And what happened next?
+Sahwit:
+Thinking it strange, I looked inside the apartment.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+What gave you the idea to do that?
+Sahwit:
+Well, the door was half-open, you see. Isn't it only human to want to... peek? We climb mountains because they are there! It's the same thing.
+Payne:
+Truer words have never been spoken! Anyone would look inside!
+Phoenix:
+(Hmm... why did Payne cut him off so quickly?)
+Payne:
+So you looked into the apartment. What happened then?
+Sahwit:
+Then I saw her lying there... A woman... not moving... dead!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Are you sure she was dead?
+Sahwit:
+W-Well, no, I guess I wasn't. But, she wasn't moving at all, and there was blood everywhere.
+Phoenix:
+(I guess that would look fatal to anyone...) Very well, what happened next?
+Sahwit:
+I quailed in fright and found myself unable to go inside.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+So, you didn't touch ANYTHING in the apartment?
+Sahwit:
+Um, yes. I mean no! Nothing.
+Phoenix:
+Okay. What happened next?
+Sahwit:
+I thought to call the police immediately!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You "thought" to call the police? Does that mean you didn't actually call them!?
+Payne:
+Please, please... Listen to the rest of the testimony. You thought to call the police... What happened next?
+Sahwit:
+However, the phone in her apartment wasn't working.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+The phone in her apartment wasn't working?
+Sahwit:
+Yes. I mean, no, no it wasn't. Right.
+Phoenix:
+But you said you didn't go into the apartment... or did you!?
+Sahwit:
+Oh, oh, that? I can explain that! There was a cordless phone on a shelf in the entranceway. I reached inside and tried using that to call...
+Payne:
+And the phone wasn't working, correct? What happened next?
+Sahwit:
+I went to a nearby park and found a public phone.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Why use a public phone?
+Sahwit:
+Well, you see, I don't have a cell phone. And, being the middle of the afternoon, there was no answer at the nearby apartments.
+Phoenix:
+Ah, right... what time did you call again?
+Sahwit:
+I remember the time exactly: It was 1:00 PM.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+1:00 PM! Are you certain?
+Sahwit:
+Yes. Absolutely.
+Phoenix:
+(Hmm... He seems really confident.)
+Mia:
+1:00 PM? Wright. Doesn't that seem strange to you? Present some evidence to contradict him!
+Present Cindy's Autopsy Report
+Phoenix:
+Objection!
+Leads to:
+"You found the body at 1:00 PM. You're sure?"
+Sahwit:
+The man who ran was, without a doubt, the defendant sitting right over there.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Are you absolutely, 100% positive?
+Sahwit:
+Yes, it was him. No mistake about it.
+Payne:
+The witness says he's certain!
+Mia:
+That's all of it. There must be a contradiction in there somewhere. Examine the Court Record button if something strikes you as being suspicious. Then, find the evidence that contradicts his testimony, and present it to him!
+Phoenix:
+You found the body at 1:00 PM. You're sure?
+Sahwit:
+Yes. It was 1:00 PM, for certain.
+Phoenix:
+Frankly, I find that hard to believe! Your statement directly contradicts the autopsy report. The autopsy notes the time of death at sometime after 4PM. There was nobody to... er... no "body" to find at 1:00 PM! How do you explain this three-hour gap?
+Sahwit:
+!!! Oh, that! Oh, er...
+Payne:
+Objection!
+Payne:
+This is trivial! The witness merely forgot the time!
+Judge:
+After his testimony, I find that hard to believe. Mr. Sahwit... Why were you so certain that you found the body at 1:00 PM?
+Sahwit:
+I.. er... well, I... Gee, that's a really good question!
+Mia:
+Great job, Wright! Way to put him on the spot! That's all you have to do: point out contradictions! Lies always beget more lies! See through one, and their whole story falls apart!
+Sahwit:
+Wait! I remember now!
+Judge:
+Would you care to give your testimony again?
+Witness Testimony
+-- The Time of Discovery --
+Sahwit:
+You see, when I found the body, I heard the time.
+There was a voice saying the time... It was probably coming from the television.
+Oh, but it was three hours off, wasn't it?
+I guess the victim must have been watching a video of a taped program!
+That's why I thought it was 1:00 PM!
+Terribly sorry about the misunderstanding...
+Judge:
+Hmm... I see. You heard a voice saying the time on a taped program. Mr. Wright, you may cross-examine the witness.
+Mia:
+Wright! You know what to do!
+Phoenix:
+I've got this one.
+Cross Examination
+-- The Time of Discovery --
+Sahwit:
+You see, when I found the body, I heard the time.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+You said "heard"... Not "saw"?
+Sahwit:
+Yes, heard. All I saw was the body lying there... I didn't think to look at anything else, least of all my watch.
+Phoenix:
+Hmm... Isn't that a little strange? So you're saying you "heard" something. But if you were so shocked by the body, you wouldn't hear anything at all!
+Payne:
+Objection!
+Payne:
+The witness did say he actually heard the time. It's ludicrous to suggest he "wouldn't hear anything"!
+Judge:
+Hmm... I have to agree with the prosecution. Witness, continue your testimony.
+Present Blackout Record
+Phoenix:
+Objection!
+Leads to:
+"Hold it right there!"
+Sahwit:
+There was a voice saying the time... It was probably coming from the television.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Are you sure it was a television and not... a radio?
+Sahwit:
+Well, no, I guess it might have been a radio.
+Payne:
+Incidentally, there was no radio on the premises. There was only one large television.
+Mia:
+Wright! I can't put my finger on it, but something about this seems fishy. Something about "hearing" the television...
+Payne:
+The witness has testified. He heard the time.
+Present Blackout Record
+Phoenix:
+Objection!
+Leads to:
+"Hold it right there!"
+Sahwit:
+Oh, but it was three hours off, wasn't it?
+Press
+Phoenix:
+Hold it!
+Phoenix:
+How do you explain the gap!
+Judge:
+Well, witness? Can you explain this?
+Present Blackout Record
+Phoenix:Objection!
+Leads to:
+"Hold it right there!"
+Sahwit:
+I guess the victim must have been watching a video of a taped program!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+A.. video?
+Sahwit:
+Yes, that would explain why the time was wrong!
+Phoenix:
+True, true...
+Mia:
+Wright! I think the problem lies someplace else...
+Judge:
+We're agreed that you heard the time at the scene, then.
+Present Blackout Record
+Phoenix:
+Objection!
+Leads to:
+"Hold it right there!"
+Sahwit:
+That's why I thought it was 1:00 PM!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Are you sure the voice you heard said it was 1:00 PM?
+Sahwit:
+Yes, I can practically hear it now. It was quite clear.
+Judge:
+Mr. Payne, has the prosecution verified this testimony?
+Payne:
+My apologies, Your Honor. I, too, have only just learned that the witness "heard" the time.
+Sahwit:
+Oh, I'm really sorry. I only remembered it just now.
+Present Blackout Record
+Phoenix:
+Objection!
+Leads to:
+"Hold it right there!"
+Sahwit:
+Terribly sorry about the misunderstanding...
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Well, you just watch it! (Hmm... Not much point pressing him on that one, was there?)
+Mia:
+Notice anything suspicious?
+Phoenix:
+Hold it right there! The prosecution has said there was a blackout at the time of the discovery! And this record proves it!
+Sahwit:
+...!
+Phoenix:
+You couldn't have heard a television... or a video!
+Sahwit:
+Gah!!! I... well... urk!
+Judge:
+The defense has a point. Do you have an explanation for this, Mr. Sahwit?
+Sahwit:
+No, I... I find it quite puzzling myself! Quite! ... Aah! W-wait! I remember now!
+Judge:
+Mr. Sahwit? The court would prefer to hear an accurate testimony from the very beginning. These constant corrections are harming your credibility. That, and you seem rather... distraught.
+Sahwit:
+...! M-my apologies, Your Honor! It... er, it must have been the shock of finding the body!
+Judge:
+Very well, Mr. Sahwit. Let's hear your testimony once more please.
+Witness Testimony
+-- Hearing the Time --
+Sahwit:
+Actually, I didn't "hear" the time... I "saw" it!
+There was a table clock in the apartment, wasn't there!
+Yeah, the murder weapon! The killer used it to hit the victim!
+That must have been what I saw.
+Judge:
+You saw a clock? I guess that would explain it. The defense may cross-examine the witness.
+Phoenix:
+Gladly.
+Cross Examination
+-- Hearing the Time --
+Sahwit:
+Actually, I didn't "hear" the time... I "saw" it!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+That strikes me as a very suspicious mistake.
+Sahwit:
+Yes, I can see how you'd be a little doubtful... I'm really sorry. I only just remembered that table clock!
+Judge:
+A "table clock"?
+Sahwit:
+There was a table clock in the apartment, wasn't there!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+A "table clock"? Was there a clock at the scene?
+Judge:
+This is the first I've heard of it!
+Present Statue
+Phoenix:
+Objection!
+Leads to:
+"Wait just a moment!"
+Sahwit:
+Yeah, the murder weapon! The killer used it to hit the victim!
+Press
+Phoenix:
+Hold it!
+Phoenix:
+The... murder weapon?
+Sahwit:
+Yes, the table clock that was used as a weapon! That's what I just said. Did you doze off in the middle of my testimony or something?
+Phoenix:
+(Something's fishy here...)
+Present Statue
+Phoenix:
+Objection!
+Leads to:
+"Wait just a moment!"
+Sahwit:
+That must have been what I saw.
+Press
+Phoenix:
+Hold it!
+Phoenix:
+Why didn't you tell us that in the first place?
+Sahwit:
+I guess it just slipped my mind! I'm not really sure how it happened myself...
+Payne:
+The witness says he saw the table clock. End of story.
+Present Statue
+Phoenix:
+Objection!
+Leads to:
+"Wait just a moment!"
+Mia:
+Now, find the contradiction!
+Phoenix:
+Wait just a moment! The murder weapon wasn't a clock. It was this statue! Now how is this supposed to be a clock?
+Sahwit:
+Whaa!? Y-you with your "objections," and your "evidence"... Just who do you think you are!?
+Phoenix:
+Just answer the question, Mr. Sahwit.
+Sahwit:
+Hey, I... I saw it there, okay! That's a clock!
+Payne:
+Your Honor! If I may...
+Judge:
+Yes, Mr. Payne?
+Payne:
+As the witness stated, this statue is indeed a clock. The neck is a switch. You just tilt it, and it says the time out loud. As it doesn't look like a clock, I submitted it as a statue. My apologies.
+Judge:
+I see. So the murder weapon was a table clock after all. Well, Mr. Wright? It appears that the witness's testimony was correct. This is a clock. Do you have any problems with his testimony now?
+No
+Phoenix:
+I guess not. There was a clock on the scene, so, no problem.
+Mia:
+Wright! Are you out of your mind!? That clock doesn't look like a clock at all! The witness couldn't have possibly known it was a clock just by seeing it! He said himself, he never entered the apartment! It was in his testimony!
+Phoenix:
+Hey! You're right!
+Judge:
+Is something the matter? Does the defense have anything to add?
+Phoenix:
+Yes... Yes I do!
+Leads to:
+"The only way he could have known the weapon was a clock is to hold it in his hand."
+Yes
+Phoenix:
+Your Honor, there is a gaping hole in the witness's testimony!
+Leads to:
+"The only way he could have known the weapon was a clock is to hold it in his hand."
+Phoenix:
+The only way he could have known the weapon was a clock is to hold it in his hand. Yet the witness testified that he never entered the apartment! Clearly, a contradiction!
+Judge:
+Hmm... indeed!
+Phoenix:
+The witness knew it was a clock, because he...
+Went into the apartment
+Leads to:
+"You're lying! You were inside the apartment on the day of the murder!"
+Knew the victim
+Phoenix:
+Tell me, isn't it true that you knew the victim? In fact, you were one of her "sugar daddies"! Be frank with us, Mr. Sahwit!
+Sahwit:
+Hmph. "Frank"? I'm always "Frank"!
+Payne:
+Your Honor. We have complete records of the victim's relationships. Mr. Frank Sahwit does not appear anywhere.
+Phoenix:
+Huh? Oh, really?
+Judge:
+Please, Mr. Wright... Is "Huh" the best response you can muster up? Try to refrain from making off-the-cuff accusations in the future.
+Phoenix:
+Y-yes, Your Honor. Let me think this over.
+Leads back to:
+"The witness knew it was a clock, because he..."
+Phoenix:
+You're lying! You were inside the apartment on the day of the murder!
+Sahwit:
+Oh yeah? Prove it! Prove I went in there!
+Phoenix:
+I'll do better than that! I can prove you were the one who killed her! You struck her with the clock, and the shock of the blow triggered the clock's voice! That was the sound you heard!
+Judge:
+Order in the court! Intriguing. Please continue, Mr. Wright.
+Phoenix:
+Yes, Your Honor. Mr. Sahwit. The sound must have left quite an impression on you. Understandable, since the murder weapon spoke just as you hit the victim! That voice was burned into your mind. That's why you were so certain about the time!
+Payne:
+Objection!
+Payne:
+W-w-what's the meaning of this? This is all baseless conjecture!
+Phoenix:
+Baseless...? Just look at the witness's face!
+Sahwit:
+Ngh... grrrah!
+Judge:
+Would the witness care to elaborate? Did you strike the victim with the clock?
+Sahwit:
+I... I...! That... that day... I... I never! Look... I... the clock... I heard, no! I mean, I saw...Saw... nggg! Gwaaaaaaaaaaaaah! Shutupshutupshutup! I hate you! I-it was him, I tell you! I saw him! H-he killed her and he should burn! Burn! Give him death!
+Judge:
+Order! Order in the court I say!
+Payne:
+Your Honor, a-a moment please! There isn't a shred of evidence supporting the defense's claims!
+Judge:
+Mr. Wright!
+Phoenix:
+Your Honor?
+Judge:
+You claim the sound the witness heard came from the clock... Do you have any evidence?
+Phoenix:
+(The whole case is riding on this! I'd better think it through carefully!) Yes, Your Honor. The sound Mr. Sahwit heard was definitely this clock. A fact which is clear if you simply...
+Examine the clock's batteries
+Phoenix:
+All you have to do is examine the batteries!
+Judge:
+Indeed? The batteries are... in the right way. The clock seems to be working fine. What exactly did you mean, Mr. Wright?
+Phoenix:
+Yes, the clock was working fine!
+Payne:
+Yes, and...?
+Phoenix:
+... Umm, I'm sorry, I think I got confused back there with all those testimonies.
+Judge:
+Mr. Wright! I expect more from a lawyer in this court. Even if it is your first day. I'm afraid I have to penalize you! Try to think things through more carefully.
+Phoenix:
+Y-yes, Your Honor. As I was saying...
+Leads back to:
+"(The whole case is riding on this! I'd better think it through carefully!)"
+Ask the neighbors
+Phoenix:
+All you have to do is talk to the victim's neighbors!
+Judge:
+Talk to the neighbors...?
+Phoenix:
+I'm sure one of them heard the clock tell the time when the incident occurred!
+Judge:
+I see... Does the prosecution have anything to say, Mr. Payne?
+Payne:
+We have already made all the necessary inquiries. Everyone living near the victim's apartment was out at the time of the murder. Furthermore, even if a neighbor had heard the clock, that would not prove that Mr. Sahwit had heard anything.
+Judge:
+Hmm... That is true. I believe you may be wrong, Mr. Wright. You'll receive a penalty for that, unfortunately.
+Phoenix:
+I-I'm sorry, Your Honor! Let me think about it again!
+Leads back to:
+"(The whole case is riding on this! I'd better think it through carefully!)"
+Try sounding the clock
+Leads to:
+"Let's sound the clock now, here in this court."
+Phoenix:
+Let's sound the clock now, here in this court. Your Honor, may I have the clock? I ask the court to listen very carefully...
+...*beep*...[I think it's 8:25.]
+Judge:
+That certainly is a strange way to announce the time.
+Phoenix:
+Well, he is "The Thinker," after all.
+Judge:
+So, we've heard the clock. What are your conclusions, Mr. Wright?
+Phoenix:
+Mr. Payne... can you tell me what time it is now?
+Payne:
+It's 11:25... Ack!
+Phoenix:
+As you can see, this clock is exactly three hours slow! Precisely the discrepancy between what Mr. Sahwit heard and the actual time of death! So, Mr. Sahwit... Try to talk your way out of this one!
+Sahwit:
+... ...Hah! Hah hah! You forgot one thing!
+Phoenix:
+(Uh oh... what's he talking about...?)
+Sahwit:
+While it may seem like that clock IS running three hours slow... It proves nothing! How do you know it was running three days slow on the day of the murder!? If you can't prove that, you don't have a case!
+Phoenix:
+...! (He's right! How am I going to prove that!? Dammit! I was so close!)
+Judge:
+Mr. Wright? It seems you lack the critical evidence to support your claim.
+Phoenix:
+...! Yes, Your Honor.
+Judge:
+This means I cannot let you indict the witness. Unfortunately... This ends the cross-examination of Mr. Frank Sahwit.
+Sahwit:
+I come all the way down here to testify, and look what happens! You treat me like a criminal! A criminal! You lawyers are all slime!
+Phoenix:
+(Grr! I almost had him! Sorry, Larry... I failed you. There's nothing I can do about it now...)
+Mia:
+Not so fast, Mr. Sahwit!
+Phoenix:
+Mia! I mean, Chief!
+Mia:
+Listen up, Wright! Don't throw this one away, not like this! Think!
+Phoenix:
+But, Chief, it's over. I can't prove the clock was slow the day of the murder! Nobody can prove that!
+Mia:
+Um... well, yes. But that doesn't mean you can't still win! Try thinking out of the box! Don't waste time doubting the facts. Assume the clock was three hours slow and... Think through it! Ask yourself, "Why was the clock three hours slow"? Figure out the reason, and you'll have your proof! Right, Wright? Can you think of a reason as to why the clock would be three hours slow?
+Yes
+Phoenix:
+... Wait! Maybe I can prove it!
+Mia:
+You must have evidence somewhere that can prove it, Wright! Find it and let them have it!
+Judge:
+Well, Mr. Wright? You say the clock was already running slow on the day of the murder... Have you found evidence to support this claim?
+Phoenix:
+Of course. There is a piece of evidence in the Court Record that can prove my claim beyond a doubt!
+Sahwit:
+Hah! Tough words! Let's see you pull this one off!
+Leads to:
+"Let's see this evidence that proves why the clock was running slow!"
+No
+Phoenix:
+H-how am I supposed to know that!?
+Mia:
+I know you can figure it out! There must be some evidence in the Court Record... Something that can show why that clock was three hours slow! Find it, and he won't have a foot to stand on!
+Judge:
+Mr. Wright?
+Phoenix:
+Y-y-yes, Your Honor!
+Judge:
+You say the clock was already running slow on the day of the murder... Do you have evidence to prove this?
+Phoenix:
+(This is it... all or nothing!) Yes, Your Honor. I believe I have the evidence that can prove my claim!
+Sahwit:
+Hah hah! I'd like to see THAT!
+Leads to:
+"Let's see this evidence that proves why the clock was running slow!"
+Judge:
+Let's see this evidence that proves why the clock was running slow!
+Present Passport
+Phoenix:
+Take that!
+Leads to:
+"The victim had just returned home from abroad the day before the murder."
+Present anything else
+Phoenix:
+Take that!
+Judge:
+Um, excuse me. This proves your claim... how? I can't see what that evidence has to do with the clock.
+Phoenix:
+(D'oh! That wasn't it!) One more chance... Give me just one more chance!
+Judge:
+Alright, Mr. Wright, but time is not on your side. Be quick about it.
+Leads back to:
+"Let's see this evidence that proves why the clock was running slow!"
+Phoenix:
+The victim had just returned home from abroad the day before the murder. As we all know, the time difference between here and Paris is nine hours! When it's 4:00 PM here, it's 1:00 AM the next day there. The clock wasn't three hours slow, it was nine hours fast! The victim hadn't reset her clock since returning home! That's why the time you heard when you struck her dead in her apartment was wrong! Proof enough for you, Mr. Sahwit? Or should I say... Mr. Did It!
+Sahwit:
+Ngh! ...!
+Judge:
+O-order! Order, I say!
+Judge:
+Well... This case has certainly turned out differently than we all expected. Mr. Payne... your witness?
+Payne:
+He... er... he was arrested and has been taken away, Your Honor.
+Judge:
+Very well. Mr. Wright?
+Phoenix:
+Yes, Your Honor.
+Judge:
+I have to say, I'm impressed. I don't think I've ever seen someone complete a defense so quickly... and find the true culprit at the same time!
+Phoenix:
+Thank you, Your Honor.
+Judge:
+At this point, this is only a formality, but... This court finds the defendant, Mr. Larry Butz...
+Not Guilty
+Judge:
+And with that... The court is adjourned.
+Phoenix:
+It turns out that Frank Sahwit was a common burglar! He posed as a newspaper sales-man to check and see when people were out of the house! That day... When Larry went to her apartment, the victim wasn't home. After he left, Mr. Sahwit let himself in to do his dirty work! While he was searching her place, the victim returned! Flustered, Mr. Sahwit grabbed the nearest blunt object he could find...
+August 3, 2:32 PMDistrict CourtDefendant Lobby No. 2
+Phoenix:
+(Whew... I still can't believe we won!)
+Mia:
+Wright! Good job in there! Congratulations!
+Phoenix:
+Th-thanks, Chief. I owe it all to you.
+Mia:
+Not at all, not at all! You fought your own battles in there. It's been a while since I've seen a trial end on such a satisfying note!
+Phoenix:
+(I've never seen the chief looking this happy... If she's this glad, imagine how Larry must feel!)
+Butz:
+My life is over...
+Phoenix:
+Larry! You're supposed to be happy! What's wrong now!?
+Butz:
+Aww, Nick... Don't worry 'bout me! I'll be dead and gone soon!
+Phoenix:
+Good! Wait, no! I mean... Bad! Bad bad bad! Larry, you're innocent! The case is closed.
+Butz:
+... But... but my Cindy-windy's gone, man! Gone forever!
+Phoenix:
+(Larry, she was a... Nah... Never mind.)
+Mia:
+Congratulations, Harry!
+Butz:
+H-Harry...?
+Mia:
+Yes, you! I can practically see the headlines now: "Harry Butz, Innocent!"
+Butz:
+Heh... um... thanks! I really owe you one. I won't forget this, ever! Let's celebrate! Dinner? Movie? My treat!
+Mia:
+Oh, no, I couldn't.
+Phoenix:
+(Hey, I was the one who got you off the hook!)
+Butz:
+Oh, hey! H-here, take this! It's a present!
+Mia:
+A present? For me? Wait... Wasn't this the evidence that...
+Butz:
+Actually, I made this clock for her! I made one for her and one for me.
+Mia:
+R-really? You? You made this? ... Well, thank you. I'll keep it as a memento.
+Butz:
+Yo, Nick... Can you believe it? I was so into that chick... And... and she was just playing me for a fool! Don't that make you wanna just cry? *sob*
+Phoenix:
+Larry...
+Mia:
+... Are you so sure?
+Butz:
+Ex-squeeze me?
+Mia:
+I think she thought quite a lot of you, in her own way.
+Butz:
+Nah, you don't gotta sympathize with me, 'sokay.
+Mia:
+Oh, I'm not just sympathizing, really. Isn't that right, Wright? Don't you have something to show your friend? Something that proves how she felt about him?
+Phoenix:
+H-huh? Oh, yeah, right! (What the heck is she talking about?)
+Present Statue
+Phoenix:
+Take that!
+Phoenix:
+Check this out, Larry. Proof Positive you weren't just some chump to her.
+Butz:
+Huh...? What about that clock?
+Phoenix:
+This is the clock YOU made for her, Larry! And she took it with her when she traveled.
+Butz:
+Whatever. She probably just needed a clock, that's all.
+Phoenix:
+You think so? It's a pretty heavy clock to take traveling.
+Butz:
+...
+Phoenix:
+Well, make of it what you will.
+Butz:
+... Hey, Nick. I'm glad I asked you to be my lawyer. Really, I am. Thanks.
+Phoenix:
+(Hope that made him feel a little better...)
+Leads to:
+"Wright?"
+Present anything else
+Phoenix:
+Take that!
+Phoenix:
+Here you go, Larry. Proof.
+Butz:
+... Eh... heh heh? It's okay, Nick. Don't worry about me. I'll forget about her soon enough. Look, I'm gonna head home. Thanks a ton, eh?
+Phoenix:
+(Guess that wasn't the right thing to show him...)
+Leads to:
+"Wright?"
+Mia:
+Wright? I hope you see the importance of evidence now. Also, hopefully you realize, things change depending on how you look at them. People, too. We never really know if our clients are guilty or innocent. All we can do is believe in them. And in order to believe in them, you have to believe in yourself. Wright... Listen. Learn. Grow strong. Never let go of what you believe in. Never.
+Mia:
+Well, I think our work here is done! Shall we be off?
+Phoenix:
+Yeah, I guess so!
+Mia:
+Say, how about dinner. On me? We'll drink a toast to innocent Butz!
+Phoenix:
+Yeah!
+Mia:
+Oh, speaking of Harry... You were saying part of why you became a lawyer was because of him.
+Phoenix:
+Er, yeah. Part, at least.
+Mia:
+You'll have to tell me more about it sometime! Maybe... over drinks?
+Phoenix:
+And so, my first trial came to a close. Larry slapped me on the back and said, "Gee, Nick, it's good to have friends!" But I'm pretty sure he's not going to pay us. Unless you count the clock he gave Mia. ... I didn't know it then... but that clock was soon going to be at the center of another incident. And my promise to tell the chief about me and Larry... would be one promise that I wouldn't be able to keep.
+THE END
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+Your Honor! That statement contradicts this evidence!
+Judge:
+...? It does? I don't see anything contradictory.
+Phoenix:
+Huh? Really?
+Judge:
+Objection overruled. Try to think before you make accusations, Mr. Wright!
+Phoenix:
+(Whoops! That didn't go so well.)
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+Your Honor! What do you think about the witness's statement?
+Judge:
+Uh... I'm not sure I follow?
+Phoenix:
+It clearly, er, contradicts the... um... I thought...
+Judge:
+You don't sound very convinced, Mr. Wright. Objection overruled.
+Phoenix:
+(I don't think that won me any points with the judge...)
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+This evidence clearly reveals the contradiction in that statement, Your Honor!
+Judge:
+How exactly are that evidence and the statement just now related...?
+Phoenix:
+They aren't, are they...
+Judge:
+Not at all. Mr. Wright, please think the facts over before making accusations.
+Phoenix:
+(I don't think that won me any points with the judge...)
+Presenting wrong evidence during testimony
+Phoenix:
+Objection!
+Phoenix:
+The witness's statement is clearly faulty, Your Honor!
+Judge:
+... I'm sorry, but I can see nothing faulty. Unfortunately, I will have to penalize you, Mr. Wright.
+Phoenix:
+(Ugh. I must be on the wrong track?)
+Too many penalties
+Judge:
+That's enough! This court see no reason to further prolong the trial. The defense has failed to give the court sufficient reason to doubt the prosecution's claim. This court find the defendant, Mr. Larry Butz...
+Guilty
+Judge:
+The accused will surrender to the court immediately, to be held pending trial at a higher court within a month from today's date. That is all. This court is adjourned!
