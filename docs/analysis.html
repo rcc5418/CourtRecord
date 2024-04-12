@@ -20,7 +20,7 @@
                     <a href="members.html">Members</a>
                 </div>
                 <div class="button">
-                    <a href="code.html">Data</a>
+                    <a href="data.html">Data</a>
                 </div>
                 <div class="button">
                     <a href="analysis.html">Analysis</a>
@@ -29,13 +29,99 @@
                     <a href="aiCases.html">AI-Generated Cases</a>
                 </div>
             </nav>
-            <p>This page contains analysis of data pertaining to the Ace Attorney franchise. As a reminder, our data typically looks something like this:</p>
+            <p>This page contains analysis of data pertaining to the Ace Attorney franchise. <br />
+                For more info on how exactly we acrued our data, check out the <a href="data.html"
+                    >data page</a>. <br />As a reminder, our data typically looks something like
+                this:</p>
             <div class="codeWindow">
-                <code>
-                    &lt;line speaker="Phoenix"&gt;Prosecutor Blackquill! What if I told you that the two astronauts... ...never set foot inside the launch pad area, but instead, went into another place? And what if when the director moved Launch Pad 1 back, it was not from the launch site... ...but from another place. What would you say then?&lt;/line&gt;<br />&lt;line speaker="Blackquill"&gt;Cut the existential bull or I'll cut you.&lt;/line&gt;<br />&lt;line speaker="Judge"&gt;Mr. Wright, you will explain yourself at once!&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;&lt;thought&gt;I know I'm right. It was all the other way around from the beginning!&lt;/thought&gt; Very well, Your Honor. Let me explain. Director Cosmos's reason for moving Launch Pad 1 was...&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Because he wanted to hide Launch Pad 1!&lt;/line&gt;<br />&lt;line speaker="Judge"&gt;Hmm, well, let's suppose he did move it. Where in the world would he hide it? An enormous launch pad like that... I highly doubt it could truly be hidden.&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Oh, uh... behind something, maybe...?&lt;/line&gt;<br />&lt;line speaker="Judge"&gt;Mr. Wright! Are you asking me or telling me?!&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Urk. &lt;thought&gt;Looks like I messed that up...&lt;/thought&gt; Your Honor! Please let me give it another try!&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Because he wanted to trap the true killer!&lt;/line&gt;<br />&lt;line speaker="Blackquill"&gt;............Hmph. Wright-dono, need I remind you there was an explosion? And that the corridor between the launch pad and the lounge was thick with smoke? If the killer had been trapped in there, they would've been found as dead as their victim.&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;I-I guess you're right.&lt;/line&gt;<br />&lt;line speaker="Judge"&gt;Well, I'm glad you both agree. Now here's a penalty for you, Mr. Wright.&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;&lt;thought&gt;I don't agree with that penalty, though...&lt;/thought&gt; Your Honor! Please give me another chance!&lt;/line&gt;
-                </code>
+                <code> &lt;line speaker="Phoenix"&gt;Prosecutor Blackquill! What if I told you that
+                    the two astronauts... ...never set foot inside the launch pad area, but instead,
+                    went into another place? And what if when the director moved Launch Pad 1 back,
+                    it was not from the launch site... ...but from another place. What would you say
+                    then?&lt;/line&gt;<br />&lt;line speaker="Blackquill"&gt;Cut the existential
+                    bull or I'll cut you.&lt;/line&gt;<br />&lt;line speaker="Judge"&gt;Mr. Wright,
+                    you will explain yourself at once!&lt;/line&gt;<br />&lt;line
+                    speaker="Phoenix"&gt;&lt;thought&gt;I know I'm right. It was all the other way
+                    around from the beginning!&lt;/thought&gt; Very well, Your Honor. Let me
+                    explain. Director Cosmos's reason for moving Launch Pad 1
+                    was...&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Because he wanted to hide
+                    Launch Pad 1!&lt;/line&gt;<br />&lt;line speaker="Judge"&gt;Hmm, well, let's
+                    suppose he did move it. Where in the world would he hide it? An enormous launch
+                    pad like that... I highly doubt it could truly be
+                    hidden.&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Oh, uh... behind
+                    something, maybe...?&lt;/line&gt;<br />&lt;line speaker="Judge"&gt;Mr. Wright!
+                    Are you asking me or telling me?!&lt;/line&gt;<br />&lt;line
+                    speaker="Phoenix"&gt;Urk. &lt;thought&gt;Looks like I messed that
+                    up...&lt;/thought&gt; Your Honor! Please let me give it another
+                    try!&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;Because he wanted to trap
+                    the true killer!&lt;/line&gt;<br />&lt;line
+                    speaker="Blackquill"&gt;............Hmph. Wright-dono, need I remind you there
+                    was an explosion? And that the corridor between the launch pad and the lounge
+                    was thick with smoke? If the killer had been trapped in there, they would've
+                    been found as dead as their victim.&lt;/line&gt;<br />&lt;line
+                    speaker="Phoenix"&gt;I-I guess you're right.&lt;/line&gt;<br />&lt;line
+                    speaker="Judge"&gt;Well, I'm glad you both agree. Now here's a penalty for you,
+                    Mr. Wright.&lt;/line&gt;<br />&lt;line speaker="Phoenix"&gt;&lt;thought&gt;I
+                    don't agree with that penalty, though...&lt;/thought&gt; Your Honor! Please give
+                    me another chance!&lt;/line&gt; </code>
             </div>
-            
+            <p>Ace Attorney is a visual novel, so there's a ton of text, all of it appearing as
+                dialogue between characters. To reflect this, out XML data contains all the
+                'dialogue' with the speaker outlined in an attribute. So what data can we glean from
+                this XML, and how exactly can we secure it?<br /> One piece of information we wanted
+                to find was how many lines each speaker had. This is pretty simple to find in each
+                individual file, but searching over our whole collection is a bit harder. We'll use
+                a combination of XQuery, which lets you run XPath searches over collections of
+                files, and PyVis, which'll let us display the data we select as a network with nodes
+                and edges. <br /> For a full breakdown on the process, and to run the code yourself,
+                    <a
+                    href="https://mybinder.org/v2/gh/rcc5418/BinderRepo/HEAD?labpath=AADataNetwork.ipynb"
+                    target="_blank">check out this Jupyter Notebook!</a><br /> After running all
+                that code and constructing our network, we end up with this:</p>
+            <iframe class="nestedHTMLs" src="AAnetwork_graph.html"></iframe>
+            <p>Cool! With this graph, it's clear that Phoenix, Edgeworth, Ryunosuke, Apollo, and the
+                Judge are the most common speakers. Phoenix's position is obvious, as he's a main
+                character in all 6 mainline games, and it's no surprise that Apollo makes the top
+                cut as well, he's a protagonist in half the mainline games. It's interesting that
+                Ryunosuke has more lines than Apollo though, as he's the protagonist in only 2
+                    <i>spinoff</i> games. A similar phenomenon occurs with Edgeworth. Those with a
+                passing knowledge of the series might be surprised that he's in second place when it
+                comes to number of lines. He's the primary antagonist in the first game, and shows
+                up once or twice in pretty much all the other games, but the real reason he has so
+                many lines is that he stars in 2 of his <i>own</i> spin off games, the Ace Attorney
+                Investigation games. It's amusing that the Judge appears here, but not surprising.
+                Roughly half of the Ace Attorney games' gameplay takes place in the courtroom, where
+                the Judge features prominently. He's never been a very defined character though, so
+                his relevance over more memorable characters like Athena Cykes or Maya Fey is a bit
+                baffling.<br /> We can refine our graph (and make it easier to read) by adjusting
+                our coloring strategy and actually connecting our nodes together to form a long
+                string from most prominent character to least prominent.<br />This process was
+                detailed in the same notebook from earlier, so <a
+                    href="https://mybinder.org/v2/gh/rcc5418/BinderRepo/HEAD?labpath=AADataNetwork.ipynb"
+                    target="_blank">revisit it if you'd like!</a><br /> Here's what our refined
+                graph looks like:</p>
+            <iframe class="nestedHTMLs" src="AAnetwork_graph_2.html"></iframe>
+            <p>As an Ace Attorney fan, it was pretty fun to follow the path and find the first
+                character I didn't recognize right away (It was Ryutaro; see how far down on the
+                chain they are?). The number 75 was chosen arbitrarily, but it turned out to be
+                pretty effective. Near the end of the trail, the characters start becoming pretty
+                obscure. <br /> There is some data analysis that can only be done using NLP, natural
+                language processing, to scan over our text and pick out certain types of word. In <a
+                    target="_blank"
+                    href="https://mybinder.org/v2/gh/rcc5418/BinderRepo/HEAD?labpath=visualizingNLP.ipynb"
+                    >this notebook,</a> we use XQuery to find all of the main character Phoenix's
+                longest lines and picks out the proper nouns used most often, but you're encouraged
+                to mess with the code yourself to find something different! Regardless, here's the
+                bar graph created from the data we picked out:</p>
+            <img alt="A bar graph depicting the proper nouns used most commonly by Phoenix Wright"
+                class="centerIMG" src="images/phoenixLines_VisualizedNLP.png">
+            <p>This data is pretty flawed. Those familiar with the franchise would recognize that
+                there's no reason for the character Olga Orly to show up so prominently, she's only
+                in ONE case! I believe this is the result of our data-sparsing technique. For
+                brevity, we only analyzed lines above 300 characters, so I guess Phoenix was just
+                going off about this Olga lady at one point for one reason or another. Undoubtedly,
+                if our data-sparsing technique was refined a bit, we'd make a more accurate
+                graph.</p>
         </section>
     </body>
 </html>

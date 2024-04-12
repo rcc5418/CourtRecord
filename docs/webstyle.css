@@ -108,7 +108,7 @@ nav {
         max-height: 35vw;
         overflow: auto;
         border-color: gold;
-        border-radius: 8px;
+        border-radius: 10px;
         border-style: outset;
         margin: 20px auto;
         padding: 10px;
@@ -123,4 +123,23 @@ ul.centered {
     width: 40%;
     margin: 0 auto; 
     padding: 0; 
+}
+iframe.nestedHTMLs{
+    width: 75vw;
+    height: 42vw;
+    border-color: gold;
+    border-radius: 10px;
+    border-style: outset;
+    margin: 20px auto;
+    display: block;
+}
+img.centerIMG{
+    max-width: 60vw;
+    max-height: 45vw;
+    overflow: auto;
+    border-color: gold;
+    border-radius: 10px;
+    border-style: outset;
+    margin: 20px auto;
+    display: block;
 }
