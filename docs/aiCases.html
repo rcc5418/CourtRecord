@@ -29,8 +29,102 @@
                     <a href="aiCases.html">AI-Generated Cases</a>
                 </div>
             </nav>
-            <p>This page showcases AI-generated court cases based on the informated provided from the first three Ace Attorney games..</p>
-            <img src="images/worm_apocalypse.png" alt="Placeholder image" />
+            <p>One of the ultimate goals for this project was to try and generate a new Ace Attorney
+                'case' based on all the text of the series. The main inspiration for this was fans'
+                of the series unique creations. If you go to YouTube and search 'AI generated Ace
+                Attorney', you'll find a bunch of videos where people get AI generated dialogue from
+                somewhere like <a href="https://play.aidungeon.com/" target="_blank">AI Dungeon</a>
+                and visualize it with <a href="https://objection.lol/" target="_blank"
+                    >Objection.lol</a>, an online visualization tool often used by members of the
+                fandom to create memes.<br /> They usually go like this (<a
+                    href="https://www.youtube.com/watch?v=Do1fN_isFx8" target="_blank">youtube
+                    link</a>):</p>
+            <iframe class="youtube"
+                src="https://www.youtube.com/embed/Do1fN_isFx8?si=AIHiRpCr1_5P3wCd"
+                title="YouTube video player"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p> I think a large reason creations like theses are so popular is that it helps fans
+                appreciate the original source material more and more as it grows older. It's
+                hilarious to see the random stuff the AI comes up with, but Ace Attorney isn't
+                really like that. The series originated as a cheaply made visual novel with a
+                skeleton crew, but it's tight writing, well-written characters, and (usually)
+                sensible and unique mysteries led it to become one of Capcom's longest-running
+                franchises as well as one of the most succesful visual novels of all time.<br /> We
+                wanted to recreate this absurd dichotomy by using our text data to train an AI model
+                and have it create a new Ace Attorney case, hopefully as entertaining as others'
+                creations. Fundamentally though, we had to lower our expectations.</p>
+            <p>This page is not going to go into extreme detail regarding how text generation works,
+                but basically, an AI model is trained on certain data, and the actual generation is
+                just the model predicting the most-likely next word, or 'token'. ChatGPT, the most
+                famous AI model of today, is just a hyper-advanced version of this typical
+                text-generation model. That's why you'll hear about Open-AI getting into trouble for
+                stealing data, their model requires TONS of data to be so intelligent!<br /> The
+                point being, once we train a model on our Ace Attorney text, we probably won't be
+                able to make anything as new or creative as those AI Dungeon videos, since the model
+                would only be picking text from it's vocabulary (full of tokens from the text
+                itself). </p>
+            <p> Obstacles aside, let's train a model! We narrowed in on this <a
+                    href="https://www.tensorflow.org/text/tutorials/text_generation" target="_blank"
+                    >TensorFlow tutorial</a> since the example they used generated text based on
+                Shakespeare's writings, and generated a script-like text similar to what we wanted
+                to make. We rewrote their code to work with our data (<a
+                    href="filesForSiteViewing/tensorFlowTutorial.py" target="_blank">check out the
+                    python file!</a>), tweaked with the length of the generation and the temperature
+                (which affects how <i>random</i> the text prediction is), and this is what we
+                got!</p>
+            <iframe class="nestedHTMLs" src="http://objection.lol/embed/6167932" width="980"
+                height="700"></iframe>
+            <p>Wow! That was something! <br /> These results may seem dissapointing, even
+                considering our lowered expectations, but there's a lot of compelling stuff
+                here!<br /> Observe this snippet (or check out the full generation <a
+                    href="generations/tensorFlow_E_7_t_.65.txt" target="_blank">here</a>):</p>
+            <div class="codeWindow">
+                <code> Judge: <br />Ye wor He at lice cuncep courtor son the vreecur of the coured
+                    to the plpe of of thearing aresseen the gore to for i faneto: "sur....) Edghe
+                    mearung us would to this the for you fromereany the gorts whenah! Soall yagud
+                    the prectorn't in the bellon tong thing? <br />Edgeworth:
+                    <br />.................... wewho. Andan thersed. <br />Gro: ... What in this
+                    bhoe mprost parr houlds of tato wit wan y andy ind the to you the is weas
+                    aleseverese couldd ourth all yout to his fir it our was may on that'rth.
+                    <br />PhounHossillo: <br />(ly whollo she vicled what I've the timend the leas
+                    hapre <br />Edgeworth: <br />Thilm... That toim. <br />I things the re of the
+                    had ne that wit mor He myew you here whone yousushen the my was siecry every
+                    plapes wered the the did yout fecliet on the was the the at the wiching Mst of
+                    thisprased the dence ourt... Hen a were to the the ceall ous the we hit the foor
+                    did welanyste munt inve sour wis the pright. Bet the ape woulds cour a ring a
+                    bllipoon't like the inve, we gort, Mand with the beear yours of all no hon the
+                    vick. </code>
+            </div>
+            <p> The generation <i>does</i> follow the script-like formula we were hoping for, and
+                certain characters' names appear fluently! Edgeworth crops up several times, though
+                two characters called Gro and PhounHossillo have appeared as well, interpreted as
+                Grossberg and Phoenix for the purposes of our visualization.<br /> I think there are
+                two main reasons why this generation may have failed so spectacularly. For one, the
+                tensorFlow model trains by splitting each word into characters, and the generation
+                is based off predicting the very next <i>character</i> in the sequence. That's why
+                you'll see names like PhounHossillo, the model thinks it's seeing the name Phoenix,
+                writing P-h-o, before diverting into something else, possibly the result of our
+                temperature.<br /> For a more explicit example, look at when the name Kazumshoe
+                appears in the full generation. This is an obvious combination of the two characters
+                named Kazuma and Gumshoe, the model's attention span is flawed.<br /> For a deep
+                look into attention in this context, <a
+                    href="https://www.youtube.com/watch?v=eMlx5fFNoYc" target="_blank">check out
+                    this 3Blue1Brown video</a>!</p>
+            <p> The main takeaway of this expirement was that training a language model is really
+                hard! There are a bunch of parameters the author can tweak with to adjust how the
+                model is trained, how each token affects the others, how the probability matrix for
+                the next token is handled, and so on. <br />Since training our own model wasn't very
+                fruitful, we wanted to cheat a little, by using the most popular language model on
+                the market, ChatGPT.<br /> Our biggest question for this avenue in the project was
+                to see if the Ace Attorney text could be self-sustaining, as in, if a model trained
+                only on the text from the franchise be able to generate similar-enough cases, but as
+                we've said, that didn't pan out that well. <br/>That being said, seeing if ChatGPT can
+                generate an Ace Attorney case is another way of answering that question, at least,
+                if you squint. If Ace Attorney is a 'big' enough franchise, then ChatGPT probably
+                has Ace Attorney data somewhere in its training data. So, we tried it out! Here's
+                the visualiazation (or here's the <a href="generations/ChatGPT_Stolen_Sword.txt"
+                    target="_blank">full generation</a>):</p>
         </section>
     </body>
 </html>

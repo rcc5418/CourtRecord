@@ -7,7 +7,7 @@ import os
 import pathlib
 import time
 
-path_to_file = ('corpus-txt/combined.txt')
+path_to_file = tf.keras.utils.get_file('combined.txt', 'https://raw.githubusercontent.com/rcc5418/CourtRecord/main/docs/texts/combined.txt')
 encoding_language = 'utf-8' #We'll be accessing which encoding language we used late, so we need this variable
 
 # Read, then decode for py2 compat.
@@ -309,7 +309,7 @@ one_step_model = OneStep(model, chars_from_ids, ids_from_chars, 0.75)
 
 start = time.time()
 states = None
-next_char = tf.constant(['Judge: \n This court is in session for the trial of '])
+next_char = tf.constant(['Judge:'])
 result = [next_char]
 
 for n in range(1000):
