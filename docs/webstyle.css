@@ -1,12 +1,12 @@
 body {
     content: "";
     font-family: "Century Schoolbook";
-    position:relative;
+    position: relative;
     margin: 0;
 }
 body::after {
     content: "";
-    top:0;
+    top: 0;
     left: 0;
     bottom: 0;
     right: 0;
@@ -57,7 +57,7 @@ ul {
     margin: 1vw auto;
 }
 h2 {
-        line-height: 1.5em;
+    line-height: 1.5em;
     border: .5vw;
     border-style: ridge;
     border-style: outset;
@@ -71,17 +71,18 @@ h2 {
     font-size: 2.5em;
     margin-top: 0;
 }
-img.bio, img.bioReece{
+img.bio,
+img.bioReece {
     flex: 0;
     width: 25vw;
-    height: auto; 
-    min-width: 25%; 
+    height: auto;
+    min-width: 25%;
     display: block;
     border: .7vw;
     border-style: outset;
     border-color: #ad9947;
 }
-div.bioImgDiv{
+div.bioImgDiv {
     background-color: rgba(0, 32, 79, 0.9);
 }
 .character_name {
@@ -104,27 +105,27 @@ nav {
     text-align: center;
 }
 .codeWindow {
-        max-width: 75vw;
-        max-height: 35vw;
-        overflow: auto;
-        border-color: gold;
-        border-radius: 10px;
-        border-style: outset;
-        margin: 20px auto;
-        padding: 10px;
-        box-sizing: border-box;
-        background-color: white;
-    }
+    max-width: 75vw;
+    max-height: 35vw;
+    overflow: auto;
+    border-color: gold;
+    border-radius: 10px;
+    border-style: outset;
+    margin: 20px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: white;
+}
 .codeWindow code {
     font-size: medium;
     color: black;
 }
 ul.centered {
     width: 40%;
-    margin: 0 auto; 
-    padding: 0; 
+    margin: 0 auto;
+    padding: 0;
 }
-iframe.nestedHTMLs{
+iframe.nestedHTMLs {
     width: 75vw;
     height: 42vw;
     border-color: gold;
@@ -133,7 +134,16 @@ iframe.nestedHTMLs{
     margin: 20px auto;
     display: block;
 }
-img.centerIMG{
+iframe.objectionLOL {
+    width: 75vw;
+    height: 50vw;
+    border-color: gold;
+    border-radius: 5px;
+    border-style: outset;
+    margin: 20px auto;
+    display: block;
+}
+img.centerIMG {
     max-width: 60vw;
     max-height: 45vw;
     overflow: auto;
@@ -143,7 +153,17 @@ img.centerIMG{
     margin: 20px auto;
     display: block;
 }
-iframe.youtube{
+img.centerIMGSmall {
+    max-width: 40vw;
+    max-height: 30vw;
+    overflow: auto;
+    border-color: gold;
+    border-radius: 5px;
+    border-style: outset;
+    margin: 20px auto;
+    display: block;
+}
+iframe.youtube {
     width: 60vw;
     height: 38vw;
     border-color: gold;
@@ -151,4 +171,28 @@ iframe.youtube{
     border-style: outset;
     margin: 20px auto;
     display: block;
+}
+figure {
+    max-width: 75vw;
+    margin: 10px auto;
+}
+figcaption {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    text-align: center;
+}
+figure.SVG {
+    max-width: 75vw;
+    max-height: 35vw;
+    overflow: auto;
+    border-color: gold;
+    border-radius: 10px;
+    border-style: outset;
+    margin: 20px auto;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: #cce6ff;
 }

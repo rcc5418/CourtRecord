@@ -17,9 +17,6 @@
                     <a href="index.html">Home</a>
                 </div>
                 <div class="button">
-                    <a href="members.html">Members</a>
-                </div>
-                <div class="button">
                     <a href="data.html">Data</a>
                 </div>
                 <div class="button">
@@ -28,7 +25,15 @@
                 <div class="button">
                     <a href="aiCases.html">AI-Generated Cases</a>
                 </div>
+                <div class="button">
+                    <a href="members.html">Members</a>
+                </div>
             </nav>
+            <figure>
+                <img src="images/word_cloud.png" class="centerIMGSmall"
+                    alt="A wordcloud consisting of common Ace Attorney terms" />
+                <figcaption>A wordcloud made up of the 1st game's most common words</figcaption>
+            </figure>
             <p>This page contains analysis of data pertaining to the Ace Attorney franchise. <br />
                 For more info on how exactly we acrued our data, check out the <a href="data.html"
                     >data page</a>. <br />As a reminder, our data typically looks something like
@@ -122,6 +127,864 @@
                 going off about this Olga lady at one point for one reason or another. Undoubtedly,
                 if our data-sparsing technique was refined a bit, we'd make a more accurate
                 graph.</p>
+            <p> We don't have to stop there, another data visualization tactic we can do is to go
+                over each file in our corpus using XQuery and build an SVG image from the data we
+                gather.<br /> The SVG graph shown below is a graph depicting the number of lines the
+                main character Phoenix has in each episode's transcript (made with <a
+                    href="filesForSiteViewing/XQueryToSVG.xquery" target="_blank">this XQuery
+                    file</a>). </p>
+            <figure class="SVG">
+                <svg xmlns="http://www.w3.org/2000/svg" width="1500" height="19000"
+                    viewBox="0 0 1700 23250">
+                    <desc>Get data for each episode about how many lines Phoenix has</desc>
+                    <g id="wholePlot" transform="translate(50, 50)">
+                        <text x="0" y="50" text-anchor="start" font-size="45" textLength="480"
+                            fill="black" stroke="blue">Phoenix Lines per Episode</text>
+                        <g id="Bridge_to_the_Turnabout_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 1047</desc>
+                            <text x="0" y="150" font-size="25">Bridge_to_the_Turnabout - Part
+                                4</text>
+                            <line stroke="green" x1="0" x2="1047" y1="200" y2="200"
+                                style="stroke-width:70"/>
+                            <text x="1072" y="200">1047</text>
+                        </g>
+                        <g id="The_Golden_Court_-_Transcript">
+                            <desc>Total lines in this episode? 919</desc>
+                            <text x="0" y="350" font-size="25">The_Golden_Court</text>
+                            <line stroke="blue" x1="0" x2="919" y1="400" y2="400"
+                                style="stroke-width:70"/>
+                            <text x="944" y="400">919</text>
+                        </g>
+                        <g id="Bridge_to_the_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 905</desc>
+                            <text x="0" y="550" font-size="25">Bridge_to_the_Turnabout - Part
+                                3</text>
+                            <line stroke="purple" x1="0" x2="905" y1="600" y2="600"
+                                style="stroke-width:70"/>
+                            <text x="930" y="600">905</text>
+                        </g>
+                        <g id="Turnabout_for_Tomorrow_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 790</desc>
+                            <text x="0" y="750" font-size="25">Turnabout_for_Tomorrow - Part
+                                2</text>
+                            <line stroke="green" x1="0" x2="790" y1="800" y2="800"
+                                style="stroke-width:70"/>
+                            <text x="815" y="800">790</text>
+                        </g>
+                        <g id="Farewell_My_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 772</desc>
+                            <text x="0" y="950" font-size="25">Farewell,_My_Turnabout - Part
+                                3</text>
+                            <line stroke="pink" x1="0" x2="772" y1="1000" y2="1000"
+                                style="stroke-width:70"/>
+                            <text x="797" y="1000">772</text>
+                        </g>
+                        <g id="Turnabout_Succession_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 763</desc>
+                            <text x="0" y="1150" font-size="25">Turnabout_Succession - Part 4</text>
+                            <line stroke="red" x1="0" x2="763" y1="1200" y2="1200"
+                                style="stroke-width:70"/>
+                            <text x="788" y="1200">763</text>
+                        </g>
+                        <g id="Farewell_My_Turnabout_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 755</desc>
+                            <text x="0" y="1350" font-size="25">Farewell,_My_Turnabout - Part
+                                4</text>
+                            <line stroke="green" x1="0" x2="755" y1="1400" y2="1400"
+                                style="stroke-width:70"/>
+                            <text x="780" y="1400">755</text>
+                        </g>
+                        <g id="Farewell_My_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 754</desc>
+                            <text x="0" y="1550" font-size="25">Farewell,_My_Turnabout - Part
+                                1</text>
+                            <line stroke="blue" x1="0" x2="754" y1="1600" y2="1600"
+                                style="stroke-width:70"/>
+                            <text x="779" y="1600">754</text>
+                        </g>
+                        <g id="The_Fire_Witch_-_Transcript">
+                            <desc>Total lines in this episode? 720</desc>
+                            <text x="0" y="1750" font-size="25">The_Fire_Witch</text>
+                            <line stroke="purple" x1="0" x2="720" y1="1800" y2="1800"
+                                style="stroke-width:70"/>
+                            <text x="745" y="1800">720</text>
+                        </g>
+                        <g id="Farewell_My_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 706</desc>
+                            <text x="0" y="1950" font-size="25">Farewell,_My_Turnabout - Part
+                                2</text>
+                            <line stroke="green" x1="0" x2="706" y1="2000" y2="2000"
+                                style="stroke-width:70"/>
+                            <text x="731" y="2000">706</text>
+                        </g>
+                        <g id="The_Foreign_Turnabout_-_Transcript">
+                            <desc>Total lines in this episode? 667</desc>
+                            <text x="0" y="2150" font-size="25">The_Foreign_Turnabout</text>
+                            <line stroke="pink" x1="0" x2="667" y1="2200" y2="2200"
+                                style="stroke-width:70"/>
+                            <text x="692" y="2200">667</text>
+                        </g>
+                        <g id="The_Rite_of_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 652</desc>
+                            <text x="0" y="2350" font-size="25">The_Rite_of_Turnabout - Part
+                                1</text>
+                            <line stroke="red" x1="0" x2="652" y1="2400" y2="2400"
+                                style="stroke-width:70"/>
+                            <text x="677" y="2400">652</text>
+                        </g>
+                        <g id="Recipe_for_Turnabout_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 651</desc>
+                            <text x="0" y="2550" font-size="25">Recipe_for_Turnabout - Part 4</text>
+                            <line stroke="green" x1="0" x2="651" y1="2600" y2="2600"
+                                style="stroke-width:70"/>
+                            <text x="676" y="2600">651</text>
+                        </g>
+                        <g id="Rise_from_the_Ashes_-_Transcript_-_Part_6">
+                            <desc>Total lines in this episode? 626</desc>
+                            <text x="0" y="2750" font-size="25">Rise_from_the_Ashes - Part 6</text>
+                            <line stroke="blue" x1="0" x2="626" y1="2800" y2="2800"
+                                style="stroke-width:70"/>
+                            <text x="651" y="2800">626</text>
+                        </g>
+                        <g id="The_Rite_of_Turnabout_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 611</desc>
+                            <text x="0" y="2950" font-size="25">The_Rite_of_Turnabout - Part
+                                4</text>
+                            <line stroke="purple" x1="0" x2="611" y1="3000" y2="3000"
+                                style="stroke-width:70"/>
+                            <text x="636" y="3000">611</text>
+                        </g>
+                        <g id="Turnabout_Reclaimed_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 609</desc>
+                            <text x="0" y="3150" font-size="25">Turnabout_Reclaimed - Part 4</text>
+                            <line stroke="green" x1="0" x2="609" y1="3200" y2="3200"
+                                style="stroke-width:70"/>
+                            <text x="634" y="3200">609</text>
+                        </g>
+                        <g id="Recipe_for_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 573</desc>
+                            <text x="0" y="3350" font-size="25">Recipe_for_Turnabout - Part 3</text>
+                            <line stroke="pink" x1="0" x2="573" y1="3400" y2="3400"
+                                style="stroke-width:70"/>
+                            <text x="598" y="3400">573</text>
+                        </g>
+                        <g id="The_Final_Witch_Trial_-_Transcript">
+                            <desc>Total lines in this episode? 563</desc>
+                            <text x="0" y="3550" font-size="25">The_Final_Witch_Trial</text>
+                            <line stroke="red" x1="0" x2="563" y1="3600" y2="3600"
+                                style="stroke-width:70"/>
+                            <text x="588" y="3600">563</text>
+                        </g>
+                        <g id="Reunion_and_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 556</desc>
+                            <text x="0" y="3750" font-size="25">Reunion,_and_Turnabout - Part
+                                1</text>
+                            <line stroke="green" x1="0" x2="556" y1="3800" y2="3800"
+                                style="stroke-width:70"/>
+                            <text x="581" y="3800">556</text>
+                        </g>
+                        <g id="Recipe_for_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 555</desc>
+                            <text x="0" y="3950" font-size="25">Recipe_for_Turnabout - Part 1</text>
+                            <line stroke="blue" x1="0" x2="555" y1="4000" y2="4000"
+                                style="stroke-width:70"/>
+                            <text x="580" y="4000">555</text>
+                        </g>
+                        <g id="Turnabout_Time_Traveler_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 553</desc>
+                            <text x="0" y="4150" font-size="25">Turnabout_Time_Traveler - Part
+                                4</text>
+                            <line stroke="purple" x1="0" x2="553" y1="4200" y2="4200"
+                                style="stroke-width:70"/>
+                            <text x="578" y="4200">553</text>
+                        </g>
+                        <g id="Reunion_and_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 551</desc>
+                            <text x="0" y="4350" font-size="25">Reunion,_and_Turnabout - Part
+                                3</text>
+                            <line stroke="green" x1="0" x2="551" y1="4400" y2="4400"
+                                style="stroke-width:70"/>
+                            <text x="576" y="4400">551</text>
+                        </g>
+                        <g id="Turnabout_Big_Top_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 531</desc>
+                            <text x="0" y="4550" font-size="25">Turnabout_Big_Top - Part 1</text>
+                            <line stroke="pink" x1="0" x2="531" y1="4600" y2="4600"
+                                style="stroke-width:70"/>
+                            <text x="556" y="4600">531</text>
+                        </g>
+                        <g id="The_Stolen_Turnabout_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 530</desc>
+                            <text x="0" y="4750" font-size="25">The_Stolen_Turnabout - Part 4</text>
+                            <line stroke="red" x1="0" x2="530" y1="4800" y2="4800"
+                                style="stroke-width:70"/>
+                            <text x="555" y="4800">530</text>
+                        </g>
+                        <g id="The_Stolen_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 520</desc>
+                            <text x="0" y="4950" font-size="25">The_Stolen_Turnabout - Part 1</text>
+                            <line stroke="green" x1="0" x2="520" y1="5000" y2="5000"
+                                style="stroke-width:70"/>
+                            <text x="545" y="5000">520</text>
+                        </g>
+                        <g id="The_Rite_of_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 518</desc>
+                            <text x="0" y="5150" font-size="25">The_Rite_of_Turnabout - Part
+                                3</text>
+                            <line stroke="blue" x1="0" x2="518" y1="5200" y2="5200"
+                                style="stroke-width:70"/>
+                            <text x="543" y="5200">518</text>
+                        </g>
+                        <g id="Rise_from_the_Ashes_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 516</desc>
+                            <text x="0" y="5350" font-size="25">Rise_from_the_Ashes - Part 4</text>
+                            <line stroke="purple" x1="0" x2="516" y1="5400" y2="5400"
+                                style="stroke-width:70"/>
+                            <text x="541" y="5400">516</text>
+                        </g>
+                        <g id="Turnabout_Time_Traveler_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 513</desc>
+                            <text x="0" y="5550" font-size="25">Turnabout_Time_Traveler - Part
+                                1</text>
+                            <line stroke="green" x1="0" x2="513" y1="5600" y2="5600"
+                                style="stroke-width:70"/>
+                            <text x="538" y="5600">513</text>
+                        </g>
+                        <g id="Turnabout_Countdown_-_Transcript">
+                            <desc>Total lines in this episode? 481</desc>
+                            <text x="0" y="5750" font-size="25">Turnabout_Countdown</text>
+                            <line stroke="pink" x1="0" x2="481" y1="5800" y2="5800"
+                                style="stroke-width:70"/>
+                            <text x="506" y="5800">481</text>
+                        </g>
+                        <g id="Reunion_and_Turnabout_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 473</desc>
+                            <text x="0" y="5950" font-size="25">Reunion,_and_Turnabout - Part
+                                4</text>
+                            <line stroke="red" x1="0" x2="473" y1="6000" y2="6000"
+                                style="stroke-width:70"/>
+                            <text x="498" y="6000">473</text>
+                        </g>
+                        <g id="The_Stolen_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 467</desc>
+                            <text x="0" y="6150" font-size="25">The_Stolen_Turnabout - Part 3</text>
+                            <line stroke="green" x1="0" x2="467" y1="6200" y2="6200"
+                                style="stroke-width:70"/>
+                            <text x="492" y="6200">467</text>
+                        </g>
+                        <g id="The_Last_Inquisitor_-_Transcript">
+                            <desc>Total lines in this episode? 457</desc>
+                            <text x="0" y="6350" font-size="25">The_Last_Inquisitor</text>
+                            <line stroke="blue" x1="0" x2="457" y1="6400" y2="6400"
+                                style="stroke-width:70"/>
+                            <text x="482" y="6400">457</text>
+                        </g>
+                        <g id="Rise_from_the_Ashes_-_Transcript_-_Part_5">
+                            <desc>Total lines in this episode? 451</desc>
+                            <text x="0" y="6550" font-size="25">Rise_from_the_Ashes - Part 5</text>
+                            <line stroke="purple" x1="0" x2="451" y1="6600" y2="6600"
+                                style="stroke-width:70"/>
+                            <text x="476" y="6600">451</text>
+                        </g>
+                        <g id="Rise_from_the_Ashes_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 449</desc>
+                            <text x="0" y="6750" font-size="25">Rise_from_the_Ashes - Part 3</text>
+                            <line stroke="green" x1="0" x2="449" y1="6800" y2="6800"
+                                style="stroke-width:70"/>
+                            <text x="474" y="6800">449</text>
+                        </g>
+                        <g id="Turnabout_Reclaimed_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 449</desc>
+                            <text x="0" y="6950" font-size="25">Turnabout_Reclaimed - Part 3</text>
+                            <line stroke="pink" x1="0" x2="449" y1="7000" y2="7000"
+                                style="stroke-width:70"/>
+                            <text x="474" y="7000">449</text>
+                        </g>
+                        <g id="Turnabout_Big_Top_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 448</desc>
+                            <text x="0" y="7150" font-size="25">Turnabout_Big_Top - Part 4</text>
+                            <line stroke="red" x1="0" x2="448" y1="7200" y2="7200"
+                                style="stroke-width:70"/>
+                            <text x="473" y="7200">448</text>
+                        </g>
+                        <g id="Turnabout_for_Tomorrow_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 447</desc>
+                            <text x="0" y="7350" font-size="25">Turnabout_for_Tomorrow - Part
+                                1</text>
+                            <line stroke="green" x1="0" x2="447" y1="7400" y2="7400"
+                                style="stroke-width:70"/>
+                            <text x="472" y="7400">447</text>
+                        </g>
+                        <g id="Rise_from_the_Ashes_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 437</desc>
+                            <text x="0" y="7550" font-size="25">Rise_from_the_Ashes - Part 2</text>
+                            <line stroke="blue" x1="0" x2="437" y1="7600" y2="7600"
+                                style="stroke-width:70"/>
+                            <text x="462" y="7600">437</text>
+                        </g>
+                        <g id="The_Lost_Turnabout_-_Transcript">
+                            <desc>Total lines in this episode? 431</desc>
+                            <text x="0" y="7750" font-size="25">The_Lost_Turnabout</text>
+                            <line stroke="purple" x1="0" x2="431" y1="7800" y2="7800"
+                                style="stroke-width:70"/>
+                            <text x="456" y="7800">431</text>
+                        </g>
+                        <g id="Turnabout_Sisters_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 415</desc>
+                            <text x="0" y="7950" font-size="25">Turnabout_Sisters - Part 2</text>
+                            <line stroke="green" x1="0" x2="415" y1="8000" y2="8000"
+                                style="stroke-width:70"/>
+                            <text x="440" y="8000">415</text>
+                        </g>
+                        <g id="The_Rite_of_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 412</desc>
+                            <text x="0" y="8150" font-size="25">The_Rite_of_Turnabout - Part
+                                2</text>
+                            <line stroke="pink" x1="0" x2="412" y1="8200" y2="8200"
+                                style="stroke-width:70"/>
+                            <text x="437" y="8200">412</text>
+                        </g>
+                        <g id="Turnabout_Reclaimed_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 403</desc>
+                            <text x="0" y="8350" font-size="25">Turnabout_Reclaimed - Part 1</text>
+                            <line stroke="red" x1="0" x2="403" y1="8400" y2="8400"
+                                style="stroke-width:70"/>
+                            <text x="428" y="8400">403</text>
+                        </g>
+                        <g id="Rise_from_the_Ashes_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 398</desc>
+                            <text x="0" y="8550" font-size="25">Rise_from_the_Ashes - Part 1</text>
+                            <line stroke="green" x1="0" x2="398" y1="8600" y2="8600"
+                                style="stroke-width:70"/>
+                            <text x="423" y="8600">398</text>
+                        </g>
+                        <g id="The_Cosmic_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 398</desc>
+                            <text x="0" y="8750" font-size="25">The_Cosmic_Turnabout - Part 2</text>
+                            <line stroke="blue" x1="0" x2="398" y1="8800" y2="8800"
+                                style="stroke-width:70"/>
+                            <text x="423" y="8800">398</text>
+                        </g>
+                        <g id="Turnabout_Time_Traveler_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 396</desc>
+                            <text x="0" y="8950" font-size="25">Turnabout_Time_Traveler - Part
+                                3</text>
+                            <line stroke="purple" x1="0" x2="396" y1="9000" y2="9000"
+                                style="stroke-width:70"/>
+                            <text x="421" y="9000">396</text>
+                        </g>
+                        <g id="English_Turnabout_-_Transcript">
+                            <desc>Total lines in this episode? 388</desc>
+                            <text x="0" y="9150" font-size="25">English_Turnabout</text>
+                            <line stroke="green" x1="0" x2="388" y1="9200" y2="9200"
+                                style="stroke-width:70"/>
+                            <text x="413" y="9200">388</text>
+                        </g>
+                        <g id="Turnabout_Succession_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 388</desc>
+                            <text x="0" y="9350" font-size="25">Turnabout_Succession - Part 3</text>
+                            <line stroke="pink" x1="0" x2="388" y1="9400" y2="9400"
+                                style="stroke-width:70"/>
+                            <text x="413" y="9400">388</text>
+                        </g>
+                        <g id="Turnabout_Big_Top_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 385</desc>
+                            <text x="0" y="9550" font-size="25">Turnabout_Big_Top - Part 2</text>
+                            <line stroke="red" x1="0" x2="385" y1="9600" y2="9600"
+                                style="stroke-width:70"/>
+                            <text x="410" y="9600">385</text>
+                        </g>
+                        <g id="Turnabout_Goodbyes_-_Transcript_-_Part_6">
+                            <desc>Total lines in this episode? 365</desc>
+                            <text x="0" y="9750" font-size="25">Turnabout_Goodbyes - Part 6</text>
+                            <line stroke="green" x1="0" x2="365" y1="9800" y2="9800"
+                                style="stroke-width:70"/>
+                            <text x="390" y="9800">365</text>
+                        </g>
+                        <g id="Reunion_and_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 362</desc>
+                            <text x="0" y="9950" font-size="25">Reunion,_and_Turnabout - Part
+                                2</text>
+                            <line stroke="blue" x1="0" x2="362" y1="10000" y2="10000"
+                                style="stroke-width:70"/>
+                            <text x="387" y="10000">362</text>
+                        </g>
+                        <g id="Turnabout_Samurai_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 362</desc>
+                            <text x="0" y="10150" font-size="25">Turnabout_Samurai - Part 3</text>
+                            <line stroke="purple" x1="0" x2="362" y1="10200" y2="10200"
+                                style="stroke-width:70"/>
+                            <text x="387" y="10200">362</text>
+                        </g>
+                        <g id="Turnabout_Revolution_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 358</desc>
+                            <text x="0" y="10350" font-size="25">Turnabout_Revolution - Part
+                                3</text>
+                            <line stroke="green" x1="0" x2="358" y1="10400" y2="10400"
+                                style="stroke-width:70"/>
+                            <text x="383" y="10400">358</text>
+                        </g>
+                        <g id="Turnabout_Big_Top_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 340</desc>
+                            <text x="0" y="10550" font-size="25">Turnabout_Big_Top - Part 3</text>
+                            <line stroke="pink" x1="0" x2="340" y1="10600" y2="10600"
+                                style="stroke-width:70"/>
+                            <text x="365" y="10600">340</text>
+                        </g>
+                        <g id="The_Stolen_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 331</desc>
+                            <text x="0" y="10750" font-size="25">The_Stolen_Turnabout - Part
+                                2</text>
+                            <line stroke="red" x1="0" x2="331" y1="10800" y2="10800"
+                                style="stroke-width:70"/>
+                            <text x="356" y="10800">331</text>
+                        </g>
+                        <g id="Turnabout_Goodbyes_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 326</desc>
+                            <text x="0" y="10950" font-size="25">Turnabout_Goodbyes - Part 3</text>
+                            <line stroke="green" x1="0" x2="326" y1="11000" y2="11000"
+                                style="stroke-width:70"/>
+                            <text x="351" y="11000">326</text>
+                        </g>
+                        <g id="The_Cosmic_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 320</desc>
+                            <text x="0" y="11150" font-size="25">The_Cosmic_Turnabout - Part
+                                3</text>
+                            <line stroke="blue" x1="0" x2="320" y1="11200" y2="11200"
+                                style="stroke-width:70"/>
+                            <text x="345" y="11200">320</text>
+                        </g>
+                        <g id="Turnabout_Trump_-_Transcript">
+                            <desc>Total lines in this episode? 316</desc>
+                            <text x="0" y="11350" font-size="25">Turnabout_Trump</text>
+                            <line stroke="purple" x1="0" x2="316" y1="11400" y2="11400"
+                                style="stroke-width:70"/>
+                            <text x="341" y="11400">316</text>
+                        </g>
+                        <g id="Recipe_for_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 312</desc>
+                            <text x="0" y="11550" font-size="25">Recipe_for_Turnabout - Part
+                                2</text>
+                            <line stroke="green" x1="0" x2="312" y1="11600" y2="11600"
+                                style="stroke-width:70"/>
+                            <text x="337" y="11600">312</text>
+                        </g>
+                        <g id="Turnabout_Reclaimed_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 309</desc>
+                            <text x="0" y="11750" font-size="25">Turnabout_Reclaimed - Part 2</text>
+                            <line stroke="pink" x1="0" x2="309" y1="11800" y2="11800"
+                                style="stroke-width:70"/>
+                            <text x="334" y="11800">309</text>
+                        </g>
+                        <g id="Turnabout_Samurai_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 305</desc>
+                            <text x="0" y="11950" font-size="25">Turnabout_Samurai - Part 4</text>
+                            <line stroke="red" x1="0" x2="305" y1="12000" y2="12000"
+                                style="stroke-width:70"/>
+                            <text x="330" y="12000">305</text>
+                        </g>
+                        <g id="Turnabout_Goodbyes_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 297</desc>
+                            <text x="0" y="12150" font-size="25">Turnabout_Goodbyes - Part 2</text>
+                            <line stroke="green" x1="0" x2="297" y1="12200" y2="12200"
+                                style="stroke-width:70"/>
+                            <text x="322" y="12200">297</text>
+                        </g>
+                        <g id="The_First_Story_-_Transcript">
+                            <desc>Total lines in this episode? 296</desc>
+                            <text x="0" y="12350" font-size="25">The_First_Story</text>
+                            <line stroke="blue" x1="0" x2="296" y1="12400" y2="12400"
+                                style="stroke-width:70"/>
+                            <text x="321" y="12400">296</text>
+                        </g>
+                        <g id="Turnabout_Revolution_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 294</desc>
+                            <text x="0" y="12550" font-size="25">Turnabout_Revolution - Part
+                                4</text>
+                            <line stroke="purple" x1="0" x2="294" y1="12600" y2="12600"
+                                style="stroke-width:70"/>
+                            <text x="319" y="12600">294</text>
+                        </g>
+                        <g id="Turnabout_Time_Traveler_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 294</desc>
+                            <text x="0" y="12750" font-size="25">Turnabout_Time_Traveler - Part
+                                2</text>
+                            <line stroke="green" x1="0" x2="294" y1="12800" y2="12800"
+                                style="stroke-width:70"/>
+                            <text x="319" y="12800">294</text>
+                        </g>
+                        <g id="The_Great_Witch_-_Transcript">
+                            <desc>Total lines in this episode? 292</desc>
+                            <text x="0" y="12950" font-size="25">The_Great_Witch</text>
+                            <line stroke="pink" x1="0" x2="292" y1="13000" y2="13000"
+                                style="stroke-width:70"/>
+                            <text x="317" y="13000">292</text>
+                        </g>
+                        <g id="Turnabout_Sisters_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 292</desc>
+                            <text x="0" y="13150" font-size="25">Turnabout_Sisters - Part 3</text>
+                            <line stroke="red" x1="0" x2="292" y1="13200" y2="13200"
+                                style="stroke-width:70"/>
+                            <text x="317" y="13200">292</text>
+                        </g>
+                        <g id="Turnabout_Goodbyes_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 287</desc>
+                            <text x="0" y="13350" font-size="25">Turnabout_Goodbyes - Part 1</text>
+                            <line stroke="green" x1="0" x2="287" y1="13400" y2="13400"
+                                style="stroke-width:70"/>
+                            <text x="312" y="13400">287</text>
+                        </g>
+                        <g id="Turnabout_Sisters_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 281</desc>
+                            <text x="0" y="13550" font-size="25">Turnabout_Sisters - Part 4</text>
+                            <line stroke="blue" x1="0" x2="281" y1="13600" y2="13600"
+                                style="stroke-width:70"/>
+                            <text x="306" y="13600">281</text>
+                        </g>
+                        <g id="A_Taste_of_Despair_-_Transcript">
+                            <desc>Total lines in this episode? 274</desc>
+                            <text x="0" y="13750" font-size="25">A_Taste_of_Despair</text>
+                            <line stroke="purple" x1="0" x2="274" y1="13800" y2="13800"
+                                style="stroke-width:70"/>
+                            <text x="299" y="13800">274</text>
+                        </g>
+                        <g id="Turnabout_Sisters_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 273</desc>
+                            <text x="0" y="13950" font-size="25">Turnabout_Sisters - Part 1</text>
+                            <line stroke="green" x1="0" x2="273" y1="14000" y2="14000"
+                                style="stroke-width:70"/>
+                            <text x="298" y="14000">273</text>
+                        </g>
+                        <g id="Turnabout_Samurai_-_Transcript_-_Part_6">
+                            <desc>Total lines in this episode? 257</desc>
+                            <text x="0" y="14150" font-size="25">Turnabout_Samurai - Part 6</text>
+                            <line stroke="pink" x1="0" x2="257" y1="14200" y2="14200"
+                                style="stroke-width:70"/>
+                            <text x="282" y="14200">257</text>
+                        </g>
+                        <g id="Turnabout_Goodbyes_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 253</desc>
+                            <text x="0" y="14350" font-size="25">Turnabout_Goodbyes - Part 4</text>
+                            <line stroke="red" x1="0" x2="253" y1="14400" y2="14400"
+                                style="stroke-width:70"/>
+                            <text x="278" y="14400">253</text>
+                        </g>
+                        <g id="Turnabout_Samurai_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 227</desc>
+                            <text x="0" y="14550" font-size="25">Turnabout_Samurai - Part 1</text>
+                            <line stroke="green" x1="0" x2="227" y1="14600" y2="14600"
+                                style="stroke-width:70"/>
+                            <text x="252" y="14600">227</text>
+                        </g>
+                        <g id="Bridge_to_the_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 210</desc>
+                            <text x="0" y="14750" font-size="25">Bridge_to_the_Turnabout - Part
+                                1</text>
+                            <line stroke="blue" x1="0" x2="210" y1="14800" y2="14800"
+                                style="stroke-width:70"/>
+                            <text x="235" y="14800">210</text>
+                        </g>
+                        <g id="Turnabout_Samurai_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 208</desc>
+                            <text x="0" y="14950" font-size="25">Turnabout_Samurai - Part 2</text>
+                            <line stroke="purple" x1="0" x2="208" y1="15000" y2="15000"
+                                style="stroke-width:70"/>
+                            <text x="233" y="15000">208</text>
+                        </g>
+                        <g id="The_First_Turnabout_-_Transcript">
+                            <desc>Total lines in this episode? 199</desc>
+                            <text x="0" y="15150" font-size="25">The_First_Turnabout</text>
+                            <line stroke="green" x1="0" x2="199" y1="15200" y2="15200"
+                                style="stroke-width:70"/>
+                            <text x="224" y="15200">199</text>
+                        </g>
+                        <g id="Turnabout_Goodbyes_-_Transcript_-_Part_5">
+                            <desc>Total lines in this episode? 188</desc>
+                            <text x="0" y="15350" font-size="25">Turnabout_Goodbyes - Part 5</text>
+                            <line stroke="pink" x1="0" x2="188" y1="15400" y2="15400"
+                                style="stroke-width:70"/>
+                            <text x="213" y="15400">188</text>
+                        </g>
+                        <g id="Turnabout_Memories_-_Transcript">
+                            <desc>Total lines in this episode? 172</desc>
+                            <text x="0" y="15550" font-size="25">Turnabout_Memories</text>
+                            <line stroke="red" x1="0" x2="172" y1="15600" y2="15600"
+                                style="stroke-width:70"/>
+                            <text x="197" y="15600">172</text>
+                        </g>
+                        <g id="Turnabout_Samurai_-_Transcript_-_Part_5">
+                            <desc>Total lines in this episode? 167</desc>
+                            <text x="0" y="15750" font-size="25">Turnabout_Samurai - Part 5</text>
+                            <line stroke="green" x1="0" x2="167" y1="15800" y2="15800"
+                                style="stroke-width:70"/>
+                            <text x="192" y="15800">167</text>
+                        </g>
+                        <g id="Turnabout_Revolution_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 161</desc>
+                            <text x="0" y="15950" font-size="25">Turnabout_Revolution - Part
+                                2</text>
+                            <line stroke="blue" x1="0" x2="161" y1="16000" y2="16000"
+                                style="stroke-width:70"/>
+                            <text x="186" y="16000">161</text>
+                        </g>
+                        <g id="Secrets_of_the_Underground_Ruins_-_Transcript">
+                            <desc>Total lines in this episode? 156</desc>
+                            <text x="0" y="16150" font-size="25"
+                                >Secrets_of_the_Underground_Ruins</text>
+                            <line stroke="purple" x1="0" x2="156" y1="16200" y2="16200"
+                                style="stroke-width:70"/>
+                            <text x="181" y="16200">156</text>
+                        </g>
+                        <g id="The_Storys_End_-_Transcript">
+                            <desc>Total lines in this episode? 109</desc>
+                            <text x="0" y="16350" font-size="25">The_Story%2527s_End</text>
+                            <line stroke="green" x1="0" x2="109" y1="16400" y2="16400"
+                                style="stroke-width:70"/>
+                            <text x="134" y="16400">109</text>
+                        </g>
+                        <g id="Turnabout_Countdown_demo_-_Transcript">
+                            <desc>Total lines in this episode? 96</desc>
+                            <text x="0" y="16550" font-size="25">Turnabout_Countdown_(demo)</text>
+                            <line stroke="pink" x1="0" x2="96" y1="16600" y2="16600"
+                                style="stroke-width:70"/>
+                            <text x="121" y="16600">96</text>
+                        </g>
+                        <g id="The_Foreign_Turnabout_demo_-_Transcript">
+                            <desc>Total lines in this episode? 85</desc>
+                            <text x="0" y="16750" font-size="25">The_Foreign_Turnabout_(demo)</text>
+                            <line stroke="red" x1="0" x2="85" y1="16800" y2="16800"
+                                style="stroke-width:70"/>
+                            <text x="110" y="16800">85</text>
+                        </g>
+                        <g id="Turnabout_Academy_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 74</desc>
+                            <text x="0" y="16950" font-size="25">Turnabout_Academy - Part 1</text>
+                            <line stroke="green" x1="0" x2="74" y1="17000" y2="17000"
+                                style="stroke-width:70"/>
+                            <text x="99" y="17000">74</text>
+                        </g>
+                        <g id="Turnabout_Corner_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 74</desc>
+                            <text x="0" y="17150" font-size="25">Turnabout_Corner - Part 1</text>
+                            <line stroke="blue" x1="0" x2="74" y1="17200" y2="17200"
+                                style="stroke-width:70"/>
+                            <text x="99" y="17200">74</text>
+                        </g>
+                        <g id="Turnabout_Succession_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 47</desc>
+                            <text x="0" y="17350" font-size="25">Turnabout_Succession - Part
+                                1</text>
+                            <line stroke="purple" x1="0" x2="47" y1="17400" y2="17400"
+                                style="stroke-width:70"/>
+                            <text x="72" y="17400">47</text>
+                        </g>
+                        <g id="Mysterious_Labyrinthia_-_Transcript">
+                            <desc>Total lines in this episode? 40</desc>
+                            <text x="0" y="17550" font-size="25">Mysterious_Labyrinthia</text>
+                            <line stroke="green" x1="0" x2="40" y1="17600" y2="17600"
+                                style="stroke-width:70"/>
+                            <text x="65" y="17600">40</text>
+                        </g>
+                        <g id="The_Monstrous_Turnabout_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 30</desc>
+                            <text x="0" y="17750" font-size="25">The_Monstrous_Turnabout - Part
+                                3</text>
+                            <line stroke="pink" x1="0" x2="30" y1="17800" y2="17800"
+                                style="stroke-width:70"/>
+                            <text x="55" y="17800">30</text>
+                        </g>
+                        <g id="Special_Trial_2017_-_Transcript">
+                            <desc>Total lines in this episode? 29</desc>
+                            <text x="0" y="17950" font-size="25">Special_Trial_2017</text>
+                            <line stroke="red" x1="0" x2="29" y1="18000" y2="18000"
+                                style="stroke-width:70"/>
+                            <text x="54" y="18000">29</text>
+                        </g>
+                        <g id="Turnabout_Serenade_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 29</desc>
+                            <text x="0" y="18150" font-size="25">Turnabout_Serenade - Part 4</text>
+                            <line stroke="green" x1="0" x2="29" y1="18200" y2="18200"
+                                style="stroke-width:70"/>
+                            <text x="54" y="18200">29</text>
+                        </g>
+                        <g id="Fire_Festival_-_Transcript">
+                            <desc>Total lines in this episode? 28</desc>
+                            <text x="0" y="18350" font-size="25">Fire_Festival</text>
+                            <line stroke="blue" x1="0" x2="28" y1="18400" y2="18400"
+                                style="stroke-width:70"/>
+                            <text x="53" y="18400">28</text>
+                        </g>
+                        <g id="Reunion_-_Transcript">
+                            <desc>Total lines in this episode? 27</desc>
+                            <text x="0" y="18550" font-size="25">Reunion</text>
+                            <line stroke="purple" x1="0" x2="27" y1="18600" y2="18600"
+                                style="stroke-width:70"/>
+                            <text x="52" y="18600">27</text>
+                        </g>
+                        <g id="London_episode_-_Transcript">
+                            <desc>Total lines in this episode? 22</desc>
+                            <text x="0" y="18750" font-size="25">London_(episode)</text>
+                            <line stroke="green" x1="0" x2="22" y1="18800" y2="18800"
+                                style="stroke-width:70"/>
+                            <text x="47" y="18800">22</text>
+                        </g>
+                        <g id="Turnabout_Succession_-_Transcript_-_Part_5">
+                            <desc>Total lines in this episode? 22</desc>
+                            <text x="0" y="18950" font-size="25">Turnabout_Succession - Part
+                                5</text>
+                            <line stroke="pink" x1="0" x2="22" y1="19000" y2="19000"
+                                style="stroke-width:70"/>
+                            <text x="47" y="19000">22</text>
+                        </g>
+                        <g id="Festival_Fever_-_Transcript">
+                            <desc>Total lines in this episode? 21</desc>
+                            <text x="0" y="19150" font-size="25">Festival_Fever</text>
+                            <line stroke="red" x1="0" x2="21" y1="19200" y2="19200"
+                                style="stroke-width:70"/>
+                            <text x="46" y="19200">21</text>
+                        </g>
+                        <g id="Flour_Everywhere_-_Transcript">
+                            <desc>Total lines in this episode? 19</desc>
+                            <text x="0" y="19350" font-size="25">Flour_Everywhere</text>
+                            <line stroke="green" x1="0" x2="19" y1="19400" y2="19400"
+                                style="stroke-width:70"/>
+                            <text x="44" y="19400">19</text>
+                        </g>
+                        <g id="A_Fond_Farewell_-_Transcript">
+                            <desc>Total lines in this episode? 18</desc>
+                            <text x="0" y="19550" font-size="25">A_Fond_Farewell</text>
+                            <line stroke="blue" x1="0" x2="18" y1="19600" y2="19600"
+                                style="stroke-width:70"/>
+                            <text x="43" y="19600">18</text>
+                        </g>
+                        <g id="Making_Money_-_Transcript">
+                            <desc>Total lines in this episode? 17</desc>
+                            <text x="0" y="19750" font-size="25">Making_Money</text>
+                            <line stroke="purple" x1="0" x2="17" y1="19800" y2="19800"
+                                style="stroke-width:70"/>
+                            <text x="42" y="19800">17</text>
+                        </g>
+                        <g id="Shady_Types_-_Transcript">
+                            <desc>Total lines in this episode? 17</desc>
+                            <text x="0" y="19950" font-size="25">Shady_Types</text>
+                            <line stroke="green" x1="0" x2="17" y1="20000" y2="20000"
+                                style="stroke-width:70"/>
+                            <text x="42" y="20000">17</text>
+                        </g>
+                        <g id="Another_Visit_-_Transcript">
+                            <desc>Total lines in this episode? 16</desc>
+                            <text x="0" y="20150" font-size="25">Another_Visit</text>
+                            <line stroke="pink" x1="0" x2="16" y1="20200" y2="20200"
+                                style="stroke-width:70"/>
+                            <text x="41" y="20200">16</text>
+                        </g>
+                        <g id="Turnabout_Corner_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 15</desc>
+                            <text x="0" y="20350" font-size="25">Turnabout_Corner - Part 3</text>
+                            <line stroke="red" x1="0" x2="15" y1="20400" y2="20400"
+                                style="stroke-width:70"/>
+                            <text x="40" y="20400">15</text>
+                        </g>
+                        <g id="Turnabout_Revolution_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 15</desc>
+                            <text x="0" y="20550" font-size="25">Turnabout_Revolution - Part
+                                1</text>
+                            <line stroke="green" x1="0" x2="15" y1="20600" y2="20600"
+                                style="stroke-width:70"/>
+                            <text x="40" y="20600">15</text>
+                        </g>
+                        <g id="At_the_Market_-_Transcript">
+                            <desc>Total lines in this episode? 14</desc>
+                            <text x="0" y="20750" font-size="25">At_the_Market</text>
+                            <line stroke="blue" x1="0" x2="14" y1="20800" y2="20800"
+                                style="stroke-width:70"/>
+                            <text x="39" y="20800">14</text>
+                        </g>
+                        <g id="The_Magical_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 13</desc>
+                            <text x="0" y="20950" font-size="25">The_Magical_Turnabout - Part
+                                1</text>
+                            <line stroke="purple" x1="0" x2="13" y1="21000" y2="21000"
+                                style="stroke-width:70"/>
+                            <text x="38" y="21000">13</text>
+                        </g>
+                        <g id="Awkward_Moments_-_Transcript">
+                            <desc>Total lines in this episode? 11</desc>
+                            <text x="0" y="21150" font-size="25">Awkward_Moments</text>
+                            <line stroke="green" x1="0" x2="11" y1="21200" y2="21200"
+                                style="stroke-width:70"/>
+                            <text x="36" y="21200">11</text>
+                        </g>
+                        <g id="The_Monstrous_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 10</desc>
+                            <text x="0" y="21350" font-size="25">The_Monstrous_Turnabout - Part
+                                2</text>
+                            <line stroke="pink" x1="0" x2="10" y1="21400" y2="21400"
+                                style="stroke-width:70"/>
+                            <text x="35" y="21400">10</text>
+                        </g>
+                        <g id="The_Monstrous_Turnabout_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 8</desc>
+                            <text x="0" y="21550" font-size="25">The_Monstrous_Turnabout - Part
+                                4</text>
+                            <line stroke="red" x1="0" x2="8" y1="21600" y2="21600"
+                                style="stroke-width:70"/>
+                            <text x="33" y="21600">8</text>
+                        </g>
+                        <g id="The_Monstrous_Turnabout_-_Transcript_-_Part_1">
+                            <desc>Total lines in this episode? 7</desc>
+                            <text x="0" y="21750" font-size="25">The_Monstrous_Turnabout - Part
+                                1</text>
+                            <line stroke="green" x1="0" x2="7" y1="21800" y2="21800"
+                                style="stroke-width:70"/>
+                            <text x="32" y="21800">7</text>
+                        </g>
+                        <g id="Turnabout_Corner_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 7</desc>
+                            <text x="0" y="21950" font-size="25">Turnabout_Corner - Part 4</text>
+                            <line stroke="blue" x1="0" x2="7" y1="22000" y2="22000"
+                                style="stroke-width:70"/>
+                            <text x="32" y="22000">7</text>
+                        </g>
+                        <g id="The_Magical_Turnabout_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 5</desc>
+                            <text x="0" y="22150" font-size="25">The_Magical_Turnabout - Part
+                                2</text>
+                            <line stroke="purple" x1="0" x2="5" y1="22200" y2="22200"
+                                style="stroke-width:70"/>
+                            <text x="30" y="22200">5</text>
+                        </g>
+                        <g id="Turnabout_Academy_-_Transcript_-_Part_4">
+                            <desc>Total lines in this episode? 4</desc>
+                            <text x="0" y="22350" font-size="25">Turnabout_Academy - Part 4</text>
+                            <line stroke="green" x1="0" x2="4" y1="22400" y2="22400"
+                                style="stroke-width:70"/>
+                            <text x="29" y="22400">4</text>
+                        </g>
+                        <g id="On_a_Dark_and_Stormy_Night_-_Transcript">
+                            <desc>Total lines in this episode? 3</desc>
+                            <text x="0" y="22550" font-size="25">On_a_Dark_and_Stormy_Night</text>
+                            <line stroke="pink" x1="0" x2="3" y1="22600" y2="22600"
+                                style="stroke-width:70"/>
+                            <text x="28" y="22600">3</text>
+                        </g>
+                        <g id="Turnabout_Academy_-_Transcript_-_Part_3">
+                            <desc>Total lines in this episode? 3</desc>
+                            <text x="0" y="22750" font-size="25">Turnabout_Academy - Part 3</text>
+                            <line stroke="red" x1="0" x2="3" y1="22800" y2="22800"
+                                style="stroke-width:70"/>
+                            <text x="28" y="22800">3</text>
+                        </g>
+                        <g id="Turnabout_Academy_-_Transcript_-_Part_2">
+                            <desc>Total lines in this episode? 2</desc>
+                            <text x="0" y="22950" font-size="25">Turnabout_Academy - Part 2</text>
+                            <line stroke="green" x1="0" x2="2" y1="23000" y2="23000"
+                                style="stroke-width:70"/>
+                            <text x="27" y="23000">2</text>
+                        </g>
+                    </g>
+                </svg>
+            </figure>
         </section>
     </body>
 </html>
