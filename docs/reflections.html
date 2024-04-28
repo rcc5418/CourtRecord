@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Members</title>
+        <link rel="icon" type="image/x-icon" href="images/phoenixIcon.png" />
+        <link rel="stylesheet" href="webstyle.css" />
+        <meta charset="UTF-8" />
+        <meta name="author" content="Reece Cullen" />
+        <meta name="author" content="Kayla Hopple" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    </head>
+    <body>
+        <section>
+            <h2>Members</h2>
+            <nav id="menu">
+                <div class="button">
+                    <a href="index.html">Home</a>
+                </div>
+                <div class="button">
+                    <a href="data.html">Data</a>
+                </div>
+                <div class="button">
+                    <a href="analysis.html">Analysis</a>
+                </div>
+                <div class="button">
+                    <a href="aiCases.html">AI-Generated Cases</a>
+                </div>
+                <div class="button">
+                    <a href="members.html">Members</a>
+                </div>
+                <div class="button">
+                    <a href="reflections.html">Reflections</a>
+                </div>
+                <div class="button">
+                    <a href="https://github.com/rcc5418/CourtRecord" target="_blank">Github</a>
+                </div>
+            </nav>
+            <p>This page contains reflections from all the team members regarding hardships they
+                faced during our project's lifetime.</p>
+            <section class="characters">
+                <div class="bioImgDiv">
+                    <img src="images/Skye-Think.gif" alt="Ema Skye" class="bio" />
+                </div>
+                <p class="characters"><span class="character_name">Kayla Hopple</span><br /> One
+                    problem I had while developing this website was trying to make the background
+                    appear throughout the entire webpage without any white bars sticking out of it.
+                    I tried various CSS codes to adjust the size and position of the image, but it
+                    always led to white bars sticking out of the top and bottom no matter what. I
+                    then turned to ChatGPT for a solution, and it told me to adjust the margins in
+                    the body. I even had some problems making sure the text fit in the buttons,
+                    especially when I tried to adjust the size of both the buttons and the text,
+                    which I also contacted ChatGPT about, and it told me to adjust the size of the
+                    text and the padding, height, and width of the buttons to fit the text in the
+                    buttons.<br />Another problem was trying to make the word cloud have more
+                    relevant data. I tried to look for ways I could get rid of unnecessary words
+                    like "I," "an," "the," or "of," among others by trying to see if I could remove
+                    them within Antconc, but I could not find a way and then tried looking up ways
+                    to make it work. Using what I learned from there, I tried to find the
+                    suggestions within Antconc but had difficulty looking for them despite following
+                    the directions. Finally, I decided to make a whole new XML text corpus with the
+                    mentioned words removed with the "Find and Replace" feature by searching for
+                    each word and replacing it with a space. <br />What I thought we could do
+                    differently, other than making the AI work properly, is provide more visuals
+                    about data from different games, especially word clouds about the most frequent
+                    words. Other than that, we thought our website looked pretty well-made.<br />
+                </p>
+            </section>
+            <section class="characters">
+                <div class="bioImgDiv">
+                    <img src="images/Athena-Sad.gif" class="bio" alt="Athena Cykes" />
+                </div>
+                <p class="characters"><span class="character_name">Alyssa Hopple</span><br />As we
+                    worked on our project together, I faced some hardships with some of the tasks
+                    required for the completion of our semester project. As an assistant programmer,
+                    the hardest thing I did was use Regex to convert TXT to XML after the text had
+                    been extracted from the HTML pages of the ACE ATTORNEY Wiki. I had tried to use
+                    different kinds of Regex code, including some new Regex codes we have never
+                    learned in this class, to try to wrap around each line, marked by a specific
+                    character who said that line. Many parts of the TXT extracted from the Wiki
+                    includes "i" and "Leads to" elements, which I had a hard time getting rid of.
+                    With the assistance of Reece, as well as our professor, I have gotten less bugs
+                    as I utilized the right Regex codes for this portion of the semester project.
+                    <br />Another hardship I faced is tinkering with the PyVis used to highlight
+                    frequent terms said by all characters, which was a Jupyter notebook originally
+                    written by our professor. I attempted to adapt that Jupyter notebook into our
+                    research, but I received undesirable programming results. However, Reece decided
+                    to take the helm and come up with a different graph with a similar evaluation,
+                    which is the most frequent terms said by Phoenix Wright himself.</p>
+            </section>
+            <section class="characters">
+                <div class="bioImgDiv">
+                    <img src="images/Debeste-Conduct.gif" class="bio" alt="Sebastian Debeste" />
+                </div>
+                <p class="characters">
+                    <span class="character_name">Reece Cullen</span><br />For me, the biggest
+                    obstacle ended up being training the TensorFlow model to generate text. It
+                    involved so much fenagling with the example code to get it to work with our
+                    data, and then so long to train, that I kind of gave up on improving that model
+                    to try and generate something cohesive. I don't think that's a big loss,
+                    however, as the larger problem (I believe at least) is in our data. Everything
+                    is a bit too same-y, so when I would try to make the model less creative, it
+                    would just generate a bunch of super common words, like 'the', 'and', 'for',
+                    nothing unique to the Ace Attorney franchise. I wish I had chronicled all the
+                    generations I did more!<br /> Something I ended up doing for one of our
+                    visualizations was creating a sub-folder in our text corpus containing only the
+                    chapters of the <i>first</i> game. An interesting avenue we could've followed
+                    would be to create similar folders for all the games, and done analysis on each
+                    game separately then compared our results. However, this would've been an
+                    arduous process, not even I, a huge Ace Attorney fan, could do this without
+                    checking back and forth with the wiki over and over again. I didn't want to do
+                    this as it would've felt unnatural to me. If we had more time and a larger
+                    visualization/analysis quota I definitely would've done it.</p>
+            </section>
+        </section>
+    </body>
+</html>

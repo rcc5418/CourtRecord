@@ -19,11 +19,11 @@ body::after {
     background-size: cover;
 }
 a:link {
-    color: red;
+    color: #11d3ff;
     font-weight: bold;
 }
 a:visited {
-    color: gray;
+    color: purple;
 }
 .button {
     border: .5vw;
@@ -73,10 +73,10 @@ h2 {
 }
 img.bio,
 img.bioReece {
+    background-color: rgba(0, 32, 79, 0.9);
     flex: 0;
     width: 25vw;
-    height: auto;
-    min-width: 25%;
+    min-height: 25%;
     display: block;
     border: .7vw;
     border-style: outset;
